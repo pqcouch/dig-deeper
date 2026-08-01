@@ -1,0 +1,11 @@
+# Third-party source material (copyrighted, not for publishing)
+Acts/_sources/
+
+# OS / iCloud junk
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon?
+
+# stray editor artifact
+Philippians/zizAtCqU
