@@ -571,7 +571,7 @@ The four threads extracted from `book-overview-john` and held in peripheral visi
 1. **1:19 ↔ 10:40–42 is the book's first great bracket, and it closes with a verdict.** Not merely a geographic inclusio but a forensic one: the first witness is examined at 1:19 and vindicated at 10:41 in the book's own vocabulary (σημεῖον, ἀληθής). **13 of the Gospel's 17 σημεῖον references fall inside this bracket** (verified), and the last of them is the note that John himself worked none.
 2. **Psalm 82's own context is a sentence of death on unjust judges.** Move 1 changes the temperature of 10:34 considerably.
 
-**Solo dig: Standard.**
+**Solo dig: Tier 2** *(raised from Standard in v1.1 — this pericope closes the book's first great bracket, and the 10:41 verdict on the first witness was under-read on the first pass).*
 
 ---
 
@@ -1213,10 +1213,15 @@ Commissioned priority (3). Nineteen units are marked ⭐ HIGH; the sweep did **n
 | Priority | Units | Why |
 |----------|-------|-----|
 | **Tier 1 — dig before anything else** | **1:1–18** · **12:20–36** · **12:37–50** · **13:1–20** | These four carry the book's architecture. 1:1–18 plants nearly everything; 12:20–36 turns the hour; 12:37–50 is the seam; 13:1–20 is the hinge and the τίθησιν finding needs full triad work |
-| **Tier 2 — dig before preaching, dense or contested** | 1:19–34 · 3:1–21 · 4:1–42 · 5:19–47 · 6:22–59 · 7:1–52 · 8:31–59 · 9:1–41 · 10:1–21 · 11:1–44 | Each has an unresolved crux (the Lamb's dual source; the ἄνωθεν sense; the betrothal type-scene; the witness-law; the Ps 78 triad; **the 7:38 citation**; the Abrahamic "my day"; the γεννάω thread; Ezekiel 34) |
+| **Tier 2 — dig before preaching, dense or contested** | **5:19–47 (do this one first)** · 1:19–34 · 3:1–21 · 4:1–42 · 6:22–59 · 7:1–52 · 8:31–59 · 9:1–41 · 10:1–21 · **10:22–42** · 11:1–44 | Each has an unresolved crux (the Lamb's dual source; the ἄνωθεν sense; the betrothal type-scene; the witness-law; the Ps 78 triad; **the 7:38 citation**; the Abrahamic "my day"; the γεννάω thread; Ezekiel 34; Ps 82's death-sentence context). **5:19–47 leads because 5:22/5:27 — the defendant-and-judge reversal — is upstream of everything forensic in the book; do it before any other Tier 2 unit.** |
 | **Tier 3 — HIGH but better served by a solo dig on a neighbour** | 14:1–14 · 15:1–17 · 17:1–26 · 18:28–19:16 · 19:17–42 · 20:19–31 · 21:1–25 | Load-bearing, but the sweep has already surfaced their principal threads and each depends on a Tier 1/2 unit being done first |
-| **Standard** | the remaining 15 units | Normal preparation |
+| **Standard** | the remaining 14 units | Normal preparation |
 | **Special case** | [7:53–8:11] | ⭐ HIGH *if preached*; the work required is textual, not exegetical |
+| **Single-verse candidate** | **7:38** (and its punctuation) | Not a pericope but a crux worth a dig in its own right — see below |
+
+**Revised in v1.1.** The triage was originally fixed against the v1.0 findings and needed correcting once the forensic frame was integrated. Two changes: **10:22–42 moves from Standard to Tier 2** — it closes the book's first great bracket and contains the 10:41 verdict on the first witness, which v1.0 recorded as a merely geographic inclusio; and **5:19–47 is promoted to first place within Tier 2**, since 5:22/5:27 is the textual anchor of the defendant-and-judge reversal and everything forensic downstream assumes it. 12:12–19 gains the ἴδε finding but stays Standard: the finding is now recorded and verified, so it does not need a dig to surface it.
+
+**A note on single-verse digs.** The toolkit supports them — its own filename convention offers `dig-deeper-john-3-16` as an example — and John rewards them at a handful of points where a single verse carries an unresolved crux rather than a pericope-level argument. The clear candidate in this book is **7:38**, which needs two distinct pieces of work: identifying the source of an explicit citation that matches no OT text (candidates: Zech 14:8; Ezek 47:1–12; Isa 58:11; Ps 78:15–16; Prov 18:4), and settling the punctuation, since "out of *his* heart" may refer to the believer or to Christ and the two readings produce different sermons. A single-verse run would give both the full OT Citation Triad and a proper textual-variant pass, which a pericope-level dig on 7:1–52 would inevitably compress. Secondary candidates on the same logic: **1:18** (μονογενὴς θεός and the θεός-inclusio), **19:36** (Exodus or Psalm 34), and **20:31** (aorist or present subjunctive — the book's stated purpose turns on it).
 
 **Already covered by existing solo digs:** John 6 and John 7:1–10:21 have full solo runs. The sweep re-worked both from the text and found **no contradictions**; it adds the γογγύζω count, the συνάγω 6:12→11:52 link, and the κράζω reversal to what those runs hold.
 
