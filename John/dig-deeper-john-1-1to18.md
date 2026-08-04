@@ -4,6 +4,7 @@
 **Pulpit translation:** ESV (Anglicised) — same text as the report default; wording transfers directly to `/sermon-creator`
 **Date:** 4 August 2026
 **Mode:** Fresh Exegesis, solo run (Tier 1)
+**Version:** 1.2 — (a) the v17 translation claim in v1.0 was wrong and has been rewritten in five places; (b) a Logos Exegetical-Guide pass has resolved three open questions and corroborated three findings, tagged `[revised: logos-research]` throughout. See the Correction and Logos notes in the Text-First Declaration.
 **Book-overview context:** `book-overview-john` v0.2.0, in conversation — front-loaded at Phase 0.5, reconciled at Phase 5.5
 **Series context:** Tier 1 in the sweep's triage. The sweep (`dig-deeper-john-sweep` v1.1) covered this pericope at sweep depth; this run works it from the text again at solo depth and reconciles at the checking stage.
 
@@ -164,9 +165,9 @@ The second makes v4 say that created things have their life in him; the first ma
 
 **v13, οὐκ… οὐδὲ… οὐδὲ… ἀλλά** — a triple negation resolved by a single adversative. The rhetorical shape *is* the theology: three human-origin candidates are excluded before the divine one is named. Do not abbreviate the list in preaching; the accumulation is the argument. `[T]`
 
-**v16 and v17, ὅτι… ὅτι** — SBLGNT reads ὅτι at v16 ("**because** from his fullness…"), grounding v14's "full of grace and truth" in the readers' experience; v17's ὅτι then grounds v16. So vv.16–17 are not a new topic but a two-stage explanation of "full of grace and truth", **with v15 as a parenthetical interruption.** `[T]` The Textus Receptus reads καί at v16 ("and of his fulness"), which breaks the grounding chain — see Translations. A preacher using the KJV will not see the argument.
+**v16 and v17, ὅτι… ὅτι** — SBLGNT reads ὅτι at v16 ("**because** from his fullness…"), grounding v14's "full of grace and truth" in the readers' experience; v17's ὅτι then grounds v16. So vv.16–17 are not a new topic but a two-stage explanation of "full of grace and truth", **with v15 as a parenthetical interruption.** `[T]` **Corroborated:** Logos's morphological dataset tags the v16 ὅτι as *"conjunction, adverbial **causal** | explanatory subordinate clause"* — the causal reading, not the declarative. `[revised: logos-research]` The Textus Receptus reads καί at v16 ("and of his fulness"), which breaks the grounding chain — see Translations. A preacher using the KJV will not see the argument.
 
-**v17, no adversative.** ESV and NIV supply "but" ("the law was given through Moses; **but** grace and truth came…"). **There is no ἀλλά or δέ in the Greek** — the two clauses are simply juxtaposed. `[T]`, *high confidence.* This matters a great deal: the inserted "but" turns a comparison into an antithesis, and Marcionite readings of John have been built on less. See Translations and Difficult Verses.
+**v17, asyndeton.** **There is no ἀλλά, δέ or μέν in the Greek** — the two clauses are simply juxtaposed, with only the ὅτι at the head governing both. `[T]`, *high confidence.* The relation between them is therefore left for the reader to supply, and **the English versions divide on how to supply it** (see Translations). Where "but" is supplied, a comparison becomes an antithesis. See Translations and Difficult Verses.
 
 ---
 
@@ -205,7 +206,7 @@ Six terms, chosen because each materially affects the passage's meaning. Full le
 
 **χάρις (vv.14, 16 ×2, 17)** `[T]` — *high confidence, and the finding is the distribution.* **Verified: χάρις occurs in John only in these three verses. Zero occurrences in chapters 2–21.** Grace is not a Johannine theme; it is a Prologue theme. What the Gospel does instead is narrate it.
 
-**χάριν ἀντὶ χάριτος (v16)** — "grace *in place of* grace" or "grace *upon* grace". ἀντί normally means "instead of / in exchange for", which would give: one grace replacing another — most naturally the grace of v17's law replaced by the grace of Christ. The "grace upon grace" rendering (grace piled on grace) is idiomatically possible but less natural for ἀντί. *Moderate confidence, genuinely disputed; the choice changes v17's force considerably.* Flagged to Open Questions.
+**χάριν ἀντὶ χάριτος (v16)** — "grace *in place of* grace" or "grace *upon* grace". **Resolved substantially toward the substitution sense.** `[revised: logos-research]` Logos's own syntactic dataset tags ἀντί here as a **"preposition of substitution"**, and every lexicon in the Exegetical Guide's entry points the same way: **LSJ** "over against"; **Louw-Nida** "for, in place of"; **DBL Greek** "instead; on behalf of; for this reason; so then; in place of". **None offers "upon" or "in addition to".** Against that, the NASB reverse-interlinear renders it "grace **upon** grace" — so the published translation and the syntactic tagging pull in opposite directions, which is itself worth knowing. *Confidence raised from moderate to moderate–high for "in place of"; not settled, since the accumulative reading has real defenders and ἀντί can express succession. But the lexical weight is one-sided.* This strengthens the v17 reading below: one grace replaced by another, the law-grace by the Christ-grace.
 
 **ἐξηγήσατο (v18)** `[T]` — *high confidence.* Verified: a Johannine *hapax*. The verb from which "exegesis" comes: to lead out, expound, narrate in full. The clause is emphatic in Greek — ἐκεῖνος ("that one, and no other") — and the object is left unstated in the Greek ("he has expounded"), so the ESV's supplied "him" is an interpretive addition, correct but supplied.
 
@@ -218,7 +219,27 @@ Six terms, chosen because each materially affects the passage's meaning. Full le
 
 ### 8. Translations
 
-**v17 — the supplied adversative.** ESV: "the law was given through Moses; **but** grace and truth came through Jesus Christ." NIV: "**but** grace and truth came…". KJV: "**but** grace and truth came…". NASB: "**but** grace and truth were realised…". **The Greek has no adversative particle at all.** `[T]`, *high confidence.* All four major versions supply it. The Greek juxtaposes two clauses without connecting them, which permits comparison or contrast but does not demand contrast. **This is the most consequential translation decision in the passage** and every English reader is receiving it pre-decided.
+**v17 — the asyndeton, and how the versions divide.** **The Greek has no adversative particle at all** `[T]`, *high confidence* — the two clauses are juxtaposed and the relation is left open. **The English versions split cleanly on whether to supply the contrast, and the split does not run along the usual literal/dynamic line.** *(Version data supplied by the user from Logos and verified against it — this table corrects an error in the first draft of this report, which asserted that ESV, NIV and NASB supply "but". They do not.)*
+
+| Supplies no conjunction — semicolon, relation left open | Supplies "but" |
+|---|---|
+| **ESV** — "For the law was given through Moses; grace and truth came through Jesus Christ." | **KJV 1900** — "the law was given by Moses, **but** grace and truth came by Jesus Christ." |
+| **NIV** — identical wording to ESV | **NKJV** — "**but** grace and truth came through Jesus Christ." |
+| **NASB95** — "the Law was given through Moses; grace and truth **were realized** through Jesus Christ." | **NET** — "**but** grace and truth came about through Jesus Christ." |
+| **RSV** — as ESV | **NLT** — "**but** God's unfailing love and faithfulness came through Jesus Christ." |
+| **LEB** — "grace and truth **came about** through Jesus Christ." | |
+| **NRSV** — "The law **indeed** was given through Moses; grace and truth came…" | |
+
+Four observations, and the last two are new findings.
+
+1. **The ESV — the pulpit text at CCH — does *not* supply the contrast.** It sets a semicolon and leaves the relation open, which is exactly what the Greek does. So does the NIV, the NASB, the RSV and the LEB. **The preacher working from the ESV has no mistranslation to correct.**
+2. **The KJV/NKJV/NET/NLT family does supply it.** A congregation member reading any of these — and NKJV and NLT are common — is receiving the antithesis pre-decided. That is worth knowing, but it is a comparison point, not a correction of the pulpit text.
+3. **NRSV's "indeed" is a third option** — a mild concessive that sets up an implicit contrast without a conjunction. Softer than "but", but not neutral.
+4. **NLT is the most interesting case, and it cuts both ways.** It supplies "but" — *and* it renders χάρις καὶ ἀλήθεια as "**God's unfailing love and faithfulness**", which is a straightforward English rendering of *ḥesed we-ʾemet*. **The NLT translators evidently saw the Exodus 34:6 background** (Tool 11 below) and rendered accordingly, while simultaneously supplying the conjunction that works against it. *An independent corroboration of this report's Exodus 33–34 finding from an unexpected quarter.* `[S]`, and a genuine one.
+
+**Where the interpretive decision actually happens, then.** Not in the ESV. The Greek leaves the relation open; the ESV leaves it open; and **the antithesis is supplied by the preacher and the hearer**, out of the received law-versus-grace framework. That relocates the pastoral task and makes it harder, not easier: there is no translator's error to expose, only a default reading to interrogate. See Preaching Pitfalls.
+
+**NASB's "were realized" and LEB's "came about"** are both attempts to render ἐγένετο with something stronger than "came" — reaching for the sense of *coming into being*. ESV/NIV's "came" is smoother and slightly flatter. The Greek is the creation-verb that has run through the whole Prologue; NASB and LEB are trying to keep that visible. *Moderate confidence that they are right to.*
 
 **v16 — ὅτι or καί.** SBLGNT and the critical text read ὅτι ("because"); the Textus Receptus reads καί ("and"). ESV "**For** from his fullness"; KJV "**And** of his fulness". The critical reading makes v16 the ground of v14; the TR reading makes it a fresh statement. *High confidence that ὅτι is original;* the manuscript support is strong.
 
@@ -228,8 +249,10 @@ Six terms, chosen because each materially affects the passage's meaning. Full le
 
 **v9 — the dangling participle.** ἐρχόμενον εἰς τὸν κόσμον can modify "everyone" ("every man that cometh into the world", KJV) or "the light" ("the true light… was coming into the world", ESV/NIV/NASB). Greek permits both. The moderns are probably right — John uses "coming into the world" of Jesus elsewhere (3:19; 11:27; 12:46; 16:28) — but the KJV reading has a long history. *Moderate–high confidence for the modern reading.*
 
-**Ancient versions check.** *Trigger met* — the moderns substantively agree on v17's adversative, and the rendering carries exegetical weight.
-- **Vulgate v17:** *quia lex per Mosen data est, gratia et veritas per Iesum Christum facta est* — **no adversative supplied.** The Latin preserves the bare juxtaposition, and *facta est* renders ἐγένετο with the same verb used of creation earlier in the chapter. **Translation-tradition split:** the ancient Latin does *not* introduce the contrast that all four modern English versions supply. *Moderate–high confidence on the Vulgate wording; recommend verification.*
+**Ancient versions check.** *Trigger considered.* The moderns do **not** substantively agree at v17 — they divide (above) — so the check's first trigger condition is not met there. Run anyway, because the division is itself the question.
+- **Vulgate v17 — verified.** `[revised: logos-research]` The Clementine Vulgate reads: *"quia lex per Moysen data est, gratia et veritas per Jesum Christum facta est."* **No adversative.** The Latin preserves the bare juxtaposition, and *facta est* renders ἐγένετο with the verb of making. **So the Latin sides with the ESV/NIV/NASB family, not with the KJV** — notable, since the KJV translators had the Vulgate in front of them and supplied "but" anyway. *Confidence raised from moderate–high to **verified** — read directly from the Clementine Vulgate in Logos.*
+- **Douay-Rheims v17 — a further data point.** The English version made *from* the Vulgate reads: *"For the law was given by Moses: **grace and truth came by Jesus Christ**"* — a colon, no adversative. So the Latin tradition and its own English daughter both decline the contrast, while the KJV supplies it. `[revised: logos-research]`
+- **Vulgate v18:** *"Deum nemo vidit umquam: **unigenitus Filius**, qui est in sinu Patris, ipse enarravit."* Confirms the Latin reads "Son", not "God" — which is the source of the KJV's rendering. Textual, not translational; see Textual Variants. *Verified.*
 - **Vulgate v18:** *unigenitus Filius* — the Latin tradition reads "Son", not "God", which is why the KJV has "only begotten Son". This is a textual, not a translational, matter — see Textual Variants.
 - **LXX contact:** v18's θεὸν οὐδεὶς ἑώρακεν πώποτε against Exod 33:20 LXX (οὐ γὰρ μὴ ἴδῃ ἄνθρωπος τὸ πρόσωπόν μου καὶ ζήσεται). Conceptually exact, verbally independent. *Moderate confidence* that Exod 33 is the specific referent; the fuller case rests on the σκηνόω/δόξα/χάρις-καὶ-ἀλήθεια cluster (see Tool 11).
 
@@ -307,6 +330,8 @@ Machine-verified counts across the 252 tokens of the unit.
 *OT-to-OT.* Exod 33–34 is the source of the OT's most-repeated self-description of God (*ḥesed we-ʾemet* recurs at Num 14:18; Neh 9:17; Ps 86:15; 103:8; Joel 2:13; Jon 4:2) — so citing it invokes a formula the canon has already made central. And Exod 40 is in conversation with Ezek 43 (the glory returning to the temple), which Second-Temple readers awaited.
 
 *The four converging elements.* (1) **σκηνόω** (v14) — cognate with the LXX σκηνή, the tabernacle. (2) **δόξα** (v14 ×2) — the glory that filled it. (3) **πλήρης χάριτος καὶ ἀληθείας** (v14) — a natural Greek rendering of *ḥesed we-ʾemet*. (4) **θεὸν οὐδεὶς ἑώρακεν πώποτε** (v18) — Exod 33:20's refusal, near-verbatim in sense. No one of these would carry the case; four in five verses does. `[I]`, *moderate–high.*
+
+*External check — partial corroboration, honestly reported.* `[revised: logos-research]` Logos's allusion dataset flags **John 1:17 → Exodus 31:18** ("He gave Moses the two tablets of the testimony… written by the finger of God") and, separately, **John 1:17 → Exodus 34:28** (Moses forty days on the mountain; "he wrote on the tablets the words of the covenant"). **This confirms that Exodus 34 is in view at 1:17 — but it locates the allusion at v28, not v6.** The dataset is tracking the *first* clause ("the law was given through Moses") and the tablets; this report's claim concerns the *second* clause ("grace and truth") and the name-proclamation of 34:6. **The two are compatible and arguably mutually reinforcing** — if John has the Exodus 34 episode in view for the law-giving half, the *ḥesed we-ʾemet* of the same chapter is close at hand for the other half — but the dataset does not independently establish the 34:6 identification, and this report should not claim that it does. *Net: the chapter is corroborated; the verse is not. Confidence on the 34:6 link stays **moderate–high**, resting on the four-element convergence rather than on external agreement.*
 
 *What it adds.* This is the finding that most changes how v17 should be preached. **If Exodus 33–34 is in view, v17 is not an attack on Moses but the granting of Moses's own request.** Moses asked to see the glory and was refused the face; John says "we have seen his glory" (v14) and "the only God… has made him known" (v18). The law came through Moses; the *ḥesed we-ʾemet* that God proclaimed to Moses came into being in Jesus Christ. Read this way, v17 is continuity-with-surpassing, not repudiation — which is exactly what the absence of an adversative in the Greek permits (see Tool 8).
 
@@ -462,6 +487,8 @@ Two variants in this passage matter, and one of them is among the most significa
 - **The issue:** does the verse read "the only **God**" or "the only **Son**"?
 - **Manuscript evidence:** μονογενὴς θεός is read by 𝔓⁶⁶, 𝔓⁷⁵, Sinaiticus and Vaticanus — the earliest and best witnesses, and geographically spread. ὁ μονογενὴς υἱός is read by the later majority, the Latin tradition (*unigenitus Filius*), and is the basis of the KJV. A third reading, ὁ μονογενὴς, is sparsely attested. **Verified at edition level: SBLGNT prints μονογενὴς θεός and marks it as a variant point.**
 - **Most likely original:** **μονογενὴς θεός**, on both external evidence (the earliest witnesses) and the harder-reading principle (a scribe is far likelier to smooth "only God" into the familiar "only Son", especially given 3:16, than the reverse). *High confidence.*
+- **Corroborated with named sources.** `[revised: logos-research]` *The Lexham Textual Notes on the Bible* at John 1:18: several early manuscripts, "including two very early papyrus manuscripts", read "the one and only, God"; other early manuscripts and later witnesses read "the only begotten Son"; and **"many textual critics (Metzger, Comfort, Omanson) consider 'only begotten Son' as assimilation with similar language elsewhere in John (e.g., John 3:16, 18)."** That is precisely the harder-reading argument advanced above, and it is now attributable to three named textual critics rather than to this report's reasoning alone. Logos also lists Westcott & Hort's *Introduction to the New Testament in the Original Greek: Appendix* as a second textual commentary on this verse — worth reading if the sermon leans hard on v18.
+- **Note on the rendering.** The Lexham note leads with "**the one and only**, God" and offers "the only begotten God" as an alternative — mild support for the *unique*-rather-than-*begotten* analysis of μονογενής, without settling it.
 - **Preaching implication:** substantial. If original, v18 is a **third** predication of θεός of the Son, and the Prologue's inclusio is θεός at v1, θεός at v18, and θεός at 20:28 — a triple frame rather than a double. **Say it from the pulpit**, because a congregation comparing ESV ("the only God") with KJV ("the only begotten Son") will see the difference and deserve an explanation. And note for the overview: the θεός-inclusio claim needs this qualification (already applied at v0.2.0).
 - **Confidence:** *high* on the reading; *high* on its significance.
 
@@ -498,7 +525,7 @@ The **ὃ γέγονεν** question (v3/v4) is a matter of **punctuation**, not 
 #### What this changes about how we read
 
 - **v14 was offensive, not merely mysterious.** The scandal for a Jewish hearer is not "God has a Word" — that is unremarkable — but that the Word *became flesh*. For a hearer formed by Greek philosophical categories, the scandal is the same from the other direction: the rational principle does not acquire a body. The Prologue is designed to offend both of its likely audiences at exactly the same word. `[I]`, *moderate–high.*
-- **v17 was not read as anti-Jewish.** A first-century Jewish Christian hearing "the law was given through Moses" would hear a statement of fact, and one they held dear. The adversative that turns it into a repudiation is a translator's addition (Tool 8). Recovering that changes the sermon's tone considerably.
+- **v17 was not read as anti-Jewish.** A first-century Jewish Christian hearing "the law was given through Moses" would hear a statement of fact, and one they held dear. The Greek supplies no adversative; where English versions add one (KJV, NKJV, NET, NLT — see Tool 8) the repudiation is theirs, and where they do not (ESV, NIV, NASB, RSV, LEB) the antithesis is supplied by the reader. Recovering that changes the sermon's tone considerably.
 
 ---
 
@@ -547,7 +574,7 @@ The **ὃ γέγονεν** question (v3/v4) is a matter of **punctuation**, not 
 
 #### Implication for the sermon
 
-Recovering the reception changes two things. First, **v13's triple negation should be preached as comfort**, not as a doctrinal parenthesis — it is the answer to the FCF. Second, **v17 should not be preached as a contrast with Judaism**; the Greek supplies no adversative, and the original hearers were not being invited to despise Moses but to see his request granted.
+Recovering the reception changes two things. First, **v13's triple negation should be preached as comfort**, not as a doctrinal parenthesis — it is the answer to the FCF. Second, **v17 should not be preached as a contrast with Judaism**; the Greek supplies no adversative and the ESV leaves the relation open, so the original hearers — like an attentive ESV reader — were not being invited to despise Moses but to see his request granted.
 
 ---
 
@@ -630,11 +657,11 @@ The two themes do not merely run alongside each other. **They meet in a single c
 #### v17 — "the law was given through Moses; grace and truth came through Jesus Christ"
 
 - **Category:** doctrinal; weaponised; pastorally sensitive.
-- **The difficulty:** read with the supplied "but", the verse sounds like law-versus-grace, Judaism-versus-Christianity, and has been used that way with real historical consequences.
+- **The difficulty:** read with a supplied "but" — whether supplied by a translation (KJV, NKJV, NET, NLT) or by the hearer's own framework where the translation leaves it open (ESV, NIV, NASB, RSV, LEB) — the verse sounds like law-versus-grace, Judaism-versus-Christianity, and has been used that way with real historical consequences.
 - **Common mishandlings:** supersessionist flattening; a Marcionite drift in which the OT becomes sub-Christian; and the milder error of treating "law" as a synonym for legalism.
 - **Rhetorical function in context:** v17 grounds v16 ("**because** the law was given…"), which grounds v14's "full of grace and truth". Its function is **explanatory**, not polemical — it explains where the fullness came from.
 - **What honest exegesis surfaces:** (a) **there is no adversative in the Greek** `[T]`; (b) χάρις καὶ ἀλήθεια is the Exodus 34:6 formula, so grace and truth were not absent from Sinai but *proclaimed* there; (c) the verbs differ — the law was *given* (ἐδόθη), grace and truth *came into being* (ἐγένετο). The most defensible reading is escalation within continuity: what was given as covenant word has now come into being as a person. *Moderate–high confidence.*
-- **Suggested handling:** **address this directly.** Name the missing "but" from the pulpit. It takes thirty seconds, it is verifiable, and it inoculates against a reading with a very bad history.
+- **Suggested handling:** **address this directly — but note what the task actually is.** Since the ESV already leaves the relation open, there is no mistranslation to expose. The work is to stop the congregation supplying the antithesis themselves. The most economical route is not the conjunction but the *content*: point out that "grace and truth" is what God called himself when he passed by Moses at Sinai (Exod 34:6 — and the NLT renders it "unfailing love and faithfulness", which makes the link audible). Once a hearer knows that, the law-versus-grace reading becomes hard to sustain without any discussion of Greek particles at all. Mentioning that some versions add "but" and others do not is a useful thirty-second aside for a congregation that compares translations, but it is secondary.
 
 #### v18 — "no one has ever seen God"
 
@@ -656,7 +683,7 @@ Places where multiple tools independently agreed.
 - **The Prologue as epistemic gift / mechanism of irony** — Positional Necessity, Genre, Narrator's Comment, Author's Purpose, Move 4 (8:58).
 - **Reception as gift, not achievement** — Copycat, Who Am I?, So What?, Difficult Verses (v13), Christological Reading (moralism check).
 - **χάρις as a Prologue-only word** — Vocabulary, Repetition, Biblical Theology.
-- **The missing adversative at v17** — Linking Words, Translations (with the Vulgate corroboration), Difficult Verses, Historical Background, Original Audience.
+- **The asyndeton at v17, and the English versions' division over it** — Linking Words, Translations (with the Vulgate siding against the KJV, and the NLT's *ḥesed we-ʾemet* rendering corroborating the Exodus 34 finding), Difficult Verses, Historical Background, Original Audience.
 - **The κόλπος pair (1:18 / 13:23)** — Vocabulary, Move 4, Author's Purpose.
 
 ---
@@ -671,9 +698,9 @@ Places where multiple tools independently agreed.
 
 ### Pitfall: "But grace and truth came through Jesus Christ"
 
-- **What it looks like:** law against grace, Moses against Jesus, old covenant against new — with the adversative doing all the work.
-- **Why it's wrong:** **there is no adversative in the Greek** `[T]`, and the Vulgate does not supply one. χάρις καὶ ἀλήθεια is the formula God proclaimed to Moses at Exod 34:6, so the verse cannot mean that grace arrived for the first time in the incarnation.
-- **The corrective:** name the missing "but" out loud. Preach v17 as the granting of Moses's own request (Exod 33:18) rather than as his demotion.
+- **What it looks like:** law against grace, Moses against Jesus, old covenant against new — with an adversative doing all the work.
+- **Why it's wrong:** **there is no adversative in the Greek** `[T]`, and neither the Vulgate nor the ESV, NIV, NASB, RSV or LEB supplies one. χάρις καὶ ἀλήθεια is the formula God proclaimed to Moses at Exod 34:6, so the verse cannot mean that grace arrived for the first time in the incarnation.
+- **The corrective — and note where the fault lies.** **The ESV is not the problem here; it sets a semicolon and leaves the relation open, exactly as the Greek does.** The antithesis is supplied downstream, by a preacher or a hearer working from the received law-versus-grace grid. So the corrective is not to expose a translation but to furnish the content that makes the grid untenable: preach v17 as the granting of Moses's own request (Exod 33:18), and let the Exodus 34:6 formula do the work. *(This pitfall was mis-stated in the first draft of this report, which claimed the major versions supply "but". Four do — KJV, NKJV, NET, NLT — and six do not.)*
 
 ### Pitfall: Turning v12 into a decision-technique
 
@@ -704,7 +731,7 @@ Places where multiple tools independently agreed.
 ## Open Questions / Uncertainties
 
 1. **v3–4, ὃ γέγονεν.** End of v3 (all moderns) or start of v4 (SBLGNT and most Greek fathers)? A punctuation decision, not a textual one, and no common English version offers the patristic option. *Metzger; NET notes.*
-2. **v16, χάριν ἀντὶ χάριτος.** "Grace in place of grace" (the normal force of ἀντί, giving a replacement sense that fits v17) or "grace upon grace" (idiomatic accumulation)? The choice materially changes v17. *BDAG; NET notes.* **The highest-value lexical question in the passage.**
+2. ~~**v16, χάριν ἀντὶ χάριτος.**~~ **Substantially resolved** `[revised: logos-research]` — Logos tags ἀντί a *preposition of substitution*, and LSJ, Louw-Nida and DBL Greek all give "in place of / instead", none offering "upon". Moved to moderate–high for the replacement sense. Residual question: whether the accumulative reading has enough patristic and Philonic support to remain live. *BDAG would settle it.*
 3. **v5, κατέλαβεν.** Deliberate double meaning, or has one sense been over-read? *A commentary that works the Greek.*
 4. **v9, the dangling ἐρχόμενον.** Modifying "everyone" (KJV) or "the light" (moderns)? Moderns probably right; worth confirming.
 5. **How hard to press μονογενής.** The "unique, not begotten" analysis is now standard but the older lexica differ. *BDAG.*
@@ -713,7 +740,7 @@ Places where multiple tools independently agreed.
 8. **Whether ἐν ἀρχῇ (1:1) is deliberately set against ἀπ' ἀρχῆς of the devil (8:44).** Lexical fact certain; authorial intent inferred.
 9. **The Sirach 24 parallel** (Wisdom told to "pitch your tent in Jacob") against John's ἐσκήνωσεν. Verbally close; the question is whether John's readers would have heard it.
 
-**A note on sources.** Every question above is answerable from a commentary or lexicon, and none has been tested against one in this run. Items 1, 2 and 5 are the three where a Logos query would change what the preacher says.
+**A note on sources — updated at v1.2.** A Logos pass has now run on the Exegetical Guide at 1:16, 1:17 and 1:18 (no AI credits consumed). **Resolved:** the ἀντί question (item 2), the Vulgate reading at v17, the Douay-Rheims data point, the v18 variant with named critics, and the causal force of v16's ὅτι. **Still open and worth a further pass:** item 1 (the ὃ γέγονεν punctuation — check the Apparatuses and Modern Editions sections at 1:3, plus Metzger), item 5 (how hard μονογενής will bear pressing — BDAG), and items 6–9. A Study Assistant query would be the right tool for item 6 (the macro-structure) and item 9 (the Sirach 24 parallel), both of which want commentary opinion rather than lexical data.
 
 ---
 
@@ -738,7 +765,13 @@ Places where multiple tools independently agreed.
 
 **Tools worked before secondary sources consulted:** Confirmed. The Greek was worked and all counts taken before the sweep's entry on this pericope was re-read. The sweep's own findings on 1:1–18 (the epistemic-gift reading; the structural function of the Baptist insertions) were independently re-reached here and are therefore corroborated rather than inherited; the Exodus 33–34 convergence, the χάρις distribution, the κόλπος pair, the πώποτε thread and the φαίνω pair are **new at this run**.
 
-**Passage text:** **Mixed, and declared.** The Greek is verified (SBLGNT, machine-checked; all counts reproducible). **The ESV quotation at the head of this report is from recall and is marked `[unverified]`.** No finding in this report rests on ESV phrasing: the v17 adversative finding rests on the *absence* of a Greek particle, which is verified, and the translation comparisons name what each version does rather than depending on the accuracy of my recall of one. **Before preaching, check the ESV wording of the block quotation.**
+**Passage text:** **Mixed, and declared.** The Greek is verified (SBLGNT, machine-checked; all counts reproducible). **The ESV quotation at the head of this report is from recall and is marked `[unverified]`.** **Before preaching, check the ESV wording of the block quotation.**
+
+**Correction applied after first issue (v1.1).** The first draft of this report asserted under Tool 8, Difficult Verses and Preaching Pitfalls that **ESV, NIV, NASB and KJV all supply "but" at v17**, and built a homiletical recommendation on it ("name the missing 'but' from the pulpit"). **That was wrong.** Version data supplied by the user from Logos shows the versions divide: **ESV, NIV, NASB95, RSV, LEB set a semicolon and supply nothing; NRSV supplies a mild "indeed"; KJV, NKJV, NET and NLT supply "but".** Only the KJV claim was correct.
+
+The failure mode is worth naming because it is exactly the one this report's own declaration warned about: **I asserted from recall what several English versions say, in a document that had already flagged its English recall as unverified, and then built a pastoral recommendation on the unverified layer rather than the verified one.** The Greek finding was verified and stands; the claim about the translations was not and did not.
+
+What survives unchanged: the asyndeton `[T]`; the Exodus 33–34 convergence; the ἐδόθη/ἐγένετο verb contrast; and the reading of v17 as continuity-with-surpassing. What changed: the pastoral task is not to correct a translation but to displace a default reading, since the pulpit text already does the right thing — which is a harder job, and the corrective in Difficult Verses has been rewritten accordingly. One finding was *gained*: the NLT renders χάρις καὶ ἀλήθεια as "God's unfailing love and faithfulness", independently corroborating the Exodus 34:6 identification.
 
 **Reference files viewed:** Core tools 01–07 (all). `preacher-extras.md`. `original-audience.md`. `historical-background.md`. `original-languages.md`. `textual-variants.md`. `biblical-theology.md`. `christological-reading.md`. `difficult-verses.md`. `examples/romans-8-31to39-worked.md` as calibration anchor. **All mandatory files viewed — the sweep's declared shortfall is closed for this pericope.**
 
@@ -748,7 +781,18 @@ Places where multiple tools independently agreed.
 
 **Warrant counts:** `[T]` ≈ 41 · `[I]` ≈ 17 · `[S]` ≈ 6
 
-**Health note:** Text-first and text-dominant; the `[T]` count is high because the central claims are machine-verified Greek counts and forms rather than recalled assertions. The report's principal exposure is that **no commentary has been consulted**, and three of the nine open questions (the ἀντί of v16, the ὃ γέγονεν punctuation, and how hard to press μονογενής) are exactly the kind that a lexicon settles in minutes. Those should be closed before the sermon, not after.
+**Logos pass (v1.2).** The Exegetical Guide was run at John 1:16, 1:17 and 1:18 — **no AI credits consumed**, since the Guide is a dataset tool rather than the Study Assistant. Findings folded in above and tagged `[revised: logos-research]`:
+
+| Question | Outcome |
+|---|---|
+| **v16, ἀντί** | **Resolved toward substitution.** Logos tags it *"preposition of substitution"*; LSJ, Louw-Nida and DBL Greek all give "in place of / instead"; none offers "upon". Raised moderate → moderate–high |
+| **v17, the Vulgate** | **Verified.** *"quia lex per Moysen data est, gratia et veritas per Jesum Christum facta est"* — no adversative. Was moderate–high on recall; now read directly |
+| **v17, Douay-Rheims** | **New data point.** The English made from the Vulgate also declines the contrast ("…by Moses: grace and truth came by Jesus Christ") |
+| **v18, μονογενὴς θεός** | **Corroborated with named sources.** Lexham Textual Notes: Metzger, Comfort and Omanson all treat "only begotten Son" as assimilation to John 3:16, 18 — the harder-reading argument this report had made on its own |
+| **v16, ὅτι** | **Corroborated.** Tagged *"conjunction, adverbial causal"*, confirming the grounding chain read under Linking Words |
+| **v17, Exodus** | **Partially corroborated, honestly.** Logos's dataset flags allusions to Exod 31:18 and Exod **34:28** — confirming Exodus 34 is in view, but locating the allusion at the tablets rather than at 34:6's name-proclamation. The chapter is corroborated; the verse is not |
+
+**Health note:** Text-first and text-dominant; the `[T]` count is high because the central claims are machine-verified Greek counts and forms rather than recalled assertions. **The v1.0 exposure — that no commentary or lexicon had been consulted — is now partly closed** for the lexical and textual questions, with the Vulgate claim upgraded from recall to verified and the v18 variant attributable to three named critics. **Still exposed:** no commentary has been consulted on the interpretive questions — the macro-structure, the Wisdom background, and how hard to press μονογενής — and the ὃ γέγονεν punctuation remains open. Those want a Study Assistant pass or a printed commentary, not the Exegetical Guide.
 
 ---
 
