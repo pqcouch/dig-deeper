@@ -1,4 +1,4 @@
-Dig Deeper: Malachi — the seal of the Book of the Twelve
+# Dig Deeper: Malachi — the seal of the Book of the Twelve
 
 **Translation:** ESV (default). Hebrew versification differs — Malachi
 4:1–6 (English) = 3:19–24 (Hebrew); the book has three chapters in the

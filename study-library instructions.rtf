@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl{\f0\froman\fcharset0 Liberation Serif;}{\f1\fmodern\fcharset0 Liberation Mono;}}
+{\colortbl;\red0\green0\blue0;}
+\paperw8391\paperh11906\margl567\margr567\margt850\margb567\deftab720
+\pard\sl276\slmult1\sb0\sa113\f0\fs36\b The study library \'97 keeping it current\b0\fs24\par
+Three scripts live in this folder. All three are double-clicked \'97 a Terminal window opens, does the work, and waits for you to press Return before closing. If macOS opens one in a text editor instead, right-click it and choose Open once; or run {\f1 bash <name>.command} from Terminal.\par
+\pard\sl276\slmult1\sb0\sa113\fs28\b 1. rebuild-index.command \'97 the catalogue\b0\fs24\par
+This keeps the index pages current. Whenever you add material, run it: it rescans every folder and rebuilds the catalogue pages, in canonical Bible order.\par
+It reads each study's file name to work out its passage reference, understanding both within-chapter ranges ({\f1 -19-1to25}) and cross-chapter ones ({\f1 -12-1to13-16}), as well as whole chapters ({\f1 -23}). Files whose names contain {\f1 overview}, {\f1 macro-synthesis}, {\f1 sweep}, {\f1 whole-book}, {\f1 point-purpose} or {\f1 sermon} are labelled accordingly instead.\par
+It never touches your study documents, and never overwrites a hand-made index \'97 only pages carrying its own "auto-generated" marker are refreshed. The Philippians page is hand-made and is left alone.\par
+To preview without writing anything: {\f1 DRY=1 ./rebuild-index.command}\par
+\pard\sl276\slmult1\sb0\sa113\fs28\b 2. github-signin.command \'97 once, and once only\b0\fs24\par
+Publishing needs a GitHub token. Git's own password prompt shows nothing at all as you paste \'97 no dots, no stars \'97 which makes it look broken. This script avoids it completely.\par
+Make a token at {\f1 https://github.com/settings/tokens} \'97 "Generate new token (classic)", tick the {\f1 repo} box, generate. Copy it (it starts {\f1 ghp_} and is shown only once), then double-click this script. It takes the token from the clipboard, checks it against GitHub before saving anything, files it in your Mac's keychain, and clears the clipboard afterwards.\par
+You only do this once. If a token ever expires or is revoked, make a new one and run it again.\par
+\pard\sl276\slmult1\sb0\sa113\fs28\b 3. publish.command \'97 sending it to GitHub\b0\fs24\par
+This rebuilds the catalogue for you, compares the folder with the repository at {\f1 github.com/pqcouch/dig-deeper}, and shows exactly what is new, changed and removed. Only the differences are uploaded; unchanged files are not sent again.\par
+If anything is to be deleted from the online copy, it stops and asks you to type {\f1 yes} first. Those files stay on this Mac \'97 only the published copies go.\par
+Markdown, HTML and the catalogue pages are published. The {\f1 .odt} print copies are not \'97 they stay here. {\f1 .nojekyll} must stay in place: GitHub Pages needs it.\par
+To see the comparison without publishing: {\f1 DRY=1 ./publish.command}. A dry run writes nothing at all, so it also skips the catalogue rebuild, and the real run may therefore show a few more changed index pages.\par
+\pard\sl276\slmult1\sb0\sa113\fs28\b If something goes wrong\b0\fs24\par
+\pard\sl276\slmult1\sb0\sa113 It asks for a username and password. The sign-in has not been done, or the token has expired. Run github-signin.command.\par
+It cannot read the files. iCloud has evicted them to save space. In Finder select all, right-click, choose Download Now, then try again.\par
+It says nothing to publish, but you know there are changes. The catalogue may already be current and the changes already committed but not uploaded \'97 the script detects this and sends them. If it truly says nothing is outstanding, everything is already on GitHub.\par
+Naming matters. Keep to {\f1 dig-deeper-[book]-[passage]} \'97 lower case, hyphenated, no spaces \'97 and give each study the same stem for its {\f1 .md}, {\f1 .html} and {\f1 .odt}. Matching stems are what let a later run find earlier work.\par
+}
