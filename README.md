@@ -6,6 +6,17 @@ drawing a book together (macro-synthesis). Human-facing copies (`.odt` for print
 `.html` for on-screen reading) can be kept elsewhere; only the markdown needs to
 live here.
 
+## Publishing to GitHub
+
+Double-click **`publish.command`**. It rebuilds the catalogue pages, compares this
+folder with <https://github.com/pqcouch/dig-deeper>, lists what is new, changed and
+removed, asks before deleting anything online, then commits and pushes. Only the
+differences are uploaded.
+
+`.md`, `.html` and the generated `index.html` catalogue pages are published;
+`.odt` print copies stay on this Mac. `.nojekyll` must stay in place — GitHub Pages
+needs it. To preview without publishing, run `DRY=1 ./publish.command` in Terminal.
+
 ## Naming convention
 
 `dig-deeper-[book]-[passage].md` — lower-case, hyphenated, no spaces. Examples:

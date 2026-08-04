@@ -165,9 +165,47 @@ function Get-Classify([string]$name) {
     $b = $name.ToLowerInvariant()
     if     ($b -like '*overview*')                                    { return @(1, 'Book Overview', 'big') }
     elseif ($b -like '*macro-synthesis*' -or $b -like '*macrosynthesis*') { return @(2, 'Macro-Synthesis', 'big') }
+    elseif ($b -like '*orientation*')                                 { return @(1, 'Orientation Frame', 'big') }
+    elseif ($b -like '*whole-book*' -or $b -like '*wholebook*' -or $b -like '*book-sweep*') { return @(3, 'Whole-Book Sweep', '') }
     elseif ($b -like '*sweep*')                                       { return @(3, 'Whole-Letter Sweep', '') }
     elseif ($b -like '*point-purpose*' -or $b -like '*sermon*')       { return @(4, 'Sermon Plan', '') }
-    else                                                              { return @(5, '. ', '') }
+    else                                                              { return @(5, 'Study', '') }
+}
+
+# parse a passage reference out of a file stem.
+# returns @(sortkey, display) or $null. Longest form first:
+#   -C-VtoC-V  -> 12:1-13:16 | -C-VtoV -> 19:1-25 | -C-V -> 3:16
+#   -CtoC      -> Ch. 3-5    | -C      -> Ch. 6
+function Get-PassageRef([string]$stem) {
+    $ndash = [char]0x2013
+    if ($stem.EndsWith('.house')) { $stem = $stem.Substring(0, $stem.Length - 6) }
+    $m = [regex]::Match($stem, '-([0-9]+)-([0-9]+)to([0-9]+)-([0-9]+)$')
+    if ($m.Success) {
+        $c1 = [int]$m.Groups[1].Value; $v1 = [int]$m.Groups[2].Value
+        $c2 = [int]$m.Groups[3].Value; $v2 = [int]$m.Groups[4].Value
+        return @(('{0:D3}{1:D5}' -f $c1, $v1), ("{0}:{1}{2}{3}:{4}" -f $c1, $v1, $ndash, $c2, $v2))
+    }
+    $m = [regex]::Match($stem, '-([0-9]+)-([0-9]+)to([0-9]+)$')
+    if ($m.Success) {
+        $c1 = [int]$m.Groups[1].Value; $v1 = [int]$m.Groups[2].Value; $v2 = [int]$m.Groups[3].Value
+        return @(('{0:D3}{1:D5}' -f $c1, $v1), ("{0}:{1}{2}{3}" -f $c1, $v1, $ndash, $v2))
+    }
+    $m = [regex]::Match($stem, '-([0-9]+)-([0-9]+)$')
+    if ($m.Success) {
+        $c1 = [int]$m.Groups[1].Value; $v1 = [int]$m.Groups[2].Value
+        return @(('{0:D3}{1:D5}' -f $c1, $v1), ("{0}:{1}" -f $c1, $v1))
+    }
+    $m = [regex]::Match($stem, '-([0-9]+)to([0-9]+)$')
+    if ($m.Success) {
+        $c1 = [int]$m.Groups[1].Value; $c2 = [int]$m.Groups[2].Value
+        return @(('{0:D3}{1:D5}' -f $c1, 0), ("Ch. {0}{1}{2}" -f $c1, $ndash, $c2))
+    }
+    $m = [regex]::Match($stem, '-([0-9]+)$')
+    if ($m.Success) {
+        $c1 = [int]$m.Groups[1].Value
+        return @(('{0:D3}{1:D5}' -f $c1, 0), ("Ch. {0}" -f $c1))
+    }
+    return $null
 }
 
 # write a file unless -Dry; UTF-8 (no BOM), LF newlines, single trailing newline
@@ -225,20 +263,14 @@ function Build-BookIndex([string]$dir, [string]$backHref = '../index.html', [str
         $base = $f.Name
         $title = Get-HtmlTitle $f.FullName
         $stem = [IO.Path]::GetFileNameWithoutExtension($base)
-        $pm = [regex]::Match($stem, '-([0-9]+)-([0-9]+)(?:to([0-9]+))?$')
-        if ($pm.Success) {
-            $ch = $pm.Groups[1].Value
-            $v1 = $pm.Groups[2].Value
-            if ($pm.Groups[3].Success) {
-                $disp = "$ch`:$v1" + [char]0x2013 + $pm.Groups[3].Value
-            } else {
-                $disp = "$ch`:$v1"
-            }
-            $key = '{0:D3}{1:D5}' -f [int]$ch, [int]$v1
-            [void]$passageRows.Add([pscustomobject]@{ Key = $key; Disp = $disp; Base = $base; Title = $title })
+        # named document types win first; the rest are tested for a passage ref
+        $cls = Get-Classify $base
+        $grp = [int]$cls[0]; $label = $cls[1]; $chip = $cls[2]
+        $pr = $null
+        if ($grp -eq 5) { $pr = Get-PassageRef $stem }
+        if ($pr) {
+            [void]$passageRows.Add([pscustomobject]@{ Key = $pr[0]; Disp = $pr[1]; Base = $base; Title = $title })
         } else {
-            $cls = Get-Classify $base
-            $grp = [int]$cls[0]; $label = $cls[1]; $chip = $cls[2]
             $card = '<a class="card" href="{0}"><span class="ref {1}">{2}</span><h3>{3}</h3></a>' -f $base, $chip, $label, $title
             if ($grp -ge 1 -and $grp -le 4) {
                 [void]$headDocs.Add([pscustomobject]@{ Grp = $grp; Card = $card })

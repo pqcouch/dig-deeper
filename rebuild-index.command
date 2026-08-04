@@ -148,10 +148,45 @@ classify() {
   case "$b" in
     *overview*)         echo "1 Book Overview|big";;
     *macro-synthesis*|*macrosynthesis*) echo "2 Macro-Synthesis|big";;
+    *orientation*)      echo "1 Orientation Frame|big";;
+    *whole-book*|*wholebook*|*book-sweep*) echo "3 Whole-Book Sweep|";;
     *sweep*)            echo "3 Whole-Letter Sweep|";;
     *point-purpose*|*sermon*) echo "4 Sermon Plan|";;
-    *) echo "5 . |";;   # provisional; passage detection happens in build_book
+    *) echo "5 Study|";; # provisional; passage detection happens in build_book
   esac
+}
+
+# ----- passage-reference parser ----------------------------------------------
+# Reads a file stem and echoes "<sortkey>|<display>" if it ends in a recognised
+# passage suffix; echoes nothing otherwise. Handles, longest form first:
+#   -C-VtoC-V   cross-chapter range   e.g. -12-1to13-16  -> 12:1–13:16
+#   -C-VtoV     within-chapter range  e.g. -19-1to25     -> 19:1–25
+#   -C-V        single verse          e.g. -3-16         -> 3:16
+#   -CtoC       chapter range         e.g. -3to5         -> Ch. 3–5
+#   -C          whole chapter         e.g. -6            -> Ch. 6
+NDASH='–'
+num() { printf '%s' "$((10#$1))"; }   # strip leading zeros safely
+
+passage_ref() {
+  local s="$1" c1 v1 c2 v2
+  s="${s%.house}"                      # tolerate .house.html variants
+  if [[ "$s" =~ -([0-9]+)-([0-9]+)to([0-9]+)-([0-9]+)$ ]]; then
+    c1=$(num "${BASH_REMATCH[1]}"); v1=$(num "${BASH_REMATCH[2]}")
+    c2=$(num "${BASH_REMATCH[3]}"); v2=$(num "${BASH_REMATCH[4]}")
+    printf '%03d%05d|%s' "$c1" "$v1" "$c1:$v1$NDASH$c2:$v2"
+  elif [[ "$s" =~ -([0-9]+)-([0-9]+)to([0-9]+)$ ]]; then
+    c1=$(num "${BASH_REMATCH[1]}"); v1=$(num "${BASH_REMATCH[2]}"); v2=$(num "${BASH_REMATCH[3]}")
+    printf '%03d%05d|%s' "$c1" "$v1" "$c1:$v1$NDASH$v2"
+  elif [[ "$s" =~ -([0-9]+)-([0-9]+)$ ]]; then
+    c1=$(num "${BASH_REMATCH[1]}"); v1=$(num "${BASH_REMATCH[2]}")
+    printf '%03d%05d|%s' "$c1" "$v1" "$c1:$v1"
+  elif [[ "$s" =~ -([0-9]+)to([0-9]+)$ ]]; then
+    c1=$(num "${BASH_REMATCH[1]}"); c2=$(num "${BASH_REMATCH[2]}")
+    printf '%03d%05d|%s' "$c1" 0 "Ch. $c1$NDASH$c2"
+  elif [[ "$s" =~ -([0-9]+)$ ]]; then
+    c1=$(num "${BASH_REMATCH[1]}")
+    printf '%03d%05d|%s' "$c1" 0 "Ch. $c1"
+  fi
 }
 
 # write a file unless DRY is set; obeys curated-protection for per-book indexes
@@ -196,26 +231,22 @@ build_book_index() { # $1 = book folder name
   fi
 
   local back_href="${2:-../index.html}" back_label="${3:-Study Library}"
-  local body head_docs="" passage_lines="" other_docs="" f base low grp label chip title ref ch v1 v2 key
+  local body head_docs="" passage_lines="" other_docs="" f base low grp label chip title pr disp key
   head_docs=""; passage_lines=""; other_docs=""
   while IFS= read -r f; do
     [ -n "$f" ] || continue
     base="$(basename "$f")"; low="$(printf '%s' "$base" | tr '[:upper:]' '[:lower:]')"
     title="$(html_title "$f")"
-    # passage? trailing -CH-VERSE(toVERSE)
-    if printf '%s' "${base%.html}" | grep -qE -- '-[0-9]+-[0-9]+(to[0-9]+)?$'; then
-      ref="$(printf '%s' "${base%.html}" | grep -oE -- '[0-9]+-[0-9]+(to[0-9]+)?$')"
-      ch="${ref%%-*}"; rest="${ref#*-}"
-      if printf '%s' "$rest" | grep -q 'to'; then
-        v1="${rest%%to*}"; v2="${rest#*to}"; disp="$ch:$v1"$'–'"$v2"
-      else
-        v1="$rest"; disp="$ch:$v1"
-      fi
-      key="$(printf '%03d%05d' "$ch" "$v1" 2>/dev/null || echo 99999999)"
+    # named document types (overview / synthesis / sweep / sermon plan) win first;
+    # anything left over is tested for a passage reference in its file name.
+    read grp rest <<<"$(classify "$base")"
+    label="${rest%%|*}"; chip="${rest#*|}"
+    pr=""
+    [ "$grp" = "5" ] && pr="$(passage_ref "${base%.html}")"
+    if [ -n "$pr" ]; then
+      key="${pr%%|*}"; disp="${pr#*|}"
       passage_lines="${passage_lines}${key}|${disp}|${base}|${title}"$'\n'
     else
-      read grp rest <<<"$(classify "$base")"
-      label="${rest%%|*}"; chip="${rest#*|}"
       local c; c="$(printf '<a class="card" href="%s"><span class="ref %s">%s</span><h3>%s</h3></a>\n' \
                     "$base" "$chip" "$label" "$title")"
       case "$grp" in
