@@ -33,6 +33,47 @@ finish() {                      # $1 = exit code
   exit "${1:-0}"
 }
 
+do_push() {
+  echo "Uploading to GitHub..."
+  if git push -q -u origin "HEAD:$BRANCH" 2>/tmp/publish-push-err; then
+    echo "Published. Everything is now on GitHub."
+    return 0
+  fi
+  err="$(cat /tmp/publish-push-err)"
+  if echo "$err" | grep -qi 'non-fast-forward\|fetch first\|rejected'; then
+    echo "GitHub had newer changes — merging them in and retrying..."
+    if git pull -q --rebase origin "$BRANCH" && git push -q -u origin "HEAD:$BRANCH"; then
+      echo "Published. Everything is now on GitHub."
+      return 0
+    fi
+    err="$(cat /tmp/publish-push-err)"
+  fi
+  echo
+  echo "The upload did not go through:"
+  echo "$err" | sed 's/^/    /'
+  echo
+  if echo "$err" | grep -qi 'auth\|username\|password\|token\|denied'; then
+    echo "GitHub no longer accepts account passwords for this. You need to sign in"
+    echo "once; after that this script will never ask again. Two ways:"
+    echo
+    echo "  EASIEST — GitHub CLI (needs Homebrew):"
+    echo "      brew install gh"
+    echo "      gh auth login        (choose GitHub.com, HTTPS, login with a web browser)"
+    echo
+    echo "  NO HOMEBREW — a personal access token:"
+    echo "      1. Go to  https://github.com/settings/tokens"
+    echo "      2. 'Generate new token (classic)', tick the  repo  box, generate it,"
+    echo "         and copy the token (it starts ghp_ and is shown only once)."
+    echo "      3. Double-click this file again. At 'Username' type  pqcouch ;"
+    echo "         at 'Password' paste the token."
+    echo "      The token is then saved in your Mac's keychain."
+  fi
+  echo
+  echo "Your work is safely committed on this Mac — nothing has been lost."
+  echo "Just double-click this file again once you have signed in."
+  return 1
+}
+
 echo "Publishing library:  $ROOT"
 echo "To:                  $REPO_URL  (branch $BRANCH)"
 [ -n "${DRY:-}" ] && echo "(DRY RUN — nothing will be committed or pushed)"
@@ -67,6 +108,8 @@ fi
 
 # keep the remote correct even if it was set up differently before
 git remote set-url origin "$REPO_URL" 2>/dev/null || git remote add origin "$REPO_URL"
+# remember the GitHub sign-in in the Mac keychain, so it is asked for only once
+[ -z "$(git config --get credential.helper)" ] && git config credential.helper osxkeychain
 # a shallow history cannot always be pushed — deepen it once
 [ -f .git/shallow ] && { echo "Completing repository history..."; git fetch -q --unshallow 2>/dev/null; }
 
@@ -98,6 +141,14 @@ total=$((added + changed + removed + renamed))
 
 rule
 if [ "$total" -eq 0 ]; then
+  # Nothing new to commit — but an earlier run may have committed and then failed
+  # to upload (e.g. a sign-in problem). If so, just send that commit now.
+  ahead="$(git rev-list --count FETCH_HEAD..HEAD 2>/dev/null || echo 0)"
+  if [ "${ahead:-0}" -gt 0 ]; then
+    echo "No new changes, but $ahead earlier commit(s) never reached GitHub."
+    do_push || finish 1
+    finish 0
+  fi
   echo "Everything is already up to date. Nothing to publish."
   finish 0
 fi
@@ -157,31 +208,6 @@ git -c user.name="${GIT_AUTHOR_NAME:-$(git config user.name || echo 'Study libra
 echo "Committed."
 
 # ----- 7. push ----------------------------------------------------------------
-echo "Uploading to GitHub..."
-if git push -q -u origin "HEAD:$BRANCH" 2>/tmp/publish-push-err; then
-  echo "Published. Everything is now on GitHub."
-else
-  err="$(cat /tmp/publish-push-err)"
-  echo "$err" | grep -qi 'non-fast-forward\|fetch first\|rejected' && {
-    echo "GitHub had newer changes — merging them in and retrying..."
-    if git pull -q --rebase origin "$BRANCH" && git push -q -u origin "HEAD:$BRANCH"; then
-      echo "Published. Everything is now on GitHub."
-      finish 0
-    fi
-  }
-  echo
-  echo "The upload did not go through:"
-  echo "$err" | sed 's/^/    /'
-  echo
-  echo "If it is asking for a username and password, GitHub no longer accepts"
-  echo "account passwords here. The simplest fix is to install the GitHub CLI"
-  echo "and sign in once:"
-  echo "    brew install gh"
-  echo "    gh auth login          (choose HTTPS, then 'Login with a web browser')"
-  echo "After that, double-click this file again and it will just work."
-  echo
-  echo "Your work is safely committed on this Mac — nothing has been lost."
-  finish 1
-fi
+do_push || finish 1
 
 finish 0
