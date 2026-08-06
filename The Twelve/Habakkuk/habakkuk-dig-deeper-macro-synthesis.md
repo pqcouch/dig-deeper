@@ -15,7 +15,7 @@ Each macro-argument below recurs across **three or more pericopes** (or is New-T
 **Claim.** Habakkuk's antagonist is not merely "Babylon" but a single sin — the pride that makes its own strength its god — and the book tracks that sin from its first boast to its final judgement, so that the arrogance the book opens by *describing* is the arrogance it closes by *crushing*. Its judgement is consistently **measure-for-measure**: the sinner is undone by his own violence.
 
 **Converging evidence.**
-- **Boast planted:** "guilty men, whose own might is their god" (1:11). (§1) `[T]`
+- **Boast planted:** "guilty men, whose own might is their god" (1:11). (§1) `[T]` — **⭐ caution added at the claim audit: 1:11 is one of the hardest verses in the book.** Its grammatical number and gender do not align, its referent is unclear (Gafney, Wisdom Commentary 38:87–88), the key word may mean "wind" or "mind/spirit" (Clark & Hatton, UBS Handbook, 80–81), and **the KJV and ESV diverge substantially** (KJV *"imputing this his power unto his god"*). **But the closing phrase is the verse's clearest element on every construal** — so this argument's anchor is precisely the secure part of an insecure verse. Say so if preaching from 1:11. `[revised: claim audit]`
 - **Named as a type:** "his soul is puffed up; it is not upright within him" (2:4a) — set against the righteous who live by faith. (§2) `[T]`
 - **Itemised and judged:** the five woes indict the proud plunderer, and the idol-woe exposes the maker who "trusts in his own creation… speechless idols" (2:18–19) — answered by "But the LORD is in his holy temple" (2:20). (§3) `[T]`
 - **Crushed:** "You crushed the head of the house of the wicked… You pierced with his own arrows the heads of his warriors" (3:13–14). (§4) `[T]`
@@ -50,7 +50,7 @@ Each macro-argument below recurs across **three or more pericopes** (or is New-T
 
 **Converging evidence.**
 - **The empire's earth-filling:** the Chaldeans "march through the breadth of the earth, to seize dwellings not their own" (1:6), coming "all… for violence" and gathering captives "like sand" (1:9). (§1) `[T]`
-- **God's counter-conquest:** "For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea" (2:14) — set at the centre of a taunt-song about imperial plunder, and deliberately modifying Isaiah 11:9 by adding "the glory of." (§3) `[T]`
+- **God's counter-conquest:** "For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea" (2:14) — set at the centre of a taunt-song about imperial plunder, and reading as Isaiah 11:9 **plus "the glory of"** (Num 14:21 supplying that phrase). (§3) `[T]` **Audit note: the *text* is verified exactly as stated, but the *direction* of dependence could not be resolved — the checking stage returned nothing citable, so the overview's existing "direction uncertain" flag stands. The earth-filling contrast with 1:6 does not depend on it.** `[revised: claim audit]`
 - **The glory previewed in theophany:** "His splendour covered the heavens, and the earth was full of his praise" (3:3). (§4) `[T]`
 - **Supporting:** the insatiable, Sheol-wide greed that "gathers all nations… all peoples" (2:5, §2) is the appetite the counter-promise answers. `[T]`
 
@@ -68,7 +68,7 @@ Each macro-argument below recurs across **three or more pericopes** (or is New-T
 - **1:5 → Acts 13:41** — Paul turns Habakkuk's "wonder and be astounded" (LXX "scoffers") on those who scoff at God's saving work in Christ. (§1) `[T]`/`[S]`
 - **2:3–4 → Romans 1:17; Galatians 3:11; Hebrews 10:37–38** — the book's hinge becomes the NT charter of justification-by-faith (Paul) and persevering faith awaiting "the coming one" (Hebrews). (§2) `[T]`/`[S]`
 - **2:14 → 2 Corinthians 4:6; Revelation 21:23; the cup of 2:16 → Christ's cup (Mark 14:36) and Babylon's (Rev 16:19)** — the glory and the wrath both trajectate to Christ. (§3) `[I]`/`[S]`
-- **3:13 ("salvation of your anointed"; "crushed the head") → Genesis 3:15 → Romans 16:20; Colossians 2:15** — the Divine Warrior who saves his *māšîaḥ* and crushes the wicked's head is the serpent-crusher fulfilled in Christ. (§4) `[I]`/`[S]`
+- **⭐ 3:13 ("salvation of your anointed"; "crushed the head") — reframed at the claim audit, and strengthened.** The link was previously run through **Genesis 3:15**. **The verbs do not match:** Hab 3:13 uses *māḥaṣ*, Gen 3:15 uses *šûp* — verified at the audit. **Psalm 110:5–6 is the verbal parallel**: *"shall **strike through** kings… he shall **wound the heads** over many countries"* — ***māḥaṣ* twice, with "head" as object** — and Habakkuk names ***"thine anointed"* (*māšîaḥ*) in the very same verse**, which is Psalm 110's royal-messianic frame exactly. **So: Gen 3:15 remains a legitimate *trajectory* (conceptual serpent-crusher theme → Rom 16:20; Col 2:15); Ps 110:5–6 is the *verbal* anchor** — and it is much the stronger of the two, being the most-quoted OT text in the NT. Ps 68:21 shows the same head-shattering pattern. (§4) `[T]` for the verb data, verified both sides; `[I]` for Gen 3:15 as trajectory. `[revised: claim audit]`
 - **Method (all four runs):** each run ran the moralism check and named the "be like X" trap — therapeutic-Habakkuk (§1, §2), faith-as-willpower (§2), rejoice-bravely (§4) — grounding the call in the God who acts, not the prophet who copes.
 
 **Confidence: high** (NT-authorised across ≥2 pericopes — in fact four; the 2:4 triad alone is decisive).
@@ -81,8 +81,8 @@ Each macro-argument below recurs across **three or more pericopes** (or is New-T
 
 These do not clear the ≥3-pericope gate; a citation-light book naturally concentrates its verbal welds in fewer places. Listed honestly so a later run (or a Nahum/Zephaniah dig) can promote them if a third anchor appears.
 
-- **The Deuteronomy 32 "Rock of faithfulness" → exodus/Divine-Warrior reservoir — the book's OT engine.** Anchored in §2 (God named "Rock", 1:12 = Deut 32:4's "Rock… a God of *ʾĕmûnâ*", primed for 2:4's "live by his *faith[fulness]*") and §4 (the theophany harvesting Deut 33:2; Judg 5:4–5; Exod 15; Ps 77). *Strong but 2-anchor.* It is the single sustained external source of an otherwise citation-light book, so it functions as an engine despite only two verbal anchors — worth naming in the overview's map as the confirmed live source.
-- **The *yšʿ* (salvation) inclusio.** "You will not **save**" (1:2, §1) → the threefold "**salvation**" of the Warrior and "the God of my **salvation**" (3:8, 13, 18, §4). *Strong but 2-anchor (a verbal book-frame).* Folds naturally into macro-argument 2 as the lexical signature of the resolution.
+- **The Deuteronomy 32 "Rock of faithfulness" → exodus/Divine-Warrior reservoir — the book's OT engine.** Anchored in §2 (God named "Rock", 1:12 = Deut 32:4's "Rock… a God of *ʾĕmûnâ*", primed for 2:4's "live by his *faith[fulness]*") and §4 (the theophany harvesting Deut 33:2; Judg 5:4–5; Exod 15; Ps 77). *Strong but 2-anchor.* It is the single sustained external source of an otherwise citation-light book, so it functions as an engine despite only two verbal anchors — worth naming in the overview's map as the confirmed live source. **⭐ Translation caution added at the audit: the KJV renders *ṣûr* at 1:12 "O mighty God", not "O Rock" — so the Deuteronomy 32 link is visible in the ESV and invisible in the KJV.** Worth a clause from the pulpit. `[revised: claim audit]`
+- **The *yšʿ* (salvation) inclusio.** "You will not **save**" (1:2, §1) → the **fourfold** "**salvation**" of the Warrior and "the God of my **salvation**" — **3:8; 3:13 *twice* ("for the salvation of thy people, even for salvation with thine anointed"); 3:18** (§4). *Strong but 2-anchor (a verbal book-frame).* Folds naturally into macro-argument 2 as the lexical signature of the resolution. **Corrected from "threefold" at the claim audit — and note that the doubling falls in the same verse as "thine anointed", the verse macro-argument 4 has just re-anchored to Ps 110.** `[revised: claim audit]`
 - **The *ḥāmās* (violence) boomerang.** 1:2, 3, 9 (§1) → 2:8, 17 (§3). *Strong but 2-anchor.* Folds into macro-argument 1 as the keyword form of measure-for-measure judgement.
 
 ---
@@ -94,7 +94,7 @@ These do not clear the ≥3-pericope gate; a citation-light book naturally conce
 | 1 | Self-deifying pride, boast → crushed head (with measure-for-measure) | §1 (1:11), §2 (2:4a), §3 (2:18–20), §4 (3:13–14) | strong |
 | 2 | Theodicy answered by posture/promise/presence; lament → worship (1:2 → 3:18) | §1, §2, §3, §4 | strong |
 | 3 | Two earth-fillings — Babylon's violence vs God's glory | §1 (1:6), §3 (2:14), §4 (3:3) | strong |
-| 4 | NT-authorised Christology + consistent moralism-refusal | §1 (Acts 13:41), §2 (Rom/Gal/Heb), §3 (2 Cor/Rev), §4 (Gen 3:15/Col 2:15) | high |
+| 4 | NT-authorised Christology + consistent moralism-refusal | §1 (Acts 13:41), §2 (Rom/Gal/Heb), §3 (2 Cor/Rev), §4 (**Ps 110:5–6** verbal; Gen 3:15 trajectory → Col 2:15) | high |
 | c1 | Deut 32 Rock/*ʾĕmûnâ* → exodus reservoir (the OT engine) | §2, §4 | strong (2-anchor) |
 | c2 | The *yšʿ* salvation inclusio | §1, §4 | strong (2-anchor) |
 | c3 | The *ḥāmās* violence boomerang | §1, §3 | strong (2-anchor) |
@@ -107,4 +107,6 @@ Read as a whole, the four runs show Habakkuk arguing a single, tight case: **a h
 
 ---
 
-*Provenance: emergent from the 4 dig-deeper runs (full book coverage) and reconciled with the Habakkuk Book Overview (v1.0.0) and the whole-book sweep. NT-authorised links marked high, converging text-first findings strong, looser/2-anchor threads flagged honestly. Offered as connective tissue for the series, not as a replacement for the passage-level runs.*
+*Audited: `dig-deeper-habakkuk-claim-audit.md` v1.0 tested nine load-bearing claims with the first `/logos-research` checking stage these documents have had, re-verifying the whole of Habakkuk plus Ps 110:5–6 against the text. **All four macro-arguments stand; the one substantive change (3:13 → Ps 110) is an improvement, not a repair. The book's two hardest textual questions — the 2:4b pronoun and the 1:5 split behind Acts 13:41 — needed no revision.** Provenance: emergent from the 4 dig-deeper runs (full book coverage) and reconciled with the Habakkuk Book Overview (v1.0.0) and the whole-book sweep. NT-authorised links marked high, converging text-first findings strong, looser/2-anchor threads flagged honestly. Offered as connective tissue for the series, not as a replacement for the passage-level runs.*
+
+**Version:** 1.1 · 6 August 2026 (claim-audit revisions to §1, §3, §4 and two candidate threads)
