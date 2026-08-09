@@ -76,7 +76,7 @@ The exegetically strongest claims that emerged across multiple tools:
 
 4. **The poem sits here because it completes a command given four verses earlier.** `[T]` The mother tells the king twice, "**Open your mouth** (*pĕtaḥ pîkā*)" (31:8, 9). At 31:26 the woman "**opens her mouth** (*pîhā pātĕḥâ*) with wisdom" — the same verb and the same noun, across the unit boundary. Surfaced by: Positional Necessity Check, Vocabulary, Move 4. The oracle commands the right use of speech; the poem shows it. *High confidence.*
 
-5. **The acrostic is complete and unbroken, and completeness is its argument.** `[T]` Twenty-two verses, one per letter, א to ת, with no line missing — unlike Psalm 145 (no nun) or the irregular acrostics of Lamentations. Surfaced by: Structure, Genre, Original Languages. The book that opened by promising a comprehensive education closes with a comprehensive form. *High on the 22-line count; moderate–high on the letter mapping, which should be checked against BHS.*
+5. **The acrostic is complete and unbroken, and completeness is its argument.** `[T]` Twenty-two verses, one per letter, א to ת, with no line missing — unlike Psalm 145 (no nun) or the irregular acrostics of Lamentations. Surfaced by: Structure, Genre, Original Languages. The book that opened by promising a comprehensive education closes with a comprehensive form. *High. The letter mapping was confirmed against BHS by the user, 9 August 2026.*
 
 ---
 
@@ -132,7 +132,7 @@ Behind that stands the whole book: a frame that staged two women (chs. 1–9), a
 
 Two structures operate at once, and they do not coincide. That is worth saying plainly, because most outlines of this passage silently choose one and present it as the shape of the poem.
 
-**Structure A — the acrostic (formal).** Twenty-two verses, one per letter of the Hebrew alphabet, in order, complete. `[T]` *High on the count; moderate–high on the individual letters — verify against BHS.*
+**Structure A — the acrostic (formal).** Twenty-two verses, one per letter of the Hebrew alphabet, in order, complete. `[T]` *High. Letter mapping confirmed against BHS (user, 9 August 2026).*
 
 | v. | Letter | Opening word | v. | Letter | Opening word |
 |---|---|---|---|---|---|
@@ -470,7 +470,7 @@ Behind that lies the book-level response: that the reader should have become, by
 
 #### Grammatical and syntactical features
 
-- **The acrostic.** Twenty-two verses, one per letter, in sequence, complete. `[T]` *High on the count; moderate–high on the letter-by-letter mapping in Tool 3 — verify against BHS.* Unlike Psalm 145 (which lacks a nun line in the MT) and the variously ordered acrostics of Lamentations, this one has no gap and no transposition.
+- **The acrostic.** Twenty-two verses, one per letter, in sequence, complete. `[T]` *High; the letter-by-letter mapping in Tool 3 is confirmed against BHS (user, 9 August 2026).* Unlike Psalm 145 (which lacks a nun line in the MT) and the variously ordered acrostics of Lamentations, this one has no gap and no transposition.
 - **Verbal aspect.** The body of the poem is dominated by **perfects and participles** — habitual, characterising description rather than sequential narrative. There are a handful of *wayyiqtol* forms (e.g. *wattāqom*, v.15; *wattiqqāḥēhû*, v.16) which give short bursts of sequence inside otherwise static description. `[I]` *Moderate; a grammar check would sharpen this.*
 - **One imperative in twenty-two verses**, at the very end (*tĕnû*, v.31), and one further volitive in the second colon (*wîhalĕlûhā*, "and let her works praise her"). `[T]` *High.*
 - **No second-person address until v.31.** The poem speaks *about* her for twenty-one verses and then turns to the reader. `[T]` *High.*
@@ -486,7 +486,6 @@ Behind that lies the book-level response: that the reader should have become, by
 
 #### Recommended verification
 
-- The acrostic letter-mapping in Tool 3, against BHS.
 - *ṭerep* at v.15 — Ansberry's lexeme identification, which I have not independently confirmed.
 - The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.
 - The *zmm* / *mĕzimmâ* connection, and whether any commentator makes it. **This is the report's own proposal.**
@@ -683,7 +682,7 @@ The full list of places where two or more tools independently arrived at the sam
 
 4. **The poem exists here because it enacts the command of 31:8–9.** Positional Necessity · Vocabulary · Move 4 · Structure. *Pĕtaḥ pîkā* (vv.8, 9) → *pîhā pātĕḥâ* (v.26); and the *ʾebyôn* of v.9 reappears in v.20. *High.*
 
-5. **The acrostic is complete, and completeness is its argument — while also making the middle of the poem non-sequential.** Structure · Genre · Original Languages. The second half of that is the practically useful part: it tells the preacher not to look for logical progression in vv.13–24. *High on the count; moderate–high on the mapping.*
+5. **The acrostic is complete, and completeness is its argument — while also making the middle of the poem non-sequential.** Structure · Genre · Original Languages. The second half of that is the practically useful part: it tells the preacher not to look for logical progression in vv.13–24. *High; mapping confirmed against BHS.*
 
 6. **The verb of 1:4's promise is performed at the acrostic's zayin line.** Vocabulary · Original Languages · Move 4 · Biblical Theology. *Mĕzimmâ* promised to the naïve; *zāmĕmâ* exercised on a field. *Moderate–high.*
 
@@ -747,7 +746,7 @@ The full list of places where two or more tools independently arrived at the sam
 
 ## Open Questions / Uncertainties
 
-1. **The acrostic letter-mapping (Tool 3).** The 22-verse count is certain; the individual letter assignments were reconstructed from recall of the Hebrew and should be checked against BHS before being displayed to a congregation. Nothing else in the report depends on them except the observation that ש carries *šeqer* and ת carries *tĕnû*.
+1. ~~**The acrostic letter-mapping (Tool 3).**~~ **RESOLVED — confirmed against BHS by the user, 9 August 2026.** The letter assignments in Tool 3 stand as printed, including the two that carry weight: ש at v.30 (*šeqer*) and ת at v.31 (*tĕnû*). The table may be displayed to a congregation as it stands.
 
 2. **The *zmm* / *mĕzimmâ* connection (Headline 2).** The root identity is secure; the claim that Proverbs designed the link is **this report's own proposal and is unsourced.** Ansberry does not make it. Verify against Waltke (NICOT) or Fox (AB) on 31:16 and on 1:4; if no commentator makes it, present it as a suggestion rather than a finding. **The most important verification item in the report.**
 
@@ -819,6 +818,8 @@ The text-first work was done first and is separable from Ansberry: the **8:35 �
 - Tool 8 ancient-versions check: run, with a `Translation-tradition split:` flagged and triage-classified.
 - Three-Way Triage: every Hebrew/Greek and Hebrew/English divergence assigned. **Category 1** (translation loss) — LXX *gynaika andreian*; the modern versions' loss of *šālāl* and "girds her loins". **Category 2** — none in this passage; stated explicitly. **Category 3** — none, since the New Testament nowhere quotes this passage; stated explicitly.
 - `[T]` boundary: no authorship, date, composition, audience, occasion, setting or cultic-use claim carries a `[T]` tag. The courtly/aristocratic reading of the household, the ANE background, the canonical ordering of Ruth, and the heroic-panegyric classification are all `[I]` or `[S]`.
+
+**Post-delivery verifications.** The acrostic letter-mapping (Tool 3, Headline 5) was checked against BHS by the user on 9 August 2026 and **confirmed**; Open Question 1 is closed and the relevant confidence flags are raised to *high*. The user has also put the *ḥayil* and *ṭerep* questions to desktop Logos; those answers are not yet in hand, so Open Questions 2, 3, 4 and 8 remain open.
 
 **Warrant counts (report body, excluding this Declaration):** `[T]` 66 · `[I]` 27 · `[S]` 21.
 
