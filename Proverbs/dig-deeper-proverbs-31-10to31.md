@@ -68,9 +68,9 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 The exegetically strongest claims that emerged across multiple tools:
 
-1. **Proverbs says the same thing, in the same words, about finding Wisdom and finding a wife — and this poem asks that question one last time.** `[T]` 8:35, of Wisdom: "whoever finds me finds life **and obtains favour from the LORD**." 18:22, of a wife: "He who finds a wife finds a good thing **and obtains favour from the LORD**" — the identical clause. Then 31:10: "An excellent wife **who can find**?" Surfaced by: Vocabulary, Quotation/Allusion (Move 4), Structure, Christological Reading. This is the book's own warrant for reading the poem as wisdom embodied, and it does not require a single allegorical move. *High confidence.*
+1. **Proverbs says the same thing, in the same words, about finding Wisdom and finding a wife — and this poem asks that question one last time.** `[T]` 8:35, of Wisdom: "whoever finds me finds life **and obtains favour from the LORD**." 18:22, of a wife: "He who finds a wife finds a good thing **and obtains favour from the LORD**" — the identical clause. Then 31:10: "An excellent wife **who can find**?" Surfaced by: Vocabulary, Quotation/Allusion (Move 4), Structure, Christological Reading. This is the book's own warrant for reading the poem as wisdom embodied, and it does not require a single allegorical move. **Verified against the Hebrew, 9 August 2026: both verses read וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה, identical to the accents.** *High confidence — confirmed.*
 
-2. **The verb the book promised to the naïve in its fourth verse is the verb this woman performs in the acrostic's seventh line.** `[T]`/`[I]` 1:4 offers *mĕzimmâ* to the simple — a noun rendered "evil devices" at 12:2, 14:17 and 24:8. 31:16 opens with *zāmĕmâ*, from the same root *zmm*: "she **schemes** a field and takes it." Surfaced by: Vocabulary, Original Languages, Move 4, Biblical Theology. The capacity the book promised at the start is shown being exercised at the end, by a woman, on a property deal. *Moderate–high; the root identity is secure, the design is inferred.*
+2. **The verb the book promised to the naïve in its fourth verse is the verb this woman performs in the acrostic's seventh line.** `[T]`/`[I]` 1:4 offers *mĕzimmâ* to the simple — a noun rendered "evil devices" at 12:2, 14:17 and 24:8. 31:16 opens with *zāmĕmâ*, from the same root *zmm*: "she **schemes** a field and takes it." Surfaced by: Vocabulary, Original Languages, Move 4, Biblical Theology. The capacity the book promised at the start is shown being exercised at the end, by a woman, on a property deal. **Lexically grounded at the checking stage, 9 August 2026** — the noun's dual range ("wicked plan, scheme" / "discretion, prudence") is lexicographically established `[S: Lexham Research Lexicon; Swanson, DBL]`, and *within Proverbs* the two senses split along the book's own seam: positive at 1:4; 2:11; 3:21; 5:2; 8:12 — **all in the frame** — and negative at 12:2; 14:17; 24:8 — **all in the sentence literature.** *Moderate–high on the distribution; the design remains inferred — framed by Fox's account of editorial intentionality and his explicit tie of this poem's audience to 1:4 `[S: AB 18b:905, 967–968]`, but confirmed by no commentator.*
 
 3. **There is exactly one imperative in twenty-two verses, it is the last word of the book, and it is not "be like her."** `[T]` Every verb from v.11 to v.30 is indicative or participial description. Verse 31 alone commands: *tĕnû*, "**Give** her of the fruit of her hands." Surfaced by: Structure, Linking Words, Genre, So What. The poem's own instruction to the reader is to *praise*, not to imitate — which settles the most common misuse of the passage from the grammar rather than from taste. *High confidence.*
 
@@ -92,7 +92,7 @@ Three things it is doing, in ascending order of importance.
 
 **It converts definition into demonstration.** Thirty chapters have *described* wisdom — its value, its voice, its consequences. Nothing until now has *shown* it operating in a single life across a full range of activity. The poem's method is inventory: wool, flax, ships, a field, a vineyard, a distaff, a spindle, linen, purple, scarlet, sashes, bread. `[T]`
 
-**It completes the addressee's education by giving him something to look for rather than something to do.** The book has addressed "my son" throughout; the poem gives him no instruction about himself at all. `[I]` *Moderate–high.*
+**It completes the addressee's education by giving him something to look for rather than something to do.** The book has addressed "my son" throughout; the poem gives him no instruction about himself at all. `[I]` *Moderate–high.* **Corroborated at the checking stage:** Fox holds that the editor fixed this poem's audience precisely by attaching it to a book whose stated audience is the uneducated young men of 1:4. `[S: Fox, AB 18b:905]` That is independent support for reading the poem as aimed at the naïve reader rather than at the woman it describes.
 
 **Book-overview note:** the overview's purpose statement is confirmed. Its description of the poem as "wisdom embodied" is confirmed *and given a textual warrant it lacked* — the 8:35 ∥ 18:22 ∥ 31:10 thread (Headline 1), which no source consulted supplies in that form.
 
@@ -212,17 +212,33 @@ One qualification, because it is nearly this tool. Verses 30–31 function *like
 
 ### 7. Vocabulary
 
-**(a) *ḥayil* (v.10, "excellent"; v.29, "excellently").** The passage's crux-word, and every English rendering under-translates it. `[T]` *High on the range.* The noun covers **strength**, **valour**, **an army or armed force**, **wealth**, and **capability**. It is the word in *gibbôr ḥayil*, "mighty man of valour" (Judg 6:12, of Gideon), and in *ḥayil* as a military levy. Ansberry classes the poem as a **heroic panegyric** that substitutes a woman's *vita activa* for the martial exploits of aristocratic men, comparing 1 Sam 18:7; 21:11; 2 Sam 1:17–27 and Judg 5. `[S]` *Moderate–high.*
+**(a) *ḥayil* (v.10, "excellent"; v.29, "excellently").** The passage's crux-word. `[T]` *High on the range.* The noun is a **comprehensive capability word**: strength, competence, efficiency, wealth, social standing, military heroism, moral substance, and mental capacity. `[S: Lau & Goswell, NSBT 41]` It is the word in *gibbôr ḥayil*, "mighty man of valour" (Judg 6:12, of Gideon), and in *ḥayil* as a military levy.
 
-"Excellent wife" (ESV, NASB) and "virtuous woman" (KJV) both drift toward moral decorum. The register is closer to *a woman of force*.
+**A correction, entered at the checking stage.** An earlier draft of this report treated the martial strand as the term's operative sense here and said that every English rendering "under-translates" it. That over-reached. Where *ḥayil* designates a woman — Ruth 3:11; Prov 12:4; 31:10 — the lexicographical tradition renders it "virtuous" or "worthy," while noting that a woman of this calibre "may well possess all the attributes of her male counterpart." `[S: Weber, TWOT 624]` The consensus reading of the three woman-texts is **comprehensive excellence — moral, practical and relational** — not martial prowess imported wholesale. `[S: Lau & Goswell; Köstenberger & Goswell]` *High confidence in the correction.*
+
+So: the martial sense is genuinely *in the word's range*, and the poem does carry martial colour (see *šālāl*, "girds her loins", and the LXX at Tool 8) — but that colour is carried by **Ansberry's formal argument about genre**, not by the lexeme. Ansberry classes the poem as a **heroic panegyric** that substitutes a woman's *vita activa* for the martial exploits of aristocratic men, comparing 1 Sam 18:7; 21:11; 2 Sam 1:17–27 and Judg 5. `[S]` *Moderate–high — and this is where the martial reading properly rests.*
+
+Note also that two strands of the range — **wealth** and **social standing** — bear directly on Ansberry's aristocratic reading of the household, and are better attested here than the martial strand. `[S]`
+
+What the English renderings lose is therefore not specifically the martial strand but the **breadth** — a single word covering capability, means, standing and moral substance at once. "Excellent wife" and "virtuous woman" are defensible; they are simply narrower than the Hebrew.
 
 **Its distribution is a finding.** *ʾĒšet ḥayil* occurs in the Hebrew Bible only three times: Prov 12:4; Prov 31:10; and **Ruth 3:11**. `[T]` *Moderate–high; verify by concordance.* Within this chapter, *ḥayil* appears at v.10, v.29, and — per Ansberry — v.3. `[S]`
 
-**(b) *zāmĕmâ* (v.16, "she considers").** From *zmm*, "to plot, devise, scheme" — the root behind *mĕzimmâ*, which Proverbs promises to the naïve at 1:4 and uses pejoratively at 12:2 ("a man of evil devices"), 14:17, and 24:8 ("the devising of folly is sin"). `[T]` on the root; `[I]` on the design. *Moderate–high.* ESV's "considers" is defensible but flat; the verb has calculation in it. She does not muse about the field. She works it out and takes it.
+**(b) *zāmĕmâ* (v.16, "she considers").** From *zmm*. The verb here carries the sense of **purposing or proposing to oneself** `[S: Gesenius]`; ESV's "considers" is defensible but flat. She does not muse about the field. She works it out and takes it.
 
-See Headline Finding 2. This is the report's own observation and is not in any source consulted; it is routed to Open Questions.
+The root is that of *mĕzimmâ*, which Proverbs promises to the naïve at 1:4. Two things must be kept apart here, and an earlier draft ran them together.
 
-**(c) *ṭerep* (v.15, "food").** Per Ansberry, the noun here is *ṭerep*, which elsewhere means **prey** — what a lion tears (Ps 104:21; Amos 3:4; Nah 2:12). `[S]` *Moderate; I have not verified the lexeme independently and it should be checked.* If correct, it belongs with *šālāl* ("gain," v.11 — properly **plunder** taken in war) as part of the poem's martial vocabulary: her household eats what she has taken.
+*What is lexically established.* The noun *mĕzimmâ* has a **genuinely dual range** — "wicked plan, scheme" and "discretion, prudence" — as a property of the word. `[S: Lexham Research Lexicon; Swanson, DBL]` Root-identity alone therefore proves nothing: a positive use at 1:4 and a calculating use at 31:16 could simply be ordinary usage.
+
+*What is a fact about this book.* The two senses are not scattered at random through Proverbs. They split along the book's own structural seam: **positive throughout the frame** (1:4; 2:11; 3:21; 5:2; 8:12) and **negative throughout the sentence literature** (12:2; 14:17; 24:8). `[T]` *Moderate–high; distribution confirmed at the checking stage.* In the frame, where the father is forming a son, *mĕzimmâ* is a gift to be given; in the collections, where the world is described as it is, it is what the schemer has. The book hands the naïve a capacity and then spends nineteen chapters showing what it looks like misused.
+
+*What remains mine and unsourced.* That 31:16's verb deliberately closes that arc. `[I]` *Moderate.* A wordplay reference work registers *zāmĕmâ* as a feature of the acrostic `[S: Parks]`, but **no commentary consulted connects it to 1:4** — including Fox, checked 9 August 2026.
+
+*What Fox does supply, which is not the same thing.* Two points, both citable and both useful. (i) He states that **the editor determined the audience of 31:10–31 by attaching the poem to a book that defines its audience, in 1:4, as uneducated boys and young men.** `[S: Fox, AB 18b:905]` (ii) He holds that Proverbs, though "far from systematic," grew through editors who "wrote and gathered proverbs that served their goals," reaching "a fair degree of ideological unity," with the Prologue's author treating Proverbs as "a single book with unified goals." `[S: Fox, AB 18b:967–968]`
+
+*And a caution about how far that carries.* A general claim about editorial unity does **not** license any particular echo; the inference "therefore thematic echoes between opening and closing would be deliberate" is a step Fox does not take, and it should not be attributed to him. What his two points do is establish the *mechanism* by which a 1:4 ↔ 31:16 link could be intended, and — more usefully — they independently tie the poem's audience to 1:4 by name. The lexical claim itself is still mine. See Headline Finding 2 and Open Question 2.
+
+**(c) *ṭerep* (v.15, "food") — withdrawn from the argument.** Ansberry identifies the noun as *ṭerep*, which elsewhere means **prey**, what a lion tears (Ps 104:21; Amos 3:4; Nah 2:12; Ezek 19:3, 6). `[S]` A library search on 9 August 2026 turned up **no source treating the word in this verse**, and the reasoning offered against a predatory sense here was inference rather than citation. *Uncertain.* The lexeme identification may well be right; the claim that its predatory colour is **active in a domestic distribution scene** is unsupported and is withdrawn. It no longer forms part of this report's case, which rests instead on *šālāl* (v.11 — properly **plunder** taken in war) and on the genre argument.
 
 **(d) *nĕʿārōtêhā* (v.15, "her maidens").** The same noun as Wisdom's *naʿărōtêhā* in 9:3 — "she has sent out her young women to call from the highest places in the town." `[T]` *Moderate–high.* Two women in this book have a staff of *nĕʿārôt*: Woman Wisdom and this woman. Folly, by contrast, "sits at the door of her house" (9:14) with nobody. This link was reached independently in the sweep's work on ch. 9 and is corroborated by Ansberry.
 
@@ -242,15 +258,15 @@ See Headline Finding 2. This is the report's own observation and is not in any s
 
 | Verse | ESV | NASB | KJV | Comment |
 |---|---|---|---|---|
-| 10 | An excellent wife | An excellent wife | A virtuous woman | All three under-translate *ḥayil*; none carries strength/valour |
+| 10 | An excellent wife | An excellent wife | A virtuous woman | All three are defensible renderings for a woman-text (TWOT); what they lose is the word's **breadth**, not specifically its martial strand |
 | 10 | who can find? | who can find? | who can find? | Agreed — and see the ancient-versions check below |
 | 11 | he will have no lack of **gain** | will have no lack of **gain** | shall have no need of **spoil** | **KJV alone preserves *šālāl*, "plunder."** As at 1:4/Gen 3:1 in the preamble, the Authorised Version keeps a martial nuance the moderns smooth |
-| 15 | food | food | meat | Neither carries *ṭerep*'s "prey" sense if Ansberry is right |
+| 15 | food | food | meat | No divergence of consequence; the "prey" reading is withdrawn (Tool 7c) |
 | 17 | She dresses herself with strength | She girds herself with strength | She girdeth her loins with strength | KJV is literal — "girds her loins," the idiom for preparing to work or fight (1 Kgs 18:46; 2 Kgs 4:29; Job 38:3) |
 | 18 | She perceives that her merchandise is profitable | She senses that her gain is good | She perceiveth that her merchandise is good | Minor |
 | 29 | done excellently | done nobly | done virtuously | *ʿāśû ḥāyil* — "have done *ḥayil*"; the link to v.10 is invisible in all three |
 
-**The pattern is consistent and worth naming:** the two places in this passage where the Hebrew carries martial force (*šālāl* in v.11, "girds her loins" in v.17), **the KJV preserves it and the modern versions domesticate it.** `[T]` *High — both renderings are checkable.* A preacher wanting the poem's real register without a Hebrew excursus can read vv.11 and 17 from the KJV.
+**A pattern worth naming, now stated more carefully:** at the two places where the Hebrew carries a martial *echo* (*šālāl* in v.11, "girds her loins" in v.17), **the KJV preserves it and the modern versions smooth it.** `[T]` *High — both renderings are checkable.* A preacher wanting that colour without a Hebrew excursus can read vv.11 and 17 from the KJV. But note the limit established at Tool 7(a): these are echoes within a poem whose governing term denotes comprehensive capability, not a martial register running through the whole.
 
 **Ancient versions check.** The moderns agree at v.10 on a rendering that carries real exegetical weight ("An excellent wife who can find?"), so the check is triggered. The **LXX** renders *ʾēšet ḥayil* as *gynaika andreian* — "a **courageous** / manly woman," from *andreios*, the adjective of manly courage. `[S]` *Moderate–high; recommend verification in NETS.*
 
@@ -268,7 +284,7 @@ The dominant device is the **accumulation of active verbs with a single subject*
 
 Three tonal notes are easy to miss:
 
-**There is no tenderness in it.** No affection is described, no beauty praised, no emotion attributed to her except one — she **laughs** (v.25). The poem admires her the way one admires a general.
+**There is no tenderness in it.** No affection is described, no beauty praised, no emotion attributed to her except one — she **laughs** (v.25). The poem admires her the way one admires a commander or a master of a craft — with respect for competence rather than warmth.
 
 **The husband is passive throughout.** He trusts (v.11), he sits (v.23), he praises (v.28). He is the subject of three verbs and none of them is an action. `[T]` *Moderate–high.* Whatever the poem is doing, it is not commending a division of labour.
 
@@ -306,7 +322,7 @@ The distribution matters. The hands *produce* (13, 16, 19), then *give away* (20
 
 *Book usage.* Within Proverbs the phrase occurs at 12:4 — "An *ʾēšet ḥayil* is the crown of her husband, but she who brings shame is like rottenness in his bones" — a single antithetic line dropped into the first Solomonic collection. Here that one line becomes twenty-two. `[T]` The book states the category early and cashes it at the end, which is its habit (compare 3:19–20 → ch. 8; 6:16–19 → 30:15–31).
 
-*OT-to-OT.* Ruth and Proverbs are canonical neighbours in the Writings, and in the Baba Bathra ordering Ruth follows Proverbs directly — so the reader who has just asked "an *ʾēšet ḥayil*, who can find?" turns the page and is shown one. `[S]` *Moderate; manuscript traditions differ and the finding does not depend on the sequence.* What does not depend on the ordering is the distribution: three occurrences in the Hebrew Bible, two of them in Proverbs and one in Ruth.
+*OT-to-OT.* Ruth and Proverbs are canonical neighbours in the Writings, and in the Hebrew ordering Ruth follows Proverbs directly — so the reader who has just asked "an *ʾēšet ḥayil*, who can find?" turns the page and is shown one. **This is more than a curiosity of sequence:** Ruth appears designed to be read from a wisdom perspective, positioned immediately after Proverbs 31's portrait, with the phrase occurring only once elsewhere (12:4); Ruth exemplifies the piety Proverbs teaches and embodies its exemplary woman. `[S: Köstenberger & Goswell; Lau & Goswell]` *Moderate–high — upgraded at the checking stage from* moderate. Boaz's declaration of her worth falls at the turning point where he commits to marry her. `[S]` What does not depend on the ordering is the distribution: three occurrences in the Hebrew Bible, two in Proverbs and one in Ruth.
 
 *What the full triad adds.* This is the single most useful thing a preacher can bring to this passage, and it is pastoral as much as exegetical. The *ʾēšet ḥayil* is not a composite ideal assembled from twenty-two impossible competencies. The canon supplies a worked example, and she is a childless foreign widow who was gleaning in someone else's field a chapter earlier. Whatever *ḥayil* means, Ruth had it before she had a husband, a child, a field, a vineyard, or a servant.
 
@@ -408,7 +424,7 @@ The passage names no one, which makes this tool unusually productive.
 | **The *ʾēšet ḥayil*** | Wisdom embodied; the answer to "who can find?" | **Not primarily an identification.** She is what the reader is taught to recognise and value, not a role assigned to the reader |
 | **The husband** | Beneficiary and witness; trusts, sits, praises | **Not a role model** — he does nothing. But v.28–29 make him the one who *speaks*, which is the poem's model response |
 | **The children** | They "rise up and call her blessed" | A second model response |
-| **The addressee ("my son")** | Still the book's implied reader | **Yes.** He is being shown what to look for and what to praise |
+| **The addressee ("my son")** | Still the book's implied reader — and Fox holds the editor fixed the poem's audience by attaching it to the book defined in 1:4 `[S: Fox, AB 18b:905]` | **Yes.** He is being shown what to look for and what to praise |
 | **The reader of v.31** | The one commanded to give | **Yes** — this is the only direct address in the poem |
 
 **The characteristic misidentification** is for a woman in the congregation to be handed the *ʾēšet ḥayil* as a job description. Within the book's rhetoric she is not that; she is the object of a search and of praise. Ansberry sharpens this usefully: the rhetorical question "who can find?" provokes a second question — **who is looking?** `[S]` *Moderate–high.* The poem is aimed at the seeker, not at the sought.
@@ -455,10 +471,10 @@ Behind that lies the book-level response: that the reader should have become, by
 
 | Term | Form | Range | Usage here | Confidence |
 |---|---|---|---|---|
-| *ḥayil* | noun, vv.10, 29 (and v.3 per Ansberry) | strength, valour, an army, wealth, capability | The crux-word; *gibbôr ḥayil* = "mighty man of valour" (Judg 6:12) | High on range |
-| *zāmĕmâ* | Qal pf. 3fs, √*zmm*, v.16 | plot, devise, scheme | "She schemes a field and takes it"; root of *mĕzimmâ* (1:4; 12:2; 14:17; 24:8) | High on root; moderate on the design |
+| *ḥayil* | noun, vv.10, 29 (and v.3 per Ansberry) | strength, competence, efficiency, wealth, social standing, military heroism, moral substance, mental capacity | The crux-word; in the three woman-texts the sense is **comprehensive excellence**, not martial prowess | High on range; high on the woman-text sense `[S]` |
+| *zāmĕmâ* | Qal pf. 3fs, √*zmm*, v.16 | purpose, propose to oneself; plot, devise `[S: Gesenius]` | "She schemes a field and takes it"; root of *mĕzimmâ*, positive in the frame (1:4; 2:11; 3:21; 5:2; 8:12), negative in the collections (12:2; 14:17; 24:8) | High on root and distribution; moderate on the design |
 | *šālāl* | noun, v.11 | plunder, spoil taken in war | ESV "gain"; KJV "spoil" | Moderate–high |
-| *ṭerep* | noun, v.15 | prey, torn flesh (Ps 104:21; Amos 3:4) | ESV "food" | Moderate `[S]` — **not independently verified** |
+| *ṭerep* | noun, v.15 | prey, torn flesh (Ps 104:21; Amos 3:4) | ESV "food"; **predatory sense withdrawn** — no source found treating the word here | Uncertain `[S]` |
 | *nĕʿārōtêhā* | noun pl. + suff., v.15 | young women, female servants | Same noun as Wisdom's staff, 9:3 | Moderate–high |
 | *marbaddîm* | noun pl., v.22 | coverlets, bed coverings | Only other Proverbs occurrence: 7:16, the seductress's couch | Moderate–high `[S]` |
 | *ḥāgĕrâ … motneyhā* | Qal pf. + noun, v.17 | "she girds her loins" | Idiom for readiness to work or fight (1 Kgs 18:46; 2 Kgs 4:29; Job 38:3) | High |
@@ -481,14 +497,14 @@ Behind that lies the book-level response: that the reader should have become, by
 - ***ḥayil* inclusio** — v.10 and v.29 (and v.3, per Ansberry), bracketing the poem with the valour-word. `[T]`/`[S]` *Moderate–high.*
 - ***yrʾ* used both ways** — *lōʾ-tîrāʾ* (v.21, "she is not afraid") and *yirʾat YHWH* (v.30). The same root negated of circumstance and affirmed of God. `[T]` *Moderate–high.*
 - ***hll* hammered** — three occurrences of the praise-root in the last four verses (vv.28, 30, 31), plus *ʾšr* ("call blessed," v.28). `[T]` *Moderate–high.*
-- **The *zmm* link to 1:4.** A single-occurrence root here, so the three-or-more repetition trigger does not fire; the claim rests on the canonical precedent of the book's own use of *mĕzimmâ*, which is exactly the kind of support the hard rules in `original-languages.md` require before flagging a root-link. Capped at *moderate–high* and routed to Recommended verification. `[I]`
+- **The *zmm* link to 1:4.** A single-occurrence root here, so the three-or-more repetition trigger does not fire; the claim rests on the book's own patterned use of *mĕzimmâ* — now confirmed to split positive/negative along the frame/collections seam `[S]` — which is exactly the kind of support the hard rules in `original-languages.md` require before flagging a root-link. Capped at *moderate–high* and routed to Recommended verification. `[I]`
 - **No consonant-reversal or taxonomy-activation claims are made.** Neither device is triggered here.
 
 #### Recommended verification
 
-- *ṭerep* at v.15 — Ansberry's lexeme identification, which I have not independently confirmed.
+- *ṭerep* at v.15 — the lexeme identification itself remains unconfirmed; the predatory-sense claim is withdrawn (see Tool 7c).
 - The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.
-- The *zmm* / *mĕzimmâ* connection, and whether any commentator makes it. **This is the report's own proposal.**
+- Whether any commentator connects 31:16 to 1:4. Checked 9 August 2026: **none found.** The lexical foundation is now sourced; the design claim remains the report's own.
 - The distribution counts: *ʾēšet ḥayil* (3× in the Hebrew Bible), "hands" (8× in this poem), *hebel* in Proverbs (3×).
 - LXX *gynaika andreian* at v.10, in NETS.
 
@@ -500,7 +516,7 @@ Behind that lies the book-level response: that the reader should have become, by
 
 **Category 2 (substantive variant): none in this passage.**
 
-**What belongs elsewhere under the Three-Way Triage.** The LXX's *gynaika andreian* at v.10 is **category 1** — an interpretive rendering of an ambiguous Hebrew noun, reported under Tool 8, not a manuscript variant. The martial nuances of *šālāl* (v.11) and "girds her loins" (v.17) that the modern English versions lose are likewise category 1 translation loss, reported under Tools 7 and 8. **No category 3 case arises**: the New Testament nowhere quotes Proverbs 31:10–31.
+**What belongs elsewhere under the Three-Way Triage.** The LXX's *gynaika andreian* at v.10 is **category 1** — an interpretive rendering of an ambiguous Hebrew noun, reported under Tool 8, not a manuscript variant. The martial echoes of *šālāl* (v.11) and "girds her loins" (v.17) that the modern English versions smooth are likewise category 1 translation loss, reported under Tools 7 and 8. **No category 3 case arises**: the New Testament nowhere quotes Proverbs 31:10–31.
 
 One book-level note carries over: Greek Proverbs arranges the final collections differently from the Hebrew, and in the LXX ordering 31:10–31 still stands last. `[S]` *Moderate; verify in NETS.* Nothing in this report depends on it.
 
@@ -657,7 +673,7 @@ Running the same tests on the connection that *does* hold, *the poem as the embo
 
 ### Difficult / Contested Verses
 
-**1. The passage as a whole, preached to women.** *(Category: pastoral landmine — the largest in the book.)* This text has been used to set a standard that crushes, and it will be heard by women who have been on the receiving end. Four correctives, all textual: the genre is encomium and its own last verse says *praise her*, not *become her*; the register is martial, not domestic-decorative; the household assumed has servants and an estate, so the labour is not one woman's; and Ruth 3:11 supplies a canonical example who was a destitute foreign widow when the phrase was applied to her. Name the misuse aloud before preaching the poem, or the congregation will hear the misuse.
+**1. The passage as a whole, preached to women.** *(Category: pastoral landmine — the largest in the book.)* This text has been used to set a standard that crushes, and it will be heard by women who have been on the receiving end. Four correctives, all textual: the genre is encomium and its own last verse says *praise her*, not *become her*; the governing term denotes comprehensive capability rather than domestic decorum; the household assumed has servants and an estate, so the labour is not one woman's; and Ruth 3:11 supplies a canonical example who was a destitute foreign widow when the phrase was applied to her. Name the misuse aloud before preaching the poem, or the congregation will hear the misuse.
 
 **2. "An excellent wife who can find?" (v.10)** *(Category: interpretive.)* Three readings are live: it praises her rarity; it suggests an unattainable ideal; or — Ansberry's reframing — it provokes the question *who is looking?* `[S]` *Moderate–high.* All three are defensible. Do not preach it as a lament about the shortage of good women, which is the one reading the context excludes (the poem is addressed to a son being taught to recognise wisdom).
 
@@ -684,9 +700,9 @@ The full list of places where two or more tools independently arrived at the sam
 
 5. **The acrostic is complete, and completeness is its argument — while also making the middle of the poem non-sequential.** Structure · Genre · Original Languages. The second half of that is the practically useful part: it tells the preacher not to look for logical progression in vv.13–24. *High; mapping confirmed against BHS.*
 
-6. **The verb of 1:4's promise is performed at the acrostic's zayin line.** Vocabulary · Original Languages · Move 4 · Biblical Theology. *Mĕzimmâ* promised to the naïve; *zāmĕmâ* exercised on a field. *Moderate–high.*
+6. **The verb of 1:4's promise is performed at the acrostic's zayin line — and in Proverbs the noun's two senses split along the book's own seam.** Vocabulary · Original Languages · Move 4 · Biblical Theology. *Mĕzimmâ* positive throughout the frame (1:4; 2:11; 3:21; 5:2; 8:12), negative throughout the collections (12:2; 14:17; 24:8); *zāmĕmâ* exercised on a field at 31:16. *Moderate–high on the distribution; moderate on the design.*
 
-7. **The register is martial, and English translations lose it while the KJV and the LXX keep it.** Vocabulary · Translations · Genre · Tone. *Ḥayil*, *šālāl*, "girds her loins," *ṭerep*; KJV "spoil" and "girdeth her loins"; LXX *gynaika andreian*. *Moderate–high.*
+7. **The poem carries martial echoes, and the KJV and the LXX keep them where the modern versions smooth them — but the governing term is broader than "martial."** Vocabulary · Translations · Genre · Tone. *Šālāl* (v.11) and "girds her loins" (v.17); KJV "spoil" and "girdeth her loins"; LXX *gynaika andreian*. **Revised at the checking stage:** *ḥayil* in the woman-texts denotes comprehensive excellence rather than martial prowess `[S: TWOT; Lau & Goswell]`, and the *ṭerep* item is withdrawn. The martial reading now rests on Ansberry's genre argument, not on the lexeme. *Moderate.*
 
 8. **The book opens and closes with a woman teaching.** Vocabulary · Move 4 · Author's Purpose. *Tôrat ʾimmekā* (1:8; 6:20) → *tôrat-ḥesed* (31:26). *High.*
 
@@ -709,14 +725,14 @@ The full list of places where two or more tools independently arrived at the sam
 ### Pitfall: the specification sermon
 
 - **What it looks like:** the poem preached as a standard for Christian womanhood, often on Mothering Sunday, with the twenty-two verses turned into headings or a checklist.
-- **Why it's wrong:** the genre is an encomium whose own final verse commands the reader to *give her praise* (v.31), not to become her; there is no imperative addressed to the woman anywhere in the poem; the household assumed includes servants and an estate, so the labour described is not one person's; and the register is martial rather than domestic.
+- **Why it's wrong:** the genre is an encomium whose own final verse commands the reader to *give her praise* (v.31), not to become her; there is no imperative addressed to the woman anywhere in the poem; the household assumed includes servants and an estate, so the labour described is not one person's; and the governing term denotes comprehensive capability, not domestic virtue narrowly.
 - **The corrective:** preach the genre first, then read Ruth 3:11 aloud — the canon's one other *ʾēšet ḥayil* was a childless foreign widow gleaning in someone else's field when the phrase was applied to her. Then preach v.31 as the sermon's application: praise, publicly and materially.
 
 ### Pitfall: the apology
 
 - **What it looks like:** the mirror-image failure — preaching the passage defensively, explaining it away, or treating it as a culturally-bound embarrassment to be handled gently.
 - **Why it's wrong:** it patronises the poem and misses what is actually in it. She buys land, runs a textile business, imports goods, trades with merchants, gives to the poor, teaches, and is publicly vindicated in the civic square. The poem is not small.
-- **The corrective:** preach vv.16 and 24 — the commercial verses — and the martial vocabulary. A congregation that has heard the passage only as domestic piety has not heard it.
+- **The corrective:** preach vv.16 and 24 — the commercial verses — and the breadth of *ḥayil*, which covers means and standing as well as moral substance. A congregation that has heard the passage only as domestic piety has not heard it.
 
 ### Pitfall: racing to verse 30
 
@@ -748,11 +764,11 @@ The full list of places where two or more tools independently arrived at the sam
 
 1. ~~**The acrostic letter-mapping (Tool 3).**~~ **RESOLVED — confirmed against BHS by the user, 9 August 2026.** The letter assignments in Tool 3 stand as printed, including the two that carry weight: ש at v.30 (*šeqer*) and ת at v.31 (*tĕnû*). The table may be displayed to a congregation as it stands.
 
-2. **The *zmm* / *mĕzimmâ* connection (Headline 2).** The root identity is secure; the claim that Proverbs designed the link is **this report's own proposal and is unsourced.** Ansberry does not make it. Verify against Waltke (NICOT) or Fox (AB) on 31:16 and on 1:4; if no commentator makes it, present it as a suggestion rather than a finding. **The most important verification item in the report.**
+2. **The *zmm* / *mĕzimmâ* connection (Headline 2) — PARTLY RESOLVED, 9 August 2026.** The library confirms the lexical foundation: *zāmam* at 31:16 means "purpose, propose to oneself" `[S: Gesenius]`, and *mĕzimmâ* has a dual range covering both "wicked scheme" and "discretion" `[S: Lexham; Swanson]`. It also confirms the distribution across Proverbs, which is the load-bearing part — positive in the frame, negative in the collections. **What it does not confirm is the design claim:** no commentary consulted connects the acrostic's zayin line to 1:4's promise, though a wordplay reference work does register *zāmĕmâ* as a feature of the acrostic `[S: Parks]`. *Fox checked, 9 August 2026 — does not confirm.* Fox does not trace the *zmm* root across these passages. He does supply two things that frame the proposal without proving it: the editor "determined the audience of 31:10–31 by attaching the poem to a book that defines its audience" in 1:4 `[S: AB 18b:905]`, and Proverbs reached "a fair degree of ideological unity" under editors with goals `[S: AB 18b:967–968]`. **Note the limit:** editorial unity in general does not establish any particular echo, and the step from one to the other is not Fox's. *Also note a gap in the check:* only Fox's second volume (chs. 10–31) was available, so his treatment of 1:4 itself — where a comment on *mĕzimmâ* would most naturally sit — has not been consulted. *Residual task:* Fox vol. 1 on 1:4, and Waltke (NICOT) *ad loc.* The design claim stays `[I]` at *moderate*: now framed rather than free-floating, but still a suggestion, not a finding.
 
-3. **The 8:35 ∥ 18:22 clause identity (Headline 1).** I am confident the Hebrew predicate is the same in both (*wayyāpeq rāṣôn mē-YHWH*), and the ESV renders both "obtains favour from the LORD" — but **verify the Hebrew directly**, because the whole Christological trajectory in this report rests on it. Ansberry notes *māṣāʾ* at 31:10; 1:28; 8:17 but not this pair.
+3. ~~**The 8:35 ∥ 18:22 clause identity (Headline 1).**~~ **RESOLVED — confirmed, 9 August 2026.** Both verses read וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה, identical down to the accents. The predicate is *wayyāpeq rāṣôn mē-YHWH* in both. Headline 1 and the Christological trajectory that rests on it stand at *high* confidence. Supporting material noted at the same time: Prov 3:4; 11:27; 12:2 form a wider favour-obtaining cluster.
 
-4. ***Ṭerep* at v.15.** Ansberry's lexeme identification ("prey"), reported here as `[S]` and **not independently verified**. If wrong, one item of the martial-vocabulary argument falls; the rest (*ḥayil*, *šālāl*, "girds her loins") stands.
+4. ~~***Ṭerep* at v.15.**~~ **RESOLVED AGAINST — withdrawn, 9 August 2026.** A library search found no source treating the word in this verse, and the case offered against a predatory sense here was inference rather than citation. The claim is removed from Tool 7(c) and from Convergent Finding 7. *Residual uncertainty:* the lexeme identification itself is still unconfirmed, but nothing now depends on it.
 
 5. ***Ḥayil* at 31:3.** Ansberry's claim. If correct, the noun occurs three times in the chapter and the link between the oracle and the poem is lexical as well as thematic. Worth checking, because it would strengthen the Positional Necessity argument.
 
@@ -774,7 +790,7 @@ The overview (v1.0) and the sweep's Unit 18 are confirmed throughout. Five items
 
 **1. The overview's central claim about this passage now has a textual warrant it lacked.** The overview said the poem is "wisdom embodied" and cited 8:11 ∥ 31:10 ("more precious than jewels") as "the single clearest textual warrant." That is good, but the stronger warrant is the one this run found: **8:35 and 18:22 say the identical thing — "obtains favour from the LORD" — about finding Wisdom and about finding a wife**, and 31:10 asks that question again with the same verb. Add it to the overview's Christological trajectory and to its echo table. `[T]` *High.*
 
-**2. Extension: the *zmm* thread.** Neither the overview, the sweep, nor Ansberry connects 1:4's *mĕzimmâ* to 31:16's *zāmĕmâ*. If it holds, it belongs in the overview's echo table as a book-spanning root link, and it pairs with the *ʿormâ*/Gen 3:1 finding from the 1:1–7 run to make a single argument: the book promises the naïve two morally two-edged capacities and shows both rightly used at the end. `[I]` *Moderate–high.*
+**2. Extension: the *zmm* thread — now with a sourced distribution.** Neither the overview, the sweep, nor Ansberry connects 1:4's *mĕzimmâ* to 31:16's *zāmĕmâ*. The checking stage adds a fact that stands on its own regardless of the design claim: **within Proverbs the noun is positive throughout the frame and negative throughout the sentence collections.** That belongs in the overview's echo table as a book-spanning root link, and it pairs with the *ʿormâ*/Gen 3:1 finding from the 1:1–7 run to make a single argument: the book promises the naïve two morally two-edged capacities and shows both rightly used at the end. `[I]` *Moderate–high.*
 
 **3. Extension: the positional link at 31:8–9 / 31:26.** The overview and the sweep both noted that the king is told to open his mouth and that she opens her hand and mouth. Neither noted that **31:8, 9 and 31:26 share the verb and the noun** (*pĕtaḥ pîkā* / *pîhā pātĕḥâ*). That converts a thematic observation into a lexical one and is the strongest available answer to why the poem sits where it does. `[T]` *High.*
 
@@ -782,7 +798,7 @@ The overview (v1.0) and the sweep's Unit 18 are confirmed throughout. Five items
 
 **5. A refinement to the overview's structural note.** The overview said the poem's acrostic "imposes its own order and is not a logical outline," which is right, and then gave a movement from question through the domestic and commercial world to public praise — also right. What neither the overview nor the sweep says is that **v.20 sits alone as the only outward-facing verse in the working section, at its midpoint.** Given the Positional Necessity finding, that placement is probably deliberate and it is the verse a sermon should not skip. `[T]`/`[I]` *Moderate–high.*
 
-**Where this run confirms the overview and the sweep without qualification:** the 1:7 / 9:10 / 31:30 envelope; the *ʾēšet ḥayil* distribution and the Ruth link; the systematic antithesis with the strange woman and Folly; the genre as encomium and the "praise her, not become her" corrective; the martial vocabulary; the acrostic's completeness; and the rejection of typology in favour of trajectory.
+**Where this run confirms the overview and the sweep without qualification:** the 1:7 / 9:10 / 31:30 envelope; the *ʾēšet ḥayil* distribution and the Ruth link; the systematic antithesis with the strange woman and Folly; the genre as encomium and the "praise her, not become her" corrective; the acrostic's completeness; and the rejection of typology in favour of trajectory. **One item is corrected rather than confirmed:** the overview and the sweep both describe the poem's vocabulary as straightforwardly "military," which the checking stage has shown to be too strong (see Tool 7a). Both have been amended.
 
 ---
 
@@ -819,7 +835,20 @@ The text-first work was done first and is separable from Ansberry: the **8:35 �
 - Three-Way Triage: every Hebrew/Greek and Hebrew/English divergence assigned. **Category 1** (translation loss) — LXX *gynaika andreian*; the modern versions' loss of *šālāl* and "girds her loins". **Category 2** — none in this passage; stated explicitly. **Category 3** — none, since the New Testament nowhere quotes this passage; stated explicitly.
 - `[T]` boundary: no authorship, date, composition, audience, occasion, setting or cultic-use claim carries a `[T]` tag. The courtly/aristocratic reading of the household, the ANE background, the canonical ordering of Ruth, and the heroic-panegyric classification are all `[I]` or `[S]`.
 
-**Post-delivery verifications.** The acrostic letter-mapping (Tool 3, Headline 5) was checked against BHS by the user on 9 August 2026 and **confirmed**; Open Question 1 is closed and the relevant confidence flags are raised to *high*. The user has also put the *ḥayil* and *ṭerep* questions to desktop Logos; those answers are not yet in hand, so Open Questions 2, 3, 4 and 8 remain open.
+**Post-delivery verifications (9 August 2026).** Four checks were run by the user against BHS and the Logos library, and their results are incorporated above rather than appended.
+
+1. **Acrostic letter-mapping (Tool 3, Headline 5) — confirmed** against BHS. Open Question 1 closed; confidence raised to *high*.
+2. **8:35 ∥ 18:22 predicate (Headline 1) — confirmed** from the Hebrew: וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה in both, identical to the accents. Open Question 3 closed. This was the report's most load-bearing unverified claim and it holds.
+3. ***Ḥayil* (Tool 7a, Convergent 7) — corrected.** The library's answer supports the breadth of the term but **not** the martial reading I had built on it: in the three woman-texts (Ruth 3:11; Prov 12:4; 31:10) the sense is comprehensive excellence, and "virtuous"/"worthy" is the standard rendering. `[S: Weber, TWOT 624; Lau & Goswell, NSBT 41; Köstenberger & Goswell]` My "every English rendering under-translates it" was an over-reach and has been withdrawn; the martial reading has been reassigned to Ansberry's genre argument, where it belongs. This correction has been propagated to `dig-deeper-proverbs-sweep.md` (Unit 18) and `book-overview-proverbs.md` (preaching trap 4).
+4. ***Ṭerep* (Tool 7c) — withdrawn.** No source found treating the word in this verse; the answer's reasoning was inference, not citation. Removed from the argument.
+
+5. ***Zmm* / *mĕzimmâ* (Headline 2) — partly resolved.** The lexical foundation and the intra-Proverbs distribution are now sourced `[S: Gesenius; Lexham; Swanson; Parks]`; the design claim is not. Headline 2 has been rewritten to separate the two, and its distribution half is the part that can be preached.
+
+6. **Fox consulted on the design claim (9 August 2026) — does not confirm, but frames.** Fox does not trace the root. He does state that the editor fixed this poem's audience by attaching it to the book defined in 1:4 `[S: AB 18b:905]` — which independently corroborates this report's Author's Purpose and Who Am I findings — and that Proverbs achieved "a fair degree of ideological unity" under purposeful editors `[S: AB 18b:967–968]`. **The inference from general editorial unity to this particular echo is not Fox's and is not adopted here.** Only Fox vol. 2 (chs. 10–31) was available, so his comment on 1:4 remains unchecked.
+
+**Still open:** the design half of Open Question 2 (awaiting Fox vol. 1 on 1:4, or Waltke *ad loc.*) and Open Question 8 (whether the Isaiah 53 contrast is a recognised move).
+
+**Warrant counts (report body
 
 **Warrant counts (report body, excluding this Declaration):** `[T]` 66 · `[I]` 27 · `[S]` 21.
 

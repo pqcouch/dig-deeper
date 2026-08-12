@@ -1802,7 +1802,7 @@ Urgent, intimate and slightly alarmed — a mother's voice, using her son's titl
 ### Headline Findings
 
 1. **The poem is an acrostic — twenty-two lines, one for each letter of the Hebrew alphabet — and the form is the argument.** `[T]` Surfaced by: Structure, Genre. The book closes with completeness spelled out A to Z, matching the twenty-two-verse chapter that opened the instruction (ch. 2). *High confidence on the acrostic; moderate on the ch. 2 correspondence.*
-2. **The vocabulary is military.** `[T]` Surfaced by: Vocabulary, Genre, Tone. *ʾēšet ḥayil* (v.10) uses the word for valour and armed strength (*gibbôr ḥayil*, "mighty man of valour"); "he will have no lack of **gain**" (v.11) is *šālāl*, plunder or spoil; "she dresses herself with strength" (v.17) is literally "she girds her loins." *Moderate–high, and it changes the register of the whole poem.*
+2. **The vocabulary is broader and stronger than "excellent wife" suggests — though not simply military.** `[T]` Surfaced by: Vocabulary, Genre, Tone. *Ḥayil* (vv.10, 29) is a comprehensive capability word — strength, competence, wealth, social standing, moral substance, and military heroism among them; "he will have no lack of **gain**" (v.11) is *šālāl*, plunder or spoil; "she dresses herself with strength" (v.17) is literally "she girds her loins." **Revised 9 August 2026:** an earlier draft called the vocabulary "military" outright. In the three woman-texts (Ruth 3:11; Prov 12:4; 31:10) the lexicographical tradition takes *ḥayil* as comprehensive excellence and renders it "virtuous"/"worthy" `[S: TWOT; Lau & Goswell]`; the martial colour is real but is carried by the poem's *genre* (heroic panegyric) rather than by the term. *Moderate.*
 3. **"An excellent wife" occurs only twice in Proverbs and once elsewhere in the canon — in Ruth.** `[T]` Surfaced by: Vocabulary, Quotation/Allusion, Move 4. Prov 12:4; 31:10; and Ruth 3:11, where Boaz says of Ruth, "all my fellow townsmen know that you are a worthy woman (*ʾēšet ḥayil*)." *High confidence on the distribution; moderate–high on the canonical significance.*
 4. **The poem's punchline is the book's motto.** `[T]` Surfaced by: Structure, Repetition, Move 4. "Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised" (v.30). The acrostic reaches its penultimate letter on the phrase the book began with at 1:7. *High confidence.*
 
@@ -1834,7 +1834,7 @@ Device: **acrostic**, which imposes its own order and is not a logical outline. 
 
 ### 7. Vocabulary
 
-- **"an excellent wife" (*ʾēšet ḥayil*, v.10)** — see Headline Findings 2 and 3. `[T]` *High.* ESV's "excellent" is weak; the word covers strength, capability, wealth, and armed force.
+- **"an excellent wife" (*ʾēšet ḥayil*, v.10)** — see Headline Findings 2 and 3. `[T]` *High.* The word covers strength, competence, wealth, social standing and moral substance at once; what "excellent" loses is that breadth. `[S]`
 - **"gain" (*šālāl*, v.11)** — plunder taken in war. `[T]` *Moderate–high.* The husband of a *ʾēšet ḥayil* comes home with spoil.
 - **"she dresses herself with strength" (v.17)** — Hebrew "she girds her loins," the idiom for preparing to work or to fight (1 Kgs 18:46; Job 38:3). `[T]` *High.*
 - **"she laughs at the time to come" (v.25)** — the verb of 1:26, where *Wisdom* laughs. The book's first laugh was Wisdom's derision; its last is this woman's confidence. `[T]` *Moderate–high — a genuine and unadvertised bookend.*
@@ -1843,7 +1843,7 @@ Device: **acrostic**, which imposes its own order and is not a logical outline. 
 
 ### 8. Translations
 
-ESV/NASB/KJV agree substantively; KJV's "virtuous woman" and ESV's "excellent wife" both under-translate *ḥayil*, and NASB's "excellent wife" likewise. No modern version carries the military register — a **category 1 translation-loss** item. **Ancient versions check:** the LXX renders *ʾēšet ḥayil* as *gynaika andreian*, "a courageous/manly woman," which actually preserves the valour sense better than the English tradition. *Moderate–high confidence.* Worth citing from the pulpit precisely because it cuts against the domesticated reading.
+ESV/NASB/KJV agree substantively. "Virtuous"/"worthy" is in fact the standard rendering for the woman-texts `[S: TWOT]`; what all three lose is the term's **breadth** rather than a specifically military sense — a **category 1 translation-loss** item. **Ancient versions check:** the LXX renders *ʾēšet ḥayil* as *gynaika andreian*, "a courageous/manly woman," which actually preserves the valour sense better than the English tradition. *Moderate–high confidence.* Worth citing from the pulpit precisely because it cuts against the domesticated reading.
 
 ### 9. Tone
 
@@ -1863,7 +1863,7 @@ Celebratory and admiring, with an undertone of energy that borders on the heroic
 
 *Book usage:* the phrase occurs in Proverbs only at 12:4 and 31:10. Its first Proverbs use is a single line in the middle of the antithetic collection; its second is a twenty-two-line poem.
 
-*OT-to-OT:* in the Hebrew canonical order that places Ruth among the Writings, **Ruth follows immediately after Proverbs** — so the reader who has just finished Prov 31:10's "an excellent wife who can find?" turns the page and is shown one. `[S]` *Moderate confidence on the ordering (it varies among Hebrew manuscript traditions), high on the phrase distribution.* Even where the ordering differs, the shared phrase across only three canonical occurrences is striking.
+*OT-to-OT:* in the Hebrew canonical order that places Ruth among the Writings, **Ruth follows immediately after Proverbs** — so the reader who has just finished Prov 31:10's "an excellent wife who can find?" turns the page and is shown one. Ruth appears designed to be read from a wisdom perspective in that position, exemplifying the piety Proverbs teaches and embodying its exemplary woman. `[S: Köstenberger & Goswell; Lau & Goswell]` *Moderate–high — upgraded 9 August 2026.* The shared phrase across only three canonical occurrences is striking whatever the ordering.
 
 *What it adds:* the *ʾēšet ḥayil* is not an unattainable composite. The canon supplies a worked example, and she is a destitute foreign widow who gleaned in someone else's field. That single observation defuses most of the pastoral damage this passage does.
 
@@ -1891,7 +1891,7 @@ The strongest available reading is **not** typology of Christ but **completion o
 
 ### Passage-specific difficulties
 
-- **The Mothering Sunday sermon.** The poem is an acrostic hymn of praise addressed, within the book's rhetoric, to a young man. Preached as a specification for wives it produces guilt in the diligent and despair in the exhausted; preached as an apology for the text it patronises the poem. The correctives are all textual: the genre is encomium (v.31 says *praise her*); the vocabulary is military, not domestic; Ruth supplies a real and unlikely example; and v.30 makes the fear of the LORD, not the productivity, the point. *Category: pastoral landmine / standard sermon cliché.*
+- **The Mothering Sunday sermon.** The poem is an acrostic hymn of praise addressed, within the book's rhetoric, to a young man. Preached as a specification for wives it produces guilt in the diligent and despair in the exhausted; preached as an apology for the text it patronises the poem. The correctives are all textual: the genre is encomium (v.31 says *praise her*); *ḥayil* denotes comprehensive capability, not domestic decorum; Ruth supplies a real and unlikely example; and v.30 makes the fear of the LORD, not the productivity, the point. *Category: pastoral landmine / standard sermon cliché.*
 - **"She is far more precious than jewels" as a marriage-market valuation.** The formula is Wisdom's own (3:15; 8:11). The woman is being valued as Wisdom is valued.
 - **The husband "sits among the elders" while she works.** Read as a division of labour it invites either endorsement or embarrassment. The text's own interest is that *her* works are what praise her in that same public space (v.31) — the poem ends by putting her, not him, in the gate.
 
@@ -2041,7 +2041,7 @@ The book anatomises the wicked by body part three times in the frame, and then, 
 #### Pitfall: the Proverbs 31 sermon
 
 - **What it looks like:** either a Mothering Sunday specification for wives, or its modern reaction, an apology for the passage.
-- **Why both are wrong:** the genre is an acrostic **encomium** — its own last verse says *praise her*, not *become her*; the vocabulary is military (*ḥayil*, *šālāl*, "girds her loins"); within the book's rhetoric the addressee is still "my son"; and the canon supplies a real example in Ruth, who was a destitute foreign widow.
+- **Why both are wrong:** the genre is an acrostic **encomium** — its own last verse says *praise her*, not *become her*; *ḥayil* denotes comprehensive capability rather than domestic virtue, with martial echoes in the imagery (*šālāl*, "girds her loins"); within the book's rhetoric the addressee is still "my son"; and the canon supplies a real example in Ruth, who was a destitute foreign widow.
 - **The corrective:** preach it as the answer to the strange woman and as wisdom given a face, with 31:30 as the point. Then read Ruth 3:11 aloud.
 
 #### Pitfall: allegorising Woman Wisdom
@@ -2171,6 +2171,8 @@ The identical-invitation architecture; the fear-of-the-LORD frame at 1:7 / 9:10 
 **Reference files viewed:** Core 01–07 (all seven) · `preacher-extras.md` · `historical-background.md` · `original-audience.md` · the Song of Solomon sweep as the in-house format calibration anchor. **Not viewed, with reason:** the `psalm-33-worked.md` solo example (the in-house multi-passage sweep was preferred as the closer calibration for this deliverable's format, and the depth floors below were checked against the sweep-mode adjustments rather than the solo floors) · `original-languages.md`, `textual-variants.md`, `biblical-theology.md`, `difficult-verses.md`, `christological-reading.md` (worked from the extension headings and the book-level frames; **this is a shortfall and is declared as one** — a solo run on any ⭐ unit should view them).
 
 **Depth floors:** Met for sweep mode. Eighteen units, each with a Positional Necessity Check and a Move 4 internal-echo check (no nil-returns were needed — every unit produced internal echoes, which is itself a finding about this book). Book-level foundations carry the constant tools. Headline Findings: 3–4 per unit. Confidence flags: present throughout on every lexical, manuscript and intertextual claim. **Shortfalls declared:** per-unit treatment is proportional, not solo-depth; five extension reference files were not viewed (above); Tools 13/15 are handled at book level plus three units rather than per unit, and Tool 6 is worked only where it applies.
+
+**Post-delivery revision (9 August 2026).** Unit 18's Headline Finding 2 called the poem's vocabulary "military"; a library check showed that too strong for *ḥayil* in the woman-texts, and the finding has been rewritten (see the solo report `dig-deeper-proverbs-31-10to31.md`, Tool 7a). The Ruth 3:11 link has been upgraded from *moderate* to *moderate–high* on the same check.
 
 **Warrant counts (approximate):** `[T]` 168 · `[I]` 71 · `[S]` 24.
 
