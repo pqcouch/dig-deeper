@@ -265,8 +265,8 @@ Wilderness Israel hears the terms on which it became God's own: not a slave-peop
 
 ## Open Questions / Uncertainties
 
-- **The pointed force of _gôy_ for Israel (v. 6)** — "a nation among the nations, yet holy" is homiletically rich but should be confirmed lexically.
-- **The exact rear boundary** — this dig ends the unit at v. 8 (the vow + Moses' report), with v. 9 opening the sequel; a defensible alternative keeps 19:1–9 together (v. 9 as the pivot). The companion dig treats v. 9 as the sequel's thesis; noted rather than settled.
+- ~~**The pointed force of _gôy_ for Israel (v. 6)**~~ **⭐ RESOLVED at the Research Assistant pass (August 2026) — the choice is pointed, and it is an allusion.** ***Gôy* denotes a political entity where *ʿam* is a kinship term**, and the use of *gôy* at 19:6 is *"an intentional allusion to Genesis 12:2"*, the promise to make Abram *a great nation*. **The force is deliberate and it cuts both ways:** *"although *gôy* highlights the similarity between Israel and the nations, Israel was to be different, a holy nation. In fact, the use of *gôy* draws out the force of *qādôš*."* **So Israel is structurally a nation among nations and theologically distinguished by holiness and priestly vocation** — inheriting the responsibility conferred on Abraham, that of mediating blessing to the earth. **The homiletically rich reading is the correct one, and it now has a source** (Blackburn, NSBT 28, 93–94; Williamson, NSBT 23, 97). *High.* `[revised: research-assistant pass]`
+- **The exact rear boundary** — **still open, and never put to the Assistant.** This dig ends the unit at v. 8 (the vow + Moses' report), with v. 9 opening the sequel; a defensible alternative keeps 19:1–9 together (v. 9 as the pivot). The companion dig treats v. 9 as the sequel's thesis. **Noted rather than settled — and it determines where the first Sinai sermon stops.** `[revised: research-assistant pass — not queried]`
 
 *The passage is reproduced from a verified-standard ESV held in working memory; wording-dependent findings (Tools 7, 8, 10, 11) were re-checked and flagged where anything hangs on exact wording.*
 

@@ -308,11 +308,13 @@ Wilderness Israel — tabernacle standing among them — hears its own constitut
 
 ## Open Questions / Uncertainties
 
-- **The precise LXX/versional order of 20:13–15** and which NT citations depend on it — verify in NA28/NETS.
-- **_ʿal-pānāy_ (20:3)** — "before me" vs "in my presence"; confirm in a lexicon.
-- **_pāraṣ_ ↔ 2 Sam 6 (Uzzah)** as deliberate allusion vs. stock vocabulary — *moderate*.
-- **Heb 12:21's "I tremble with fear"** attributed to Moses — drawn from tradition (cf. Deut 9:19), not quoted from Exodus 19–20; note the source if used.
-- **The resumptive 19:9b** ("When Moses told the words of the people to the LORD") — a known compositional seam; nothing preaching-critical hangs on it, but note it if teaching the chapter's flow.
+*Two resolved at the Research Assistant pass (August 2026); three remain.*
+
+- ~~**The precise LXX/versional order of 20:13–15**~~ **⭐ RESOLVED.** **Codex Vaticanus of LXX Exodus transposes the sixth commandment to follow the seventh and eighth**, giving the order *seventh, eighth, sixth*. **The Alexandrian manuscripts and other witnesses agree with the Hebrew.** **NT citations divide along the same lines:** Matthew follows the Hebrew order of Exodus; **Mark in Vaticanus shows the same transposition**, while Lachmann's text of Mark preserves the Hebrew order. **So the variation is real, is confined largely to the Vaticanus tradition, and is visible in the NT — worth a clause if a series preaches the Decalogue against its NT citations.** *High.* `[revised: research-assistant pass]`
+- **_ʿal-pānāy_ (20:3)** — **still open.** The Assistant could not locate the lexicographical discussion. **What it did note:** the phrase is **fixed across Exodus 20:3 and Deuteronomy 5:7**, suggesting a settled theological sense rather than one varying by context, and the broader biblical usage **supports the exclusivity reading** ("besides me") over bare spatial priority. *Moderate — confirm in a lexicon.* `[revised: research-assistant pass — unanswered]`
+- ~~**_pāraṣ_ ↔ 2 Sam 6 (Uzzah)**~~ **⭐ RESOLVED — the echo is deliberate.** *Pāraṣ* is standard vocabulary for God's punitive action, **but the specific link holds**: the construction of 19:22 (*pāraṣ* with God as subject) recurs at **2 Samuel 6:8; 1 Chronicles 13:11; 15:13; 2 Chronicles 20:37** — a cluster suggesting conscious literary resonance. **The decisive evidence is the place-name: Perez-Uzzah preserves the verb in nominal form**, explicitly rendering *"the LORD broke forth against Uzzah"* with the same preposition construction as Exodus 19:22, 24. *Upgraded from moderate.* `[revised: research-assistant pass]`
+- **Heb 12:21's "I tremble with fear"** attributed to Moses — **still open, and never put to the Assistant.** Drawn from tradition (cf. Deut 9:19), **not quoted from Exodus 19–20**; note the source if used. `[revised: research-assistant pass — not queried]`
+- **The resumptive 19:9b** ("When Moses told the words of the people to the LORD") — **still open, and never queried.** A known compositional seam; nothing preaching-critical hangs on it, but note it if teaching the chapter's flow. `[revised: research-assistant pass — not queried]`
 
 *The passage is reproduced from a verified-standard ESV held in working memory (20:1–17 abbreviated here — full text in the companion 20:1–21 dig); wording-dependent findings (Tools 7, 8, 10, 11) were re-checked and flagged where anything hangs on exact wording.*
 

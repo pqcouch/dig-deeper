@@ -377,7 +377,23 @@ NT passage — Christ named as the gospel-standard ("worthy of the gospel *of Ch
 
 ---
 
-## Open Questions / Uncertainties
+### Research verification — 13 August 2026
+
+Three of this report's five items are addressed, and the passage gains a hard lexical confirmation it did not have.
+
+| # | Item | Verdict |
+|---|------|---------|
+| 2 | The antecedent of *kai touto* (v.28) | **Closed toward the widest reading.** The strongest contextual case takes τοῦτο as the *whole preceding situation* — their unalarmed stance in the face of opposition, understood as divinely given — rather than the sign alone or the salvation alone. v.29 then follows naturally: suffering "has been granted", so the entire posture, not an isolated element, comes from God. The report's own instinct ("either way, God is the source") is right, but the wide reading is the better one and preaches better: *your steadiness is itself a gift*. |
+| 4 | Identity of the "opponents" (v.28) | **Sharpened, not settled — and the distinction is now well founded.** Round-three work on the "enemies of the cross" (3:18–19) produced three named positions (Silva: Judaisers; Martin: professed believers, probably the 3:2 group; Thompson: the majority culture and any who do not share the cross's centrality). None of them identifies the 1:28 *antikeimenoi* with the chapter-3 opponents, and Silva argues 3:19's "earthly things" need not imply the libertinism sometimes read there. **The report's call — civic-pagan hostility here, doctrinal opposition in chapter 3 — stands, and the two groups should not be merged.** |
+| 5 | The civic weight of *politeuomai* (v.27) | **Confirmed, strongly.** Roman colonists went out "to represent and reproduce the City in the midst of an alien population"; the colony was a miniature Rome abroad. Commentators read 3:20 through exactly that frame, and *politeuma* denotes "a corporate body of citizens… resident in a foreign city while their citizenship and allegiance is elsewhere". The report rated the civic sense *high*; it is. `[S: Conybeare & Howson; Gilbrant; Brown]` |
+
+**And a hard confirmation of this unit's forward link.** ἀπώλεια — "destruction", v.28 — occurs in Philippians **only here and at 3:19**. The two opposing parties of the letter, the ones who frighten the church and the ones who walk as enemies of the cross, are given the same end-word; and 1:28's "your salvation, and that from God" is answered by the **Saviour** awaited from heaven at 3:20. This report proposed the link; the concordance now carries it, and it is the strongest single piece of evidence that chapter 3 answers this passage rather than departing from it. `[S: Logos concordance; §1:27–4:1 run]`
+
+**Still open:** who reads the "sign" of v.28 (the opponents, the church, or both), and whether faith as well as suffering is said to be "granted" at v.29 — the Reformed/Arminian question the report deliberately declines to force.
+
+---
+
+## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
 
 1. **v.28 — the "sign": seen by the opponents, the church, or both?** And the precise logic by which the church's fearlessness signals the opponents' destruction. *Probably both parties; flag.*
 2. **v.28 — "and that (*kai touto*) from God": antecedent** — the salvation, or the whole sign-situation? *Either way, God is the source; minor.*

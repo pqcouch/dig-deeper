@@ -410,7 +410,22 @@ NT passage — Christ named ("day of Christ", v.16) and the hymn immediately beh
 
 ---
 
-## Open Questions / Uncertainties
+### Research verification — 13 August 2026
+
+Two of this report's five open questions are closed; both close as **"both, not either"**, which is the more interesting answer in each case.
+
+| # | Item | Verdict |
+|---|------|---------|
+| 2 | *Phōstēres* (v.15) — Gen 1 or Dan 12:3? | **Closed — both, with Daniel primary.** φωστήρ in the LXX denotes the sun and moon of Gen 1:14, 16, so Genesis supplies the *image*; Daniel 12:3 supplies the *eschatology*, and carries the primary theological weight. The striking part: **Dan 12:3 and Phil 2:15 are reportedly the only two places in Scripture where God's people shine as stars/lights**, and the tense moves from Daniel's future ("they *will* shine") to Paul's present ("you *shine*") — realised eschatology, the church already doing what the apocalypse promised for the end. Ware puts it strongly: through this allusion Paul "includes the Philippians in the suffering remnant whom God will raise to life in the time of new creation". `[S: Ware; ESV Exp. Comm.; Spicq; EDNT]` |
+| 5 | Isa 49:4 or 65:23 at v.16? | **Closed — both, woven, and in that order.** Isa 49:4 gives the Servant's *despair* ("I laboured in vain and for futility"), which Paul's own trepidation echoes; Isa 65:23 gives God's *promise* ("my chosen shall not labour in vain"), in which his confidence rests. Not a choice of sources but an arc from fear to promise — already materialised, on Park's reading, in the resurrection and exaltation of Christ. `[S: Park; Keown; Jones; ESV Exp. Comm.]` |
+
+**A consequence for this report's Tool 11.** The Daniel 12 link is no longer a lone echo at v.15. Commentators read **Daniel 12 as a single oracle** whose two motifs Paul uses at the two ends of the letter's application — the *book* (12:1) at 4:3, and the *shining* (12:3) here — and Dan 12:3's "those strengthened by my words" corresponds to v.16's "holding fast to the word of life". Daniel 12 has accordingly been added to the overview's intertextual map as a **two-ended conceptual source**. `[S: §1:27–4:1 and §4:2–20 runs; ESV Exp. Comm.; Park]`
+
+**Still open:** v.17 *spendomai* (expected martyrdom or self-giving ministry generally — the 1:25 / 2:17 tension), "fear and trembling" at v.12, and "for his good pleasure" at v.13. None was reached.
+
+---
+
+## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
 
 1. **v.17 "poured out"** — expected martyrdom or self-giving ministry generally? (1:25 vs 2:17.) *Flag; the image works either way.*
 2. **Strength of the *phōstēres* → Gen 1 / Dan 12:3 echo** — moderate; the light/witness theme is secure even if the specific text is debated.

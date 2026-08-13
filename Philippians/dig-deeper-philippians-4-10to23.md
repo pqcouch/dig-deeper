@@ -382,7 +382,23 @@ NT passage — Christ named ("him who strengthens me", v.13; "in Christ Jesus", 
 
 ---
 
-## Open Questions / Uncertainties
+### Research verification — 13 August 2026
+
+All five of this report's open questions are addressed, and its central reading of the passage is confirmed by name.
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | The v.13 variant | **Recorded, not adjudicated.** Some manuscripts add Χριστῷ, changing "by the one who strengthens me" to "through Christ". The shorter reading preserves an ambiguity that is contextually resolved anyway (cf. 1:19); the longer removes it. The *Lexham Textual Notes* stops short of calling the addition secondary, so the report's "shorter, preferred" is the standard judgement rather than a sourced one. Either way the referent is Christ. `[S: Lexham Textual Notes]` |
+| 2 | The scope of v.19 | **Confirmed, in both directions.** Commentators reject the unconditional prosperity reading and hold the promise to those who give sacrificially for gospel advance — *and* they refuse to empty it: the future tense carries "logical rather than temporal force" (God most certainly will), and "need" extends beyond the material, since God sometimes leads his children through lack. That is exactly this report's handling, including the guard against the over-corrected "bare minimum" reading. `[S: Harmon; Cornerstone]` |
+| 3 | The OT locus of *osmē euōdias* | **Confirmed as a formula, not a citation.** The phrase renders the "pleasing odour" of the sacrificial legislation across Genesis, Leviticus, Exodus and Ezekiel, and by Paul's era had already been spiritualised for non-material offerings (T. Levi 3:6; Sirach 39:14; Barnabas 2:10). Paul deploys the whole vocabulary system rather than quoting one text — as the report argued. `[S: EDNT; TDNT]` |
+| 4 | Stoic engagement at *autarkēs* (v.11) | **Confirmed.** The term is the Stoic virtue-word; Paul's use is "quite distinct from the stoic ideal, as verse 13 shows". *One caution:* Martin further infers from the aorist of *emathon* that contentment "came to him in a moment of time… at his conversion" — that is the aorist-as-point-in-time fallacy. Take the Stoic point; leave that inference. `[S: Martin; Comfort]` |
+| 5 | "Caesar's household" (v.22) | **Closed, and it loosens the Rome inference.** *Kaisaros oikia* is the exact equivalent of *familia Caesaris* — the emperor's slaves and freedmen in the imperial bureaucracy **spread throughout the Roman world**, not confined to Rome. An inscription from Coela in the Thracian Chersonese (AD 55) names "the family of our Caesar" as a discrete local group. So 4:22 does not settle provenance. `[S: Flexsenhar; Bartchy, ABD]` |
+
+**And the report's tonal reading is confirmed by name.** Reumann reads 4:11b–13 as deliberately distancing Paul from Philippian ideas of friendship, patronage and exchange, "where the expectation was gift for gift in escalating reciprocity"; Paul "opposes the principle embedded in the Latin formulas *do ut des* … *da ut dem*" and "points to God as the One to whom both he and the Philippians ultimately look, thereby reshaping Greco-Roman friendship toward Christian *koinōnia*". That is this report's "thankless thanks" reading — and specifically its finding that **Paul makes God the one who repays** — attested rather than inferred. `[S: Reumann; Sampley]`
+
+---
+
+## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
 
 1. **v.13 textual variant** — "him who strengthens me" (shorter, preferred) vs "…me Christ" (added). *Referent is Christ either way.*
 2. **v.19 scope** — an unconditional promise, or specifically to generous givers? *Contextually the latter, but grounded in God's character; flag.*

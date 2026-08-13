@@ -399,7 +399,26 @@ NT passage — Christ named throughout, in **two registers**: Christ as **ground
 
 ## Open Questions / Uncertainties
 
-1. ***sōtēria* (v.19)** — eschatological vindication vs release from prison. *Tilts toward vindication (Job 13:16 + v.20); flag.*
+### Research verification — 13 August 2026
+
+External research (Logos Research Assistant, concordance and commentary search) addressed **six** of this report's items. This is the most affected of the pericope runs, and one of its live interpretive decisions is now made.
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | ***sōtēria* (v.19)** | **Settled — this report's reading is right, and the hedge can go.** "The term 'salvation' does not suggest release from prison but Paul's complete obedience to God"; the Job background pushes the sense toward vindication before the divine bar. Preach it as vindication, not acquittal — and note the consequence the report already drew: Paul's "deliverance" is compatible with his execution. `[S: Park; DeRouchie; Osborne]` |
+| 2 | **Job 13:16 framing** | **Confirmed, and upgraded to high.** The phrase τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν occurs nowhere else in Scripture; commentators treat it as a deliberate allusion rather than coincidence, and the *forensic* context of Job 13 (Job "has prepared his case… will defend his ways to his face") is judged to shape Paul's meaning. The overview entry has moved from *moderate–high* to **high**. |
+| 3 | ***praitōrion* (v.13)** | **Closed as indifferent.** Martin surveys the options — the emperor's palace, a provincial governor's seat, or (most likely here) the praetorian guard as persons — and concludes that "no decisive evidence for the origin of the epistle can be gained from this verse", which is what this report claimed. Round three adds that the *familia Caesaris* of 4:22 is likewise attested in the provinces, so neither verse settles provenance. `[S: Martin; Flexsenhar]` |
+| 4 | **vv.22–24 "which I shall choose"** | **Challenged.** Martin reads *gnōrizō* at v.22 as "I do not **make known**" — *"That is, I dare not reveal my preference"* — rather than "I cannot tell". On that reading Paul is discreet rather than torn. The report's own reading is defensible and the ESV supports it, but it is no longer the only serious option: **say that Paul weighs life and death, which is on the page either way; be careful with "he cannot decide".** `[S: Martin]` |
+| 5 | **"Spirit of Jesus Christ" (v.19)** | **Confirmed as genuinely unusual, and connected.** The ascription of the divine Spirit to a figure other than God is "very difficult to find" in ancient Jewish context. And commentators *do* place Phil 1:19 beside **Acts 16:7** ("the Spirit of Jesus"), along with Rom 8:9 and Gal 4:6. That does not make it a Pauline allusion to Luke — but the Macedonian coincidence is noted in the literature, not merely by this corpus. `[S: Hurtado; Luter]` |
+| 6 | **v.20 "not be at all ashamed" — a second source** | **New.** Hays observes that "not being ashamed" evokes **Isaiah 50:7–8 LXX**: "I know that I shall not be ashamed, because the one who justifies me is near." So vv.19–20 carry **two** vindication voices — Job's formula and the Servant's posture — in consecutive clauses. Added to the overview's intertextual map at *moderate*; if it holds, the letter's Isaiah 40–55 strand begins here rather than at 2:10. `[S: Hays, via Moyise]` |
+
+**One further note on v.20.** μεγαλύνω ("Christ will be **magnified** in my body") is the LXX's standard verb for magnifying **the LORD** (Ps 34:3; 40:16; 70:4; 2 Sam 7:26), so applying it to Christ is a transference of doxological language reserved for God — a small early instance of the operation that peaks at 2:10–11 with Isaiah 45:23. Confirmed from general knowledge rather than a cited commentary; *moderate–high*, worth noting, not worth headlining.
+
+---
+
+## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
+
+1. ***sōtēria* (v.19)** — eschatological vindication vs release from prison. *Tilts toward vindication (Job 13:16 + v.20); flag.* **→ Settled toward vindication, 13 Aug 2026.**
 2. **Job 13:16 conscious-allusion framing** — the verbal match is high (verbatim LXX); the intended invocation is the judgement call → net moderate–high (per overview).
 3. ***praitōrion* (v.13)** — the guard (personnel) or the residence (place)? *Affects the picture, not the point.*
 4. **vv.22–24 "which I shall choose"** — a preference between two goods, not a contemplation of hastening death. *Settled; flag to prevent misreading.*

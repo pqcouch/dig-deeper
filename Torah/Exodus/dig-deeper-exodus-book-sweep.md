@@ -1,5 +1,29 @@
 # Dig Deeper: Exodus — Whole-Book Sweep
 
+> ## ⚠️ SUPERSEDED — retained for provenance only
+>
+> **Do not source any claim from this document.**
+>
+> This sweep was worked on **14 July 2026**, before any solo dig had been run and before the `/logos-research` checking stage existed. **All fifteen of its preaching units have since received full solo dig-deeper reports at several times this depth**, and the corpus has since been through a macro-synthesis, a claim audit, and a Research Assistant pass against the Logos library. **Nothing here has been revised in the light of any of that.**
+>
+> **What supersedes it, and where to go instead:**
+>
+> | For | Go to |
+> |---|---|
+> | Any single passage | That unit's solo report, `dig-deeper-exodus-[range].md` — fifteen of them, all complete |
+> | The book's shape, traps, intertextual map, Christological trajectory | `book-overview-exodus.md` (v1.2.0) — the living document |
+> | The cross-pericope arguments | `exodus-dig-deeper-macro-synthesis.md` (v1.2) — which **replaces this sweep's Cross-Passage Convergent Findings** on a complete evidence base |
+> | Whether a claim has been tested | `dig-deeper-exodus-claim-audit.md` (v1.1) |
+> | What is still unresolved | `exodus-questions-remaining.odt` |
+>
+> **Known to be stale here, among other things:** the unit divisions were later revised (the Sinai block was re-cut into 19:1–8 and 19:9–20:21, and 20:22–24:18 was re-weighted to ⭐HIGH); the hardening pattern is described more cleanly than the Hebrew supports; several counts and allusions have since been corrected or withdrawn; and every "not yet verified" note has been overtaken.
+>
+> **Why it is kept.** It records the reasoning that produced the original fifteen-unit division and the first pass at the book's shape — which is worth being able to look back at, and is the only thing it should now be used for.
+>
+> *Superseded note added 13 August 2026.*
+
+---
+
 **Translation:** ESV
 **Pulpit translation:** ESV (Anglicised) — same text as the report default; wording transfers directly to `/sermon-creator`
 **Date:** 14 July 2026

@@ -166,7 +166,9 @@ Meaningful divergences worth surfacing:
 
 **"Peace… guard your hearts and minds" ← Isa 26:3 → 4:7** *(uncertain)*
 
-Isaiah 26:3 ("You keep him in perfect peace whose mind is stayed on you") shares the pairing of peace with a kept/guarded mind, but the verbal overlap is not distinctive. *Uncertain — flag for commentary verification; do not build on it.* `[I]`
+Isaiah 26:3 ("You keep him in perfect peace whose mind is stayed on you") shares the pairing of peace with a kept/guarded mind, but the verbal overlap is not distinctive. *Originally rated uncertain — do not build on it.* `[I]`
+
+> **Promoted 13 August 2026.** Commentary verification finds this a **recognised allusion**: 4:7 "has its roots in Isaiah 26:3–4". The parallels are structural as well as verbal — God himself is the source of the peace in both; the peace is beyond understanding in both; and the *guarding* verb in Isaiah carries the same military force ("a military guard stationed around the steadfast mind"). Park adds a further datum: Isa 52:7 and 26:3–4 share cognates of the verb "to guard". **And the instructive difference is worth the pulpit:** in Isaiah the *people* guard peace, or participate in truth; in Paul, **God guards the people**. The agency reverses. *Moderate — buildable now, where it was not before.* `[S: Park; Morgan]`
 
 **Internal echoes (Move 4 — required):**
 
@@ -421,7 +423,24 @@ Common ways this passage gets mishandled, and how to avoid them:
 
 ---
 
-## Open Questions / Uncertainties
+### Research verification — 13 August 2026
+
+Five of this report's six open questions have been addressed; one is promoted outright, and the passage gains a background datum that explains its own sequence.
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | Ps 145:18 echo at 4:5 | **Still open.** The verbal correspondence (*ὁ κύριος ἐγγύς*) is granted, but no commentary support was retrieved, either for 4:5 or for extending the echo to 4:19. Keep at *moderate*; do not build. |
+| 2 | Isa 26:3 at 4:7 | **Promoted** — see Tool 11 above. From "do not build on it" to a recognised allusion with a preachable reversal of agency. |
+| 3 | "Book of life" (4:3) | **Mapped.** Fee reads it as *eschatological assurance* — their names in the book means they have received divine life and are destined for glory, which is the ultimate reason for reconciliation; Lightfoot resists "absolute predestination", taking it as the register of the covenant people looking to blessed immortality; Calvin allows that we discern election's marks "until the books are opened". **And Hansen supplies the civic background:** Philippian citizens' names stood on a civic register and they were expected to live in harmony — so heavenly citizens on the eschatological roll should live at peace. The report's pastoral reading (assurance, deployed to settle a quarrel) is well supported; the election question is real but is not what 4:3 is doing. `[S: Fee; Lightfoot; Hansen, via Brown]` |
+| 4 | *Syzygos* (4:3) | **Tilted, not settled.** Fee's datum decides it as far as it can be decided: **no such name is known in the Greco-Roman world.** Martin surveys the candidates (Lohmeyer's fellow-prisoner, Bruce's Luke, Collange's Timothy, Hawthorne's whole-church reading — "an unlikely, because complicated, solution to a riddle") and the Onesimus parallel for a name-pun. Keep off the load-bearing path, but a preacher can now say the proper-name reading has no onomastic support. `[S: Fee, via Comfort; Martin]` |
+| 5 | *Epieikes* (4:5) | **Glossed.** Witherington: "the general sense of meeting someone halfway, a good definition of how to effect unity in a congregation"; more literally, justice tempered with mercy in a legal setting. That is the gloss to preach — and see the note below on why it matters here. `[S: Witherington]` |
+| 6 | Matt 6 dependence at 4:6 | **Supported, not decisive.** Cornerstone treats Phil 4:6–7 alongside Matt 6:25–34, and the structure matches: prohibition of anxiety anchored in the Father's committed provision (Matt 6:32–33 ↔ Phil 4:19). *Moderate–high* stands. `[S: Turner & Bock]` |
+
+**A background datum that explains this passage's own sequence.** Macedonian women's public standing was exceptional by Greek standards, and Reumann suggests Euodia and Syntyche may have been **heads of households and so leaders of house churches** — in which case their division was structurally serious, and, he notes, carried a real possibility of **litigation in the civic courts**. If that is right, the order of this passage is not accidental: an appeal to two women who could have gone to law (4:2–3) is followed immediately by "let your *reasonableness* be known **to everyone**" (4:5) — *to epieikes* being precisely the disposition that declines to insist on its rights, in front of watching neighbours. **This is the strongest reason yet for why 4:5 sits where it does**, and it was not available to this report when written. `[S: Reumann; F. F. Bruce, ABD]` *Moderate–high.*
+
+---
+
+## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
 
 1. **"The Lord is at hand" (4:5) — Ps 145:18 echo?** The prayer-context match (near to all who call → make requests known) is suggestive, but Paul flags no citation. *Moderate; verify against a commentary on Paul's OT use.*
 2. **"Peace… guard your hearts and minds" (4:7) — Isa 26:3?** Shared concept, weak verbal overlap. *Uncertain; do not build on it.*
