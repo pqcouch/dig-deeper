@@ -765,6 +765,35 @@ Ordered by likelihood of derailing a sermon.
 
 ***
 
+### Research verification — 13 August 2026
+
+Ten questions above were put to the Logos Research Assistant and to a commentary search. **Six are closed; two are partly answered; two remain open.**
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | Vulgate *custodiat* at 4:7 | **Partly closed.** The traditional benediction form is confirmed ("The peace of God, which passeth all understanding, **keep** your hearts and minds…"), so the liturgical tradition does render 4:7 as a wish. The Latin route was not verified. The Greek future indicative is secure, so **Pitfall 3 stands**; only the explanation of *how* the wish-form arose is still unsourced. |
+| 2 | Daniel 12 across the letter | **Closed — promoted.** Both links are recognised and Dan 12 is treated as a single oracle. A further detail worth having: Dan 12:3's "those strengthened by my words" corresponds to 2:16's "holding fast to the word of life". |
+| 3 | The reach of the Psalm 145 echo | **Still open.** Verbal correspondence at 4:5 (*ὁ κύριος ἐγγύς* ↔ Ps 145:18 LXX) is granted, but no commentary support was retrieved for extending it to 4:19. Keep at *moderate*; do not build. |
+| 4 | Matthew 6 behind 4:6 | **Partly closed.** Cornerstone (Turner/Bock) treats Phil 4:6–7 alongside Matt 6:25–34, and the prohibition-plus-provision structure matches Matt 6:32–33. Supportive rather than decisive; **moderate–high** stands. |
+| 5 | *Aretē* as a Pauline hapax | **Confirmed.** The four other NT occurrences are all in 1–2 Peter. The Tool 12 genre argument holds. |
+| 6 | The *apechō* receipt formula | **Confirmed.** Martin cites Deissmann's papyri: the current sense was "here, then, is my receipt", a technical business expression. The receipt-to-altar reading of 4:18 is secure. |
+| 7 | *Euodia* / *Syntyche* etymologies | **Closed — nil-return confirmed.** Martin: "Much fruitless effort has been expended in tracking a cryptic meaning in the names in these verses." The *Euodia*/*euōdia* pun stays out of the pulpit. |
+| 8 | Stoic engagement at *autarkēs* | **Closed.** Martin and Comfort both confirm the Stoic currency of the term and that Paul's use is "quite distinct from the stoic ideal, as verse 13 shows". The "keeps the word, replaces the engine" reading is sound. *One caution:* Martin further infers from the aorist of *emathon* that contentment "came to him in a moment of time… at his conversion". That is the aorist-as-point-in-time fallacy; take the Stoic point, leave that sentence. |
+| 9 | "Caesar's household" (4:22) | **Still open.** |
+| 10 | Partition theories | **Closed.** Scholarship has largely moved away from partition, and the defences cited match this run's independent findings. |
+
+**Round three (13 August 2026) — two additions and one confirmation.**
+
+- **The patron-client refusal is attested.** Reumann reads 4:11b–13 as deliberately distancing Paul from Philippian ideas of friendship, patronage and exchange, where the expectation was "gift for gift in escalating reciprocity"; Paul "opposes the principle embedded in the Latin formulas *do ut des* … *da ut dem*", and "points to God as the One to whom both he and the Philippians ultimately look, thereby reshaping Greco-Roman friendship toward Christian *koinōnia*". That is this run's Tool 9 reading — including the specific finding that **Paul makes God the one who repays (4:19)** — confirmed. `[S: Reumann]`
+- **A sharper reason for *epieikes* at 4:5.** Reumann suggests Euodia and Syntyche may have been heads of households and so **leaders of house churches**, and that their quarrel carried the real possibility of **litigation in the civic courts** — Macedonian women's public standing being exceptional by Greek standards. If so, "let your *reasonableness* be known to everyone" (4:5) — the disposition that does not insist on its rights — lands two verses after an appeal to two women who could have taken each other to law, and in front of the pagan neighbours who would have watched. This is the strongest reason yet why 4:5 sits where it does. `[S: Reumann; F. F. Bruce, ABD]` *Moderate–high; a genuinely new connection for this corpus.*
+- **The 4:19 handling is confirmed** — see Q71 above; Harmon and Cornerstone hold the promise to sacrificial givers without emptying it, exactly as this run argued.
+
+**One addition from the earlier session, not asked for.** Verifying *skybala* (3:8) turned up a link this corpus had not made: the Judaisers counted Gentiles as *dogs* while seated at God's banquet, and Paul reverses the image — their ordinances are the refuse fed on. That pairs **3:2 ("dogs") with 3:8 (*skybala*)** inside one rhetorical move. The etymology offered for it ("thrown to dogs") is folk and should not be preached; the pairing is worth having. `[S: Vine]`
+
+**And one confirmation of a moderate suggestion.** Hansen (via the Logos research commentary) grounds "the book of life" (4:3) in the **civic register** — Philippian citizens' names stood on a civic roll and were expected to live in harmony; heavenly citizens on the eschatological roll should live in peace. This run offered the civic overtone as a *moderate secondary* to the OT background; it is now attested.
+
+***
+
 ## Book-Overview Tensions
 
 **No contradictions. Two refinements, two in-house corrections, and eight candidate additions.**

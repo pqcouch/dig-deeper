@@ -27,7 +27,7 @@ The exegetically strongest claims that emerged across multiple tools:
 
 3. **God's completing work (v.6) is the letter's confidence-thread and controls chapters 2–3 — assurance is God-grounded, not performance-grounded, so the later "work out your salvation" (2:12) is not anxious self-rescue.** `[T]` Surfaced by: Vocabulary (*epiteleō*), Linking Words, Tool 11 Move 4 (2:13; 3:12–14), Tone. "He who *began*… will *bring to completion*" — the God who starts, finishes.
 
-4. **Paul and Timothy are "servants" (*douloi*), not "apostle" — the letter's ethic is planted in its very first word, anticipating Christ who took "the form of a servant" (2:7).** `[T]` Surfaced by: Vocabulary, Tool 11 Move 4. Unique among Paul's undisputed letters as an opening self-designation with no apostolic qualifier.
+4. **Paul and Timothy are "servants" (*douloi*), not "apostle" — the letter's ethic is planted in its very first word, anticipating Christ who took "the form of a servant" (2:7).** `[T]` Surfaced by: Vocabulary, Tool 11 Move 4. **Verified and made precise (13 August 2026):** 1–2 Thessalonians and Philemon also open without ἀπόστολος, and Romans 1:1 pairs *doulos* **with** it — so the exact claim is that **Philippians alone opens with *doulos* and no apostolic title**, writing as friend rather than as officeholder. `[S: Logos, Q53]`
 
 5. **The opening prayer (vv.9–11) is that love would grow *with knowledge and discernment* — affection disciplined by moral judgement — and this opening petition becomes the closing command ("approve what is excellent", v.10 → "whatever is excellent… think about these things", 4:8).** `[T]` Surfaced by: Vocabulary (*aisthēsis / dokimazō*), Tool 11 Move 4, Linking Words. Christian love here is not sentiment but a love that *thinks*.
 
@@ -130,7 +130,7 @@ Central assertion: a **petition** — that a *discerning* love would grow toward
 
 ### 7. Vocabulary
 
-- **δοῦλοι (v.1), "servants / slaves"** — Paul *and* Timothy, with **no "apostle" qualifier** (unique among the undisputed letters as an opening self-designation). Total belonging; plants → 2:7 (Christ took "the form of a *doulos*") and 2:22 (Timothy "served"). `[T]`
+- **δοῦλοι (v.1), "servants / slaves"** — Paul *and* Timothy, with **no "apostle" qualifier**. Total belonging; plants → 2:7 (Christ took "the form of a *doulos*") and 2:22 (Timothy "served"). `[T]` *Precision (verified 13 Aug 2026):* 1–2 Thessalonians and Philemon also lack ἀπόστολος in their prescripts, and Rom 1:1 has *doulos* **and** ἀπόστολος — so what is distinctive is the **combination**: Philippians is the only Pauline prescript that names Paul *doulos* while omitting the apostolic title altogether. `[S: Logos, Q53]`
 - **ἅγιοι (v.1), "saints"** — set-apart ones; corporate, not an elite class. `[T]`
 - **ἐπίσκοποι καὶ διάκονοι (v.1), "overseers and deacons"** — the earliest Pauline naming of these two settled offices, and unusual in a greeting: flag it, don't smooth it (anticipates 4:2–3 / the gift's administration). `[T]`
 - **κοινωνία (v.5), "partnership / fellowship / shareholding"** — with a **commercial / business-partnership edge** (*societas*) that returns at 4:15 ("giving and receiving"). The gospel bound Paul and the church as partners in one enterprise. `[T, high]`

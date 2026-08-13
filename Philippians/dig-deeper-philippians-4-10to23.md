@@ -12,7 +12,7 @@ Warrant tags: `[T]` derivable from the text · `[I]` reasonable inference from t
 
 ## The Passage
 
-> **10** I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity. **11** Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. **12** I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. **13** I can do all things through him who strengthens me. **14** Yet it was kind of you to share my trouble. **15** And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only. **16** Even in Thessalonica you sent me help for my needs once and again. **17** Not that I seek the gift, but I seek the fruit that increases to your credit. **18** I have received full payment, and more. I am well supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to God. **19** And my God will supply every need of yours according to his riches in glory in Christ Jesus. **20** To my God and Father be glory forever and ever. Amen. **21** Greet every saint in Christ Jesus. The brothers who are with me greet you. **22** All the saints greet you, especially those of Caesar's household. **23** The grace of the Lord Jesus Christ be with your spirit.
+> **10** I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity. **11** Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. **12** I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. **13** I can do all things through him who strengthens me. **14** Yet it was kind of you to share my trouble. **15** And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only. **16** Even in Thessalonica you sent me help for my needs once and again. **17** Not that I seek the gift, but I seek the fruit that increases to your credit. **18** I have received full payment, and more. I am well supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to God. **19** And my God will supply every need of yours according to his riches in glory in Christ Jesus. **20** To our God and Father be glory forever and ever. Amen. **21** Greet every saint in Christ Jesus. The brothers who are with me greet you. **22** All the saints greet you, especially those of Caesar's household. **23** The grace of the Lord Jesus Christ be with your spirit.
 
 ---
 
@@ -84,7 +84,7 @@ The exegetically strongest claims that emerged across multiple tools:
 | 4:10–13 | Contentment | Joy at their revived care; but Paul has *learned* contentment in every state — "I can do all things through him who strengthens me" |
 | 4:14–18 | The partnership and the gift-as-offering | Their kindness; the historical partnership (Macedonia, Thessalonica); "not the gift but the fruit to your credit"; "paid in full… a fragrant offering, a sacrifice acceptable to God" |
 | 4:19 | The promise | "My God will supply every need of yours… in Christ Jesus" |
-| 4:20 | Doxology | "To my God and Father be glory forever and ever. Amen." |
+| 4:20 | Doxology | "To our God and Father be glory forever and ever. Amen." |
 | 4:21–23 | Greetings + grace | "Greet every saint… especially those of Caesar's household… The grace of the Lord Jesus Christ be with your spirit." |
 
 **Device:** the thank-you *deferred* to the close; the **partnership-and-joy inclusio** (↔ 1:3–7); a doxology (v.20) capping the body before the final greetings. The two "not that… but" turns (vv.11, 17) carefully refuse the wrong frame (hinting for more / seeking the gift). `[T]`
@@ -156,7 +156,7 @@ Co-dominant with Tool 11.
 - **the "learned / know how" cluster** (*memathēka* v.11, *memyēmai* v.12, *oida* ×2 v.12) — the learned secret of contentment. `[T]`
 - **the ledger words** (*logos* "account" vv.15, 17; *doseōs/lēmpseōs*; *apechō*) — the accounting frame. `[T]`
 - **"need" (χρεία, vv.16, 19)** — their gift met his need; God will meet theirs. `[T]`
-- **"my God" (vv.19, 20)** — the God who supplies and is glorified. `[T]`
+- **"**my** God" (v.19) → "**our** God and Father" (v.20)** — **corrected 13 August 2026.** This entry previously read "my God (vv.19, 20)"; v.20 is *tō theō kai patri hēmōn*, "to **our** God and Father", and the passage quote above has been corrected accordingly. The repetition claimed is not there — and what is there is better: the possessive **opens outward** at the doxology, moving from the God who supplies *Paul* to the God who is *ours*. `[T]`
 - **"in the Lord / in Christ Jesus" (vv.10, 19, 21, 23)** — the locative refrain, sustained to the benediction. `[T]`
 
 ---

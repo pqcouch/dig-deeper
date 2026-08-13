@@ -273,6 +273,53 @@ So the overview's sentence *"the same verb moves from the mountain (24:16) to th
 
 ---
 
+---
+
+## Addendum — the Research Assistant pass (13 August 2026)
+
+**All fifty outstanding questions across the Exodus corpus were put to the Logos Research Assistant** (`exodus-questions-for-logos.odt`). **43 returned usable answers; 7 remain open; 2 were rejected as unreliable.** This addendum records only what changed a claim, a confidence rating, or a caution. Every change has been propagated to the document it came from.
+
+### Claims corrected
+
+| Claim | Was | Now |
+|---|---|---|
+| **The hardening "verb-marked shift at 9:12"** (plagues dig Headline 2; overview landmines) | a clean shift from Pharaoh-hardens to God-hardens | **The verbs interleave.** *Kābēd*, *ḥāzaq* and *qāšâ* each occur with both subjects; **Pharaoh has already hardened himself three times before God acts at 9:12.** The shift is real but not clean — preach the process, not a switch (Childs, OTL, 171) |
+| **"One of only three chapters in Exodus with no divine speech"** (18:1–27) | my own unverified count | **Withdrawn.** Chapter 15 also lacks divine speech, as do the construction chapters. **The observation that God does not speak in ch. 18 stands and is all the report needs** |
+| **The four cups of the seder ← 6:6–7** | flagged unverified | **Not ancient.** The cups were added to the seder over time; the tidy correspondence is a popular-source claim. **The caution is strengthened, not relaxed** |
+| **The Hammurabi contrast** (three differences) | all three asserted | **Two hold securely** (covenant framing; class-stratified penalties). **The third — property crimes non-capital — "requires important qualification"** and should not be asserted flatly |
+
+### Claims upgraded
+
+| Claim | Was | Now |
+|---|---|---|
+| **Ps 95:8 LXX → Heb 3:8** (the corpus's most load-bearing unverified item) | *moderate*, unsourced | **High** — and it gained a payoff we had missed: **the Greek shifts the allusion from Exodus 17 to Numbers 14, Kadesh-barnea**, which is the generation Hebrews 3–4 actually warns against |
+| **Elim's twelve springs and seventy palms** | *uncertain — reported, not built on* | **Moderate–high.** Commentators read them as deliberately recalling Jacob's seventy and the twelve tribes; the Mekilta agrees |
+| **1 Kings 8:11 ← Exodus 40:35** | *moderate* | **High.** Schnittjer's "retrospective typology"; Morales; Keil & Delitzsch. **The pattern can be preached as intentional** |
+| ***Ḥeṭeʾ gĕdōlâ*, "a great sin"** | unpursued | **High.** Five OT occurrences (one of adultery, four of idolatry) — **and the same idiom in Egyptian marriage contracts and at Ugarit, of adultery.** The calf is covenant *adultery* |
+| ***Kābēd* / *kābôd* wordplay** | *moderate*, possibly read back | **Moderate–high.** Recognised in scholarship and operating across the whole plague narrative |
+| ***Pāraṣ* → 2 Samuel 6** | *moderate*, possibly stock vocabulary | **Deliberate.** Perez-Uzzah preserves the verb in nominal form |
+| ***Gôy* at 19:6** | flagged for lexical confirmation | **Confirmed and sourced** — an intentional allusion to Genesis 12:2 (Blackburn, NSBT 28) |
+| **The ANE background** | `[S]`, unverified, "check before asserting" | **Citable.** Rekhmire's tomb (c. 1450 BC, ten men per overseer); the Rameses II leather scroll (**2,000 bricks per gang**); the Qenqenento straw complaint; Tutankhamun's nested shrines as the closest known tabernacle parallel |
+
+### Landmines discharged
+
+**Five of the seven** on the overview's standing list: **the destroyer** (12:23 — the ambiguity is deliberate and the text's own); **the 430 years** (12:40 — both readings live, Paul reckoning with the LXX/Samaritan span); **the aspect of 3:14** (grammar favours the future, context "I AM", **the ambiguity may be intentional**); **the *ʾāsôn* referent** (21:22–23 — three positions named, Alexander's "serious injury" the likeliest); and **4:24–26** (the LXX and Targums read the attacker as an **angel of death, not Yahweh**, and the circumcision as sacrificial). **Only 4:11 and 15:3 remain unworked.**
+
+### ⭐ Two answers rejected — and why this matters
+
+**Not every cited answer is a reliable one.** Two replies were **rejected after checking against the text**:
+
+- **On *šabbāt* (Q35):** the reply claimed the noun first occurs at **Exodus 12:16**. **12:16 reads *"a holy convocation"* (*miqrāʾ-qōdeš*), not *šabbāt*** — verified here. The reply also ran backwards, describing 20:8–10 and 31:14–15 as *preceding* 16:23 in the book.
+- **On the first altar (Q36):** the reply placed 17:15 *after* the altar law of 20:24–25, which is the wrong way round.
+
+**Neither was incorporated, and both questions remain open.** **This is the third time in this project that a sourced answer has needed checking against the text before use** — the same discipline that caught the descent-spine error in this audit and the "not perish" chain in Jonah. **Cited is not the same as correct.**
+
+### Still open after the pass
+
+**Seven questions returned no usable answer:** the LXX wording of **24:8** (Band 1 — still the only unread Greek behind the strongest OT→NT link in the book); the ancient versions of **6:3**; the LXX of **1:7**, **38:8** and **40:35**; ***qānâ*** at 15:16; and ***ʿal-pānāy*** at 20:3. **Plus the two rejected above.** All are versional or lexical, and all would be settled by direct consultation of a Greek text or a lexicon rather than a research query.
+
+---
+
 *Prepared with the Dig Deeper toolkit in Claim Audit Mode. Consumed at Phase 5.5 of any future Exodus run: accept these verdicts as given, tag findings `[S: audit]`, and surface tensions rather than re-deriving. Re-run if further book-level claims are added.*
 
-**Version:** 1.0 · 6 August 2026
+**Version:** 1.1 · 13 August 2026 (Research Assistant addendum: 50 questions, 43 answered, 7 open, 2 rejected)

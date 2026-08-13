@@ -267,7 +267,9 @@ Direct NT epistle address — "**we** are the circumcision" (corporate, plural).
 | Term | Form | Range | Usage here | Confidence |
 |------|------|-------|-----------|------------|
 | *katatomē / peritomē* | nouns | mutilation / circumcision | the biting pun of vv.2–3 | high |
-| *hēgeomai* | aorist (v.7) / present (v.8 ×2) | count, reckon, consider | the master echo of 2:6; decisive past + ongoing present reckoning | high |
+| *hēgeomai* | **perfect** (v.7, *hēgēmai*) / present (v.8 ×2, *hēgoumai*) | count, reckon, consider | the master echo of 2:6; a decisive past reckoning whose result stands, then an ongoing present one | high |
+
+> **Verification note (13 August 2026).** This row previously read "aorist (v.7)". Logos parsing confirms *hēgēmai* at 3:7 is **perfect middle indicative**, not aorist; *hēgoumai* at 3:8 is present (a customary present). The correction strengthens the reading rather than weakening it — a perfect is precisely a completed reckoning whose effect abides. The decisive-past-then-continuing-present contrast is also now an *attested* commentary reading (Moore, *Big Greek Idea*; Parsons–Culy–Hall), not merely this report's inference. `[S: Logos, Q28]`
 | *skybala* | noun | refuse, dung, table-scraps | deliberate coarseness — the pedigree is waste beside Christ | high |
 | *zēmia / kerdos* | nouns | loss / gain | commercial ledger; the reversal (cf. 1:21; 4:15–18) | high |
 | *pistis Christou* | gen. phrase | faith in / faithfulness of Christ | the justification crux (v.9) | moderate (crux) |

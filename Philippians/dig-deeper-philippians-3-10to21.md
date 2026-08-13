@@ -489,6 +489,16 @@ NT passage — Christ is named throughout; the Christological reading is largely
 
 ---
 
+### Research verification — 13 August 2026
+
+- **Q1 (Psalm 8:6 at 3:21) — upgraded.** Judged deliberate and theologically significant, rooted in 2:9–11 and reflecting an Adam-Christology; it participates in a sustained NT reinterpretation of Ps 8 (always read with Ps 110:1) across 1 Cor 15, Eph 1 and Heb 2, applying humanity's original destiny to Christ's exaltation and thence to believers' transformation. Move to **moderate–high**. `[S: Wright; Dunn; Ellingworth]`
+- **Q2 (*eph' hō* at 3:12) — closed toward causal.** The evidence tilts to "because Christ has made me his own": ἐφ' ᾧ is equivalent to ἐπὶ τούτῳ ὅτι, "on the ground of the fact that", and Witherington judges the causal reading likelier in light of vv.12 and 14, where the emphasis falls on Paul's response to God's prior work. The telic sense remains possible. This confirms the report's use of 3:12 as an indicative-grounds-imperative instance. `[S: Witherington; Thayer; Meyer]`
+- **Q3 (identity of the "enemies of the cross") — mapped.** **Silva:** Judaisers / heterodox Jewish Christians, and "minds set on earthly things" need not imply antinomianism — it can mean selfishness and superiority. **Martin:** professed believers, probably the 3:2 group, whose enmity to the cross lies in making the law an agent of salvation; alternatively the 2 Cor 10–13 opponents. **Thompson:** the majority culture, and more broadly all who do not share the centrality of the cross — with Paul's concern being *conduct*, not teaching. The report's advice (preach the description) stands; the options can now be named from the pulpit. **Consequence:** two of the three dissolve the legalism/licence mirror — see the macro-synthesis, macro-argument 3.
+- **Q4 (anti-imperial polemic at 3:20) — the debate is now named.** Reumann reads *kyrios* as directly challenging the Imperial cult; Witherington reads it as a reorientation of values — counter-cultural rather than a political confrontation — arguing that Christians "are part of a commonwealth with a very different sort of social code about what counts as honourable". Neither engages *sōtēr* as an imperial title directly. The report's flag ("well-grounded resonance; the degree is debated") is precisely right. `[S: Reumann; Witherington]`
+- **On the colony reading of 3:20 — confirmed, with one nuance.** Colonists went out "to represent and reproduce the City in the midst of an alien population"; the colony was a miniature Rome abroad, and commentators read 3:20 through exactly that frame (Garland's four points; Thielman on the deliberate choice of *politeuma*). The nuance: citizens did retain a right of return and an obligation to travel to Rome to vote — so the corrective to escapist preaching should be that the colony's *purpose* was reproduction, not that return was impossible. `[S: Conybeare & Howson; McGrath; Brown]`
+
+---
+
 ## Open Questions / Uncertainties
 
 1. **The deliberateness of the Psalm 8:6 echo at v.21.** The clause "subject all things to himself" matches the Ps 8 / last-Adam pattern the NT uses elsewhere (1 Cor 15; Eph 1; Heb 2), but Paul does not quote it here. *Moderate confidence — verify against O'Brien or Fee on Philippians.*

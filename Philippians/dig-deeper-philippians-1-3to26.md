@@ -769,6 +769,26 @@ An NT unit; Christ is named throughout. Fifteen or more references in twenty-fou
 
 ***
 
+### Research verification — 13 August 2026
+
+Nine questions above were put to the Logos Research Assistant and to a commentary search. **Five are closed; one is corrected against this report; three remain open.**
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | *sōma* only at 1:20 and 3:21 | **Confirmed.** Headline Finding 3 secured. |
+| 2 | Isaiah 50:7–9 → 1:19–20 | **Closed — attested (round 3).** Hays notes that "not being ashamed" would evoke Isa 50:7–8 LXX: "I know that I shall not be ashamed, because the one who justifies me is near." Ware does not discuss it, and no Philippians commentary reached weighs it against the Job allusion — so it stands as a **second** vindication voice alongside Job 13:16 in the same two verses, not a replacement. Admitted to the overview's intertextual map at *moderate*. **If it holds, the letter's Isaiah 40–55 strand begins at 1:19 rather than 2:10** — which is what this run proposed. `[S: Hays, via Moyise]` |
+| 3 | *megalynō* role-transfer at 1:20 | **Supported, not sourced.** Confirmed that μεγαλύνω is the LXX's standard verb for magnifying the LORD (Ps 34:3; 40:16; 70:4; 2 Sam 7:26) and that applying it to Christ is a striking transference — but from general knowledge rather than a cited commentary. Raise to **moderate–high**; do not headline. |
+| 4 | KJV / Byzantine order at 1:16–17 | **Partly closed.** A minority of manuscripts reverse the two verses; the critical order is better attested. The reply did not confirm the TR specifically — but a KJV open on the desk settles that in ten seconds, and does. |
+| 5 | *enarchomai / epiteleō* and Gal 3:3 | **Closed — promoted.** ἐνάρχομαι occurs only twice in the NT, at Gal 3:3 and Phil 1:6, and Silva and Keown both note the parallel. This moves from a flagged candidate to a real finding — with the theological contrast intact: in Galatians the completion attempted "by the flesh" is a threat; in Philippians the completing is God's own. |
+| 6 | *gnōrizō* at 1:22 | **Challenged.** Martin reads "I do not **make known**" — *I dare not reveal my preference* — against this report's "I cannot tell". If he is right, Paul is not torn but discreet, and Tool 9 and Pitfall 6 below need softening. **One commentary, but a real objection: recorded, not absorbed.** |
+| 7 | Provenance (1:13 *praitōrion*) | **Closed as indifferent.** Martin surveys Rome / Ephesus / Caesarea and concludes that "no decisive evidence for the origin of the epistle can be gained from this verse" — which is exactly what this report claimed. |
+| 8 | Vulgate at 1:19 | **Still open.** Minor; affects only the ancient-versions note. |
+| 9 | The "all of you" density | **Still open.** No comparison with Paul's other thanksgivings retrieved. The claim stays an inference from frequency. |
+
+**Consequence for Pitfall 6 ("Making Paul serene at 1:22–24").** The pitfall stands in substance — Paul is not above the question — but its warrant is now contested. Preach the weighing of life and death, which is on the page at 1:21–24 either way; be more careful with "he cannot decide", which depends on the reading of *gnōrizō* Martin rejects.
+
+***
+
 ## Book-Overview Tensions
 
 **No contradictions. Two refinements, and nine candidate additions.**

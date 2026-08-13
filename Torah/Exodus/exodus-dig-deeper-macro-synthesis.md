@@ -168,6 +168,7 @@ Each macro-argument below **recurs across at least three pericopes** — that th
 - **19:8 → 20:19** — *"All that the LORD has spoken we will do"* → *"do not let God speak to us, lest we die"* (§10, §11). `[T]`
 - **19:8; 24:3, 7 → 32:1–6** — the vow sworn **three times, the last after the Book was read aloud**, and broken **while the mediator is still on the mountain** (§12, §14). `[T]`
 - **The diagnosis is a word:** *qĕšēh-ʿōrep*, "stiff-necked", four times in the Hebrew (32:9; 33:3; 33:5; 34:9) — and at the fourth Moses turns it from the ground of exclusion into the ground of intercession (§14). `[T]`
+- **⭐ And the betrayal is named in marital vocabulary.** *Ḥeṭeʾ gĕdōlâ*, "a great sin" (32:21, 30, 31), occurs five times in the OT — once of **adultery** (Gen 20:9), four times of **idolatry** — and **the same expression appears in Egyptian marriage contracts and in a Ugaritic text, of adultery.** So the calf is not merely disobedience but **covenant adultery**: *"leaving the God with whom you have yoked yourself to have an affair with another deity."* Confirmed at the Research Assistant pass, where §14 had flagged it as unpursued. `[S: Research Assistant]` `[revised: research-assistant pass]`
 
 **Confidence: strong** (five runs; two of the four inversions were logged independently before the pattern was named).
 
@@ -224,6 +225,7 @@ Each macro-argument below **recurs across at least three pericopes** — that th
 - ***Tēbâ* → θῖβιν at Exod 2:3 but κιβωτόν at Gen 6:14** — the ark-link is invisible to a Greek reader (§2). `[S]` — *read directly from the Logos LXX.*
 - **21:22–25 is a materially different law in the Greek** (§12). `[S]`
 - Add two translation-loss cases: **the *mān hûʾ* / *mān* pun** (§8) and **the *ʿēzer* of Eliezer** (§9).
+- **⭐ And a clean Category-3 case added at the Research Assistant pass: Exodus 9:16.** The **Hebrew carries both "I raised you up" and "I kept you standing / preserved you"**, and the ambiguity is genuine. **The Septuagint resolves it decisively — ἐξήγειρά σε, "I raised you up" — and Paul follows the Greek at Romans 9:17**, where the active sense is what his argument about mercy requires. **The Hebrew is open; the Greek is not; and the NT argument rests on the Greek.** This is the pattern the triage exists to protect: a "prefer the Hebrew" rule would quietly undercut Romans 9. `[S: Research Assistant]` `[revised: research-assistant pass]`
 
 **Confidence: strong** (five runs, all checked against the Greek rather than recalled).
 
@@ -301,4 +303,4 @@ For preaching, three consequences follow. **First, the tabernacle block is not o
 
 *Provenance: emergent from the fifteen dig-deeper runs (twelve Logos-checked) and reconciled with `book-overview-exodus.md`. **Audited** — `dig-deeper-exodus-claim-audit.md` v1.0 tested fourteen load-bearing claims, re-checking the texts rather than trusting the runs; **arguments 1, 2 and 4 above carry its corrections.** NT-authorised links marked high; converging text-first findings strong; looser trajectories moderate. Offered as connective tissue for the series, not as a replacement for the passage-level runs — when preparing an individual sermon, that passage's own run governs.*
 
-**Version:** 1.1 · 6 August 2026 (claim-audit corrections applied to §1, §2 and §4)
+**Version:** 1.2 · 13 August 2026 (claim-audit corrections to §1, §2, §4; **Research Assistant pass folded into §8 and §11**, and the corpus's fifty outstanding questions answered — see `dig-deeper-exodus-claim-audit.md` v1.1)

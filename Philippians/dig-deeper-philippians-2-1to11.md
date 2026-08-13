@@ -428,6 +428,15 @@ NT passage — Christ is named throughout; the reading is largely explicit, in *
 
 ---
 
+### Research verification — 13 August 2026
+
+- **Q1 (*harpagmos*) is closed.** Silva engages Hoover directly and judges his study to have "settled this particular question": the analytical error was isolating *harpagmos*, when the operative unit is the **idiom ἡγέομαι + ἁρπαγμός**, denoting something already at one's disposal. Sense: "did not regard being equal with God as **something to use for his own advantage**" — the ESV *footnote*, not its main text. Silva's two cautions are worth carrying: the phrase "has created a literature far more extensive than it probably deserves", and Christ's pre-existence and deity should not be made to hang on the active/passive question. `[S: Hoover, via Silva BECNT]`
+- **Q2 (the Adam-contrast) is refined, not settled.** Still contested — Strimple calls it "questionable to say the least"; Dunn and Martin defend it — but it does **not** depend on the *res rapienda* reading, so it can be weighed separately from Q1.
+- **Q3 (Isaiah 52–53 behind the hymn) is upgraded to high.** The case is judged "exceptionally strong": form of God / form of a servant against the Servant's disfigured form; "emptied himself" against the Servant pouring out his soul unto death; and 2:9's *hyperypsōsen* against Isa 52:13's threefold exaltation, with the "therefore" of 2:9 echoing the turn at Isa 53:12. `[S: Ware; Gorman; Bauckham; Treier]`
+- **Q5 (the extent of the confession) is closed, and confirms this corpus's own argument.** Schreiner reads Isa 45:21–25 as the backdrop: Isaiah envisions a *twofold* response — those incensed against YHWH come with shame while Israel triumphs and rejoices — so all acknowledge the lordship, some gladly and some compelled. He then cites **3:19's "destruction"** against the universalist reading. That is exactly the move this corpus made from *apōleia* at 1:28 and 3:19. `[S: Schreiner]`
+
+---
+
 ## Open Questions / Uncertainties
 
 1. ***harpagmos* (v.6)** — "grasped/seized" (*res rapienda*, Adam-contrast) vs "exploited/held onto" (*res retinenda*, pre-existence). Affects whether an Adam typology is primary. *Moderate; verify O'Brien, Fee, Hoover's idiom study.*

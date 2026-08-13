@@ -293,7 +293,7 @@ Six occurrences across the section, and the distribution is the point:
 | 2:3 | the church (commanded) | others as more significant than themselves |
 | 2:6 | Christ | equality with God — not a thing to be grasped |
 | 2:25 | Paul (pastoral) | it necessary to send Epaphroditus back |
-| 3:7 | Paul (decisive, aorist) | his gains as loss |
+| 3:7 | Paul (decisive; **perfect**) | his gains as loss |
 | 3:8 ×2 | Paul (ongoing, present) | everything as loss; his pedigree as *skybala* |
 
 The verb crosses every one of the section's registers: command, Christology, pastoral logistics, autobiography. **The section's ethic is an accounting operation, and Christ performs it first.** The command at 2:3 is not "be modest"; it is "revalue". *(The 2:6 ↔ 3:7–8 core is independently established in the §3:1–11 dig and the macro-synthesis `[S: prior runs]`; the extension to 2:3 and 2:25 — which turns a two-point echo into a section-length spine — is new here `[T]`.)*
@@ -341,7 +341,9 @@ The Vulgate has *tantum digne evangelio Christi conversamini* at 1:27 and *nostr
 **Other divergences worth the preacher's time.**
 
 - **2:5** — ESV "have this mind among yourselves, which is yours in Christ Jesus" *(fn: "Or which was also in Christ Jesus")*; KJV "let this mind be in you, which was also in Christ Jesus." The Greek is elliptical — there is no verb in the relative clause — and the two supplements give two different theologies of the hymn: *example* (KJV: the mind Christ had) or *sphere* (ESV: the mind proper to those in Christ). The ESV footnote preserves both. This is the single most consequential translation decision in the section, and the honest homiletic answer is that Paul's syntax does not force a choice — 2:12–13 holds both together. `[T]` on the ellipsis; `[I]` on the "both" resolution. *High confidence that the ellipsis is real; moderate on the resolution.*
-- **2:6 *harpagmos*** — ESV "a thing to be grasped" *(fn: "Or a thing to be held on to for advantage")*; NIV "something to be used to his own advantage"; KJV "robbery" (following Vulgate *rapinam*). The three renderings correspond to the classic options — something to be *seized* which he did not have, versus something *held* which he did and did not exploit. The ESV footnote and NIV take the second; the KJV's "robbery" is now generally regarded as unlikely. *Moderate confidence — a genuine lexical crux; commentary verification recommended.*
+- **2:6 *harpagmos*** — ESV "a thing to be grasped" *(fn: "Or a thing to be held on to for advantage")*; NIV "something to be used to his own advantage"; KJV "robbery" (following Vulgate *rapinam*). **Resolved 13 August 2026.** Silva engages Hoover's study directly and judges it to have "settled this particular question": the analytical error was treating *harpagmos* in isolation, when the operative unit is **the idiom ἡγέομαι + ἁρπαγμός**, which denotes *something already present and at one's disposal*. The sense is therefore "did not regard being equal with God as **something to use for his own advantage**" — i.e. the ESV *footnote* and the NIV are right, and the ESV main text is the weaker rendering. Silva adds two cautions worth carrying into the pulpit: the phrase "has created a literature far more extensive than it probably deserves", and decisions about Christ's pre-existence and deity should not be made to rest on whether *harpagmos* is active or passive. `[S: Hoover, via Silva BECNT]` *High confidence on the idiom; the theological over-reading is what to avoid.*
+
+> **Consequence for this section's Headline Finding 3.** Because the idiom is *hēgeomai* + *harpagmos*, 2:6 sits inside the accounting spine **by construction** rather than by shared vocabulary — and what Christ declines to do is exactly what 2:4 forbids the church: to reckon an advantage as *ta heautōn*, a thing for oneself. The spine is tighter than the run claimed.
 - **2:30** — ESV "he nearly died" *(fn: "Or he drew near to the point of death; compare verse 8")*. The main text loses the verbal link to 2:8 that the footnote restores. NASB "he came close to death" is nearer. Given that this link is one of the section's strongest structural signals (Tool 3), the preacher should use the footnote's wording. `[T, high]`
 - **3:8 *skybala*** — ESV/NASB "rubbish"; KJV "dung". The Greek is coarse (refuse, table-scraps, excrement); "rubbish" is decorous, "dung" nearer the register. A preacher wanting the tonal force should say so rather than shout the KJV. `[T]`
 - **4:3** — ESV "labored side by side" *(fn: "Or strived (see 1:27)")*; NASB "shared my struggle"; KJV "laboured with me". Only the ESV footnote flags the 1:27 link, and the ESV main text still varies the English word. **The section's rarest and most decisive verbal bracket is therefore invisible in every English main text.** `[T, high]`
@@ -482,7 +484,9 @@ Distinctive vocabulary in the section that might carry unnoticed scriptural frei
 Pauline letter; within it, sustained **paraenesis** (moral exhortation) framed as a letter of friendship. Two embedded sub-genres do disproportionate work:
 
 1. **The encomium / hymnic passage (2:6–11)** — elevated, rhythmic, probably pre-formed material or at least composed in a formal register. `[S — the pre-Pauline question is a standing debate; *moderate confidence*]` Reading rule: hymnic material states, it does not argue; its function here is *not* to teach Christology in the abstract but to ground an imperative already issued (2:5, 2:12). Preach it as doxology deployed pastorally.
-2. **The *cursus honorum* in reverse (3:4–8)** — the pedigree list of 3:5–6 has the shape of a Roman honours inscription: descent, tribe, status, office, achievement, verdict ("blameless"). Paul builds the monument and then writes *zēmia* ("loss") across it. `[I]` *Moderate confidence on the formal comparison; the observation is well established in the commentary tradition.* In a colony of veterans whose stones recorded exactly such careers, the genre-parody is part of the argument.
+2. **The *cursus honorum* in reverse (3:4–8)** — the pedigree list of 3:5–6 has the shape of a Roman honours inscription: descent, tribe, status, office, achievement, verdict ("blameless"). Paul builds the monument and then writes *zēmia* ("loss") across it. `[I]`
+
+> **Corrected 13 August 2026.** This entry previously claimed the observation was "well established in the commentary tradition". **It is not** — neither Witherington's socio-rhetorical commentary nor Reumann's Anchor Yale volume frames 3:5–6 as an honours inscription or *cursus honorum*. Both are alert to Roman colonial resonance in general (Witherington on the letter's political/military register; Reumann on *stoichein* at 3:16 as "appropriate for a Roman colony with military veterans and honours for those who maintain civic standards"), but neither applies it here. **The reading is this corpus's own proposal.** It remains attractive and the list's form is on the page; it should be offered as a suggestion, not as scholarship. *Downgraded to `[I]`, unattested.* `[S: Logos round 3, R6]` In a colony of veterans whose stones recorded exactly such careers, the genre-parody is part of the argument.
 
 Also present: a **peristasis** or sending-notice convention at 2:19–30 (standard in Greco-Roman letters), which is why it is easy to mistake for filler — and why the hymn-vocabulary embedded in it is the tell that Paul is doing more than logistics.
 
@@ -570,7 +574,7 @@ One caution. The section's most quotable first-person material (3:4–14) is Pau
 | *politeuma* | noun (3:20) | commonwealth, colony, citizenship, seat of government | the counterpart at the section's far end | high |
 | *stēkō* | 2 pl. (1:27; 4:1) | stand firm, hold one's ground | report at 1:27, command at 4:1 — see below | high |
 | *synathleō* | pres. ptc. (1:27); aor. (4:3) | contend/strive alongside | NT only in this letter, at these two points | high |
-| *hēgeomai* | ptc. 2:3; aor. 2:6, 2:25, 3:7; pres. 3:8 ×2 | count, reckon, regard as | the section's accounting spine | high |
+| *hēgeomai* | ptc. 2:3; aor. 2:6, 2:25; **perf.** 3:7; pres. 3:8 ×2 | count, reckon, regard as | the section's accounting spine | high |
 | *sympsychos / isopsychos* | adjectives (2:2; 2:20) | joined in soul / like-souled | both NT hapax; the unity chain | high |
 | *harpagmos* | noun (2:6) | a seizing; a thing seized; a thing to be exploited | the section's chief lexical crux | moderate (crux) |
 | *apōleia* | noun (1:28; 3:19) | destruction, ruin, perdition | one verdict on both fronts | high (sense); moderate–high (Philippians-only claim) |
@@ -803,6 +807,24 @@ Places where multiple tools independently agreed. (Headline Findings are the top
 7. **The *phōstēres* / Gen 1:14–16 LXX double-lighting at 2:15.** *Uncertain.*
 8. **Partition theories and the section's unity.** The lexical brackets are strong literary evidence against a seam at 3:1b, but I have not surveyed the current state of the debate. *Flag for commentary verification if the series will address it from the pulpit.*
 9. **The 3:7 / 3:8 aspect contrast** (decisive past reckoning vs continuing present). The tense forms are secure; the theological weight I have placed on them is a judgement. *Moderate.*
+
+***
+
+### Research verification — 13 August 2026
+
+Nine questions above were put to the Logos Research Assistant and to a commentary/concordance search. **Seven are now closed.**
+
+| # | Item | Verdict |
+|---|------|---------|
+| 1 | *eidete en emoi* bracket (1:30 ↔ 4:9) | **Closed — upgraded.** Paul uses the phrase nowhere else; these are its only two occurrences. The bracket moves from *moderate* to **high**. |
+| 2 | *apōleia* only at 1:28 and 3:19 | **Confirmed.** Headline Finding 4 and macro-argument 3 now rest on verified data. |
+| 3 | The hapax cluster | **Confirmed.** All ten listed forms are NT hapax legomena. State them without hedging. |
+| 4 | Vulgate at 1:27 / 3:20 | **Confirmed.** *Conversatio / conversor* in both places, and the KJV's "conversation" derives from it. Headline Finding 5 secured. |
+| 5 | Identity of the "enemies of the cross" (3:18–19) | **Closed — mapped, not decided (round 3).** Three positions: **Silva** — Judaisers / heterodox Jewish Christians, arguing that "minds set on earthly things" need not mean antinomianism but can mean selfishness and superiority; **Martin** — professed believers, Jewish or Gentile hard to decide, probably the 3:2 group, their enmity being adherence to the law as an agent of salvation and so subverting Calvary (with an alternative: the 2 Cor 10–13 gnosticising teachers); **Thompson** — the majority culture and, more broadly, all who do not share Paul's understanding of the centrality of the cross, with Paul's concern being **moral conduct rather than teaching**. Preach the description, as this run advised; but the options can now be named. **Note the consequence:** two of the three readings dissolve the legalism/licence mirror this section proposed — see the macro-synthesis, macro-argument 3. |
+| 6 | Daniel 12 across the section | **Closed — promoted.** Dan 12:3 → 2:15 and Dan 12:1 → 4:3 are both recognised, and commentators treat Dan 12 as a single oracle. Dan 12:3 and Phil 2:15 are reportedly *the only two places in Scripture* where God's people shine as stars. Now a full entry in the overview's intertextual map. |
+| 7 | *phōstēres* / Gen 1:14–16 at 2:15 | **Closed.** Both are in play: Genesis supplies the luminary image, Daniel the eschatological reapplication, and **Daniel carries the primary theological weight**. |
+| 8 | Partition theories | **Closed.** Contemporary scholarship has largely moved away from partition; the defences cited (vocabulary continuity, no manuscript trace of separate letters, 3:2–11 mirroring 2:6–11) are the same ones this run reached independently. The unity argument is with the consensus, not against it. |
+| 9 | The 3:7 / 3:8 aspect contrast | **Closed — and corrected.** 3:7 is **perfect** (*hēgēmai*), not aorist as this report stated; the table above is amended. The decisive-past-then-continuing-present reading is an attested commentary reading, not this report's inference. |
 
 ***
 

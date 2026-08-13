@@ -124,7 +124,7 @@ The dominant tool here, with Tool 11 Move 4.
 - **παραβολευσάμενος (v.30), "having risked / gambled his life"** — a hapax (from *paraballomai*, to throw down as a stake); the later *parabolani* (Christians who nursed the plague-stricken) took their name from it. `[T]`
 - **λειτουργία (v.30), "service"** — worship-service register; the church's gift/ministry as priestly service. `[T]`
 - **δοκιμή (v.22), "proven worth / tested character"** — Timothy has passed the test (cf. the *dokimazō* of 1:10). `[T]`
-- **μεριμνάω (vv.20, 28 cf.), "be concerned / anxious"** — a play: Timothy's *godly concern* for their welfare (v.20) set beside Paul's *anxiety* to be relieved (v.28, "less anxious"). `[T]`
+- **μεριμνάω (v.20), "be concerned / care for"** — Timothy's *godly concern* for their welfare. **Corrected 13 August 2026:** this entry previously read "vv. 20, 28" and set v.20 beside v.28. Logos confirms that 2:28's "less anxious" is *alypoteros* (from *lypē*, "sorrow"), a different word — *ἄλυπος* occurs only there in Philippians. `[S: Logos, Q8]` The genuine pair is **2:20 / 4:6**: the same verb *commended* of Timothy (concern for *the things concerning you*) and *prohibited* of the church ("do not be anxious about **anything**") — distinguished by its object, which is 2:4 applied to the emotional life. That pair is now the lexical basis of the corrective for preaching 4:6 (see `dig-deeper-philippians-4-2to20`, Headline 4; overview trap 3). `[T]`
 
 **Proper-noun inventory:** the Lord Jesus / Jesus Christ; **Timothy**; **Epaphroditus**. *Character note (not an OT hyperlink):* Timothy is Paul's proven "son" and co-worker (cf. Acts 16; 1 Cor 4:17); Epaphroditus is named only in Philippians (2:25; 4:18). These are NT contemporaries commended by Paul, not canonical-history figures carrying OT freight — so no name-hyperlink / Move-1 source-story applies (see Tool 11). `[T]`
 
@@ -153,7 +153,7 @@ The dominant tool here, with Tool 11 Move 4.
 - **"send" (πέμπω)** — of Timothy (vv.19, 23) and Epaphroditus (vv.25, 28) — the practical spine. `[T]`
 - **"in the Lord / the Lord Jesus" (vv.19, 24, 29)** — every plan and command is "in the Lord". `[T]`
 - **"seek their own / the things of Jesus Christ" (v.21)** — the anti-type the two men reverse. `[T]`
-- **"concern / anxious" (*merimnaō*, vv.20, 28)** — godly concern vs relievable anxiety. `[T]`
+- **"concern" (*merimnaō*, v.20)** — Timothy's godly concern. *(Corrected: v.28 is *alypoteros*, not *merimnaō* — see Original Languages. The verb's genuine counterpart is 4:6.)* `[T]`
 - **the fivefold titles (v.25)** — accumulation as honour. `[T]`
 
 ---
@@ -232,7 +232,8 @@ Direct NT epistle address — we are the church called to **receive and honour**
 | *leitourgos / leitourgia* | nouns | (cultic/civic) minister / service | Epaphroditus's service as worship (vv.25, 30) → 2:17; 4:18 | high |
 | *paraboleusamenos* | aorist participle (hapax) | having gambled/risked (staked) | he hazarded his life (v.30) | high |
 | *dokimē* | noun | tested worth, proven character | Timothy has passed the test (v.22) | high |
-| *merimnaō* | verb | be concerned / be anxious | godly concern (v.20) vs relievable anxiety (v.28) | high |
+| *merimnaō* | fut. (v.20) | be concerned / care for | Timothy's godly concern; commended here, prohibited at 4:6 | high |
+| *alypoteros* | comparative adj. (v.28) | less sorrowful / less grieved | Paul's own relief — **not** *merimnaō* | high |
 
 **Grammatical/syntactical features:**
 - **The "for / therefore" chains** (vv.20–23; 28–30) — the reasoning that turns logistics into commendation. `[T]`
