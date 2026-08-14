@@ -322,4 +322,40 @@ So the overview's sentence *"the same verb moves from the mountain (24:16) to th
 
 *Prepared with the Dig Deeper toolkit in Claim Audit Mode. Consumed at Phase 5.5 of any future Exodus run: accept these verdicts as given, tag findings `[S: audit]`, and surface tensions rather than re-deriving. Re-run if further book-level claims are added.*
 
-**Version:** 1.1 · 13 August 2026 (Research Assistant addendum: 50 questions, 43 answered, 7 open, 2 rejected)
+---
+
+## Second addendum — user research in the primary texts (13 August 2026)
+
+**Of the twenty-four questions left after the Research Assistant pass, seventeen were answered or advanced** — this time by working the Greek texts, HALOT, a tagged Hebrew text and the commentaries directly, rather than by query. **That is why this round succeeded where three research passes had not: eleven of the twenty-four were versional or lexical, and those wanted a book opened, not a search run.**
+
+### Corrections to the corpus
+
+| Claim | Was | Now |
+|---|---|---|
+| **The seven speech-formulae (25:1–31:18)** | six *wayyǝdabbēr*, one *wayyōʾmer*, inferred from the KJV | **Five and two** — *wayyǝdabbēr* at 25:1; 30:11, 17, 22; 31:1, *wayyōʾmer* at **30:34 and 31:12** (tagged text). **And the method was unsound: the KJV reads "spake" at 31:12**, levelling one of the two. **A translation cannot establish a Hebrew verb-count.** The corrected data is better — the climactic seventh speech is one of the two marked differently |
+| **The rhetorical-question reading of 6:3** | strengthening on Hebrew grounds | **The LXX is a flat denial** (*οὐκ ἐδήλωσα αὐτοῖς*), and every major English version follows it. **Martin's proposal is a modern grammatical argument against an ancient interpretive consensus** — name it, don't adopt it |
+| **Exodus 15:2 // Ps 118:14 // Isa 12:2** | grouped as one link | **Split.** Exodus and the Psalm share *ἐγένετό μοι εἰς σωτηρίαν* **verbatim**; **Isaiah has only *σωτήρ μου*** — a thematic echo, not a verbal one |
+| ***Qānâ* at 15:16** | open | **"Purchased".** Alexander: *"there is no need to follow the translation 'created'"*; the warrant is the redemption of donkey and son at 13:13, 15, and the parallel with *"this people you redeemed"* at v. 13 |
+| **Jethro's condition at 18:23** | an unmet condition, supporting the divine-silence finding | **Contested.** Ross and Oswalt read a **flat assertion** — *"God commands you to do it"* — citing Moses' immediate compliance. **The finding is not withdrawn but no longer stands alone** |
+
+### Gains
+
+**⭐ The best single exegetical result in the project.** **LXX Exodus 24:8: *ἰδοὺ τὸ αἷμα τῆς διαθήκης*. Matthew 26:28 and Mark 14:24: *τὸ αἷμά **μου** τῆς διαθήκης*.** The Gospels reproduce the Septuagint phrase word for word and **add one genitive pronoun**. He does not allude to Exodus 24:8; **he takes its exact words and puts himself where the sacrificial blood stood.** *(They also drop the ἰδού — Exodus points at a basin; the Supper needs no pointing.)* **Asked and unanswered three times; settled in one line of Greek.**
+
+**Also gained:** **the Genesis 2:18 echo at 18:17 is in print** (Ross & Oswalt) and is promoted to *moderate–high*; **16:23 is the first *šabbāt* in Exodus and apparently in the Torah**, strengthening the law-before-Sinai argument; **17:15 is the first altar in Exodus**; **LXX 1:7 preserves the Genesis 1:28 link** (not a translation loss); **LXX 38:8 has women who *fasted*** where the Hebrew has women who *served*; **LXX 40:35 has the cloud ἐπεσκίαζεν — the verb of the Transfiguration and Luke 1:35**; and **HALOT gives six live senses for *ʿal-pānāy***, with the ancient versions rendering it differently between Exodus 20:3 and Deuteronomy 5:7.
+
+**And both remaining landmines are discharged** — 4:11 and 15:3 — emptying a list this corpus has carried since the overview's first version.
+
+### Still open
+
+**Seven, and all are in the "smaller items" band:** the angel-of-the-LORD Christophany (3:2, 4); the rear boundary of the 19:1–8 unit; the Hebrews 12:21 attribution; the resumptive 19:9b; whether 20:22–24:18 divides at 23:33; the Reuel/Jethro double-naming; and the Hur identification with the frontlets question. **Nothing load-bearing remains unresolved.**
+
+### The methodological finding, now firm
+
+**Three research passes could not supply six Greek texts and a HALOT entry; one session with the books supplied all of them.** Set beside the two rejected answers of the previous round, the rule for this project is settled: **research tools are for the state of a scholarly question; primary texts are for the data. Do not ask a search engine what a verse says.**
+
+---
+
+*Prepared with the Dig Deeper toolkit in Claim Audit Mode.*
+
+**Version:** 1.2 · 13 August 2026 (Research Assistant addendum: 50 questions, 43 answered, 7 open, 2 rejected. **User-research addendum: 24 remaining, 17 answered or advanced, 5 corrections, 7 open.**)

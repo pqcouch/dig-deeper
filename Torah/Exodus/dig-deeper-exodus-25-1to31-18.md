@@ -142,7 +142,7 @@ Then 31:18 — the narrator's single sentence, closing the speech and handing ov
 
 **The device is a seven-fold speech-sequence closing in Sabbath.** `[T]` for the count and the seventh speech's content. The correspondence to Genesis 1:1–2:3 — God speaks the world into being and rests on the seventh day — is the natural reading of that shape, and is reinforced by 31:17's explicit citation of the creation week. `[I]` for the intended mapping; see Tool 11. *Moderate–high confidence.*
 
-**One qualification, checked and worth knowing.** The ESV renders all seven openings identically ("The LORD said to Moses"), but the underlying Hebrew is not uniform: six use *wayyǝdabbēr* ("and the LORD **spoke** to Moses, saying") — 25:1; 30:11, 17, 22; 31:1, 12 — while **30:34 uses *wayyōʾmer*** ("and the LORD **said** to Moses"). The KJV preserves the distinction; the ESV smooths it. `[T]` — verified against a public-domain text at the checking stage. The seven-fold division stands either way, since it rests on the recurrence of a divine-address formula at seven points; but a preacher who says "seven identical formulae" will be overstating it. Say "seven speeches," not "seven identical headings." Cross-reported to Tool 8.
+**⭐ One qualification, corrected against a tagged Hebrew text (August 2026).** The ESV renders all seven openings identically ("The LORD said to Moses"), but the Hebrew is not uniform: **five use *wayyǝdabbēr* ("spoke… saying") — 25:1; 30:11, 17, 22; 31:1 — and two use *wayyōʾmer* ("said") — 30:34 and 31:12.** *(Lexham Hebrew–English Interlinear.)* **This report previously said six and one, inferring the split from the KJV — but the KJV reads "spake" at 31:12, so it levels the distinction there and cannot establish the count.** **Note what the corrected data yields: the seventh and climactic speech, the Sabbath speech, is one of the two marked differently.** `[T]` — verified against a public-domain text at the checking stage. The seven-fold division stands either way, since it rests on the recurrence of a divine-address formula at seven points; but a preacher who says "seven identical formulae" will be overstating it. Say "seven speeches," not "seven identical headings." Cross-reported to Tool 8.
 
 **A second device inside speech 1: an inclusio on dwelling.** 25:8 ("let them make me a sanctuary, that I may dwell in their midst") and 29:45–46 ("I will dwell among the people of Israel… that I might dwell among them") bracket the whole of the first and longest speech. Everything between the brackets serves the purpose the brackets state. `[T]` *High confidence.*
 
@@ -245,7 +245,7 @@ Not "blueprint" in the modern sense so much as a *model* or *representation* —
 
 **31:3 — "the Spirit of God."** ESV, NASB, KJV, NIV all capitalise, reading *rûaḥ ʾĕlōhîm* as the divine Spirit. A minority tradition renders "a divine spirit" or takes *ʾĕlōhîm* as a superlative ("extraordinary skill"). The same phrase at Genesis 1:2 and 41:38 makes the personal reading the natural one in this book. *Moderate–high confidence for the standard rendering.*
 
-**25:1; 30:11, 17, 22, 34; 31:1, 12 — the speech-formula, where the ESV smooths a real distinction.** ESV gives all seven as "The LORD said to Moses." KJV distinguishes: "And the LORD **spake** unto Moses, saying" at six of them, and "And the LORD **said** unto Moses" at 30:34 — reflecting *wayyǝdabbēr* against *wayyōʾmer*. `[T]` — verified. Nothing doctrinal turns on it, but it is the one place in this block where the more literal older version preserves something the modern one loses, and it bears directly on how the seven-speech structure should be described from the pulpit. *High confidence on the English divergence; moderate–high on the Hebrew forms behind it — a tagged text would settle it finally.*
+**25:1; 30:11, 17, 22, 34; 31:1, 12 — the speech-formula, where the ESV smooths a real distinction.** ESV gives all seven as "The LORD said to Moses." **The Hebrew has five *wayyǝdabbēr* (25:1; 30:11, 17, 22; 31:1) and two *wayyōʾmer* (30:34; 31:12)** — tagged-text verified. **⭐ Note that the KJV is not a reliable guide here: it reads "spake" at 31:12, levelling one of the two.** This report's earlier six/one count rested on the KJV and has been corrected. `[T]` — verified. `[revised: user research]` Nothing doctrinal turns on it, but it is the one place in this block where the more literal older version preserves something the modern one loses, and it bears directly on how the seven-speech structure should be described from the pulpit. *High confidence on the English divergence; moderate–high on the Hebrew forms behind it — a tagged text would settle it finally.*
 
 **24:16 — "dwelt" / "abode."** ESV "the glory of the LORD **dwelt** on Mount Sinai"; KJV "**abode** upon mount Sinai." The ESV's choice makes the *šākan* link to 25:8 ("that I may **dwell**") audible in English; the KJV's does not. A rare case where the modern rendering serves the exegesis better. Worth knowing if a hearer follows in a KJV.
 
@@ -452,7 +452,11 @@ Character-by-character and act-by-act:
 
 **Grammatical and syntactical features.**
 
-- **The speech-formula — checked.** Six of the seven openings use *wayyǝdabbēr … lēʾmōr* ("spoke … saying"); **30:34 uses *wayyōʾmer*** ("said"). The KJV's "spake"/"said" distinction tracks it; the ESV levels all seven. `[T]` on the English divergence, which is the evidence; *moderate–high* on the Hebrew forms it reflects. The seven-fold division is unaffected — but describe it as seven divine addresses, not seven identical formulae.
+- **⭐ The speech-formula — checked against a tagged Hebrew text, and corrected.** **Five of the seven openings use *wayyǝdabbēr … lēʾmōr* ("spoke … saying") — 25:1; 30:11; 30:17; 30:22; 31:1. Two use *wayyōʾmer* ("said") — 30:34 and 31:12.** *(Lexham Hebrew–English Interlinear.)*
+
+  **This report previously said six and one, on the evidence of the KJV's "spake"/"said" distinction. That evidence was unsound: the KJV reads "spake" at 31:12**, so it levels the distinction there and cannot be used to detect it. **A translation cannot establish a Hebrew verb-count.**
+
+  **The seven-fold division is unaffected, and the corrected data is more interesting.** The two *wayyōʾmer* speeches are the **incense** (30:34) and the **Sabbath** (31:12) — **and 31:12 is the seventh and climactic speech**, the one grounding the block in creation and rest. So the climax is verbally marked off from the five that precede it. **Describe it as seven divine addresses, five of one formula and two of another, with the seventh among the two.** `[T]` — tagged-text verified. `[revised: user research]`
 - **The imperative chain.** *wǝʿāśîtā* ("and you shall make") is a *weqatal* form carrying instruction: sequential, binding, and relentless. The mood is commissioning, not suggesting.
 - **The purpose infinitive at 29:46** — "that I might dwell among them" (*lǝšoknî bǝtôkām*), an infinitive construct with preposition and suffix. Grammatically the clause hangs off "who brought them out of Egypt," making the dwelling the *purpose of the exodus*, not a subsequent development. This is a grammatical point with a large theological payoff. *High confidence on the construction; the standard translations agree.*
 - **The *k-p-r* family.** *kappōret* (the lid), *kipper* (to atone, 29:36–37; 30:10), *kōper* (ransom, 30:12). Three words from one root inside one block, applied to a piece of furniture, a rite, and a coin. The root does more work in these chapters than any other. *High confidence.*
@@ -681,7 +685,18 @@ Where multiple tools agreed:
 
 ## Open Questions / Uncertainties
 
-1. ~~**The Hebrew verbs of the seven speech-formulae.**~~ **Resolved at the checking stage:** six *wayyǝdabbēr*, one *wayyōʾmer* (30:34), as the KJV's "spake"/"said" distinction shows. Retained here only as a note that the underlying Hebrew forms should still be confirmed against a tagged text before the point is pressed hard. *Moderate–high.*
+1. ~~**The Hebrew verbs of the seven speech-formulae.**~~ **⭐ RESOLVED against a tagged Hebrew text — and it CORRECTS this report.** The split is **five *wayyǝdabbēr* and two *wayyōʾmer*, not six and one**:
+
+   | Formula | Speeches |
+   |---|---|
+   | ***wayyǝdabbēr*** (Piel, wayyiqtol, 3ms) | **25:1; 30:11; 30:17; 30:22; 31:1** — five |
+   | ***wayyōʾmer*** (Qal, wayyiqtol, 3ms) | **30:34; 31:12** — two |
+
+   *(Lexham Hebrew–English Interlinear.)*
+
+   **And the method I used earlier was unsound.** This report inferred the split from the KJV's *"spake"*/*"said"* distinction — **but the KJV reads *"spake"* at 31:12**, verified here, so it levels the very distinction I was using it to detect. **A translation cannot be used to establish a Hebrew verb-count; only a tagged text can.**
+
+   **The corrected finding is more interesting than the one it replaces.** The two speeches marked with *wayyōʾmer* are **30:34 (the incense) and 31:12 (the Sabbath)** — and **31:12 is the seventh and climactic speech**, the one that grounds the whole block in creation and rest. **The seven-speech structure stands; what changes is that its climax is verbally marked off from the five that precede it, rather than being uniform with them.** *High — tagged-text verified.* `[revised: user research, August 2026]`
 2. ~~**LXX Exodus 25:40 — does it read *typon*?**~~ **Resolved (Logos):** yes — κατὰ τὸν **τύπον** τὸν δεδειγμένον σοι ἐν τῷ ὄρει (Rahlfs), quoted at Heb 8:5 and also taken up at Acts 7:44. *High.* Folded into Tool 8.
 3. ~~**The LXX of 28:30 (Urim and Thummim).**~~ **Resolved (Logos):** τὴν **δήλωσιν** καὶ τὴν **ἀλήθειαν** — "the Manifestation and the Truth." *High.* Folded into Tool 8.
 4. ~~***wayyinnāpaš* at 31:17.**~~ **Resolved (Logos):** Niphal of *nāpaš*, "relief from fatigue" (cf. Exod 23:12; 2 Sam 16:14); anthropomorphic of God, Hamilton allowing "caught his breath"; Gane on its pedagogical function. *Moderate–high.* Folded into Tool 9 and Original Languages.
