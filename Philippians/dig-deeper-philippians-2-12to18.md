@@ -427,9 +427,15 @@ Two of this report's five open questions are closed; both close as **"both, not 
 
 ## Open Questions / Uncertainties *(as originally filed; see the verification table above)*
 
-1. **v.17 "poured out"** — expected martyrdom or self-giving ministry generally? (1:25 vs 2:17.) *Flag; the image works either way.*
+1. ~~**v.17 "poured out"**~~ **⭐ WORKED at round 4 — and the tension with 1:25 is named rather than dissolved.** Martin takes σπένδομαι seriously as **martyrdom-language**: *"the apostle, in the most solemn personal reference of the whole letter, now sees the prospect of martyrdom for Christ as a very present reality"*, and **the present tense is the evidence** — *"the possibility of his execution is vividly present to his own mind"* (Michael). **He explicitly refuses to minimise it** (against Michaelis): *"there is no point in attempting to minimize the gravity of Paul's words."*
+
+   **And he states the tension without resolving it:** *"Elsewhere he speaks optimistically of release and reunion with the Philippians (1:24–26; 2:24), but here it is the sombre reflection of an imminent death."* **So the two are held together in the letter, not harmonised** — which is the honest answer to a question a preacher may be asked. **Note the tone the commentator flags:** the sacrificial scene is *"shot through with radiant joy"*, and Paul invites the church to share it. *Moderate–high; the image is martyrdom-shaped, and the tension is Paul's, not the reader's.* `[S: Martin, TNTC]` `[revised: round 4]`
 2. **Strength of the *phōstēres* → Gen 1 / Dan 12:3 echo** — moderate; the light/witness theme is secure even if the specific text is debated.
-3. **"Fear and trembling" (v.12)** — pure reverence, or with a note of eschatological seriousness (accountability at the day of Christ)? *Reverence is primary; a solemn edge is defensible.*
+3. ~~**"Fear and trembling" (v.12)**~~ **⭐ CLOSED at round 4, and the answer is better than either option this report offered.** **The phrase is Exodus language.** *Tromos kai phobos* is the wording of **Exodus 15:16 LXX**, standing in the Song of the Sea beside *sōtēria* (Exod 14:13; 15:2) — **and the ESV Expository Commentary draws the decisive contrast: at the exodus the fear and trembling were *external* to Israel, gripping the surrounding peoples; here God works them *within* his people** (*"in you"*, 2:13). **So the phrase is not primarily about the believer's inner anxiety at all, but about the awe that God himself produces where he is at work.**
+
+   **Two supporting points from the same source.** *"Your"* (*heautōn*) at v.12 is **plural** — *"working out"* is communal, matching vv.1–4. And the whole is set against **Deuteronomy 31:27**: Israel disobeyed *more* in Moses' absence; **the Philippians are to obey more in Paul's absence** — a new-covenant contrast built into the verse's opening.
+
+   **For the works-righteousness landmine:** the Exodus setting puts the phrase inside a *salvation already accomplished*, and the γάρ of v.13 then names God as the one working. **Preach it as awe at God's presence in the congregation, not as anxiety about one's standing.** *High.* `[S: ESVEC — Meyer]` `[revised: round 4]`
 4. **v.13 "for his good pleasure"** — God's good pleasure (most likely) vs the church's. *God's; minor.*
 5. **Isa 49:4 vs 65:23 as the primary "labour in vain" source** — both plausible; moderate–high either way.
 

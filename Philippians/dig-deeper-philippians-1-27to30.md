@@ -397,7 +397,11 @@ Three of this report's five items are addressed, and the passage gains a hard le
 
 1. **v.28 — the "sign": seen by the opponents, the church, or both?** And the precise logic by which the church's fearlessness signals the opponents' destruction. *Probably both parties; flag.*
 2. **v.28 — "and that (*kai touto*) from God": antecedent** — the salvation, or the whole sign-situation? *Either way, God is the source; minor.*
-3. **v.29 — the divine passive *echaristhē* and the granting of faith** — the Reformed/Arminian reading of "granted… to believe." *Flag; do not force.*
+3. ~~**v.29 — the divine passive *echaristhē* and the granting of faith**~~ **⭐ WORKED at round 4 — and the grammar carries further than this report allowed.** **Martin:** the passive is *"to be understood as a common feature of Hebrew thought"* — i.e. God is the agent — and the verb *"is derived from *charis*, 'grace', 'favour'"*. **So suffering is not punishment but favour**: *"seals of adoption to the children of God"* (Calvin), and it *"comes as a gift of his grace"*.
+
+   **On the harder half — is *faith* also granted? — the clause-structure is the evidence.** Braune analyses the sentence: the subject of *echaristhē* is **the whole double phrase** — *"not only to believe on him, but also to suffer in his behalf"* — with Paul beginning from the suffering, interposing the believing clause, and resuming his first thought. **His conclusion: "The faith which works such steadfast endurance of suffering clearly proves that both are from God."**
+
+   **What this changes:** the report flagged the Reformed/Arminian question and declined to force it. **The syntax does put believing and suffering under the same passive verb**, which is a datum rather than a party position, and **should be stated as such** — while the wider debate about how faith is given remains outside this verse. **The instruction not to force it stands; the grammatical point should now be made.** *Moderate–high.* `[S: Martin, TNTC 97; Braune in Lange]` `[revised: round 4]`
 4. **v.28 — the identity of the "opponents"** — local civic-pagan hostility (Acts 16) vs the later doctrinal opponents (ch.3). *Most likely the former here.*
 5. **v.27 — the weight of *politeuomai*'s civic sense** — strong, given the colony setting and 3:20; noted as high.
 
