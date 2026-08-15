@@ -89,12 +89,16 @@ These terms recur throughout and are not re-defined at each occurrence:
 | *ʿormâ* | prudence, shrewdness | **The same root as the serpent's "crafty" (*ʿārûm*) in Gen 3:1.** See Unit 1. *Moderate–high* |
 | *pethî* | the simple, naïve | Root sense "open" — open to anything, persuadable in either direction. *Moderate–high* |
 | *kĕsîl* / *ʾĕwîl* / *nābāl* / *lēṣ* | fool (dull) / fool (morally perverse) / fool (godless) / scoffer | Four distinct words flattened to "fool" in English. The *lēṣ* is the one Proverbs says cannot be taught (9:7–8; 13:1; 15:12). *Moderate–high* |
-| *yirʾat YHWH* | the fear of the LORD | The construct phrase occurs roughly **14 times** (1:7, 29; 2:5; 8:13; 9:10; 10:27; 14:26, 27; 15:16, 33; 16:6; 19:23; 22:4; 23:17), plus verbal forms (3:7; 14:2; 24:21; 31:30). *Moderate — recommend concordance verification of the exact count* |
+| *yirʾat YHWH* | the fear of the LORD | The construct phrase occurs **14 times** — 1:7, 29; 2:5; 8:13; 9:10; 10:27; 14:26, 27; 15:16, 33; 16:6; 19:23; 22:4, and 23:17 with prefixed *bĕ*. Confirmed 15 August. `[T]` Related forms at 3:7 (imperative *yĕrāʾ ʾet-YHWH*), 14:2, 24:21 and **31:30**. **See the note below on 31:30** |
 | *tôʿēbâ* | abomination | Deuteronomy's cultic-legal word, applied by Proverbs to trade, speech and character. *High* |
 | *ṣedeq / mišpāṭ / mêšārîm* | righteousness, justice, equity | The triad at the centre of the preamble (1:3), recurring at 2:9. *High* |
 | *lēb* | heart | The whole inner person — mind, will, affections. Proverbs' most frequent anthropological term. *High* |
 | *derek / ʾōraḥ / nātîb / maʿgāl* | way, path, track, course | Four road-words; the book's governing metaphor. *High* |
-| *ḥayil* | strength, valour, wealth, army | Military vocabulary; decisive for 31:10. *Moderate–high* |
+| *ḥayil* | strength, competence, wealth, standing, valour | A **comprehensive capability word**; in the three woman-texts (Prov 12:4; 31:10; Ruth 3:11) the sense is comprehensive excellence, *not* martial prowess. Occurs three times in ch. 31 — vv. 3, 10, 29. *High* |
+
+> **Note on 31:30, added 15 August.** The concordance check on *yirʾat YHWH* returned fourteen verses and **did not include 31:30** — yet 31:30 reads *ʾiššâ yirʾat-YHWH*, "a woman who fears the LORD", which contains the construct phrase inside a longer chain. The omission is almost certainly an artefact of searching for the bare two-word phrase rather than the lemma. This matters more than a tidy count: **if 31:30 carries the motto in its exact construct form, the book's last line of praise closes the frame opened at 1:7 with the same words, not merely the same idea.** Flagged for a lemma search; treated here as probable but not established. `[T]`/`[I]` *Moderate–high.*
+>
+> A second, smaller point: the same check returned only 3:7 for the verbal construction *yĕrāʾ ʾet-YHWH*. The forms at 14:2 and 24:21 are of a different shape (adjectival/participial at 14:2, imperative without *ʾet* at 24:21), so the two lists are not in conflict — they answer different questions.
 
 ### 8. Translations (book level) and the Hebrew/Greek triage
 
@@ -2100,7 +2104,13 @@ Items the sweep could not settle, where verification would materially strengthen
 *What the sweep found:* three independent markers, not one.
 
 - **Formal:** the emblematic "like… so" comparison occurs roughly thirty times in 25–27 and is near-absent elsewhere in the book; antithetic parallelism returns as dominant at 28:1. `[T]` *High — countable.*
-- **Lexical, and this is new:** the sentence literature's only absolute uses of *tôrâ* — "the law," without a possessive — occur at 28:4, 7, 9 and 29:18. Everywhere else in Proverbs *tôrâ* is possessive and refers to parental instruction. `[T]`/`[I]` *Moderate–high, pending concordance verification.*
+- **Lexical, and this is new:** the sentence literature's only absolute uses of *tôrâ* — "the law," without a possessive — occur at 28:4 (**twice**), 28:7, 28:9 and 29:18: **five occurrences in two chapters.** `[T]` ***High — confirmed by concordance, 15 August.***
+
+  Two refinements from the check. (i) 28:4 carries the word **twice**, which was not in the original claim and makes the cluster denser than reported. (ii) Elsewhere in Proverbs *tôrâ* is not uniformly *possessive*, as the original wording had it — 13:14 has "the teaching **of the wise**" and 31:26 "the teaching **of kindness**", both bound rather than suffixed, and **6:23 has an absolute *tôrâ*** ("the commandment is a lamp and the teaching a light"). The accurate statement is the one the claim actually needs: **within Proverbs 10–29, absolute *tôrâ* occurs only at 28:4 (×2), 28:7, 28:9 and 29:18** — and that is exactly the span the seam test concerns.
+
+  The 6:23 occurrence is a small bonus rather than a problem: it means the absolute usage appears once in the *frame* and then not again until chapter 28, which links the two ends of the book across the whole of the sentence literature. `[I]` *Moderate.*
+
+  **Independent corroboration.** A separate English-language count of "law" across Proverbs 10–29, run on 15 August for the collections assessment, returned five occurrences, all in chapters 28–29 — matching the Hebrew concordance exactly. Two different methods, same answer.
 - **Structural:** the three-fold near-doublet at 28:12 / 28:28 / 29:2 frames the two chapters. `[T]`
 
 *Recommended overview revision:* raise this seam's confidence, and add the *tôrâ* datum, which is the strongest single piece of evidence in the book for a real collection boundary here.

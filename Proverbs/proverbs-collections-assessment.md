@@ -111,11 +111,13 @@ This suggests a symmetry Ansberry does not draw. He identifies a janus at the en
 | Antithesis (verses with contrastive "but") | 5 (6%) | 33 (60%) | ×10 |
 | "righteous" / "wicked" per verse | 0.06 | 0.33 | ×5.4 |
 | Simile ("like", "as … so") | 25 (30%) | 1 (2%) | ×15 down |
-| "law" (*tôrāh*) | 0 | 5 | 0 → all |
+| Absolute *tôrāh* (Hebrew) | 0 | 5 | 0 → all |
 
 Chapter by chapter, the antithesis figures are: 25 — 4%, 26 — 0%, 27 — 15%, **28 — 68%, 29 — 52%**. The jump at 27→28 is the largest single-chapter change anywhere in Proverbs 10–29, larger even than at the 15/16 seam. **[T]**
 
-Two further observations, both **[T]**: every occurrence of "law" in Proverbs 10–29 falls in chapters 28–29 (28:4, 7, 9; 29:18), a striking concentration for a book that elsewhere uses the word only of parental instruction; and 28:1 and 29:27 form a righteous/wicked envelope around the unit, exactly as an inclusio should.
+Two further observations, both **[T]**: every occurrence of "law" in Proverbs 10–29 falls in chapters 28–29, and 28:1 and 29:27 form a righteous/wicked envelope around the unit, exactly as an inclusio should.
+
+> **Confirmed in Hebrew, 15 August.** A concordance check returned absolute *tôrāh* — the noun without a possessive — at **28:4 (twice), 28:7, 28:9 and 29:18**: five occurrences, matching my English count exactly, from a completely independent method. Two refinements follow. The doubling at 28:4 makes the cluster denser than the verse-list suggests. And the contrast is not quite "absolute here, possessive everywhere else": 13:14 and 31:26 are bound forms rather than suffixed, and **6:23 has an absolute *tôrāh*** in the frame. The precise and defensible statement is the one the seam test needs — *within Proverbs 10–29, absolute *tôrāh* occurs only in chapters 28–29* — and the 6:23 occurrence adds a bonus, linking the frame to the collection's final unit across the whole of the sentence literature.
 
 ### The complication
 
@@ -234,7 +236,7 @@ Three notes on execution:
 
 **Method.** All counts were taken from the ESV text of Proverbs 10–29 via automated word-matching, per chapter, with leaf-element extraction to avoid double-counting verse numbers. Chapter verse-totals were checked against ESV chapter lengths on every pass to detect truncation; an earlier run that silently truncated at 18:5 was discarded and the whole count re-run. Where a unit boundary falls mid-chapter (22:16, 24:22), verse-level splits were taken separately.
 
-**Known limits.** English proxies, not Hebrew morphology. "But" undercounts antithesis (see §7). "Like"/"as … so" is a rough simile proxy and will miss metaphor entirely, which matters for Solomon 2A, where Ansberry's claim concerns images generally and not similes only. "Law" tracks *tôrāh* but was not lemma-checked. None of these limits affects the direction of any finding, and the one measurable gap (Martin's 89% against my 74%) runs in the conservative direction.
+**Known limits.** English proxies, not Hebrew morphology. "But" undercounts antithesis (see §7). "Like"/"as … so" is a rough simile proxy and will miss metaphor entirely, which matters for Solomon 2A, where Ansberry's claim concerns images generally and not similes only. "Law" tracked *tôrāh* and has since been **lemma-checked and confirmed** (15 August). None of these limits affects the direction of any finding; the one measurable gap (Martin's 89% against my 74%) runs in the conservative direction; and the one measure that *has* been independently verified in Hebrew came back exact.
 
 **Open questions for the Research Assistant** — to be added to the standing questions document:
 

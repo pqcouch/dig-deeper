@@ -222,7 +222,9 @@ Note also that two strands of the range — **wealth** and **social standing** �
 
 What the English renderings lose is therefore not specifically the martial strand but the **breadth** — a single word covering capability, means, standing and moral substance at once. "Excellent wife" and "virtuous woman" are defensible; they are simply narrower than the Hebrew.
 
-**Its distribution is a finding.** *ʾĒšet ḥayil* occurs in the Hebrew Bible only three times: Prov 12:4; Prov 31:10; and **Ruth 3:11**. `[T]` *Moderate–high; verify by concordance.* Within this chapter, *ḥayil* appears at v.10, v.29, and — per Ansberry — v.3. `[S]`
+**Its distribution is a finding.** *ʾĒšet ḥayil* occurs in the Hebrew Bible only three times: Prov 12:4; Prov 31:10; and **Ruth 3:11**. `[T]` *High; confirmed by concordance, 15 August.* Within this chapter, *ḥayil* appears at v.10, v.29 and **v.3** — Ansberry's claim, now **confirmed**: at 31:3 the noun is *ḥayil* with a suffix (*ḥêlekā*, "your strength"). `[T]` *High.* So *ḥayil* stands three times in chapter 31, and the link between the mother's oracle and the acrostic poem is lexical, not merely thematic.
+
+> **A caution on the returned answer.** The concordance result came back as "Proverbs 12:4; 31:3 and Ruth 3:11". The middle reference is a slip: 31:3 has *ḥayil* with a pronominal suffix, not the bound phrase *ʾēšet ḥayil*, which stands at **31:10**. The three occurrences of the phrase are 12:4, 31:10 and Ruth 3:11, as claimed. The slip is worth recording because it collides with the separate question about 31:3 — and, read carelessly, would have made the two answers contradict each other.
 
 **(b) *zāmĕmâ* (v.16, "she considers").** From *zmm*. The verb here carries the sense of **purposing or proposing to oneself** `[S: Gesenius]`; ESV's "considers" is defensible but flat. She does not muse about the field. She works it out and takes it.
 
@@ -268,7 +270,9 @@ The root is that of *mĕzimmâ*, which Proverbs promises to the naïve at 1:4. T
 
 **A pattern worth naming, now stated more carefully:** at the two places where the Hebrew carries a martial *echo* (*šālāl* in v.11, "girds her loins" in v.17), **the KJV preserves it and the modern versions smooth it.** `[T]` *High — both renderings are checkable.* A preacher wanting that colour without a Hebrew excursus can read vv.11 and 17 from the KJV. But note the limit established at Tool 7(a): these are echoes within a poem whose governing term denotes comprehensive capability, not a martial register running through the whole.
 
-**Ancient versions check.** The moderns agree at v.10 on a rendering that carries real exegetical weight ("An excellent wife who can find?"), so the check is triggered. The **LXX** renders *ʾēšet ḥayil* as *gynaika andreian* — "a **courageous** / manly woman," from *andreios*, the adjective of manly courage. `[S]` *Moderate–high; recommend verification in NETS.*
+**Ancient versions check.** The moderns agree at v.10 on a rendering that carries real exegetical weight ("An excellent wife who can find?"), so the check is triggered. The **LXX** renders *ʾēšet ḥayil* as *gynaika andreian* — "a **courageous** / manly woman," from *andreios*, the adjective of manly courage. The Greek reads *Γυναῖκα ἀνδρείαν τίς εὑρήσει*. `[T]` *High; confirmed 15 August.*
+
+> **Hold this together with the 9 August correction.** The Greek translator reached for a courage-word. That is evidence about how the poem was *received* in the Hellenistic period, and it shows the valour construal is ancient rather than a modern corrective. It is **not** evidence that the Hebrew *ḥayil* means "valour" here — the lexica give comprehensive excellence in the three woman-texts, and that correction stands. The two facts sit side by side: the Hebrew word is broad, and the earliest translator narrowed it in one particular direction.
 
 **`Translation-tradition split:`** the Greek tradition preserves the valour sense that the English tradition has lost. Under the Three-Way Triage this is **category 1** — translation loss in the *English*, not a manuscript variant, and not the NT's own text (the New Testament does not quote this passage). **Preaching implication:** the LXX is worth citing precisely because it cuts against the domesticated reading, and because it shows the "valour" construal is ancient rather than a modern corrective.
 
@@ -296,7 +300,9 @@ Three tonal notes are easy to miss:
 
 ### 10. Repetition
 
-**Her hands** are the poem's organising physical motif: *kappeyhā* / *yādeyhā* at vv.13 ("works with willing hands"), 16 ("the fruit of her hands"), 19 (twice — "her hands to the distaff… her hands hold the spindle"), 20 (twice — "opens her hand… reaches out her hands"), and 31 (twice — "the fruit of her hands… let her works praise her"). That is **eight occurrences** across six verses. `[T]` *Moderate–high; verify by concordance.*
+**Her hands** are the poem's organising physical motif: *kappeyhā* / *yādeyhā* at vv.13 ("works with willing hands"), 16 ("the fruit of her hands"), 19 (twice — "her hands to the distaff… her hands hold the spindle"), 20 (twice — "opens her hand… reaches out her hands"), and 31 ("the fruit of her hands"). That is **seven occurrences** across five verses — *kap* four times (vv.13, 16, 19, 20) and *yād* three times (vv.19, 20, 31). `[T]` *High; verified by concordance, 15 August.*
+
+> **Correction, 15 August.** An earlier draft said eight occurrences across six verses, counting v.31 twice. It is once: "let her works praise her" uses *maʿăśeyhā*, a work-word, not a hand-word. The motif is seven-fold.
 
 The distribution matters. The hands *produce* (13, 16, 19), then *give away* (20), then are *rewarded* (31). The poem's last line returns to the noun of its working section: give her the fruit of the very hands you have watched.
 
@@ -503,9 +509,10 @@ Behind that lies the book-level response: that the reader should have become, by
 #### Recommended verification
 
 - *ṭerep* at v.15 — the lexeme identification itself remains unconfirmed; the predatory-sense claim is withdrawn (see Tool 7c).
-- The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.
+- ~~The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.~~ **Confirmed 15 August.** It is *ḥayil*. The link to vv.1–9 is lexical, and the Positional Necessity argument is correspondingly stronger.
+- **New, arising from the 15 August checks:** the construct phrase *yirʾat YHWH* was returned for fourteen verses in Proverbs, and **31:30 was not among them** — although 31:30, "a woman who fears the LORD", is *ʾiššâ yirʾat-YHWH*, the construct phrase inside a longer chain. If 31:30 counts, the poem's penultimate line carries the book's motto in its exact form, which is the strongest possible support for the 1:7 ∥ 31:30 inclusio. Worth re-running as a lemma search rather than a phrase search.
 - Whether any commentator connects 31:16 to 1:4. Checked 9 August 2026: **none found.** The lexical foundation is now sourced; the design claim remains the report's own.
-- The distribution counts: *ʾēšet ḥayil* (3× in the Hebrew Bible), "hands" (8× in this poem), *hebel* in Proverbs (3×).
+- ~~The distribution counts: *ʾēšet ḥayil* (3× in the Hebrew Bible), "hands" (8× in this poem), *hebel* in Proverbs (3×).~~ **Resolved 15 August.** *ʾĒšet ḥayil* 3× (Prov 12:4; 31:10; Ruth 3:11) — confirmed. *Hebel* in Proverbs 3× (13:11; 21:6; 31:30) — confirmed. "Hands" **7×, not 8** — corrected above.
 - LXX *gynaika andreian* at v.10, in NETS.
 
 ---

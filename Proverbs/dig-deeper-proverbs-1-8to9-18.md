@@ -210,7 +210,11 @@ Three things follow. **Fifteen singular, four plural** — and the plural is not
 
 **(b) *wĕʿattâ bānîm šimʿû-lî* — the migrating formula.** Headline 2. Two readings are available and both are worth preaching. Either the sage is signalling that Wisdom's voice and the father's are the same voice — Ansberry's "Wisdom speaks through the voice of the father" `[S]` — or Wisdom is *displacing* the father, taking over his formula at the moment he is about to fall silent. The second reading has the sequence in its favour: 8:32 is the last vocative in the section, and the father never speaks again. `[I]` *Moderate.*
 
-**(c) The heart (*lēb*).** The section's most frequent anthropological term: 2:2, 10; 3:1, 3, 5; 4:4, 21, 23; 5:12; 6:14, 18, 21, 25; 7:3, 10, 25. Sixteen occurrences. `[T]` *Moderate–high; verify by concordance.* Note the distribution: the son's heart is to *receive* (2:2), *keep* (4:21), *be guarded* (4:23) and *not turn aside* (7:25); the wicked man's heart *devises* (6:14, 18); the strange woman is "wily of heart" (7:10). The same organ is the battlefield for both sides.
+**(c) The heart (*lēb*).** The section's most frequent anthropological term: 2:2, 10; 3:1, 3, 5; 4:4, 23; 5:12; 6:14, 18, 21, 32; 7:3, 7, 10, 25; 8:5; 9:4, 16. **Nineteen occurrences**, with the byform *lēbāb* twice more at 4:21 and 6:25 — twenty-one heart-words in all. `[T]` *High; confirmed by concordance, 15 August.* Note the distribution: the son's heart is to *receive* (2:2), *keep* (4:21), *be guarded* (4:23) and *not turn aside* (7:25); the wicked man's heart *devises* (6:14, 18); the strange woman is "wily of heart" (7:10). The same organ is the battlefield for both sides.
+
+> **Correction, 15 August.** An earlier draft gave sixteen occurrences and made two mistakes in opposite directions. It counted 4:21 and 6:25 as *lēb* when both are *lēbāb*; and it missed five genuine occurrences — 6:32; 7:7; **8:5**; **9:4**; **9:16**.
+>
+> **The five missed occurrences are a finding, not just a correction.** Three of them fall in chapters 8 and 9 — precisely where Tool 7(a) below observes that the vocative "my son" stops. And two of those three are the *same phrase*: *ḥăsar-lēb*, "he who lacks heart/sense", spoken by **Wisdom at 9:4 and by Folly at 9:16 in identical words**. So the section's closing chapters do not abandon the heart-language; they transfer it. The father falls silent, and the two women pick up his vocabulary and address his audience with it — using, at the decisive moment, exactly the same words as each other. That sharpens the "father falls silent" reading rather than weakening it, and it strengthens the Wisdom/Folly parallel at chapter 9.
 
 **(d) The road-words.** *Derek*, *ʾōraḥ*, *nātîb*, *maʿgāl* — the section's governing metaphor, densest in 2:8–20 and 4:10–27. The frame is a book about which way to walk; and then, at 9:1, the metaphor changes to a **house**, and walking stops. `[T]` *Moderate–high.* 7:27 is the hinge where both are held together: "**Her house is the way to Sheol.**"
 
@@ -431,9 +435,9 @@ The tool is worth running for one section-level observation. The frame offers th
 | Term / form | Where | Note | Confidence |
 |---|---|---|---|
 | *bĕnî* / *bānîm* | 19× (see Tool 7a) | 15 singular, 4 plural; none in ch. 9 | High on distribution |
-| *wĕʿattâ bānîm šimʿû-lî* | 5:7; 7:24; **8:32** | The father's closing formula, taken over by Wisdom | Moderate–high — **verify against BHS** |
+| *wĕʿattâ bānîm šimʿû-lî* | 5:7; 7:24; **8:32** | The father's closing formula, taken over by Wisdom | **High — verified against the Hebrew, 15 August** |
 | *ḥokmôt* | 1:20 | Grammatically **plural** noun with a singular verb; usually explained as a plural of majesty or an abstract plural | High on the form; moderate on the explanation |
-| *lēb* | 16× | The section's battlefield: the son's heart receives and is guarded; the wicked man's devises; the woman's is "wily" (7:10) | Moderate–high |
+| *lēb* | 19× (+ *lēbāb* 2×) | The section's battlefield: the son's heart receives and is guarded; the wicked man's devises; the woman's is "wily" (7:10); and at 9:4, 16 both women address the one who *lacks* it, in identical words | High |
 | *ḥālaq* ("smooth") | 2:16; 5:3; 6:24; 7:5, 21 | The recurring marker of danger — rhetoric, not beauty | Moderate–high |
 | *derek / ʾōraḥ / nātîb / maʿgāl* | throughout | Four road-words; the governing metaphor until ch. 9 replaces it with *bayit* | High |
 | *ʾiššâ zārâ / nokriyyâ* | 2:16; 5:3, 20; 6:24; 7:5 | "Strange"/"foreign" = *not belonging to you*, rather than ethnically foreign | Moderate `[S]` |
@@ -458,8 +462,8 @@ The tool is worth running for one section-level observation. The frame offers th
 
 #### Recommended verification
 
-- The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).
-- The vocative census (19) and the *lēb* count (16), by concordance.
+- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י. Only the B-lines differ. Headline 2 stands at **high** confidence.
+- ~~The vocative census (19) and the *lēb* count (16), by concordance.~~ **Resolved 15 August.** The vocative census is **confirmed exactly** — nineteen occurrences, fifteen singular and four plural (4:1; 5:7; 7:24; 8:32), none in chapter 9. The *lēb* count was **wrong**: nineteen, not sixteen (see Tool 7(c)).
 - *Ḥokmôt* at 1:20 — the plural form and the standard explanations.
 - *Ḥālaq* distribution (5 occurrences).
 
@@ -712,11 +716,13 @@ Places where two or more tools independently arrived at the same point. Headline
 
 ## Open Questions / Uncertainties
 
-1. **The *wĕʿattâ bānîm šimʿû-lî* identity (Headline 2).** I am confident the formula is verbatim at 5:7, 7:24 and 8:32, and the ESV renders all three identically — but **verify against BHS**, since Headline 2 rests on it. **The most important item in this report.**
+1. ~~**The *wĕʿattâ bānîm šimʿû-lî* identity (Headline 2).** I am confident the formula is verbatim at 5:7, 7:24 and 8:32, and the ESV renders all three identically — but **verify against BHS**, since Headline 2 rests on it. **The most important item in this report.**~~
+   **Settled 15 August. The formula is verbatim identical at all three verses**, accents included: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י. The B-lines diverge (5:7 "and do not depart from the words of my mouth"; 7:24 "and be attentive to the words of my mouth"; 8:32 "and blessed are those who keep my ways"), which makes the A-line's exactness the more striking. Headline 2 is now `[T]` at high confidence, and this report's central structural argument — that the lectures and the interludes are one composition — rests on verified ground.
+   *Note on the literature.* Only one consulted commentator remarks on the transfer: Barnes (1879), who calls it "the old exhortation with a new force", the counsels being no longer those of prudence and human experience but of a Wisdom eternal as Jehovah. So the *datum* is now `[T]` and secure; the *reading of its significance* remains thinly sourced, and Ansberry's "Wisdom speaks through the voice of the father" is `[S]` with one nineteenth-century ally rather than a consensus behind it. Preach the identity as fact; present the significance as interpretation.
 
 2. **The vocative census.** Nineteen occurrences, 15 singular and 4 plural, none in chapter 9. Reached by reading; verify by concordance.
 
-3. **The *lēb* count (16) and the *ḥālaq* count (5).** Likewise.
+3. ~~**The *lēb* count (16) and the *ḥālaq* count (5).** Likewise.~~ **Resolved 15 August.** *Ḥālaq* **confirmed** at five: 2:16; 5:3; 6:24; 7:5; 7:21. *Lēb* **corrected** to nineteen.
 
 4. **The lecture/interlude division.** Ten and five is a standard analysis `[S: Ansberry]` and the units are text-observable, but the treatment of **6:1–19** is genuinely contested — it carries a vocative yet behaves like an interlude. Named as unresolved rather than decided.
 

@@ -285,7 +285,7 @@ Three tonal movements:
 
 ### 10. Repetition
 
-**Understanding.** *Bînâ* / *tĕbûnâ* / *tābîn* at vv.2, 3, 5, 6, 9, 11 — six occurrences of the root *byn* in eleven verses. `[T]` *Moderate–high; verify by concordance.* It is the chapter's key noun and its key verb, and it brackets both halves of the protasis-apodosis structure.
+**Understanding.** *Bînâ* / *tĕbûnâ* / *tābîn* at vv.2, 3 (twice), 5, 6, 9, 11 — **seven occurrences** of the root *byn* across six verses in vv.1–11. `[T]` *Moderate–high; still awaiting a clean morphological search — see note below.* Verse 3 carries two: "if you call out for **insight** (*bînâ*) and raise your voice for **understanding** (*tĕbûnâ*)". It is the chapter's key noun and its key verb, and it brackets both halves of the protasis-apodosis structure.
 
 **Wisdom and knowledge as a pair.** vv.5 ("knowledge of God"), 6 ("knowledge and understanding"), 10 ("knowledge will be pleasant to your soul"). *Daʿat* three times, always as the thing that arrives.
 
@@ -454,7 +454,7 @@ A reader after 586 BC hears vv.21–22 as a statement about something that has a
 | *kî* | vv.6, 10, 21 | Three grounds, each naming what God does or what follows | High |
 | *lĕhaṣṣîlĕkā* | vv.12, **16** | The identical infinitive opening both deliverances — the chapter's clearest structural signal, lost in ESV | High |
 | *lĕmaʿan* | v.20 | Purpose: the walking is the point of the delivering | High |
-| *ṣāpan* | vv.1 (*tiṣpōn*), 7 (*yiṣpōn*) | The son treasures up; God stores up. The chapter's hidden hinge | High on the verb; moderate–high on the pairing |
+| *ṣāpan* | vv.1 (*tiṣpōn*), 7 (Ketiv *wĕṣāpan* / Qere *yiṣpōn*) | The son treasures up; God stores up. The chapter's hidden hinge | **High on the verb (confirmed 15 Aug); high on the pairing** |
 | *tûšiyyâ* | v.7 | "Sound wisdom / resourcefulness / abiding success" — a technical term of the wisdom tradition, concentrated in Job and Proverbs | Moderate `[S]` |
 | *ḥăsîdāyw* | v.8 | "His saints" — the covenant-loyalty word; **only occurrence in Proverbs** | Moderate–high — verify |
 | *nāṣar / šāmar* | vv.8 ×2, 11 ×2 | God guards in v.8; wisdom guards in v.11 — the same protection, mediated | Moderate–high |
@@ -479,10 +479,11 @@ A reader after 586 BC hears vv.21–22 as a statement about something that has a
 
 #### Recommended verification
 
-- The *ṣāpan* identity at vv.1 and 7 (Headline 2 rests on it).
+- ~~The *ṣāpan* identity at vv.1 and 7 (Headline 2 rests on it).~~ **Confirmed 15 August**, with a Ketiv/Qere at v.7 that does not affect the finding. See Open Questions.
 - The absence of imperatives across the chapter.
 - The *ḥăsîdāyw* uniqueness in Proverbs.
-- The counts: √*byn* (6), road-words (13), *nāṣar/šāmar* (4).
+- The counts: √*byn* (**7**), road-words (13), *nāṣar/šāmar* (4). **Partially checked 15 August; the returned search was incomplete and the counts remain open.** See Open Questions.
+- ***Ḥāsîd* at v.8 — resolved 15 August.** *Ḥăsîdāyw* at 2:8 is **the only occurrence of *ḥāsîd* in Proverbs**, confirmed. The related noun *ḥesed* occurs at 3:3; 11:17; 14:22; 16:6; 19:22; 20:6, 28; 21:21; 31:26 — paired with *ʾĕmet* at 3:3; 14:22; 16:6; 20:28. So the book's single use of the covenant-loyalty *adjective* falls in the same chapter as its first invocation of Deuteronomy's land sanctions (vv.21–22). That coincidence now stands as a verified finding. `[T]` *High.*
 - The 22-verse / quasi-acrostic claim (see Structure).
 
 ---
@@ -718,7 +719,10 @@ Places where two or more tools independently arrived at the same point.
 
 ## Open Questions / Uncertainties
 
-1. **The *ṣāpan* identity at vv.1 and 7.** Headline 2 rests on the two verbs sharing a root. I am confident, but **verify** — the English versions use different words in the two verses, so nothing in the translations confirms it. **Most important item in this report.**
+1. ~~**The *ṣāpan* identity at vv.1 and 7.** Headline 2 rests on the two verbs sharing a root. I am confident, but **verify** — the English versions use different words in the two verses, so nothing in the translations confirms it. **Most important item in this report.**~~
+   **Settled 15 August: it is the same verb.** Headline 2 stands.
+   **And there is a wrinkle worth having.** Verse 7 carries a Ketiv/Qere. The written text (Ketiv) is **וְצָפַן**, *wĕṣāpan* — waw plus perfect. The read text (Qere) is **יִצְפֹּן**, *yiṣpōn* — imperfect. The root is *ṣāpan* either way, so **the link to v.1 holds on any reading**; but the Qere makes it tighter, because *yiṣpōn* (v.7) and *tiṣpōn* (v.1) are then the same stem in the same conjugation, differing only in person: *you* treasure up / *he* treasures up. On the Ketiv the connection is by root alone; on the Qere it is by form. This report's earlier text already cited v.7 as *yiṣpōn*, i.e. followed the Qere — now noted deliberately rather than by accident.
+   *What to do with it in the pulpit:* nothing that depends on the difference. The observation is safe on either text, and the Ketiv/Qere is not worth a sermon detour.
 
 2. **The absence of imperatives.** The theological point in Headline 1 and Convergent 2 depends on there being no imperative addressed to the son anywhere in the chapter. Verify against a tagged text.
 
@@ -726,7 +730,12 @@ Places where two or more tools independently arrived at the same point.
 
 4. ***Ḥăsîdāyw* as the only occurrence in Proverbs.** Verify by concordance.
 
-5. **The counts:** √*byn* (6 in vv.1–11), road-words (13), *nāṣar/šāmar* (4). All reached by reading.
+5. **The counts:** √*byn* (now **7** in vv.1–11), road-words (13), *nāṣar/šāmar* (4). All reached by reading.
+   **Partially checked 15 August — and the check did not settle it.** The returned search gave √*byn* four times ("vv. 1 (twice), 5 and 6") and the road-words as *derek* ×2, *nātîb* ×1, *ʾōraḥ* ×1, with *maʿgāl* left as a query. Both figures look like incomplete searches rather than corrections, and I have not adopted them.
+   - **√*byn*.** "v.1 twice" is almost certainly a slip for **v.3 twice**, which is right — v.3 has both *bînâ* and *tĕbûnâ*. But vv. **2, 9 and 11** were missed, and each is plainly there in the ESV ("inclining your heart to understanding"; "then you will understand righteousness"; "understanding will guard you"). Seven is my figure and I am raising rather than lowering it.
+   - **Road-words.** Four cannot be right. On the ESV alone: *derek* at vv.8, 12, 13, 20; *ʾōraḥ* at vv.8, 13, 15, 19, 20; *maʿgāl* at vv.9, 15, 18; *nātîb* at v.18. That is roughly thirteen, as originally claimed.
+   - ***nāṣar*/*šāmar*** was not returned. My figure of four stands on the text: v.8 *linṣōr* … *yišmōr*, v.11 *tišmōr* … *tinṣĕrekkā* — and note the chiasm, which is itself the finding.
+   **Status: still open.** These need a morphological search, not a phrase search. Nothing in this report should be preached on the strength of a *number* until then; the observations themselves do not depend on the totals.
 
 6. **Colossians 2:3 and Proverbs 2:4, 7.** The verbal shape is close ("hidden," "treasures," "wisdom and knowledge"), and the connection is homiletically strong — but whether commentators see an allusion has **not** been checked. Offered as canonical resonance, not as demonstrated allusion.
 
