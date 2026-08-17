@@ -135,6 +135,18 @@ This does not overturn the seam; the antithesis and righteous/wicked measures ar
 
 **The strongest of the two reconstructed seams, and stronger than the scheme's reputation.** Four measures converge on 28:1. A five-collection scheme that merges 25–29 loses the best-attested internal division in the sentence literature.
 
+> ### And it is not Ansberry's alone — added 17 August
+>
+> §8 below worried that this seam, though best supported by my own measures, was attested from a single scholar. **It is not.**
+>
+> - **Fox calls it "the common division"** of the Hezekiah collection — his phrase, and it settles the question of whether Ansberry is idiosyncratic here. Fox also devotes a dedicated excursus to the question, "Chapters 28–29: A 'Royal Instruction'?", before his comments on chapter 28.
+> - **Morris (1942)** argues it from form and draws the source-critical conclusion Fox declines: "In these chapters the commonest form is the comparative… In 28–29 the antithetic distich prevails… **These facts suggest that this is a collection made up from two sources.**"
+> - **Steinmann** (Concordia) notes that "Proverbs 25–27 have very little antithetical parallelism"; **Hayes** (New Collegeville) that antithetical sayings "predominate in Proverbs 28–29." Neither gives counts, but both describe the distribution my figures measure.
+>
+> So the 27:27/28:1 seam has **four independent formal measures and at least four witnesses**, one of whom calls the division common. It is the securest of the two reconstructed boundaries by some distance, and the case for keeping it in the sweep scoping is now strong rather than merely arithmetic.
+>
+> **A qualification on the janus at 27:23–27, running the other way from the 17 August note above.** I recorded that the royal-hinge reading of 27:23–27 is a minority position. That stands as a statement about explicit endorsement — but **Van Leeuwen**, whose monograph *Context and Meaning in Proverbs 25–27* is the major study of that material, divides it as 25 · 26:1–16 · 26:17–28 · 27:1–22 · **27:23–29:27**, the last "though loosely organized, generally pertaining to rulers and kings." That places the royal block's start at **27:23** — which is a version of the hinge reading, reached structurally rather than metaphorically. So the reading has better support than "minority" implies, though note it locates the seam at 27:22/27:23 rather than 27:27/28:1.
+
 ---
 
 ## 6. The Evidence Table
@@ -189,7 +201,13 @@ Three claims commonly attached to this scheme are not supported by the formal ev
 >
 > **3. No published Hebrew count for 25–29 exists**, so far as a library search can tell. Martin's figure for 10:1–15:33 appears to have no counterpart for the second Solomonic collection, and the question would need original work. Westermann's ~117 righteous/wicked sayings in chapters 10–15 counts themes rather than structures and is not comparable.
 >
-> **A wrinkle for the gematria, noted in passing.** Carroll refers to "the 376 couplets in Proverbs 10:1 to 22:16" — **376, not 375**. If the higher figure is right, the correspondence with the numerical value of *Shelomoh* fails outright. The verse count in my sweep was 375, arithmetically verified, but "couplets" and "verses" may not be the same unit. One more reason the gematria should not be preached as fact.
+> **A wrinkle for the gematria — resolved 17 August.** Carroll refers to "the 376 couplets in Proverbs 10:1 to 22:16". **The figure is 375, and it has now been checked three ways:** my own arithmetic from the Masoretic verse counts (32+31+28+25+35+33+33+28+24+29+30+31+16 = 375); **Murphy** (WBC) and **Steinberg** (Oxford Handbook of the Writings), both giving 375 individual sayings. Carroll's 376 appears simply to be an error.
+
+> **A caution about the explanation offered, as distinct from the answer.** The account returned with the 375 figure claims that "if you naively count verse numbers, you might arrive at 376 (from 10:1 to 22:16 inclusive)", the superscription at 10:1a accounting for the difference. **That is arithmetically false.** The inclusive verse count from 10:1 to 22:16 is 375, not 376; there is no off-by-one to explain. The conclusion is right and the reasoning is wrong — which is a more instructive failure than a wrong answer would have been, and a reason to check derivations even when the bottom line matches what you expected.
+
+**What this does to the gematria.** The arithmetic premise is now secure: the collection has 375 sayings, and 375 is the numerical value of שְׁלֹמֹה. So the flag on it changes character. It is no longer "the count may be wrong"; it is **"the count is right and the intention is unprovable."** Gematria arguments cannot be falsified, and a correspondence that holds is not thereby shown to be designed — but the claim can at least now be stated accurately. *Still not to be preached as fact.*
+
+*(A cautionary parallel from the same pass: Schwab observes that 25:2–29:27 has 138 verses, that Hezekiah's name totals 130, and that if nine particular verse-pairs are each counted as single units the figure becomes 130. That is what gematria looks like when it has to work for its result, and it is a useful reminder of how much latitude the method allows.)*
 
 **Method caveat on my own counts.** Every figure above is an English proxy on the ESV, not a count of Hebrew forms. "But" undercounts antithesis, since Hebrew antithetical parallelism is frequently asyndetic and some contrasts are rendered without a conjunction. Martin's Hebrew count — 163 antithetic sentences out of 183 in 10:1–15:33, i.e. 89% — against my 74% shows the size of the gap, and shows it runs in the safe direction: **the real contrast at Seam A is sharper than my table says, not softer.** Martin's denominator of 183 rather than 184 is itself a small corroboration, since it implies his unit begins at 10:1b, after the superscription. **[S]**
 
@@ -220,6 +238,30 @@ So the 15:33/16:1 division is not idiosyncratic to Ansberry. The 27:27/28:1 divi
 > **A tension inside Ansberry's own footnotes,** which I missed on the first pass: Ansberry cites Heim (BZAW 273) at chapter 4, footnote 7. He draws on a scholar whose central thesis locates the structure somewhere other than where Ansberry's own division puts it. Not a contradiction — one can accept cluster artistry and still propose larger units — but a strain worth naming.
 >
 > **Also unresolved: Fox.** A summary reports that Fox recognises the shifts at both 15:33/16:1 and 27:27/28:1 but declines to treat either as a sub-collection boundary, preferring "gradients" and "tendencies". That would be the most authoritative voice against the scheme — **but the summary is sourced to an Amazon listing and a wiki, not to Fox.** AB 18B is in the library and should be read before this is repeated.
+
+> ### ✅ Fox read at first hand — and the web summary was wrong on the facts
+>
+> **Fox uses both divisions.** He begins his Part IIb at 16:1, and he "holds to the common division" of the Hezekiah collection at 27:27/28:1. The reported claim that he *declines* both was false, and the decision not to cite an Amazon listing was the right one.
+>
+> **But his reasons are, almost word for word, the position this assessment arrived at independently.** On the first division:
+>
+> > "The present Commentary begins IIb at 16:1, because it begins a thematic cluster of sayings on God's power. Snell (1993: 6) finds three sections in Part II: 10:1–14:25; 14:26–16:15; and 16:16–22:16. **However, there is no indication that these ever existed as separate collections.** A single collector simply may have varied his choice of topics and proverb-types as he proceeded. **The main point is that there need be no sharp boundaries between subsections of a collection. Components of one theme can carry over into a new unit, and pivotal proverbs can look in both directions.**"
+> > — Fox, *Proverbs 10–31* (AB 18B), 509
+>
+> And on the second:
+>
+> > "**Though the distinction is not sharp, the division is useful.** Part Va has several thematic clusters, while Vb is composed of individual maxims… **Part Va uses rich imagery; Vb does not. Va has few antithetical couplets; Vb has several. This does not prove that the sections were ever separate collections**, for an editor can group similar sayings together, whether by intention or by memory association… In my view, the maxims of Part V are not organized in large-scale designs, though there are some thematic clusters."
+> > — Fox, *Proverbs 10–31* (AB 18B), 775–76
+>
+> **Three things follow, and they matter.**
+>
+> **1. The distinction this document is built on is Fox's own.** §2 above separates *formal shift* (certain) from *collection boundary* (an inference), and the 17 August correction lowered confidence on the second while keeping the first. **That is exactly Fox's position**: the division is *useful*, the distinction is *not sharp*, and it *does not prove* separate collections. So Fox is not a witness against the scheme; he is a witness for treating it as a commentator's segmentation rather than a source-critical result. The confidence level set above stands — for better reasons than the ones that produced it.
+>
+> **2. Fox's criteria for 25–27 against 28–29 are precisely what my counts measured.** He says Va uses rich imagery and has few antithetical couplets; Vb has several and lacks the imagery. **My figures put numbers on exactly those two impressions**: simile 30% against 2%, antithesis 6% against 60%. Fox described it; the counts quantify it. That is the strongest mutual confirmation in the whole assessment, because neither was derived from the other.
+>
+> **3. "Pivotal proverbs can look in both directions" is Fox endorsing the janus principle** — and he applies it to the very verse I had proposed. He reads **15:33 as both "an appropriate ending to the first part" and as "introducing 16:1–9"** (p. 605). §4 above floated a janus at 15:33 as my own unsourced suggestion on the analogy of 27:23–27. **It is Fox's reading.** Upgrade from proposal to `[S: Fox]`, moderate–high.
+>
+> **A fourth option to record: Snell's three-part scheme** — 10:1–14:25; **14:26–16:15**; 16:16–22:16. Note where his middle section falls: it *straddles* 15:33/16:1. And §4 above independently identified a transition zone of roughly 15:1–16:9 on the evidence of the divine-name cluster (ch. 15 = 9, ch. 16 = 11) and the royal sayings from 16:10. **Snell's boundaries — 14:26, the first fear-of-the-LORD pair, to 16:15, the end of the king-sayings — are that same zone, arrived at by a different route.** Two independent analyses locating the same hinge is worth more than either alone.
 >
 > **Revised verdict on Seam A:** the *formal shift* is `[T]` and beyond dispute. The *collection boundary* is `[I]`, genuinely contested, and belongs in a sermon as one reading among others rather than as a finding. **Confidence lowered from high to moderate.**
 

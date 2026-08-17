@@ -243,7 +243,15 @@ Taken together with *ʿormâ*, the pattern is what makes the finding: **two of t
 >
 > "The fear of the Lord is the beginning of wisdom; *and there is good understanding to all that practise it; and piety toward God is the beginning of discernment;* but the ungodly will set at nought wisdom and instruction." (Italics = the plus.)
 >
-> **Correction 1 — the *theos* point is withdrawn.** I wrote above that the Greek reads *phobos theou* rather than *kyriou*, and built an observation on it about the motto sounding like general piety rather than covenant loyalty. Brenton's text reads **Κυρίου**. The *θεόν* I had seized on belongs to the **plus**, not to the opening clause. My claim rested on a Greek form quoted in a secondary summary that I did not check against an edition — precisely the error this report's method is supposed to prevent. *(Some editions do print θεοῦ at this point, so there may be a genuine variant; but that is a question for Rahlfs-Hanhart or the Göttingen edition, not something to assert either way.)*
+> **Correction 1 — the *theos* point, withdrawn and then partly reinstated.** I wrote above that the Greek reads *phobos theou* rather than *kyriou*, and built an observation on it about the motto sounding like general piety rather than covenant loyalty. **Brenton's text reads Κυρίου**, so I withdrew the point.
+>
+> **The editions were then checked, and there is a genuine variant.** **Rahlfs-Hanhart reads φόβος θεοῦ**, as do **Codex Sinaiticus** and **Swete**. Brenton, resting on Vaticanus, reads Κυρίου. So the reading I had used is the one the standard critical edition prints — and my withdrawal was too quick, made on the authority of a single popular edition.
+>
+> **The defensible position, and the one this report now takes:** the divine designation at LXX 1:7 is **textually divided**, with Rahlfs-Hanhart, Sinaiticus and Swete against Brenton/Vaticanus. On the Rahlfs text the observation stands — *theos* rather than the *kyrios* that LXX Proverbs ordinarily uses for the divine name makes the motto sound less like covenant loyalty to a named God. **But it must be stated as text-dependent, never as "the LXX reads".** `[T]` on the variant; `[I]` and *moderate* on what it implies.
+>
+> *(Note that θεόν also stands in the plus — "piety toward **God** is the beginning of discernment" — so on the Rahlfs text the verse uses θεός twice and κύριος not at all, which strengthens the observation rather than weakening it. The Göttingen edition remains unconsulted.)*
+>
+> **The methodological lesson survives both corrections, and is worth more than the observation.** I first asserted a Greek form from a secondary summary; then withdrew it on one popular edition; and only the third step — opening a critical edition — produced a defensible statement. The error was not in the form I quoted but in twice treating a single witness as *the* text.
 >
 > **Correction 2 — and this one matters more — the Greek does not level the difference; it doubles it.** I wrote that the LXX "assimilates 1:7 to 9:10", substituting *sophia* for the Hebrew *daʿat*, and used that as mild evidence against making much of the *rēʾšît* / *tĕḥillat* variation. **The plus shows the opposite.** The Greek makes *two* "beginning" statements where the Hebrew makes one:
 >

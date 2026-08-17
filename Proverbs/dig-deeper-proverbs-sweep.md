@@ -219,7 +219,28 @@ Proverbs' Hebrew is generally stable, but it contains an unusual number of place
 | **22:20** | ESV "thirty sayings"; Ketiv *šilšôm* ("formerly"), Qere *šālîšîm* | The Amenemope link rides partly on this. *Moderate–high* |
 | **7:22** | ESV "as a stag is caught fast" follows LXX/Vulgate/Syriac; MT reads "as a chain to the discipline of a fool" | *Moderate–high* |
 | **13:15** | ESV "the way of the treacherous is their ruin" follows the versions; MT "is rugged / enduring" | *Moderate* |
-| **14:32** | MT "the righteous finds refuge **in his death**"; LXX/Syriac "in his integrity" (*bĕtummô* for *bĕmôtô*) | **Category 2, and theologically live** — the MT reading is one of the few places Proverbs may glimpse hope beyond death. ESV keeps MT. *Moderate; flag in any sermon that leans on it* |
+| **14:32** | MT "the righteous finds refuge **in his death**"; LXX/Syriac "in his integrity" (*bĕtummô* for *bĕmôtô*) | **Category 2, and theologically live** — the MT reading is one of the few places Proverbs may glimpse hope beyond death. ESV keeps MT. **See the note below: the library divides four to one for MT** |
+
+> ### 14:32 — the library's verdict, 17 August
+>
+> Worth having in full, because the two sides collide on different grounds and a preacher will be asked.
+>
+> **For the MT (*bĕmôtô*, "in his death") — four of five:**
+> - **Waltke:** "*be* now marks the circumstance in which the righteous proves himself a worshiper of the LORD as his dying." He notes Rashi ("when he will die, he is confident that he will come to the Garden of Eden") and Meinhold, who "reluctantly concedes that this proverb sees a refuge for the righteous that lies beyond the limits of death… **He thinks that it is exceptional, but in truth the proverb is entirely consistent with the rest of the book.**"
+> - **Schwab**, with the sharpest argument on this side: the emendation would have Proverbs commend refuge *in one's own integrity*, and "**Proverbs consistently encourages faith in the LORD … never faith in one's own piety.**"
+> - **Kidner:** the Hebrew "must not be discarded merely as implying too advanced a doctrine of death: Job and the Psalms show occasional glimpses, such as this, of what lies normally beyond their view."
+> - **Goldsworthy:** prefers "death", but cautions that it "does not necessarily indicate an understanding of life after death… it does express confidence that the righteous are vindicated."
+>
+> **Against (Fox, alone — and his is the strongest single argument):** the objection is **syntactic, not theological.** "The verb *ḥsh* governs the preposition *b* + **the source of hope** and is not used absolutely, in the sense of 'have faith'." One does not take refuge *in* an event. Fox judges MT's reading probably accidental — a *t*/*m* metathesis with a later *waw* added — and notes Geiger's alternative that it was a deliberate change to accommodate Pharisaic doctrine, which Fox thinks goes too far.
+>
+> **Where that leaves it.** The choice is between two anomalies, and they are anomalies of different kinds:
+>
+> | Reading | Difficulty |
+> |---|---|
+> | *bĕmôtô*, "in his death" | **Syntactic** — *ḥāsâ b-* elsewhere takes a source of refuge, not an event |
+> | *bĕtummô*, "in his integrity" | **Theological** — makes Proverbs commend self-trust, which it does nowhere else |
+>
+> That is a genuinely balanced crux and should be presented as one. *Moderate.* **For preaching:** the ESV keeps MT, the library majority agrees, and the verse may be used — but say that the text is disputed, and do not build a doctrine of the intermediate state on a single colon whose syntax is irregular. Fox's point is the one to answer, not to ignore.
 | **26:23** | ESV "like the glaze covering an earthen vessel" rests on a revocalisation; MT "silver of dross" | *Moderate* |
 | **6:26** | ESV footnote offers a materially different sense from the versions | *Moderate* |
 | **8:22** | Not a variant but a **rendering**: LXX *ektisen*, "created"; Aquila/Symmachus/Theodotion *ektēsato*, "acquired"; Vulgate *possedit*, "possessed" | Category 1-adjacent — an interpretive decision on an ambiguous Hebrew verb, which then became the pivot of the Arian controversy. Worked at Unit 9. *High confidence on the renderings; the Hebrew itself is genuinely contested* |
@@ -1013,6 +1034,20 @@ At **8:22**, ESV/NASB "possessed"/"possessed" and KJV "possessed" agree; but the
 Under the Three-Way Triage this is **not** a category 2 variant — there is no evidence of a different Hebrew *Vorlage*; it is an interpretive decision about an ambiguous verb, so it belongs with category 1 (a feature the Hebrew carries and the translations must resolve). What makes it exceptional is that the resolution became **doctrinally load-bearing**: LXX Prov 8:22 was the Arian party's principal Old Testament text, and the Nicene fathers answered it partly by pointing to the later Greek versions and partly by arguing that the passage speaks of the incarnate economy. `[S]` *High confidence on the history.*
 
 **`**Translation-tradition split:**`** the moderns follow the Hebrew's ambiguity toward "possessed"; the Old Greek resolved it toward "created." *Implication for preaching:* if you preach 8:22 at all, say that the verb is ambiguous in Hebrew, that the Greek resolved it one way, and that a great deal of church history turned on it. Do not preach "possessed" as though the Hebrew settled the matter.
+
+> ### The *qānâ* link to 4:5, 7 — confirmed 17 August, and it was my own proposal
+>
+> I had asked whether any commentator connects the *qānâ* of 8:22 with the same verb in 4:5 and 4:7, where the son is commanded to **"get wisdom."** Three do, and one draws the theological conclusion.
+>
+> - **Kidner:** "Elsewhere this verb (*qānâ*) predominantly means 'get', and hence 'possess' (**see e.g. Prov. 4:5, 7, where wisdom is the object, as here**)." He adds a useful statistic: of the verb's **84 Old Testament occurrences, only six or seven allow the sense 'create'** (Gen 14:19, 22; Exod 15:16; Deut 32:6; Pss 74:2; 139:13; Prov 8:22) — "and even these do not require it."
+> - **Schwab**, most fully: "Often in Proverbs, humans are called to 'get/acquire [*qānâ*] wisdom' (e.g., 4:5, 7; 16:16)—**imitating the God who also had acquired this wisdom from eternity.**"
+> - **Bullinger** lists the verb's occurrences across the book, 4:5 and 4:7 included.
+>
+> **So the link holds, and the payoff is larger than I expected.** The son is commanded to do with wisdom exactly what YHWH is said to have done with wisdom. The imperative of 4:5 — *qĕnēh ḥokmâ*, "get wisdom" — asks the reader to imitate the action of 8:22. `[S: Schwab]` on the imitation reading; `[T]` on the shared verb. *Moderate–high.*
+>
+> **What this does to the crux.** It does not settle whether *qānâ* means "possessed" or "brought forth" at 8:22 — but it tilts the balance, because the book's own other uses of the verb are all acquisitive, and 4:5/4:7 are the closest parallels with wisdom as object. Schwab presses this against the "created" reading and quotes Irwin's judgement that the LXX's *ktizein* was "tendentious: the translator held some theory of interpretation of this passage."
+>
+> **A caution to keep.** Most modern critical exegetes still favour an origin sense at 8:22, chiefly on the strength of the birth language of *ḥôlaltî* in vv. 24–25 — and that argument is not touched by the 4:5/4:7 parallel. **The honest position is that the book's usage pulls one way and the immediate context pulls the other**, which is worth saying from the pulpit rather than resolving by preference.
 
 ### 9. Tone
 

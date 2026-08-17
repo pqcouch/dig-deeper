@@ -274,6 +274,24 @@ The section's tonal architecture is a **decrescendo of the father and a crescend
 
 **The strange woman's smooth speech** — *ḥālaq* at 2:16; 5:3; 6:24; 7:5, 21. Five occurrences. `[T]` *Moderate–high.* The recurring danger in this section is not beauty but **rhetoric**, which is why the antidote is a rival rhetoric rather than a rule.
 
+> ### Who the *ʾiššâ zārâ* is — settled 17 August
+>
+> The question was never asked directly and has now been put to the library. **There is a clear consensus, and it is not the obvious one.**
+>
+> ***Zārâ* does not mean "foreigner" here.** The root *zûr* can denote ethnic outsiders (Isa 1:7; Hos 7:9), but of a woman it means one **estranged from the covenant community**, not from the nation. Snijders and McKane are the standard references; the NET notes put it plainly: "It does not mean that she is a foreigner but that she is estranged from the community with its social and religious values… **Here an Israelite woman is in view because her marriage is called a 'covenant with God.'**" `[S]`
+>
+> **Keil and Delitzsch draw the distinction between the two words** that this report had treated as near-synonyms: *zār* is *alienus* — "him who does not belong to a certain class… the person or thing not belonging to me" — so *ʾiššâ zārâ* is **the non-married wife**; whereas *nokrî* is *peregrinus* and "scarcely anywhere divests itself of the essential mark of a strange foreign origin", so *nokrîyâ* designates her as **non-Israelite**. On that analysis the two terms in 2:16 are not a hendiadys but a pair with different force. `[S]`
+>
+> **Waltke:** the "unchaste wife", "an outsider" who "remains at heart a prostitute." **Kidner**, following Toy: "one who is outside the circle of a man's proper relations."
+>
+> **Goldingay holds the multivalence open** and is worth quoting for the caution: the woman "is such a major concern of chs. 1–9… that there seems likely to be more to it than" straightforward adultery. He suggests marital unfaithfulness may be a parable of unfaithfulness to God, and that "alien woman" may point to those "committed to foreign gods and foreign wisdom" — **but concedes that 2:17 "most naturally suggests an Israelite woman who has abandoned the husband to whom she made her vows before the God of Israel."** `[S]`
+>
+> **What this settles for this report.** Section 7(e) above observes that the two women's vocabulary is "deliberately insufficient to tell them apart." That stands, and now has a firmer base: **the strange woman is defined by covenant abandonment rather than by ethnicity**, which is exactly what makes her a structural counterpart to Wisdom rather than merely a moral hazard. Both women are insiders addressing insiders.
+>
+> **And it removes a preaching trap I had not identified.** Rendering *ʾiššâ zārâ* as "foreign woman" invites a sermon about outsiders, marriage across boundaries, or cultural contamination. The text is doing something else: she is one of us who has *forgotten the covenant of her God* (2:17). The danger is apostasy from within, not infiltration from without. `[S]` *Moderate–high.*
+>
+> *(See `proverbs-2.md` for Atkinson's further step — that this covenant framing is what links 2:16–19 to the land sanctions of 2:21–22.)*
+
 **Sheol** — 1:12; 2:18 (*rĕpāʾîm*); 5:5; 7:27; 9:18 (*rĕpāʾîm*). Five occurrences, opening in the mouth of the gang and closing in the narrator's verdict on Folly's guests. `[T]` The section is bracketed by the grave.
 
 **The tree of life** — 3:18 only, in this section; it recurs three times in the collections (11:30; 13:12; 15:4). Planted here.

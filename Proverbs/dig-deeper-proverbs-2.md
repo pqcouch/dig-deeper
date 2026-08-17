@@ -486,6 +486,26 @@ A reader after 586 BC hears vv.21–22 as a statement about something that has a
 - The *ḥăsîdāyw* uniqueness in Proverbs.
 - The counts: √*byn* (**7**), road-words (13), *nāṣar/šāmar* (4). **Partially checked 15 August; the returned search was incomplete and the counts remain open.** See Open Questions.
 - ***Ḥāsîd* at v.8 — resolved 15 August.** *Ḥăsîdāyw* at 2:8 is **the only occurrence of *ḥāsîd* in Proverbs**, confirmed. The related noun *ḥesed* occurs at 3:3; 11:17; 14:22; 16:6; 19:22; 20:6, 28; 21:21; 31:26 — paired with *ʾĕmet* at 3:3; 14:22; 16:6; 20:28. So the book's single use of the covenant-loyalty *adjective* falls in the same chapter as its first invocation of Deuteronomy's land sanctions (vv.21–22). That coincidence now stands as a verified finding. `[T]` *High.*
+
+> ### The covenant thread runs through the whole chapter — added 17 August
+>
+> The *ḥāsîd* observation above was recorded as a coincidence of proximity. **It is more than that, and Atkinson (drawing on Christopher Wright) supplies the logic that links it to the strange woman and the land.** `[S: Atkinson, BST]`
+>
+> The chain is this. The woman of vv.16–19 is described not as a foreigner but as one who "forsakes the companion of her youth and **forgets the covenant of her God**" (v.17). By repudiating her marriage vows she has put herself *outside* her own family — and in Israel family loyalty was designed to mirror covenant loyalty, the marriage covenant and the covenant with YHWH being analogies of each other. **So she is outside the covenant community, not outside the nation.**
+>
+> Then vv.20–22: "the upright will inhabit the land… the wicked will be **cut off from the land**." Inheriting the land and being cut off from it are covenant categories. Atkinson's point is that the two halves of the second movement are therefore *causally* connected, not merely juxtaposed: **to get entangled with a woman who has loosed herself from covenant obligation is to jeopardise one's own place in the covenant, and so to risk being cut off from the land that sustains covenant life.**
+>
+> That gives Proverbs 2 three covenant markers in twenty-two verses, and they are not scattered — they are the chapter's spine:
+>
+> | v. | Marker | Function |
+> |---|---|---|
+> | **8** | *ḥăsîdāyw* — the book's only *ḥāsîd* | God guards the way of his **covenant-loyal ones** |
+> | **17** | "forgets the **covenant** of her God" | The woman defined by covenant abandonment |
+> | **21–22** | inhabit / be **cut off from** the land | Deuteronomy's covenant sanctions |
+>
+> **Why this matters for preaching.** It removes the temptation to treat vv.16–19 as a self-contained warning about sexual sin and vv.20–22 as an unrelated tailpiece about the land. On Atkinson's reading they are one argument, and Waltke's stanza division supports it — stanzas 5 and 6 (vv.16–19, 20–22) are consecutive movements of a single covenant logic. The chapter's danger is not merely that the son will be seduced; it is that he will be *cut off*.
+>
+> `[S]` on the covenant analogy and the land connection; `[T]` on the three markers themselves. *Moderate–high.*
 - The 22-verse / quasi-acrostic claim (see Structure).
 
 ---
@@ -753,9 +773,38 @@ Places where two or more tools independently arrived at the same point.
    - **The three *aleph* verses are the chapter's logical skeleton.** *ʾim* (v.4) closes the protasis; *ʾāz* (v.5) and *ʾāz* (v.9) open the two apodoses. And *ʾim* is the first word of the sentence proper at v.1 once the vocative *bĕnî* is set aside — which is what Waltke's narrower formulation seems actually to rest on.
    - **The three *lamed* verses are the second half's structural heads.** *lĕhaṣṣîlĕkā* (v.12, rescue from the man of perverted speech), *lĕhaṣṣîlĕkā* again (v.16, rescue from the strange woman), *lĕmaʿan* (v.20, "so that you may walk"). Two identical purpose-infinitives and a purpose conjunction: **rescue, rescue, result.**
 
-   **Verdict: the "do not preach" flag stays on, for a changed reason.** It was flagged as unverified; it is now flagged as **substantially overstated in the secondary literature**. The 22-verse count is real and may well be deliberate. The alphabetic architecture is not there. `[T]` on the table above; `[I]` and weak on any intended *aleph*/*lamed* symbolism.
+   ~~**Verdict: the "do not preach" flag stays on, for a changed reason.**~~
 
-   *Method note: several independent-looking sources repeat the same overstatement, which is exactly what made it look well-attested. Multiple citations agreeing is not the same as multiple witnesses.*
+   ### ✅ Flag lifted — Waltke read at first hand, and he is right
+
+   Waltke's own words settle it, and the secondary sources had garbled a single word:
+
+   > "The 'alphabetic' poem is a single sentence consisting of 22 verses, matching the number of letters in the Hebrew alphabet, probably to suggest its completeness… Structurally and logically it is divided into two equal halves (2:1–11, 12–22), each half consisting of two stanzas of four verses and a climactic third of three verses… **After the address, each *stanza* of vv. 1–11 begins with the first letter of the Hebrew alphabet, aleph** (*ʾim* "if," *ʾāz* "then" [twice]), **and each *stanza* of the second half with its twelfth consonant, lamed** (*lĕhaṣṣîlĕkā* "to deliver you" [twice] and *lĕmaʿan* "so that")."
+   >
+   > — Waltke, *The Book of Proverbs, Chapters 1–15* (NICOT)
+
+   **Stanza, not verse.** That single substitution is the whole error. Waltke claims six markers at six stanza-heads; the sources reported twenty-two markers at twenty-two verse-heads, which the Hebrew refutes.
+
+   **And Waltke names exactly the six words I had recovered independently from the Westminster Leningrad Codex** — *ʾim*, *ʾāz*, *ʾāz* / *lĕhaṣṣîlĕkā*, *lĕhaṣṣîlĕkā*, *lĕmaʿan*. The reading arrived at by counting first letters in the WLC and the reading in NICOT are the same reading.
+
+   **One correction to my own table above:** I recorded v.1 as beginning with *bet* (*bĕnî*), and put *aleph* at vv. 4, 5, 9. Waltke's "after the address" sets the vocative *bĕnî* aside, making the *ʾim* of v.1 the stanza-head. On his stanza division the six heads are **vv. 1, 5, 9 / 12, 16, 20**. The *ʾim* at v.4 is stanza-internal. My identification of the words and the count of three-and-three was right; one of them was attached to the wrong verse.
+
+   **Waltke's stanza structure, which this report did not have and should:**
+
+   | | Stanza | Verses | Head | Content |
+   |---|---|---|---|---|
+   | **First half — the son's character produced** | 1 | 1–4 | *ʾim* | Internalising parental teaching |
+   | | 2 | 5–8 | *ʾāz* | Coming to fear and know God |
+   | | 3 | 9–11 | *ʾāz* | Learning righteousness intuitively |
+   | **Second half — the son protected** | 4 | 12–15 | *lĕhaṣṣîlĕkā* | Deliverance from wicked men |
+   | | 5 | 16–19 | *lĕhaṣṣîlĕkā* | Deliverance from the wicked woman |
+   | | 6 | 20–22 | *lĕmaʿan* | Life, not death |
+
+   **4 + 4 + 3 | 4 + 4 + 3.** Each half two stanzas of four and a climactic third of three. This maps onto the protasis/apodosis analysis in Tool 3 above without contradiction: my "three escalating protasis verbs" occupy stanza 1, and the two *ʾāz* apodoses head stanzas 2 and 3.
+
+   **What may now be preached, and how.** That the chapter has twenty-two verses matching the alphabet, and that its six stanzas are headed by *aleph*-words and *lamed*-words — letters one and twelve, the two halves of the alphabet — is Waltke's considered claim, and it is true of the text. `[T]` on the six markers and the stanza division; `[S: Waltke]` on the inference to intentional completeness, which remains an inference and should be offered as such. **What must not be said is that every verse begins with *aleph* or *lamed*.** It does not, and a congregant with a Hebrew Bible could check in a minute.
+
+   *Method note worth keeping: several independent-looking sources repeated the same overstatement, which is exactly what made it look well-attested. They were all downstream of one compressed summary of the paragraph above. Multiple citations agreeing is not the same as multiple witnesses — and the primary source turned out to be more careful than every secondary report of it.*
 
 4. ***Ḥăsîdāyw* as the only occurrence in Proverbs.** Verify by concordance.
 
