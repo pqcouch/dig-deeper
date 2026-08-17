@@ -91,7 +91,9 @@ What remains is the **passage-level** purpose, and it is double — which is why
 
 Those two purposes explain the chapter's texture. It feels abstract because it is *announcing* rather than teaching; it feels dense because it is one sentence. Its density and its abstractness are the same fact — and both are functions of its job.
 
-**One thing the chapter is not doing.** It is not describing a technique. The imperative mood does not appear once in twenty-two verses. `[T]` Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
+**One thing the chapter is not doing.** It is not describing a technique. The imperative mood does not appear once in twenty-two verses. `[T]` ***High — confirmed by morphological search, 17 August: no verb addressed to the son is an imperative; all are yiqtol (imperfect), the majority governed by "if" or "then".*** Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
+
+> **A precision on the divine verbs.** The search returned "five verbs, all Qal" for vv.6–8. *Qal* is a stem, not a mood, so that answers a slightly different question — but it is the answer the argument needs anyway: *yittēn*, *ṣāpan*/*yiṣpōn*, *yišmōr* are Qal **indicatives** and *linṣōr* a Qal infinitive construct. No imperative, no conditional, no jussive. The asymmetry holds: **the son's verbs are contingent, God's are not.**
 
 **Book-overview note:** the overview's purpose statement is confirmed. The overview does not describe this chapter individually; the section run supplied that, and this run confirms it from the syntax.
 
@@ -289,7 +291,7 @@ Three tonal movements:
 
 **Wisdom and knowledge as a pair.** vv.5 ("knowledge of God"), 6 ("knowledge and understanding"), 10 ("knowledge will be pleasant to your soul"). *Daʿat* three times, always as the thing that arrives.
 
-**The road-words** — see Tool 7(f). Thirteen occurrences.
+**The road-words** — see Tool 7(f). **Twelve occurrences of three words** (*derek*, *ʾōraḥ*, *maʿgāl*); there is no *nātîb* in the chapter. Verified against the Hebrew, 17 August. `[T]` *High.*
 
 **Guarding and watching.** *Nāṣar* / *šāmar* at vv.8 (twice: "guarding the paths," "watching over the way"), 11 (twice: "discretion will watch over you, understanding will guard you"). `[T]` *Moderate–high.* Four occurrences, and the distribution is the point: **in v.8 God does the guarding; in v.11 wisdom does it.** The protection promised is the same protection, mediated. That is a small but genuinely illuminating pattern and it is easy to miss because ESV varies the English.
 
@@ -459,7 +461,7 @@ A reader after 586 BC hears vv.21–22 as a statement about something that has a
 | *ḥăsîdāyw* | v.8 | "His saints" — the covenant-loyalty word; **only occurrence in Proverbs** | Moderate–high — verify |
 | *nāṣar / šāmar* | vv.8 ×2, 11 ×2 | God guards in v.8; wisdom guards in v.11 — the same protection, mediated | Moderate–high |
 | *ʿāzab* | vv.13, 17 | Both dangers described as **forsaking** a prior bond | Moderate–high |
-| *bînâ / tĕbûnâ / tābîn* | vv.2, 3, 5, 6, 9, 11 | Six occurrences of √*byn* in eleven verses | Moderate–high — verify |
+| *bînâ / tĕbûnâ / tābîn* | vv.2, 3 (×2), 5, 6, 9, 11 | **Seven** occurrences of √*byn* in eleven verses | **High — verified against the Hebrew, 17 Aug** |
 | *ʾiššâ zārâ / nokriyyâ* | v.16 | "Not belonging to you" rather than ethnically foreign | Moderate `[S]` |
 | *bĕrît ʾĕlōhêhā* | v.17 | Marriage covenant or Sinai covenant — genuinely contested | Moderate |
 | *rĕpāʾîm* | v.18 | The shades; recurs at 9:18, closing the frame's thread | High |
@@ -726,7 +728,34 @@ Places where two or more tools independently arrived at the same point.
 
 2. **The absence of imperatives.** The theological point in Headline 1 and Convergent 2 depends on there being no imperative addressed to the son anywhere in the chapter. Verify against a tagged text.
 
-3. **The 22-verse / quasi-acrostic claim.** The verse count and the 11+11 division are certain; the claim that the length is deliberate, and that v.12's *lamed* marks the alphabet's midpoint, is `[S]` and **unverified**. Do not preach it as established.
+3. ~~**The 22-verse / quasi-acrostic claim.** The verse count and the 11+11 division are certain; the claim that the length is deliberate, and that v.12's *lamed* marks the alphabet's midpoint, is `[S]` and **unverified**. Do not preach it as established.~~
+   **Checked against the Westminster Leningrad Codex, 17 August. The claim as it circulates is false — and the text yields something better.**
+
+   The version repeated in several sources (USCCB notes, NET notes, BiblicalTraining, and popular expositions, all apparently downstream of a compressed summary of Waltke) is that *every* verse of vv.1–11 begins with *aleph* and *every* verse of vv.12–22 with *lamed*. **It does not.** All twenty-two openings:
+
+   | v. | first word | letter | | v. | first word | letter |
+   |---|---|---|---|---|---|---|
+   | 1 | *bĕnî* | **bet** | | 12 | *lĕhaṣṣîlĕkā* | **lamed** |
+   | 2 | *lĕhaqšîb* | lamed | | 13 | *haʿōzĕbîm* | he |
+   | 3 | *kî* | kaf | | 14 | *haśśĕmēḥîm* | he |
+   | 4 | *ʾim* | **aleph** | | 15 | *ʾăšer* | aleph |
+   | 5 | *ʾāz* | **aleph** | | 16 | *lĕhaṣṣîlĕkā* | **lamed** |
+   | 6 | *kî* | kaf | | 17 | *haʿōzebet* | he |
+   | 7 | *wĕṣāpan* / *yiṣpōn* | waw / yod | | 18 | *kî* | kaf |
+   | 8 | *linṣōr* | lamed | | 19 | *kol* | kaf |
+   | 9 | *ʾāz* | **aleph** | | 20 | *lĕmaʿan* | **lamed** |
+   | 10 | *kî* | kaf | | 21 | *kî* | kaf |
+   | 11 | *mĕzimmâ* | mem | | 22 | *ûrĕšāʿîm* | waw |
+
+   *Aleph* stands at three verses in the first half, not eleven; **v.1 begins with *bet***; and *lamed* opens vv.2 and 8 inside the supposed *aleph* half.
+
+   **What is actually there, and it is worth having:**
+   - **The three *aleph* verses are the chapter's logical skeleton.** *ʾim* (v.4) closes the protasis; *ʾāz* (v.5) and *ʾāz* (v.9) open the two apodoses. And *ʾim* is the first word of the sentence proper at v.1 once the vocative *bĕnî* is set aside — which is what Waltke's narrower formulation seems actually to rest on.
+   - **The three *lamed* verses are the second half's structural heads.** *lĕhaṣṣîlĕkā* (v.12, rescue from the man of perverted speech), *lĕhaṣṣîlĕkā* again (v.16, rescue from the strange woman), *lĕmaʿan* (v.20, "so that you may walk"). Two identical purpose-infinitives and a purpose conjunction: **rescue, rescue, result.**
+
+   **Verdict: the "do not preach" flag stays on, for a changed reason.** It was flagged as unverified; it is now flagged as **substantially overstated in the secondary literature**. The 22-verse count is real and may well be deliberate. The alphabetic architecture is not there. `[T]` on the table above; `[I]` and weak on any intended *aleph*/*lamed* symbolism.
+
+   *Method note: several independent-looking sources repeat the same overstatement, which is exactly what made it look well-attested. Multiple citations agreeing is not the same as multiple witnesses.*
 
 4. ***Ḥăsîdāyw* as the only occurrence in Proverbs.** Verify by concordance.
 
@@ -735,7 +764,22 @@ Places where two or more tools independently arrived at the same point.
    - **√*byn*.** "v.1 twice" is almost certainly a slip for **v.3 twice**, which is right — v.3 has both *bînâ* and *tĕbûnâ*. But vv. **2, 9 and 11** were missed, and each is plainly there in the ESV ("inclining your heart to understanding"; "then you will understand righteousness"; "understanding will guard you"). Seven is my figure and I am raising rather than lowering it.
    - **Road-words.** Four cannot be right. On the ESV alone: *derek* at vv.8, 12, 13, 20; *ʾōraḥ* at vv.8, 13, 15, 19, 20; *maʿgāl* at vv.9, 15, 18; *nātîb* at v.18. That is roughly thirteen, as originally claimed.
    - ***nāṣar*/*šāmar*** was not returned. My figure of four stands on the text: v.8 *linṣōr* … *yišmōr*, v.11 *tišmōr* … *tinṣĕrekkā* — and note the chiasm, which is itself the finding.
-   **Status: still open.** These need a morphological search, not a phrase search. Nothing in this report should be preached on the strength of a *number* until then; the observations themselves do not depend on the totals.
+   **Settled 17 August against the Westminster Leningrad Codex.** The counts are now verified from the text itself:
+   - **√*byn* in vv.1–11 = 7. My figure confirmed.** *tĕbûnâ* v.2; *bînâ* and *tĕbûnâ* v.3; *tābîn* v.5; *tĕbûnâ* v.6; *tābîn* v.9; *tĕbûnâ* v.11. The returned figure of four was an undercount. `[T]` *High.*
+   - **Road-words = 12, not 13 — and there is no *nātîb* in the chapter.** *ʾōraḥ*, *derek* (v.8); *maʿgāl* (v.9); *derek* (v.12); *ʾōraḥ*, *derek* (v.13); *ʾōraḥ*, *maʿgāl* (v.15); *maʿgāl* (v.18); *ʾōraḥ* (v.19); *derek*, *ʾōraḥ* (v.20). **My own count was wrong**: I had claimed a *nātîb* at v.18, but v.18 reads *maʿgĕlōteyhā*. The chapter uses **three** road-words, not four. `[T]` *High.*
+   - ***Nāṣar*/*šāmar* = 4 at vv.8 and 11, confirmed, chiasm intact**: *linṣōr* … *yišmōr* (v.8) / *tišmōr* … *tinṣĕrekkâ* (v.11). **And a fifth occurrence I had missed:** *tišmōr* at **v.20** — "you will *keep* the paths of the righteous."
+
+   **That fifth occurrence is a finding.** The verb travels: **God guards** (v.8), **understanding guards** (v.11), and at the chapter's end **the son himself keeps** (v.20). What was done *for* him he now does. That is the chapter's ethical arc in one repeated root, and it lands in the same verse as the third *lamed* marker. `[T]` *High.*
+
+   **Also newly noticed:** v.8 carries a second Ketiv/Qere — Ketiv *ḥăsîdô* (singular) against Qere *ḥăsîdāyw* (plural). Immaterial to the finding that this is the book's only *ḥāsîd*, but recorded.
+
+   > **Independently confirmed by a BHS root search, 17 August — all three counts agree.** A root-level search of the Hebrew text returned: √*byn* — verb at 2:5, 9; *bînâ* at 2:3; *tĕbûnâ* at 2:2, 3, 6, 11 = **seven**. Road-words — *derek* ×4, *ʾōraḥ* ×5 (2:8, 13, 15, 19, 20), *maʿgāl* ×3 (2:9, 15, 18), ***nātîb* none** = **twelve**. *Nāṣar* ×2 (2:8, 11); *šāmar* ×3 (2:8, 11, **20**).
+   >
+   > Two independent methods — a BHS lemma/root search and my own reading of the Westminster Leningrad Codex — return **identical totals on all three counts**, including the absence of *nātîb* and the third *šāmar* at v.20. These figures can now be treated as settled. `[T]` *High.*
+   >
+   > *(One transcription slip in the returned list: it gives *derek* at 2:6, but 2:6 reads *daʿat* — "from his mouth come knowledge and understanding". The *derek* is at **2:8**, "the way of his faithful ones". The total of four is unaffected.)*
+   >
+   > **And a detail worth keeping from the search itself:** the three occurrences of *maʿgāl* (2:9, 15, 18) are **each rendered differently in the NASB**. The reader of any English version meets three unrelated words where the Hebrew has one repeated one — the same translation-loss pattern as *ṣāpan* at vv.1/7. This chapter is unusually punishing to the English-only reader.
 
 6. **Colossians 2:3 and Proverbs 2:4, 7.** The verbal shape is close ("hidden," "treasures," "wisdom and knowledge"), and the connection is homiletically strong — but whether commentators see an allusion has **not** been checked. Offered as canonical resonance, not as demonstrated allusion.
 

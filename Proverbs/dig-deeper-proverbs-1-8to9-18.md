@@ -96,7 +96,7 @@ Two structures operate, and both are needed.
 
 #### (a) Lectures and interludes
 
-The section alternates between **parental lectures** (each opening with a vocative and an imperative to hear or keep) and **interludes** (no vocative from the father; Wisdom or the narrator speaks). Ten lectures and five interludes: `[T]` on the units; `[S: Ansberry]` on the terminology and the count, which is a standard analysis.
+The section alternates between **parental lectures** (each opening with a vocative and an imperative to hear or keep) and **interludes** (no vocative from the father; Wisdom or the narrator speaks). Ten lectures and five interludes: `[T]` on the units; `[S]` on the terminology and the count. **Confirmed 17 August as *the* standard analysis in modern critical scholarship** — Whybray, Fox, Clifford, Crenshaw and others — with a returned lecture and interlude list identical to the table below, 6:1–19 included as Interlude C.
 
 | | Verses | Unit | Opening |
 |---|---|---|---|
@@ -724,7 +724,13 @@ Places where two or more tools independently arrived at the same point. Headline
 
 3. ~~**The *lēb* count (16) and the *ḥālaq* count (5).** Likewise.~~ **Resolved 15 August.** *Ḥālaq* **confirmed** at five: 2:16; 5:3; 6:24; 7:5; 7:21. *Lēb* **corrected** to nineteen.
 
-4. **The lecture/interlude division.** Ten and five is a standard analysis `[S: Ansberry]` and the units are text-observable, but the treatment of **6:1–19** is genuinely contested — it carries a vocative yet behaves like an interlude. Named as unresolved rather than decided.
+4. ~~**The lecture/interlude division.** Ten and five is a standard analysis `[S: Ansberry]` and the units are text-observable, but the treatment of **6:1–19** is genuinely contested — it carries a vocative yet behaves like an interlude. Named as unresolved rather than decided.~~
+   **Resolved 17 August, and more firmly than expected.**
+   - **Ten lectures and five interludes is not merely "a standard analysis" — it is the standard analysis**, widely adopted in modern critical scholarship (Whybray, Fox, Clifford, Crenshaw among others). The lecture list returned matches this report's table exactly: 1:8–19; 2:1–22; 3:1–12; 3:21–35; 4:1–9; 4:10–19; 4:20–27; 5:1–23; 6:20–35; 7:1–27. The interludes likewise: 1:20–33; 3:13–20; **6:1–19**; 8:1–36; 9:1–18. Upgrade from `[S: Ansberry]` to `[S]` with a broad base.
+   - **6:1–19 is Interlude C on the majority view** — classified as an interlude *despite* its vocative, on exactly the grounds this report gave independently: it is a composite of four short units (surety 1–5; sluggard 6–11; the worthless man 12–15; the seven things 16–19) rather than a sustained didactic speech, and the "my son" is occasional rather than structuring.
+   - **Minority positions exist** — some count 6:1–19 as an eleventh lecture, or split it — but these require adjusting other boundaries to preserve the count, and are less common.
+
+   **What this changes here:** the report reached the right classification by reading the text, and the field agrees. The "genuinely awkward" framing can be softened: 6:1–19 is *formally* awkward but not *contested* — the awkwardness is a real feature of the unit, and the standard analysis handles it the same way this report did. The positional explanation offered above (the two body-part catalogues setting up 6:25) remains this report's own contribution and is still `[I]`.
 
 5. **Fox's *Proverbs 1–9* (AB 18a) was not available for this run.** Only volume 2 (chs. 10–31) is in the library. That is a material gap for a section dig on 1–9: Fox's lecture/interlude analysis, his treatment of the *ʾiššâ zārâ*, and his comment on *mĕzimmâ* at 1:4 all sit in the missing volume. The section's structural findings therefore rest on the text plus Ansberry, without the standard critical commentary on these chapters.
 

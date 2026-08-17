@@ -164,7 +164,7 @@ Proverbs' internal echoes are the book's real citation system — including a ha
 
 | Early element | Later element | Relationship | Confidence |
 |---|---|---|---|
-| 1:7 "The fear of the LORD is the beginning of knowledge" | 9:10; 31:30 | The motto becomes the hinge, then becomes a woman actually praised for it — abstraction landing in a person | High `[T]` |
+| 1:7 "The fear of the LORD is the beginning of knowledge" | 9:10; 31:30 | The motto becomes the hinge, then becomes a woman actually praised for it — abstraction landing in a person. **And 31:30 carries the construct phrase *yirʾat YHWH* itself: the book ends on the same two words it opened with** | High `[T]` — lexical, confirmed 17 Aug |
 | 1:8 "your father's instruction… your mother's teaching" | 31:1 "an oracle that his mother taught him" | The mother named in the first lecture finally gets her own chapter — and her pupil is a reigning king | High `[T]` |
 | 9:4 Wisdom: "Whoever is simple, let him turn in here!" | 9:16 Folly: "Whoever is simple, let him turn in here!" | **Word-for-word identical.** The book's central problem stated as a doublet: the two invitations sound the same | High `[T]` |
 | 9:2 Wisdom "has slaughtered her beasts… has set her table" | 9:17 Folly: "Stolen water is sweet, and bread eaten in secret is pleasant" | Wisdom's food is killed, paid for and public; Folly's is stolen and secret. The contrast is in the sourcing, not the taste | High `[T]` |
@@ -214,6 +214,8 @@ A series proposal. The governing decision: **1–9 and 30–31 are preached as u
 
 **Seams to respect that the chapter numbers hide:** 22:16/22:17 (a genuine collection boundary mid-chapter); 24:22/24:23 (likewise); 9:18/10:1 (the book's largest formal break, and it *does* fall at a chapter boundary); 15:33/16:1 and 27:27/28:1 (real shifts in texture — provisional, and the digs should test them).
 
+> **Tested — see the Upgrade pass at the end of this document.** 27:27/28:1 is **sound**, on four converging measures. 15:33/16:1 shows a **certain formal shift** but a **contested boundary** — there is no superscription there, and a significant body of scholarship declines to treat it as a seam. Preach the change in texture; do not announce a new collection.
+
 A shorter series (8–10 weeks) can be cut cleanly as 1–9 in six units plus two themed sweeps of 10–29 plus 30–31; the theological load is carried by 1:1–7, 8, 9, 28–29, 30 and 31:10–31.
 
 ---
@@ -229,3 +231,43 @@ A shorter series (8–10 weeks) can be cut cleanly as 1–9 in six units plus tw
 **Revision 1.1 (9 August 2026).** Preaching trap 4 amended: the description of 31:10–31 as "warrior vocabulary" was too strong and has been qualified against the lexicographical tradition. Two solo dig-deeper runs (1:1–7; 31:10–31) and an eighteen-unit sweep now exist for this book; their extensions to the intertextual map and echo table are listed in each report's Book-Overview Tensions and are not yet merged here.
 
 **Health note.** Draft, text-first. The frame (1–9, 30–31), the intertextual map and the echo table are the firm parts. The **internal seams of 10–29 are the soft part** — 15:33/16:1, 27:27/28:1, and Ansberry's four-stage pedagogical progression are all `[I]`/`[S]` and should be the first claims the digs test. The Christological section deliberately holds 8:22–31 at moderate confidence and 30:4 at uncertain; if a dig on either passage settles them, this overview needs an Upgrade pass.
+
+---
+
+## Upgrade pass — 17 August 2026
+
+The health note above asked for this, and the digs have now tested every claim it named. Six verdicts, in descending order of how much they change.
+
+### 1. The 1:7 ∥ 31:30 inclusio is lexical, not thematic — upgrade to high
+
+This overview has said throughout that "the fear of the LORD" stands at 1:7, 9:10 and 31:30, and treated the last as the theme landing in a person. **A lemma search has now confirmed that 31:30 carries the construct phrase *yirʾat YHWH* itself** — the same two words as 1:7, inside a longer chain that a bare phrase search cannot see. (The lemma *yārēʾ* with YHWH returns exactly two verses in Proverbs: 14:2 and 31:30.)
+
+**So the book does not merely end on the theme it opened with. It ends on the same words.** Every statement of the frame in this document may be strengthened accordingly, and the echo-table row for 1:7 → 31:30 goes to **high `[T]`**.
+
+### 2. The 27:27/28:1 seam is sound — upgrade from provisional
+
+Four independent measures converge on 28:1: antithesis leaps from 6% to 60% of verses; righteous/wicked density rises 5.4×; simile collapses from 30% to 2%; and **absolute *tôrāh* — the noun without a possessive — occurs five times in Proverbs 10–29 and all five are in chapters 28–29** (28:4 twice, 28:7, 28:9, 29:18), confirmed by Hebrew concordance. `[T]` The last of these was not part of the delimiting criteria, which is what makes it worth having.
+
+### 3. The 15:33/16:1 seam is contested — do not present it as settled
+
+The *formal shift* is beyond dispute and this document describes it accurately. **The inference from formal shift to collection boundary is genuinely disputed**, and I had not represented that. McKane and the form critics treat 10:1–22:16 as loosely gathered; **Knut Heim** (*Like Grapes of Gold Set in Silver*, BZAW 273) argues the collection is deliberately arranged but in roughly fifty-nine **small clusters**, not two halves. Their strongest ground is the one this overview already knows: **there is no superscription at 16:1.** Hold at `[I]`, moderate.
+
+### 4. Ansberry's four-stage progression — hold at `[S]`, and do not preach it as the text's own claim
+
+The formal data show the units *differ*. They do not show *grading*. And one measure runs against a simple curve: righteous/wicked density falls steadily from 10–15 through 16–22:16 to 25–27, then rises sharply again in 28–29. That is a return, not a staircase — as Ansberry himself concedes when he says 2B brings the sentence literature "full circle". A circle and a staircase are different shapes and should not be preached as one.
+
+### 5. Proverbs 30:4 — the uncertainty can be resolved
+
+**Verdict available:** in the immediate literary context, "what is his son's name?" is part of Agur's rhetorical construction of impossibility — *if you know a man who has done these things, name him and name his line*. The messianic reading is **not the plain historical sense** but **is defensible as a canonical, christological reading** in the light of the New Testament. That is a usable position: preach the rhetorical force first, and the canonical trajectory second, without collapsing them.
+
+### 6. Proverbs 8:22–31 — hold at moderate, but the ground has shifted
+
+Most modern exegetes now favour an **origin** sense for *qānâ* ("brought forth / produced / created") over "possessed", chiefly because of the birth language of *ḥôlaltî* in vv. 24–25. On *ʾāmôn* (v.30) the ancient versions favour "master workman" (LXX *harmozousa*, Vulgate *cuncta conponens*) while the context of play and delight favours "nursling"; **Fox leans to the child reading.** The versions and the context pull in opposite directions — which is worth saying in a sermon rather than hiding.
+
+### Also worth carrying into the overview
+
+- **The Septuagint order.** The Greek arranges 24–31 differently, but **31:10–31 stands last in both traditions**, confirmed by two independent witnesses. The acrostic's climactic position is a feature of the book, not of one edition — so a sermon may rest on where the poem falls.
+- **The lecture and interlude division of 1:8–9:18** — ten and five, with 6:1–19 as an interlude — is confirmed as the standard critical analysis, not merely one option.
+- **The 375 gematria should not be preached.** The verse count is verified; the numerical correspondence with *Shelomoh* is not established, and at least one source counts **376** couplets, which would break it outright.
+
+*Sources for this pass: the whole-book sweep, four passage studies, the collections assessment, the Perplexity-pass audit, Hebrew concordance searches against BHS, and my own reading of the Westminster Leningrad Codex. Every claim above is traceable to one of those.*

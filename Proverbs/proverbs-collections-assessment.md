@@ -123,7 +123,13 @@ Two further observations, both **[T]**: every occurrence of "law" in Proverbs 10
 
 The simile measure does not behave as neatly as the others. Chapter 25 has 11 similes and chapter 26 has 13 — but chapter 27 has **1**. On the imagery criterion alone, the break falls at 26/27, not 27/28.
 
-This does not overturn the seam; the antithesis and righteous/wicked measures are unambiguous, and they place it at 27/28. But it does mean chapter 27 is not straightforwardly "core 2A". It has stopped looking like chapters 25–26 without yet sounding like chapters 28–29. Ansberry's janus at 27:23–27 is the right instinct; the data suggest the hinge may be wider — closer to the whole of chapter 27. **[T]** for the counts, **[I]** for the widened hinge.
+This does not overturn the seam; the antithesis and righteous/wicked measures are unambiguous, and they place it at 27/28. But it does mean chapter 27 is not straightforwardly "core 2A". It has stopped looking like chapters 25–26 without yet sounding like chapters 28–29. **[T]** for the counts, **[I]** for reading chapter 27 as transitional.
+
+> **Correction, 17 August — on Ansberry's janus.** An earlier version of this section called Ansberry's janus at 27:23–27 "the right instinct" and built on it. That was too generous. **The metaphorical reading of 27:23–27 — flocks as subjects, the passage as a royal hinge into chapters 28–29 — is a recognised but *minority* position.** Most commentators read it as literal advice on husbandry and household provision, and hold that one occurrence of "crown" (v.24) does not override sustained agricultural imagery.
+>
+> This also resolves a disagreement between my own documents: the **sweep** examined the metaphorical reading and declined it; this assessment assumed it. **The sweep was closer to the field, and this document was wrong to lean on Ansberry here.**
+>
+> **Effect on the seam: minimal.** My case for 27:27/28:1 never rested on the janus — it rests on four converging text-derived measures, all of which stand. The janus was Ansberry's supporting flourish, not my evidence. But it should not be presented as agreed, and the observation above about chapter 27 being transitional now rests on my own counts alone, which is where it belongs.
 
 ### Verdict on Seam B
 
@@ -173,6 +179,18 @@ Three claims commonly attached to this scheme are not supported by the formal ev
 
 **Circularity risk.** The units were delimited by style. The style-differences are then read as evidence of pedagogical design. That inference can be made, but it cannot be made *from the same data that produced the units* without arguing in a circle. The independent confirmation here is the *tôrāh* concentration in 28–29, which was not part of the delimiting criteria and still lands inside a single unit. That is worth something. **[I]**
 
+> ### The proxy has now been tested, 17 August — and it holds up better than I feared
+>
+> Two independent checks, and both are reassuring.
+>
+> **1. It is not translation-fragile.** My worry was that counting contrastive "but" in the ESV might be an artefact of one translation's habits. The same count run on the **NASB95** for Proverbs 28:1–29:27 returns **32**, against my ESV figure of **33**. A one-verse difference across two translations with quite different philosophies suggests the measure is tracking something in the Hebrew rather than in the English.
+>
+> **2. An independent Hebrew-aware figure corroborates the seam at 16:1.** Goldsworthy observes that in **Proverbs 16:1–15, only two of fifteen sayings** are antithetic — about **13%**. My ESV proxy for the whole of chapter 16 gave 6 of 33, about **18%**. Two different methods, two different bases, both landing in the mid-teens immediately after a span running at 74%.
+>
+> **3. No published Hebrew count for 25–29 exists**, so far as a library search can tell. Martin's figure for 10:1–15:33 appears to have no counterpart for the second Solomonic collection, and the question would need original work. Westermann's ~117 righteous/wicked sayings in chapters 10–15 counts themes rather than structures and is not comparable.
+>
+> **A wrinkle for the gematria, noted in passing.** Carroll refers to "the 376 couplets in Proverbs 10:1 to 22:16" — **376, not 375**. If the higher figure is right, the correspondence with the numerical value of *Shelomoh* fails outright. The verse count in my sweep was 375, arithmetically verified, but "couplets" and "verses" may not be the same unit. One more reason the gematria should not be preached as fact.
+
 **Method caveat on my own counts.** Every figure above is an English proxy on the ESV, not a count of Hebrew forms. "But" undercounts antithesis, since Hebrew antithetical parallelism is frequently asyndetic and some contrasts are rendered without a conjunction. Martin's Hebrew count — 163 antithetic sentences out of 183 in 10:1–15:33, i.e. 89% — against my 74% shows the size of the gap, and shows it runs in the safe direction: **the real contrast at Seam A is sharper than my table says, not softer.** Martin's denominator of 183 rather than 184 is itself a small corroboration, since it implies his unit begins at 10:1b, after the superscription. **[S]**
 
 ---
@@ -185,7 +203,25 @@ A Logos Study Assistant query put the two reconstructed divisions to the library
 - **Martin, *Proverbs* (Sheffield, 2001), 51** — the hard count cited above: 163 of 183 sentences in chapters 10–15 antithetic, against an even spread of forms in 16:1–22:16.
 - **Harper's Bible Commentary (1988), 495** — the division rests on a preference for antithetic parallelism in 10:1–15:33 and synonymous parallelism in 16:1–22:16.
 
-So the 15:33/16:1 division is not idiosyncratic to Ansberry; it is a settled commonplace with at least three independent witnesses, one of them supplying a count. The 27:27/28:1 division is attested in the answer only from Ansberry himself — though my own measures give it the stronger support of the two. **[S]**
+So the 15:33/16:1 division is not idiosyncratic to Ansberry. The 27:27/28:1 division is attested in the answer only from Ansberry himself — though my own measures give it the stronger support of the two. **[S]**
+
+> ### Correction, 17 August — this section overstated the consensus
+>
+> I wrote above that three witnesses supported the division "and none against", and flagged that this might be "an artefact of asking a question that presupposed the answer". **It was the artefact.** Asked directly whether anyone dissents, a substantial contrary strand appears:
+>
+> - **W. McKane** and the form-critical tradition treat 10:1–22:16 as loosely gathered sentence literature with no sustained macro-structure.
+> - **Knut Heim**, *Like Grapes of Gold Set in Silver* (BZAW 273, 2001), holds that the collection *is* deliberately arranged — but in roughly **fifty-nine small clusters**, not two halves. The organising unit is the cluster.
+> - **Jamieson–Fausset–Brown** and older commentaries treat the block as a single undifferentiated series.
+>
+> Their grounds are serious, and one is decisive in kind: **there is no superscription at 16:1.** Unlike 10:1, 22:17, 24:23 and 25:1, nothing in the text marks it. The others: antithetic and synthetic proverbs intermingle on both sides, so the change is a gradient rather than a seam; core themes run continuously; and if the real artistry is at cluster level, a two-half outline may be a modern imposition.
+>
+> **What this does and does not touch.** The formal data in §4 and §6 are unaffected — the antithesis rate really does fall from 74% to 20% at exactly that point, and the righteous/wicked density really does drop threefold. Those are `[T]`. What I can no longer claim is that the field agrees on what they *mean*. The dispute is not about the numbers; it is about whether a stylistic gradient is evidence of an editorial seam. Heim's answer — carefully designed, but at a scale two orders of magnitude smaller than the proposed halves — is not a denial of design but a rival account of where it lies.
+>
+> **A tension inside Ansberry's own footnotes,** which I missed on the first pass: Ansberry cites Heim (BZAW 273) at chapter 4, footnote 7. He draws on a scholar whose central thesis locates the structure somewhere other than where Ansberry's own division puts it. Not a contradiction — one can accept cluster artistry and still propose larger units — but a strain worth naming.
+>
+> **Also unresolved: Fox.** A summary reports that Fox recognises the shifts at both 15:33/16:1 and 27:27/28:1 but declines to treat either as a sub-collection boundary, preferring "gradients" and "tendencies". That would be the most authoritative voice against the scheme — **but the summary is sourced to an Amazon listing and a wiki, not to Fox.** AB 18B is in the library and should be read before this is repeated.
+>
+> **Revised verdict on Seam A:** the *formal shift* is `[T]` and beyond dispute. The *collection boundary* is `[I]`, genuinely contested, and belongs in a sermon as one reading among others rather than as a finding. **Confidence lowered from high to moderate.**
 
 **Remaining source gap.** Fox, *Proverbs 10–31* (AB 18b) is in the library but was not returned on this query; Fox's treatment of the sub-collection question would be the most valuable single addition. Worth adding to the standing questions document.
 
@@ -198,11 +234,13 @@ So the 15:33/16:1 division is not idiosyncratic to Ansberry; it is a settled com
 | Boundary | Class | Verdict | Confidence |
 |---|---|---|---|
 | 10:1 | Book-marked | Secure | High |
-| 15:33 / 16:1 | Reconstructed | Sound; hinge zone c. 15:1–16:9 | High on form, medium on the line |
+| 15:33 / 16:1 | Reconstructed | Formal shift certain; **boundary contested** | High on form, **moderate** on the boundary |
 | 22:16 / 22:17 | Book-marked | Secure | High |
 | 24:22 / 24:23 | Book-marked | Secure | High |
 | 24:34 / 25:1 | Book-marked | Secure | High |
-| 27:27 / 28:1 | Reconstructed | Sound; strongest of the two | High |
+| 27:27 / 28:1 | Reconstructed | Sound; strongest of the two | High on form, moderate–high on the boundary |
+
+*Both reconstructed rows revised down on 17 August — see the correction in §8. The formal measures stand; the inference from formal shift to editorial seam is disputed, and I had presented it as settled.*
 
 The five-collection version put to me should be revised in one respect: restore the 25–29 division. Nothing else in it needs changing.
 

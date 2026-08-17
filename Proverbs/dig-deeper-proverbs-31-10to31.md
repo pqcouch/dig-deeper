@@ -510,7 +510,20 @@ Behind that lies the book-level response: that the reader should have become, by
 
 - *ṭerep* at v.15 — the lexeme identification itself remains unconfirmed; the predatory-sense claim is withdrawn (see Tool 7c).
 - ~~The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.~~ **Confirmed 15 August.** It is *ḥayil*. The link to vv.1–9 is lexical, and the Positional Necessity argument is correspondingly stronger.
-- **New, arising from the 15 August checks:** the construct phrase *yirʾat YHWH* was returned for fourteen verses in Proverbs, and **31:30 was not among them** — although 31:30, "a woman who fears the LORD", is *ʾiššâ yirʾat-YHWH*, the construct phrase inside a longer chain. If 31:30 counts, the poem's penultimate line carries the book's motto in its exact form, which is the strongest possible support for the 1:7 ∥ 31:30 inclusio. Worth re-running as a lemma search rather than a phrase search.
+- ~~**New, arising from the 15 August checks:** the construct phrase *yirʾat YHWH* was returned for fourteen verses in Proverbs, and **31:30 was not among them**… Worth re-running as a lemma search rather than a phrase search.~~
+  **Settled 17 August. The lemma search confirms it: 31:30 does contain the phrase.** A search on the lemma *yārēʾ* together with YHWH returns two verses in Proverbs — **14:2 and 31:30** — which are precisely the two the earlier bare-string search could not see. The omission was a search artefact, as suspected.
+
+> ### The 1:7 ∥ 31:30 inclusio is lexical, not merely thematic
+>
+> This is the most consequential confirmation of the whole checking process, and it upgrades a finding this report has carried at *moderate* since the first draft.
+>
+> Proverbs 1:7 opens *yirʾat YHWH*. Proverbs 31:30 reads *ʾiššâ yirʾat-YHWH*. **The words on the page are identical** — whether one parses *yirʾat* at 31:30 as the noun in construct ("a woman of the fear of YHWH") or as the feminine adjective in construct ("a woman fearing YHWH"), and the lexica are divided on that, the *form* is the same in both verses.
+>
+> So the book does not merely end on the same *theme* as it began. **It ends on the same two words.** The motto is stated in the seventh verse of the book and lands, in its own form, in the penultimate verse of the last poem — on a named, working, particular woman who is praised in the gates for having it.
+>
+> `[T]` **High.** Confirmed by lemma search, 17 August.
+>
+> **What this does to the poem's reading.** The rhetorical question of v.10 — "an *ʾēšet ḥayil*, who can find?" — is answered in v.30 not by a list of competencies but by the book's own opening word. The search that Proverbs 1:7 sets going ends here. That is a considerably stronger claim than "the theme recurs", and it can now be preached as fact rather than offered as an impression.
 - Whether any commentator connects 31:16 to 1:4. Checked 9 August 2026: **none found.** The lexical foundation is now sourced; the design claim remains the report's own.
 - ~~The distribution counts: *ʾēšet ḥayil* (3× in the Hebrew Bible), "hands" (8× in this poem), *hebel* in Proverbs (3×).~~ **Resolved 15 August.** *ʾĒšet ḥayil* 3× (Prov 12:4; 31:10; Ruth 3:11) — confirmed. *Hebel* in Proverbs 3× (13:11; 21:6; 31:30) — confirmed. "Hands" **7×, not 8** — corrected above.
 - LXX *gynaika andreian* at v.10, in NETS.

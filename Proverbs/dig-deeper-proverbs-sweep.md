@@ -96,15 +96,25 @@ These terms recur throughout and are not re-defined at each occurrence:
 | *derek / ʾōraḥ / nātîb / maʿgāl* | way, path, track, course | Four road-words; the book's governing metaphor. *High* |
 | *ḥayil* | strength, competence, wealth, standing, valour | A **comprehensive capability word**; in the three woman-texts (Prov 12:4; 31:10; Ruth 3:11) the sense is comprehensive excellence, *not* martial prowess. Occurs three times in ch. 31 — vv. 3, 10, 29. *High* |
 
-> **Note on 31:30, added 15 August.** The concordance check on *yirʾat YHWH* returned fourteen verses and **did not include 31:30** — yet 31:30 reads *ʾiššâ yirʾat-YHWH*, "a woman who fears the LORD", which contains the construct phrase inside a longer chain. The omission is almost certainly an artefact of searching for the bare two-word phrase rather than the lemma. This matters more than a tidy count: **if 31:30 carries the motto in its exact construct form, the book's last line of praise closes the frame opened at 1:7 with the same words, not merely the same idea.** Flagged for a lemma search; treated here as probable but not established. `[T]`/`[I]` *Moderate–high.*
+> **Note on 31:30 — resolved 17 August.** The earlier check on *yirʾat YHWH* returned fourteen verses and did not include 31:30. **A lemma search settles it: 31:30 does carry the phrase.** Searching the lemma *yārēʾ* with YHWH returns exactly two verses in Proverbs — **14:2 and 31:30** — the two a bare two-word string search cannot see, because in both the phrase sits inside a longer construct chain.
 >
-> A second, smaller point: the same check returned only 3:7 for the verbal construction *yĕrāʾ ʾet-YHWH*. The forms at 14:2 and 24:21 are of a different shape (adjectival/participial at 14:2, imperative without *ʾet* at 24:21), so the two lists are not in conflict — they answer different questions.
+> **So the book's motto opens and closes the book in the same words.** *Yirʾat YHWH* at 1:7; *ʾiššâ yirʾat-YHWH* at 31:30. Whether *yirʾat* at 31:30 is parsed as the noun in construct or the feminine adjective in construct — the lexica differ — the form on the page is identical to 1:7. The 1:7 ∥ 31:30 inclusio is therefore **lexical, not merely thematic**, and is upgraded from *moderate–high* to **high**. `[T]`
+>
+> The full picture: the construct-noun phrase *yirʾat YHWH* stands at fourteen verses (listed above); the lemma *yārēʾ* + YHWH adds 14:2 and 31:30; and 3:7 and 24:21 carry imperatives. The several lists are not in conflict — they answer different questions, and only the lemma search catches the last verse of the frame.
 
 ### 8. Translations (book level) and the Hebrew/Greek triage
 
 **Versification:** Hebrew and English align throughout Proverbs; no offset. `[T]`
 
-**The single most important book-level translation fact:** the **Greek Proverbs is unusually free**, contains substantial pluses and minuses, and — crucially — **arranges the final collections in a different order** from the Hebrew (broadly: 22:17–24:22; 30:1–14; 24:23–34; 30:15–33; 31:1–9; 25–29; 31:10–31). Under the Three-Way Triage this is a **category 2 substantive variant** — a different edition, not a translation infelicity — and it means the "shape of the book" argument this sweep makes from the Hebrew order is an argument about *the Hebrew edition*. *Moderate–high confidence on the fact of the divergent order; uncertain on which arrangement is prior — the report does not resolve it.* `[S]`
+**The single most important book-level translation fact:** the **Greek Proverbs is unusually free**, contains substantial pluses and minuses, and — crucially — **arranges the final collections in a different order** from the Hebrew (broadly: 22:17–24:22; 30:1–14; 24:23–34; 30:15–33; 31:1–9; 25–29; 31:10–31). Under the Three-Way Triage this is a **category 2 substantive variant** — a different edition, not a translation infelicity. `[S]`
+
+> **Confirmed twice, 17 August — and the load-bearing point is secure.** The reconstruction above is corroborated by Tov and by Cook, and independently by a reading of Brenton's edition. The two accounts differ in granularity rather than substance: Brenton, read at chapter level, shows chapter 30 and 31:1–9 standing as a block between chapters 24 and 25, with 25–28 following the Hebrew order; the pericope-level accounts additionally show 24:23–34 interleaved inside the Agur material. Since the Greek renumbers to twenty-nine chapters, a chapter-level reading would not see a twelve-verse insertion, so the two are compatible.
+>
+> **What matters is agreed on all three witnesses: 31:10–31 stands LAST in the Greek as in the Hebrew.** `[T]` *High.*
+>
+> **This strengthens rather than qualifies the report.** The concern was that the acrostic poem's climactic position might be a feature of one edition, in which case a sermon built on where the poem falls would be building on an accident of transmission. **It is not.** Both editions, however differently they arrange everything between 24 and 29, end the book in the same place. The poem's final position is a feature of the book, not of an edition — and the 1:7 ∥ 31:30 inclusio (see the vocabulary table above, now confirmed lexical) closes in both traditions.
+>
+> The rest of the "shape of the book" argument — the *sequence* of the middle collections — remains an argument about the Hebrew edition, as originally stated.
 
 **Category 3 cases (the Greek as the NT's own text) — these stand regardless of which text is prior:**
 
