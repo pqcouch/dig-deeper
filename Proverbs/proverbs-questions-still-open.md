@@ -2,7 +2,7 @@
 
 **Version 3 — supersedes the worklists of 15 and 17 August (morning).** For the full history see `proverbs-open-questions-for-logos` and `proverbs-perplexity-pass-audit`.
 
-**Compiled:** 17 August 2026 · **Items open: 3** · **Of 56 raised across the project, 53 are closed.**
+**Compiled:** 17 August 2026 · **Updated:** 18 August · **Items open: 2** · **Of 56 raised across the project, 54 are closed.**
 
 ---
 
@@ -12,24 +12,22 @@
 |---|---:|---:|---:|
 | Original Logos worklist | 41 | 41 | 0 |
 | From the collections assessment | 4 | 4 | 0 |
-| From the 17 August checking passes | 11 | 8 | 3 |
-| **Total** | **56** | **53** | **3** |
+| From the 17 August checking passes | 11 | 9 | 2 |
+| **Total** | **56** | **54** | **2** |
 
-**The list is effectively finished.** What remains is one book that cannot be obtained, one question no one has answered in print, and one loose end worth an hour if the mood takes you. Nothing outstanding blocks any planned sweep.
+**The list is effectively finished.** Heim has now been obtained and read. What remains is one question no one has answered in print, and one loose end worth an hour if the mood takes you. Nothing outstanding blocks any planned sweep.
 
 ---
 
-## The three that remain
+## The two that remain (and one now closed)
 
-### 1 · Heim, *Like Grapes of Gold Set in Silver* — **blocked, not unanswered**
+### 1 · Heim — ✅ **CLOSED 18 August**
 
-> What is Knut Heim's argument in *Like Grapes of Gold Set in Silver: An Interpretation of Proverbial Clusters in Proverbs 10:1–22:16* (BZAW 273, 2001)? How does he identify cluster boundaries, how many clusters does he find, and does he address the division at 15:33/16:1?
+A copy was located and the scheme recovered in full. **Fifty-nine numbered sections containing at least 65 clusters**, covering 10:1–22:16. *The cited figure of about 59 turns out to be correct; my first reading of 55 was an error — see the map file.* The map is tabulated in `proverbs-collections-assessment` §9a and is directly usable for sweeps 1 and 2.
 
-**Status: no copy obtainable.** Not in Logos; the monograph is an expensive Berlin series volume.
+**On the seam:** his clusters break at 15:33/16:1, *but* he names **15:33–16:15** as an observed longer section spanning it — closing at exactly the verse where Snell's independently derived section also closes. Four witnesses now converge on a hinge zone rather than a line.
 
-**How much this now matters: less than it did this morning.** Heim was flagged as the most significant rival account — deliberate arrangement in roughly fifty-nine small clusters rather than two halves. **Fox has since supplied essentially the same caution from inside the library**, and in his own words: there is "no indication that these ever existed as separate collections", "there need be no sharp boundaries between subsections", and the maxims "are not organized in large-scale designs, though there are some thematic clusters." Heim would sharpen the cluster model; he would not change the verdict, because Fox already holds the position that matters for us.
-
-**Worth trying if the chance arises:** an inter-library loan, or Heim's later and more accessible *Poetic Imagination in Proverbs* (2013), which restates the method. Otherwise let it rest — **this no longer holds anything up.**
+**On method:** larger units "should start 'from the bottom up' and take full account of the already established and less speculative smaller units." **That is the sweep design already chosen.**
 
 ---
 

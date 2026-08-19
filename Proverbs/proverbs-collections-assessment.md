@@ -125,6 +125,20 @@ The simile measure does not behave as neatly as the others. Chapter 25 has 11 si
 
 This does not overturn the seam; the antithesis and righteous/wicked measures are unambiguous, and they place it at 27/28. But it does mean chapter 27 is not straightforwardly "core 2A". It has stopped looking like chapters 25–26 without yet sounding like chapters 28–29. **[T]** for the counts, **[I]** for reading chapter 27 as transitional.
 
+> **⚠ Correction, 19 August — the simile figures above are an ESV artefact, and the complication largely dissolves.**
+>
+> The counts of 11 · 13 · 1 measure the English word "like" and the phrase "as … so". The Solomon 2A run counted the same thing in the Hebrew, and the picture changes materially. `[T]`
+>
+> | | marked comparisons (*kə-* and/or *kēn*) | all comparative sayings |
+> |---|---:|---:|
+> | ch. 25 | **1** | 13 |
+> | ch. 26 | **6** | 16 |
+> | ch. 27 | **2** | 8 |
+>
+> Two consequences. **(a)** Chapter 25's apparent eleven similes are almost entirely *unmarked juxtapositions* — two noun-phrases with no particle, no copula and nothing between them (25:11 in Hebrew is simply *"Apples of gold in settings of silver; a word spoken at its right time"*), to which the ESV has supplied "is like". Only **nine** comparisons in the whole of 25–27 carry a comparative particle, and six of them are in chapter 26. **(b)** Chapter 27 declines from 16 to 8, not from 13 to 1.
+>
+> **So the rival break at 26/27 does not survive the Hebrew count, and the seam at 27:27/28:1 is stronger than this section allowed.** The wider inference — that chapter 27 is transitional — survives, but on a margin of 16→8 rather than 13→1, and should be stated that way. Full working: `dig-deeper-proverbs-25-1to27-27`, Tools 5 and 8.
+
 > **Correction, 17 August — on Ansberry's janus.** An earlier version of this section called Ansberry's janus at 27:23–27 "the right instinct" and built on it. That was too generous. **The metaphorical reading of 27:23–27 — flocks as subjects, the passage as a royal hinge into chapters 28–29 — is a recognised but *minority* position.** Most commentators read it as literal advice on husbandry and household provision, and hold that one occurrence of "crown" (v.24) does not override sustained agricultural imagery.
 >
 > This also resolves a disagreement between my own documents: the **sweep** examined the metaphorical reading and declined it; this assessment assumed it. **The sweep was closer to the field, and this document was wrong to lean on Ansberry here.**
@@ -146,6 +160,37 @@ This does not overturn the seam; the antithesis and righteous/wicked measures ar
 > So the 27:27/28:1 seam has **four independent formal measures and at least four witnesses**, one of whom calls the division common. It is the securest of the two reconstructed boundaries by some distance, and the case for keeping it in the sweep scoping is now strong rather than merely arithmetic.
 >
 > **A qualification on the janus at 27:23–27, running the other way from the 17 August note above.** I recorded that the royal-hinge reading of 27:23–27 is a minority position. That stands as a statement about explicit endorsement — but **Van Leeuwen**, whose monograph *Context and Meaning in Proverbs 25–27* is the major study of that material, divides it as 25 · 26:1–16 · 26:17–28 · 27:1–22 · **27:23–29:27**, the last "though loosely organized, generally pertaining to rulers and kings." That places the royal block's start at **27:23** — which is a version of the hinge reading, reached structurally rather than metaphorically. So the reading has better support than "minority" implies, though note it locates the seam at 27:22/27:23 rather than 27:27/28:1.
+
+> ### ⚠ The janus, settled — 19 August
+>
+> **The 17 August correction above was itself wrong, and it should be withdrawn in the terms it was made.** It conflated two distinct claims of Ansberry's:
+>
+> - **the structural claim** — that 27:23–27 is a discrete closing unit which also introduces 28:1–29:27;
+> - **the metaphorical claim** — that the flock stands for the king's subjects.
+>
+> **The structural claim was never a minority position and is now attested three ways.** Ansberry's own section divisions for Solomon 2A are 25:2–27 · 25:28–26:28 · 27:1–22 · **27:23–27**. Van Leeuwen, who disagrees with him about much else, divides 25 · 26:1–16 · 26:17–28 · 27:1–22 · **27:23–29:27**. And the Solomon 2A run adds a third, independent witness at transmission level: **the received Hebrew carries a *petuchah* at 27:22 and none at 27:27**, so the Masoretic paragraph runs **27:23 → 28:4**. `[T]` Two lexical frames close at the same point — √*hll* at 27:1, 2, 21 and *ʾĕwîl* at 27:3, 22 — and the genre changes at 27:23 from sentence to admonitory poem.
+>
+> **The metaphorical claim remains contested**, and the sweep's caution about it stands untouched.
+>
+> **What went wrong here:** the correction was made against a *paraphrase* of Ansberry's position rather than his argument. His actual case is a both/and — the poem addresses one kind of person, an aristocratic landholder with *nəʿārôt*, for whom literal husbandry and royal responsibility are one counsel — resting on two checkable text-level observations (*nēzer* at v.24; *nəʿārôt* at v.27, with 9:3 and 31:15 as comparanda). Neither was engaged. **Logged as error 19: criticising a position from a summary of it.**
+>
+> ### Consequence for Seam B
+>
+> **Two boundaries, measuring two different things, and they should both be recorded:**
+>
+> | | 27:22 / 27:23 | 27:27 / 28:1 |
+> |---|---|---|
+> | *Petuchah* | ✔ | ✘ |
+> | Lexical frame closes | ✔ (two) | ✘ |
+> | Genre changes | ✔ | ✘ |
+> | Antithesis density | ✘ | ✔ |
+> | Righteous/wicked density | ✘ | ✔ |
+> | Divine name returns | ✘ | ✔ |
+> | Absolute *tôrāh* begins | ✘ | ✔ |
+>
+> A *petuchah* marks where a **unit of reading** ends. A change in antithesis density marks where a **body of material changes character**. There is no reason those must coincide, and here they do not. **The structural boundary is 27:22/27:23; the distributional boundary is 27:27/28:1; and the four verses between them are the janus.** That is not a compromise between two positions — it is what the evidence, taken in its own kinds, actually says.
+>
+> **Recommended wording for the sweep scoping:** retain Solomon 2A as 25:1–27:27 for preaching purposes (the collection's own superscription governs at 25:1, and the poem belongs to what it concludes), while noting that the poem faces both ways and may equally be preached as the doorway into 28–29.
 
 ---
 
@@ -176,9 +221,11 @@ Per chapter, ESV, counted from the text. "Antith." = verses containing a contras
 | 28 | 28 | 19 | 3 | 5 | 2 | 1 | 1 | 0 | 3 | 4 |
 | 29 | 27 | 14 | 5 | 5 | 5 | 4 | 0 | 2 | 3 | 1 |
 
+> **Note on the "simile" column, added 19 August.** That column counts the ESV's "like" and "as … so". For chapters 25–27 it therefore over-counts (the Hebrew mostly juxtaposes without a particle) — see the correction under *Seam B · The complication*. The other columns are unaffected: the **antithesis** count for 25–27 has since been reproduced from the Hebrew on an independent classification scheme, returning **six** against this table's **five**, and the **divine-name** figure of one in eighty-three verses is confirmed exactly.
+
 Two incidental findings worth carrying into the sweeps, both **[T]**:
 
-- **Chapter 26 is the fool chapter.** Eleven occurrences of "fool", against a book-wide chapter maximum elsewhere of nine. This independently confirms the discrete unit at 26:1–12 that Ansberry identifies.
+- **Chapter 26 is the fool chapter.** Eleven occurrences of "fool", against a book-wide chapter maximum elsewhere of nine. This independently confirms the discrete run at 26:1–12 that Ansberry identifies. ⚠ *Amended 19 August: the run is real, but it is not a freestanding unit. *ḥākām bəʿênāyw* ("wise in his own eyes") occurs at 26:5, 26:12 and 26:16 — the only three occurrences in 25–27 — binding the fool-run to the sluggard-run. The unit is **26:1–16**, with a topic-shift at v.13. That is also Van Leeuwen's division.*
 - **Divine-name sayings almost vanish in 25–27** — one occurrence in 83 verses (1%), against 11% in 10–15 and about 18% in 16–22:16. Ansberry's "virtual absence of Yahweh sayings" in Solomon 2A is exactly right, and it is one of the sharpest theological facts in the book.
 
 ---
@@ -228,7 +275,7 @@ So the 15:33/16:1 division is not idiosyncratic to Ansberry. The 27:27/28:1 divi
 > I wrote above that three witnesses supported the division "and none against", and flagged that this might be "an artefact of asking a question that presupposed the answer". **It was the artefact.** Asked directly whether anyone dissents, a substantial contrary strand appears:
 >
 > - **W. McKane** and the form-critical tradition treat 10:1–22:16 as loosely gathered sentence literature with no sustained macro-structure.
-> - **Knut Heim**, *Like Grapes of Gold Set in Silver* (BZAW 273, 2001), holds that the collection *is* deliberately arranged — but in roughly **fifty-nine small clusters**, not two halves. The organising unit is the cluster.
+> - **Knut Heim**, *Like Grapes of Gold Set in Silver* (BZAW 273, 2001), holds that the collection *is* deliberately arranged — but in small clusters, not two halves. The organising unit is the cluster. ~~roughly fifty-nine~~ **Heim has now been read: 59 sections / 65+ clusters, set out in §9a below.**
 > - **Jamieson–Fausset–Brown** and older commentaries treat the block as a single undifferentiated series.
 >
 > Their grounds are serious, and one is decisive in kind: **there is no superscription at 16:1.** Unlike 10:1, 22:17, 24:23 and 25:1, nothing in the text marks it. The others: antithetic and synthetic proverbs intermingle on both sides, so the change is a gradient rather than a seam; core themes run continuously; and if the real artistry is at cluster level, a two-half outline may be a modern imposition.
@@ -288,6 +335,79 @@ The five-collection version put to me should be revised in one respect: restore 
 
 ---
 
+## 9a. Heim read in full — 18 August
+
+The one genuinely blocked question is now closed. A copy of *Like Grapes of Gold Set in Silver* was obtained, and **Heim's complete cluster scheme has been recovered** — from the running headers of his exegetical chapters, cross-checked for continuity and gap-filled from the section headings at pp. 180, 202 and 236.
+
+### The scheme: 59 sections, at least 65 clusters
+
+**59 numbered sections** across the four exegetical chapters — 17 + 18 + 15 + 9 — verified by extracting every section number from the text, each chapter's sequence running unbroken to its maximum. **The commonly cited figure of "about 59" is correct.**
+
+**But it undercounts the clusters.** Several sections hold two or three separate cluster interpretations (§7.5, §7.10, §7.12, §8.17), and §9.1 is a chapter introduction. Counting actual *Interpretation of Proverbs … as Proverbial Cluster* units gives **at least 65**. Heim's own description: units "usually between **3 and 8 sayings** long", with 11:1 standing alone as a single proverb and 15:33–16:15 as a long exception.
+
+**The full map — 59 sections with book-page references — is in `library/heim-proverbial-clusters/heim-cluster-map.md`.** It is directly usable: sweeps 1 and 2 cover exactly the material Heim analysed, and his boundaries give a text-derived starting structure to test rather than invent.
+
+> **Correction, 19 August.** An earlier version of this section reported **55 clusters** and declared the cited figure of 59 wrong. **That was my error, and it inverted the truth.**
+>
+> The 55 came from Heim's *running headers*, which name the section discussed on each opening. Where a section subdivides, the header shows only the outer span; where a section occupies one opening, it may not reach a recto at all. I checked the list by confirming that its *verse coverage* was continuous — and it was, which is precisely why the error survived. **The missing units were nested inside the ranges I had, not adjacent to them, so a continuity check could not possibly have found them.**
+>
+> The sound method was to extract the section *numbers*, which show the sequence unbroken to 17, 18, 15 and 9.
+>
+> *A check that cannot fail is not a check. Complete coverage is not complete enumeration.*
+
+### How he draws the boundaries
+
+> "The primary criteria for the delimitation of proverbial clusters are consequently **not *boundary markers*, as commonly thought, but linking devices**. The focus should not be on what *divides* or *separates* groups from their environment, but on features which *link* and *combine* sayings into organic units. The most fundamental such device, of course, is repetition… **Repetition can be coincidence, however**, and deliberate paronomasia should only be assumed if other links between sayings can also be established. Similarly, not every repeated word is a catchword. Consequently, only repeated words that are **salient because of their position, their rarity or their thematic importance in context**, as well as words that occur unusually frequently within a short space, may properly be called catchwords."
+
+He adds that a **significant change of linking devices** marks a new group — an accumulation of commerce vocabulary after a run of speech vocabulary, for instance — and that **"chapter divisions should only serve as *supporting* evidence"** for breaks already established on other grounds.
+
+### What he says about 15:33/16:1 — and it cuts both ways
+
+**At cluster level Heim does break there.** His units run **15:28–33 | 16:1–9 + 10–11 | 16:12–15**.
+
+**But he explicitly names a longer section spanning the break.** Listing the exceptions to his usual 3-to-8-saying range, he writes that "longer sections of up to 15 or more sayings (cf. **15:33–16:15**) were occasionally observed."
+
+**15:33 + 16:1–15 is sixteen sayings, and it straddles the proposed seam.** So Heim's own analysis yields a recognised unit in which 15:33 belongs with what follows.
+
+**And the right-hand boundary is the striking part.** Heim's long section ends at **16:15**. **Snell's** middle section — 14:26–16:15 — ends at **16:15**. Two analyses, arrived at independently and by different methods, agreeing on the same closing verse.
+
+That now makes **four** convergent witnesses to a transition zone rather than a line:
+
+| Witness | Unit spanning the seam | Method |
+|---|---|---|
+| **Heim** | 15:33–16:15 | Catchwords and linking devices |
+| **Snell** | 14:26–16:15 | Structural analysis |
+| **Fox** | 15:33 introduces 16:1–9 | "Pivotal proverbs can look in both directions" |
+| **This assessment** | c. 15:1–16:9 | Divine-name cluster (ch. 15 = 9, ch. 16 = 11); royal sayings from 16:10 |
+
+**Verdict, further refined.** The *formal shift* at 16:1 remains certain `[T]`. The *hinge zone* is now the best-attested reading of the boundary, and its extent can be stated with more precision than before: **roughly 15:33 to 16:15**, with 15:33 itself belonging to both sides. What cannot be sustained is a clean seam. `[I]` **Moderate–high on the zone; the sharp boundary is not supported by any of the four.**
+
+### The methodological directive — and it validates the sweep design
+
+Heim is explicit about how larger units may legitimately be built:
+
+> "I have usually not attempted to fuse successive units into larger entities, although this is a desideratum. It seems to me that **delimitations become more subjective as combined units grow larger**… However, attempts at identifying larger compositional units should start **'from the bottom up'** and take full account of the already established and less speculative smaller units."
+
+**That is precisely the method chosen for these sweeps** — clusters first, synthesis after. It was chosen before Heim was in hand; he turns out to prescribe it. It also means that Ansberry's two-half scheme, and my own assessment, are doing the thing Heim warns is more subjective: working top-down. **Not illegitimate, but it should be labelled.**
+
+Heim's five confident claims are worth keeping in front of us during the sweeps:
+
+1. The position of most sayings in their present sequence is the result of conscious arrangement.
+2. That design was created in order to combine successive sayings into groups.
+3. Although links between consecutive units are significant, clusters should be kept distinct from one another.
+4. The small units are the contextual backdrop against which individual sayings should be understood.
+5. **Taken together, these units mean more than the sum of the individual parts.**
+
+### Three further findings that bear on other reports
+
+**On the life-setting**, which touches Ansberry's courtly thesis directly: Heim finds "a well-to-do urban background, and the royal court plays an important role. This does not prove the royal court as the life-setting… but it certainly leaves open the possibility. **Nothing, however, presumes a structured school background.**" So Heim supports the courtly *possibility* while denying the school — a partial and qualified ally for Ansberry.
+
+**On co-referentiality**, which is where Ansberry's chapter 4 is dependent on him: Heim argues that most positive characterisations (righteous, good, upright, blameless, wise, competent) and most negative ones (wicked, bad, crook, fool, simpleton, senseless) **can be co-referential**, and calls its controlled application "a major contribution of this study." **This bears on my own righteous/wicked density measure in §4 and §5**: that count is sampling one part of a wider co-referential field, so it under-reads the real density of the polarity. The direction of the finding is unaffected; the magnitude is understated.
+
+**On the women of Proverbs**, which bears on `31-10to31` and the strange-woman material: "the attitude to women needs to be reassessed: **most statements do not characterize female stereotypes per se, but function as rhetorical devices to influence male behaviour** in social aspects of life." That is independent support, from an unexpected direction, for this project's reading of the *ʾēšet ḥayil* poem as **aimed at the seeker rather than at the sought**.
+
+---
+
 ## 10. Recommended Sweep Scoping
 
 **Five sweeps, not six.** Ansberry lists the two Words of the Wise separately in his table but handles them in one section (§4.4), and twelve verses will not carry a sweep of their own. The natural units are:
@@ -302,7 +422,9 @@ The five-collection version put to me should be revised in one respect: restore 
 
 Three notes on execution:
 
-**Read the hinges twice.** 15:33–16:9 should be worked in both sweep 1 and sweep 2, and chapter 27 (especially 27:23–27) in both sweep 4 and sweep 5. The material at a seam belongs to the argument on either side of it, and reading it once forces a premature choice.
+**Read the hinges twice.** ~~15:33–16:9~~ **15:33–16:15** should be worked in both sweep 1 and sweep 2 — the extent is now fixed by Heim and Snell independently (§9a) — and chapter 27 (especially 27:23–27) in both sweep 4 and sweep 5. The material at a seam belongs to the argument on either side of it, and reading it once forces a premature choice. ⚠ *Reinforced 19 August: the received Hebrew paragraphing runs 27:23 → 28:4, straight across the 27:27/28:1 seam. The instruction to read chapter 27 in both sweeps now has transmission-level warrant, not just prudence.*
+
+**Work bottom-up, and say so.** Sweeps 1 and 2 should begin from Heim's 55-cluster map (§9a), testing his boundaries against the text rather than assuming them, and build any larger groupings from the clusters upward. This is Heim's own prescription — "attempts at identifying larger compositional units should start 'from the bottom up'" — and it is the method these sweeps were already committed to before he was available. **Sweeps 4 and 5 have no equivalent map**, since Heim covers only 10:1–22:16; their clusters must be derived from the text using his criteria (linking devices, not boundary markers; salient repetition only; chapter divisions as supporting evidence at most).
 
 **Test each seam from inside.** Sweeps 1 and 2 should each report what the seam looks like from their own side — whether the unit reads as complete without its neighbour. Same for 4 and 5. This is the check that keeps the scheme from becoming a grid imposed on the text.
 

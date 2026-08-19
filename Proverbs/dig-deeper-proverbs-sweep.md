@@ -1484,9 +1484,15 @@ Live at **24:30–34**: the sluggard is a **negative example**, and the passage 
 
 *Solomon II(a): the Hezekiah collection — comparison, court, and friendship.*
 
+> **⚠ Superseded in part, 19 August.** A full solo run now exists — **`dig-deeper-proverbs-25-1to27-27`** — worked from the verified Hebrew. Where the two disagree, the solo run governs. Three corrections are applied inline below and marked ⚠. The solo run also adds material this sweep does not have: the *kābēd* Leitwort (nine occurrences, and the section's real subject), the four *petuchah* markers, the 25:2 ∥ 25:27 inclusio, the refining thread 25:4 → 26:23 → 27:21, and a Hebrew antithesis count of six in eighty-two.
+
 ### Headline Findings
 
-1. **The formal signature of these three chapters is the explicit comparison, and it is countable.** `[T]` Surfaced by: Parallels, Genre, Structure. "Like X… so Y" or "Like X is Y" occurs at 25:11, 12, 13, 14, 18, 19, 20, 23, 25, 26, 28; 26:1, 2, 3, 6, 7, 8, 9, 10, 11, 14, 17, 18–19, 20, 21, 23; 27:8, 15, 19, 21 — roughly thirty instances in three chapters, against a handful in the whole of 10–22. *High confidence — this is the strongest formal evidence in the book for a genuine collection boundary at 25:1.*
+1. **The formal signature of these three chapters is the comparison, and it is countable.** `[T]` Surfaced by: Parallels, Genre, Structure. Comparative sayings occur at 25:11, 12, 13, 14, 18, 19, 20, 23, 25, 26, 28; 26:1, 2, 3, 6, 7, 8, 9, 10, 11, 14, 17, 18–19, 20, 21, 23; 27:8, 15, 19, 21 — roughly thirty instances in three chapters, against a handful in the whole of 10–22. *High confidence — this is the strongest formal evidence in the book for a genuine collection boundary at 25:1.*
+>
+> **⚠ Corrected 19 August — the word "explicit" was wrong, and it matters.** Counted in the Hebrew, only **nine** of these comparisons carry a comparative particle (*kə-* and/or *kēn*): 25:13; 26:1, 2, 8, 11, 18–19, 22; 27:8, 19. Every other one is a **bare juxtaposition** — two noun-phrases with no particle, no copula, nothing between them. 25:11 in Hebrew is *"Apples of gold in settings of silver; a word spoken at its right time."* The ESV's "is like" is supplied, about twenty-eight times across the section. `[T]`
+>
+> This is a category-1 translation loss under the Three-Way Triage: no translation into any language can juxtapose two noun-phrases and leave the relation unstated. But it has a direct preaching consequence — **the English has already performed, on the hearer's behalf, the interpretive act the Hebrew withholds.** See `dig-deeper-proverbs-25-1to27-27`, Tools 5, 8 and 12, and its Pitfall *"explaining every comparison"*.
 2. **26:4–5 is the book's own instruction manual for reading itself.** `[T]` Surfaced by: Genre, Structure, Difficult Verses. Two consecutive verses give contradictory advice about answering a fool, each with its own reason. The juxtaposition can only be deliberate, and its lesson is that proverbs require situational judgement rather than mechanical obedience. *High confidence — and it is the single most useful verse-pair in the book for a preaching series.*
 3. **The collection announces its own transmission history.** `[T]` Surfaced by: Author's Purpose, Context. "These also are proverbs of Solomon **which the men of Hezekiah king of Judah copied**" (25:1). The book tells the reader, inside itself, that it passed through an editorial body some two and a half centuries after its named source. *High confidence.*
 4. **The vocative "my son" erupts once, at 27:11, in the middle of a collection that has otherwise dropped it.** `[T]` Surfaced by: Repetition, Move 4. "Be wise, my son, and make my heart glad, that I may answer him who reproaches me." The frame's voice reaches into the Hezekiah collection. *High confidence.*
@@ -1506,13 +1512,18 @@ Live at **24:30–34**: the sluggard is a **negative example**, and the passage 
 | 25:1 | Superscription |
 | 25:2–7 | The king and the court |
 | 25:8–28 | Neighbours, lawsuits, speech, self-control |
-| 26:1–12 | The fool (twelve verses, the book's densest single-topic run) |
-| 26:13–16 | The sluggard (four verses) |
+| **26:1–16** ⚠ | **One movement**, with a topic-shift at v.13: the fool (1–12, the book's densest single-topic run) then the sluggard (13–16) |
 | 26:17–28 | The meddler, the deceiver, the whisperer |
 | 27:1–22 | Friendship, praise, rebuke |
 | 27:23–27 | "Know well the condition of your flocks" |
 
-The topical grouping in ch. 26 is unusually strong and is `[T]`: twelve consecutive verses on the fool, then four on the sluggard, is not a heap. Some read 27:23–27 as a hinge into the royal material of 28–29 (flocks as a metaphor for a people). `[S]` *Moderate — plausible and traditional, but the passage reads perfectly well as literal animal husbandry, and the report does not endorse the metaphorical reading.*
+The topical grouping in ch. 26 is unusually strong and is `[T]`: twelve consecutive verses on the fool, then four on the sluggard, is not a heap.
+
+> **⚠ Corrected 19 August — 26:1–16 is one unit, not two.** The phrase *ḥākām bəʿênāyw*, "wise in his own eyes", occurs three times in these chapters and nowhere else: at **26:5** (inside the fool-pair), at **26:12** (closing the fool-run) and at **26:16** (closing the sluggard-run). `[T]` The sluggard is introduced precisely so the phrase can be used a third time — and the second and third occurrences both turn the material on the reader. The two runs are bound, and the table above has been amended. This is also **Van Leeuwen's** division (25 · 26:1–16 · 26:17–28 · 27:1–22 · 27:23–), reached independently in the solo run from the linking device rather than from him.
+>
+> Three verbatim colon-repetitions run underneath: 26:1b = 26:8b (*liksîl kābôd*), 26:7b = 26:9b (*ûmāšāl bəpî kəsîlîm*, three words), 26:4a = 26:5a (*kəsîl kəʾiwwaltô*). They **interlock rather than nest** — 1–8, 4–5, 7–9 — so there is no clean partition of 26:1–12 and the honest description is a chain.
+
+> **⚠ Corrected 19 August — on 27:23–27 as a hinge.** This sweep declined the hinge reading and the collections assessment then leaned on that. **The structural half of it should now be accepted.** The received Hebrew carries a *petuchah* at **27:22** and none at 27:27, so the Masoretic paragraph runs **27:23 → 28:4**; two lexical frames close at 27:21–22 (√*hll* at 27:1, 2, 21; *ʾĕwîl* at 27:3, 22); and the genre changes at 27:23 from sentence to admonitory poem. `[T]` Ansberry and Van Leeuwen agree on the unit; the *petuchah* is a third, independent witness. **What this sweep was right to decline — and still is — is the *metaphorical* claim** that the flock stands for the king's subjects. The two claims are separable and the evidence bears on them differently. See `proverbs-collections-assessment` §*The janus, settled*.
 
 ### 5. Parallels
 
@@ -2120,7 +2131,7 @@ Items the sweep could not settle, where verification would materially strengthen
 7. **Whether the 10:1 ∥ 15:20 doublet is a deliberate inclusio** marking 10:1–15:33 as a unit. The data are certain; the intention is inferred. A technical commentary on the structure of the first Solomonic collection would settle it.
 8. **The gematria claim** that 375 (the verse-count of 10:1–22:16) is the numerical value of *šĕlōmōh*. Attractive, frequently repeated, and not verified here. Do not preach it as fact.
 9. **Prov 30:4's "son."** The messianic reading is held by a real strand in the user's library and denied by others. The sweep leaves it *uncertain* and recommends it be used only as a secondary note.
-10. **Whether 27:23–27 functions as a royal hinge into 28–29.** A traditional reading; the passage reads perfectly well as literal husbandry. The sweep does not endorse the metaphorical reading and flags it for a commentary check.
+10. **Whether 27:23–27 functions as a royal hinge into 28–29.** ⚠ **Half-settled, 19 August.** The question needs splitting. **(a) Structurally — settled yes.** 27:23–27 is a discrete closing unit: a *petuchah* at 27:22 and none at 27:27 (so the Masoretic paragraph runs 27:23 → 28:4), two lexical frames closing at 27:21–22, and a change of genre. Ansberry and Van Leeuwen agree on the unit; the paragraphing is a third witness. `[T]` **(b) Metaphorically — still open.** Whether the flock stands for the king's subjects is a separate claim, and the sweep's caution stands. The passage reads perfectly well as literal husbandry; *nēzer* (v.24) and *nəʿārôt* (v.27) are the two text-level arguments on the other side and deserve a commentary check. See `dig-deeper-proverbs-25-1to27-27` and `proverbs-collections-assessment` §*The janus, settled*.
 
 ---
 
