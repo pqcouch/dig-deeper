@@ -100,6 +100,90 @@ This suggests a symmetry Ansberry does not draw. He identifies a janus at the en
 
 **Sound, with the boundary understood as a hinge rather than a knife-edge.** The formal division at 16:1 is real and sharply marked. The thematic transition occupies roughly 15:1–16:9. Preach the difference between the two halves; do not preach a wall at 15:33.
 
+> **⚠ And the received paragraphing gives it no support at all — 20 August.** `[T]` BHS carries *petuchah* markers at 13:25, **19:9** and 21:30. **The Masoretic paragraph therefore runs 14:1 → 19:9 — ninety-one verses, straight across 15:33/16:1.**
+>
+> **This is now a pattern across three runs, and it should be stated as one:**
+>
+> | Boundary | Marked in the received text? |
+> |---|---|
+> | 15:33 / 16:1 | ✘ — paragraph runs 14:1 → 19:9 |
+> | **22:16 / 22:17** *(a superscription boundary)* | ✘ — paragraph runs 21:31 → 22:21 |
+> | 27:27 / 28:1 | ✘ — paragraph runs 27:23 → 28:4 |
+> | 27:22 / 27:23 *(not a boundary anyone marks)* | ✔ |
+> | **24:22 / 24:23** *(the "these also" seam)* | **✔ — and with a *setumah*, the lesser marker** |
+>
+> **Whatever the *petuchot* record, it is not the collection structure** — and at 22:16/17 they run across a boundary the text itself marks with a superscription. `[T]` **The verdict above is unaffected**: it rested on formal measures, not on paragraphing.
+
+> ### ✅ And the pattern now has an explanation — 20 August, from the Words of the Wise run
+>
+> **The markers track *genre*, not collection.** `[T]` Density across all five sections:
+>
+> | Section | Verses | Internal markers | One per |
+> |---|---:|---:|---:|
+> | **30:1–31:9** — Agur and Lemuel *(monologue + numerical saying + royal instruction)* | 42 | **9** | **4.7** |
+> | **22:17–24:34** — Words of the Wise *(instruction)* | 82 | **7** | **12** |
+> | 28:1–29:27 — Solomon 2B | 55 | 4 | 14 |
+> | 25:1–27:27 — Solomon 2A | 83 | 4 | 21 |
+> | 16:1–22:16 — Solomon 1B | 191 | 2 | 96 |
+> | 10:1–15:33 — Solomon 1A | 184 | **1** | **184** |
+>
+> **Thirty-nine-fold across six sections, monotonic — updated 20 August from the Agur and Lemuel run.**
+
+> ### The gradient closes — 20 August, from the Agur and Lemuel run
+>
+> **The last section to be parsed is the most densely marked in the book: nine *petuchot* in forty-two verses.** `[T]` And it is the **first section in the project where the received paragraphing and the modern content-division coincide throughout** — every marker falls where a modern editor would put one. Compare 10:1–15:33, where a single marker covered 184 verses, and 16:1–22:16, where a Masoretic paragraph ran 14:1 → 19:9 straight across the seam every scholar draws at 15:33/16:1.
+>
+> **And the underlying measure is now available directly.** The paragraphing was always recording how discrete the material's units are, and that can be counted:
+>
+> | Section | Free-standing single-verse sayings | As a proportion |
+> |---|---:|---:|
+> | 10:1–15:33 — Solomon 1A | 184 of 184 | **100%** |
+> | 30:1–31:9 — Agur and Lemuel | 5 of 42 *(30:10, 17, 20, 32, 33)* | **11.9%** |
+>
+> `[T]` **A section that is 12% free-standing bicola carries nine markers; a section that is 100% free-standing bicola carries one.** That is the whole explanation, and it is why no antithesis percentage is given for either 22:17–24:34 or 30:1–31:9 — the scheme classifies bicola, and neither section's unit is the bicolon.
+
+> ### ⭐ The markers are older than the Masoretes — 20 August, **VERIFIED**
+>
+> The 28–29 run left a methodological worry open: whether appealing to the *petuchot* in a **compositional** argument is a category error, since they are transmission-level marks pointed centuries after the fact. **It is not, and the Greek tradition is what shows it.**
+>
+> Greek Proverbs is not merely a translation of a differently-worded Hebrew — **it is a differently *arranged* book.** The order was predicted from memory on 20 August, flagged as unverified, and then **checked against Rahlfs, *Septuaginta* (1979), supplied in full. The prediction matched exactly, block for block:**
+>
+> > 1:1–24:22 *(+ the Greek plus at 24:22a–e)* · **30:1–14** · 24:23–34 · **30:15–33** · **31:1–9** · 25:1–29:27 · 31:10–31
+>
+> That arrangement creates **five block boundaries. Every one falls at a Masoretic paragraph marker:**
+>
+> | # | Greek block boundary | Marker in the received Hebrew |
+> |---|---|---|
+> | 1 | after **24:22** *(and its Greek plus)* | **ס** — the only *setumah* found anywhere in the book |
+> | 2 | after **30:14** | **פ** |
+> | 3 | after **24:34** | **פ** |
+> | 4 | after **31:9** | **פ** |
+> | 5 | after **29:27** | **פ** |
+>
+> `[T]` on both sides — the Greek from Rahlfs, the markers from BHS. *(A sixth marker at 30:33 falls at the internal joint of the moved block, where both traditions agree anyway; it is excluded from the count. The earlier "six for six" is corrected to this.)*
+>
+> **Two details strengthen it.** The Greek's own five-verse plus at 24:22a–e is attached to 24:22 — so **the Greek both expanded at and cut after the point the MT marks with its unique *setumah*.** And boundary 5 was the least likely to be right by accident: nothing about the MT makes 29:27 a natural place to break to the acrostic, and the marker there was found in the 28–29 run for unrelated reasons.
+>
+> **The consequence for this document.** The likeliest explanation is that **both traditions inherited a common inventory of division points and made different arrangement decisions at them** `[I]` — so the markers record joints already present when the Greek *Vorlage* was arranged. **That raises the evidential value of every paragraphing finding here, including the three that ran against the modern consensus:**
+>
+> - the Masoretic paragraph running **27:23 → 28:4**, straight across what Fox calls "the common division"
+> - the ninety-one-verse paragraph **14:1 → 19:9**
+> - the **silence at 15:33/16:1**
+>
+> Those are no longer *"the Masoretes disagree with the scholars."* They are ***"the transmitted division-points disagree with the scholars."***
+>
+> *Ansberry's position — with Washington, Tov and Clifford — is that the Greek arrangement is **secondary**. That is probably right and is not what the observation depends on: a secondary arranger who cuts only at inherited joints is still evidence that the joints were inherited.*
+>
+> **Confidence: high.** Full working: `dig-deeper-proverbs-30-1to31-9`, Textual Variants. Instruction has visible units — prohibition plus motive, running to two or four verses — and a sentence heap does not. **The *petuchot* were never marking collections, which is why they ignored every boundary the project tested them against.**
+>
+> ### And the exception establishes the rule
+>
+> **24:22 carries a *setumah* (ס) — the only one in any passage this project has parsed** — and it falls exactly at the seam between the Words of the Wise (22:17–24:22) and *"These also are sayings of the wise"* (24:23–34). `[T]`
+>
+> **The Masoretes had a weaker sign available and used it for the one boundary where two collections share a title.** A *petuchah* opens a paragraph at the margin; a *setumah* is a closed space within the line — *related but distinct*, which is precisely what 24:23's *"these also"* says.
+>
+> **So their silence at 15:33/16:1, 22:16/17 and 27:27/28:1 is evidence about those boundaries rather than about the convention.** `[I]` *Moderate–high.* See `dig-deeper-proverbs-22-17to24-34`, Tool 3.
+
 ---
 
 ## 5. Seam B — 27:27 / 28:1
@@ -148,6 +232,80 @@ This does not overturn the seam; the antithesis and righteous/wicked measures ar
 ### Verdict on Seam B
 
 **The strongest of the two reconstructed seams, and stronger than the scheme's reputation.** Four measures converge on 28:1. A five-collection scheme that merges 25–29 loses the best-attested internal division in the sentence literature.
+
+> ### ✅ The measures, now taken from the Hebrew — 20 August
+>
+> Both halves of the second Solomonic collection have been classified saying by saying from the Lexham Hebrew Bible, on one scheme, applied by one hand. `[T]`
+>
+> | | 25:1–27:27 | 28:1–29:27 |
+> |---|---:|---:|
+> | Sayings | 82 | 55 |
+> | **Antithetical** | **6** (range 5–7) | **33** (range 32–35) |
+> | **as %** | **7.3%** | **60.0%** |
+> | Comparative (image + referent, and *min*-comparatives) | 39 | 6 |
+> | **as %** | **47.6%** | **10.9%** |
+> | Divine name | 2 | *see the evidence table* |
+>
+> **About 8.2 : 1 on antithesis and 4.4 : 1 the other way on comparison** — and the antithesis ratio holds across the whole plausible range, 6.8 : 1 at its most conservative and 10.4 : 1 at its most generous. The borderline cases are itemised in the two dig-deeper reports so the figures can be adjusted rather than taken on trust.
+>
+> **The English proxy is vindicated.** This document's ESV "but"-count returned **five** for 25–27 and **thirty-three** for 28–29. The Hebrew returns **six** and **thirty-three**. Two methods built on different principles, landing within one saying of each other in the first case and exactly together in the second. *The proxy was sound; it is simply no longer necessary.*
+>
+> ### ✅ And now the first Solomonic collection, on the same scheme — 20 August
+>
+> All 184 sayings of **10:1–15:33** have been classified from the Hebrew on the scheme used above. `[T]`
+>
+> | Section | Sayings | Antithetical | % |
+> |---|---:|---:|---:|
+> | **10:1–15:33** — Solomon 1A | 184 | **149** (range 145–152) | **81.0%** |
+> | 25:1–27:27 — Solomon 2A | 82 | 6 (range 5–7) | 7.3% |
+> | 28:1–29:27 — Solomon 2B | 55 | 33 (range 32–35) | 60.0% |
+>
+> **The long-standing discrepancy for 10–15 is resolved.** This document's ESV "but"-count gave **136**; Martin gives **163 of 183**. The Hebrew classification gives **149** — and **the fourteen-saying gap to Martin is accounted for almost exactly by this scheme's fifteen *synonymous* sayings** (10:10, 10:18, 11:7, 11:10, 11:25, 11:30, 12:14, 12:28, 14:10, 14:17, 14:19, 15:10, 15:12, 15:23, 15:30). A count that treats any bicolon with contrastive *content* as antithetical absorbs them; one that requires opposed *subjects and predicates* does not. **The disagreement was about the category, not the text.** At the other end, the ESV count misses asyndetic antitheses such as 10:15, where the English supplies a semicolon rather than "but".
+>
+> ### ⚠ And a qualification to Ansberry's grounds
+>
+> §3 above records his ground for the 2A/2B division: 28–29 returns "to the general, antithetical style of Proverbs 10–15, **bringing the sentence literature full circle**."
+>
+> **On the numbers, "full circle" is an overstatement.** 2B is antithetical relative to 2A by a factor of eight (60% against 7%) — that part is emphatically confirmed, and it is the sharpest formal contrast in the sentence literature. But 2B is **twenty-one points less antithetical than 1A**, and 1A remains the most antithetical stretch in the book by a clear margin. **The accurate statement is that 2B moves back toward 1A's style without reaching it.** `[T]`
+>
+> *The seam argument is untouched: it never depended on 2B matching 1A, only on 2B differing sharply from 2A. If anything the three-way figure strengthens the case that the four sub-collections are formally distinct from one another rather than two pairs.*
+>
+> Full verse-by-verse classification and the borderline notes: `dig-deeper-proverbs-10-1to15-33`, Tool 5.
+>
+> ### ✅ All four sub-collections, one scheme — 20 August
+>
+> Solomon 1B has now been classified on the same scheme, completing the comparison. `[T]`
+>
+> | Section | Sayings | Antithetical | % |
+> |---|---:|---:|---:|
+> | **Solomon 1A** 10:1–15:33 | 184 | 149 | **81.0%** |
+> | **Solomon 1B** 16:1–22:16 | 191 | **39** | **20.4%** |
+> | **Solomon 2A** 25:1–27:27 | 82 | 6 | **7.3%** |
+> | **Solomon 2B** 28:1–29:27 | 55 | 33 | **60.0%** |
+>
+> **And the ESV proxy converged for a third time:** this document's "but"-count returned **35** for chapters 16–21; the Hebrew classification returns **35** for the same chapters, with offsetting one-verse differences at ch. 18 and ch. 20.
+>
+> ### What this does to §3 — Ansberry's grounds
+>
+> **It vindicates the four-fold scheme about as strongly as a formal measure can.** Every sub-collection is sharply distinct from the one beside it, and the differences are large — 61 points between 1A and 1B, 13 between 1B and 2A, 53 between 2A and 2B. **This is a count nobody had done, and it lands on Ansberry's divisions.**
+>
+> ### ⚠ But it corrects the *shape* of the claim
+>
+> The scheme is usually described as a **progression** — Ansberry's own chapter titles run *Rudimentary* → *Advanced*, and the labels imply a ladder. **The figures show oscillation, not progression:**
+>
+> **high · low · lowest · high**
+>
+> `[T]` The sentence literature does not move in one direction. It alternates between a heavily antithetical register and a heavily non-antithetical one, twice. **Recommended: retain the four-fold division, and describe the sequence as alternating rather than developmental.** *That is a claim about form only; whether the material's* content *develops is a separate question this measure cannot settle.*
+>
+> ### ⚠ And why the Words of the Wise has no figure — 20 August
+>
+> **22:17–24:34 is deliberately absent from the table, and the absence is itself a finding.** `[T]` The scheme classifies **bicola**; this material's unit is the **multi-verse admonition** — prohibition plus motive, regularly running to two or four verses (22:22–23; 23:1–3; 23:4–5; 23:10–11; 23:13–14; 24:11–12; 24:30–34). Its governing relation is *between* verses, not within a colon-pair.
+>
+> **A count would have produced a number that looked comparable and was not.** *The formal measure that discriminates so sharply among the four sentence collections cannot be applied to the material sitting between them, because that material is a different genre — which is the same conclusion the paragraphing reached independently.*
+>
+> **What this does for the seam.** Ansberry's stated ground for dividing 2A from 2B was formal — "emblematic proverbs… a predominance of vivid images" against "a preponderance of antithetical sayings… a dearth of similes and metaphors". **Those are now measured quantities rather than impressions**, and they are the sharpest formal contrast anywhere in the sentence literature. Morris drew the source-critical conclusion from the same observation in 1942 without counting; Steinmann, Hayes and Fox described the direction without a magnitude. **The magnitude is 8 : 1.**
+>
+> **And it does not disturb the structural finding.** The distributional boundary remains 27:27/28:1; the structural boundary remains 27:22/27:23; the four verses between them remain the janus. If anything the sharpness of the distributional contrast makes the janus more interesting, not less — the material changes character abruptly *four verses after* the transmitted text says the unit has ended.
 
 > ### And it is not Ansberry's alone — added 17 August
 >

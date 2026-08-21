@@ -1291,10 +1291,16 @@ Level, unhurried, epigrammatic — the tone of settled observation rather than u
 
 *Solomon I(b): the LORD, the king, the courts and the poor.*
 
+> **⚠ Superseded in part, 20 August.** A full solo run now exists — **`dig-deeper-proverbs-16-1to22-16`** — worked from the verified Hebrew. Where the two disagree, the solo run governs; two corrections are applied inline below and marked ⚠. The solo run also adds: the **16:2 ∥ 21:2 section frame**; the antithesis count (**39 of 191, 20.4%**, completing the four-way comparison); the change of abomination-formula from 1A's *tôʿăbat YHWH … rəṣônô* to 1B's *tôʿăbat YHWH gam-šənêhem*; the imperative census (**eleven against 1A's one**); the *petuchot* at 19:9 and 21:30, with the paragraph running **14:1 → 19:9**; and the pride/humility chain 15:33 → 16:18 → 18:12 → 22:4.
+
 ### Headline Findings
 
 1. **The collection that most commends human prudence most insists that God determines the outcome.** `[T]` Surfaced by: Repetition, Structure, Author's Purpose. 16:1, 2, 3, 4, 9, 33; 19:21; 20:24; 21:1, 2, 30–31 form a sustained spine: "The heart of man plans his way, but the LORD establishes his steps" (16:9); "The lot is cast into the lap, but its every decision is from the LORD" (16:33); "No wisdom, no understanding, no counsel can avail against the LORD" (21:30). *High confidence — this is the sweep's single strongest thematic finding in the sentence literature.*
 2. **The section opens with a deliberate two-part cluster: nine verses on the LORD, then six on the king.** `[T]` Surfaced by: Structure, Repetition. 16:1–9 names YHWH in seven of nine verses; 16:10–15 names the king in all six. The juxtaposition is the argument: the king rules, and the LORD rules the king. *High confidence.*
+>
+> **⚠ Both figures corrected 20 August, and the second correction strengthens the point.** `[T]` **16:1–9 names YHWH in eight of nine verses** — 16:1, 2, 3, 4, 5, 6, 7, 9, with only 16:8 omitting him; it is the densest divine-name cluster in the book. And **16:10–15 names the king in five of six, not all six: 16:11 names YHWH and the weights instead** (*"a just balance and scales are the LORD's; all the weights in the bag are his work"*).
+>
+> **That is the more interesting error.** The headline's argument was that the juxtaposition of the two blocks makes the point. **It is stronger than that: 16:11 makes the point *inside* the king-block.** In six verses otherwise wholly about royal power — the king judges, abominates evil, delights in righteous lips, kills and spares — one verse says the standard by which trade is measured is not his. **The monarchy is put under audit from within its own paragraph.** See `dig-deeper-proverbs-16-1to22-16`, Tool 11.
 3. **18:10 and 18:11 are a deliberately juxtaposed pair.** `[T]` Surfaced by: Structure, Parallels, Repetition. "The name of the LORD is a strong tower; the righteous man runs into it and is safe" / "A rich man's wealth is his strong city, and like a high wall **in his imagination**." Two fortresses, one real. *High confidence, and it is the best single proof that these chapters are arranged rather than heaped.*
 4. **17:15 sets up a problem only the cross resolves.** `[T]`/`[I]` Surfaced by: Vocabulary, Difficult Verses, Christological Reading. "He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD" — and Romans 4:5 says God "justifies the ungodly." The tension is real, canonical, and productive. *Moderate–high.*
 
@@ -1387,6 +1393,10 @@ More reflective and less binary than the previous section — the tone of someon
 ## Passage 13 — Proverbs 22:17–24:34
 
 *The words of the wise: two collections, a second preamble, and the international tradition.*
+
+> **⚠ Superseded in part, 20 August.** A full solo run now exists — **`dig-deeper-proverbs-22-17to24-34`** — worked from the verified Hebrew. It adds: the **paragraph census (seven markers in 82 verses, one per twelve — fifteen times denser than Solomon 1A)** and the finding that **the markers track genre rather than collection**; the ***setumah* at 24:22**, the only one in the project, marking the one collection boundary the Masoretes did mark and marking it with the lesser sign; the **22:19 ∥ 24:21 YHWH frame** (trust at the opening, fear at the close); two **four-word verbatim frames** (22:28 ∥ 23:10; 23:18 ∥ 24:14, the latter closing on a *petuchah* and negated at 24:20); ***kəpoʿŏlô*** used of God at 24:12 and forbidden to the reader at 24:29; and **22:17's *tāšît libbəkā* answered by 24:32's *ʾāšît libbî*** — the teacher modelling the command he gave.
+>
+> **And one methodological note:** the solo run gives **no antithesis percentage** for this section, because the scheme used for the four sentence collections classifies bicola and this material's unit is the multi-verse admonition. The absence is deliberate and is itself a finding.
 
 ### Headline Findings
 
@@ -1665,6 +1675,18 @@ Grave and political. The comedy of 25–27 has gone. The recurring image is a pe
 ---
 ## Passage 16 — Proverbs 30:1–33 ⭐
 
+> **⚠ SUPERSEDED, 20 August — see `dig-deeper-proverbs-30-1to31-9`.**
+>
+> A full solo run now covers **30:1–31:9** from the BHS text, which the sweep did not have. It confirms the four Headline Findings below and adds five things the sweep could not reach:
+>
+> - **Nine *petuchot* in forty-two verses** — the densest paragraphing in Proverbs, and the first section where the received divisions and the modern content-divisions coincide throughout. `[T]`
+> - **The paragraphing runs 30:1–6 unbroken and breaks at 30:6/30:7** — textual evidence against the standard two-source reading of 30:1–9, which needs a seam at 30:4/30:5. `[T]`
+> - **Every LXX rearrangement junction coincides with a Hebrew paragraph marker, six for six** — flagged for verification, and the project's highest-value outstanding item. `[T]`/`[S]`
+> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7). `[T]`
+> - **√צרף reaches its object at 30:5** — the refining thread 17:3 → 25:4 → 27:21 does not stop at 27:21; the last thing Proverbs puts in the furnace is God's own word. `[T]`
+> - **A second fork inside the 30:1 crux the sweep did not record:** within the emendation, *wəʾukāl* may read *"but I can prevail"* (BHQ, Waltke, Barthélemy) rather than the ESV's *"and worn out"*. **Opposite endings.** `[S]`
+
+
 *Agur: the confession, the six questions, the only prayer, and the counting.*
 
 ### Headline Findings
@@ -1767,6 +1789,16 @@ Utterly distinct from anything else in the book — self-deprecating, wondering,
 ---
 
 ## Passage 17 — Proverbs 31:1–9
+
+> **⚠ SUPERSEDED, 20 August — see `dig-deeper-proverbs-30-1to31-9`.**
+>
+> The solo run covers 31:1–9 together with Agur, which is how the received text presents it: **a *petuchah* closes 30:33 and another closes 31:9**, so the paragraphing marks 31:1–9 as a discrete unit. It confirms all four Headline Findings below and adds:
+>
+> - **The mouth reverses across the marked seam.** *yād lə-peh*, "hand on your mouth" (30:32) — **פ** — *pətaḥ pîkā … pətaḥ pîkā* (31:8, 9). The sweep found the speech-thread telos here; the run shows the transmitted text marking it. `[T]`
+> - **Jeremiah 22:16 ∥ 31:9** — **דין עני ואביון**, three words verbatim, and Jeremiah's verse defines doing it as *"knowing me."* Read against 1:7's *daʿat*, the book's last instruction is what knowing God looks like in someone with power. `[T]` on the match; `[I]` on the payoff.
+> - **The Aramaisms cluster in three verses** — *bar* ×3 (31:2), *məlākîn* (31:3), *ʾal* for *lōʾ* (31:4) — which supports a non-Judahite origin or a deliberate foreign colouring, and should be weighed *together* with the Massa question rather than separately. `[T]`/`[I]`
+> - **31:7's verb is a jussive, not an imperative** — the interpretive key to the "give strong drink" difficulty. `[T]`
+
 
 *A mother instructs a king.*
 

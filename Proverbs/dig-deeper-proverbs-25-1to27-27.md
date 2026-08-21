@@ -16,13 +16,15 @@ The exegetically strongest claims that emerged across multiple tools:
 
 1. **The section's Leitwort is *kābēd* — glory, honour, weight — and it runs from the first saying to the last.** `[T]` Nine occurrences across eight verses, evenly spread: the glory of God and of kings (25:2 ×2), the glory that is not glorious to seek (25:27 ×2), the honour that does not fit a fool (26:1, 8), the fool's provocation heavier than stone and sand (27:3 ×2), the servant who will be honoured (27:18). Surfaced by: Repetition, Vocabulary, Structure (25:2 ∥ 25:27 is an inclusio built on it), Original Audience. *High confidence — countable.* **This, not "comparison," is what Proverbs 25–27 is about**: who has honour, who may seek it, who may not receive it, and who confers it.
 
-2. **The strongest structural boundary in these three chapters is 27:22/27:23 — and it is the only one attested by both the composition and the transmission.** `[T]` The received Hebrew carries four *petuchah* markers (25:13, 25:20, 26:21, 27:22). The last of them sets off 27:23–27, and the resulting Masoretic paragraph **runs on past 27:27 into chapter 28, closing only at the *petuchah* after 28:4.** Independently, two lexical frames close at 27:21–22 (√*hll* at 27:1, 2, 21; *ʾĕwîl* at 27:3, 22). Surfaced by: Structure, Repetition, Vocabulary, and the checking stage. *High confidence on the data; moderate–high on the reading.* **This vindicates the structural half of Ansberry's janus — and reverses a correction this project made against him on 17 August.** See Tool 3 and Book-Overview Tensions.
+2. **The strongest structural boundary in these three chapters is 27:22/27:23 — and it is the only one attested by both the composition and the transmission.** `[T]` The received Hebrew carries four *petuchah* markers (25:13, 25:20, 26:21, 27:22). The last of them sets off 27:23–27, and the resulting Masoretic paragraph **runs on past 27:27 into chapter 28, closing only at the *petuchah* after 28:4.** Independently, two lexical frames close at 27:21–22 (√*hll* at 27:1, 2, 21; *ʾĕwîl* at 27:3, 22). Surfaced by: Structure, Repetition, Vocabulary, and the checking stage. *High confidence on the data; moderate–high on the reading.* **✅ The one thing that could have undone this has been checked: BHS carries no *setumah* markers in Proverbs 27–28, so the *petuchah* map is complete where the finding rests.** **This vindicates the structural half of Ansberry's janus — and reverses a correction this project made against him on 17 August.** See Tool 3 and Book-Overview Tensions.
 
 3. **The dominant comparative form in these chapters is the *unmarked* juxtaposition, not the simile — and the ESV's "like" is supplied.** `[T]` Of roughly 37 comparative sayings, only nine carry a comparative particle (*kə-* and/or *kēn*): 25:13; 26:1, 2, 8, 11, 18–19, 22; 27:8, 19. Every other comparison is two noun-phrases set side by side with nothing between them — "Apples of gold in settings of silver; a word spoken at its right time" (25:11). Surfaced by: Parallels, Translations, Genre, Original Languages. *High confidence — countable.* **The Hebrew makes the reader complete the comparison; the English does it for him.** This is a category-1 translation loss under the Three-Way Triage, and it has direct homiletical consequence (see Preaching Pitfalls).
 
 4. **Proverbs 25–27 names God once in eighty-three verses — and it is the section that teaches the reader to judge for himself.** `[T]` *ʾĕlōhîm* at 25:2, YHWH at 25:22, and nowhere else. Set beside six antithetical sayings in eighty-two (against thirty-three in the fifty-five verses of 28–29), a picture emerges: the section systematically withholds the two things that had been settling cases for the reader — the divine verdict and the two-column sort. Surfaced by: Repetition, Parallels, Positional Necessity, Author's Purpose. *High confidence on the counts; moderate–high on the reading.* **26:4–5 sits at the centre of it, and is the section's own explanation of itself.**
 
-5. **Three metallurgical sayings, one per chapter, frame the whole: 25:4 → 26:23 → 27:21.** `[T]` The root *ṣrp* (refine) occurs exactly twice in the section, at 25:4 (*ṣōrēp*, the smith) and 27:21 (*maṣrēp*, the crucible); *sîgîm* (dross) exactly twice, at 25:4 and 26:23; *kesep* (silver) four times, three of them in this thread. The section opens by refining silver to make a vessel for the king and closes — before the shepherd poem — by putting a man in the crucible and testing him by his praise. Surfaced by: Vocabulary, Repetition, Quotation/Allusion (Move 4), Original Languages. *High on the lexical data; moderate on the inclusio claim* — unattested in Ansberry, routed to Open Questions.
+5. **Proverbs 25:21 is the Covenant Code's enemy-duty, and it is where both Jesus and Paul go for "love your enemies."** `[T]` on the Hebrew; `[S]` on the NT links. Exod 23:5 commands help for the beast of **שֹׂנַאֲךָ** — "the one who hates you" — inside a block of courtroom law; Prov 25:21 takes **the identical inflected form** and commands feeding him, inside a cluster about lawsuits and false witness. Paul quotes it (Rom 12:20); Jesus alludes to it (Matt 5:44), where he answers a tradition that had added *"and hate your enemy"* to a Torah that never said it. Surfaced by: Vocabulary, Quotation/Allusion (full triad plus NT reception), Structure, So What. *High on the verbal data; moderate–high on the chain.* **It answers the question a thoughtful hearer actually asks: where does the Old Testament ever say love your enemy?**
+
+*(The metallurgical thread — √*ṣrp* at 25:4 and 27:21, *sîgîm* at 25:4 and 26:23, one refining saying per chapter — was the fifth headline in the first issue of this report. Its lexical data are `[T]` and striking, and it is worked in full under Tool 7; but a library query has since confirmed the inclusio claim is unattested, so it is held at `[I]` moderate and gives up its place to a finding that has been checked.)*
 
 ---
 
@@ -172,7 +174,9 @@ Two independent structures cross-cut these chapters, and keeping them apart is t
 
 #### (a) The transmission structure: four *petuchot*
 
-The Hebrew as supplied carries four *petuchah* markers (פ), at **25:13, 25:20, 26:21 and 27:22**. `[T]` on their presence in this text; `[S]` on what the convention signifies. They yield:
+The Hebrew as supplied carries four *petuchah* markers (פ), at **25:13, 25:20, 26:21 and 27:22**. `[T]` on their presence in this text; `[S]` on what the convention signifies.
+
+> **✅ Verified against BHS, 20 August: there are no *setumah* (ס) markers in Proverbs 27–28.** `[S]` The risk was that the Lexham export had dropped *setumot*, leaving the paragraph map incomplete — and specifically that a *setumah* at 27:27 would restore a transmission-level boundary at the "common division". **There is none.** The *petuchah*-only map is complete across the stretch on which the finding rests. *Chapters 25–26 were not separately checked; that would bear on the fine-grained map below, not on the boundary claim.* They yield:
 
 | Paragraph | Verses |
 |---|---|
@@ -400,9 +404,25 @@ All three literal versions supply both a copula and a simile marker; the Hebrew 
 
 The ESV reads the consonants כספסגים as a single word, commonly explained from a cognate meaning "glaze". `[S]` *Moderate.*
 
+> **✅ Ancient versions checked, 20 August — and both read two words.** `[S]`
+>
+> | | |
+> |---|---|
+> | **LXX** | ἀργύριον διδόμενον μετὰ δόλου ὥσπερ ὄστρακον ἡγητέον — "silver given with deceit is to be reckoned as a potsherd" |
+> | **Vulgate** | *Quomodo si **argento sordido** ornare velis vas fictile* — "as if you would adorn an earthen vessel with **impure silver**" |
+> | **JPS 1917** | "an earthen vessel overlaid with **silver dross**" |
+>
+> **The Vulgate is the clean witness:** *argento sordido* renders *kesep sîgîm* exactly — two words, silver and its impurity. The LXX also saw two elements (ἀργύριον … ὄστρακον, matching *kesep* … *ḥereś*), rendering *sîgîm* interpretively as "with deceit". **Neither ancient version supports a single word meaning "glaze."**
+>
+> **And modern scholarship has been turning back.** The emendation rests on Ugaritic *spsg*; the Zondervan Encyclopedia records that the phrase "has traditionally been emended to 'like glaze'… more recent scholarship has challenged this emendation, with the TNIV restoring the traditional rendering of 'silver dross'." `[S]`
+>
+> **So the ESV's footnote is best read as recording a conjecture, not a correction.** The MT vocalisation now has two ancient versions, a modern scholarly turn, and the structural argument below behind it. **Upgraded from moderate to moderate–high.** *The Peshitta was not checked.*
+
 **The exegetical cost is structural, and it has not been noticed in this project's earlier work.** *sîgîm* occurs exactly twice in Proverbs 25–27: at 25:4 (*sîgîm mikkāsep*, "dross from silver") and here (*kesep sîgîm*, "silver of dross") — **the same two words in reverse order.** `[T]` On the MT vocalisation, 26:23 is a deliberate inversion of 25:4: there, dross removed from silver yields a vessel; here, silver-that-is-dross is spread over a *ḥereś*, a potsherd. The revocalisation dissolves the link.
 
-The sense of the verse is much the same either way — a cheap coating over cheap material — so nothing doctrinal turns on it. But the *structural* argument for retaining the MT vocalisation is real and, so far as I can find, unmade. `[I]` *Moderate.* Routed to Open Questions.
+The sense of the verse is much the same either way — a cheap coating over cheap material — so nothing doctrinal turns on it. But the *structural* argument for retaining the MT vocalisation is real and, so far as I can find, unmade. `[I]` *Moderate.*
+
+> **Checked 20 August: still unattested — but the conclusion now has company.** A library search confirms *sîgîm* at 25:4 and 26:23 and finds no commentator arguing from the inversion. **The argument appears to be mine.** But the position it supports — retain the MT — is independently held by the ancient versions and by the scholarship that has moved against the emendation (see above). *A lone structural argument reaching the same verdict as two ancient translators and a modern reversal stands in a much better place than a lone structural argument.*
 
 #### 25:27b and 25:7c–8a — two acknowledged difficulties
 
@@ -498,7 +518,19 @@ These interlock rather than nest: 1–8, 4–5, 7–9. There is no clean partiti
 
 ---
 
-**Exodus 23:4–5 → Proverbs 25:21–22** *(moderate–high confidence — rare-term verbal allusion)* `[T]` on the lexical datum; `[I]` on intentionality
+**Exodus 23:4–5 → Proverbs 25:21–22** *(high confidence on the verbal datum; moderate–high on intentionality)* `[T]` on the lexical datum; `[I]` on intentionality
+
+> **✅ Verified 20 August — and the match is closer than I claimed.**
+>
+> | | |
+> |---|---|
+> | **Exod 23:4** | כִּי תִפְגַּע שׁוֹר **אֹיִבְךָ** אוֹ חֲמֹרוֹ תֹּעֶה — *ʾōyibkā*, "your enemy" |
+> | **Exod 23:5** | כִּי־תִרְאֶה חֲמוֹר **שֹׂנַאֲךָ** רֹבֵץ תַּחַת מַשָּׂאוֹ — *śōnaʾăkā* |
+> | **Prov 25:21** | אִם־רָעֵב **שֹׂנַאֲךָ** הַאֲכִלֵהוּ לָחֶם — *śōnaʾăkā* |
+>
+> **Not merely the same root but the identical inflected form — participle plus 2ms suffix, שֹׂנַאֲךָ — at Exod 23:5 and Prov 25:21.** `[T]` And Exodus supplies *both* words in consecutive verses, so Proverbs is selecting from a pair the source itself lays side by side — and takes the one Exod 23:5 uses.
+>
+> *The form is not unique in the Hebrew Bible, so this remains a converging argument rather than a knock-down one: exact form + shared scenario (duty to the one who hates you) + selection from the source's own pair. **Upgraded from moderate–high to high on the data.** Intentionality stays `[I]` moderate–high.*
 
 *Source context.* Exodus 23:1–9 is the Covenant Code's block on judicial integrity: no false report, no joining a crowd to do evil, no partiality to a poor man in his lawsuit, no perverting the justice due to the needy, no false charge, no bribe, no oppressing the sojourner. **Set inside that block, at vv.4–5, are two positive duties toward a personal adversary** — return his straying ox, help him raise his fallen donkey. The placement is the point: the Covenant Code puts enemy-duty in the middle of courtroom law, because the man you meet in court is the man whose donkey you must help.
 
@@ -543,10 +575,32 @@ Not allusions *by* Proverbs, but the density is a finding in its own right and i
 - **Proverbs 25:6–7 → Luke 14:8–11** *(high)*. Jesus' parable at the wedding feast reproduces the counsel and its logic closely — do not take the place of honour; better to be told "come up here" — and then turns it eschatological: *"everyone who exalts himself will be humbled, and he who humbles himself will be exalted."* One of the clearest instances in the Gospels of Jesus teaching from Proverbs. Sustained from the sweep.
 - **Proverbs 25:21–22 → Romans 12:20** *(high)*. Direct quotation, in the Greek form; Paul pairs it with Deut 32:35 in the previous verse. **Category 3** under the triage.
 - **Proverbs 26:11 → 2 Peter 2:22** *(high)*. Quoted as a proverb, paired with a non-biblical saying about the washed sow.
-- **Proverbs 27:1 → James 4:13–14** *(moderate–high)*. "You do not know what tomorrow will bring" — James's merchant is Prov 27:1's boaster given a business plan.
-- **Proverbs 25:27 / 27:2 → 2 Corinthians 10:12, 18; 12:11** *(moderate)*. "Not that we dare to classify or compare ourselves… For it is not the one who commends himself who is approved, but the one whom the Lord commends." Paul's self-commendation argument runs on the same principle as the section's *hll* frame. Listed in the ESV apparatus and consistent with the frame I derived independently.
+- **Proverbs 25:21 → Matthew 5:44** *(moderate–high — added 20 August)* `[S: Logos, NT Use of the OT]`. **See the dedicated entry below; this is the section's most significant NT reception.**
+- **Proverbs 27:1 → James 4:13–14** *(moderate–high)*. "You do not know what tomorrow will bring" — James's merchant is Prov 27:1's boaster given a business plan. *The Logos index gives the reference as Jas 4:8; 4:13–14 is the verbal match and is what is followed here. Worth confirming which the tool lists.*
+- **Proverbs 27:20 → 1 John 2:16** *(moderate — added 20 August)* `[S: Logos]`. "Sheol and Abaddon are never satisfied, **and the eyes of man are never satisfied**" → "the lust of the flesh, **the lust of the eyes**, and the pride of life". John's middle term is Prov 27:20b, and John's triad sits in a passage about the world passing away — which answers the proverb's point that the appetite outlasts what feeds it. *A good pairing for preaching 27:20, and one this run did not find.*
+- ~~**Proverbs 25:27 / 27:2 → 2 Corinthians 10:12, 18; 12:11**~~ — **downgraded 20 August.** The Logos index does not list it, and there is a good reason to be cautious on the 25:27 leg: **the phrase the allusion depends on, "to seek one's own glory", sits in the line the ESV itself footnotes as uncertain.** An allusion resting on a disputed rendering is resting on the translator, not the text. **Withdraw the 25:27 leg.** *The 27:2 leg is a different matter — "let another praise you, and not your own mouth" against "it is not the one who commends himself who is approved, but the one whom the Lord commends" is a close conceptual match on a textually secure verse. Keep it as an unlisted resonance at* moderate–low*, and do not preach it as an allusion.*
 
-**Five NT uses in eighty-three verses, three of them quotations.** `[I]` *Moderate–high that this is the densest such stretch in the sentence collections* — I have not counted the rest of 10–29 for this run, so the superlative is flagged rather than asserted. Routed to Open Questions.
+**Six NT uses in eighty-three verses, three of them direct quotations.** `[S: Logos, NT Use of the OT]`
+
+> **⚠ The superlative is withdrawn, 20 August.** This report previously held it *moderate–high* that 25–27 is the densest NT-used stretch of the sentence collections. **That is not defensible and should not have been flagged as merely "open".** The index shows **61 entries for Proverbs as a whole**; six here in eighty-three verses is a good density, slightly above a flat book average — but chapters 1–9, and Proverbs 3 in particular (3:11–12 → Heb 12:5–6; 3:34 → Jas 4:6, 1 Pet 5:5; 3:7 → Rom 12:16), are heavily drawn on, and 11:31 → 1 Pet 4:18 and 10:12 → Jas 5:20, 1 Pet 4:8 sit outside this section. **The honest statement is the plain one: six NT uses in three chapters, three of them quotations. That is worth saying from the pulpit; "the most-quoted stretch" is not.** `[I]`
+
+---
+
+---
+
+**Proverbs 25:21 → Matthew 5:44, with Exodus 23:4–5 behind both** *(moderate–high; added 20 August)* `[S: Logos]` for the Matthew link; `[T]` for the Hebrew data
+
+**This is the strongest single-verse result in the section, and it only became visible when the Exodus anchor was confirmed.**
+
+*The chain.* Exodus 23:5 commands help for the donkey of **שֹׂנַאֲךָ**, "the one who hates you", inside the Covenant Code's block of courtroom law (23:1–9). Proverbs 25:21 takes **the identical form** and commands feeding him, inside a cluster about lawsuits and false witness (25:8–10, 18, 23). The New Testament then reaches back to that verse twice — **Paul quotes it** at Rom 12:20, and **Jesus alludes to it** at Matt 5:44.
+
+*Why the Matthew link matters more than it looks.* Matt 5:43 is the notorious one: *"You have heard that it was said, 'You shall love your neighbour **and hate your enemy**.'"* The second half is **nowhere in the Old Testament**. Leviticus 19:18 commands neighbour-love; nothing commands enemy-hatred.
+
+**Exodus 23:4–5 and Proverbs 25:21 are the texts that prove it isn't there** — the Torah requires you to raise the fallen beast of the man who hates you, and Proverbs requires you to feed him. So when Jesus says *"Love your enemies"*, he is **not correcting Moses; he is recovering him against a tradition that had added a clause.** `[I]` *Moderate–high.* And Paul, quoting the same verse in the same argument at Rom 12:19–21, is doing the same thing.
+
+*What it adds for the preacher.* It answers the question a thoughtful hearer actually asks — *where does the Old Testament ever say love your enemy?* — with two texts rather than an apology. And it means 25:21–22 should be preached not as an isolated flash of grace in a hard book but as **the wisdom literature's restatement of a Covenant Code duty, which Jesus and Paul both pick up.**
+
+*Confidence note.* The Matthew allusion is `[S]` from the Logos index, not derived here; the Exodus form-match is `[T]` and verified; the Romans quotation is beyond dispute. **The chain is as strong as its weakest link, which is Matt 5:44 — but Matthew's argument requires* some *OT text commanding kindness to an enemy, and these are the two candidates.**
 
 ---
 
@@ -660,7 +714,7 @@ One qualification worth stating, because it is where copycat error actually ente
 | **For me** | 26:12 is aimed at me, and 27:2 forbids the reflex by which I would deflect it. The question is not whether I can spot the fool but whether I can bear to be assayed by praise I did not solicit. |
 | **For a Christian friend** | 27:5–6 — open rebuke is better than hidden love, and a friend's wounds are faithful. This is the section's warrant for saying the hard thing, and 27:9 supplies the manner: counsel from the *nepeš*, out of genuine concern. |
 | **For the church** | 26:20–22 and 26:17. A congregation is destroyed by whisperers and by people who take up other people's quarrels, and the passage says so with unusual bluntness. Also 25:9 — take it to the person. |
-| **For an unbeliever** | 27:1 and 27:20. You do not know what tomorrow will bring, and the eye is never satisfied. That is not moralism; it is an accurate description of a life spent acquiring, and it is where James takes it (Jas 4:13–14). |
+| **For an unbeliever** | 27:1 and 27:20. You do not know what tomorrow will bring, and the eye is never satisfied. That is not moralism; it is an accurate description of a life spent acquiring — and it is where James takes 27:1 (Jas 4:13–14) and where John takes 27:20 (*"the lust of the eyes"*, 1 John 2:16, in a passage about the world passing away). |
 
 **Prayer in response.**
 
@@ -718,9 +772,10 @@ Under the Three-Way Triage, this section carries **category 2 only**. Category-1
 
 - **The issue:** whether the consonants are two words ("silver of dross") or one ("glaze," from a proposed cognate).
 - **Evidence:** the MT vocalises as two words. The ESV revocalises and footnotes the fact. `[S]` *Moderate.*
-- **Position:** the sense is close either way, so nothing doctrinal turns on it. **But there is a structural argument for the MT that appears to be unmade:** *sîgîm* occurs only twice in these three chapters, at 25:4 and here, with the word order reversed. On the MT reading, 26:23 inverts 25:4 — dross removed from silver / silver that is dross. On the revocalisation, the link vanishes. `[I]` *Moderate.*
+- **Ancient versions (checked 20 August):** **Vulgate** *argento sordido* and **LXX** ἀργύριον … ὄστρακον both attest a **two-word** reading; neither supports "glaze". `[S]` Peshitta not checked.
+- **Position:** the sense is close either way, so nothing doctrinal turns on it. **Retain the MT vocalisation.** Three independent supports converge: the two ancient versions above; the modern turn against the Ugaritic emendation (Zondervan Encyclopedia; TNIV restoring "silver dross"); and the structural argument, which appears to be unmade — *sîgîm* occurs only twice in these three chapters, at 25:4 and here, **with the word order reversed**, so that on the MT reading 26:23 inverts 25:4 (dross removed from silver / silver that is dross), and on the revocalisation the link vanishes. `[I]` *Moderate–high.*
 - **Preaching implication:** minimal for the verse itself; real if the preacher wants to run the refining thread across the section. Mention the footnote; don't build on it.
-- **Confidence:** *moderate — consider verifying* (BHS apparatus, NET notes).
+- **Confidence:** *moderate–high*, upgraded 20 August on the ancient-version evidence.
 
 **27:13 — *nokrîyâ* or plural "foreigners"?**
 
@@ -949,7 +1004,9 @@ The full list of places where multiple tools agreed:
 
 - **26:1–16 is one unit, not two** — Repetition (the *bəʿênāyw* triad at 5, 12, 16), Structure (the verbatim colon chain), Who Am I (v.12 and v.16 do the same work on the reader). This **revises the sweep**, which split 26:1–12 from 26:13–16, and independently matches Van Leeuwen.
 
-- **The refining thread** — Vocabulary (√*ṣrp* ×2, *sîgîm* ×2, *kesep* ×4), Repetition, Move 4, Translations (the 26:23 revocalisation is what would break it). **Four tools.**
+- **The refining thread** — Vocabulary (√*ṣrp* ×2, *sîgîm* ×2, *kesep* ×4), Repetition, Move 4, Translations (the 26:23 revocalisation is what would break it, and the ancient versions have since been checked and do not support it). **Four tools.** *The inclusio claim was queried on 20 August and is unattested; held at `[I]` moderate.*
+
+- **25:21–22 as the Covenant Code's enemy-duty, relocated** — Vocabulary (*śōnaʾăkā*, the identical form at Exod 23:5), Quotation/Allusion (full triad, plus Rom 12:20 quoting and Matt 5:44 alluding), Structure (its cluster is about lawsuits and false witness, matching Exod 23:1–9), So What. **Four tools, and the only finding here that both the Hebrew and the New Testament confirm independently.**
 
 - **Honour cannot be self-conferred** — Vocabulary (the Leitwort), Tool 16, Original Audience (the FCF), Christological Reading (the moralism check), Difficult Verses. **Five tools**, and it is the section's substantive theological claim.
 
@@ -1013,15 +1070,19 @@ The full list of places where multiple tools agreed:
 
 ## Open Questions / Uncertainties
 
-1. **The √*ṣrp* inclusio (25:4 ∥ 27:21).** The lexical data are secure and countable; the claim that it functions as a section-level inclusio is my own inference and appears in neither Ansberry nor this project's earlier documents. **Van Leeuwen's *Context and Meaning in Proverbs 25–27* is the monograph on these chapters and is where it would appear if anywhere.** Worth one query.
+1. **The √*ṣrp* inclusio (25:4 ∥ 27:21) — ⚠ queried 20 August; not attested, and one thing to resolve.** No source treats 25:4 and 27:21 as a frame. **But the search returned something adjacent and more important:** Fox (AB 18b:775–776) reports that **Van Leeuwen identifies an intricate design in this material delimited by an inclusio** — and the report of it names *"25:2b and 27:27b"*.
+   - **If that is a slip for 25:27b** (likely: the unit is described as "Proverbs 25:2–27", and Ansberry independently gives 25:2–27 as a unit closing at 25:27), then **Van Leeuwen has independently the very inclusio this report derived from *ḥēqer* + *kābēd*** — and it upgrades from `[I]` to `[S: Van Leeuwen, via Fox]`.
+   - **If 27:27b is meant**, Van Leeuwen proposes a *section-wide* inclusio at 25:2b ∥ 27:27b, which would be a genuine rival to the 25:4 ∥ 27:21 proposal and would need engaging.
+   - **I have deliberately not resolved this myself** — guessing which reading is meant is precisely the move that produced error 19. **Fox pp. 775–776 would settle it in a minute.**
+   - Meanwhile the 25:4 ∥ 27:21 claim stays `[I]` *moderate* and should be preached as a suggestion.
 
-2. **26:23 — does the structural argument for the MT vocalisation exist in print?** *sîgîm* occurs only at 25:4 and 26:23, in reversed order. If the link is deliberate, it is an argument against the "glaze" revocalisation that I have not seen made. Also worth checking what the LXX, Vulgate and Peshitta read here — I could not establish this with confidence.
+2. **26:23 — ✅ CLOSED 20 August.** The ancient versions were checked: **Vulgate** *argento sordido* and **LXX** ἀργύριον … ὄστρακον both read two words; neither supports "glaze". Modern scholarship has independently turned against the Ugaritic emendation (Zondervan Encyclopedia; TNIV restoring "silver dross"). The structural argument from the reversed word order remains unattested and appears to be mine, but it now reaches the same verdict as two ancient translators. **Retain the MT; treat the ESV footnote as a conjecture.** *Peshitta still unchecked — a loose end, not a live question.*
 
-3. **The Exodus 23:5 anchor at 25:21.** I did not have Exodus in hand. The claim is that Exod 23:5 reads *śōnaʾăkā* (the participle "the one who hates you") while Exod 23:4 reads *ʾōyibkā*, and that Prov 25:21 takes the rarer of the two. **A concordance check would settle it in a minute**, and the whole Move-1 reading of 25:21–22 rests on it.
+3. **The Exodus 23:5 anchor at 25:21 — ✅ CLOSED 20 August, and better than claimed.** Exod 23:4 reads *ʾōyibkā*; Exod 23:5 and Prov 25:21 both read **שֹׂנַאֲךָ**, the identical inflected form. Proverbs selects from a pair Exodus lays side by side. The Move-1 reading stands and the allusion is upgraded to *high* on the data. See Tool 11.
 
-4. **Setumot.** The supplied Hebrew carries *petuchah* (פ) markers only. If the source also transmits *setumah* (ס) markers, they are not in the export, and my paragraph map is therefore of *petuchot* only and may be incomplete. **This affects Headline Finding 2 directly** — a *setumah* at 27:27 would change the picture. Worth verifying against BHS or a facsimile.
+4. **Setumot — ✅ CLOSED 20 August.** BHS carries **no *setumah* markers in Proverbs 27–28**. The *petuchah* map is complete across the stretch the finding rests on, and Headline Finding 2 is secure. *Chapters 25–26 were not separately checked; that would bear on the fine-grained cluster map, not on the boundary claim.*
 
-5. **Is 25–27 really the NT's most-quoted stretch of the sentence collections?** Five uses in eighty-three verses, three of them quotations. I have not counted the rest of 10–29, so the superlative is flagged rather than asserted.
+5. **The NT-density question — ✅ CLOSED 20 August, and the superlative is withdrawn.** The Logos *NT Use of the OT* index gives **six** entries for Proverbs 25–27 and **61** for the book. Six in eighty-three verses is a good density; it is not evidence of a maximum, and Proverbs 3 alone supplies several NT quotations. **Claim the six, drop the superlative.** The query also added two links this run missed (25:21 → Matt 5:44; 27:20 → 1 John 2:16) and withdrew one it had over-claimed (25:27 → 2 Cor 10) — see Tool 11.
 
 6. **The antithesis count for 28–29 in Hebrew.** This run supplies a Hebrew-based count for 25–27 (six of eighty-two) on a stated classification scheme. The 28–29 figure (thirty-three of fifty-five) remains an ESV proxy. **The two are not strictly commensurable**, and a Hebrew recount of 28–29 on the same scheme would complete the comparison and close worklist item 2 fully.
 
@@ -1094,6 +1155,8 @@ The assessment's wider conclusion — that chapter 27 is transitional — surviv
 
 **Secondary sources present in context:** `book-overview-proverbs` (v1.1); `dig-deeper-proverbs-sweep` (Passage 14 and Book-Level Foundations); `proverbs-collections-assessment`; `dig-deeper-proverbs-28-1to29-27` (neighbouring report); `heim-cluster-map` (criteria only — Heim stops at 22:16); Ansberry, *Be Wise, My Son*, ch. 5 (reading edition); Van Leeuwen's division as reported in the collections assessment; the ESV cross-reference apparatus, visible in the supplied text.
 
+**Added at the second checking pass, 20 August:** the Hebrew of Exod 23:4–5 (supplied); BHS on *setumot* in Proverbs 27–28; the LXX, Vulgate and JPS 1917 at Prov 26:23; the *Zondervan Encyclopedia of the Bible* on the Ugaritic emendation; Fox, AB 18b:775–776, reporting Van Leeuwen's design; the Logos *NT Use of the OT* index. **All findings that changed are marked ✅ or ⚠ in place.**
+
 **Tools worked before secondary sources consulted:** **Confirmed.** The Hebrew was analysed programmatically first. The four *petuchot*, the 25:2 ∥ 25:27 inclusio, the *hăgô* anaphora, the *lipnê-melek* link, the *ʾîš … šāqer* frame, the three verbatim cola in ch. 26, the *bəʿênāyw* triad, the √*hll* and *ʾĕwîl* frames of ch. 27, the √*ṣrp* / *sîgîm* thread, the *kābēd* Leitwort, the *mədônîm* census, the √*ydʿ* pair, the marked/unmarked comparison counts and the antithesis classification were **all derived from the text before Ansberry, the sweep, the assessment or the 28–29 report were opened.**
 
 **Two exceptions, declared:**
@@ -1111,7 +1174,7 @@ The assessment's wider conclusion — that chapter 27 is transitional — surviv
 
 **Pre-output audit:** (a) triad applied to the three significant allusions ✔ · (b) both N/As reasoned (Tool 6, Schnittjer) ✔ · (c) confidence flags on all lexical/manuscript/intertextual claims ✔ · (d) `[S]` findings checked at Phase 5.5 ✔ · (e) ancient-versions check ran at 25:21–22 ✔ · (e1) every Hebrew/Greek divergence triaged — category 1 (unmarked juxtaposition; *kābēd*; *śōnaʾăkā* → ἐχθρός), category 2 (26:23; 27:13), category 3 (Rom 12:20) ✔; every count stated in the Hebrew ✔ · (e2) proper-noun inventory ran (three names in 83 verses); load-the-story rule honoured by *declining* to make Hezekiah load-bearing; no absence-argument made ✔ · (f) depth floors met ✔ · (g) sits beside the Psalm 33 worked example ✔ · (h) all mandatory files viewed ✔ · (i) no `[T]` on authorship/date/setting claims — 25:1's attributions tagged `[T]` as *stated attributions* and the historical reconstruction behind them tagged `[S]`, explicitly split at Tool 14 ✔.
 
-**Warrant counts:** `[T]` 47 · `[I]` 26 · `[S]` 14
+**Warrant counts:** `[T]` 48 · `[I]` 26 · `[S]` 20 *(revised 20 August: the checking-stage answers added `[S]` tags on the ancient versions at 26:23, the BHS setumot check, the Logos NT-use index, and Fox on Van Leeuwen; `[T]` gained the verified Exodus 23:4–5 forms.)*
 
 **Health note.** The report is strongly text-dominant, as the counts show, and every load-bearing finding — the Leitwort, the boundary at 27:22/23, the marked/unmarked comparison split, the withheld divine name, the refining thread — was read off the Hebrew before any source was opened. The `[S]` tags sit where they belong: on Ansberry's readings, the revocalisation proposals, Van Leeuwen's divisions, and the ancient-versions work. **The most valuable output of this run is not a new reading of a verse but two corrections to the project's own prior documents** — the ESV-artefact simile count, and the conflation that produced an unfair correction of Ansberry. A checking stage that only confirms is not doing its job.
 

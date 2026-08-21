@@ -152,7 +152,56 @@ The connectors that do carry weight:
 
 ### 5. Parallels
 
-Overwhelmingly **antithetical** — this is the unit's formal signature and the reason it reads as a return to chapters 10–15. Three pairs where the parallelism does interpretive work:
+Overwhelmingly **antithetical** — this is the unit's formal signature and the reason it reads as a return to chapters 10–15.
+
+#### The census, counted from the Hebrew — added 20 August
+
+The Solomon 2A run classified all eighty-two sayings of 25:1–27:27 from the Hebrew on a stated scheme. **The same scheme has now been applied to all fifty-five sayings here**, which makes the two halves of the second Solomonic collection directly comparable for the first time. `[T]`
+
+Categories: **ANT** antithetical · **CMP** comparative (image + referent) · **BET** "better-than" or *min*-comparative · **SYN** synonymous · **SYNTH** synthetic/progressive, including motive clauses · **ADM** admonition.
+
+| | ANT | CMP | BET | SYN | SYNTH | ADM | total |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| ch. 28 | 18 | 2 | 2 | 0 | 5 | 1 | 28 |
+| ch. 29 | 15 | 1 | 1 | 1 | 8 | 1 | 27 |
+| **total** | **33** | **3** | **3** | **1** | **13** | **2** | **55** |
+
+**Antithetical: thirty-three of fifty-five — 60.0%.**
+
+> 28:1, 2, 4, 5, 7, 10, 11, 12, 13, 14, 16, 18, 19, 20, 25, 26, 27, 28 · 29:2, 3, 4, 6, 7, 8, 10, 11, 15, 16, 18, 23, 25, 26, 27
+
+**Borderline cases, listed so the figure can be adjusted rather than merely trusted:**
+
+- **29:10** is the count's most uncertain member. *"Men of blood hate the blameless, and the upright seek his life"* is **formally** antithetical — two opposed parties in parallel slots — and is counted as such. But if Waltke is right that the bloodthirsty are the subject of the second verb (see Tool 8), the verse is not antithetical at all. **Subtract one on that reading: 32.**
+- **28:8** (the hoarder who gathers for the generous) is classified synthetic — one subject with an ironic outcome. On a looser scheme it is antithetical by irony. **Add one: 34.**
+- **29:13** (the poor man and the oppressor meet) has two opposed parties but makes a point about their *unity* under YHWH. A mechanical party-pair count would take it. **Add one: 35.**
+- **28:21** is classified synthetic — *"partiality is not good, and for a scrap of bread a man will transgress"* extends rather than opposes. **The ESV supplies "but" here**, which is why the English proxy counted it.
+- **29:22** has two parallel subject-phrases but says the same thing twice: synonymous, not antithetical.
+- **29:7** is asyndetic — no *wāw* — but the opposition is unmistakable, so it is counted. The ESV has no "but" and the English proxy missed it.
+
+**Defensible range: 32–35, with 33 central.**
+
+#### The two methods converge exactly
+
+The collections assessment's ESV "but"-count returned **33** for these chapters (19 + 14). The Hebrew classification returns **33** (18 + 15). The per-chapter split differs by one in each direction — the English gains 28:21 and loses 29:7 — and the two discrepancies cancel. `[T]` **An English proxy and a Hebrew classification, built on different principles, land on the same total.**
+
+#### What this settles
+
+| | 25:1–27:27 | 28:1–29:27 |
+|---|---:|---:|
+| Sayings | 82 | 55 |
+| **Antithetical** | **6 (5–7)** | **33 (32–35)** |
+| **as %** | **7.3%** | **60.0%** |
+| Comparative (CMP + BET) | 39 | 6 |
+| **as %** | **47.6%** | **10.9%** |
+
+**A ratio of about 8.2 : 1 on antithesis, and about 4.4 : 1 the other way on comparison** — and the ratio holds across the whole plausible range (6.8 : 1 at its most conservative, 10.4 : 1 at its most generous).
+
+**This closes the one question in the project that nobody had answered in print.** Four witnesses described the direction — Steinmann ("very little antithetical parallelism" in 25–27), Hayes (antithetical sayings "predominate in 28–29"), Morris ("in 28–29 the antithetic distich prevails"), Fox ("Va has few antithetical couplets; Vb has several") — and none gave a magnitude. The magnitude is now measured from the Hebrew, on one scheme, applied to both halves, with the borderline cases exposed. See `proverbs-question-record` §7.2 and `proverbs-collections-assessment` §Seam B.
+
+---
+
+Three pairs where the parallelism does interpretive work:
 
 **28:1 — the antithesis that defines the unit's key word**
 > The wicked flee when no one pursues,
@@ -187,6 +236,14 @@ A mirrored chiasm: *tôʿăbat ṣaddîqîm* … *tôʿăbat rāšāʿ*. The uni
 **(a) Big Bible words**
 
 ***Tôrâ*** (28:4 ×2, 7, 9; 29:18) — **five occurrences, all absolute, all in these two chapters, and none elsewhere in Proverbs 10–29.** `[T]` *High; verified by concordance.* Elsewhere in the book *tôrâ* is bound or suffixed — "your mother's *tôrâ*" (1:8), "the *tôrâ* of the wise" (13:14), "the *tôrâ* of kindness" (31:26) — with one absolute use in the frame at 6:23. The absolute form here points to Israel's constitutional law rather than parental instruction. `[S]` *High.*
+
+> **✅ Corroborated and extended, 20 August.** Two commentators state the semantic shift this report derived from the morphology, and a third bears on the dating question. `[S]`
+>
+> - **Pauw** (Belief, 121): "The word *tôrâ* appears earlier in Proverbs in connection with parental teaching, but in chapters **28–29** it refers primarily to God's teaching and law." **A clean independent confirmation** — she names the same two chapters and the same shift, from the sense rather than from the form.
+> - **Van Leeuwen** (NIB 5:234): *tôrâ* "encompasses all of God's instruction, grounded in creation and discovered in history, with parallels in the **Torah piety of the Psalms**." *This widens the frame usefully: the closest canonical neighbour for what these chapters are doing is Ps 1, 19, 119 — Torah-piety in the Writings — rather than a legal code.* `[S]` *Moderate–high, and worth carrying into any sermon on 29:18.*
+> - **On dating — and it cuts against the worry.** **Morris** (1942, 1:377): "the meaning given to *tôrāh* accords better with a **pre-exilic** than a post-exilic date." So at least one commentator reads the Torah language as evidence for an *earlier* date. See the note under Open Questions.
+>
+> **None of this disturbs the finding.** The distribution is a fact of the Hebrew whatever the date, and the frame at 28:4 ∥ 29:18 stands on the morphology.
 
 ***Bāṭaḥ*** (28:1, 25, 26; 29:25) — "trust, be confident". See Headline 5. The ESV, NASB and KJV all render 28:1 with "bold", which is defensible for the sense but severs the link to the three later occurrences. **This is a translation-loss item** (category 1 — see Tool 8).
 
