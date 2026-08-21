@@ -67,7 +67,11 @@ Tracking the passage's own shape: superscription · purpose-chain · interruptio
 
 **Isaiah 11:2–3** on the coming king: *"the Spirit of **wisdom and understanding**… the Spirit of **knowledge and the fear of the LORD**. And his delight shall be in **the fear of the LORD**."*
 
-**That single oracle names all four of the preamble's key terms** — *ḥokmâ* and *bînâ* from v.2, *daʿat* and *yirʾat YHWH* from v.7 — **and rests them on a king.** `[T]` It is the strongest Christological link available in this passage and it is far better than a general appeal to 1 Cor 1:30, because it is built from the passage's *own* vocabulary rather than laid over it.
+**That single oracle names all four of the preamble's key terms** — *ḥokmâ* and *bînâ* from v.2, *daʿat* and *yirʾat YHWH* from v.7 — **and rests them on a king.** `[T]` It is the strongest Christological link available in this passage, and better than a general appeal to 1 Cor 1:30 because it is built from the passage's *own* vocabulary rather than laid over it.
+
+> **✅ Sourced 21 August — this was version 1's largest unverified claim, and it holds.** **Goldingay** on Isa 11: these attributes "have been referred to as belonging to God and/or as mis-claimed by human beings. **Now they become real in a human figure**… **this is the feature that explicitly distinguishes true wisdom from wisdom that leaves God out of account (see Prov. 1:7).**" **Barry**: "Wisdom, understanding, knowledge, and fear of Yahweh were key components of righteous living (**see Prov 1:7**; 2:5)." `[S]` ×2. **Upgraded to *moderate–high*.**
+>
+> **Two things Goldingay adds.** The fear of the LORD is **doubled** in Isa 11:2–3 — once in the list, then again in *"his delight shall be in the fear of the LORD"* — and the repetition is emphatic. And Isaiah has been tracking **misdirected fear** since chapter 7 (7:4; 8:12–13; 10:24), so **the king's delight in the fear of the LORD is Isaiah's answer to a nation afraid of the wrong things.** *That is a sermon sentence.*
 
 **The move to make:** v.1 gives you a wise king whose wisdom did not hold. v.7 gives you the condition he failed. **Isaiah 11 promises a king on whom all four terms rest and whose delight is in the very thing Solomon lost** — and Matthew 12:42 says he has come. *Solomon is the book's signature and its cautionary case. He is not its hero.*
 
@@ -79,7 +83,7 @@ Tracking the passage's own shape: superscription · purpose-chain · interruptio
 A sermon on *"the fear of the LORD is the beginning of knowledge"* that never quotes the second half. **The verse is an antithesis, and the second colon supplies the content of the first.** It is also the *conclusion* of a six-verse purpose statement, so the "knowledge" is not knowledge in general but the specific programme of vv.2–6 — including the ability to read a riddle. **Preach both cola, and preach v.7 last, where the passage puts it.**
 
 **2 · "The beginning" as the elementary stage.**
-*"Start here, then move on to the deeper things."* ***Rēʾšît*** carries both the temporal sense and the sense of **chief part** (Num 18:12; Amos 6:6), and nothing in the verse suggests a stage to be outgrown. The book refutes it structurally: the same phrase returns at the hinge (9:10) and lands in the final line of praise (31:30). **Foundation and summit.** *If the growth question comes up, note that 9:10 uses a different, unambiguously temporal noun — the book distinguishes the two ideas rather than confusing them.*
+*"Start here, then move on to the deeper things."* ***Rēʾšît*** carries both the temporal sense and the sense of **chief part** (Num 18:12; Amos 6:6), and nothing in the verse suggests a stage to be outgrown. The book refutes it structurally: the same phrase returns at the hinge (9:10) and lands in the final line of praise (31:30). **Foundation and summit.** *If the growth question comes up, note that 9:10 uses a different, unambiguously temporal noun — the book distinguishes the two ideas rather than confusing them.* **✅ Confirmed against BHS, 21 August:** 1:7 reads **רֵאשִׁית**, 9:10 reads **תְּחִלַּת**. The two nouns genuinely differ, so this is a real distinction and not stylistic variation — **1:7 says something 9:10 does not.** `[T]`
 
 **3 · Skipping v.6, and so skipping the genre.**
 A series that goes from *"this book gives you wisdom"* straight to a topical sweep of money, sex and speech, without ever teaching how a proverb works. **A congregation not taught to read a *māšāl* will read every proverb as either a promise or a rule, and both misreadings do pastoral damage** — 22:6 preached as a guarantee, 13:24 preached as a method. **Movement 3 is where the whole series is protected. Do not cut it for time.**
@@ -87,8 +91,18 @@ A series that goes from *"this book gives you wisdom"* straight to a topical swe
 **4 · Preaching from the sage's chair.**
 The preacher as the wise man of v.5, dispensing to the simple. The tell is an application entirely about other people's gullibility. **Verse 4 names the target audience, and the preacher is in it.**
 
-**5 · A discipline the project imposed on itself, and it applies exactly here.**
-The observation that *mĕzimmâ* (v.4) is elsewhere **"evil devices"** (12:2; 14:17; 24:8), and that *ʿormâ* shares its root with the **serpent** of Gen 3:1, is genuinely striking — the book proposes to hand the naïve the two capacities that, misused, define the predator. **The distribution is textual and secure `[T]`. The claim that this is deliberate design is unsourced — no commentator makes it, not even Fox.** The project's own ruling stands: ***keep it as a suggestion; do not preach it as design.*** Say *"it is at least worth noticing that…"*, not *"the author deliberately…"*.
+**5 · ⚠ REVISED 21 AUGUST — the restriction here was too broad, and half of it is lifted.**
+
+Version 1 said the whole of this observation was unsourced and must not be preached as design. **The Logos pass shows that is true of only one half of it.** Keep the two apart:
+
+| Claim | Status | Use |
+|---|---|---|
+| ***ʿormâ*** (v.4) shares its root with ***ʿārûm***, the serpent of Gen 3:1 — **and Proverbs offers the quality to the naïve as a good** | **Sourced.** Barnes: the teacher offers a subtilty that "may turn to evil… and **become as the wisdom of the serpent (Gen. 3:1)**, but which also takes its place… **among the highest moral gifts (Matt. 10:16)**." NET: "**they need to be wise as serpents.**" `[S]` | **Preach it.** |
+| ***mĕzimmâ*** is positive throughout the frame (1:4; 2:11; 3:21; 5:2; 8:12) and negative throughout the sentence collections (12:2; 14:17; 24:8), **by design** | Distribution `[T]`; **design claim still unsourced — no commentator, not even Fox** | **Suggestion only.** *"It is at least worth noticing…"*, never *"the author deliberately…"* |
+
+**And Barnes hands the sermon its New Testament authorisation: Matthew 10:16** — *"be wise as serpents and innocent as doves."* **Christ commands the serpent's quality, paired with a dove's innocence.** That is a better landing for movement 2 than an observation about roots, and it removes any need to lean on the *mĕzimmâ* design claim at all.
+
+*One precision from Stabnow worth having:* ***ʿormâ*** **and its adjective are always positive inside Proverbs** (12:16, 23; 13:16; 14:8, 15, 18; 15:5; 22:3; 27:12) and usually negative elsewhere. **The book has domesticated the word. Genesis 3 is where it was wild.**
 
 ---
 

@@ -1,6 +1,6 @@
 # Point & Purpose: Proverbs 2
 
-**Sermon 3 of 9** — *If you seek it like silver: the agenda* · **Translation:** ESV (Anglicised) · **Date:** 21 August 2026
+**Sermon 3 of 9** — *If you seek it like silver: the agenda* · **Version 2, revised 21 August** after the Logos research pass (see `proverbs-logos-research-audit-21-august`) · **Translation:** ESV (Anglicised) · **Date:** 21 August 2026
 **Exegesis consumed:** `dig-deeper-proverbs-2` (full solo run) · `dig-deeper-proverbs-1-8to9-18` · `proverbs-dig-deeper-macro-synthesis` · `book-overview-proverbs` v1.2 · `proverbs-question-record`
 
 ---
@@ -56,12 +56,20 @@
 
 **The chapter's syntax is the sermon's structure.** Three conditions → *then* → **for** → *then* → two rescues → *so that*. Preaching the grammar is not a technical indulgence here; it is the only way to keep the sermon off the five-step-method reef.
 
+> **⚠ Revised 21 August.** Version 1 ran the movements **1–4 · 5–8 · 9–19 · 20–22**. The Logos pass supplies a structural feature the report did not have, and it corrects the third movement.
+>
+> **The chapter has twenty-two verses — the number of letters in the Hebrew alphabet — and its strophes open on two of them.** Stanzas at **2:1–4, 5–8, 9–11 begin with *ʾālep***, the first letter; stanzas at **2:12–15, 16–19, 20–22 begin with *lāmed***, the middle (twelfth). Skehan's strophic symmetry is **4 · 4 · 3 ‖ 4 · 4 · 3**. `[S: Horne, Treier, Schipper, Skehan]`
+>
+> ***Not* a true acrostic** — Longman: the two-letter pattern "makes it unlikely that a Hebrew acrostic structure was intended"; Schipper: "reminiscent of an acrostic… there is no alphabetic sequence." **Say "built on the alphabet's first and middle letters", not "an acrostic".**
+>
+> **Movements 1, 2 and 4 already matched the strophes. Movement 3 lumped three of them together and is now split**, which puts the sermon's hinge at **2:11/2:12** — the *ʾālep*-half to *lāmed*-half turn, and the point where the chapter stops saying *what you will understand* and starts saying *what you will be delivered from*.
+
 | Movement | Text | Function |
 |---|---|---|
-| **1. If** | **vv.1–4** | Three conditions, escalating: **receive** what is given (v.1) · **call out** for what you lack (v.3) · **dig** for what you want (v.4). Six effortful verbs — *receive, treasure up, incline, call out, raise your voice, seek, search*. **Land on the middle one.** Instruction literature does not usually tell the pupil to *shout for help*; this one does, and it is the term we drop. *Surfaces the FCF.* |
-| **2. Then — and *for*** | **vv.5–8** | **The sermon's centre, and it is one word.** *"**Then** you will understand the fear of the LORD"* (v.5) — and then the ground: *"**for** the LORD gives wisdom; from his mouth come knowledge and understanding"* (v.6). **The conditions are strenuous *because* he gives, not in order to make him give.** Note v.7's verb: he ***stores up*** (*yiṣpōn*) — the same root the son is told to use in v.1, ***treasure up*** (*tiṣpōn*). **The son hides the words; God hides the wisdom; and the promise is that the second is found by doing the first.** *Establishes the TP.* |
-| **3. Then, again — and what it is for** | **vv.9–19** | The **second** "then you will understand" (v.9): *righteousness and justice and equity* — **verbatim what 1:3b said the book was for.** The order is deliberate and it is vertical before horizontal: knowing God, then knowing what is right. Then the two rescues, both opened by the identical infinitive *lĕhaṣṣîlĕkā*, "**to deliver you**" (vv.12, 16) — **and both are from *persons*, not abstractions.** *Name them and hand them forward to chapters 3–7.* |
-| **4. So that** | **vv.20–22** | The land. **Preach it as covenant sanction, not as a promise of a settled life** — these are Deuteronomy's terms, and the canon records the land being lost. Then follow the canon's own reframing: **Matt 5:5** takes up Psalm 37's identical formula and universalises it; **Heb 11:16** relocates the country. *Presses the PS.* |
+| **1. If** | **vv.1–4** *(ʾālep)* | Three conditions, escalating: **receive** what is given (v.1) · **call out** for what you lack (v.3) · **dig** for what you want (v.4). Six effortful verbs — *receive, treasure up, incline, call out, raise your voice, seek, search*. **Land on the middle one.** Instruction literature does not usually tell the pupil to *shout for help*; this one does, and it is the term we drop. *Surfaces the FCF.* |
+| **2. Then — and *for*** | **vv.5–8** *(ʾālep)* | **The sermon's centre, and it is one word.** *"**Then** you will understand the fear of the LORD"* (v.5) — then the ground: *"**for** the LORD gives wisdom; from his mouth come knowledge and understanding"* (v.6). **The conditions are strenuous *because* he gives, not in order to make him give.** Note v.7's verb: he ***stores up*** (*yiṣpōn*) — the same root the son is told to use in v.1, ***treasure up*** (*tiṣpōn*). **The son hides the words; God hides the wisdom; and the promise is that the second is found by doing the first.** *And v.8 carries the book's only occurrence of **ḥāsîd*** — *"the way of his **saints**"*, and it is **plural**, so the promise is corporate. *Establishes the TP.* |
+| **3. Then, again — and what it is for** | **vv.9–11** *(ʾālep)* | The **second** *"then you will understand"* (v.9): ***righteousness and justice and equity*** — **verbatim what 1:3b said the book was for, two sermons ago.** Make the join audible. The order is deliberate and it is **vertical before horizontal**: knowing God (v.5), then knowing what is right (v.9). *The shortest movement; do not pad it.* |
+| **4. Delivered — and settled** | **vv.12–22** *(lāmed ×3)* | **The turn of the chapter, and it falls where the letter changes.** Two rescues, both opened by the identical infinitive *lĕhaṣṣîlĕkā*, "**to deliver you**" (vv.12, 16) — **and both are from *persons*, not abstractions.** *Name them and hand them forward to chapters 3–7; do not preach them.* Then vv.20–22, the land: **covenant sanction, not a promise of a settled life** — these are Deuteronomy's terms and the canon records the land being lost. Follow the canon's own reframing: **Matt 5:5** takes up Psalm 37's identical formula and universalises it; **Heb 11:16** relocates the country. *Presses the PS.* |
 
 ### The Christ-landing
 
@@ -69,14 +77,26 @@
 
 **The join is exact and it is worth making slowly.** Verse 7 says wisdom is *stored up for **the upright***. **The gospel is that it was given to people who were not upright** — which is why Paul cannot say "wisdom" without immediately saying "and righteousness." **The chapter's own condition is met for us before we meet it.** And Colossians 2:3 puts *all* the treasures of wisdom and knowledge in one place, which is where v.4's digging was always headed.
 
+**And Colossians 2:3 is not a secondary note — it is a second landing, and three commentators make it.** `[S]` **Beale**: *"in 2:2–3 Paul **weds Dn 2 and Pr 2**,"* quoting Prov 2:3–6 in full — and noting that **two Greek versions (Symmachus, Theodotion) read "hidden things" instead of "treasure"** at 2:4, which tightens the link to Col 2:3's *apokryphoi*. **Wright**: Christ "sums up in himself all that the Jews predicated of 'Wisdom' (cf. **Prov. 2:1–8**, whose LXX translation is echoed several times in our present passage)." **Dunn**: the imagery "evokes Jewish wisdom tradition (**Prov. 2:3–6**…)."
+
+**So v.4's digging for hidden treasure has a canonical destination, and the New Testament names it:** *"in whom are hidden all the treasures of wisdom and knowledge."* **The search of vv.1–4 is not called off; it is given an address.**
+
+*Worth knowing but held as inference:* the *wisdom–understanding–knowledge* triad is **Spirit-given craftsmanship** language elsewhere — Bezalel is *"filled with the Spirit of God in wisdom, in understanding, in knowledge"* (Exod 31:1–3), Hiram likewise (1 Kgs 7:14), and Paul prays for *"a spirit of wisdom and of revelation in the knowledge of him"* (Eph 1:17). `[I]` *Moderate; no commentator makes this catena, and it connects outward to the contested *ʾāmôn* of Prov 8:30. Use as resonance, not as demonstrated allusion.*
+
 *Secondary, and useful if the effort/gift tension troubles anyone:* **Philippians 2:12–13 has the identical shape** — *work out… **for** it is God who works in you.* Same conjunction, same logic. Read it alongside v.6 and the difficulty dissolves.
 
 ---
 
 ## Keep honest
 
-**1 · The five-step method sermon.**
+**1 · The five-step method sermon — and the grammar is more load-bearing than version 1 realised.**
 vv.1–4 turned into a programme, with v.6 as an encouraging aside. **Verse 6 is a *kî*-clause grounding everything before it**, and there is **not one imperative addressed to the son in twenty-two verses**. *Preach the grammar.*
+
+> **✅ Tested and held, 21 August — against a source that said otherwise.** A Logos return stated that vv.2–4 *"contain direct commands ('Make,' 'Incline,' 'Lift,' 'seek,' 'search')"* and that *"the son is directly commanded."* **Those are the NASB's English imperatives, not Hebrew ones.** From the BHS of 2:1: *bənî ʾim-**tiqqaḥ** ʾămārāy ûmiṣwōtay **tiṣpōn** ʾittāk* — **both verbs carry the *taw* prefix, which makes them second-person imperfects.** The imperatives would be **qaḥ** and **ṣəpōn**, without it. `[T]` The same holds through vv.2–4 (*taṭṭeh, tiqrāʾ, tittēn, təbaqšennâ, taḥpəśennâ*), all prefixed and all governed by *ʾim*. *Moderate–high — 2:1 is verifiable from the text; vv.2–4 read from the forms.*
+>
+> **English versions render a Hebrew conditional imperfect as an imperative because that is how English says it** — *"if you make your ear attentive"* is clumsy, *"make your ear attentive"* is not. **The translation is right; a grammatical claim drawn from it is not.**
+>
+> **And the gap is itself worth a sentence in the sermon**, because it is exactly how the five-step misreading gets in: **an ancient reader heard conditions where a modern reader hears commands.**
 
 **2 · Quoting verse 6 alone.**
 *"For the LORD gives wisdom"* as a stand-alone assurance, usually in an opening prayer. **It is not a stand-alone sentence.** Detached from the conditional it grounds, it becomes a remark about divine generosity in general instead of the specific promise that ***this*** search will succeed. **Never quote v.6 without vv.1–5.**
@@ -93,7 +113,10 @@ That the upright can expect a settled and secure life. **These are covenant sanc
 **6 · The "forbidden woman" of v.16 mis-identified.**
 The ESV's rendering and the older "strange woman" both invite the idea that her problem is **foreignness**. It is not. The scholarly consensus is that ***ʾiššâ zārâ*** means **estranged from the covenant community, not from the nation** — Waltke's "unchaste wife", "an outsider" who "remains at heart a prostitute"; the term marks someone *outside the circle of a man's proper relations*. `[S]` **Preaching her as a foreigner imports an ethnic note the text does not carry**, and it will jar in a mixed congregation.
 
-**7 · A translation note that costs a structural point.**
+**7 · Do not call Proverbs 2 an acrostic.**
+The twenty-two verses and the *ʾālep*/*lāmed* strophe-openings are real and are regarded as deliberate `[S]` — but **Longman holds that the two-letter pattern "makes it unlikely that a Hebrew acrostic structure was intended,"** and Schipper calls it only *"reminiscent of an acrostic."* **Say "built on the alphabet's first and middle letters."** *If you want the acrostic proper, it is 31:10–31 — sermon 9 — and the two are worth setting side by side then rather than now.*
+
+**8 · A translation note that costs a structural point.**
 **The ESV obscures the *lĕhaṣṣîlĕkā* parallel at vv.12 and 16 that the NASB and KJV keep.** The two rescues open with the identical Hebrew infinitive, and that identity is what makes them a matched pair and the chapter's programme. **If preaching from the ESV, say the Hebrew repeats the word** — one sentence recovers the structure.
 
 ---
@@ -110,7 +133,9 @@ The ESV's rendering and the older "strange woman" both invite the idea that her 
 
 ## Provenance and hand-off
 
-Every element is drawn from `dig-deeper-proverbs-2`: the **FCF** verbatim from its candidate; the **TP** from Headline Findings 1, 2 and 3 converging; the **PS** from its So What; the **structure** from its syntax skeleton; the **keep-honest** items from its Preaching Pitfalls, with item 6 from `proverbs-question-record` §1.7 and item 7 from the report's Translations tool.
+Every element is drawn from `dig-deeper-proverbs-2`: the **FCF** verbatim from its candidate; the **TP** from Headline Findings 1, 2 and 3 converging; the **PS** from its So What; the **structure** from its syntax skeleton **as corrected 21 August by the strophic data**; the **keep-honest** items from its Preaching Pitfalls, with item 6 from `proverbs-question-record` §1.7 and item 8 from the report's Translations tool.
+
+**Sourced at the 21 August Logos pass** (see `proverbs-logos-research-audit-21-august`): the ***ṣāpan*** repetition at 2:1 ∥ 2:7, now stated in NET's own words — *"In 2:1, it is the responsibility of man to 'store up' wisdom; but in 2:7, it is God who 'stores up' wisdom"* `[S]`; the **Col 2:3 link**, `[S]` ×3; the **alphabetic architecture**, `[S]` ×4; and ***ḥāsîd* as the book's sole occurrence at 2:8**, `[T]` by lemma search.
 
 **Received from sermon 2:** the question *where does this gift come from?*, and 1:3b's triad — **answered verbatim at 2:9.** Make the join audible.
 

@@ -91,7 +91,13 @@ What remains is the **passage-level** purpose, and it is double — which is why
 
 Those two purposes explain the chapter's texture. It feels abstract because it is *announcing* rather than teaching; it feels dense because it is one sentence. Its density and its abstractness are the same fact — and both are functions of its job.
 
-**One thing the chapter is not doing.** It is not describing a technique. The imperative mood does not appear once in twenty-two verses. `[T]` ***High — confirmed by morphological search, 17 August: no verb addressed to the son is an imperative; all are yiqtol (imperfect), the majority governed by "if" or "then".*** Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
+**One thing the chapter is not doing.** It is not describing a technique. The imperative mood does not appear once in twenty-two verses. `[T]` ***High — confirmed by morphological search, 17 August: no verb addressed to the son is an imperative; all are yiqtol (imperfect), the majority governed by "if" or "then".***
+
+> **Tested again on 21 August against a source that said the opposite — and the finding holds.** A Logos return stated that vv.2-4 *"contain direct commands ('Make,' 'Incline,' 'Lift,' 'seek,' 'search')"* and that *"the son is directly commanded."* **Those are the NASB's English imperatives, not Hebrew ones.** From BHS at 2:1 - *im-**tiqqah** amaray umiswotay **tispon** ittak* - **both verbs carry the taw prefix and are therefore second-person imperfects**; the imperatives would be *qah* and *sepon*. `[T]` The same holds through vv.2-4: *tatteh, tiqra, titten, tebaqsenna, tahpesenna*, all prefixed, all under *im*.
+>
+> **English renders a Hebrew conditional imperfect as an imperative because that is how English says it** - *"if you make your ear attentive"* is clumsy. **The translation is right; a grammatical claim drawn from it is not.** *This is the third occasion in the project where a source asked about the Hebrew has answered from an English text; future queries should ask for the parsed form, not the rendering.*
+>
+> **And the gap is worth preaching:** *an ancient reader heard conditions where a modern reader hears commands* - which is exactly how the five-step-method misreading enters. Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
 
 > **A precision on the divine verbs.** The search returned "five verbs, all Qal" for vv.6–8. *Qal* is a stem, not a mood, so that answers a slightly different question — but it is the answer the argument needs anyway: *yittēn*, *ṣāpan*/*yiṣpōn*, *yišmōr* are Qal **indicatives** and *linṣōr* a Qal infinitive construct. No imperative, no conditional, no jussive. The asymmetry holds: **the son's verbs are contingent, God's are not.**
 
@@ -132,7 +138,7 @@ Those two purposes explain the chapter's texture. It feels abstract because it i
 
 ### 3. Structure
 
-Two analyses, and they are complementary rather than rival.
+Two analyses in the original report, and they are complementary rather than rival. **A third was added on 21 August and it is the one this report was missing — see (c).**
 
 #### (a) The syntactic skeleton — one sentence
 
@@ -164,9 +170,24 @@ Ansberry reads the lecture as exordium (2:1–11), lesson (2:12–20), conclusio
 
 Both are worth having. **The rhetorical division tells you how the chapter persuades; the syntactic division tells you what it claims.** Where they disagree (v.20), the honest answer is that the verse faces both ways: it completes the deliverance material and it introduces the land.
 
-#### (c) A formal observation, flagged
+#### (c) The alphabetic architecture — **✅ RESOLVED 21 August, and the report's guess was right**
 
-The chapter has **22 verses** — the number of letters in the Hebrew alphabet — and divides 11 + 11 at the *lĕhaṣṣîlĕkā* of v.12. `[T]` on the counts. It is **not** an acrostic. Whether the 22-line length is deliberate, and whether v.12's opening *lamed* (the twelfth letter) marks the midpoint of the alphabet as well as of the chapter, is a claim made in the literature that this run has **not** verified. `[S]` *Uncertain — routed to Open Questions.* Note that Proverbs' one true acrostic (31:10–31) is also 22 verses, and that chapter 2 opens the instruction as 31:10–31 closes the book. If the correspondence is designed it is elegant; do not preach it as established.
+The chapter has **22 verses** — the number of letters in the Hebrew alphabet — and divides 11 + 11 at the *lĕhaṣṣîlĕkā* of v.12. `[T]` on the counts. **This run originally flagged the significance as unverified and routed it to Open Questions. It is now answered, in more detail than was asked for.**
+
+| Claim | Verdict |
+|---|---|
+| The 22-verse length is **deliberate** | **Confirmed.** "The exact number of lines for every letter of the Hebrew alphabet… a deliberate artistic means of communicating **wholeness and completeness**" `[S: Horne]` |
+| **v.12's *lāmed* marks the alphabet's midpoint as well as the chapter's** | **Confirmed, and it is a pattern rather than a single verse.** Stanzas at **2:1–4, 5–8, 9–11 begin with *ʾālep***, the first letter; stanzas at **2:12–15, 16–19, 20–22 begin with *lāmed***, the twelfth `[S: Treier]` |
+| It is **not** an acrostic | **Confirmed.** Longman: the two-letter pattern "makes it unlikely that a Hebrew acrostic structure was intended." Schipper: "**reminiscent of** an acrostic, even though… there is no alphabetic sequence" `[S]` |
+| The 11 + 11 division | **Confirmed and refined.** **Skehan's strophic symmetry is 4 · 4 · 3 ‖ 4 · 4 · 3** — vv.1–4, 5–8, 9–11 ‖ 12–15, 16–19, 20–22, which is 11 + 11 `[S]` |
+
+**So the structure is: an *ʾālep*-half of three strophes and a *lāmed*-half of three, hinged at 2:11/2:12.** `[S]` *Moderate–high — four independent sources, agreeing on the data and differing only over the label.*
+
+**And the hinge is not merely formal.** The *ʾālep*-half says what the son **will understand** (the two *ʾāz* apodoses at vv.5 and 9); the *lāmed*-half says what he **will be delivered from** (the two *lĕhaṣṣîlĕkā* infinitives at vv.12 and 16). **The letter changes where the subject changes.**
+
+> **What to say and not say.** Say *"built on the alphabet's first and middle letters."* **Do not say "acrostic"** — Longman explicitly doubts one was intended, and Proverbs' one true acrostic is 31:10–31.
+>
+> **The correspondence with 31:10–31 is still worth noting and still not established.** Both are 22 verses; chapter 2 opens the instruction as 31:10–31 closes the book. `[I]` *Moderate. Elegant if designed; do not preach it as established, and note that it does not clear the macro-synthesis's ≥3-pericope gate.*
 
 ---
 
@@ -220,7 +241,7 @@ Every verse is a bicolon. Three observations rather than a catalogue.
 
 Six terms carry the chapter.
 
-**(a) *ṣāpan*, "treasure up / store up" (vv.1, 7) — the chapter's hidden hinge.** `[T]` The son is told to *tiṣpōn* the father's commandments; God *yiṣpōn* sound wisdom for the upright. The verb means to hide, store, treasure — used of hiding Moses (Exod 2:2), of treasure laid up (Job 20:26), of God's goodness "stored up for those who fear you" (Ps 31:19). *High confidence on the verb's range; moderate–high that the two occurrences are a deliberate pair — verify the identity of the root.*
+**(a) *ṣāpan*, "treasure up / store up" (vv.1, 7) — the chapter's hidden hinge.** `[T]` The son is told to *tiṣpōn* the father's commandments; God *yiṣpōn* sound wisdom for the upright. **NET states the point in its own words, confirmed 21 August:** *"The verbal root is repeated in 2:1 and 2:7. **In 2:1, it is the responsibility of man to 'store up' wisdom; but in 2:7, it is God who 'stores up' wisdom** for the wise person who seeks him."* `[S]` **Headline 2 is now sourced as well as verified.** Lange adds the sense: to protect, to preserve, **"after the manner of a treasure or jewel, over which one watches that it may not be stolen."** The verb means to hide, store, treasure — used of hiding Moses (Exod 2:2), of treasure laid up (Job 20:26), of God's goodness "stored up for those who fear you" (Ps 31:19). *High confidence on the verb's range; moderate–high that the two occurrences are a deliberate pair — verify the identity of the root.*
 
 The theological point is exact. What the son hides in himself, God has already hidden for him. The search of vv.1–4 is not prospecting in unknown ground; it is looking for something deliberately stored where the upright will find it. That single verbal link is the answer to the chapter's own question about effort and gift, and it is invisible in every English version, which uses two different renderings.
 
@@ -231,6 +252,8 @@ The theological point is exact. What the son hides in himself, God has already h
 **(d) *ʾiššâ zārâ* / *nokriyyâ*, "the forbidden woman / the adulteress" (v.16).** Literally "strange" and "foreign." The best-supported sense is *not belonging to you* — not one's own wife — rather than ethnically foreign, though the ethnic sense may play a part. `[S]` *Moderate.* First occurrence in the book; the thread runs to 5:1–23, 6:20–35, 7:1–27 and is finally disclosed as Folly at 9:13–18.
 
 **(e) *bĕrît ʾĕlōhêhā*, "the covenant of her God" (v.17).** Genuinely contested: her **marriage covenant** (Mal 2:14 uses covenant language of marriage) or the **Sinai covenant**. `[S]` *Moderate.* Either way the verse places adultery under covenant rather than merely under prudence — which is the chapter's characteristic move. Note the parallel: she "**forsakes** the companion of her youth" (v.17) and the crooked men "**forsake** the paths of uprightness" (v.13). The same verb (*ʿāzab*) for both. `[T]` *Moderate–high.* The chapter's two dangers are both defections.
+
+**(e-bis) *ḥāsîd*, "one bound in covenant loyalty" (v.8) — and it occurs nowhere else in Proverbs.** `[T]` **Confirmed by lemma search, 21 August: *ḥăsîdāyw* at 2:8 is the sole occurrence of *ḥāsîd* in the book.** The great covenant-loyalty term appears exactly once, and it appears **here** — in the chapter that grounds wisdom in God's giving, inside the clause *"watching over the way of **his saints**."* And it is **plural**, which supports the reading of v.8's promise as corporate rather than individual. *A small, clean datum, and it strengthens the covenant-marker argument below.*
 
 **(f) The road-words.** *Derek*, *ʾōraḥ*, *maʿgāl*, *nātîb* — roughly **thirteen occurrences in twenty-two verses** (vv.8 ×2, 9, 12, 13 ×2, 15 ×2, 18, 19, 20 ×2). `[T]` *Moderate–high; verify by concordance.* This is plausibly the densest concentration in the book, and it is the chapter where the two-ways framework is installed. Note the ownership: the paths of justice and the way of his saints are **God's** to guard (v.8); the paths of uprightness are what the wicked **forsake** (v.13); her paths lead to the departed (v.18); and the way of the good is what the son will **walk** (v.20).
 
@@ -368,6 +391,8 @@ Three tonal movements:
 **Parental instruction** within the ANE instruction tradition — the second of ten lectures, and structurally the most ambitious. `[S: Ansberry]` on the classification and count.
 
 Two reading rules.
+
+**And read it as a shaped poem, not only as a sentence.** The twenty-two verses match the twenty-two letters of the Hebrew alphabet, and the strophes open on two of them — *ʾālep* at 2:1, 5, 9 and *lāmed* at 2:12, 16, 20. **Not an acrostic; but not an accident either.** See Tool 3(c).
 
 **Read it as one sentence, not as twenty-two sayings.** The characteristic error with this chapter is to treat it like the sentence literature and quote v.6 or v.11 alone. Every clause is subordinate to v.1's conditional.
 
@@ -628,6 +653,13 @@ Running the four tests on the strongest candidate, *the stored-up wisdom of v.7 
 
 #### How the chapter points to Christ
 
+> **Sourced 21 August - three commentators make the Col 2:3 link, and one of them is Beale.** `[S]`
+> - **Beale:** *"in 2:2-3 Paul **weds Dn 2 and Pr 2**,"* quoting Prov 2:3-6 in full - and noting that **two Greek versions (Symmachus, Theodotion) read "hidden things" instead of "treasure"** at 2:4, which tightens the verbal link to Col 2:3's *apokryphoi*.
+> - **Wright:** Christ "sums up in himself all that the Jews predicated of 'Wisdom' (cf. **Prov. 2:1-8**, whose LXX translation is echoed several times in our present passage)."
+> - **Dunn:** the imagery "evokes Jewish wisdom tradition (**Prov. 2:3-6**; Sir. 1:24-25; Wis. 6:22...)."
+>
+> **Upgraded from `[I]` to `[S]`, *moderate-high*.** The Open Questions entry asking whether commentators draw it is closed.
+
 **1. Colossians 2:3 is the chapter's canonical answer, and the verbal overlap is striking.** Proverbs 2:4 has the son *searching as for hidden treasures*; 2:7 has God *storing up* sound wisdom. Paul writes of Christ, "in whom are **hidden** all the **treasures** of wisdom and knowledge" (Col 2:3) — in a letter arguing against those who claimed a hidden knowledge elsewhere. `[T]` on the texts; `[I]` on the connection. *Moderate–high.* Whether Paul is alluding to Proverbs 2 has not been checked (see Open Questions), but the shape of the claim is the same: the treasure is hidden, it is deliberately stored, and it is found in one place.
 
 **2. The gift-and-quest structure is the gospel's own.** Verses 1–6 hold together strenuous seeking and free giving in one sentence. That is the shape of the New Testament's own paradox — "work out your own salvation… **for** it is God who works in you" (Phil 2:12–13), which is Proverbs 2:1–6's grammar exactly: imperatives grounded in a *for*-clause about divine action. `[I]` *Moderate–high, and homiletically the most useful connection in the chapter.*
@@ -748,7 +780,8 @@ Places where two or more tools independently arrived at the same point.
 
 2. **The absence of imperatives.** The theological point in Headline 1 and Convergent 2 depends on there being no imperative addressed to the son anywhere in the chapter. Verify against a tagged text.
 
-3. ~~**The 22-verse / quasi-acrostic claim.** The verse count and the 11+11 division are certain; the claim that the length is deliberate, and that v.12's *lamed* marks the alphabet's midpoint, is `[S]` and **unverified**. Do not preach it as established.~~
+3. ~~**The 22-verse / quasi-acrostic claim.** The verse count and the 11+11 division are certain; the claim that the length is deliberate, and that v.12's *lamed* marks the alphabet's midpoint, is `[S]` and **unverified**.~~
+   **RESOLVED 21 August, and the guess was right on both counts.** The 22-verse length **is** regarded as deliberate `[S: Horne]`, and v.12's *lāmed* **does** mark the alphabet's midpoint — as the head of a **three-strophe pattern**, not a single verse: *ʾālep* at 2:1, 5, 9 and *lāmed* at 2:12, 16, 20, with **Skehan's symmetry 4 · 4 · 3 ‖ 4 · 4 · 3** `[S: Treier, Skehan]`. **Not an acrostic** — Longman doubts one was intended; Schipper says "reminiscent of." **Full working at Tool 3(c).**
    **Checked against the Westminster Leningrad Codex, 17 August. The claim as it circulates is false — and the text yields something better.**
 
    The version repeated in several sources (USCCB notes, NET notes, BiblicalTraining, and popular expositions, all apparently downstream of a compressed summary of Waltke) is that *every* verse of vv.1–11 begins with *aleph* and *every* verse of vv.12–22 with *lamed*. **It does not.** All twenty-two openings:
@@ -830,7 +863,8 @@ Places where two or more tools independently arrived at the same point.
    >
    > **And a detail worth keeping from the search itself:** the three occurrences of *maʿgāl* (2:9, 15, 18) are **each rendered differently in the NASB**. The reader of any English version meets three unrelated words where the Hebrew has one repeated one — the same translation-loss pattern as *ṣāpan* at vv.1/7. This chapter is unusually punishing to the English-only reader.
 
-6. **Colossians 2:3 and Proverbs 2:4, 7.** The verbal shape is close ("hidden," "treasures," "wisdom and knowledge"), and the connection is homiletically strong — but whether commentators see an allusion has **not** been checked. Offered as canonical resonance, not as demonstrated allusion.
+6. ~~**Colossians 2:3 and Proverbs 2:4, 7.** Whether commentators see an allusion has not been checked.~~
+   **RESOLVED 21 August — three commentators see it, including Beale.** `[S]` **Beale**: *"in 2:2-3 Paul **weds Dn 2 and Pr 2**,"* quoting Prov 2:3-6 in full, and noting that **Symmachus and Theodotion read "hidden things" instead of "treasure"** at 2:4 — tightening the link to Col 2:3's *apokryphoi*. **Wright**: Christ "sums up in himself all that the Jews predicated of 'Wisdom' (cf. **Prov. 2:1-8**, whose LXX translation is echoed several times in our present passage)." **Dunn**: the imagery "evokes Jewish wisdom tradition (**Prov. 2:3-6**...)." **Upgraded from canonical resonance to demonstrated allusion, *moderate-high*.**
 
 7. **Isaiah 53:8 and Proverbs 2:22.** Whether "cut off from the land" (2:22) and "cut off out of the land of the living" (Isa 53:8) share the idiom in Hebrew has not been verified. This report's own connection; treat as suggestive only.
 

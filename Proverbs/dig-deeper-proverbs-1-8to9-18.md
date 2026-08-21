@@ -738,7 +738,8 @@ Places where two or more tools independently arrived at the same point. Headline
    **Settled 15 August. The formula is verbatim identical at all three verses**, accents included: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י. The B-lines diverge (5:7 "and do not depart from the words of my mouth"; 7:24 "and be attentive to the words of my mouth"; 8:32 "and blessed are those who keep my ways"), which makes the A-line's exactness the more striking. Headline 2 is now `[T]` at high confidence, and this report's central structural argument — that the lectures and the interludes are one composition — rests on verified ground.
    *Note on the literature.* Only one consulted commentator remarks on the transfer: Barnes (1879), who calls it "the old exhortation with a new force", the counsels being no longer those of prudence and human experience but of a Wisdom eternal as Jehovah. So the *datum* is now `[T]` and secure; the *reading of its significance* remains thinly sourced, and Ansberry's "Wisdom speaks through the voice of the father" is `[S]` with one nineteenth-century ally rather than a consensus behind it. Preach the identity as fact; present the significance as interpretation.
 
-2. **The vocative census.** Nineteen occurrences, 15 singular and 4 plural, none in chapter 9. Reached by reading; verify by concordance.
+2. ~~**The vocative census.** Nineteen occurrences, 15 singular and 4 plural, none in chapter 9.~~
+   **RESOLVED twice over.** Confirmed 15 August (see item 3 below) and **confirmed again independently on 21 August**: "my son" at 1:8, 1:10, 1:15, 2:1, 3:1, 3:11, 3:21, 4:10, 4:20, 5:1, 5:20, 6:1, 6:3, 6:20, 7:1 — **fifteen** — and "my sons" at 4:1, 5:7, 7:24, **8:32** — **four**. **Nineteen, none in chapter 9.** `[S]` *This entry was stale and should have been struck on 15 August.*
 
 3. ~~**The *lēb* count (16) and the *ḥālaq* count (5).** Likewise.~~ **Resolved 15 August.** *Ḥālaq* **confirmed** at five: 2:16; 5:3; 6:24; 7:5; 7:21. *Lēb* **corrected** to nineteen.
 
@@ -754,11 +755,17 @@ Places where two or more tools independently arrived at the same point. Headline
 
 6. **The road-to-house metaphor shift (Convergent 6).** Text-observable in its parts; the claim that the shift is deliberate and structurally significant is `[I]` at *moderate–high* and is this report's own.
 
-7. **The Luke 14 banquet line.** Offered as canonical reflection at *moderate*. Whether commentators draw Prov 9:1–6 → Luke 14:16–24 explicitly has not been checked.
+7. ~~**The Luke 14 banquet line.** Whether commentators draw Prov 9:1-6 to Luke 14:16-24 explicitly has not been checked.~~
+   **RESOLVED 21 August — three commentators draw it.** `[S]` **Blomberg**: Lady Wisdom "probably forms background for Jesus' parable of the great banquet in **Luke 14:16-24**, 'emblematic of life, health, and celebration'." **Kittredge** and **Wilson** both draw it to **Matthew 22** — the built house, the slaughtered animals, the mixed wine, the servants sent to call from the highest places. **Upgraded from *moderate* to *moderate-high*.**
+
+   > **One caution from Wilson, and it should govern the sermon.** Matthew's parable "interrupts this tone of warm welcome" at 22:11-14 with **eschatological judgement, which Proverbs 9 does not have.** **Preach the invitation; do not import Matthew's judgement scene into Proverbs 9.** *(Proverbs 9 has its own ending at 9:18, and it is quite dark enough.)*
 
 8. **1:23's ambiguity** — offer or accusation. Affects how 1:20–33 is preached; not resolved here.
 
-9. **The *ḥokmôt* plural at 1:20.** The form is certain; the explanation (plural of majesty / abstract plural) is standard but unverified for this run.
+9. ~~**The *ḥokmôt* plural at 1:20.** The explanation is standard but unverified for this run.~~
+   **RESOLVED 21 August — four sources, and one adds an alternative this report did not have.** `[S]` **Schwab**: "a feminine plural parsed as a singular… similar to the plural *elohim*… **She, Wisdom, is a larger-than-life single entity, omnipresent and inescapable**." **NET**: "a plural of intensity, stressing the all-embracing, elevated wisdom." **JFB**: "indicative of the great excellency of wisdom."
+
+   **And Kidner supplies a live alternative:** the form "is **either a Phoenician form of the singular** or a Heb. plural. If it is the latter, it is to express intensity and fullness." **So the plural-of-majesty reading is the majority but not the only one.** *It does not change the exegesis — both explanations yield a single personified figure — but a preacher who says "the Hebrew is plural, which shows her greatness" should know a respectable alternative says it is simply a singular form.*
 
 10. **Carried forward from the other runs, still open:** the *ʿormâ*/Gen 3:1 link (1:1–7 report) and the design half of the *zmm* claim (both solo reports).
 

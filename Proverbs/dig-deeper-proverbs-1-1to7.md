@@ -44,7 +44,13 @@ The exegetically strongest claims that emerged across multiple tools:
 
 3. **The book warns at the outset that it will need interpreting, not merely obeying.** `[T]` Verse 6 names one purpose as "to understand a proverb and a saying, the words of the wise and **their riddles**" (*ḥîdôt*, the word for Samson's riddle and the "dark sayings" of Ps 78:2). Surfaced by: Author's Purpose, Vocabulary, Genre, Move 4. The claim is paid off at 26:4–5, where two consecutive verses give contradictory advice. *High confidence.*
 
-4. **The centre of the purpose statement is social justice, and it is grammatically marked.** `[T]`/`[S]` The chain of *lāmed*-infinitives that governs vv.2–4 is interrupted in v.3b: "righteousness, justice, and equity" (*ṣedeq, mišpāṭ, mêšārîm*) stands without the expected preposition. Surfaced by: Structure, Linking Words, Parallels, Vocabulary. Wisdom in Proverbs is aimed at the making of a just community, and the syntax puts that triad at the centre of the frame. *Moderate–high — the datum is textual, but I first met it in Ansberry; see the Text-First Declaration.*
+4. **The centre of the purpose statement is social justice, and it is grammatically marked.** `[T]`/`[S]` The chain of *lāmed*-infinitives that governs vv.2–4 is interrupted in v.3b: "righteousness, justice, and equity" (*ṣedeq, mišpāṭ, mêšārîm*) stands without the expected preposition. Surfaced by: Structure, Linking Words, Parallels, Vocabulary. **Datum confirmed against BHS, 17 August** `[T]`.
+
+   > **⚠ The *reading* of the datum is corrected, 21 August — and the correction improves the finding.** This report said the absent *lāmed* "puts that triad at the centre of the frame", i.e. **emphasis**. **NET gives the grammatical description instead: the three nouns are *adverbial accusatives of manner*, "in righteousness, justice and equity", describing *how* the disciplined prudent activity is manifested.** `[S]`
+   >
+   > **So the triad is not the weightiest item in a list — it is not an item in the list at all.** It is **the mode in which the whole enterprise of vv.2–4 is carried out.** *Righteousness, justice and equity are not one more thing Proverbs teaches; they are the manner in which everything it teaches is exercised.* **A better sentence, and one a grammarian will stand behind.**
+
+   *Moderate–high — the datum is textual, but I first met it in Ansberry; see the Text-First Declaration.*
 
 5. **1:7 is the motto of the whole book, not of chapters 1–9, and it is asyndetic.** `[T]` It is restated at 9:10 (closing the frame), and its verbal form lands in the book's final line of praise (31:30). It is attached to v.6 by no connector at all — dropped in like a foundation stone rather than argued to. Surfaced by: Structure, Linking Words, Repetition, Move 4. *High confidence.*
 
@@ -200,9 +206,9 @@ Taken together with *ʿormâ*, the pattern is what makes the finding: **two of t
 
 **(f) "Riddles" (*ḥîdôt*, v.6).** The plural of *ḥîdâ*: Samson's riddle (Judg 14:12–19), the Queen of Sheba's hard questions to Solomon (1 Kgs 10:1), the "dark sayings" of Ps 78:2, and Ezekiel's riddle-parable (Ezek 17:2). `[T]` *High.* The word denotes something deliberately obscure that yields to work. Its presence in the purpose statement is a genre-signal of the first importance and is treated under Tool 12.
 
-**(g) "The fear of the LORD" (*yirʾat YHWH*, v.7).** The construct phrase occurs some fourteen times in Proverbs plus verbal forms (see the book-level note in the sweep). *Yārēʾ* covers both terror and reverence; the parallelism here (see Tool 5) and the wider book (8:13, "the fear of the LORD is hatred of evil"; 3:7, "fear the LORD, and turn away from evil") point to *awe issuing in moral aversion*, not fright. `[T]`/`[I]` *High.*
+**(g) "The fear of the LORD" (*yirʾat YHWH*, v.7).** **The construct phrase occurs exactly fourteen times in Proverbs** — 1:7; 1:29; 2:5; 8:13; 9:10; 10:27; 14:26; 14:27; 15:16; 15:33; 16:6; 19:23; 22:4; **23:17** — plus verbal forms, and **a fifteenth at 31:30 if the attributive use (*ʾiššâ yirʾat-YHWH*) is counted.** `[T]` *Confirmed 21 August; machine-checked for 10:1–24:34 and 28:1–29:27.* *Yārēʾ* covers both terror and reverence; the parallelism here (see Tool 5) and the wider book (8:13, "the fear of the LORD is hatred of evil"; 3:7, "fear the LORD, and turn away from evil") point to *awe issuing in moral aversion*, not fright. `[T]`/`[I]` *High.*
 
-**(h) "Beginning" (*rēʾšît*, v.7) — a real ambiguity, and both senses are live.** The noun means (i) the temporal beginning (Gen 1:1, "in the beginning") and (ii) the first or chief part — the *best* of something (Num 18:12, the *rēʾšît* of the oil and wine as the firstfruits offering; Amos 6:6, those who anoint themselves with the *rēʾšît* of oils). `[T]` *High on the range.* Note that 9:10 uses a different noun, *tĕḥillat*, which is unambiguously temporal, while 1:7's *rēʾšît* is not. `[T]` *Moderate–high; worth verifying.* If the variation is deliberate, then 1:7 says something 9:10 does not: the fear of the LORD is not only where knowledge starts but its *chief part*. Preach it as foundation-and-summit rather than as entry-level. `[I]` *Moderate.*
+**(h) "Beginning" (*rēʾšît*, v.7) — a real ambiguity, and both senses are live.** The noun means (i) the temporal beginning (Gen 1:1, "in the beginning") and (ii) the first or chief part — the *best* of something (Num 18:12, the *rēʾšît* of the oil and wine as the firstfruits offering; Amos 6:6, those who anoint themselves with the *rēʾšît* of oils). `[T]` *High on the range.* Note that 9:10 uses a different noun, *tĕḥillat*, which is unambiguously temporal, while 1:7's *rēʾšît* is not. `[T]` **✅ Verified against BHS, 21 August — the two nouns genuinely differ, and the variation is not stylistic. Upgraded to *high*.** If the variation is deliberate, then 1:7 says something 9:10 does not: the fear of the LORD is not only where knowledge starts but its *chief part*. Preach it as foundation-and-summit rather than as entry-level. `[I]` *Moderate.*
 
 **Proper-noun inventory (Tool 7c).** Three names, all in v.1: **Solomon**, **David**, **Israel**. None is scenery; all three do work.
 
@@ -493,6 +499,14 @@ The passage names its reader, which makes this tool unusually simple and unusual
   - **Lange** derives *ʿormâ* from *ʿāram* and glosses it via the adjective *ʿārûm*, "naked, *i.e.* slippery, crafty; **used of the serpent, Gen. 3:1**", then gives the positive sense as "the capacity for escaping from the wiles of others" (Umbreit) and "the prudence which guards itself against injury" (22:3; 1 Sam 23:22).
   - **Stabnow (CSB Study Bible)** notes that the word "always has a positive connotation in the book of Proverbs", while "in other books it usually means 'cunning' or 'craftiness' that is in direct defiance of God's will (Gn 3:1; Jb 5:12)".
   **What this does and does not license.** It moves the *lexical* observation from my own proposal to `[S]`-supported: the shared root, and its use of the serpent, are noted in the literature. It does **not** support the stronger claim that Proverbs 1:4 *alludes to* Genesis 3. Neither source says so; Stabnow in particular frames it as a matter of semantic range across books, not as an intertextual gesture — and that framing cuts mildly against reading 1:4 as an echo. **Keep the root-link as fact and the allusion as suggestion.**
+
+  > **✅ Extended 21 August — the *theological* move is now sourced, though the allusion still is not.** Two further works go beyond semantic range to the point Headline 2 actually makes:
+  > - **Barnes (1879):** the teacher offers the "subtilty," which "may turn to evil (Exod. 21:14) and **become as the wisdom of the serpent (Gen. 3:1)**, but which also takes its place, **as that wisdom does, among the highest moral gifts (Matt. 10:16)**." `[S]`
+  > - **NET:** "The related adjective described the serpent as 'shrewd, crafty, cunning' (Gen 3:1)… **There is no virtue for simpletons to be unaware in this world; they need to be wise as serpents.**" `[S]`
+  >
+  > **So: that Proverbs offers a quality which in the serpent was evil, and offers it as a good, is now `[S]` at *moderate–high* and is preachable.** That 1:4 *alludes* to Gen 3:1 remains a suggestion — Barnes says "become **as** the wisdom of the serpent," which is comparison, not allusion.
+  >
+  > **And Barnes supplies what was missing: Matthew 10:16** — *"be wise as serpents and innocent as doves."* **The New Testament commands the serpent's quality, paired with a dove's innocence.** This is the homiletical landing the finding needed, and it does not depend on the allusion claim at all.
 - *Mĕzimmâ*: concordance check of the positive/negative distribution across Proverbs and the wider OT.
 - *Rēʾšît* vs *tĕḥillat* (1:7 vs 9:10): verify that the nouns differ and that the difference is not merely stylistic.
 - The exact count of *yirʾat YHWH* in Proverbs.
@@ -687,7 +701,7 @@ The full list of places where two or more tools independently arrived at the sam
 
 2. **The purpose statement is one sentence, not five topics.** Structure · Linking Words · Original Languages. The five *lāmed*-infinitives all hang off v.1, which means vv.2–6 cannot be preached as a list. *High.*
 
-3. **The centre of the purpose statement is justice.** Structure · Linking Words · Parallels · Vocabulary · Historical Background. The missing *lāmed* at v.3b throws weight onto *ṣedeq/mišpāṭ/mêšārîm*, and the court-wisdom background explains why a purpose statement would centre there. *Moderate–high.*
+3. **The centre of the purpose statement is justice.** Structure · Linking Words · Parallels · Vocabulary · Historical Background. **⚠ Reading corrected 21 August:** the missing *lāmed* at v.3b is **not** emphasis. The three nouns are **adverbial accusatives of manner** — *"in righteousness, justice and equity"* — describing **how** the discipline is manifested `[S: NET]`. **So the triad is not the weightiest item in the list; it is the mode in which the whole list is exercised** — which is the stronger point, and the court-wisdom background explains why a purpose statement would frame itself that way. *Moderate–high.*
 
 4. **Two of the four gifts of v.4 are morally two-edged words.** Vocabulary · Original Languages · Translations · Quotation/Allusion · Biblical Theology. *ʿOrmâ* shares the serpent's root; *mĕzimmâ* is elsewhere "evil devices"; the KJV renders the first "subtilty," the same word it uses at Gen 3:1; and the wisdom theme supplies the reason (Eden is the canon's first case of wisdom sought from the wrong root). *Moderate–high.*
 
@@ -755,7 +769,19 @@ Common ways this passage gets mishandled, and how to avoid them.
 
 ## Open Questions / Uncertainties
 
-1. **The *ʿormâ*/*ʿārûm* link (v.4 ↔ Gen 3:1).** The root-identity is secure; the claim that Proverbs is deliberately invoking the serpent is **this report's own proposal and is unsourced.** Verify against HALOT or NIDOTTE on √*ʿrm*, and against a technical commentary on 1:4 (Waltke, NICOT; Fox, AB 18a). If no commentator makes the connection, downgrade to *uncertain* and present it as a suggestion rather than a finding. **This is the single most important verification item in the report**, because Headline Finding 2 rests partly on it.
+> **⚠ Maintenance note, 21 August.** **This list had fallen out of step with the report's own body.** Six items were resolved on 9, 15 or 17 August and recorded under *Recommended verification* and in the Tool sections — but **were never struck here**, so the list continued to ask for work already done. It has now been synchronised. **Standing fix: strike an item here at the same moment it is resolved anywhere else, because this is the section people read and copy from.**
+
+1. ~~**The *ʿormâ*/*ʿārûm* link (v.4 ↔ Gen 3:1).** The root-identity is secure; the claim that Proverbs is deliberately invoking the serpent is this report's own proposal and is unsourced.~~
+   **⚠ This entry was stale: it was answered in part on 15 August and the resolution was recorded under Recommended verification but never struck here.** See the note at the head of this section.
+   **Now answered in three layers, 21 August, and they do not move together:**
+
+   | Layer | Status |
+   |---|---|
+   | *ʿormâ* and *ʿārûm* share a root, and *ʿārûm* is used of the serpent | **`[S]` since 15 August** — Lange, Stabnow. *Fact.* |
+   | **Proverbs offers the naïve a quality which in the serpent was evil, and offers it as a good** | **`[S]` as of 21 August** — **Barnes**: the subtilty "may turn to evil (Exod. 21:14) and **become as the wisdom of the serpent (Gen. 3:1)**, but which also takes its place, as that wisdom does, **among the highest moral gifts (Matt. 10:16)**." **NET**: "**they need to be wise as serpents.**" ***Moderate–high. Preachable.*** |
+   | **1:4 deliberately *alludes to* Genesis 3:1** | **Still a suggestion.** Barnes says "become **as** the wisdom of the serpent" — a comparison, not an allusion claim. No source asserts the allusion. *Moderate, and no higher.* |
+
+   **The genuine gain is Matthew 10:16**, which neither Lange nor Stabnow had: *"be wise as serpents and innocent as doves."* **The New Testament commands the serpent's quality, paired with a dove's innocence** — which is a far better homiletical landing than the root-link, and removes any need to lean on the allusion claim.
 
 2. ~~**LXX 1:4 — *panourgia*.** If the Old Greek does render *ʿormâ* with *panourgia*, that is significant corroboration for item 1, since Paul uses the same noun of the serpent's deception at 2 Cor 11:3. Verify in NETS. *Currently moderate, from recall.*~~
    **Confirmed 15 August: the Old Greek does read *panourgia* at 1:4.** `[T]`
@@ -765,24 +791,51 @@ Common ways this passage gets mishandled, and how to avoid them.
    **Net effect on Headline 2:** neutral. The Hebrew root-link is now sourced (see Tool 7); the allusion remains a suggestion; and one of the two props I had put under it has been removed by checking. *Confidence on the allusion: moderate, and no higher.*
    *One item still worth a check:* my statement about Genesis 3:1 LXX rests on reference knowledge, not on a text consulted this session. It is easily verified and would take one look.
 
-3. **LXX 1:7 — the plus and the *daʿat*/*sophia* swap.** Verify the wording in NETS before citing it from the pulpit. The classification (category 1–2 borderline for the swap; category 2 for the expansion) should also be checked against a text-critical commentary.
+3. **LXX 1:7 — the plus and the *daʿat*/*sophia* swap.** **Partly closed 21 August.** The Greek reading is confirmed: MT יִרְאַת יְהוָה רֵאשִׁית **דָּעַת** against LXX Ἀρχὴ **σοφίας** φόβος θεοῦ. `[T]` **The classification remains mine** — NET has no discussion of the *sophia* swap, and no text-critical commentary has been consulted on the plus. *Category 1–2 borderline for the swap; category 2 for the expansion; both still my judgement.*
 
 4. ~~**The *mĕzimmâ* distribution.**~~ **RESOLVED — confirmed 9 August 2026.** The positive/negative split is corroborated by the lexica `[S: Swanson, DBL; Lexham Research Lexicon]`, which also establish the noun's dual range as a property of the word. The striking part is text-observable and now secure: **every positive use falls in the frame (1–9) and every negative use in the sentence literature.** That distribution, not the bare root-identity, is what carries Headline Finding 2.
 
 5. ~~**The *ʿārûm* distribution in Proverbs.** Likewise: 12:16, 23; 13:16; 14:8, 15, 18; 22:3; 27:12 was reached by reading. Verify.~~
    **Confirmed exactly, 15 August.** The adjective *ʿārûm* stands at 12:16, 23; 13:16; 14:8, 15, 18; 22:3; 27:12; the noun *ʿormâ* at 1:4; 8:5, 12. **All uses positive** — which is the load-bearing half of the finding, since it is the book's uniform positive usage that makes the Genesis background interesting rather than merely etymological. (22:3 and 27:12 are the same proverb twice.) `[T]` *High.*
 
-6. **1:7 *rēʾšît* vs 9:10 *tĕḥillat*.** Confirm that the two nouns genuinely differ in the Hebrew and that the difference is not merely stylistic variation. A real finding hangs on this: if the distinction holds, 1:7 says something 9:10 does not.
+6. ~~**1:7 *rēʾšît* vs 9:10 *tĕḥillat*.** Confirm that the two nouns genuinely differ in the Hebrew.~~
+   **✅ RESOLVED 21 August.** Confirmed against BHS: **1:7** יִרְאַת יְהוָה **רֵאשִׁית** דָּעַת · **9:10** **תְּחִלַּת** חָכְמָה יִרְאַת יְהוָה. `[T]` **The two nouns genuinely differ.** *Rēʾšît* carries both "beginning" and "chief part"; *tĕḥillâ* is unambiguously temporal. **So 1:7 says something 9:10 does not**, the finding stands at **high**, and the "start here then move on" misreading is blocked by the book's own choice of a different noun.
 
-7. **Verse 5 — which construal?** Three readings are live in the literature; this report leans to "invitation" at *moderate* confidence on internal grounds (the interludes of chs. 1–9 consistently address the simple). A technical commentary on the syntax of vv.2–6 would sharpen it. Note that the question is *not* resolvable from an English translation, since ESV and NASB/KJV render the fork differently.
+7. **Verse 5 — which construal? ⚠ Still open, and the question is restated because the first wording was unintelligible when put to the library.**
 
-8. **The missing *lāmed* at v.3b.** The datum should be confirmed against a critical text (BHS/BHQ). Its exegetical significance — emphasis, or simple apposition — would benefit from a grammar.
+   **The grammar.** Verses 2–6 form one sentence hanging off v.1, and its spine is five **infinitives construct** with *lāmed* — *lādaʿat… lĕhābîn… lāqaḥat… lātēt… lĕhābîn*. **Verse 5 breaks the chain**, switching to two **finite verbs**: *yišmaʿ… wĕyôsep*.
 
-9. **The count of *yirʾat YHWH* in Proverbs** (~14 construct occurrences plus verbal forms). Reached by reading; verify by concordance before preaching as data.
+   **The fork the break raises.** Is v.5 **(a) a second addressee** — the book has two target audiences, the naïve of v.4 *and* the already-wise, as several Egyptian instructions do? Or **(b) an aside** — the book is aimed at the naïve and v.5 concedes in passing that the wise will also profit?
+
+   **Not resolvable from English:** the ESV's "Let the wise hear" reads as a jussive aside; renderings keeping the infinitive rhythm read as a second purpose. **The fork is in the Hebrew syntax.**
+
+   **At stake:** on (a) the preacher may address the mature directly from this passage; **on (b) the naïve are the audience and the wise are eavesdropping** — the reading this report leans to at *moderate*, on the internal ground that the interludes of chs. 1–9 consistently address the simple.
+
+   **What would settle it:** Waltke (NICOT) or Fox (AB 18a) on the function of the finite verbs at v.5.
+
+8. ~~**The missing *lāmed* at v.3b.**~~ **✅ RESOLVED 21 August — and the resolution corrects this report.**
+   **The datum was already confirmed against BHS on 17 August** and stands `[T]`. **The exegetical significance was wrong.** This report read the absent preposition as **emphasis** — "throwing weight onto" the triad. **NET gives the grammatical description instead:**
+
+   > "The three nouns that follow 'self-discipline of prudence' are **adverbial accusatives of manner**, describing the **ways in which** the disciplined prudent activity will be manifested: 'in righteousness, justice, and equity.'" `[S]`
+
+   **That is a normal construction doing ordinary work, not a rhetorical spotlight — and the corrected reading is the stronger one.** On the emphasis reading the triad is the most important item in a list. **On the adverbial reading it is not an item in the list at all: it is the *mode* in which the whole discipline is exercised.** Righteousness, justice and equity are not one more thing Proverbs teaches; **they are the manner in which everything it teaches is carried out.** *Corrected in Headline 4, Tool 3, Tool 5 and Convergent Findings.*
+
+9. ~~**The count of *yirʾat YHWH* in Proverbs** (~14 construct occurrences).~~ **✅ RESOLVED 21 August — exactly fourteen, and a fifteenth by definition.**
+   **1:7 · 1:29 · 2:5 · 8:13 · 9:10 · 10:27 · 14:26 · 14:27 · 15:16 · 15:33 · 16:6 · 19:23 · 22:4 · 23:17** `[T]` — machine-checked against the parsed BHS for 10:1–24:34 and 28:1–29:27, and by hand for 1–9.
+
+   **23:17 is the one most easily missed** — *"but continue in **the fear of the LORD** all the day"* — and it matters: it is the only occurrence inside the Words of the Wise, and one of only five verses in that collection's eighty-two to name YHWH at all.
+
+   **A fifteenth depends on definition.** **31:30** — *ʾiššâ **yirʾat-YHWH*** — is the same construct chain used **attributively** ("a woman fearing the LORD") rather than as the abstract noun. **Fourteen abstract-noun occurrences; fifteen if the attributive counts.**
+
+   > *Method note, and it is the second time in this project.* The antithesis-count disagreement with Martin (163 vs 149) resolved to a definition rather than to the data; **so does this. When two counts of the same thing differ, check the definition before checking the data.**
 
 10. **The ANE instruction-genre parallels.** The claim that Proverbs 1:1–6 follows a recognisable convention is `[S]` at *moderate–high*. Ansberry's chapter 2 surveys the Egyptian and Mesopotamian material and is the nearest source to hand; a preacher wanting to use the point should read it rather than repeat this summary.
 
-11. **Isaiah 11:2–3 and Proverbs 1:2, 7.** The observation that Isaiah's messianic oracle pairs "wisdom and understanding" with "the fear of the LORD" — the two halves of Proverbs' preamble — is this report's own and is *moderate*. It is homiletically strong enough to be worth checking in a commentary on Isaiah 11 before use.
+11. ~~**Isaiah 11:2–3 and Proverbs 1:2, 7.**~~ **✅ RESOLVED 21 August — sourced twice, and upgraded to *moderate–high*.**
+   - **Goldingay** on Isa 11: these attributes "have been referred to as belonging to God and/or as mis-claimed by human beings. **Now they become real in a human figure**… **It also emphasizes that this is the feature that explicitly distinguishes true wisdom from wisdom that leaves God out of account (see Prov. 1:7).**" `[S]`
+   - **Barry**: "Wisdom, understanding, knowledge, and fear of Yahweh were key components of righteous living (**see Prov 1:7**; 2:5; Psa 14:4)." `[S]`
+
+   **Two things Goldingay adds that this report did not have.** The fear of the LORD is **doubled** in Isa 11:2–3 — once in the list of the Spirit's gifts, then again in *"his delight shall be in the fear of the LORD"* — and **the repetition is emphatic**. And Isaiah has been tracking **misdirected fear** since chapter 7 (7:4; 8:12–13; 10:24), so the oracle **resolves a thread**: *the king's delight in the fear of the LORD is Isaiah's answer to a nation afraid of the wrong things.*
 
 ---
 
@@ -839,4 +892,6 @@ The book-overview (v1.0) and the sweep's Unit 1 are broadly confirmed. Four item
 
 **Warrant counts:** `[T]` 47 · `[I]` 26 · `[S]` 14.
 
-**Health note.** Text-dominant, which is what a solo run on a seven-verse passage should be. The report's two most distinctive findings — the *ḥokmâ ûmûsār* bracket and the *mĕzimmâ* corroboration of the *ʿormâ* pattern — are both `[T]`-grounded and both new relative to the overview, the sweep, and the sources consulted. The one place where the discipline slipped (v.3b) is declared above and re-tagged rather than quietly left. The chief outstanding risk is item 1 in Open Questions: Headline Finding 2 is partly carried by an unsourced proposal, and a preacher should verify it before building a sermon on it.
+**Health note.** Text-dominant, which is what a solo run on a seven-verse passage should be. The report's two most distinctive findings — the *ḥokmâ ûmûsār* bracket and the *mĕzimmâ* corroboration of the *ʿormâ* pattern — are both `[T]`-grounded and both new relative to the overview, the sweep, and the sources consulted. The one place where the discipline slipped (v.3b) is declared above and re-tagged rather than quietly left. **⚠ Revised 21 August.** The health note formerly named item 1 in Open Questions as the chief outstanding risk, on the ground that Headline Finding 2 was partly carried by an unsourced proposal. **That risk is now largely retired**: the lexical link was sourced on 15 August, the theological move on 21 August (Barnes, NET), and **Matthew 10:16 gives the finding a New Testament landing that does not depend on the allusion claim.** What remains unsourced is only the narrowest form of the claim — that 1:4 *deliberately alludes to* Gen 3:1 — and no part of the sermon needs it.
+
+**The chief outstanding risk is now a different one, and it is procedural.** This report's Open Questions list had fallen six items out of step with its own body, and was copied and worked from in that state. *See the maintenance note at the head of that section.*
