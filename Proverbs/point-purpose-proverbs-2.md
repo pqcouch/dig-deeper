@@ -96,6 +96,12 @@ vv.1–4 turned into a programme, with v.6 as an encouraging aside. **Verse 6 is
 >
 > **English versions render a Hebrew conditional imperfect as an imperative because that is how English says it** — *"if you make your ear attentive"* is clumsy, *"make your ear attentive"* is not. **The translation is right; a grammatical claim drawn from it is not.**
 >
+> **⚠ But Waltke supplies a qualification the sermon must respect, 21 August — and this plan's first issue over-read the point.** *"In the deep structure of meaning, **this casuistic construction is equivalent to an imperatival construction; both aim to persuade**."* `[S]` He also calls 2:1 *"this second **command** to internalize the parental teaching."*
+>
+> **He is right. Do not preach "there are no commands here, so relax."** The chapter has **six effortful verbs** and it is urging the son to act. What the grammar shows is **not** that no effort is asked, but that **the effort is framed as a condition attached to a promise — and the promise is grounded in v.6.**
+>
+> **So re-base the anti-moralism on the *kî*, not on the verb-count:** *the conditions are strenuous **because** the LORD gives, not in order to make him give.* **That is the load-bearing sentence. The absence of imperative forms is a supporting observation about form, and it should be offered as one.**
+>
 > **And the gap is itself worth a sentence in the sermon**, because it is exactly how the five-step misreading gets in: **an ancient reader heard conditions where a modern reader hears commands.**
 
 **2 · Quoting verse 6 alone.**

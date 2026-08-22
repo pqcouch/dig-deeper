@@ -126,7 +126,24 @@ Stripping the verse numbers, the passage has three grammatically distinct parts:
 
 **The outer bracket — *ḥokmâ ûmûsār*.** The purpose statement's first object (v.2a, "to know **wisdom and instruction**") is repeated as the last two words of the motto (v.7b, "fools despise **wisdom and instruction**"). `[T]` *High confidence.* This is the more important of the two, and it is the passage's best structural finding: the preamble opens by naming what the book gives and closes by naming those who will refuse the same two things. The bracket turns vv.2–7 into a single offer with a stated alternative.
 
+**A third bracket — and it is Waltke's, added 22 August.** `[S]` *"The **inclusio of 'wisdom' and 'wise' in vv. 2a and 5a** and of **'insight' and 'insightful' in vv. 2b and 5b** moves the unit **from the substance of wisdom to the person who incarnates it**."*
+
+| | v.2 | v.5 |
+|---|---|---|
+| **a-colon** | *ḥokmâ*, **wisdom** | *ḥākām*, **the wise man** |
+| **b-colon** | *bînâ*, **insight** | *nābôn*, **the insightful man** |
+
+**So vv.2–5 are themselves a bracketed unit, and the movement across it is from a quality to a person.** `[T]` on the four words; `[S]` on the reading. ***This is the best single answer to what v.5 is doing, and this report did not have it*** — see the Open Questions entry, now closed.
+
+**And Waltke supplies a catchword chain binding vv.2–5** `[S]`: *mûsār* is the last word of v.2a and the second word of v.3a · vv.2 and 4 are linked by *daʿat* (2a, 4b) · vv.3 and 5 by the root *lqḥ* ("accept" in v.3, "learning" in v.5). **An alternating stitch — 2→3, 2→4, 3→5 — inside the 2∥5 inclusio.**
+
+**One further grammatical note from Waltke:** the infinitives hang off v.1 because **a verb is elided** — *"The proverbs of Solomon … **[were collected]** to know wisdom…"* `[S]` *That is worth having: it explains how a title governs five purpose-clauses without a finite verb anywhere in sight.*
+
 **The interruption at v.5.** The chain of infinitives breaks. Verses 2–4 and v.6 are governed by *lāmed*-infinitives; v.5 has two finite verbs (*yišmaʿ*, "let him hear"; *wĕyôsep*, "and let him increase") and reads as a wish or invitation rather than a purpose. `[T]` *High on the grammatical fact.* Its significance is genuinely contested; see Tool 4 and the Difficulties section. What is not contested is that it is the structural surprise of the passage, and that whatever it does, it does by *breaking a pattern the reader has just learned* — which is itself a small demonstration of v.6's point that this book requires attention.
+
+**And Waltke calls the whole preamble a *janus*, 22 August.** `[S]` *"Since the preamble implicitly commends the work, **it forms a janus (or transition) to the prologue (1:8–9:18)** that motivates the audience to embrace the proverbs and sayings in the collections that follow."* **He uses the same term of Proverbs 2** — so on his reading the book opens with two consecutive transitional poems.
+
+**And he names the hinge-word:** *"The **catchword 'listen' in v. 5 and v. 8** strengthens the connection between the preamble and the prologue."* `[S]` **v.5's *yišmaʿ* → 1:8's *šĕmaʿ***, the same root in the same volitional register. `[T]` on the forms. **This is a Move 4 link the report did not have, and it is the mechanism by which v.5 "subtly includes the son among the wise"** — see Open Questions 7.
 
 **How the sections relate.** Superscription → purpose → foundation. The relation of v.7 to vv.2–6 is not sequential but architectural: it goes *underneath*. And the relation of v.1 to the rest is evidential rather than logical — it does not argue, it attributes.
 
@@ -202,7 +219,11 @@ Taken together with *ʿormâ*, the pattern is what makes the finding: **two of t
 
 *Pethî* is not "stupid." The root sense is **openness** — spaciousness, being wide open. The *pethî* is persuadable: 14:15, "the simple believes everything"; 22:3, "the simple go on and suffer for it"; 1:32, "the simple are killed by their turning away." `[T]` *Moderate–high.* His defect is not incapacity but the absence of a filter, which is why the book's opening problem is two invitations that sound the same (9:4 = 9:16).
 
-*Naʿar* covers an unusually wide range across the Old Testament: an unborn or infant child (Judg 13:5), a boy (1 Sam 2:11), a young man, a servant or retainer (Gen 22:5; 2 Kgs 5:20), a military attendant (1 Sam 14:1), a royal official (1 Kgs 11:28). `[T]` *High on the range.* It is at least as much a **status** term as an age term. The book-overview reports Ansberry's reading of the *naʿar* of Proverbs 1–9 as a young noble in a liminal position; that is `[S]`, it is a real and carefully argued proposal, and **it is not required by this passage** — nothing in vv.1–7 specifies the addressee's social station. Hold it loosely here; the evidence for it, such as it is, lies in chapters 3–7 (property, surety, the ruler's table), not in the preamble.
+*Naʿar* covers an unusually wide range across the Old Testament: an unborn or infant child (Judg 13:5), a boy (1 Sam 2:11), a young man, a servant or retainer (Gen 22:5; 2 Kgs 5:20), a military attendant (1 Sam 14:1), a royal official (1 Kgs 11:28). `[T]` *High on the range.*
+
+> **Waltke gives the range with its legal markers, 22 August** `[S]`: the term "places the morally brainless *pethî* in an age group that extends from **infancy** (Exod 2:6; 1 Sam 1:22) to a **seventeen-year-old** (Gen 37:2), to a **thirty-year-old** (Gen 41:12) — and so presumably **to any age before being reckoned an elder**." He adds: **accountable at twenty** (Num 1:3), **no temple service until thirty** (Num 4:3). *"In this book the naʿar is **on the threshold of maturity**, and a decision to join the wise is imperative."*
+>
+> **So the word marks liminality, not adolescence** — which widens the sermon's addressee well beyond the young, and matches Waltke's reading of v.5: the book addresses **a spectrum**, from the gullible to the wise. It is at least as much a **status** term as an age term. The book-overview reports Ansberry's reading of the *naʿar* of Proverbs 1–9 as a young noble in a liminal position; that is `[S]`, it is a real and carefully argued proposal, and **it is not required by this passage** — nothing in vv.1–7 specifies the addressee's social station. Hold it loosely here; the evidence for it, such as it is, lies in chapters 3–7 (property, surety, the ruler's table), not in the preamble.
 
 **(f) "Riddles" (*ḥîdôt*, v.6).** The plural of *ḥîdâ*: Samson's riddle (Judg 14:12–19), the Queen of Sheba's hard questions to Solomon (1 Kgs 10:1), the "dark sayings" of Ps 78:2, and Ezekiel's riddle-parable (Ezek 17:2). `[T]` *High.* The word denotes something deliberately obscure that yields to work. Its presence in the purpose statement is a genre-signal of the first importance and is treated under Tool 12.
 
@@ -801,7 +822,17 @@ Common ways this passage gets mishandled, and how to avoid them.
 6. ~~**1:7 *rēʾšît* vs 9:10 *tĕḥillat*.** Confirm that the two nouns genuinely differ in the Hebrew.~~
    **✅ RESOLVED 21 August.** Confirmed against BHS: **1:7** יִרְאַת יְהוָה **רֵאשִׁית** דָּעַת · **9:10** **תְּחִלַּת** חָכְמָה יִרְאַת יְהוָה. `[T]` **The two nouns genuinely differ.** *Rēʾšît* carries both "beginning" and "chief part"; *tĕḥillâ* is unambiguously temporal. **So 1:7 says something 9:10 does not**, the finding stands at **high**, and the "start here then move on" misreading is blocked by the book's own choice of a different noun.
 
-7. **Verse 5 — which construal? ⚠ Still open, and the question is restated because the first wording was unintelligible when put to the library.**
+7. ~~**Verse 5 — which construal?**~~ **✅ RESOLVED 22 August by Waltke — and the fork was a false dichotomy.**
+
+   **The question offered two options: (a) a second addressee, or (b) an aside/invitation. Waltke's answer is both, and the reason they are not alternatives is the verb-form.**
+
+   - **(a) is right.** *"On the other end of the **spectrum of addressees** stands the wise (*ḥākām*)."* And of the preamble as a whole: *"its addressees, namely, Israel's educable youth (**vv. 4-5**)."* `[S]` **The wise are a named addressee, not an afterthought.**
+   - **(b) is also right, and it is the verb-form that makes it so.** *"By using the **volitional form** of the word 'to hear'… The force of the volitional form, which varies from command to request, **functions here as an invitation**, since the wise want to obey such a command."* `[S]`
+   - **And the third thing, which neither option contained.** *"By using the volitional form… the preamble **subtly includes the son among the wise** who are addressed in the volitional form of this word (see 1:8)."* `[S]` **The same volitional form ties v.5 to *šĕmaʿ bĕnî* at 1:8** — so the wise and the son are not two audiences but two ends of one spectrum.
+
+   **Verdict:** the report's lean to (b) is **confirmed on the verb-form and corrected on its implication.** *The wise are not eavesdropping on a book addressed to somebody else; they stand at the far end of the addressee-spectrum, and are invited rather than commanded because they would come anyway.* **Moderate–high.**
+
+   > **And Waltke adds the structural key the question had been reaching for: the *ḥokmâ*/*ḥākām* and *bînâ*/*nābôn* inclusio across vv.2 and 5** — *"moves the unit from the substance of wisdom to the person who incarnates it."* **v.5 is not an interruption in the structure; it is the closing bracket of vv.2–5.** See Tool 3.
 
    **The grammar.** Verses 2–6 form one sentence hanging off v.1, and its spine is five **infinitives construct** with *lāmed* — *lādaʿat… lĕhābîn… lāqaḥat… lātēt… lĕhābîn*. **Verse 5 breaks the chain**, switching to two **finite verbs**: *yišmaʿ… wĕyôsep*.
 
@@ -817,6 +848,10 @@ Common ways this passage gets mishandled, and how to avoid them.
    **The datum was already confirmed against BHS on 17 August** and stands `[T]`. **The exegetical significance was wrong.** This report read the absent preposition as **emphasis** — "throwing weight onto" the triad. **NET gives the grammatical description instead:**
 
    > "The three nouns that follow 'self-discipline of prudence' are **adverbial accusatives of manner**, describing the **ways in which** the disciplined prudent activity will be manifested: 'in righteousness, justice, and equity.'" `[S]`
+
+   **And Waltke supplies the *reason* the specification is needed, 22 August — which complements NET's grammar rather than competing with it:** *"**Since wisdom and its co-referential terms can be malevolent, not benevolent**, v. 3b qualifies the instruction as that which **serves and heals the community**: what is right, and just, and fair."* `[S]`
+
+   **Note what that is: Waltke's own statement of the two-edged-vocabulary finding, made about these very verses.** The book's wisdom-words can go bad; v.3b names the direction they must go instead. **NET says *how* the discipline is exercised; Waltke says *why* it had to be said.** *Together they make a better sentence than either alone — and they corroborate the *ʿormâ*/*mĕzimmâ* observation from a third direction.*
 
    **That is a normal construction doing ordinary work, not a rhetorical spotlight — and the corrected reading is the stronger one.** On the emphasis reading the triad is the most important item in a list. **On the adverbial reading it is not an item in the list at all: it is the *mode* in which the whole discipline is exercised.** Righteousness, justice and equity are not one more thing Proverbs teaches; **they are the manner in which everything it teaches is carried out.** *Corrected in Headline 4, Tool 3, Tool 5 and Convergent Findings.*
 

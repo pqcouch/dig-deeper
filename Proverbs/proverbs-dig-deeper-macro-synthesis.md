@@ -78,6 +78,10 @@ And the same denial is made structurally in run after run:
 
 **Confidence: strong.** *Eight pericopes, a countable verbal thread across five of them, and every run's moralism-check landed independently in the same place.*
 
+> **✅ And a commentator groups the thread the same way — added 21 August.** Commenting on the scoffers of 1:22, **Waltke** writes that the mark of the "wild donkey's colt" is *"that **he considers himself wise (26:5, 12; cf. 3:7)**, and, correlatively, these cocksure fellows are contemptuous toward their teachers."* `[S]`
+>
+> **Three of this thread's nine verses, cited together, spanning the frame (3:7) and the collections (26:5, 12)** — which is exactly the shape this argument claims. **The thread was assembled independently here from the parsed Hebrew; Waltke's grouping is an earned corroboration of its coherence, not its source.**
+
 **Payoff.** **This is the series' governing pastoral logic and it should be stated early and returned to.** The standard Proverbs sermon — *be wise, be diligent, be prudent* — is the one thing the book's own vocabulary is constructed to prevent. Preach the *bəʿênāyw* thread once, explicitly, and the congregation will hear the rest of the series correctly.
 
 ---

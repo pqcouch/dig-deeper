@@ -95,6 +95,10 @@ Those two purposes explain the chapter's texture. It feels abstract because it i
 
 > **Tested again on 21 August against a source that said the opposite — and the finding holds.** A Logos return stated that vv.2-4 *"contain direct commands ('Make,' 'Incline,' 'Lift,' 'seek,' 'search')"* and that *"the son is directly commanded."* **Those are the NASB's English imperatives, not Hebrew ones.** From BHS at 2:1 - *im-**tiqqah** amaray umiswotay **tispon** ittak* - **both verbs carry the taw prefix and are therefore second-person imperfects**; the imperatives would be *qah* and *sepon*. `[T]` The same holds through vv.2-4: *tatteh, tiqra, titten, tebaqsenna, tahpesenna*, all prefixed, all under *im*.
 >
+> **⚠ And a qualification from Waltke, 21 August, which this report must accept.** Waltke: *"In the deep structure of meaning, **this casuistic construction is equivalent to an imperatival construction; both aim to persuade**."* He also calls 2:1 *"this second **command** to internalize the parental teaching."* `[S]`
+>
+> **What is unaffected:** the grammatical fact. Waltke does not dispute that the forms are conditional imperfects. **What is qualified is this report's inference from it.** The absence of imperative *forms* does **not** show that the son is not being urged to act — the chapter has six effortful verbs and a casuistic construction persuades. **The anti-moralism argument rests on the *kî* of v.6, not on the imperative count**, and the count is a supporting observation about form rather than the load-bearing one. *Three layers: (1) no imperative forms — fact; (2) the construction is conditional — fact; (3) therefore the son is not being urged — **wrong, and now withdrawn**.*
+>
 > **English renders a Hebrew conditional imperfect as an imperative because that is how English says it** - *"if you make your ear attentive"* is clumsy. **The translation is right; a grammatical claim drawn from it is not.** *This is the third occasion in the project where a source asked about the Hebrew has answered from an English text; future queries should ask for the parsed form, not the rendering.*
 >
 > **And the gap is worth preaching:** *an ancient reader heard conditions where a modern reader hears commands* - which is exactly how the five-step-method misreading enters. Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
@@ -185,6 +189,64 @@ The chapter has **22 verses** — the number of letters in the Hebrew alphabet �
 
 **And the hinge is not merely formal.** The *ʾālep*-half says what the son **will understand** (the two *ʾāz* apodoses at vv.5 and 9); the *lāmed*-half says what he **will be delivered from** (the two *lĕhaṣṣîlĕkā* infinitives at vv.12 and 16). **The letter changes where the subject changes.**
 
+> ### ⬆⬆ Extended by Waltke, 21 August — **the letters are not laid over the syntax; they *are* the syntax**
+>
+> Waltke has the halves, the stanzas and the 4·4·3 symmetry independently — *"two equal halves (2:1–11, 12–22), each half consisting of two stanzas of four verses and a **climactic** third of three verses"* — and adds the point this report missed:
+>
+> > *"Each stanza of vv. 1–11 begins with the first letter of the Hebrew alphabet, ***ʾaleph*** (**ʾim** 'if,' **ʾāz** 'then' [twice]), and each stanza of the second half with its twelfth consonant, ***lamed*** (**lehaṣṣîlekā** 'to deliver you' [twice] and **lemaʿan** 'so that')."* `[S]`
+>
+> | Half | Stanza | Opening word | Letter | Logical function |
+> |---|---|---|---|---|
+> | **ʾālep** | 2:1–4 | ***ʾim*** | א | the condition |
+> | | 2:5–8 | ***ʾāz*** | א | first "then" |
+> | | 2:9–11 | ***ʾāz*** | א | second "then" |
+> | **lāmed** | 2:12–15 | ***lĕhaṣṣîlĕkā*** | ל | first "to deliver you" |
+> | | 2:16–19 | ***lĕhaṣṣîlĕkā*** | ל | second "to deliver you" |
+> | | 2:20–22 | ***lĕmaʿan*** | ל | "so that" |
+>
+> **The six stanza-initial letters are the six logical particles.** `[T]` on the words; `[S]` on the reading. **This report treated the alphabetic pattern as a formal overlay on the syntactic skeleton of (a) — it *is* that skeleton.** Analyses (a) and (c) are therefore not two complementary readings but **one reading seen twice.**
+
+#### (d) Waltke's alternating patterns within each half
+
+**First half — A·B·C ‖ A′·B′·C′** `[S]`
+
+| | Verse | Marker | Function |
+|---|---|---|---|
+| **A** | 2:5 | *ʾāz tābîn* | Summary: **religious** education |
+| **B** | 2:6 | *kî* | Substantiation: **the LORD gives** wisdom |
+| **C** | 2:8 | *nṣr / šmr* | Result: **divine** protection |
+| **A′** | 2:9 | *ʾāz tābîn* | Summary: **ethical** education |
+| **B′** | 2:10 | *kî* | Substantiation: wisdom **enters the heart** |
+| **C′** | 2:11 | *šmr / nṣr* | Result: **character** protection |
+
+**This confirms this report's "vertical before horizontal" finding and names it.** Waltke: *"A personal relationship with the LORD (vv. 5–8) **entails** an intuitive understanding of what is right in human relationships (vv. 9–11)."* And **Van Leeuwen's canonical parallel**: *"the movement from the divine to the human is fundamental to biblical faith"* — **the Decalogue, then the Lord's Prayer** (Matt 6:9–10 God-ward, 6:11–13 human-ward). *One caution: the Exodus reference as transmitted reads "20:1–7 followed by 20:8–11", which looks like a slip — the Decalogue's divine/human division is normally 20:1–11 / 20:12–17. The point is sound; check the reference before quoting it.*
+
+**And the chiasm that closes the half — new, and machine-confirmed** `[T]`:
+
+> **v.8** *li**nṣōr*** … *yi**šmōr*** — **nṣr · šmr**
+> **v.11** *ti**šmōr*** … *ti**nṣĕrekkā*** — **šmr · nṣr**
+
+**An exact ABBA.** Waltke: *"The chiasm of the word pair 'guard' (vv. 8a, 11b) and 'watches over' (vv. 8b, 11a) brings the first half to closure."* **And a third occurrence he does not mention: v.20's *tišmōr*** closes the body — so the guard-words run **8 ×2 · 11 ×2 · 20**.
+
+**Second half — the same shape** `[S]`
+
+| | Verse | Marker | Function |
+|---|---|---|---|
+| **A** | 2:12 | *lĕhaṣṣîlĕkā* | deliver from **perverse men** |
+| **B** | 2:13 | *ʿzb*, "who **abandon**" | straight paths |
+| **C** | 2:14–15 | *maʿgal* | their crooked **tracks** |
+| **A′** | 2:16 | *lĕhaṣṣîlĕkā* | deliver from **the strange woman** |
+| **B′** | 2:17 | *ʿzb*, "who **abandons**" | the partner of her youth |
+| **C′** | 2:18 | *maʿgal* | her deadly **tracks** |
+
+**"Both stanzas end with the final word 'tracks.'"** `[T]` — confirmed: v.15 closes *bĕmaʿgĕlôtām*, v.18 closes *maʿgĕlōtêhā*.
+
+#### (e) And Waltke calls the chapter a **janus**
+
+*"The poem functions as the **first janus (or transitional) poem in the prologue**."* `[S]` It looks back to 1:8–19 — *"as the parents in 1:8–9 rival the thugs in 1:10–19, here the son is again confronted with two ways"* — and forward to **4:10–19 and 4:20–27**, where the two-ways metaphor is developed. **This is the structural warrant for reading chapter 2 as a programme chapter**, and it is Waltke's own term — the same term Ansberry uses of 27:23–27.
+
+**One further Move 4 link from the same page:** *"This second command to internalize the parental teaching **escalates the first command from 'hear' (1:8) to 'accept' (2:1)**."* `[S]` **Sermon 3 receives from sermon 2's territory by escalation, not repetition.**
+
 > **What to say and not say.** Say *"built on the alphabet's first and middle letters."* **Do not say "acrostic"** — Longman explicitly doubts one was intended, and Proverbs' one true acrostic is 31:10–31.
 >
 > **The correspondence with 31:10–31 is still worth noting and still not established.** Both are 22 verses; chapter 2 opens the instruction as 31:10–31 closes the book. `[I]` *Moderate. Elegant if designed; do not preach it as established, and note that it does not clear the macro-synthesis's ≥3-pericope gate.*
@@ -255,7 +317,11 @@ The theological point is exact. What the son hides in himself, God has already h
 
 **(e-bis) *ḥāsîd*, "one bound in covenant loyalty" (v.8) — and it occurs nowhere else in Proverbs.** `[T]` **Confirmed by lemma search, 21 August: *ḥăsîdāyw* at 2:8 is the sole occurrence of *ḥāsîd* in the book.** The great covenant-loyalty term appears exactly once, and it appears **here** — in the chapter that grounds wisdom in God's giving, inside the clause *"watching over the way of **his saints**."* And it is **plural**, which supports the reading of v.8's promise as corporate rather than individual. *A small, clean datum, and it strengthens the covenant-marker argument below.*
 
-**(f) The road-words.** *Derek*, *ʾōraḥ*, *maʿgāl*, *nātîb* — roughly **thirteen occurrences in twenty-two verses** (vv.8 ×2, 9, 12, 13 ×2, 15 ×2, 18, 19, 20 ×2). `[T]` *Moderate–high; verify by concordance.* This is plausibly the densest concentration in the book, and it is the chapter where the two-ways framework is installed. Note the ownership: the paths of justice and the way of his saints are **God's** to guard (v.8); the paths of uprightness are what the wicked **forsake** (v.13); her paths lead to the departed (v.18); and the way of the good is what the son will **walk** (v.20).
+**(f) The road-words. ⚠ Corrected — and the correction is older than it looks.** **Twelve occurrences of three synonyms** — *derek*, *ʾōraḥ*, *maʿgāl* — at v.8 ×2 · v.9 · v.12 · v.13 ×2 · v.15 ×2 · v.18 · v.19 · v.20 ×2. **There is no *nĕtîbâ* in this chapter**; it is at 1:15. `[T]` *High — verified against the Hebrew on 17 August and machine-counted again on 21 August.*
+
+> **This paragraph said "roughly thirteen… *nātîb*" until 21 August, although Tool 10 had carried the corrected figure since 17 August.** A correction made in one place and not propagated to the other two — **the same failure that let the Open Questions list drift.** *Both other occurrences are now fixed.*
+>
+> *Waltke lists the same four synonyms, so a major commentary makes the same slip — presumably because all four belong to the metaphor as the prologue uses it. His verse-list also counts v.15 once where the Hebrew has two.* This is plausibly the densest concentration in the book, and it is the chapter where the two-ways framework is installed. Note the ownership: the paths of justice and the way of his saints are **God's** to guard (v.8); the paths of uprightness are what the wicked **forsake** (v.13); her paths lead to the departed (v.18); and the way of the good is what the son will **walk** (v.20).
 
 **Proper-noun inventory.** **Nil** — the chapter contains no personal names, place names or significant numbers. `[T]` No name-hyperlink check applies. (The one number-adjacent datum, the 22-verse count, is treated under Structure.)
 
@@ -509,7 +575,8 @@ A reader after 586 BC hears vv.21–22 as a statement about something that has a
 - ~~The *ṣāpan* identity at vv.1 and 7 (Headline 2 rests on it).~~ **Confirmed 15 August**, with a Ketiv/Qere at v.7 that does not affect the finding. See Open Questions.
 - The absence of imperatives across the chapter.
 - The *ḥăsîdāyw* uniqueness in Proverbs.
-- The counts: √*byn* (**7**), road-words (13), *nāṣar/šāmar* (4). **Partially checked 15 August; the returned search was incomplete and the counts remain open.** See Open Questions.
+- The counts: √*byn* (**7**), **road-words (12 — corrected; see Tool 7(f))**, *nāṣar/šāmar* (**5 — corrected; see below**). **Partially checked 15 August; √*byn* remains open.**
+  > **⚠ Two of these three were settled and this line was not updated.** Road-words: **twelve**, verified 17 August and again 21 August. *Nāṣar/šāmar*: **five, not four** — *linṣōr* and *yišmōr* (v.8), *tišmōr* and *tinṣĕrekkā* (v.11), *tišmōr* (v.20). `[T]` machine-counted 21 August. **The first four form Waltke's ABBA chiasm; the fifth closes the body.**
 - ***Ḥāsîd* at v.8 — resolved 15 August.** *Ḥăsîdāyw* at 2:8 is **the only occurrence of *ḥāsîd* in Proverbs**, confirmed. The related noun *ḥesed* occurs at 3:3; 11:17; 14:22; 16:6; 19:22; 20:6, 28; 21:21; 31:26 — paired with *ʾĕmet* at 3:3; 14:22; 16:6; 20:28. So the book's single use of the covenant-loyalty *adjective* falls in the same chapter as its first invocation of Deuteronomy's land sanctions (vv.21–22). That coincidence now stands as a verified finding. `[T]` *High.*
 
 > ### The covenant thread runs through the whole chapter — added 17 August
@@ -717,7 +784,7 @@ Places where two or more tools independently arrived at the same point.
 
 6. **The chapter answers 1:28.** Move 4 · Positional Necessity · Author's Purpose · Tone · Original Audience. *Moderate–high.*
 
-7. **Both dangers are described as forsaking.** Vocabulary (*ʿāzab*, vv.13, 17) · Parallels · So What. The chapter's moral psychology: failure is defection from a bond, not a lapse in judgement. *Moderate–high.*
+7. **Both dangers are described as forsaking.** Vocabulary (*ʿāzab*, vv.13, 17) · Parallels · So What. The chapter's moral psychology: failure is defection from a bond, not a lapse in judgement. **✅ Confirmed independently by Waltke, 21 August, and in stronger terms than this report dared:** *"B/B′ identify the seductive men and women as **apostates from their covenantal heritage**."* `[S]` **An earned confirmation — reached text-first before Waltke was opened. Upgraded to *high*.**
 
 8. **God guards in v.8; wisdom guards in v.11 — the same protection, mediated.** Repetition · Original Languages · Structure. *Moderate–high.*
 

@@ -760,7 +760,19 @@ Places where two or more tools independently arrived at the same point. Headline
 
    > **One caution from Wilson, and it should govern the sermon.** Matthew's parable "interrupts this tone of warm welcome" at 22:11-14 with **eschatological judgement, which Proverbs 9 does not have.** **Preach the invitation; do not import Matthew's judgement scene into Proverbs 9.** *(Proverbs 9 has its own ending at 9:18, and it is quite dark enough.)*
 
-8. **1:23's ambiguity** — offer or accusation. Affects how 1:20–33 is preached; not resolved here.
+8. ~~**1:23's ambiguity** — offer or accusation.~~ **✅ RESOLVED 21 August — Waltke reads it as an offer, and supplies an inclusio this project did not have.**
+
+   **Waltke:** *"Wisdom again addresses the overgrown, unresponsive youths, **calling them to turn back (or repent, tāšûbû); there is still hope for them, but not forever** (see vv. 29-31 and the inclusio 'turn away' in v. 32)... **She pleads** with the heretofore-unresponsive youths to turn back and listen to her rebuke."* `[S]` *Moderate-high.*
+
+   **So the ESV's main text is right and its footnote is the weaker option** — and Waltke reads v.23 as **stronger** than the ESV's conditional: not "if you turn" but a plea, *turn back*.
+
+   **And the structural datum, which is new:**
+
+   > **1:23** *tāšûbû* — "**turn back**" · **1:32** *mĕšûbat pĕtāyim* — "the **turning away** of the simple will kill them"
+
+   **The same root opens and closes Wisdom's speech, and the polarity reverses.** `[T]` on the root; `[S]` on the inclusio. **Wisdom's appeal is to turn *back*; what kills the simple is their turning *away*.**
+
+   **Preaching consequence, and it changes the shape of the sermon.** 1:20-33 is **not** an indictment with a hopeless verdict. It is **an offer with a deadline**. The judgement of vv.24-31 is what follows a refused plea; it is not the speech's opening posture.
 
 9. ~~**The *ḥokmôt* plural at 1:20.** The explanation is standard but unverified for this run.~~
    **RESOLVED 21 August — four sources, and one adds an alternative this report did not have.** `[S]` **Schwab**: "a feminine plural parsed as a singular… similar to the plural *elohim*… **She, Wisdom, is a larger-than-life single entity, omnipresent and inescapable**." **NET**: "a plural of intensity, stressing the all-embracing, elevated wisdom." **JFB**: "indicative of the great excellency of wisdom."
