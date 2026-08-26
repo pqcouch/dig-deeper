@@ -131,7 +131,7 @@ BHS carries **two** *petuchah* markers inside 16:1–22:16: at **19:9** and **21
 | Paragraph | Verses | |
 |---|---|---|
 | … | 10:1b – 13:25 | *(1A)* |
-| | **14:1 – 19:9** | **91 verses, crossing 15:33/16:1** |
+| | **14:1 – 19:9** | **162 verses, crossing 15:33/16:1** ⚠ *corrected 26 August from "91"* |
 | | 19:10 – 21:30 | 52 verses |
 | | **21:31 – 22:21** | **crossing 22:16/22:17, the collection boundary** |
 | | 22:22 – 22:29 | |
@@ -896,7 +896,7 @@ The collections assessment records his grounds: 1A "characterized by antithetica
 
 ### 2. The 15:33/16:1 division has no transmission-level support, and now we know how much
 
-The 1A run found four verbatim links crossing the seam. **This run finds that the Masoretic paragraph runs 14:1 → 19:9** — ninety-one verses straight across it. `[T]`
+The 1A run found four verbatim links crossing the seam. **This run finds that the Masoretic paragraph runs 14:1 → 19:9** — **162 verses** straight across it. *(⚠ corrected 26 August from "ninety-one".)* `[T]`
 
 **And the same is true at 22:16/22:17**, where the paragraph runs 21:31 → 22:21, across a boundary marked by a superscription in the text itself.
 

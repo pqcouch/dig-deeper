@@ -81,7 +81,7 @@ Recorded so it is not asked again.
 Recorded so it is not asked again.
 
 - **The four-way antithesis comparison** — complete. See item 1.
-- **Where the Masoretic paragraph beginning at 14:1 closes** — at **19:9**. So the paragraph runs **14:1 → 19:9**, ninety-one verses, straight across 15:33/16:1. `[T]`
+- **Where the Masoretic paragraph beginning at 14:1 closes** — at **19:9**. So the paragraph runs **14:1 → 19:9**, **162 verses**, straight across 15:33/16:1. `[T]` *(⚠ corrected 26 August from "ninety-one", on a direct count from the parsed BHS.)*
 - **The *petuchah* pattern, now attested from three runs.** Paragraphs run straight across **15:33/16:1**, **22:16/22:17** (a superscription boundary) and **27:27/28:1**; the one boundary the markers *do* mark, 27:22/23, is not one modern scholarship draws. **Whatever the *petuchot* record, it is not the collection structure.**
 - **The LXX plus at 22:8a** — verified; see the closed item below.
 - **Two corrections to the sweep's Passage 12**: 16:1–9 names YHWH in **eight** of nine verses, not seven; and 16:10–15 names the king in **five** of six, because **16:11 names YHWH and the weights instead** — which makes the sweep's own argument stronger, since the limit on royal authority is stated *inside* the royal block.

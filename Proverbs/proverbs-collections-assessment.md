@@ -100,7 +100,7 @@ This suggests a symmetry Ansberry does not draw. He identifies a janus at the en
 
 **Sound, with the boundary understood as a hinge rather than a knife-edge.** The formal division at 16:1 is real and sharply marked. The thematic transition occupies roughly 15:1–16:9. Preach the difference between the two halves; do not preach a wall at 15:33.
 
-> **⚠ And the received paragraphing gives it no support at all — 20 August.** `[T]` BHS carries *petuchah* markers at 13:25, **19:9** and 21:30. **The Masoretic paragraph therefore runs 14:1 → 19:9 — ninety-one verses, straight across 15:33/16:1.**
+> **⚠ And the received paragraphing gives it no support at all — 20 August.** `[T]` BHS carries *petuchah* markers at 13:25, **19:9** and 21:30. **The Masoretic paragraph therefore runs 14:1 → 19:9 — ⚠ *one hundred and sixty-two* verses, straight across 15:33/16:1.** *(**Corrected 26 August from "ninety-one"**, on a direct count from the parsed BHS at the Solomon I whole-section run. The correction strengthens the argument.)*
 >
 > **This is now a pattern across three runs, and it should be stated as one:**
 >
@@ -167,7 +167,7 @@ This suggests a symmetry Ansberry does not draw. He identifies a janus at the en
 > **The consequence for this document.** The likeliest explanation is that **both traditions inherited a common inventory of division points and made different arrangement decisions at them** `[I]` — so the markers record joints already present when the Greek *Vorlage* was arranged. **That raises the evidential value of every paragraphing finding here, including the three that ran against the modern consensus:**
 >
 > - the Masoretic paragraph running **27:23 → 28:4**, straight across what Fox calls "the common division"
-> - the ninety-one-verse paragraph **14:1 → 19:9**
+> - the **162-verse** paragraph **14:1 → 19:9** *(corrected 26 August from "ninety-one")*
 > - the **silence at 15:33/16:1**
 >
 > Those are no longer *"the Masoretes disagree with the scholars."* They are ***"the transmitted division-points disagree with the scholars."***

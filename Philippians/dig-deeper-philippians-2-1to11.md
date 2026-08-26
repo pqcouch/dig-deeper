@@ -428,6 +428,16 @@ NT passage — Christ is named throughout; the reading is largely explicit, in *
 
 ---
 
+### Research verification — round five, 26 August 2026
+
+**A framing for 2:6–8 worth having: *cursus honorum* and *cursus pudorum*.** Witherington reads the hymn as Christ deliberately refusing to climb "the social ladder of society, the *cursus honorum*", and choosing instead **"a *cursus pudorum*, or deliberate stepping down the ladder of society and taking the role of a slave or servant"** (p. 113).
+
+That is the honour-shame frame of the hymn named precisely, and it is more useful than either half on its own. A Roman hearer knew what a *cursus honorum* was — the fixed ladder of public offices a man climbed, recorded on stone when he had finished climbing it. The hymn's descent is not merely humility in the abstract; it is that ladder **descended on purpose**, rung by rung: form of God → form of a servant → human likeness → obedient to death → death on a cross. And in a colony of veterans, where such careers were literally carved into the local monuments, the inversion would have been legible.
+
+Two cautions. Witherington applies this to **chapter 2**; the analogous reading of 3:5–6 as a pedigree written in the same form is *this corpus's own proposal* and remains unattested (see `§1:27–4:1`, Tool 12). And "stepping down the ladder" must not be softened into modesty — the bottom rung in the hymn is a slave's death, which was outside the ladder altogether. `[S: Witherington]`
+
+---
+
 ### Research verification — 13 August 2026
 
 - **Q1 (*harpagmos*) is closed.** Silva engages Hoover directly and judges his study to have "settled this particular question": the analytical error was isolating *harpagmos*, when the operative unit is the **idiom ἡγέομαι + ἁρπαγμός**, denoting something already at one's disposal. Sense: "did not regard being equal with God as **something to use for his own advantage**" — the ESV *footnote*, not its main text. Silva's two cautions are worth carrying: the phrase "has created a literature far more extensive than it probably deserves", and Christ's pre-existence and deity should not be made to hang on the active/passive question. `[S: Hoover, via Silva BECNT]`

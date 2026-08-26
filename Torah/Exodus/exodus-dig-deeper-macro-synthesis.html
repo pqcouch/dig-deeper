@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Exodus — Dig-Deeper Macro-Synthesis</title>
 <style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  div.columns{display: flex; gap: min(4vw, 1.5em);}
+  div.column{flex: auto; overflow-x: auto;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+  pre > code.sourceCode { white-space: pre; position: relative; }
+</style>
+<style>
+
 :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
@@ -37,34 +47,35 @@
   .tag{white-space:nowrap;}
   @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 
+
 </style>
 </head>
 <body>
 <div class="wrap">
-<nav>
-<h2>Contents</h2>
-<ul>
-<li><a href="#exodus-dig-deeper-macro-synthesis">Exodus — Dig-Deeper Macro-Synthesis</a></li>
-<li><a href="#how-to-read-this-document">How to read this document</a></li>
-<li><a href="#exodus-asks-two-questions-and-answers-one-in-each-half">1. Exodus asks two questions, and answers one in each half</a></li>
-<li><a href="#the-descent-spine-god-comes-down-and-the-coming-down-ends-in-a-tent">2. The descent-spine: God comes down, and the coming-down ends in a tent</a></li>
-<li><a href="#the-book-states-its-destination-long-before-it-arrives-the-thesis-is-distributed">3. The book states its destination long before it arrives — the thesis is distributed</a></li>
-<li><a href="#creation-is-the-books-frame-a-people-made-an-empire-un-made-a-world-re-made">4. Creation is the book’s frame: a people made, an empire un-made, a world re-made</a></li>
-<li><a href="#grace-precedes-law-and-law-precedes-sinai.-the-argument-is-structural-not-merely-stated">5. Grace precedes law — and law precedes Sinai. The argument is structural, not merely stated</a></li>
-<li><a href="#substitution-runs-from-a-sentence-in-chapter-4-to-the-foundations-of-the-tent">6. Substitution runs from a sentence in chapter 4 to the foundations of the tent</a></li>
-<li><a href="#the-mediator-is-authenticated-then-subdivided-then-shut-out">7. The mediator is authenticated, then subdivided, then shut out</a></li>
-<li><a href="#israels-yes-cannot-hold-and-the-book-demonstrates-it-four-times">8. Israel’s “yes” cannot hold — and the book demonstrates it four times</a></li>
-<li><a href="#the-nations-are-in-the-frame-from-chapter-1">9. The nations are in the frame from chapter 1</a></li>
-<li><a href="#counterfeit-is-the-books-device-for-exposing-sin">10. Counterfeit is the book’s device for exposing sin</a></li>
-<li><a href="#method-the-load-bearing-evidence-was-hebrew-diction-and-the-greek-breaks-it-five-times">11. Method — the load-bearing evidence was Hebrew diction, and the Greek breaks it five times</a></li>
-<li><a href="#method-the-narrator-withholds-verdicts-the-pulpit-reflexively-supplies">12. Method — the narrator withholds verdicts the pulpit reflexively supplies</a></li>
-<li><a href="#candidate-threads-flagged-not-yet-macro">Candidate threads — flagged “not yet macro”</a></li>
-<li><a href="#what-the-sweep-did-not-find">What the sweep did not find</a></li>
-<li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
-<li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
-</ul>
-</nav>
-<main>
+  <nav>
+    <h2>Contents</h2>
+    <ul>
+      <li><a href="#exodus-dig-deeper-macro-synthesis">Exodus — Dig-Deeper Macro-Synthesis</a></li>
+      <li><a href="#how-to-read-this-document">How to read this document</a></li>
+      <li><a href="#exodus-asks-two-questions-and-answers-one-in-each-half">1. Exodus asks two questions, and answers one in each half</a></li>
+      <li><a href="#the-descent-spine-god-comes-down-and-the-coming-down-ends-in-a-tent">2. The descent-spine: God comes down, and the coming-down ends in a tent</a></li>
+      <li><a href="#the-book-states-its-destination-long-before-it-arrives-the-thesis-is-distributed">3. The book states its destination long before it arrives — the thesis is distributed</a></li>
+      <li><a href="#creation-is-the-books-frame-a-people-made-an-empire-un-made-a-world-re-made">4. Creation is the book’s frame: a people made, an empire un-made, a world re-made</a></li>
+      <li><a href="#grace-precedes-law-and-law-precedes-sinai.-the-argument-is-structural-not-merely-stated">5. Grace precedes law — and law precedes Sinai. The argument is structural, not merely stated</a></li>
+      <li><a href="#substitution-runs-from-a-sentence-in-chapter-4-to-the-foundations-of-the-tent">6. Substitution runs from a sentence in chapter 4 to the foundations of the tent</a></li>
+      <li><a href="#the-mediator-is-authenticated-then-subdivided-then-shut-out">7. The mediator is authenticated, then subdivided, then shut out</a></li>
+      <li><a href="#israels-yes-cannot-hold-and-the-book-demonstrates-it-four-times">8. Israel’s “yes” cannot hold — and the book demonstrates it four times</a></li>
+      <li><a href="#the-nations-are-in-the-frame-from-chapter-1">9. The nations are in the frame from chapter 1</a></li>
+      <li><a href="#counterfeit-is-the-books-device-for-exposing-sin">10. Counterfeit is the book’s device for exposing sin</a></li>
+      <li><a href="#method-the-load-bearing-evidence-was-hebrew-diction-and-the-greek-breaks-it-five-times">11. Method — the load-bearing evidence was Hebrew diction, and the Greek breaks it five times</a></li>
+      <li><a href="#method-the-narrator-withholds-verdicts-the-pulpit-reflexively-supplies">12. Method — the narrator withholds verdicts the pulpit reflexively supplies</a></li>
+      <li><a href="#candidate-threads-flagged-not-yet-macro">Candidate threads — flagged “not yet macro”</a></li>
+      <li><a href="#what-the-sweep-did-not-find">What the sweep did not find</a></li>
+      <li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
+      <li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
+    </ul>
+  </nav>
+  <main>
 <h1 id="exodus-dig-deeper-macro-synthesis">Exodus — Dig-Deeper Macro-Synthesis</h1>
 <p><em>What the fifteen full solo <code>/dig-deeper</code> runs (§1–§15), taken together, demonstrate about the book — the cross-pericope arguments invisible at the level of a single passage but unmistakable once the whole sweep is laid side by side. Companion to <code>book-overview-exodus.md</code> (v.1.0.5) and the fifteen dig-deeper reports. Text-first; confidence-flagged.</em></p>
 <p><strong>Date:</strong> 6 August 2026 · <strong>Basis:</strong> a complete sweep — every preaching unit in Exodus has a solo run; twelve are Logos-checked.</p>
@@ -234,6 +245,7 @@
 <li><strong>14:31 → 15:24</strong> — <em>“they believed in the LORD and in his servant Moses”</em> → <em>“the people grumbled”</em>, <strong>three days later by the text’s own count</strong> (15:22) (§7, §8). <code>[T]</code></li>
 <li><strong>19:8 → 20:19</strong> — <em>“All that the LORD has spoken we will do”</em> → <em>“do not let God speak to us, lest we die”</em> (§10, §11). <code>[T]</code></li>
 <li><strong>19:8; 24:3, 7 → 32:1–6</strong> — the vow sworn <strong>three times, the last after the Book was read aloud</strong>, and broken <strong>while the mediator is still on the mountain</strong> (§12, §14). <code>[T]</code></li>
+<li><strong>⭐ And the New Testament joins the two ends of that arc itself.</strong> Hebrews 12:21 puts <em>“I tremble with fear”</em> into Moses’ mouth at the <strong>theophany</strong> — but the words are <strong>not a quotation of Exodus at all</strong>, and Exodus never says Moses was afraid there; commentators align the phrase with <strong>Deuteronomy 9:19</strong> (Keown; Ryken &amp; Hughes). <strong>Deut 9:19 is the only place Moses says he was afraid, and it belongs to the golden-calf retrospect (Deut 9:7–21), not to Sinai.</strong> So the NT, retelling the mountain, <strong>reaches for words Moses spoke about the calf</strong> — treating the terror of chapter 20 and the terror of chapter 32 as one atmosphere. <code>[S]</code> for the alignment; <code>[T]</code> for the Deuteronomy context. <em>Moderate–high; corroborative rather than load-bearing — the arc was already text-derived from 19:8 → 20:19 → 32:1–6.</em> <code>[revised: second Logos round]</code></li>
 <li><strong>The diagnosis is a word:</strong> <em>qĕšēh-ʿōrep</em>, “stiff-necked”, four times in the Hebrew (32:9; 33:3; 33:5; 34:9) — and at the fourth Moses turns it from the ground of exclusion into the ground of intercession (§14). <code>[T]</code></li>
 <li><strong>⭐ And the betrayal is named in marital vocabulary.</strong> <em>Ḥeṭeʾ gĕdōlâ</em>, “a great sin” (32:21, 30, 31), occurs five times in the OT — once of <strong>adultery</strong> (Gen 20:9), four times of <strong>idolatry</strong> — and <strong>the same expression appears in Egyptian marriage contracts and in a Ugaritic text, of adultery.</strong> So the calf is not merely disobedience but <strong>covenant adultery</strong>: <em>“leaving the God with whom you have yoked yourself to have an affair with another deity.”</em> Confirmed at the Research Assistant pass, where §14 had flagged it as unpursued. <code>[S: Research Assistant]</code> <code>[revised: research-assistant pass]</code></li>
 </ul>
@@ -443,9 +455,9 @@
 <p>For preaching, three consequences follow. <strong>First, the tabernacle block is not optional</strong> — it is the answer to the question the wilderness asked, and cutting it leaves 17:7 hanging. <strong>Second, the grace-before-law argument should be preached from the architecture</strong> — from the itinerary that puts a statute at Marah and a Sabbath in the wilderness, and from motive clauses buried inside the case law — because that is a far stronger case than 20:2 standing alone. <strong>Third, the sweep repeatedly refused the sermon that makes a human being the hero</strong>: not Moses, not the midwives, not Aaron and Hur, not Jethro. The consistent verdict of fifteen runs is that <strong>the subject of every sentence worth preaching in this book is God</strong>, and the people in it are mostly there to show why that has to be so.</p>
 <hr />
 <p><em>Provenance: emergent from the fifteen dig-deeper runs (twelve Logos-checked) and reconciled with <code>book-overview-exodus.md</code>. <strong>Audited</strong> — <code>dig-deeper-exodus-claim-audit.md</code> v1.0 tested fourteen load-bearing claims, re-checking the texts rather than trusting the runs; <strong>arguments 1, 2 and 4 above carry its corrections.</strong> NT-authorised links marked high; converging text-first findings strong; looser trajectories moderate. Offered as connective tissue for the series, not as a replacement for the passage-level runs — when preparing an individual sermon, that passage’s own run governs.</em></p>
-<p><strong>Version:</strong> 1.2 · 13 August 2026 (claim-audit corrections to §1, §2, §4; <strong>Research Assistant pass folded into §8 and §11</strong>, and the corpus’s fifty outstanding questions answered — see <code>dig-deeper-exodus-claim-audit.md</code> v1.1)</p>
+<p><strong>Version:</strong> 1.3 · 26 August 2026 (claim-audit corrections to §1, §2, §4; Research Assistant pass folded into §8 and §11, and the corpus’s fifty outstanding questions answered. <strong>Second Logos round: Hebrews 12:21 traced to Deut 9:19 and the golden-calf retrospect, corroborating the vow-and-recoil arc from the NT’s own side</strong> — see <code>dig-deeper-exodus-claim-audit.md</code> v1.3)</p>
 
-</main>
+  </main>
 </div>
 </body>
 </html>

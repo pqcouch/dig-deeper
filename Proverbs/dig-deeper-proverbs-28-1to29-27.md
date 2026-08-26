@@ -5,6 +5,8 @@
 **Book-overview context:** In conversation (`book-overview-proverbs`, Upgrade pass 17 Aug)
 **Series context:** **Pilot run** for the five collection sweeps. Method chosen in advance: **cluster-first, then synthesis** (Heim's prescription). Heim's map covers only 10:1–22:16, so the clusters here are derived from the text using his criteria.
 
+> **▶ A whole-section run now stands over this one.** `dig-deeper-proverbs-25-1to29-27` (26 August 2026) reads all 138 verses of Solomon II together, with the Greek. **This report remains authoritative for cluster-level and verse-level work on 28:1–29:27**, but two of its findings are extended or corrected there: the *bāṭaḥ* chain **begins at 25:19**, not 28:1 — the section states the negative case a hundred verses before the positive one — and the *tôrāh* envelope's opening verse, 28:4, is also the terminus of a **sixty-five-verse divine-name silence** running back to 25:23. **For the sermon, preach from the whole-section run.**
+
 **Warrant tags:** `[T]` text-derivable · `[I]` inference · `[S]` secondary source.
 
 ---

@@ -215,7 +215,7 @@ BHS carries **nine *petuchah* markers in forty-two verses**, and **no *setumah**
 | **30:29–33** | Three-and-four stately · self-exaltation · the pressing proverb | ends **פ** at 30:33 |
 | **31:1–9** | Lemuel: superscription · vocative · women · wine · the mouth | ends **פ** at 31:9 |
 
-**This is the first section in the project where the received paragraphing and the modern content-division coincide throughout.** `[T]` In 10:1–15:33 a single marker covered 184 verses; in 16:1–22:16 a Masoretic paragraph ran 14:1 → 19:9, ninety-one verses, straight across the seam every modern scholar draws at 15:33/16:1. Here every marker falls where a reader would put one anyway.
+**This is the first section in the project where the received paragraphing and the modern content-division coincide throughout.** `[T]` In 10:1–15:33 a single marker covered 184 verses; in 16:1–22:16 a Masoretic paragraph ran 14:1 → 19:9, **162 verses**, straight across the seam every modern scholar draws at 15:33/16:1. *(⚠ corrected 26 August from "ninety-one".)* Here every marker falls where a reader would put one anyway.
 
 Three of the divisions are non-obvious and repay attention, because in each case the marker binds material that commentators routinely separate:
 
@@ -791,7 +791,7 @@ Mostly N/A — there are no narrative characters here. Two items nevertheless ne
 
 **What follows from it — and this is why the finding matters beyond the passage.** The 28–29 run flagged a methodological worry: whether appealing to the Masoretic *petuchot* in a **compositional** argument is a category error, since they are transmission-level marks pointed centuries after the fact. **It is not.** The Greek tradition cuts the book at five places and the Hebrew tradition pauses at all five. The likeliest explanation is that **both inherited a common inventory of division points and made different arrangement decisions at them** `[I]` — which means the markers record joints already present in the text when the Greek *Vorlage* was arranged.
 
-**This retrospectively raises the evidential value of every paragraphing finding in this project**, including the three that ran *against* the modern consensus: the paragraph running **27:23 → 28:4** across Fox's "common division"; the ninety-one-verse paragraph **14:1 → 19:9**; and the silence at **15:33/16:1**. Those are no longer "the Masoretes disagree with the scholars" — they are "the transmitted division-points disagree with the scholars."
+**This retrospectively raises the evidential value of every paragraphing finding in this project**, including the three that ran *against* the modern consensus: the paragraph running **27:23 → 28:4** across Fox's "common division"; the **162-verse** paragraph **14:1 → 19:9** *(corrected 26 August)*; and the silence at **15:33/16:1**. Those are no longer "the Masoretes disagree with the scholars" — they are "the transmitted division-points disagree with the scholars."
 
 *Ansberry's own position — with Washington, Tov and Clifford — is that the Greek arrangement is **secondary**. That is probably right, and it is not what the observation depends on: a secondary arranger who cuts only at inherited joints is still evidence that the joints were inherited.*
 

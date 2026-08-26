@@ -94,7 +94,7 @@ Three hundred and seventy-five verses in one sermon looks impossible until you s
 
 | Movement | Text | The measurement |
 |---|---|---|
-| **The world sorted into two columns** | 10:1–15:33 | **81.0% antithetical** — the highest in the book. *ṣaddîq* runs 13 · 8 · 8 · 5 · 2 · 3 across the six chapters and then reaches **zero**. **Chapter 13 has no divine name in twenty-five verses** — the longest God-free stretch in the sentence literature. |
+| **The world sorted into two columns** | 10:1–15:33 | **81.0% antithetical** — the highest in the book. *ṣaddîq* runs 13 · 8 · 8 · 5 · 2 · 3 across the six chapters and then reaches **zero**. **Chapter 13 has no divine name in twenty-five verses**, inside a thirty-two-verse silence (12:23–14:1) — the longest in Solomon I. |
 | **The crest, where God takes over** | 15:33–16:15 | YHWH runs 4 · 2 · 2 · **0** · 3 · 9, and **eight of the first nine verses of chapter 16 name him.** Four verbatim links cross the seam. |
 | **And you cannot place yourself in it** | 16:1–22:16 | **20.4% antithetical** — the sorting stops. The collection frames itself on self-knowledge: **16:2 ∥ 21:2**, near-verbatim, *"pure/upright in his own eyes… but the LORD weighs."* |
 
@@ -106,10 +106,12 @@ Three hundred and seventy-five verses in one sermon looks impossible until you s
 
 | Movement | Text | The measurement |
 |---|---|---|
-| **The section that will not tell you the answer** | 25:1–27:27 | **7.3% antithetical** — the lowest in the book. **30% simile.** **One divine name in eighty-three verses.** The Leitwort is *kābēd*, honour. **26:4–5 is the section explaining itself**: two consecutive verses giving contradictory advice, so the reader must judge. |
+| **The section that will not tell you the answer** | 25:1–27:27 | **7.3% antithetical** — the lowest in the book. **30% simile.** **God named in only two of eighty-three verses** — and that silence is one of **three nested silences**: the king vanishes for 91 verses (25:7–28:14), the divine name for 65 (25:23–28:4), the righteous/wicked pair for 57 (25:27–27:27). **Chapters 26–27 — fifty-five verses — contain no God, no king, no judge, no *mišpāṭ*, and no moral categories at all.** The Leitwort is *kābēd*, honour. **26:4–5 sits at the centre of the nest and is the section explaining itself**: two consecutive verses giving contradictory advice, so the reader must judge. |
 | **The section that hands the standard back** | 28:1–29:27 | **60% antithetical** — a ten-fold jump, the largest single-chapter change anywhere in Proverbs 10–29. **Simile drops to 2%.** **Five occurrences of absolute *tôrāh* against none in 25–27**, framed 28:4 ∥ 29:18. |
 
-**The 27:27/28:1 seam is the securest boundary in the book** — four independent measures break at the same line. Preaching Solomon 2 whole makes that break the sermon's hinge. **And 25:21–22 sits in the first movement**: the Covenant Code's enemy-duty (Exod 23:5, the identical inflected form), quoted by Paul at Rom 12:20 and alluded to by Jesus at Matt 5:44. *It answers the question a thoughtful hearer actually asks: where does the Old Testament ever say love your enemy?*
+**The 27:27/28:1 seam is the sharpest change of texture in the book — and the transmission refuses to break there.** `[T]` Four independent measures of vocabulary and form change at that line; but the Masoretic paragraph runs **27:23 → 28:4**, straight through the join, and the *petuchah* falls a verse *after* the first *tôrāh* saying. **That combination is the sermon's hinge, and it is better than a clean break would have been**: the collection changes everything about how it speaks and insists, in the same breath, that it is still speaking. Note also that the three silences all end *after* 27:27 — so the movement the older two-part scheme called "the second half" is in fact where the first half is resolved.
+>
+> **⚠ Corrected 26 August 2026.** This paragraph previously called 27:27/28:1 "the securest boundary in the book", which the transmitted paragraphing contradicts. See `dig-deeper-proverbs-25-1to29-27`, Headline 6. **And 25:21–22 sits in the first movement**: the Covenant Code's enemy-duty (Exod 23:5, the identical inflected form), quoted by Paul at Rom 12:20 and alluded to by Jesus at Matt 5:44. *It answers the question a thoughtful hearer actually asks: where does the Old Testament ever say love your enemy?*
 
 ---
 

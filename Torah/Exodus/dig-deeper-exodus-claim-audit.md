@@ -348,7 +348,22 @@ So the overview's sentence *"the same verb moves from the mountain (24:16) to th
 
 ### Still open
 
-**Seven, and all are in the "smaller items" band:** the angel-of-the-LORD Christophany (3:2, 4); the rear boundary of the 19:1–8 unit; the Hebrews 12:21 attribution; the resumptive 19:9b; whether 20:22–24:18 divides at 23:33; the Reuel/Jethro double-naming; and the Hur identification with the frontlets question. **Nothing load-bearing remains unresolved.**
+~~**Seven, and all are in the "smaller items" band:** the angel-of-the-LORD Christophany (3:2, 4); the rear boundary of the 19:1–8 unit; the Hebrews 12:21 attribution; the resumptive 19:9b; whether 20:22–24:18 divides at 23:33; the Reuel/Jethro double-naming; and the Hur identification with the frontlets question.~~ **Nothing load-bearing remains unresolved.**
+
+**⭐ Updated after the second Logos round (26 August 2026). All seven were put to the library. Five came back answered, one was answered and its answer rejected, one was not answered at all, and one was never asked.**
+
+| Item | Verdict at the second Logos round |
+|---|---|
+| **Hebrews 12:21 attribution** | **Closed.** Not a quotation of anything; commentators align it with **Deut 9:19** and the Sinai texts as a synthesis of atmosphere (Keown; Ryken & Hughes). **And it gave a gain:** Deut 9:19 — *the only place Moses says he was afraid* — is the **golden-calf** aftermath, not the theophany. **Hebrews retells Sinai in words Moses spoke about chapter 32**, which is NT-side corroboration of this corpus's 19:8 → 20:19 → 32 arc |
+| **20:22–24:18 divided at 23:33?** | **Closed, and improved.** Commentators do not divide there; **24:1 continues the same divine speech**, and **24:4–11 is that speech executed** (Alexander, Apollos OTC 2:438, 538–39). **23:20–33 is a distinct paraenetic conclusion.** *This also partly advances the parked 24:1–2 / 24:9–11 question* |
+| **The angel-of-the-LORD Christophany (3:2, 4)** | **State of the question closed; confidence deliberately unchanged.** Three theories — Identification, Logos, Representation — **no consensus** (Gilhooly); the apposition is treated as **deliberate**, "more a representation of God than a representative" (Reid). **Preach the apposition, not the identification.** *Sources are mid-weight: adequate to map, thin to adjudicate* |
+| **The Reuel / Jethro double-naming** | **State of the question closed.** No consensus; **Garrett's proposal** (Reuel the grandfather and household head, Jethro the biological father succeeding him) accounts for the data without appeal to sources or scribes. Give it as a proposal |
+| **The frontlets question (13:9, 16)** | **Closed and upgraded to moderate–high.** The referents cannot be literally bound; the surrounding language is figurative (AYBD; Keil & Delitzsch). **Goldingay's point is the preaching gain: the sign faces *outward*** |
+| **The Hur identification (17:10 // 31:2)** | **⭐ ANSWER REJECTED.** The reply claimed the genealogy "establishes" the identification and **cited nothing**. Checked against the text: Exod 31:2; 35:30 and 1 Chr 2:19–20 fix **Bezalel's** grandfather and say nothing about the Hur of 17:10, who is given no father, son or tribe. **The dig's "if the same man" stands at moderate.** *Third instance in this project of a chain extended by inference into a text that does not contain the link* |
+| **The rear boundary of the 19:1–8 unit** | **⭐ ASKED AND NOT ANSWERED.** The reply stated the search results did not address it, then reasoned from general knowledge that 19:9 is "likely" a hinge. **Not citable.** The Option B re-cut rests on the text-derived argument alone — 19:9 announces the descent the unit narrates, opening a purpose-frame discharged at 20:19. **Still open** |
+| **The resumptive 19:9b** | **Never asked.** Still open; nothing preaching-critical hangs on it |
+
+**Two remain: the rear boundary of 19:1–8 (asked, unanswered) and the resumptive 19:9b (never asked). Both are compositional-seam questions in the same three verses, and both should go to a full-scale Exodus commentary rather than to a search.** Nothing load-bearing remains unresolved.
 
 ### The methodological finding, now firm
 
@@ -358,4 +373,4 @@ So the overview's sentence *"the same verb moves from the mountain (24:16) to th
 
 *Prepared with the Dig Deeper toolkit in Claim Audit Mode.*
 
-**Version:** 1.2 · 13 August 2026 (Research Assistant addendum: 50 questions, 43 answered, 7 open, 2 rejected. **User-research addendum: 24 remaining, 17 answered or advanced, 5 corrections, 7 open.**)
+**Version:** 1.3 · 26 August 2026 (Research Assistant addendum: 50 questions, 43 answered, 7 open, 2 rejected. User-research addendum: 24 remaining, 17 answered or advanced, 5 corrections, 7 open. **Second Logos round: the 7 parked items put to the library — 5 closed, 1 answered and rejected, 1 asked and unanswered; 2 remain, both compositional-seam questions in 19:8–9.**)

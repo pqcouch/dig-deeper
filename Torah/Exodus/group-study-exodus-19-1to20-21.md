@@ -129,6 +129,8 @@ Ask it before anyone opens a Bible. Let people answer — freedom, a nation, a l
 
 **Read it aloud at the close.** Do not improvise a route to Christ when the New Testament has supplied one about this very scene: *"You have not come to what may be touched, a blazing fire… but you have come to Mount Zion… and to Jesus, the mediator of a new covenant."*
 
+**One thing to have ready.** Hebrews 12:21 says *"so terrifying was the sight that Moses said, 'I tremble with fear'"* — **and a group who have just read Exodus 19–20 closely will ask where Moses says that, because he does not.** Exodus has *the people* trembling (19:16; 20:18) and never says Moses did. The honest answer: **it is not a quotation of anything.** Commentators take it as the author of Hebrews gathering up the atmosphere of the scene, with the closest parallel at **Deuteronomy 9:19** — **which is Moses after the golden calf, not at Sinai.** That is worth thirty seconds, because it is not a defect but a clue: **Hebrews reads the terror of the mountain and the terror of the calf as one thing** — which is exactly the arc this study has traced from 19:8 to 20:19, and which runs on into Exodus 32.
+
 **Closing points**
 
 - **The mediator the people begged for at 20:19 is the office Christ fills** — "one mediator between God and men" (1 Tim 2:5), "the mediator of a new covenant" (Heb 12:24).
