@@ -33,17 +33,29 @@ finish() {                      # $1 = exit code
   exit "${1:-0}"
 }
 
+report_pushed() {
+  echo "Published. Everything is now on GitHub."
+  echo
+  echo "    commit pushed:  $(git rev-parse --short HEAD)"
+  echo "    build status:   https://github.com/pqcouch/dig-deeper/actions"
+  echo
+  echo "  The FILES are on GitHub now. The WEBSITE rebuilds separately and takes"
+  echo "  a minute or two more. If the live site still looks out of date after"
+  echo "  that, compare the 'rebuilt' stamp in its footer with your local one —"
+  echo "  if they differ, the deployment is behind, not the upload."
+}
+
 do_push() {
   echo "Uploading to GitHub..."
   if git push -q -u origin "HEAD:$BRANCH" 2>/tmp/publish-push-err; then
-    echo "Published. Everything is now on GitHub."
+    report_pushed
     return 0
   fi
   err="$(cat /tmp/publish-push-err)"
   if echo "$err" | grep -qi 'non-fast-forward\|fetch first\|rejected'; then
     echo "GitHub had newer changes — merging them in and retrying..."
     if git pull -q --rebase origin "$BRANCH" && git push -q -u origin "HEAD:$BRANCH"; then
-      echo "Published. Everything is now on GitHub."
+      report_pushed
       return 0
     fi
     err="$(cat /tmp/publish-push-err)"
@@ -150,6 +162,16 @@ if [ "$total" -eq 0 ]; then
     finish 0
   fi
   echo "Everything is already up to date. Nothing to publish."
+  echo
+  echo "    this folder matches GitHub at commit  $(git rev-parse --short HEAD)"
+  echo
+  echo "  If the live website still looks out of date, the upload is NOT the"
+  echo "  problem — the files are already there. It is the site rebuild that is"
+  echo "  behind. Check  https://github.com/pqcouch/dig-deeper/actions  and, if"
+  echo "  the newest build is missing or red, nudge it with these two lines:"
+  echo
+  echo "      git commit --allow-empty -m \"Force Pages rebuild\""
+  echo "      git push"
   finish 0
 fi
 
