@@ -95,7 +95,7 @@ Three hundred and seventy-five verses in one sermon looks impossible until you s
 | Movement | Text | The measurement |
 |---|---|---|
 | **The world sorted into two columns** | 10:1–15:33 | **81.0% antithetical** — the highest in the book. *ṣaddîq* runs 13 · 8 · 8 · 5 · 2 · 3 across the six chapters and then reaches **zero**. **Chapter 13 has no divine name in twenty-five verses**, inside a thirty-two-verse silence (12:23–14:1) — the longest in Solomon I. |
-| **The crest, where God takes over** | 15:33–16:15 | YHWH runs 4 · 2 · 2 · **0** · 3 · 9, and **eight of the first nine verses of chapter 16 name him.** Four verbatim links cross the seam. |
+| **The crest, where God takes over** | 15:33–16:15 | YHWH runs 4 · 2 · 2 · **0** · 3 · 9, and **eight of the first nine verses of chapter 16 name him** (in the Hebrew — the Greek lacks four of them, so say "in the text we're reading"). Four verbatim links cross the seam. |
 | **And you cannot place yourself in it** | 16:1–22:16 | **20.4% antithetical** — the sorting stops. The collection frames itself on self-knowledge: **16:2 ∥ 21:2**, near-verbatim, *"pure/upright in his own eyes… but the LORD weighs."* |
 
 **The sermon's turn is at the crest**, and the turn is the series FCF arriving in its sharpest form. `[T]` on every figure.

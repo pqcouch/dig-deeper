@@ -39,6 +39,8 @@ Warrant tags: `[T]` derivable from the text · `[I]` inference · `[S]` secondar
 | ***ṣaddîq*** | **13** | 8 | 8 | 5 | 2 | 3 | **0** | 2 | 3 | 0 | 1 | 4 | 0 |
 | **YHWH** | 4 | 2 | 2 | **0** | 3 | 9 | **11** | 2 | 2 | 5 | 6 | 5 | 4 |
 
+> **⚠ This is a finding about the Masoretic text, qualified 26 August 2026.** The whole-book Greek survey shows that **16:1, 16:3, 16:4 and 16:6 have no Greek counterpart** — and all four name YHWH in the Hebrew. So the cluster this headline rests on is, in the Greek tradition, less than half of what it is in the MT. **The finding stands for the text we preach from** — the ESV and every English version follow the Hebrew — **but it must be stated as Masoretic, not as a fact about Proverbs simpliciter.** The same survey adds a related figure: chapters 15–16 are the point of sharpest divergence between the two texts anywhere in Solomon I (five Greek pluses in ch. 15, four minuses in 16:1–6). See `proverbs-lxx-pluses-survey`, §5.
+
 **The collection opens sorting people into two columns and arrives at talking about God.** At chapter 16 the substitution is total: *ṣaddîq* reaches **zero** and YHWH reaches its **maximum**. **Eight of the first nine verses of chapter 16 name him** (16:1, 2, 3, 4, 5, 6, 7, 9 — only v.8 does not). *High confidence — all countable.*
 
 > **And the whole section refines what the half-run could say.** The 10:1–15:33 report recorded *ṣaddîq* "reaching zero." **It reaches zero at chapter 16 and then recovers to a low plateau** — 2, 3, 0, 1, 4 across chapters 17–21. **So the movement is a steep fall to a single point of total substitution, not a permanent disappearance.** `[T]`
