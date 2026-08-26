@@ -10,6 +10,19 @@ Warrant tags: `[T]` text-derivable · `[I]` inference from the text · `[S]` sup
 
 ---
 
+## What changed in v0.8 (Round-five verification — the section runs closed out)
+
+The last six open questions in the three section-level runs were put to the library. **All six came back answered**, and the three section runs now carry no outstanding questions at all.
+
+- **4:7 restored.** The Vulgate does read *custodiat* — present subjunctive — so the chain **Greek future indicative → Latin subjunctive → the benediction's "keep"** is evidenced at every link. The v0.5 softening of preaching trap 7 is reversed.
+- ***Megalynō* at 1:20 is now sourced.** TDNT confirms the LXX usage, and **Meyer (ESV Expository Commentary) links Phil 1:20 to Psalm 34:3–5** — the psalm that says "O *magnify* the LORD with me". The role-transfer reading has a commentator behind it.
+- ***Gnōrizō* at 1:22 is a divided field, not a defeat.** EDNT glosses it exactly as the ESV does ("I cannot tell"); Robertson and Martin take the transitive sense. Both readings are now on record, and the ambiguity is itself preachable.
+- **The 1:16–17 apparatus is closed.** Only "a few manuscripts" reverse the verses; "most early manuscripts" carry the critical order. The chiasm rests on the better-attested text.
+- **Psalm 145 — half admitted, half retired.** Park sources the 4:5 echo and extends it to 4:6 (the prayer context). Nobody connects the psalm to 4:19; after three rounds that extension is **withdrawn** rather than left hanging.
+- ***Cursus honorum* — declined for 3:5–6, but anchored one chapter earlier.** No commentator reads the pedigree as an honours inscription; **Witherington reads the hymn as Christ refusing the *cursus honorum* and choosing a *cursus pudorum*, a deliberate stepping down the social ladder.** A genuine gain for 2:6–8, and it makes our 3:5–6 proposal more plausible by analogy while leaving it ours.
+
+---
+
 ## What changed in v0.6 (Round-three verification)
 
 A third research session answered most of the round-three list. The two most persistent cruxes in the corpus are now settled or mapped, and **two findings came back against us** — recorded here rather than quietly dropped.
@@ -195,7 +208,8 @@ The section runs supply a characterisation the pericope sweep never drew togethe
 
 - **Daniel 12 read across the letter** — **tested and admitted.** Now a full entry in the table above.
 - **Isaiah 50:7–9 → 1:19–20** — **admitted v0.6, at moderate.** Round three found the connection attested: Hays observes that "not being ashamed" would evoke Isa 50:7–8 LXX, "I know that I shall not be ashamed, because the one who justifies me is near." Ware does not discuss it, and no Philippians commentary was reached that weighs it against the Job allusion — so it stands as a *second* Isaianic voice beside Job 13:16 at 1:19–20, not as a replacement for it. **If it holds, the letter's Isaiah 40–55 strand begins at 1:19 rather than 2:10.** `[S: Hays, via Moyise]`
-- **Psalm 145:18 → 4:5, and its possible reach to 4:19** — **still a candidate.** The verbal correspondence (*ὁ κύριος ἐγγύς*) is granted; no commentary support was retrieved for extending it across the unit. *Moderate; do not build.*
+- **Psalm 145:18 → 4:5** — **admitted v0.7, at moderate.** Park notes that Paul "possibly reflects Psalm 145:18" at 4:5, and that the psalm's **prayer context** is echoed at 4:6 — so the echo covers *nearness and petition*, one verse further than first proposed. `[S: Park]`
+- **Psalm 145:16/19 → 4:19 — retired.** Asked in three separate rounds; no commentary connects the psalm to "my God will supply every need", and Schreiner and Barnett both treat 4:19 without reference to it. The proposal that the psalm supplies the whole shape of the unit (nearness → petition → supply) was this corpus's own conjecture and has found no owner. **Removed from the candidate list rather than left standing.**
 
 **An intra-Pauline link now verified (v0.5).** ἐνάρχομαι occurs **only twice in the New Testament** — Gal 3:3 and Phil 1:6 — and in both it is paired with ἐπιτελέω. Commentators note the parallel and the contrast: in Galatians the completing attempted "by the flesh" is the danger; in Philippians the completing is God's own and certain. Not an OT allusion, but a genuine authorial signature, and it strengthens the 1:6 → 2:13 → 3:12 confidence-thread. `[S: Silva; Keown; EDNT]`
 
@@ -233,7 +247,7 @@ Philippians is one of the NT's densest Christ-passages, and Christ functions in 
 7. **Preaching from an English text alone, when the letter's key links are invisible in English.** *(Added v0.4 — the trap the section runs made unmistakable.)* *Bites at:* the whole letter, and at three points especially. *Correctives — three sentences worth saying aloud from the pulpit:*
    - **1:27 and 3:20 are the same word.** *Politeuesthe* / *politeuma*; ESV, NASB and NIV render them with unrelated English words, and only the KJV preserves the link ("conversation" in both, following the Vulgate's *conversamini* / *conversatio*) — in a word that has since changed meaning. The ESV's footnote at 1:27 ("Greek *Only behave as citizens worthy*") should be read out.
    - **4:10's "concern" is the letter's engine-verb.** *Phroneō* — "have this mind" (2:5), "be of the same mind" (2:2), "agree" (4:2) — occurs twice at 4:10 of the Philippians' financial care. Their gift is an act of the mind of Christ. **Verified v0.7 across seven versions (ESV, NASB95, NIV, KJV, NKJV, CSB, NRSV): none uses one English word throughout, and all seven switch at 4:10 — to "concern" (ESV, NASB, NIV, NRSV) or "care" (KJV, NKJV, CSB). The one occurrence that describes money is the one every translation obscures.** Say it from the pulpit; no Bible in the pew will show it.
-   - **4:7 is a promise, not a wish.** *Phrourēsei* is a future indicative. The familiar benediction form ("The peace of God, which passeth all understanding, **keep** your hearts and minds…") is confirmed as the standard Protestant closing blessing — so a congregation has almost certainly only ever heard 4:7 as a wish. Preach it once as a statement of fact before using it again as a blessing. *(Amended v0.5: the liturgical form is verified; the claim that it descends specifically through the Vulgate's subjunctive *custodiat* is **not** yet verified — assert the grammar, not the transmission history.)*
+   - **4:7 is a promise, not a wish.** *Phrourēsei* is a **future indicative**. The Vulgate renders it *custodiat* — **present subjunctive**: *"Et pax Dei, quæ exuperat omnem sensum, **custodiat** corda vestra…"* And the familiar benediction ("The peace of God, which passeth all understanding, **keep** your hearts and minds…") is the standard Protestant closing blessing. So a congregation has almost certainly only ever heard 4:7 as a wish. Preach it once as a statement of fact before using it again as a blessing. *(**Restored v0.7:** the v0.5 softening is reversed — the Latin subjunctive is now verified in the Lexham Interlinear and Clementine texts, so the whole chain may be stated. The one remaining inference is that the prayer-book form descends *through* the Latin; strongly likely, since the liturgical Epistles did, but not itself documented here.)* `[S: Lexham Latin-English Interlinear Vulgate]`
    *(Also worth the footnote: ESV at 2:30 renders *mechri thanatou* as "he nearly died" and rescues the link to 2:8 only in the margin; ESV at 4:3 flags the *synathleō* link to 1:27 only in the margin.)* `[S: §1:27–4:1 and §4:2–20 runs]`
 
 ---
@@ -359,7 +373,10 @@ Twelve arguments that no single pericope establishes but the full `/dig-deeper` 
 
 ## Colophon
 
-**Version:** 0.7.0 · **Date:** 15 August 2026 · **Mode:** Finalise/Upgrade (externally verified, round four — commentaries, Greek and a concordance)
+**Version:** 0.8.0 · **Date:** 26 August 2026 · **Mode:** Finalise/Upgrade (externally verified, round five — section runs closed out)
+**Round five:** the last six open questions in the three section-level runs were answered, and **the section runs now carry none.** Preaching trap 7 restored in full (the Vulgate's *custodiat* verified in the Lexham Interlinear and Clementine texts); *megalynō* at 1:20 sourced to TDNT and to Meyer's link with Psalm 34:3–5; *gnōrizō* at 1:22 mapped as a divided field, with EDNT supporting the ESV's "I cannot tell" against Robertson and Martin; the 1:16–17 apparatus closed ("a few manuscripts" against "most early manuscripts"); Psalm 145 admitted at 4:5–6 on Park and **retired** at 4:19 after three failed rounds; the *cursus honorum* reading declined for 3:5–6 but anchored at 2:6–8 by Witherington's *cursus pudorum*.
+
+**Previous version:** 0.7.0 · 15 August 2026 · Finalise/Upgrade (externally verified, round four — commentaries, Greek and a concordance)
 **Round three:** *harpagmos* settled via Hoover (in Silva); the "enemies of the cross" mapped across Silva, Martin and Thompson; Isaiah 50:7–9 admitted to the map on Hays; the corpus's own anti-universalist argument from *apōleia* confirmed by Schreiner; Macedonian women's standing attested with the civic-litigation datum; provenance surveyed. **Two findings against the corpus:** the *cursus honorum* reading of 3:5–6 is unattested and is now labelled as this corpus's own proposal, and Silva contests the "licence" half of the legalism/licence mirror in macro-argument 3.
 
 **Previous version:** 0.5.0 · 13 August 2026 · Finalise/Upgrade (externally verified)
