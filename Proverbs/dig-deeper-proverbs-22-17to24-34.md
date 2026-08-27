@@ -28,6 +28,14 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 2. **And the one boundary it does mark, it marks correctly — with the lesser of the two markers.** `[T]` **24:22 carries a *setumah* (ס), the only one in the whole project**, and it falls exactly at the seam between the Words of the Wise (22:17–24:22) and *"These also are sayings of the wise"* (24:23–34). Surfaced by: Structure. *High confidence.* **The Masoretes used *petuchah* for units of reading and reserved *setumah* for the join between two closely related collections** — which is precisely the right instrument for that seam, and it means their silence elsewhere was deliberate rather than careless.
 
+   > **▶ Added 26 August 2026 — and the Greek agrees, twice.** `[T]` From the whole-book survey (`proverbs-lxx-pluses-survey`), which this report predates. **Three independent witnesses now converge on 24:22:**
+   >
+   > 1. **The Hebrew marks it** — the *setumah* above, the only one in the project.
+   > 2. **The Greek breaks its arrangement there.** The Septuagint interposes **30:1–14 immediately after 24:22**, and the source's own block heading reads `CHAPTER 24 (VS 1-22E)`.
+   > 3. **The Greek expands there.** **24:22a–e** — five verses on the king's tongue as a sword — is **the longest continuous plus anywhere in Greek Proverbs**, and it sits at the same join.
+   >
+   > **Two traditions that order this book differently both treat 24:22 as a hinge.** `[I]` *Moderate–high.* Whether the expansion motivated the transposition, marks it, or merely accompanies it, the survey could not say; but the coincidence is exact. **This considerably strengthens Headline 2** — the seam is no longer attested by one witness but by three.
+
 3. **The collection frames itself on the LORD: trust at the opening, fear at the close.** `[T]`
    > **22:19** — *that your **trust** may be in **YHWH**, I have made them known to you today, even to you.*
    > **24:21** — ***Fear YHWH***, my son, **and the king**.

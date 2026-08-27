@@ -8,6 +8,16 @@
 
 ---
 
+> ### The governing rationale for the whole series *(the preacher's own, recorded 26 August 2026)*
+>
+> **"People hear the book in far too many fragments, so that they miss the whole point of the book being just that — a book."**
+>
+> **This settles the scope question wherever it arises.** Several units in this series run far past the length at which exegetical work would normally divide them — chapters 1–9 is 249 verses, Solomon I is 375. **That is deliberate and is not to be re-litigated sermon by sermon.** The series exists to let the congregation hear the flow of a book, and each sermon therefore follows **one thread** through its unit rather than surveying it.
+>
+> Breaking any unit into sub-units is a legitimate future series. It is not this one.
+
+---
+
 ## Phase 0 — the scope decision
 
 **A series of nine.** This document produces the governing series backbone, the per-sermon answers to the Big Question, and the full point-purpose for sermon one.
@@ -102,7 +112,7 @@ Three hundred and seventy-five verses in one sermon looks impossible until you s
 
 **A bonus worth knowing.** The 15:33/16:1 boundary is the one seam this project could *not* settle — a certain formal shift but a contested boundary, with no superscription and a significant body of scholarship declining to treat it as a seam. **Preaching Solomon 1 whole puts that dispute inside the sermon rather than between two sermons**, which is exactly where it can be handled honestly: *the texture changes here, and scholars disagree whether that makes it a new collection.*
 
-### Sermon 7 — Solomon 2 whole (25:1–29:27), and the securest seam in the book falls inside it
+### Sermon 7 — Solomon 2 whole (25:1–29:27), and the book's sharpest change of texture falls inside it
 
 | Movement | Text | The measurement |
 |---|---|---|

@@ -6,6 +6,21 @@
 
 ---
 
+> ## ⭐ VERSION 6 — 26 August 2026. Read this box first; it overrides the table below.
+>
+> **Since v5 the project has run three further pieces of work**, and the v5 statement *"all eight solo runs are complete"* is superseded — there are now **eleven runs, two of them whole-section**, plus a whole-book Greek survey and nine sermon plans.
+>
+> | Added since v5 | Outcome |
+> |---|---|
+> | **Solomon I entire** (`dig-deeper-proverbs-10-1to22-16`) | 4 transmitted paragraphs; **corrected a 91→162-verse figure that had propagated into six documents** |
+> | **Solomon II entire** (`dig-deeper-proverbs-25-1to29-27`) | The three nested silences; corrected the "longest God-free stretch" claim in three documents |
+> | **Whole-book Greek survey** (`proverbs-lxx-pluses-survey`) | 48 pluses, 24 minuses; **closed the "only two runs have seen a Greek text" gap entirely** |
+> | **Nine point-purpose plans** | The series is fully planned |
+>
+> **Open items now: five.** The single BHQ item below **remains open and still blocks nothing**. Four new ones were opened by the Greek survey and are recorded beneath it. **None is a blocker for preaching; all five are "worth one library query when convenient".**
+>
+> **And two long-standing items were closed by the survey without being asked:** the systematic Greek-pluses gap (raised in the 26 August repercussions review) is closed, and the LXX arrangement is now confirmed a second time, independently, by the source file's own block headings.
+
 ## Where things stand — Proverbs is complete
 
 | | Raised | Closed | Open |
@@ -50,14 +65,19 @@ The two candidate endings to Agur's opening are **opposite**, and both now have 
 
 ---
 
-|---:|---:|---:|
+### 🗄 Superseded snapshot — the position on 20 August, kept for the record
+
+> **⚠ Do not read these figures as current.** They are the 19–20 August state and are **superseded twice over** — by the v5 table above and by the v6 box at the head of this document. **Repaired 26 August:** this table had lost its header row in an earlier edit and was rendering as a fragment.
+
+| | Raised | Closed | Open |
+|---|---:|---:|---:|
 | Original Logos worklist | 41 | 41 | 0 |
 | From the collections assessment | 4 | 4 | 0 |
 | From the 17 August checking passes | 11 | **11** | **0** |
 | **From the Solomon 2A run (19 Aug)** | **6** | **4** | **2** |
 | **Total** | **62** | **60** | **2** |
 
-**Nothing here blocks the four remaining digs, and the list is now down to two.**
+*As it then read:* "Nothing here blocks the four remaining digs, and the list is now down to two."
 
 > **✅ 20 August closed six items.** The Hebrew of 28–29 closed the antithesis count; the Hebrew of Exodus 23 closed the Covenant Code anchor; BHS closed the *setumot* question; the ancient versions closed Proverbs 26:23; Morris closed the dating worry; and the NT-use index closed the reception question — **by disproving my own superlative and adding two links I had missed.** Two findings were upgraded rather than merely confirmed, and one was withdrawn.
 >
@@ -262,3 +282,41 @@ The canonical reader meets a collection about not seeking one's own glory, trans
 ---
 
 *Worklist v4, 19 August 2026; six items closed 20 August. **Sixty of sixty-two questions closed.** Two remain: one page in Fox, and one interpretive question that does not block preaching.*
+
+---
+
+## Opened 26 August 2026 by the whole-book Greek survey
+
+All four are `[S]`-type questions — they need a library or a commentary on Greek Proverbs, not more work on the Hebrew. **None blocks a sermon.**
+
+### 23 · The Sirach overlap at 26:11a
+
+> **LXX Proverbs 26:11a is Sirach 4:21, essentially word for word** — ἔστιν αἰσχύνη ἐπάγουσα ἁμαρτίαν, καὶ ἔστιν αἰσχύνη δόξα καὶ χάρις — and the verse stands in the Hebrew of neither. **Which way does the dependence run?**
+
+*Why it matters:* it bears on the date of Greek Proverbs. *Priority:* moderate. *Where to ask:* a commentary or introduction to Greek Proverbs, or to Ben Sira.
+
+### 24 · Does 27:20a reflect a Hebrew *Vorlage*?
+
+> The Greek has an **"abomination to the Lord"** saying at 27:20a with no Hebrew counterpart — **inside the 65-verse stretch where the Hebrew names God not at all.** Expansion, or a lost Hebrew reading?
+
+*Why it matters:* the Solomon II sermon rests weight on the Hebrew silence; this is the one datum that qualifies it. *Priority:* moderate. **Already handled honestly in the sermon plan** by describing the silence as Masoretic.
+
+### 25 · Is the 24:22 convergence noticed anywhere?
+
+> The Hebrew's only *setumah* in this project, the Greek's block break, and the Greek's longest expansion (24:22a–e) **all fall at the same verse.** Does any source connect the expansion with the transposition?
+
+*Why it matters:* it would turn an `[I]` into something firmer. *Priority:* moderate.
+
+### 26 · Is the chapters 15–16 divergence rate noticed?
+
+> **Five Greek pluses in chapter 15 and four minuses in 16:1–6** — the sharpest Greek/Hebrew divergence anywhere in Solomon I, and it falls at the one seam this project could not settle.
+
+*Why it matters:* textual instability at a proposed boundary is suggestive but not probative, and the literature may already have a view. *Priority:* **worth one query before it is used from the pulpit.** *Priority otherwise:* moderate.
+
+---
+
+## Also recorded, not pursued
+
+**The three twenty-nine-verse paragraphs of Solomon II.** `[T]` 25:21–26:21, 26:22–27:22 and 28:17–29:17 are each exactly 29 verses. No source known to this project comments, and **no compositional claim is made from it** — with eight paragraphs averaging 17 verses, three coincident lengths is striking but not beyond chance. Recorded as observation only.
+
+**Why the Greek does not expand 30–31 at all.** `[T]` Zero pluses in 64 verses, in the section the Greek most drastically rearranges. Possibly a question about the translator's units of work. *Low priority.*

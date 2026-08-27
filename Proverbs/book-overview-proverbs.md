@@ -2,9 +2,9 @@
 
 **Translation:** ESV
 **Genre:** Wisdom literature — an anthology of instruction. Two chapter-length blocks of extended parental lectures and personified-Wisdom speeches (1–9) introduce four collections of terse, mostly two-line sayings (10:1–22:16; 22:17–24:22; 24:23–34; 25:1–29:27), and the whole is closed by two named oracles and an acrostic poem (30–31).
-**Mode:** Draft (text-first; no dig-deeper runs on Proverbs yet)
-**Date:** 8 August 2026
-**Sweep status:** No dig-deeper runs yet — this Draft is written to be tested and corrected by them.
+**Mode:** **Finalised — v1.3, upgraded 26 August 2026.** (Originally drafted text-first, before any dig-deeper run.)
+**Date:** 8 August 2026 · **Upgraded:** 17 August (v1.2) · **26 August (v1.3)**
+**Sweep status:** **Complete.** Eleven dig-deeper runs, two of them whole-section; a macro-synthesis; a whole-book Greek survey; and nine point-purpose plans. **See the 26 August upgrade pass at the foot of this document for what the completed work changed here.**
 
 Warrant tags: `[T]` observable on the page of Proverbs · `[I]` reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally.
 
@@ -292,3 +292,63 @@ Most modern exegetes now favour an **origin** sense for *qānâ* ("brought forth
 - **The 375 gematria should not be preached.** The verse count is verified; the numerical correspondence with *Shelomoh* is not established, and at least one source counts **376** couplets, which would break it outright.
 
 *Sources for this pass: the whole-book sweep, four passage studies, the collections assessment, the Perplexity-pass audit, Hebrew concordance searches against BHS, and my own reading of the Westminster Leningrad Codex. Every claim above is traceable to one of those.*
+
+---
+
+## Upgrade pass — 26 August 2026 (v1.3)
+
+**What prompted it.** Two whole-section dig-deeper runs (Solomon I entire, Solomon II entire), a whole-book survey of the Greek, and the completion of all nine point-purpose plans. **Everything below is new to this document.** Where it corrects something above, the correction is stated rather than silently applied.
+
+### 1. The paragraphing gradient — the single most useful structural fact in the book
+
+`[T]` Marker density per collection, now counted across the whole book:
+
+| Unit | Verses | Markers | One per |
+|---|---:|---:|---:|
+| Solomon I · 10:1–22:16 | 375 | 4 | **94** |
+| Words of the Wise · 22:17–24:34 | 82 | 7 | **12** |
+| Solomon II · 25:1–29:27 | 138 | 8 | **17** |
+| Agur and Lemuel · 30:1–31:9 | 42 | 9 | **4.7** |
+
+**The transmitted text divides the book roughly twenty times more finely at its end than in Solomon I** — and the markers track **genre**, not the superscriptions. This is macro-argument 1 in its sharpest form, and it is the reason the four sentence collections cannot be preached by one method.
+
+### 2. Solomon I is divided into four paragraphs, and none is where this project had been cutting
+
+`[T]` BHS markers at 10:1, 13:25, 19:9, 21:30 → paragraphs of 1 · 115 · **162** · 80 · 17 verses. **A transmitted paragraph of 162 verses runs straight through 15:33/16:1** — the seam the overview above (Upgrade 3, 17 August) correctly declined to settle. **That verdict is now stronger, not weaker:** no marker falls there, and chapter 16 is a *crest* rather than a boundary.
+
+### 3. Solomon II conceals three nested silences
+
+`[T]` The king vanishes for **91 verses** (25:7–28:14), the divine name for **65** (25:23–28:4), the righteous/wicked pair for **57** (25:27–27:27) — perfectly concentric, with **chapters 26–27 (55 verses) inside all three** and 26:4–5 at the centre. The silence ends on a paragraph break: *tôrâ* twice at 28:4, *petuchah*, then the LORD at 28:5.
+
+**This bears on the Structural Arc Map above**, which treats 25–29 as "two movements, comparison then contrast." **That stands** — but the transmission binds the two movements across the seam (the paragraph runs 27:23 → 28:4), so *two movements* must not become *two collections*.
+
+### 4. The Greek: where it expands, and where it does not
+
+`[T]` From `proverbs-lxx-pluses-survey`. **48 lettered pluses; 24 Hebrew verses with no Greek counterpart.**
+
+| | Pluses | Rate |
+|---|---:|---|
+| The frame 1:1–9:18 | **18** | one per 14 |
+| Solomon I | 19 | one per 20 |
+| Words of the Wise | 5 | all at 24:22 |
+| Solomon II | 6 | one per 23 |
+| **Agur, Lemuel, acrostic 30–31** | **0** | — |
+
+**The section the Greek most drastically rearranges is the one it does not expand at all.** Rearrangement and expansion are independent phenomena here.
+
+**Two consequences for this overview.**
+
+- **⚠ A qualification.** The chapter-16 divine-name crest — used above and in the macro-synthesis — is **Masoretic**. The Greek lacks 16:1, 3, 4 and 6, four of the YHWH verses it rests on. **State it as a fact about the Hebrew.**
+- **A new convergence at 24:22.** The Hebrew's only *setumah* in this project, the Greek's block break, and the Greek's longest expansion (24:22a–e) all fall at the same verse. **Three witnesses to one seam.**
+
+### 5. The 22:8a plus, and 2 Corinthians 9:7
+
+`[T]` on the Greek; `[S]` on the link. The Septuagint has *"God blesses a cheerful man and a giver"* at 22:8a, with **no Hebrew counterpart**. Paul's ἱλαρὸν γὰρ δότην **ἀγαπᾷ** ὁ θεός shares three of four significant words but **not the verb** (LXX: εὐλογεῖ). **A close adaptation, not a quotation** — and a congregation quoting 2 Corinthians 9:7 is echoing a sentence of Proverbs that is not in their Bible.
+
+### 6. The preaching units are settled, and all nine have plans
+
+The nine-sermon scheme is the preacher's own and is now fully planned: **introduction · 1:1–7 · ch. 2 · 1:8–9:18 · 10:1–22:16 · 22:17–24:34 · 25:1–29:27 · 30:1–31:9 · 31:10–31.** The governing rationale is recorded in the series backbone: *people hear the book in far too many fragments, so that they miss the whole point of the book being just that — a book.* **This supersedes any unit scheme proposed in the Preaching Units section above** where the two differ.
+
+### 7. One tension named, and correctly this time
+
+`[I]` **Macro-arguments 5 and 6 pull against each other** on whether the book develops — 5 says wisdom is *progressively* subordinated to revelation, 6 says the sentence collections *alternate rather than progress*. **They are differently scoped and do not strictly contradict:** 5 tracks re-foundation points across the whole book, 6 only the four Solomonic sub-collections. **The honest statement: Proverbs develops in its framing material and oscillates in its sentence material.** *(An earlier note in this project located the tension between arguments 1 and 6. That was loose — those two support each other.)*

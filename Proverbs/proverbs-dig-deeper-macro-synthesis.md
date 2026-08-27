@@ -146,6 +146,8 @@ And the same denial is made structurally in run after run:
 
 ## 6. The sentence collections alternate rather than progress, and four independent formal measures say so
 
+> **Scope note, added 26 August 2026.** This argument and **argument 5** point in opposite directions on whether the book develops — 5 says *progressively* subordinated, 6 says *alternate rather than progress*. **They are differently scoped and do not strictly contradict:** argument 5 tracks four re-foundation points across the whole book (frame, Words of the Wise, Agur), argument 6 tracks only the four Solomonic sub-collections. **The honest statement is that Proverbs develops in its framing material and oscillates in its sentence material.** Preaching should not lean on both at once without saying which scope is in view.
+
 **Claim.** The four Solomonic sub-collections are formally distinct from one another on measures nobody had counted, and the sequence oscillates rather than developing in one direction.
 
 **Converging evidence.** `[T]` — all countable, all machine-checked against supplied Hebrew.
