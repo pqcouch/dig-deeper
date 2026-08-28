@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Book Overview: Ruth</title>
+<style>
+
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  
+</style>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+<h2>Contents</h2>
+<ul>
+<li><a href="#book-overview-ruth">Book Overview: Ruth</a></li>
+<li><a href="#presenting-situation">Presenting Situation</a></li>
+<li><a href="#text-and-versions-bhs-lxx-esv">Text and Versions: BHS, LXX, ESV</a></li>
+<li><a href="#leading-words-leitwörter">Leading Words (Leitwörter)</a></li>
+<li><a href="#structural-arc-map">Structural Arc Map</a></li>
+<li><a href="#microscript">Microscript</a></li>
+<li><a href="#intertextual-map">Intertextual Map</a></li>
+<li><a href="#christological-trajectory">Christological Trajectory</a></li>
+<li><a href="#preaching-traps">Preaching Traps</a></li>
+<li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
+<li><a href="#preaching-units">Preaching Units</a></li>
+<li><a href="#colophon">Colophon</a></li>
+</ul>
+</nav>
+<main>
+<h1 id="book-overview-ruth">Book Overview: Ruth</h1>
+<p><strong>Substrate:</strong> BHS (Leningrad) · <strong>Alongside:</strong> LXX (Rahlfs) · <strong>For reference:</strong> ESV<br />
+<strong>Genre:</strong> Old Testament narrative — a self-contained short story in four dialogue scenes, framed by two narration-only panels and closed by a genealogy<br />
+<strong>Mode:</strong> Draft (text-first; no dig-deeper runs in hand)<br />
+<strong>Date:</strong> 28 August 2026<br />
+<strong>Sweep status:</strong> No dig-deeper runs yet — this Draft exists to be tested by them</p>
+<p>Warrant tags: <code>[T]</code> derivable from the text on the page · <code>[I]</code> reasonable inference · <code>[S]</code> supplied by a secondary source, held provisionally.</p>
+<hr />
+<h2 id="presenting-situation">Presenting Situation</h2>
+<p><strong>Narrator.</strong> Anonymous, omniscient, retrospective, and outside the story. Three things on the page fix the retrospection: the closing genealogy runs to David (4:22), the aside at 4:7
+explains a redemption custom as belonging <em>lə-p̄ānîm bə-Yiśrāʾēl</em>, “formerly in Israel”, to readers who no longer practise it, and 1:1 dates the action <em>bîmê šəp̄ōṭ haššōp̄əṭîm</em>, “in the
+days when the judges judged”, from a standpoint after that era. <code>[T]</code></p>
+<p><strong>Authorship and date.</strong> The book names no author and gives no date of composition. It must post-date David (4:22); nothing on the page settles more than that. Talmudic attribution to
+Samuel, and the various post-exilic datings, are reconstructions from outside the text and should be carried as <code>[S]</code>, not smuggled in as background fact. Downstream digs should treat the
+compositional date as genuinely open. <code>[S]</code> <em>(confidence: low for any specific date)</em></p>
+<p><strong>Narrative-world setting.</strong> The judges era — the period the book of Judges closes by describing as one in which there was no king and each man did what was right in his own eyes. Ruth
+reports that same period and finds in it not chaos but decorum: a landowner who greets his reapers with a blessing, a foreign widow who is not molested, elders who convene at the gate and do business
+properly. The contrast is the point. <code>[T]</code> (the dating formula) / <code>[I]</code> (the contrast)</p>
+<p><strong>Audiences, distinguished.</strong></p>
+<ul>
+<li><em>Narrative-world:</em> Bethlehemites in the judges period.</li>
+<li><em>Compositional:</em> readers who know David, know the sandal custom is obsolete, and need the Moabite question addressed. <code>[I]</code></li>
+<li><em>Canonical:</em> here the two texts supplied embody the two answers. In <strong>BHS</strong> (Leningrad) Ruth stands in the Writings, immediately <strong>after Proverbs</strong> — so the
+canonical reader meets <em>ʾēšet ḥayil</em> at Ruth 3:11 with Proverbs 31:10 still in the ear. In the <strong>LXX</strong> (and so in the ESV) Ruth stands <strong>after Judges and before
+Samuel</strong>, easing the reader from “no king” to David. Both placements aim the book at the Davidic line; they differ over whether Ruth is primarily <em>a portrait of the worthy woman</em> or
+<em>a bridge to the monarchy</em>. Do not choose silently — name the placement a sermon is assuming. <code>[T]</code> (the two orders as given) / <code>[S]</code> (their interpretative weight)</li>
+</ul>
+<p><strong>Pressure.</strong> Two tensions, braided. Domestically: a household emptied by famine and three deaths, and a widow who reads that emptiness as the hand of YHWH gone out against her (1:13,
+1:20–21) — <em>is God at work when life is bitter, and is he for me or against me?</em> Nationally and covenantally: how is the line that reaches David preserved through the judges’ disorder, and
+preserved <strong>through a Moabitess</strong> — a woman from the nation Deuteronomy 23:4 [Eng. 23:3] bars from the assembly of YHWH to the tenth generation? <code>[T]</code> / <code>[I]</code></p>
+<p><strong>Purpose.</strong> To show YHWH securing the line to David through the ordinary <em>ḥesed</em> of unremarkable people and the costly action of a redeemer — turning empty to full, and
+bringing an outsider all the way in. <code>[I]</code></p>
+<hr />
+<h2 id="text-and-versions-bhs-lxx-esv">Text and Versions: BHS, LXX, ESV</h2>
+<p><em>Added for the text-first protocol: the Hebrew is the substrate, the Greek an early and interested reading, the English a further interpretation. These are the places where the three diverge
+enough to change a sermon.</em></p>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 13%" />
+<col style="width: 45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Ref</th>
+<th style="text-align: left;">BHS</th>
+<th style="text-align: left;">LXX</th>
+<th style="text-align: left;">ESV</th>
+<th style="text-align: left;">Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1:2 etc.</td>
+<td style="text-align: left;">אֱלִימֶלֶךְ <em>ʾĔlîmelek</em>, “my God is king”</td>
+<td style="text-align: left;">Αβιμελεχ, “my father is king” — consistently</td>
+<td style="text-align: left;">Elimelech</td>
+<td style="text-align: left;">The Greek loses the name’s quiet irony in a book that ends at David. Confidence: high that this is the LXX’s settled reading.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:20</td>
+<td style="text-align: left;">קְרֶאןָ לִי מָרָא <em>Mārāʾ</em></td>
+<td style="text-align: left;">καλέσατέ με <strong>Πικράν</strong> — <em>translated</em>, not transliterated</td>
+<td style="text-align: left;">“call me Mara”</td>
+<td style="text-align: left;">The LXX makes the wordplay audible in Greek; the ESV hides it behind a proper noun and needs a preacher’s gloss.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">1:20–21</td>
+<td style="text-align: left;">שַׁדַּי <em>Šadday</em> (×2, only on Naomi’s lips)</td>
+<td style="text-align: left;">ὁ <strong>ἱκανός</strong>, “the Sufficient One”</td>
+<td style="text-align: left;">“the Almighty”</td>
+<td style="text-align: left;">A genuinely interpretative rendering (reading <em>ša-day</em>, “the one who is enough”). Naomi accuses the Sufficient One of insufficiency.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:21</td>
+<td style="text-align: left;">וַיהוָה <strong>עָנָה בִי</strong> — ambiguous root</td>
+<td style="text-align: left;"><strong>ἐταπείνωσέν</strong> με, “he humbled me” (<em>ʿnh</em> II, afflict)</td>
+<td style="text-align: left;">“the LORD has testified against me” (<em>ʿnh</em> I, testify)</td>
+<td style="text-align: left;">Two different accusations: a legal witness against her, or an affliction laid on her. <strong>Do not build a sermon point on either without flagging the crux.</strong>
+BHS notes the difficulty.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2:7</td>
+<td style="text-align: left;">זֶה שִׁבְתָּהּ הַבַּיִת מְעָט — notoriously obscure</td>
+<td style="text-align: left;">οὐ κατέπαυσεν … μικρόν, “she has <strong>not</strong> rested even a little”</td>
+<td style="text-align: left;">“except for a short rest”</td>
+<td style="text-align: left;">Opposite characterisations of Ruth’s diligence. The Hebrew is broken; both versions are guesses.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2:13</td>
+<td style="text-align: left;">וְאָנֹכִי <strong>לֹא</strong> אֶהְיֶה כְּאַחַת שִׁפְחֹתֶיךָ</td>
+<td style="text-align: left;">καὶ ἰδοὺ ἐγὼ <strong>ἔσομαι</strong> ὡς μία τῶν παιδισκῶν σου — no negative</td>
+<td style="text-align: left;">“though I am not one of your servants”</td>
+<td style="text-align: left;">Hebrew/ESV: a modest disclaimer. LXX: an aspiration. Ruth’s self-positioning reads differently in each.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">3:9</td>
+<td style="text-align: left;">וּפָרַשְׂתָּ <strong>כְנָפֶךָ</strong> — singular</td>
+<td style="text-align: left;">τὸ <strong>πτερύγιον</strong> — diminutive singular</td>
+<td style="text-align: left;">“spread your <strong>wings</strong>” — plural</td>
+<td style="text-align: left;">See <em>kanaph</em> below. The ESV’s plural obliterates the singular/plural turn on which chapter 3 hinges.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">3:15</td>
+<td style="text-align: left;">וַיָּבֹא הָעִיר, “<strong>he</strong> went into the city” (Kethiv)</td>
+<td style="text-align: left;">ambiguous 3rd sing.</td>
+<td style="text-align: left;">“<strong>she</strong> went into the city”</td>
+<td style="text-align: left;">Decides whether the scene closes on Ruth’s return or on Boaz’s departure to the gate. BHS flags the variant.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:1</td>
+<td style="text-align: left;">פְּלֹנִי אַלְמֹנִי, “so-and-so”</td>
+<td style="text-align: left;"><strong>κρύφιε</strong>, “you hidden one” (vocative)</td>
+<td style="text-align: left;">“friend”</td>
+<td style="text-align: left;">The LXX turns anonymity into an address. The ESV’s “friend” loses the point entirely: this is <em>the man with no name</em> in a chapter about raising up a name.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4:5</td>
+<td style="text-align: left;">קָנִיתָי Kethiv, “<strong>I</strong> acquire” / קָנִיתָה Qere, “<strong>you</strong> acquire”</td>
+<td style="text-align: left;">κτήσασθαί <strong>σε</strong> δεῖ, “<strong>you</strong> must acquire”</td>
+<td style="text-align: left;">“you also acquire” (Qere)</td>
+<td style="text-align: left;">Changes who is proposing to marry Ruth at the decisive moment. A real crux; ESV and LXX agree against the Kethiv.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:11</td>
+<td style="text-align: left;">וַעֲשֵׂה־חַיִל בְּאֶפְרָתָה — addressed to <strong>Boaz</strong></td>
+<td style="text-align: left;">καὶ ἐποίησαν δύναμιν ἐν Εφραθα — of <strong>Rachel and Leah</strong></td>
+<td style="text-align: left;">“may <strong>you</strong> act worthily in Ephrathah”</td>
+<td style="text-align: left;">Whether the blessing calls Boaz to <em>ḥayil</em> or credits it to the matriarchs.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note on the ESV.</strong> It is a careful translation, but it flattens four of this book’s load-bearing repetitions: <em>śādeh</em> (rendered “country” of Moab but “field” of Boaz),
+<em>kānāp̄</em> (plural for both 2:12 and 3:9), <em>šip̄ḥāh / ʾāmāh</em> (both “servant”), and <em>yeled / bēn</em> (both “sons”/“child”). Every one of those flattenings costs a link the Hebrew makes
+deliberately. Any sermon whose structure depends on a repeated English word must be checked against BHS first. <code>[T]</code></p>
+<hr />
+<h2 id="leading-words-leitwörter">Leading Words (<em>Leitwörter</em>)</h2>
+<p><em>This book is carried by internal repetition far more than by quotation. These are the threads, and they are the primary fuel for dig-deeper’s Move 4.</em></p>
+<p><strong>1. שׁוּב <em>šûb</em>, “return / turn back / restore” — the dominant word, some twelve times in chapter 1 alone</strong> (1:6, 7, 8, 10, 11, 12, 15 ×2, 16, 21, 22 ×2), then 2:6, 4:3, and
+finally 4:15. Chapter 1 is an argument about who will return where. Naomi’s charge is that YHWH <em>hĕšîbanî rêqām</em>, “<strong>brought me back</strong> empty” (1:21). The women’s verdict on the
+child is that he will be <em>lə-mēšîb nep̄eš</em>, “<strong>a restorer</strong> of life” (4:15) — the same hiphil of the same root. <strong>The word Naomi uses to accuse God is the word the book uses
+to answer her.</strong> <code>[T]</code> <em>(confidence: high — the single most important verbal observation in the book, and invisible in English)</em></p>
+<p><strong>2. שֵׁם <em>šēm</em>, “name” — twelve times</strong>, front-loaded at 1:2 (three names in one verse: the man, his wife, his two sons) and massed in chapter 4 (4:5, 10 ×2, 11, 14, 17 ×2). The
+book opens by naming the dead and closes by naming the living heir. Set against this: the nearer redeemer at 4:1 is <em>pəlōnî ʾalmōnî</em>, “so-and-so” — <strong>the man who refuses to raise up a
+dead man’s name is the one man in the book whose own name is withheld.</strong> <code>[T]</code> / <code>[I]</code> <em>(high)</em></p>
+<p><strong>3. חֶסֶד <em>ḥesed</em> — three times, one per major party</strong> (1:8, Naomi of YHWH toward the daughters-in-law; 2:20, of YHWH — or possibly of Boaz, since the Hebrew antecedent is
+genuinely ambiguous and the ESV decides it; 3:10, Boaz of Ruth). Three uses, and each turns on whether divine and human <em>ḥesed</em> can be told apart. That ambiguity at 2:20 is a
+<strong>theological feature, not a defect</strong>. <code>[T]</code> <em>(high)</em></p>
+<p><strong>4. כָּנָף <em>kānāp̄</em>, “wing / skirt-corner” — twice, and the number matters.</strong> 2:12: Boaz blesses Ruth for taking refuge <em>taḥat kənāp̄āyw</em>, under YHWH’s <strong>wings</strong>
+(plural). 3:9: Ruth asks Boaz to spread <em>kənāp̄ekā</em>, his <strong>skirt</strong> (singular — the garment-corner), over her. <strong>She asks him to become the answer to his own prayer</strong>,
+and the Hebrew marks the move from metaphor to garment by number. The LXX preserves the distinction (πτέρυγας / πτερύγιον); the ESV does not. <code>[T]</code> <em>(high)</em></p>
+<p><strong>5. דָּבַק <em>dābaq</em>, “cling” — 1:14, 2:8, 2:21, 2:23.</strong> Ruth <em>clings</em> to Naomi in the word Genesis 2:24 uses of a man and his wife; Boaz then twice tells her to
+<em>cling</em> to his young women, and 2:23 reports that she did. The verb migrates from covenant loyalty to daily employment and back. <code>[T]</code> <em>(high)</em></p>
+<p><strong>6. חַיִל <em>ḥayil</em> — 2:1, 3:11, 4:11.</strong> Boaz is <em>gibbôr ḥayil</em>; Ruth is <em>ʾēšet ḥayil</em>; the elders bless <em>ḥayil</em> in Ephrathah. Three uses bracket the couple
+and the blessing. The LXX keeps the link (δυνατὸς ἰσχύι / γυνὴ δυνάμεως / ἐποίησαν δύναμιν). <code>[T]</code> <em>(high)</em></p>
+<p><strong>7. שָׂדֶה <em>śādeh</em>, “field”.</strong> Naomi’s family goes to <em>the fields of Moab</em> (1:1, 2, 6, 22; 2:6; 4:3) and Ruth’s rescue happens in <em>the field</em> of Boaz (2:2, 3, 8, 9,
+17, 22). <strong>One Hebrew word; the ESV uses two English ones.</strong> The field of exile becomes the field of provision. <code>[T]</code> <em>(high — a gain available only from the
+Hebrew)</em></p>
+<p><strong>8. יֶלֶד <em>yeled</em>, “child”.</strong> At the point of maximal loss the narrator drops “Naomi” and drops “sons”: <em>wattiššāʾēr hāʾiššāh miššənê yəlādêhā</em>, “<strong>the
+woman</strong> was left from her two <strong>children</strong>” (1:5) — depersonalised, and with the tenderer word. At 4:16, <em>wattiqqaḥ Noʿŏmî ʾet-hayyeled</em>, “Naomi took <strong>the
+child</strong>”. The woman left without her <em>yəlādîm</em> receives a <em>yeled</em> in her lap. Both LXX and ESV flatten this to “sons” / “child”. <code>[T]</code> <em>(high — BHS-only)</em></p>
+<p><strong>9. רֵיקָם <em>rêqām</em>, “empty-handed” — twice, 1:21 and 3:17.</strong> Naomi: YHWH brought me back <em>empty</em>. Boaz: “you must not go back <strong>empty-handed</strong> to your
+mother-in-law.” The redeemer answers the accusation in its own vocabulary, with barley, before he answers it with a son. <code>[T]</code> <em>(high)</em></p>
+<p><strong>10. גָּאַל <em>gāʾal</em>, “redeem / act as kinsman” — sparse until 2:20, then saturating.</strong> First occurrence 2:20 (the hinge of the book); then 3:9, 12, 13 ×3; and in 4:1–14 more than
+twenty times in fourteen verses. The plot’s legal engine. <strong>Note the LXX’s choice:</strong> it renders throughout with ἀγχιστεύω / ἀγχιστεύς, “act as next-of-kin”, <strong>not</strong> λυτρόω /
+λυτρωτής. The Greek foregrounds <em>kinship</em>; the ransom-price note that English “redeemer” carries is muted. A sermon that runs straight from Boaz to Christ <em>the Redeemer</em> is leaning on a
+vocabulary the LXX declined. <code>[T]</code> <em>(high)</em></p>
+<p><strong>11. Ruth’s ladder of self-designation.</strong> Six rungs, all on the page: <em>nokrîyāh</em> “foreigner” (2:10, the strongest outsider word) → <em>šip̄ḥāh</em> “maidservant” (2:13, the
+lower menial term) → <em>ʾāmāh</em> “handmaid” (3:9, the term for a woman eligible for marriage) → <em>ʾēšet ḥayil</em> “worthy woman” (3:11, Boaz’s verdict) → <em>ʾiššāh</em> “wife” (4:13) → “better
+to you than seven sons” (4:15). The ESV renders rungs two and three identically as “servant”; the LXX flattens 2:10 to ξένη, “stranger”. <strong>This ladder is entirely text-derivable and is the
+cleanest single map of the book’s movement.</strong> <code>[T]</code> <em>(high)</em></p>
+<hr />
+<h2 id="structural-arc-map">Structural Arc Map</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Verses</th>
+<th style="text-align: left;">Movement</th>
+<th style="text-align: left;">Function</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1:1–5</td>
+<td style="text-align: left;"><strong>Prologue: the emptying</strong></td>
+<td style="text-align: left;">Narration only, no dialogue. Famine in the house of bread; sojourn; three deaths; <em>the woman</em> left without her <em>yəlādîm</em>.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:6–22</td>
+<td style="text-align: left;"><strong>The road: return and bitterness</strong></td>
+<td style="text-align: left;"><em>šûb</em> twelve times; Orpah turns back, Ruth clings; the oath (1:16–17); “call me Mara”; arrival at barley harvest.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2:1–23</td>
+<td style="text-align: left;"><strong>The field: refuge and notice</strong></td>
+<td style="text-align: left;"><em>ḥēn</em> and <em>ḥesed</em>; the deadpan “her chance chanced” (2:3); Boaz’s blessing under YHWH’s wings (2:12); <strong>first <em>gōʾēl</em> (2:20) — the hinge of the
+book</strong>.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">3:1–18</td>
+<td style="text-align: left;"><strong>The threshing floor: the appeal</strong></td>
+<td style="text-align: left;">Naomi seeks <em>mānôaḥ</em> for Ruth; the singular <em>kānāp̄</em> (3:9); the second <em>ḥesed</em> (3:10); “not empty-handed” (3:17).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:1–12</td>
+<td style="text-align: left;"><strong>The gate: the name secured</strong></td>
+<td style="text-align: left;"><em>gāʾal</em> saturates; the man with no name declines; the sandal; the elders’ blessing invokes Rachel, Leah, Tamar and Perez.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4:13–17</td>
+<td style="text-align: left;"><strong>Epilogue: the filling</strong></td>
+<td style="text-align: left;">Narration returns (the only other place YHWH is the subject of a narrated verb); Naomi receives <em>the child</em>; “a son has been born to Naomi”.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:18–22</td>
+<td style="text-align: left;"><strong>Coda: the <em>tôlədôt</em> of Perez</strong></td>
+<td style="text-align: left;">Ten names, Perez to David. Marked off in BHS by a <em>petuḥah</em> after 4:17.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The device is a symmetrical panel structure with a coda.</strong> Two narration-only panels (1:1–5 and 4:13–17) frame four dialogue scenes, and the frames answer each other exactly: three
+deaths against one birth, <em>the woman</em> deprived of her <em>yəlādîm</em> against Naomi taking <em>the yeled</em> to her breast, a household name facing extinction against a name called in Israel.
+<code>[T]</code></p>
+<p>Inside that frame the four scenes alternate location and initiative: road (Ruth’s initiative), field (Boaz’s), floor (Ruth’s, on Naomi’s counsel), gate (Boaz’s). <code>[T]</code></p>
+<p><strong>Two things to hold as genuinely open, not settled:</strong></p>
+<ul>
+<li><strong>Where the centre falls.</strong> 2:20 has the strongest claim on internal grounds — the first <em>gōʾēl</em>, and the first time Naomi speaks well of YHWH. That is a real judgement, not a
+certainty. <code>[I]</code> <em>(moderate)</em></li>
+<li><strong>Whether 4:18–22 is climax or appendix.</strong> The <em>petuḥah</em> in BHS marks it as a distinct unit, and its formula (<em>wəʾēlleh tôlədôt</em>) belongs to Genesis rather than to this
+narrator’s voice. But 4:17 has already reached David, so the coda repeats rather than completes the destination. Best current reading: 4:17 is the narrative climax and 4:18–22 the canonical anchoring
+that ties Ruth into the Genesis <em>tôlədôt</em> chain. <strong>Flag this for the chapter 4 dig; it is the structural claim most likely to be corrected.</strong> <code>[T]</code> (the
+<em>petuḥah</em>) / <code>[I]</code> (the reading, <em>moderate</em>)</li>
+</ul>
+<hr />
+<h2 id="microscript">Microscript</h2>
+<blockquote>
+<p><em>In the lawless days of the judges, YHWH is the stated subject of a narrated verb only twice — he gives bread (1:6) and he gives a child (4:13) — and between those two gifts the</em> ḥesed
+<em>of ordinary people carries a bitter widow from empty to full and a barred Moabite from the fields of Moab to the field of Boaz, until the God she accused of testifying against her turns out to
+have been restoring her all along.</em></p>
+</blockquote>
+<p>Keyword: <strong>שׁוּב</strong> <em>šûb</em> (return / restore). Structural pulse: <strong>empty → full</strong>. <code>[T]</code></p>
+<p><em>The two-verb observation is the spine, and it is checkable: search the narration — not the speeches, blessings, oaths or jussives — for YHWH as grammatical subject. It yields 1:6 and 4:13 and
+nothing else: the two gifts that open and close the book’s providence.</em> <code>[T]</code> <em>(high confidence; worth re-verifying at the first dig)</em></p>
+<p>Test against the movements: emptying (1:1–5) → the contested return (1:6–22) → refuge in the field (2) → the appeal (3) → the name secured at the gate (4:1–12) → the filling (4:13–17) → the line to
+David (4:18–22). Every movement serves the spine; the coda extends it beyond the story.</p>
+<hr />
+<h2 id="intertextual-map">Intertextual Map</h2>
+<p>Built by sweep through BHS, checking each candidate for verbal as well as conceptual overlap.</p>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 44%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Source</th>
+<th style="text-align: left;">Where in Ruth</th>
+<th style="text-align: left;">What the use does</th>
+<th style="text-align: left;">Live?</th>
+<th style="text-align: left;">Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Gen 12:1</strong> (<em>lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā</em>)</td>
+<td style="text-align: left;"><strong>2:11</strong> — “you left your father and your mother and <em>ʾereṣ môladtēk</em>, the land of your kindred, and went to a people you did not know”</td>
+<td style="text-align: left;">Boaz describes Ruth in Abraham’s own vocabulary (<em>ʾereṣ</em> + <em>môledet</em> + leaving father). <strong>Ruth is figured as an Abraham</strong>: the Moabitess makes
+the patriarch’s journey. The strongest single allusion in the book.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong> (verbal)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Deut 23:4</strong> [Eng. 23:3] (no Moabite … to the tenth generation)</td>
+<td style="text-align: left;">The repeated gentilic <em>Rût hammôʾăbîyāh</em> — 1:22; 2:2, 21; 4:5, 10 (+ 2:6)</td>
+<td style="text-align: left;">Keeps the scandal live to the last legal moment. <strong>The coda then lists exactly ten names, Perez → David.</strong> Whether the narrator intends the count to answer
+Deuteronomy’s “tenth generation” is inference — but the count is on the page.</td>
+<td style="text-align: left;"><strong>live</strong> (5×)</td>
+<td style="text-align: left;"><strong>high</strong> (the tension) / <em>moderate</em> (the ten-name answer)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Gen 38</strong> (Judah, Tamar, Perez)</td>
+<td style="text-align: left;"><strong>4:12</strong> explicit; <strong>4:18</strong> Perez opens the coda</td>
+<td style="text-align: left;">A widow denied her right takes irregular initiative to secure seed; Ruth is the decorous retelling. The elders invoke it themselves — the book’s own signposted
+intertext.</td>
+<td style="text-align: left;"><strong>live</strong> (4:12 + 4:18)</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Gen 19:30–38</strong> (Lot’s daughters → Moab)</td>
+<td style="text-align: left;"><strong>3:1–14</strong>, by structure rather than by word</td>
+<td style="text-align: left;">Moab’s origin: daughters, wine, night, a lying-down, seed secured by stratagem. Ruth 3 assembles the same elements — a Moabitess, a man whose <em>heart was merry</em>
+(3:7), night, an uncovering — <strong>and then refuses the outcome</strong>. The allusion is by scene-shape; there is no verbal quotation.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>moderate</em> (deliberate)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong><em>gōʾēl</em>, Lev 25:25, 47–49</strong></td>
+<td style="text-align: left;">2:20; 3:9, 12–13; 4:1–14</td>
+<td style="text-align: left;">The legal-theological category the plot turns on: kinship, ability, willingness.</td>
+<td style="text-align: left;"><strong>live</strong> (20+ ×)</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Levirate, Deut 25:5–10</strong> — esp. <em>ləhāqîm ləʾāḥîw šēm</em></td>
+<td style="text-align: left;"><strong>4:5, 10</strong> <em>ləhāqîm šēm-hammēt</em>, the same idiom; <strong>4:7–8</strong> the sandal</td>
+<td style="text-align: left;">The levirate <em>goal</em> imported into a <em>gōʾēl</em> transaction. Note the difference the narrator flags: in Deuteronomy the widow pulls off the sandal in shame;
+here the redeemer draws off his own as attestation. <strong>Ruth 4 is not levirate proper.</strong></td>
+<td style="text-align: left;"><strong>live</strong></td>
+<td style="text-align: left;"><strong>high</strong> (verbal for <em>hāqîm šēm</em>)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Ezek 16:8</strong> <em>wāʾep̄rōś kənāp̄î ʿālayik</em></td>
+<td style="text-align: left;"><strong>3:9</strong> <em>ûp̄āraśtā kənāp̄ekā ʿal-ʾămātekā</em></td>
+<td style="text-align: left;">Same verb, same noun, same preposition: the betrothal gesture. Ruth is proposing marriage in a fixed idiom, not improvising.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong> (verbal)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Deut 32:11 / Ps 91:4</strong> (God’s sheltering wings)</td>
+<td style="text-align: left;"><strong>2:12</strong> <em>laḥăsôt taḥat kənāp̄āyw</em></td>
+<td style="text-align: left;">Supplies the plural, metaphorical <em>kānāp̄</em> that 3:9 then converts into a garment.</td>
+<td style="text-align: left;"><em>(pairs with 3:9)</em></td>
+<td style="text-align: left;"><em>moderate–high</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Gleaning law: Lev 19:9–10; 23:22; Deut 24:19–21</strong></td>
+<td style="text-align: left;"><strong>2:2–23</strong> throughout</td>
+<td style="text-align: left;">Makes Ruth’s gleaning lawful, Boaz’s instructions (2:15–16) visibly <em>beyond</em> the law, and Naomi’s household destitute rather than merely poor.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>The exodus “not empty-handed”: Exod 3:21; Deut 15:13</strong> (<em>rêqām</em>)</td>
+<td style="text-align: left;"><strong>1:21; 3:17</strong></td>
+<td style="text-align: left;">Ruth 3:17 puts the exodus-and-release word in Boaz’s mouth: no one leaves this house empty. Conceptual, not quotation.</td>
+<td style="text-align: left;"><strong>live</strong> (2×)</td>
+<td style="text-align: left;"><em>moderate</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Gen 24</strong> (betrothal type-scene)</td>
+<td style="text-align: left;"><strong>2:1–17</strong></td>
+<td style="text-align: left;">The type-scene inverted: a field, not a well — and <strong>Boaz’s men draw water for Ruth</strong> (2:9) rather than the woman drawing for the man. Recognisable,
+deliberately altered.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>moderate</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Judges 19</strong> (a Bethlehem woman, a night, hospitality, catastrophe)</td>
+<td style="text-align: left;">The book as a whole; sharpest at chapter 3</td>
+<td style="text-align: left;">The nearest narrative neighbour in the LXX/English order, and its exact inversion: same era, same town, a vulnerable woman at night — and everything goes right.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>moderate</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>1 Sam 17:12</strong> <em>ʾep̄rātî … mibbêt leḥem yəhûdāh</em></td>
+<td style="text-align: left;"><strong>1:2</strong> <em>ʾep̄rātîm mibbêt leḥem yəhûdāh</em></td>
+<td style="text-align: left;">A near-verbatim designation shared with David’s father — the book’s second-verse hint at its destination.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong> (verbal)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>1 Sam 1:8</strong> (“am I not more to you than ten sons?”)</td>
+<td style="text-align: left;"><strong>4:15</strong> (“better to you than seven sons”)</td>
+<td style="text-align: left;">A shared idiom of a person outweighing a count of sons; Ruth reaches the <em>higher</em> claim with the <em>lower</em> number.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><em>moderate</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Prov 31:10</strong> <em>ʾēšet-ḥayil</em></td>
+<td style="text-align: left;"><strong>3:11</strong> <em>ʾēšet ḥayil</em></td>
+<td style="text-align: left;">Verbally exact — and in the <strong>BHS canonical order Ruth follows Proverbs directly</strong>, so the ideal is defined and then embodied, and embodied by a
+Moabitess.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong> (verbal); <em>moderate</em> (canonical weight)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Rachel and Leah, Gen 29–30</strong></td>
+<td style="text-align: left;"><strong>4:11</strong></td>
+<td style="text-align: left;">The elders place Ruth with the matriarchs “who built up the house of Israel” — three verses after her last “the Moabitess”.</td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Profile: OT-saturated, but by <em>allusion and legal category</em>, not by citation.</strong> There is <strong>not one formula quotation in the book</strong> — no “as it is written”, no
+marked citation. The Pentateuch is present as <em>law being lived</em> (gleaning, redemption, levirate, the Moabite ban) and as <em>narrative being rhymed</em> (Abraham, Lot, Tamar). Consequence for
+the sweep: dig-deeper’s <strong>Move 2 will be heavily loaded</strong> — treat Genesis (12, 19, 24, 29–30, 38) and the Pentateuchal legal cluster (<em>gōʾēl</em> / levirate / gleaning / the Moabite
+ban) as <strong>confirmed live sources</strong>, and give further echoes from them an elevated prior. But <strong>Move 4 (internal echo) is the more productive tool here</strong>, because the argument
+is carried by the <em>Leitwörter</em> above. <code>[T]</code> / <code>[I]</code></p>
+<hr />
+<h2 id="christological-trajectory">Christological Trajectory</h2>
+<p><strong>1. Typology — the <em>gōʾēl</em>.</strong> The strongest and most controlled line. It runs through an established biblical category (kinsman-redemption, Lev 25), and the text itself sets
+out the three conditions a redeemer must meet: he must be <strong>kin</strong> (2:20; 3:12), he must be <strong>able</strong> (the nearer man is kin but cannot act without ruining his own inheritance,
+4:6), and he must be <strong>willing</strong> (4:9–10). Boaz is all three, and redeems at cost. The escalation is clean: a field and a widow → a people. <em>Confidence: high (typology, not
+allegory).</em> <code>[I]</code></p>
+<p><em>Discipline:</em> the LXX’s ἀγχιστεύς (next-of-kin) rather than λυτρωτής (ransomer) is a caution. Preach the <strong>kinship</strong> first — the redeemer must belong to the family in order to
+act for it — and let the price follow from 4:9–10, where the text supplies it, rather than importing it from the English word “redeemer”. <code>[T]</code></p>
+<p><strong>2. Trajectory — raising up the name of the dead.</strong> The transaction’s stated purpose, twice, is <em>ləhāqîm šēm-hammēt ʿal-naḥălātô</em>, “to raise up the name of the dead upon his
+inheritance”, so that the name of the dead “may not be cut off” (4:5, 10). Redemption here is defined as the reversal of a death’s erasure, secured through a birth. The vocabulary is not resurrection
+and should not be over-claimed — but the shape is the one the gospel completes. <em>Confidence: moderate–high; state the category honestly.</em> <code>[I]</code></p>
+<p><strong>3. Trajectory — the outsider brought in.</strong> The excluded Moabitess crosses from <em>nokrîyāh</em> to a place among Rachel and Leah, and thence into David’s line — the Abrahamic
+promise of blessing to the nations working itself out in one household. It lands explicitly in Matthew 1:5. <em>Confidence: high.</em> <code>[T]</code> (the ladder, the genealogy) / <code>[S]</code>
+(Matt 1:5)</p>
+<p><strong>4. Trajectory — the Davidic line.</strong> The coda is the point of the book’s placement: providence preserves the line to David, and past David to David’s greater son. <em>Confidence:
+high.</em> <code>[T]</code></p>
+<p><strong>Moralism check.</strong> The temptation is obvious and strong, because the narrative genuinely commends its people: “be loyal like Ruth”, “be a man of integrity like Boaz”, “be a woman of
+noble character”. A sermon can reach any of those without lying about the text — which is exactly why the trap is dangerous. Two guards, both textual:</p>
+<ul>
+<li><strong>The narrated-verb test.</strong> YHWH is the subject of a narrated verb twice (1:6, 4:13), and the gifts are bread and a child. Everything the human characters achieve happens
+<em>between</em> those two gifts and depends on them. The story’s agent is God; its exemplars are recipients.</li>
+<li><strong>The <em>ḥesed</em> ambiguity at 2:20.</strong> The Hebrew will not let you decide cleanly whether it is YHWH’s kindness or Boaz’s that has not forsaken the living and the dead — because in
+this book divine <em>ḥesed</em> arrives as human <em>ḥesed</em>. That is the answer to moralism, not its licence: the call to <em>ḥesed</em> flows <em>from</em> the God whose <em>ḥesed</em> it
+is.</li>
+</ul>
+<p>Preach Boaz as pointing to Christ, and Naomi and Ruth as recipients of <em>ḥesed</em> as we are — then the call to imitate lands after grace rather than instead of it. <code>[I]</code></p>
+<hr />
+<h2 id="preaching-traps">Preaching Traps</h2>
+<ol type="1">
+<li><p><strong>Moralising the leads.</strong> “Be like Ruth / be like Boaz” as the sermon’s main point. <em>Bites at:</em> everywhere, hardest at 1:16–17 and 2:11–12. <em>Corrective:</em> the
+narrated-verb test and the 2:20 ambiguity above. Exemplarism flows from grace, never toward it.</p></li>
+<li><p><strong>Preaching Naomi’s theology as the book’s.</strong> 1:13 (“the hand of the LORD has gone out against me”) and 1:20–21 (“the Almighty has dealt very bitterly with me”) are
+<strong>characterisation in direct speech</strong>, not the narrator’s verdict — and the narrator never endorses them. Worse, 1:21 rests on a contested root (<em>testified against</em> /
+<em>humbled</em>). <em>Bites at:</em> 1:19–22. <em>Corrective:</em> let Naomi’s protest stand as honest lament that the book will answer, and never build a doctrine of providence on a disputed
+rendering. Name the crux from the pulpit if you use the verse.</p></li>
+<li><p><strong>Romanticising or sanitising the threshing floor.</strong> Either a love scene or an embarrassed skirt-past. <em>Bites at:</em> 3:1–14. <em>Corrective:</em> preach it in its own
+categories — a <em>legal</em> appeal in a <em>betrothal</em> idiom (Ezek 16:8), deliberately staged at the exact point where Genesis 19 says a Moabite story goes wrong, and deliberately not going
+there. The danger and the restraint are both the point.</p></li>
+<li><p><strong>Reading Ruth as a love story.</strong> <em>Bites at:</em> the whole book, and it quietly reduces chapter 4 to paperwork. <em>Corrective:</em> the book is about a <em>name</em> (twelve
+occurrences) and an <em>inheritance</em>. The marriage serves the line.</p></li>
+<li><p><strong>Smoothing the Moabite scandal.</strong> <em>Bites at:</em> 1:22 and 4:5–10. <em>Corrective:</em> the narrator restates “the Moabitess” five times, twice inside the legal proceedings
+themselves. The offence is deliberate. Preach Deuteronomy 23 alongside it, and let the tension stand until the genealogy resolves it.</p></li>
+<li><p><strong>Building on an English repetition the Hebrew does not make.</strong> <em>Bites at:</em> 2:12 / 3:9 (the ESV’s “wings” for both, which hides the actual move), 2:13 / 3:9 (“servant” for
+two different words), 1:1 / 2:2 (“country” / “field” for one word). <em>Corrective:</em> check every word-repetition point against BHS before it becomes a sermon structure. Conversely, three of the
+book’s best structural gifts — <em>šûb</em>, <em>yeled</em>, <em>śādeh</em> — are invisible in English and have to be given to the congregation explicitly.</p></li>
+<li><p><strong>Treating 4:18–22 as an appendix to be skipped.</strong> <em>Bites at:</em> the final sermon of any series. <em>Corrective:</em> the ten names are the payoff — and possibly,
+deliberately, the tenth generation.</p></li>
+</ol>
+<hr />
+<h2 id="earlylate-echo-table">Early↔︎Late Echo Table</h2>
+<table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 32%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Early</th>
+<th style="text-align: left;">Later</th>
+<th style="text-align: left;">Relationship</th>
+<th style="text-align: left;">Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1:21 <em>hĕšîbanî rêqām</em> — “he <strong>brought me back</strong> empty”</td>
+<td style="text-align: left;">4:15 <em>lə-mēšîb nep̄eš</em> — “a <strong>restorer</strong> of life”</td>
+<td style="text-align: left;"><strong>Reverses</strong> — the same hiphil of <em>šûb</em>; the verb of the accusation becomes the verb of the answer</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:5 <em>wattiššāʾēr hāʾiššāh miššənê yəlādêhā</em> — “<strong>the woman</strong> left without her two <strong>children</strong>”</td>
+<td style="text-align: left;">4:16 <em>wattiqqaḥ Noʿŏmî ʾet-hayyeled</em> — “<strong>Naomi</strong> took <strong>the child</strong>”</td>
+<td style="text-align: left;"><strong>Reverses</strong> — name restored and <em>yeled</em> restored in one clause; BHS-only</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">1:21 <em>rêqām</em>, “empty”</td>
+<td style="text-align: left;">3:17 “do not go <strong>empty-handed</strong> to your mother-in-law”</td>
+<td style="text-align: left;"><strong>Answers</strong> — the redeemer replies in the accusation’s own word, with barley, before the son</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:1–2 three names given, then all three men die</td>
+<td style="text-align: left;">4:5, 10, 14, 17 the <strong>name</strong> raised, called, and given</td>
+<td style="text-align: left;"><strong>Resolves</strong> — the <em>šēm</em> thread from first scene to last</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2:12 “under whose <strong>wings</strong> (pl.) you have come to take refuge”</td>
+<td style="text-align: left;">3:9 “spread your <strong>skirt</strong> (sg.) over your handmaid”</td>
+<td style="text-align: left;"><strong>Replants</strong> — Ruth asks Boaz to be the answer to his own blessing; marked by number in Hebrew</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:1 famine in <strong>Beth-lehem</strong>, the house of bread</td>
+<td style="text-align: left;">1:6 YHWH “gave them <strong>bread</strong>”; 2:14 “eat of the <strong>bread</strong>”</td>
+<td style="text-align: left;"><strong>Reverses</strong> — the house of bread refilled, and the foreigner fed at its table</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">1:8–9 Naomi’s parting wish: YHWH deal in <em>ḥesed</em>; grant each of you <em>mənûḥāh</em>, rest</td>
+<td style="text-align: left;">3:1 Naomi seeks <em>mānôaḥ</em> for Ruth; 4:13–17 it arrives</td>
+<td style="text-align: left;"><strong>Resolves</strong> — Naomi’s blessing granted through the very daughter-in-law she was dismissing</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:14 Ruth <em>dābəqāh</em> — <strong>clings</strong> to Naomi</td>
+<td style="text-align: left;">2:8, 21, 23 Boaz tells her to <strong>cling</strong> to his young women, and she does</td>
+<td style="text-align: left;"><strong>Replants</strong> — the covenant verb domesticated into daily provision</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">1:16 “your people shall be my people”</td>
+<td style="text-align: left;">4:11 “all the people who were at the gate” bless her with Rachel and Leah</td>
+<td style="text-align: left;"><strong>Resolves</strong> — the pledge ratified by the people themselves</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2:10 Ruth: “I am a <em>nokrîyāh</em>, a foreigner”</td>
+<td style="text-align: left;">4:15 “your daughter-in-law … is better to you than <strong>seven sons</strong>”</td>
+<td style="text-align: left;"><strong>Reverses</strong> — the ladder’s first and last rungs</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2:20 “one of our <strong>redeemers</strong>” — the word’s first appearance, on Naomi’s lips</td>
+<td style="text-align: left;">4:14 “who has not left you this day without a <strong>redeemer</strong>” — the women’s last word to Naomi</td>
+<td style="text-align: left;"><strong>Resolves</strong> — Naomi names the possibility; the women announce its arrival</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1:2 “<strong>Ephrathites</strong> from Bethlehem in Judah”</td>
+<td style="text-align: left;">4:11 “act worthily in <strong>Ephrathah</strong> … in Bethlehem”</td>
+<td style="text-align: left;"><strong>Answers</strong> — the family designation of verse 2 becomes the site of blessing</td>
+<td style="text-align: left;"><em>moderate–high</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:12 elders invoke <strong>Perez</strong>, Tamar’s son</td>
+<td style="text-align: left;">4:18 the coda opens <em>wəʾēlleh tôlədôt Pereṣ</em></td>
+<td style="text-align: left;"><strong>Resolves</strong> — the blessing’s Perez becomes the genealogy’s head</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4:1 the nearer redeemer, <em>pəlōnî ʾalmōnî</em>, unnamed</td>
+<td style="text-align: left;">4:21 <em>ûbōʿaz hôlîd ʾet-ʿôbēd</em> — Boaz named in the line</td>
+<td style="text-align: left;"><strong>Contrasts</strong> — the man who would not raise a name is the one man left without one</td>
+<td style="text-align: left;"><strong>high</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Working rule for the sweep:</strong> hold <strong>1:1–22 open against the whole book</strong>. Almost every deprivation in chapter 1 is answered somewhere in chapter 4, usually in the same
+Hebrew word. Any dig on chapters 2–4 should re-read chapter 1 before it starts.</p>
+<hr />
+<h2 id="preaching-units">Preaching Units</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Verses</th>
+<th style="text-align: left;">Working title</th>
+<th style="text-align: left;">Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1:1–22</td>
+<td style="text-align: left;">Empty: famine, death, and a pledge</td>
+<td style="text-align: left;">⭐ <strong>HIGH</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2:1–23</td>
+<td style="text-align: left;">The field: refuge, notice, and a redeemer named</td>
+<td style="text-align: left;">⭐ <strong>HIGH</strong> <em>(2:20 is the book’s hinge)</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">3:1–18</td>
+<td style="text-align: left;">The appeal: spread your skirt over your handmaid</td>
+<td style="text-align: left;">⭐ <strong>HIGH</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4:1–12</td>
+<td style="text-align: left;">The gate: buying a name back</td>
+<td style="text-align: left;">Standard</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4:13–22</td>
+<td style="text-align: left;">Full: the child, the women, and the ten names</td>
+<td style="text-align: left;">⭐ <strong>HIGH</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Notes for series planning:</p>
+<ul>
+<li><strong>The seams are not the chapter divisions in one place.</strong> 4:1–12 and 4:13–22 are separate movements (legal transaction / birth and coda) and preach better apart; conversely 1:1–5 and
+1:6–22 are distinct panels but too short to separate.</li>
+<li>A <strong>four-week series</strong> merges 4:1–12 into 4:13–22 — workable, but the sermon then carries both the gate scene and the genealogy, and usually loses the coda.</li>
+<li>A <strong>two-week treatment</strong> (1–2 / 3–4) is possible but forfeits the <em>gōʾēl</em> build, which is the book’s engine.</li>
+<li>If preaching one sermon only, <strong>2:1–23</strong> carries the most of the book’s theology per verse; <strong>1:1–22</strong> carries the most of its pastoral weight.</li>
+</ul>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Version:</strong> 0.1.0 · <strong>Date:</strong> 28 August 2026 · <strong>Mode:</strong> Draft (text-first)</p>
+<p><strong>Substrate and sources consulted:</strong> BHS (Elliger–Rudolph–Weil, Leningrad) as substrate, including its Masoretic paragraphing (<em>petuḥah</em> at 4:17) and its critical apparatus
+sigla at 1:1, 1:8, 1:14, 1:19–21, 2:1, 2:7, 3:3–5, 3:9, 3:14–15, 4:2–8; Rahlfs <em>Septuaginta</em> alongside; ESV (2025) for reference only. <strong>No commentary, lexicon or secondary literature has
+been consulted.</strong> Every <code>[S]</code> above is general scholarly knowledge held provisionally and awaiting a checking-stage confirmation.</p>
+<p><strong>Warrant counts (approximate):</strong> <code>[T]</code> ≈ 46 · <code>[I]</code> ≈ 14 · <code>[S]</code> ≈ 5</p>
+<p><strong>Sections added beyond the standard contract:</strong> <em>Text and Versions</em> and <em>Leading Words</em>, supplied because this project works from BHS as substrate with LXX alongside;
+they correspond to dig-deeper’s original-languages and textual-variant extensions.</p>
+<p><strong>Health note.</strong> Draft, text-first, and unusually <code>[T]</code>-heavy because the book’s argument is carried by Hebrew repetition that can be pointed to on the page. Three claims
+are the ones most likely to be corrected by the sweep and should be tested first: <strong>(a)</strong> that YHWH is the subject of a narrated verb only at 1:6 and 4:13; <strong>(b)</strong> that 2:20
+is the structural centre; <strong>(c)</strong> that 4:18–22 is canonical anchoring rather than narrative climax. The main <code>[S]</code> items to confirm at the checking stage are the
+canonical-order significance of the BHS (post-Proverbs) and LXX (post-Judges) placements, the Matthew 1:5 link, and the ten-generations reading of the coda. Finalise once 1:1–22, 2:1–23, 3:1–18 and
+4:13–22 have solo digs.</p>
+<p><strong>Next actions:</strong> run <code>/dig-deeper</code> on 1:1–22 first (it plants nearly everything); then 2:1–23. Consider a Logos Study Assistant pass on the 1:21 <em>ʿānāh</em> crux, the
+4:5 Kethiv/Qere, and the 2:7 obscurity before any of those reach the pulpit.</p>
+
+</main>
+</div>
+</body>
+</html>

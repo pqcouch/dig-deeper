@@ -1,643 +1,303 @@
-# BOOK OVERVIEW: JEREMIAH
+# Book Overview: Jeremiah
+
+**Translation:** ESV, worked against BHS (Hebrew) and Rahlfs (LXX) directly
+**Genre:** Prophetic book — oracular poetry, biographical narrative, personal lament, and a historical appendix, held together by a claim about a word
+**Mode:** Draft (fresh text-first build, v1.0.0) — supersedes the previous `book-overview-jeremiah.md`, which was produced outside this toolkit
+**Date:** 28 August 2026
+**Sweep status:** A fourteen-passage dig-deeper sweep of the whole book exists (`dig-deeper-jeremiah-sweep.md`, this session). It is treated here as a **secondary source** and reconciled at the checking stage only.
+
+Warrant tags: `[T]` derivable from the text on the page · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally.
+
+> **Provenance, stated honestly.** This is not a first encounter with Jeremiah. A full sweep of the book was run earlier in this same session, and the superseded overview was consulted during it. What is genuinely fresh here — and what this document is built on — is **whole-book work never previously run**: the Hebrew parsed and counted across all 1,364 verses; the Greek parsed and counted across all 1,298; a complete machine-verified catalogue of the LXX's whole-verse omissions; and a quantified measure of the shortfall. The overview was built from that layer *first*. The sweep and the superseded overview were then opened, and everything originating in them is tagged `[S]` — which is what the skill requires of a completed run in any case: from an overview's point of view, a dig is a secondary source. Where this pass corrects the sweep, it says so.
 
 ---
 
-## HEBREW CANON POSITION
+## Presenting Situation
 
-- **Section:** Latter Prophets (Nebiim — the second section of the Prophets, after the Former Prophets Joshua–Kings)
-- **Position within section:** Second of the three Major Prophets: Isaiah → **Jeremiah** → Ezekiel → the Twelve
-- **Reading implication:** Jeremiah sits immediately after Isaiah, which means the reader arrives already knowing the grammar of judgment and salvation. Isaiah established the categories: the holy God who judges, the remnant who survives, the servant who suffers, the new creation beyond exile. Jeremiah does not re-explain these; he *enacts* them — Isaiah's theology arriving in history, with all the mess and grief that entails. He also sits immediately before Ezekiel, which means Jeremiah's new covenant promise (31:31–34) finds its interiority filled out by Ezekiel's new spirit/new heart oracle (36:26–27). The two books are a canonical pair on the question of whether Sinai's problem — a stone-hearted people — can ever be fixed.
-- **Presupposes:** The entire Pentateuch (especially the Sinai covenant, Deuteronomy's blessing-and-curse structure, the Abrahamic promises, and the Mosaic model of prophecy); the Former Prophets (the Davidic covenant from 2 Samuel 7; the fall of Israel in 2 Kings 17; the beginning of the fall of Judah); Isaiah's framework of a holy God whose judgment is never his final word.
+**The double superscription.** The book opens by naming two things and quietly claiming they are one: "**The words of Jeremiah** the son of Hilkiah, of the priests who were in Anathoth… to whom **the word of the LORD** came" (1:1–2). `[T]` A man's words and God's word, in the same breath. Everything the book goes on to argue — that this word cannot be burned, drowned, outlasted, or out-argued — rests on that opening equation, and the book returns to it explicitly at the end: "**Thus far are the words of Jeremiah**" (51:64). `[T]`
 
----
+**Speaker, scribe, and the seam at 51:64.** Jeremiah is named 131 times in the book, and the narrative is largely *about* him rather than by him — third-person report, not first-person memoir, for most of its length. `[T]` The book also names its own scribe — **Baruch son of Neriah**, who writes at Jeremiah's dictation (36:4, 32) and appears in chapters 32, 36, 43, and 45. `[T]` The colophon at 51:64 draws a line under the prophetic material, after which chapter 52 follows as a documentary appendix in a different voice. `[T]` Who compiled the book is not stated; that is `[I]`/`[S]`, and the 51:64 colophon is the strongest thing the text itself says about it.
 
-## CANONICAL COLLECTION
+**Dates, as the text gives them.** From "the thirteenth year of Josiah" through "the end of the eleventh year of Zedekiah… until the captivity of Jerusalem in the fifth month" (1:2–3) — roughly forty years of ministry — with chapter 52 carrying the record on to "the thirty-seventh year of the exile of Jehoiachin" (52:31). `[T]` The conventional absolute dates (627, 587, 561 BC) are reconstruction, not text: `[I]`/`[S]`.
 
-- **Collection:** Latter Prophets (Major Prophets in English order)
-- **This book's position:** The central and longest of the three Major Prophets; the hinge between the programmatic Isaiah and the exilic Ezekiel
-- **Preceding book (Isaiah):** Established the theological grammar — the holy God judges his unfaithful people, a servant suffers, a new exodus comes, a new covenant lies beyond the disaster. The audience knows the framework.
-- **This book's contribution:** Jeremiah *historicises* Isaiah's grammar. He shows what covenant judgment actually looks like on the ground — in real kings' reigns, real sieges, real cisterns, real tears. He carries the "new covenant" promise further than any other OT book, giving it its only explicit name (31:31–34), and anchoring it in the total failure of human heart-obedience. He establishes that there is no fixing the old arrangement; only demolition clears the ground for what God will build.
-- **Handoff to next book (Ezekiel):** Jeremiah leaves the question of *how* the new covenant will work — how hearts will be changed — largely open. Ezekiel answers it directly (36:26–27: "I will give you a new heart and put a new spirit within you"). Jeremiah ends with a king in exile, alive but not ruling. Ezekiel picks up in that exile and begins to re-imagine the temple, the land, and the king from there. Jeremiah's ending in exile is also the *beginning* of Daniel.
+**Audience — and it changes twice.** *First*, pre-exilic Judah under three kings, none of whom submits: Josiah's reform is judged superficial (3:10), Jehoiakim burns the scroll (36), Zedekiah cannot control his own officers (38:5). *Then*, mid-book, the addressee shifts decisively: chapter 29 is a **letter to the exiles in Babylon**, and chapter 24 has already declared that the future belongs to them and not to those left in the land. *Finally*, the remnant in **Egypt** (44). Any reading that treats "the audience" as a single body will miss the book's most important move — the hope migrates away from Jerusalem while the book is still running. `[T]` / `[I]`
 
----
+**Pressure.** The book states its own question, in God's mouth, at 44:28: "**then all the remnant of Judah… shall know whose word will stand, mine or theirs.**" `[T]` That is the contest — not primarily "will Judah repent?" but "**whose word will prove true?**" Everything in the book is evidence in that trial: the false prophets who promise peace, the scroll in the fire, the prophet in the cistern, and finally a city in rubble exactly as announced.
 
-## STORYLINE PLACEMENT
+**Purpose.** To put the word of the LORD on trial before a people who will not hear it, and to record the verdict — that the word destroyed precisely what it said it would destroy, and therefore may be trusted about what it says it will build. `[I]`
 
-- **Timeline:** The final 40 years of the Southern Kingdom of Judah, spanning 627–580 BC: from Josiah's reign (before the reform's fruit became clear) through the fall of Jerusalem (587 BC) and its immediate aftermath in Egypt
-- **Original audience situation:** Jeremiah preaches to a people caught between three superpowers (the fading Assyria, the unreliable Egypt, and the rising Babylon), through three kings who represent three different failures (Josiah's superficially faithful reform; Jehoiakim's active rejection of God's word; Zedekiah's paralysed weakness). The book is then compiled for readers in Babylonian exile who need to understand why they are there and whether there is any hope.
+**A versification note for the handout.** The Hebrew and English chapter divisions part company once, at chapters 8/9: **BHS 8:23 = ESV 9:1**, so Hebrew 9:1 is English 9:2 and the offset runs to the end of the chapter. The great line "Oh that my head were waters and my eyes a fountain of tears" is Hebrew 8:23 and English 9:1. The verse counts confirm it — MT chapter 8 has 23 verses to the English 22, and MT chapter 9 has 25 to the English 26. `[T]`
 
 ---
 
-## WHY THE ORIGINAL AUDIENCE NEEDS THIS BOOK
+## Structural Arc Map
 
-| Audience Situation | Theological Question Raised | Book's Response |
+The seams below are the ones the text marks: its own superscription formula (*the word that came to Jeremiah from the LORD*), its regnal datings, its colophon, and one hard lexical fact — the withholding of Babylon's name.
+
+| Chapters | Movement | Function |
 |---|---|---|
-| Josiah's reform felt like a turning point — but Jeremiah knows it was superficial (3:10) | Can outward reformation save a nation with a hard heart? | No. The heart problem runs too deep for reform to fix (17:9). Only demolition and a new covenant can solve it. |
-| God's people are being destroyed by Babylon | Has God abandoned his covenant? Is this the end of everything? | No — this is the four-destruction-verbs of 1:10 doing exactly what God said they would do. Judgment is not the final word. |
-| Exiles in Babylon wonder whether to trust restoration promises when the warnings all came true | Now that the warnings proved true, can the promises of restoration be trusted? | Yes — precisely because the warnings came true (52:31–34), the promises of a new covenant, a righteous Branch, and restored fortunes are equally certain. |
-| Both land-dwellers and exiles are tempted to grasp at political solutions (Egypt, false prophets of peace) rather than submit to God's declared future | Which word should we trust? The comforting word or the hard word? | Only the tested, fulfilled word of the LORD can be trusted. The whole narrative demonstrates the word's indestructibility. |
-| The people of God lack the internal resources to keep God's covenant | Is there any hope for people like us? | Yes — but not in us. The hope is a new covenant in which God himself will write his law on their hearts and forgive their sins definitively (31:31–34). |
-| A small number of individuals *do* hear and obey — Ebed-Melech, Baruch, the Rechabites, the good figs | What does faithfulness look like when the nation has collapsed? | These individuals are not random — they are the seed of the new covenant community; the book shows in negative space what that community will look like |
+| 1 | **Commission** | The six verbs (1:10) that programme the whole book; the almond-branch guarantee that God watches over his word to perform it; the promise "I am with you to deliver you" (1:8, 19) that the book will test to destruction |
+| 2–20 | **The word against Judah — and against its prophet** | Superscriptions at 7:1, 11:1, 14:1, 18:1. The covenant lawsuit, the temple sermon, the potter and the flask, and the confessions that turn the word's cost onto the prophet's own body. **The destroyer is never named**: for nineteen chapters he is only "the foe from the north" — until 20:4 |
+| 21–29 | **The word tested in public** | Superscription 21:1; the dated hinge at 25:1. Kings and prophets are examined and fail; the cup of wrath goes round the nations; seventy years are declared (25:11–12; 29:10); Hananiah is refuted and dies (28); and the letter of chapter 29 relocates the future to Babylon |
+| 30–33 | **The Book of Comfort** | Superscriptions 30:1 and 32:1. All six commissioning verbs return at **31:28** — the only other verse in the book that carries all six — now weighted toward building and planting; the one **new covenant** text in the Hebrew Bible (31:31–34); a field bought during a siege (32); the Branch and covenant permanence (33) |
+| 34–45 | **The word rejected, enacted, and preserved** | Superscriptions 34:1, 34:8, 35:1, 40:1, 44:1. Zedekiah's broken manumission covenant (34) against the Rechabites' kept one (35); the scroll burned and rewritten (36); the siege, the cistern, the fall (37–39); the remnant's self-destruction and flight to Egypt (40–44); and Baruch's own oracle (45), which in the Hebrew stands as the hinge into the nations |
+| 46–51 | **The word over the nations** | Superscriptions 46:1, 47:1, 49:34. The commission's "over nations and over kingdoms" (1:10) enacted; Babylon comes last and longest, and the "foe from the north" now comes for *Babylon*. Closed by the colophon, "Thus far are the words of Jeremiah" (51:64) |
+| 52 | **Appendix: the verdict entered** | Not oracle but record. The city falls exactly as declared; and the last four verses lift a Davidic head out of prison and set him at a table |
 
-**What would be missing without this book:** The canonical gap Jeremiah fills is the *ground-level record* of covenant judgment and the *explicit promise of the new covenant*. Without Jeremiah, the reader knows from Kings that Jerusalem fell, but doesn't understand the prophetic word that drove those events, doesn't have the ache of the confessions, doesn't have the name "new covenant," doesn't have the righteous Branch, and doesn't have the theological realism of a God who demolishes what he built because only demolition prepares the ground for something better.
+**Device: accumulation with one suspension, not a chiasm.** The four destructive verbs accumulate for thirty chapters; the Book of Comfort suspends them; the demolition then completes; and the scope finally widens to every nation. The frame is lexical and exact — **1:10 and 31:28 are the only two verses in Jeremiah containing all six commissioning verbs**, and the second reverses the first's weighting: "as I have watched over them to pluck up and break down… so I will watch over them to build and to plant" (31:28). `[T]`
+
+**Three structural signals, counted.**
+
+1. **Babylon is not named once in chapters 1–19.** The first occurrence in the book is **20:4**. For nineteen chapters — over a third of the book — the agent of judgement is only "the foe from the north" (1:14; 4:6; 6:1), and the reader is made to sit with an unnamed threat exactly as the first hearers did. `[T]` This is the single most under-preached structural fact in Jeremiah.
+2. **The book is deliberately not chronological, and the dislocations are thematic.** The datings run: Josiah (1:2) → Zedekiah (21:1) → Jehoiakim's fourth year (25:1) → Jehoiakim's accession (26:1) → Zedekiah (27–29, 32–34) → **back to Jehoiakim (35:1; 36:1)** → Zedekiah and the fall (37–39) → after the fall (40–44) → **back to Jehoiakim's fourth year again (45:1; 46:2)**. `[T]` Both backward lurches land on the same subject: **the reception of the word** — the Rechabites who obey (35), the scroll that is burned and rewritten (36), and the scribe who wrote it (45). The book breaks its own chronology twice, and both times to put the scroll material where it will function as commentary. `[I]` *(confidence: high)*
+3. **The colophon at 51:64 makes chapter 52 an appendix by the book's own reckoning** — "Thus far are the words of Jeremiah" — and chapter 52 duly contains no oracle, no "thus says the LORD" addressed to the present, and no Jeremiah. `[T]`
 
 ---
 
-## PRESENTING SITUATION
+## Microscript
 
-| Element | What Happened | What It Tells the Preacher |
+*For forty years the word of the LORD came to a people who would not hear it; it plucked up and tore down exactly what it said it would, and when the city was rubble and the prophet's own life had been spent proving it, the same word turned to building and planting — first in a scroll that could not be burned, then in a covenant written on hearts, and at last over every nation on earth.*
+
+Keynote: **hear / obey** (*šāmaʿ*, 189×, in 45 of 52 chapters — the book's most frequent theological root), with its fixed indictment "**they did not listen, and did not incline their ear**" (8×). Structural pulse: **the six verbs of 1:10, tipping at 31:28.** Governing question, in the book's own words: *whose word will stand?* (44:28). `[T]`
+
+Test against the movements: commission → the word against Judah → the word publicly tested → the word turning to build → the word rejected, enacted, and preserved → the word over the nations → the verdict entered. Each movement is an episode in one trial.
+
+---
+
+## Lexical and Textual Spine
+
+*Counted from the supplied consonantal Hebrew (1,364 verses) and the Greek with accents normalised (1,298 verses). Method is stated because it changes the numbers: Hebrew figures are consonantal-string counts with named false positives excluded; where a root is genuinely ambiguous in unpointed text the count is marked conservative. This layer is the fuel for dig-deeper's Tools 7–10.*
+
+### The roots and formulae that carry the book
+
+| Term | Count | Distribution | What it shows |
+|---|---|---|---|
+| *šāmaʿ* (hear / obey) | **189** occ. / 166 verses | 45 of 52 chapters (Ishmael excluded from the count) | The book's dominant theological root, and its verdict-word |
+| "they did not listen, and did not incline their ear" | **8** | 7:24, 7:26, 11:8, 17:23, 25:4, 34:14, 35:15, 44:5 | A fixed formula, **four in the first half and four in the second** — book-wide, not a frame for one half |
+| *nĕʾum YHWH* ("declares the LORD") | **167** | 38 chapters; peaks 23 (17), 31 (14), 49 (11) | Absent from most of the narrative chapters (36–38, 40–41, 43, 52) — the formula belongs to oracle, and its absence marks the prose |
+| "Thus says the LORD" | **152** | 46 chapters | The book's most widely distributed formula |
+| *šûb* (turn / return / repent) | ~107 (conservative) | 38 chapters; peak ch. 3 | The famous Jeremiah word — but see the note below |
+| "rising early" (*haškēm*) + sending | **8** | 7:13, 7:25, 11:7, 25:4, 26:5, 29:19, 32:33, 35:14 | God as the one who **gets up early**, day after day, to speak to people who will not listen — always followed by "and you did not listen." Five of the eight pair it with "my servants the prophets" |
+| "my servants the prophets" | **5** | 7:25, 26:5, 29:19, 35:15, 44:4 | The persistence of the sending, against the persistence of the refusal |
+| *šeqer* (falsehood) | 37 | 19 chapters; peaks 23 (5), 27 (4), 29 (4) | Concentrated exactly where prophecy is being tested |
+| *lēb* (heart) | 83 (Leb-qamai excluded) | 37 chapters | The organ of the problem (17:9) and the site of the cure (31:33) |
+| *bĕrît* (covenant) | 24 | Only 10 chapters — 11 (5), 31 (4), 33 (4), 34 (5) | Covenant vocabulary is concentrated, not diffuse: one chapter for the broken covenant, one for the new, one for its permanence, one for the covenant broken again |
+| **"new covenant"** (*bĕrît ḥădāšâ*) | **1** | **31:31** | The phrase occurs **once in the Hebrew Bible**, here |
+| Babylon | 169 | 25 chapters — **none before 20:4**; peaks 51 (36), 50 (19), 52 (15) | Named more often than Jerusalem (107) |
+| "from the north" | 10 | 1:14; 4:6; 6:1; 13:20; 15:12 — then **46:20; 47:2; 50:3, 41; 51:48** | The same phrase that brings the destroyer *against* Judah later brings one *against Babylon* |
+| *ṣemaḥ* ("Branch") | **2** | **23:5 and 33:15** | — |
+| "the LORD is our righteousness" | **2** | **23:6** (of the *king*) and **33:16** (of *Jerusalem*) | Two Branch texts, two applications of one title — and the second of each pair is absent from the LXX (below) |
+| "restore the fortunes" (*šûb šĕbût*) | 9 | 29:14; 30:3; 31:23; 32:44; 33:7, 11, 26; **49:6 (Ammon); 49:39 (Elam)** | The restoration formula reaches past Israel to two of the judged nations |
+| *šĕʾērît* (remnant) | 24 | 16 chapters, clustering 40–44 | The remnant vocabulary belongs to the post-fall narrative, where the remnant destroys itself |
+| *mĕgillâ* (scroll) | **12** | **All in ch. 36** | The word for the scroll appears only in the scroll chapter |
+| *bôr* (cistern / pit) | 25 | **7 in ch. 38**; 2 in ch. 41 | Jeremiah in the cistern, and the cistern used as a mass grave |
+| "voice of the bridegroom and the voice of the bride" | **4** | 7:34; 16:9; 25:10 — then **33:11** | Three silencings, **one** restoration, in verbatim identical wording |
+| "I am with you to deliver you" | **5** | 1:8; 1:19; 15:20; 30:11; 46:28 | Given to the prophet, repeated to him at his lowest, then **transferred to the people** |
+| "seventy years" | 3 | 25:11, 12; 29:10 | The figure a later prophet is recorded reading (Dan 9:2) |
+
+**A correction on *šûb*.** It is often called the book's dominant word. On counts it is not: *šāmaʿ* runs roughly 189 to *šûb*'s 107, and reaches 45 chapters to *šûb*'s 38. `[T]` *šûb* is the more **theologically loaded** word — it carries repentance, apostasy, and restoration in one root, and the wordplay of 3:12–14 and 8:4–5 is untranslatable without it — but the book's *structural* refrain, the thing it says over and over about this people, is that they would not **hear**. Preach *šûb* for its depth and *šāmaʿ* for the book's shape. *(Note: unpointed Hebrew cannot cleanly separate every form of š-w-b from y-š-b, so the *šûb* figure is a conservative floor.)*
+
+### The six verbs of 1:10 — the book's spine, traced
+
+Jeremiah 1:10 commissions with six verbs: *to pluck up and to break down, to destroy and to overthrow, to build and to plant.* Tracking all six across the book gives the following, and nothing else in the book carries two or more of them: `[T]`
+
+| Reference | Verbs present | What is happening |
 |---|---|---|
-| **Three key kings** | Josiah (good but superficial reform, 3:10 — "in pretence"), Jehoiakim (burned the scroll, hates God's word), Zedekiah (weak, unable to control his officers) | The whole spectrum of human response to God's word is embodied in these three kings. No king manages to submit faithfully. Human leadership at every level fails. |
-| **Three empires** | Assyria (declining), Egypt (the false hope Judah keeps running to), Babylon (rising, God's instrument of judgment) | Egypt represents the perennial temptation to trust human power rather than God's word. The book ends with the remnant going to Egypt — the tragic irony of returning to the house of slavery. |
-| **The Egypt motif as anti-exodus theology** | The flight to Egypt (chs. 42–44) is not merely bad geopolitics — it is the theological reversal of the redemption narrative. Israel is undoing the exodus, choosing the house of slavery over the wilderness of trust. | Preach Egypt as a theological direction, not just a geographical one. Every choice to trust a human alternative to God's word is a "going to Egypt." This is not incidental colour — it is the book's most concrete picture of what unbelief looks like. |
-| **Battle of Carchemish (605 BC)** | Babylon decisively defeats Egypt-Assyria. The world order shifts. | Everything Jeremiah had been saying suddenly looks credible to everyone except the people who needed to hear it. |
-| **Fall of Jerusalem (597 BC then 587 BC)** | First: temple plundered, Jehoiachin exiled. Second: city destroyed, Zedekiah blinded, people deported. | The four-destruction-verbs of 1:10 enacted in real history. The word proved true. |
-| **Gedaliah's governorship and murder (586 BC)** | Gedaliah is appointed governor. He is murdered; the remnant flees to Egypt. | The book does not end with restoration. The hope lives in the exiles in Babylon (the good figs of ch. 24), not in the land. |
-| **Two versions of the text (MT and LXX)** | MT (Hebrew, longer) and LXX (Greek, shorter, oracles against nations repositioned) represent different stages of the book's formation. The NT treats the MT as authoritative. | The book has a complex formation history that does not undermine its authority — it shows the word being preserved and expanded with deliberate theological care, which is itself part of Jeremiah's point. |
+| **1:10** | **all six** | The commission — four destructive, two constructive |
+| 18:7 | three (pluck up, break down, destroy) | The potter: the destructive half stated as a *conditional* principle over any nation |
+| 24:6 | four (build, plant, **not** overthrow, **not** pluck up) | The good figs — the constructive half spoken, for the first time, over the exiles |
+| **31:28** | **all six** | The turn: "as I have watched over them to pluck up… so I will watch over them to build and to plant" |
+| 31:40 | two, negated permanently | "It shall not be plucked up or overthrown any more for ever" |
+| 42:10 | four (build, plant, **not** pull down, **not** pluck up) | The offer to the remnant — **conditional on staying in the land**, and refused |
+| 45:4 | two, reversed onto God | "What I have built I am breaking down, and what I have planted I am plucking up — that is, the whole land" |
+
+Two things fall out. First, **the constructive verbs are never spoken over the people in the land** — only over the exiles (24:6), over restored Israel (31:28), and as a conditional offer the remnant rejects (42:10). Second, **45:4 is the counterweight the thread needs**: God says he is himself tearing down what he built. Any sermon on 1:10 that reaches 31:28 without passing 45:4 has softened the book. `[T]`
+
+### The Greek: a different edition, not a loose translation
+
+Whole-book comparison, run from the supplied texts:
+
+- **MT: 1,364 verses, 18,683 Hebrew words. LXX: 1,298 verses, 29,270 Greek words.** `[T]`
+- Calibrating the Greek-to-Hebrew word ratio on the eighteen chapters in 1–24 where the two agree verse-for-verse (ratio 1.734), a complete Greek translation of MT would run about 32,400 words. The LXX has 29,270. **The Greek is therefore about 10% shorter than the Hebrew — roughly 1,800 Hebrew words absent.** `[T]` *(This is a floor, not a ceiling: the calibration chapters may themselves contain small within-verse minuses, which would push the true figure higher and toward the conventional "one eighth".)*
+- **The oracles against the nations stand in a different place and a different order.** In MT they are chapters 46–51, after the narrative; in LXX they follow 25:13, in the middle of the book. Established here from the text rather than assumed, by tracking where each nation is named: Egypt MT 46 = **LXX 26**; Babylon MT 50–51 = **LXX 27–28**; Philistines MT 47 = **LXX 29**; Edom/Damascus MT 49 = **LXX 30**; Moab MT 48 = **LXX 31**; Elam MT 49:34–39 = **LXX 25**. `[T]`
+- From there a clean offset runs: **LXX = MT + 7** for MT 26–44 (LXX 33–51), with **LXX 51 carrying MT 44 *and* MT 45 together** — verse counts 30 + 5 = 35 exactly, and LXX 51:31 is MT 45:1 word for word. `[T]` **So Baruch's oracle is not missing from the Greek; it is demoted.** In MT, chapter 45 stands alone as the hinge between the narrative and the nations, giving Baruch a structurally privileged position; in LXX it is simply the tail of the Egypt material. That is a real interpretive difference produced by arrangement alone.
+
+**The whole-verse minus catalogue** — every verse of MT with no counterpart in the Greek, machine-verified against the Rahlfs versification, which preserves MT numbering with explicit gaps: `[T]`
+
+| Where | MT verses absent from LXX | Weight |
+|---|---|---|
+| 2:1 · 7:1, 27 · 11:7 | 4 verses | Speech-introduction formulae |
+| 8:11–12 | 2 | The "peace, peace, when there is no peace" doublet (retained at 6:14) |
+| **10:6–8, 10** | 4 | The hymnic "There is none like you, O LORD" — the incomparability passage inside the idol polemic |
+| **17:1–4** | 4 | "The sin of Judah is written with a pen of iron… on the tablet of their heart" — the counterpart to 31:33 |
+| 27:1, 7, 13, 17, 21 · 29:16–20 | 10 | Largely the Nebuchadnezzar and false-prophet expansions |
+| 30:10–11, 15, 22 | 4 | Includes the "fear not, O Jacob my servant" doublet — LXX keeps it **only** at the Egypt oracle (MT 46:27–28) |
+| **33:14–26** | **13** | The Branch, "the LORD is our righteousness", and the David-and-Levi covenant-permanence oracle — **the largest and most theologically weighted minus in the book** |
+| **39:4–13** | **10** | Zedekiah's flight, capture, and blinding; the burning of the city; Nebuzaradan's deportation |
+| 52:2–3, 15, 28–30, 34 | 7 | Includes the three deportation tallies and the book's final verse |
+| **Total** | **58 whole verses** | plus the within-verse shortfall above |
+
+Two consequences a preacher should carry. **First**, of the book's two Branch texts (23:5–6 and 33:15–16), the Greek has only the first — so the "LORD is our righteousness" title applied to *Jerusalem*, and the promise that David and Levi are as unbreakable as day and night, exist only in the Hebrew. **Second**, the incomparability hymn of 10:6–8, 10 and the engraved-heart oracle of 17:1–4 are Hebrew-only, and 17:1 is the dark mirror of 31:33: sin engraved on the tablet of the heart with an iron pen, answered by torah written on the heart by God. That pairing is invisible in Greek. `[T]`
+
+### The divergence that matters most: Hebrews quotes the Greek
+
+The longest Old Testament quotation in the New Testament is Hebrews 8:8–12, citing Jeremiah 31:31–34. The Greek it cites differs from the Hebrew at two loaded points: `[T]` for both texts; `[S]` for the Hebrews wording.
+
+| | MT 31:32–33 | LXX 38:32–33 |
+|---|---|---|
+| The old covenant | "…**though I was their husband** (*bāʿaltî bām*)" | "…**and I disregarded them** (*kagō ēmelēsa autōn*)" |
+| The new covenant's content | "I will put **my law** (singular) **within them** (*bĕqirbām*)" | "giving I will give **my laws** (plural) **into their mind** (*eis tēn dianoian autōn*)" |
+
+Hebrews 8:9–10 follows the Greek on both. A congregation reading Hebrews 8 and then turning to Jeremiah 31 in an English Bible will find two different sentences, and the difference is not trivial: on one reading God remained faithfully bound to a covenant Israel broke; on the other he turned away from them. Name it rather than letting it ambush someone. **Prefer MT for Jeremiah; explain Hebrews as citing the Greek text its readers used.** `[I]`
 
 ---
 
-## OPENING SIGNALS
+## Intertextual Map
 
-- **Genre marker:** Prophetic book — blending oracular material, biographical narrative, personal lament/confession, and historical appendix. The "words of Jeremiah" (1:1) and "word of the LORD" (1:2) in the double opening are a programmatic claim: these are one and the same thing.
-- **Problem word:** **שׁוּב** (*shub* — turn/return/backslide) — the most theologically dense single word in the book. When used negatively it names Israel's chronic apostasy; when used positively it names repentance and return. Saturates chapters 3 and 30–34.
-- **Second problem word:** **עָזַב** (*azab* — forsake) — the characteristic action of Judah's rebellion; Jeremiah's most repeated accusation. Coupled with שׁוּב to form the book's diagnosis: they have forsaken God and will not return.
-- **Third key word (structural, not opening signal):** **שָׁמַע** (*shama* — hear/obey) — emerges as equally structural across the book. The phrase "you have neither listened nor lent your ears to hear" (*shama*) frames both Movements 2 and 3 (25:4; 34:14; 35:15; 44:5), making deafness to the word the defining verdict on the whole nation. The book's two interlocking arguments are: (1) the word is indestructible; (2) will anyone actually hear it?
-- **Contrast word:** **בָּנָה / נָטַע** (*build / plant*) — the two positive verbs of 1:10, set against four verbs of destruction. The contrast word functions by **anticipation**: announced in 1:10, enacted at 31:28, glimpsed at 52:31–34. The reader waits the whole book for the positive verbs to come into the foreground.
-- **Contrast word mode:** Anticipatory within the book — established at 1:10 as promised future, enacted at 31:28, glimpsed at 52:31–34.
-- **Intertextual echoes in ch. 1:**
-  - Jeremiah's call echoes Moses (Exod 4:10–12; Deut 18:18): "I do not know how to speak" / "I have put my words in your mouth" — Jeremiah is the prophet like Moses
-  - "Formed in the womb" (1:5) echoes Adam's formation in Genesis 2
-  - The almond branch vision (1:11–12) echoes Aaron's staff (Num 17:8–10): rebellion against God's word brings death
-  - The six verbs of 1:10 use Pentateuchal building/planting language (temple, garden, Exod 15 planting on holy mountain)
+Jeremiah both draws deeply on earlier Scripture and is quarried by later Scripture more than almost any prophet. Its own argument, however, is carried mainly by **internal repetition** — the six verbs, the "did not listen" formula, the bridegroom refrain — which means passage digs should lean heavily on **Move 4 (internal echo)** as well as Move 2. `[T]`
 
----
-
-## STRUCTURAL MARKERS
-
-- **Primary marker type:** "The word of the LORD that came to Jeremiah" formulae function as **Disjunctive Headings** — section breaks and movement signals. Word-frequency analysis (Shead) shows the theme is densest in chapter 1 (programmatic) and at key structural joints.
-- **Secondary marker:** Prose/poetry alternation, with large poetic sections marking the openings of major movements (chs. 2–6; 30–31; 50–51).
-- **Third marker:** The "shama" refrain — "you have neither listened nor lent your ears to hear" — frames Movements 2 and 3 (25:4/35:15 at the opening of each; 34:14/44:5 at the close of each). This creates a chiastic frame around the entire second half of the book.
-- **Colophon:** "Thus far are the words of Jeremiah" (51:64) marks the end of the prophetic material before the historical appendix (ch. 52).
-- **Sections created (Shead's four-movement narrative):**
-  1. **Movement 1 (Chs. 1–24):** The word of the LORD announces Judah's destruction and its speaker is crushed
-  2. **Movement 2 (Chs. 25–34):** The word of the LORD vindicates its speaker and offers true hope to deaf listeners
-  3. **Movement 3 (Chs. 35–44):** The word of the LORD destroys the nation it created and plants seeds of new life
-  4. **Movement 4 (Chs. 45–52):** The word of the LORD sends a tide of judgment across the earth and draws a new nation from the wreckage
-
----
-
-## STORYLINE DEVELOPMENT
-
-**Opening move:** Chapter 1 is not merely an introduction — it is the entire book in miniature. The double title (words of Jeremiah / word of the LORD) claims their identity. The call narrative makes Jeremiah the prophet like Moses. The six verbs (four destroy, two build/plant) set the programme for every chapter that follows. The almond vision guarantees God watches over his word to perform it. The boiling pot from the north announces what that word will do. And the promise that God will be with Jeremiah ("I am with you to deliver you," vv. 8, 19) establishes the paradox that runs through the whole book: the prophet will suffer everything, and God will be with him through it. The book also plants the specific promise of 1:17–19 — Jeremiah will be "a fortified city, an iron pillar, bronze walls" — which it then traces through 52 chapters, proving true in precisely the form that looked like defeat.
-
-**Section-by-section development:**
-
-| # | Section | Verses | What the author is doing | Connection to previous section |
+| Source / thread | Where in Jeremiah | What the use does | Live? | Confidence |
 |---|---|---|---|---|
-| 1 | **Call and commission** | 1:1–19 | Establishes Jeremiah as the prophet like Moses; gives the six verbs as the book's programme; the word will do history | Prelude to everything |
-| 2 | **Fruitless appeal to an adulterous wife** | 2:1–6:30 | God's anguish over broken covenant through the marriage metaphor. Chs. 2–4:4: the scorned husband's plea. Chs. 4:4–6:30: wrath building toward military judgment. The diagnostic image: fountain of living water vs. broken cisterns (2:13). | The word begins its destructive work (1:10) |
-| 3 | **Tragic corruption of the temple** | 7:1–10:25 | Temple sermon destroys false security (Shiloh precedent). Idolatry is at the heart. The pivot of Movement 1: 9:23–24 (the only boast that holds — knowing God who practises steadfast love, justice, righteousness). Idol polemic (ch. 10) as dark comedy. | Previous section announced invasion; this section exposes what provoked it and names the one trust that survives |
-| 4 | **Covenant-breaking and its cost** | 11:1–17:27 | The covenant is formally broken; the five major confessions begin; Jeremiah embodies the cost of rejected word in his own person. The heart diagnosis (17:9: deceitful above all things). The two ways (17:5–8 — Psalm 1 embedded in prophetic text). | Previous sections made the case; now the consequences land on Jeremiah himself |
-| 5 | **God's freedom to reject his elect; Jeremiah's agony** | 18:1–20:18 | The potter image: God is free to reshape or smash. The broken flask (19): some things can no longer be reshaped — only smashed. First mention of Babylon (20:4). The nadir confession (20:7–18): "fire shut up in my bones" — the word is more powerful than the prophet's despair. | The tension between divine freedom and prophetic suffering reaches its peak; no resolution follows |
-| 6 | **Failed leadership; the good figs** | 21:1–24:10 | Kings (21–22) and prophets (23) exhausted; every human alternative stripped. Then the pivot note: the Righteous Branch (23:5–6 — "The LORD our righteousness"). Two baskets of figs: the exiles in Babylon are the good figs with new covenant promise (24:7). | The section strips all human hope, then introduces — in the darkness — the unexpected location of the future |
-| 7 | **Hinge: the cup of wrath; 70 years** | 25:1–38 | Summary of 23 years of preaching. Nebuchadnezzar named. The cup of wrath goes to all nations in sequence. 70 years of exile declared. | End of Movement 1; the verdict delivered; everything that follows flows from this pivot |
-| 8 | **True prophecy tested; word to the exiles** | 26:1–29:32 | Jeremiah vindicated; Hananiah dies. The "shama" refrain opens the movement. Letter to exiles (ch. 29): settle in Babylon, seek its welfare, trust God's 70-year timeline — the future is with you, not with those in the land | God's word is not merely proclaimed; it is tested in public and proved |
-| 9 | **Book of Comfort: new covenant, righteous Branch** | 30:1–33:26 | The book's theological centre. All six verbs of 1:10 recur at 31:28. The only explicit "new covenant" in the OT (31:31–34). The Righteous Branch (23:5–6; 33:14–16). Jeremiah buys a field during the siege (32) as a sign act of trust. The "voice of bride and bridegroom" — silenced three times in judgment (7:34; 16:9; 25:10) — restored three times (33:11). | The destructive work is not the last word; building and planting are coming; the entire diagnosis of the first half (broken heart, broken covenant) finds its answer here |
-| 10 | **Two responses to God's word** | 34:1–36:32 | Zedekiah's broken covenant with slaves (34). Rechabites' faithful obedience (35) — in reverse chronological order before ch. 36 to prove obedience is possible, making disobedience inexcusable. Jehoiakim burns the scroll (36): a second scroll appears "with many similar words besides." The word cannot be burned. The "shama" refrain appears at 35:15. | Contrast: the word heard and obeyed (Rechabites) vs. the word heard and burned (Jehoiakim) |
-| 11 | **Jeremiah preserved; Jerusalem falls** | 37:1–39:18 | The "shama" verdict opens the section (37:2). Jerusalem under siege. Jeremiah in the cistern (38:6) — the word's "burial" parallel to the scroll burning; both produce a resurrection. Ebed-Melech rescues him; receives the 1:8/1:19 promise ("I am with you"). Jerusalem falls. Jeremiah freed. | The word performed exactly what it said; 1:17–19 proved true |
-| 12 | **The word is silent; the remnant self-destructs** | 40:1–43:13 | Jeremiah entirely absent from 40:7–41:18 — the silence is the message: when the word is rejected, chaos fills the vacuum. The remnant asks Jeremiah for the word, promises to obey, then immediately refuses and goes to Egypt. The "shama" refrain appears at 44:5 closing the movement. | The Egypt irony: the anti-exodus; returning to the house of slavery |
-| 13 | **No escape from the word in Egypt** | 44:1–30 | In Egypt the remnant continues their idolatry. God's final verdict: "Whose word shall stand: mine or theirs?" (44:28) — the book's explicit self-declaration of what is at stake. The same sin as ch. 7 (queen of heaven) in the same Egypt the book condemned from the start. | The circle is complete; the "shama" verdict is final; the Egypt irony is confirmed |
-| 14 | **Baruch's hope** | 45:1–5 | Baruch, who preserved the word in writing (ch. 36), will himself be preserved as a "prize of war." The scroll-keeper and the word share the same preservation logic. | Short pivot before the universal panorama |
-| 15 | **The word tears down the nations** | 46:1–51:64 | Oracles against Egypt, Philistia, Moab, Ammon, Edom, Damascus, Kedar, Elam, Babylon. Chs. 50–51 as the climax: the universal version of chs. 30–31 — the same story told at cosmic scope; Israel's new covenant life emerges within Babylon's fall (50:4–20 echoes 31:9, 31:34). Seraiah sinks the scroll in the Euphrates (51:59–64): the word pronounces Babylon's doom before Babylon falls. | The scope of 1:10 ("over nations and kingdoms") is fully enacted; Babylon's fall is the nations' chapter of the new covenant story |
-| 16 | **Vindication and the seed of hope** | 52:1–34 | Historical appendix (= 2 Kgs 24:18–25:30). The word proved true: Jerusalem fell exactly as declared — Jeremiah is a true prophet (Deut 18:21–22). Jehoiachin's release (52:31–34): the Davidic heir is alive, eating at the king's table, provisioned daily until the day of his death. Not restoration — but life. Not the tree — but the seed. | The book ends in theological realism: demolition fulfilled, life sustained, the future entirely in God's hands |
+| **Deuteronomy 18:18 (a prophet like Moses) / Exod 4:10–12** | 1:6–9 — "I do not know how to speak, for I am only a youth"; "I have put my words in your mouth" | Casts Jeremiah as the prophet like Moses; the objection and the answer both echo the call of Moses | **live** | high |
+| **Deuteronomy 18:21–22 (the verification test)** | 28:9, 16–17; 44:28–29; and ch. 52 as the answer | The book runs the Deuteronomic test in public — twice on Hananiah, once as a wager, once as documentary record | **live** | high |
+| **Deuteronomy 28 / the covenant curses** | The sword–famine–pestilence triad (25 occurrences, clustering 14, 21, 27, 29, 32, 42, 44) | The judgement is not improvised; it is the covenant's own stated sanction being executed | **live** | high |
+| **Hosea (the marriage metaphor)** | 2:1–3:25 — the bride in the wilderness, the adulterous wife, the divorce certificate (3:8) | The prophetic tradition's marriage lawsuit taken up and pressed further | live | moderate–high |
+| **Genesis 1–2 (creation)** | 4:23–26 — "I looked on the earth, and behold, **tōhû wābōhû**" | Judgement described as creation *undone*, using Genesis 1:2's exact pair | live | high |
+| **The Shiloh precedent (Josh 18:1; 1 Sam 4)** | 7:12–14; 26:6, 9 | The temple sermon's whole argument: God has abandoned a sanctuary before and will do it again | **live** (7 and 26) | high |
+| **The exodus** | 2:6; 7:22–25; 11:4–7; 16:14–15; 23:7–8; 31:32; and the flight to Egypt in 42–44 | Grounds the indictment — and is then **reversed**: 16:14–15 and 23:7–8 promise a new exodus that will eclipse the first, while 42–44 shows the remnant walking the exodus backwards | **live** | high |
+| **The Davidic covenant (2 Sam 7)** | 23:5–6; 33:15–26; and the tension with 22:30 | The Branch promise, and the hardest problem the book sets itself (below) | **live** | high |
+| **Psalm 1** | 17:5–8 — the two ways, tree by water against shrub in the desert | Wisdom's two-ways form embedded whole inside a prophetic oracle | — | moderate–high |
+| **Micah 3:12** | **26:18 — quoted explicitly, with attribution**, to defend Jeremiah at his trial | The book's one formal citation of another prophet, and it is used as legal precedent — the only OT instance of a prophet being quoted by name in court | — | high |
+| **Forward: Daniel 9:2** | 25:11–12; 29:10 — the seventy years | Daniel is recorded **reading Jeremiah** and reckoning from it — the OT's clearest picture of a prophetic book being received as Scripture | — | high |
+| **Forward: 2 Chronicles 36:21–22; Ezra 1:1** | The seventy years again | The Chronicler closes the OT narrative by citing Jeremiah's word as fulfilled | — | high |
+| **Forward: the New Testament** | 7:11 → Matt 21:13 par. (a den of robbers); 31:15 → Matt 2:18 (Rachel weeping); 31:31–34 → Luke 22:20; 1 Cor 11:25; **Heb 8:8–12** (the longest OT citation in the NT) and Heb 10:16–17; 9:23–24 → 1 Cor 1:31; 2 Cor 10:17 (let him who boasts boast in the LORD); 23:1–4 → John 10; 25:10 → Rev 18:22–23; 18–19 + 32 → Matt 27:9–10 | Jeremiah supplies the New Testament's covenant vocabulary and several of its sharpest images | — | high |
 
-**Key structural echoes (early ↔ late):**
+**On Matthew 27:9–10.** Matthew attributes to "Jeremiah the prophet" a potter's-field-for-thirty-pieces-of-silver quotation whose wording is largely **Zechariah 11:12–13**. Jeremiah does supply the potter (18–19) and the purchased field (32), and 19:1–13 sets a potter's flask, the Valley of Hinnom, and innocent blood together. Options exist and none is certain: a composite citation filed under the major prophet, a deliberate fusion of the two potter passages, or a reference to Jeremiah as the head of a prophetic collection. Present it as an open question rather than a solved one. `[I]` *(confidence: uncertain)*
 
-| Early passage | Late passage | Connection type | Significance |
+---
+
+## Christological Trajectory
+
+- **Direct promise — the righteous Branch.** "I will raise up for David a righteous Branch, and he shall reign as king… and this is the name by which he will be called: **The LORD is our righteousness**" (23:5–6), with the second statement at 33:15–16 transferring the name to *Jerusalem*. A king who is Davidic, righteous, and named with the divine name — a promise Jeremiah makes precisely when the actual Davidic kings have been shown to be exhausted (21–22). *Confidence: high.* `[T]`
+- **The new covenant.** The one occurrence of the phrase in the Hebrew Bible (31:31), promising torah written on hearts, universal knowledge of God, and sins remembered no more — taken up by Jesus over the cup (Luke 22:20) and expounded at length in Hebrews 8 and 10. This is the clearest single line from Jeremiah to the cross, and it runs through the LXX wording. *Confidence: high.* `[T]` (the text) / `[S]` (the NT usage)
+- **Typology — the rejected prophet who bears the word's cost.** The confessions put the word's rejection into the prophet's own body: plotted against at Anathoth (11:18–23), called "a lamb led to the slaughter" (11:19), beaten and stocked (20:2), thrown into a cistern to sink in mud (38:6), and finally carried off to Egypt against his will. The pattern runs through an established category (the persecuted prophet, Matt 23:29–37) and escalates properly. *Confidence: high (pattern); moderate on any single detail.* `[I]`
+- **Contrast — the shepherds who scatter.** "Woe to the shepherds who destroy and scatter the sheep of my pasture… I will set shepherds over them who will care for them" (23:1–4) — a failure John 10 answers directly. *Confidence: high.*
+- **Trajectory — a word that outlives every attempt to destroy it.** Burned (36:23) and rewritten with more besides (36:32); its carrier sunk in a cistern (38:6) and drawn out (38:13); the nation that heard it destroyed, and the word still standing (44:28). The book's own logic is that this word cannot be killed — which is the shape the Gospels give to the Word himself. *Confidence: moderate–high (thematic).* `[I]`
+- **The hard case — 22:30 against 52:31–34 and Matthew 1:11–12.** Of Coniah/Jehoiachin: "Write this man down as **childless**… for none of his offspring shall succeed in sitting on the throne of David" (22:30). The book's last four verses then take that same man out of prison and seat him at a king's table (52:31–34), and Matthew runs the Messiah's genealogy straight through Jeconiah (Matt 1:11–12). The book sets its own bookends in tension and does not resolve them; the resolution the New Testament offers is a king in that line whose right to the throne does not come by succession from it. Preach the tension — it is the book's, not an accident. *Confidence: the tension is `[T]`; the resolution `[I]`.*
+
+**Moralism check.** Two traps pull in opposite directions. The first is preaching **Jeremiah as the hero** — "be faithful under pressure like the weeping prophet" — which the book resists by making him complain bitterly, curse the day of his birth (20:14–18), and accuse God of deceiving him (20:7), with no resolution offered. The confessions are not a model of coping; they are the cost of the word displayed. The second is preaching the **new covenant as reward** for a remnant who tried harder: the whole point of 31:33 is that the law goes *inside*, because 17:9 has already ruled out the alternative. The actor throughout is the word and the God who watches over it (1:12); the human figures who come off best — Baruch, Ebed-Melech, the Rechabites, the good figs — are commended precisely for *submitting* to a word of judgement, not for achieving obedience. `[T]` / `[I]`
+
+---
+
+## Preaching Traps
+
+1. **Naming Babylon too early.** *Sounds like:* "Jeremiah warned that Babylon would destroy Jerusalem" — said in the first sermon of the series. *Why wrong:* the book withholds the name for nineteen chapters, and the anonymity is doing work: the first hearers faced an unnamed dread, and the text makes the reader share it. *Bites at:* 1–19, especially 1:13–15, 4:5–31 and 6:1–8. *Corrective:* preach "the foe from the north" as the text gives it, and let 20:4 land.
+
+2. **Preaching the confessions as devotional models.** *Sounds like:* "Jeremiah shows us how to bring our pain to God." *Why wrong:* 20:7 accuses God of deception and 20:14–18 curses the day of his birth, and the book offers no resolution, no restoration psalm, no "but I will trust." *Bites at:* 11:18–23; 12:1–6; 15:10–21; 17:14–18; 18:18–23; 20:7–18. *Corrective:* let them stand unresolved; they are the word's cost made visible, and the pastoral comfort is that Scripture contains them at all.
+
+3. **Preaching 29:11 off its lead.** *Sounds like:* "plans to prosper you" on a graduation card. *Why wrong:* the verse is addressed to people told to build houses in Babylon and wait **seventy years** (29:5–10) — most of the original hearers would die there. The promise is corporate, and its timescale is a lifetime. *Bites at:* 29:1–14. *Corrective:* preach it with 29:10 attached, and it becomes a far better promise than the card version.
+
+4. **Reading the arrangement as chronology.** *Sounds like:* a series that treats the book as a diary. *Why wrong:* the datings lurch backwards twice, and both times deliberately (35–36 and 45–46 return to Jehoiakim's reign). *Bites at:* any series introduction, and especially chapters 35–36 and 45. *Corrective:* preach the arrangement as the argument — the scroll material is placed where it comments, not where it happened.
+
+5. **Treating chapter 52 as an appendix that can be skipped.** *Why wrong:* the book itself marks it as following the prophetic material (51:64), and then uses it as **evidence**: the Deuteronomy 18:21–22 test, applied to forty years of preaching, and answered. The last four verses are the only sign of life in the wreckage. *Bites at:* the final sermon. *Corrective:* preach 52 as the verdict entered in the record, and 52:31–34 as a seed, not a restoration.
+
+6. **Over-claiming the two Branch texts without the textual footing.** *Why wrong:* 33:14–26 is entirely absent from the LXX, which is worth knowing before building a load-bearing argument on it in a setting where someone will check. *Bites at:* 33:14–26. *Corrective:* preach it from the Hebrew with confidence and name the textual situation if asked; the Branch promise stands independently at 23:5–6.
+
+7. **Letting Hebrews 8 and Jeremiah 31 collide unannounced.** *Bites at:* 31:31–34. *Corrective:* see the table above — Hebrews cites the Greek, and the two differ at "I was their husband" / "I disregarded them". Explain it in one sentence and move on; discovering it mid-sermon is worse.
+
+8. **Preaching the Book of Comfort without 45:4.** *Why wrong:* the six-verb thread reaches its high point at 31:28 and its hardest word at 45:4, where God says he is tearing down what he built. *Bites at:* 30–33. *Corrective:* let the comfort be the comfort of a God who has genuinely demolished, not of one who never meant it.
+
+---
+
+## Early↔Late Echo Table
+
+The unadvertised echoes first. Direct fuel for dig-deeper's Move 4.
+
+| Early | Later | Relationship | Confidence |
 |---|---|---|---|
-| Six verbs: pluck up, break down, destroy, overthrow, build, plant (1:10) | All six verbs together (31:28) | Direct quotation / narrative fulfilment | The whole book is the unfolding of 1:10; their recurrence at the pivot of hope signals God is doing what he always said |
-| "I am watching over my word to perform it" (1:11–12) | The word outlasts the scroll-burning (36:32), the cistern (38:13), the exile, the nation, and arrives in Egypt (44:28–29) | Thematic / narrative fulfilment | God's guarantee in the call is kept through every setback |
-| Temple sermon (7): what God did to Shiloh, he will do here | Temple falls (39; 52) | Prophecy–fulfilment | The word proved true |
-| Two baskets of figs: exiles are good figs, land-dwellers bad (24) | Gedaliah/Egypt remnant self-destructs; exiles in Babylon are the hope (29; 52:31–34) | Thematic / narrative fulfilment | Counterintuitive but consistent: the future is with those who submitted to God's declared judgment |
-| Scroll burned (36:23) — the word "killed" | Jeremiah thrown in the cistern (38:6) — the word-carrier "killed" | Parallel death-and-resurrection pattern | Both "destroy" the word and its carrier; both produce a resurrection (second scroll 36:32; Jeremiah rescued 38:13); the word has its own resurrection logic |
-| "Houses and fields and vineyards shall again be bought in this land" (32:15) | Rechabites renounce "houses, fields, and vineyards" (35:9) | Echo / commentary | Ch. 35 is a typological commentary on ch. 32: the Rechabites model the waiting posture the field-purchase embodies |
-| Jeremiah imprisoned, iron pillar promise (1:17–19) | Jeremiah freed; Ebed-Melech preserved; both receive "I am with you to deliver you" (39:17–18) | Promise–fulfilment | 1:17–19 proved true in exactly the form that looked like defeat — the word-carrier was vindicated through apparent weakness |
-| Book of Comfort (30–31): restoration of Israel in new covenant language | Oracles against Babylon (50–51): Babylon falls and Israel lives | Theological parallel (Shead) | The same story told twice — once from Israel's perspective, once at cosmic scale; chs. 50–51 are chs. 30–31 for the nations |
-| "Voice of bride and bridegroom" silenced (7:34; 16:9; 25:10) | "Voice of bride and bridegroom" restored (33:11) — three times in each direction | Structural echo | The triple silencing of joy marks the demolition; the triple restoration in 33 marks the building; both sets of three are deliberate |
-| "Whose word shall stand: mine or theirs?" (44:28) | Ch. 52: Jerusalem fell exactly as declared — God's word stood | Explicit question / narrative answer | The book's own statement of its central contest is answered by the historical appendix |
-
-**Key structural echoes — the "remnant of hearers" thread:**
-A second narrative runs through the book in positive: a small cluster of individuals who actually hear and obey. They are not random:
-
-| Figure | Where | What they do | What they receive |
-|---|---|---|---|
-| Baruch | Chs. 36; 45 | Preserves the word in writing; copies the scroll | His life as a "prize of war" (45:5) |
-| Ebed-Melech | Chs. 38–39 | Rescues Jeremiah from the cistern; trusts God | "I will save you… because you have trusted in me" (39:18) |
-| The Rechabites | Ch. 35 | Obey their father's command for generations | A perpetual line before God (35:19) |
-| The good figs | Ch. 24 | The exiles who submitted to Babylon | "I will give them a heart to know me" (24:7) — the first new covenant promise in the book |
-| Seraiah | 51:59–64 | Takes the scroll to Babylon and sinks it | He completes the word's pronouncement against Babylon |
-
-This thread is the ecclesiological argument in negative space: these individuals show what the new covenant community will look like — not people who achieve obedience by willpower, but people who hear the word and align with it. Their preservation is not incidental; it is the word's building work beginning within the demolition.
-
-**Movement type:** **Accumulation with suspension** — four destruction-verbs accumulate through Movements 1–3 (building tension through the first two-thirds of the book), suspended at the Book of Comfort (30–34), the demolition completed (35–44), then the universal scope revealed and the seed of hope preserved (45–52).
-
-**Summary of the book's two interlocking arguments:**
-*Argument 1:* The word of the LORD is indestructible — it tears down and builds; it is watched over by God who guarantees its performance; it cannot be burned, drowned, or silenced; it will stand when every rival word has perished. *Argument 2:* Will anyone actually hear it? The whole book is structured around this question. The national answer is consistently no. But a small remnant — Baruch, Ebed-Melech, the Rechabites, the good figs — models the answer yes. These individuals are the seed of the new covenant community. Together these two arguments produce the book's answer to its own deepest question: yes, there is a word worth holding on to — and there will be a people who hold it.
+| 1:10 — the six commissioning verbs | **31:28 — all six again**, weighted to build and plant | Resolves — the only two verses in the book with all six; the second reverses the first's balance | high |
+| 1:10 — build and plant promised | 42:10 — build and plant **offered conditionally** to the remnant, and refused; 45:4 — God tears down what he built | Qualifies — the constructive verbs are never spoken over the people in the land | high |
+| 1:8, 1:19 — "I am with you to deliver you", to the prophet | 15:20 — repeated to him at his lowest; **30:11 and 46:28 — spoken to the people** | Extends — a promise made to one man is transferred to a nation | high |
+| 1:14; 4:6; 6:1 — the destroyer "from the north" | **50:3, 41; 51:48 — a destroyer "from the north" comes for Babylon** | Reverses — the instrument becomes the target, in the same words | high |
+| 2:13 — they have forsaken the fountain of living water for broken cisterns (*bōʾrôt*) | 38:6 — the prophet sunk in an actual cistern (*bôr*) with no water, only mud | Enacts — thematic, **not verbal**: the two words differ (see the correction below) | moderate |
+| 7:34; 16:9; 25:10 — "the voice of the bridegroom and the voice of the bride" silenced, three times | **33:11 — the identical clause, restored, once** | Reverses — one verbatim restoration answering three silencings; 25:10 escalates by adding millstones and lamp, which Rev 18:22–23 then takes for Babylon | high |
+| 7:12–14 — what God did to Shiloh he will do to this house | 26:6, 9 — the same sermon put on trial; 39; 52 — the house destroyed | Fulfils — the book's own prophecy-and-verification circuit | high |
+| 17:1 — the sin of Judah engraved with an iron pen **on the tablet of their heart** | 31:33 — torah written **on their hearts** by God | Answers — the same surface, two engravers. *Both* verses are Hebrew-only or Greek-divergent, so the pair is invisible in LXX | high |
+| 17:9 — the heart is deceitful above all things; who can understand it? | 31:33; 24:7; 32:39 — a heart given, a law written inside | Answers — the diagnosis of ch. 17 is precisely what the new covenant addresses | high |
+| 22:30 — Coniah written down "childless"; no offspring on David's throne | **52:31–34 — that same man lifted from prison and seated at a table** | Suspends — the book ends holding its own hardest tension open | high |
+| 24:6–7 — the good figs: build and plant, "a heart to know me" | 29:5–14 — the letter telling those same exiles to settle and wait seventy years | Develops — the location of the future is stated, then given a timetable | high |
+| 25:11–12; 29:10 — seventy years | 2 Chr 36:21; Dan 9:2 — a later generation **reading Jeremiah** | Receives — the book records its own future as Scripture | high |
+| 26:18 — Micah 3:12 quoted in court to save Jeremiah's life | 36:23 — Jehoiakim burns the scroll of Jeremiah's words | Contrasts — one generation's king repented at a prophet's word; this one incinerates it | high |
+| 28:9 — the Deuteronomic test named by Jeremiah; 28:17 — Hananiah dies | 44:28 — "whose word will stand, mine or theirs?"; **ch. 52 — the answer entered as record** | Resolves — the book sets a test, states the wager, and files the verdict | high |
+| 34:8–11 — Zedekiah frees the slaves, then takes them back | 35:1–19 — the Rechabites keep a merely human command for generations | Contrasts — placed side by side, out of chronological order, to make the point | high |
+| 36:23 — the scroll cut up and burned | 36:32 — a second scroll, "and many similar words were added" | Reverses — the attempt to destroy the word enlarges it | high |
+| 36:4, 32 — Baruch writes the scroll | **45:1–5 — Baruch's own oracle, dated to the same year**, placed in MT at the hinge before the nations | Answers — the man who preserved the word is himself preserved, and MT gives him the structural position to say so | high |
+| 32:6–15 — a field bought during the siege as a sign that houses and fields will be bought again | 35:9 — the Rechabites who own no houses, fields, or vineyards | Comments — the two postures of waiting, set beside each other | moderate–high |
+| 51:59–64 — the scroll weighted and sunk in the Euphrates: "thus shall Babylon sink" | 51:64b — "Thus far are the words of Jeremiah" | Closes — the prophetic material ends with a scroll going under the water, and a colophon | high |
 
 ---
 
-## INTERTEXTUAL MAP
+## Preaching Units
 
-| Passage | Text(s) in Play | Type | What It Adds |
-|---|---|---|---|
-| 1:6–9 | Exod 4:10–12 + Deut 18:18 | Verbal allusion (probable) | Jeremiah is explicitly the *prophet like Moses* — his authority is Mosaic; failure to hear him is failure to hear God (Deut 18:19) |
-| 1:5 | Gen 2 ("formed/shaped" — Adam's creation word) | Verbal allusion (probable) | Jeremiah's identity is as deeply grounded as Adam's; this is a new creation beginning |
-| 1:10 | Gen 2 ("plant" / Eden); Exod 15:17 ("plant on holy mountain"); Pentateuchal exile vocabulary (destruction verbs) | Conceptual/thematic | The six verbs are not political metaphors — they are eschatological categories drawn from creation, exodus, and covenant |
-| 1:11–12 | Num 17:8–10 (Aaron's almond staff — rebellion against God's word brings death) | Probable allusion | The almond sign guarantees not just that God watches, but that rebellion against the word brings death — the same logic as Aaron's staff at Korah's rebellion |
-| 2:2 | Hos 2:14–15 (Israel as youthful bride in the wilderness) | Verbal allusion (probable) | The marriage metaphor carries Hosea's full emotional weight; Jeremiah is reading and expanding Hosea |
-| 2:5 | Deut 32:4 (Song of Moses: God is faithful; the nation is not) | Possible allusion | The Song of Moses haunts chs. 2–10 as the fulfilment of what Moses warned |
-| 2:13 | The living water of Eden and Exodus | Thematic | The fountain of living water is both the generosity of God and the insanity of idolatry captured in one image; fulfilled in John 7:37–38 (Jesus as the fountain) |
-| 3:1 | Deut 24:1–4 (divorce and remarriage eliminate reconciliation) | Verbal allusion (probable) | God's own Torah appears to forbid him from taking Israel back — making the new covenant's grace even more astonishing; the law that God himself must "break" to reclaim his people points to the cross |
-| 4:4 | Deut 10:16; 30:6 (circumcise your hearts) | Verbal allusion (certain) | The call Israel cannot answer for themselves — pointing to what only God will do in the new covenant (31:33; 2 Cor 3:3) |
-| 4:23–28 | Gen 1:3–25 (days of creation — reversed) | Verbal allusion (probable) | *Anti-creation* — covenant-breaking is uncreation; the cosmos reverts to formless chaos; the stakes could not be higher |
-| 7:1–15 | 1 Sam 4 (ark captured; Shiloh destroyed); Ps 78:60 (God forsook Shiloh) | Thematic/structural echo | God has vacated his visible dwelling before when it became an idol; the temple is not guaranteed by architecture — only by faithfulness |
-| 7:11 | Matt 21:13; Mark 11:17 — Jesus uses this exact phrase | NT fulfilment | The pattern repeats: Jesus does in the NT temple what Jeremiah threatened in the OT temple |
-| 9:23–24 | 1 Cor 1:26–31 (Paul uses this logic directly) | Conceptual echo + NT fulfilment | The only positive trust that survives after every other is stripped; Paul reads this as pointing to Christ as the wisdom and righteousness of God (1 Cor 1:30) |
-| **Sustained Mosaic parallel** | Exod/Num/Deut (multiple) | Structural typology | Jeremiah is the prophet like Moses not merely at his call but throughout the book. Parallels (following Shead/Seitz): two generations (Moses' 40 years / Jeremiah's 70); prohibition on intercession (Moses at Meribah / Jeremiah in chs. 11, 15); destruction and rewriting of divine words (the tablets / the scrolls); the election of Caleb and Joshua equivalents (Ebed-Melech and Baruch as those who survive for faithfulness); dying outside the land. This is not a set of individual allusions but a sustained typological parallel the preacher should track. |
-| 11:19 | Isa 53:7–8 ("like a lamb led to slaughter… cut off from the land of the living") | Possible allusion | The verbal overlap between Jeremiah's first confession and the fourth Servant Song is profound: Jeremiah is the suffering word-bearer who points toward the Servant who suffers for the people |
-| 13:11 | Deut 26:19 (Israel as God's "renown, praise, and honor") | Verbal allusion (probable) | The loincloth sign inverts the Deuteronomic promise; irony: the people designed to embody God's glory have become worthless through idolatry |
-| 15:1 | Exod 32:11–14 (Moses as intercessor); 1 Sam 7:8–9 (Samuel as intercessor) | Conceptual echo | Even the greatest intercessors could not turn this tide — the problem is too deep for intercession to fix; pointing forward to the intercession that does work (Heb 7:25) |
-| 17:5–8 | Ps 1 (tree by water vs. chaff; the two ways) | Structural parallel | A Psalm-1 wisdom poem embedded in a prophetic book — remarkable; the two ways of Ps 1 are the two ways of the whole book: hear God's word and live, or refuse it and perish |
-| 17:9 | Gen 6:5 ("every intention of the thoughts of his heart only evil"); Jer 4:4 (circumcise your hearts) | Conceptual echo | The deepest diagnosis of the whole book; the problem that only 31:33 answers |
-| **Psalms of Lament in the confessions** | Ps 22; Ps 31; Ps 69 | Thematic parallel | The confessions (chs. 11–20) draw on and expand the lament psalm tradition. Ps 31 is especially significant: "Into your hands I commit my spirit" (31:5) runs beneath Jeremiah's darkest moments — and Jesus quotes this from the cross (Luke 23:46). The chain is: David's lament → Jeremiah's lament → Jesus' lament. The confessions are not private; they are the canonical language of the righteous sufferer. |
-| 23:5–6; 33:14–16 | 2 Sam 7:16 (Davidic covenant); 2 Sam 23:5 (David's last words: *tsemach* / "make it grow") | Verbal allusion (probable) | "Righteous Branch" (*tsemach*) picks up David's last words directly; the Branch is not a reformed version of the current kings but the one David knew God would ultimately produce |
-| 31:9 | Exod 4:22 ("Israel is my firstborn son") | Verbal allusion (probable) | The return from exile is a new exodus, restoring the father-son relationship that Egypt first established |
-| 31:31–34 | Deut 29:1–4 + Deut 6:6–7 + 30:6 (circumcision of heart) | Verbal allusion (probable-certain) | The new covenant answers exactly what Deuteronomy identified as the problem: God couldn't give them a heart to understand (Deut 29:4); now he will write the law on the heart (31:33) and circumcise it (30:6) |
-| 31:28 | Jer 1:10 (six verbs) | Direct quotation (certain) | All six verbs of the commission recur here in positive register: the demolition has happened; watching over to build and plant is now the agenda |
-| 31:33 | 17:1 (sin engraved on the heart) | Deliberate contrast | The new covenant is the direct answer to the diagnosis of 17:1: what was engraved from outside (sin) is now replaced by inscription from inside (law). The same stone, the same engraving — but now God's |
-| 35:9 | 32:15 ("houses and fields and vineyards shall again be bought") | Echo / commentary | The Rechabites renounce exactly the three categories the field purchase promises will return; their waiting dispossessed models the new covenant community that trusts the restoration word before possessing it |
-| **Scroll burned → cistern scene** | 36:23 (word burned); 38:6 (prophet in cistern) | Structural parallel | Both are "death and resurrection" patterns: the word is "killed" (burning the scroll; drowning the prophet), both produce a resurrection (new scroll 36:32; Jeremiah rescued 38:13). The pattern is Christological: the word cannot be destroyed by killing its carrier. |
-| 36:3 | Exod 34:9 + Jer 31:34 (the only three uses of "forgive iniquity and sin" outside each other) | Verbal allusion (certain) | The possibility of forgiveness is kept alive even in the judgment oracle; the same language grounds the new covenant's definitive forgiveness |
-| 36:24 | 2 Kgs 22:11 (Josiah *did* tear his clothes when the covenant book was read) | Deliberate contrast | Jehoiakim does NOT tear his clothes — the anti-Josiah; the same scroll, two kings, opposite responses; the text marks the contrast explicitly |
-| 44:28 | Deut 18:21–22 (how to know a true prophet: does it come true?) | Conceptual echo | The book's own statement of its central contest — whose word shall stand — is answered by ch. 52; Jeremiah is vindicated as a true prophet by the historical appendix |
-| 48:45; 51:20–23 | Num 24:17 (Balaam's oracle: the star that crushes Moab); Gen 3:15 (skull-crushing seed) | Verbal allusion (probable) | Balaam's ancient blessing is being enacted through Babylon; and Babylon is the latest instantiation of the serpent that must be crushed; the skull-crushing language of Gen 3:15 runs through the oracle-against-nations section |
-| 50–51 | Chs. 30–31 (structurally parallel) | Thematic/structural | Chs. 50–51 retell the same story as 30–31 at universal scope: Babylon's fall = Israel's new covenant life emerging (50:4–20 echoes 31:9, 31:34) |
-| 52:31–34 | Gen 41 (Joseph elevated at Pharaoh's court — the exiled heir elevated in the empire, who becomes the vehicle of God's next move); 2 Sam 9:7 (Mephibosheth eating at David's table — covenant meal) | Typological echo | Jehoiachin's elevation follows the Joseph pattern (exiled heir → elevated in empire → seed of salvation); his eating at the king's table echoes Mephibosheth's covenant meal, anticipating the Lord's Supper — the exiled covenant community sustained by the great king's provision |
-| 52:1–34 | 2 Kgs 24:18–25:30 | Synoptic parallel | Near-verbatim repetition; functions as vindication: Jeremiah was a true prophet (Deut 18:21–22) |
+Fourteen units, following the text-marked seams. ⭐ HIGH = run a full solo `/dig-deeper` before the pulpit.
 
-**Key methodological notes:**
-- The "sword, famine, pestilence" triad (e.g., 14:12; 21:9; 24:10; 27:8; 29:17–18; 32:36; 34:17; 38:2; 44:13) is a structural marker across the book — the Leviticus 26:25–26 / Deuteronomy 28 covenant-curse formula formally activated. When it appears, Moses' warning is arriving.
-- Jeremiah is among the most intertextually dense books in the OT. The prose sections are saturated with Deuteronomic idiom — "following the stubborn inclinations of the evil heart" (Deut 29:19, quoted 8 times), the retribution formula of the second commandment (Exod 20:5–6), the covenant formula. The preacher who knows Deuteronomy will read Jeremiah with double sight.
-- The Egypt motif deserves particular attention as a theological (not merely geographical) direction. Egypt = the anti-exodus = returning to the house of slavery = choosing a human alternative to God's word. Every flight to Egypt in the book is a regression in redemptive history.
-
----
-
-## CHRISTOLOGICAL TRAJECTORY (OT BOOK)
-
-**Redemptive-Historical Position:**
-- **Covenants in play:** Abrahamic (nations blessed through seed, 4:2); Mosaic/Sinai (broken, curses active, 2–25); Davidic (apparently shattered by exile, but promised a righteous Branch, 23:5; 33:14–16); **New Covenant** (explicitly promised for the first time anywhere in the OT, 31:31–34)
-- **What has failed and needs fixing:** Human heart-obedience (17:9); human kingship (21–22); human prophecy (23); the entire Levitical sacrificial system (corrupted by idolatry); the land (defiled); the covenant (broken beyond the capacity of the old arrangement to repair, 3:1)
-- **Categories this book establishes:** Prophet (and false prophet), King (and failed king), New Covenant, Exile-and-Return, Remnant, the Righteous Branch, the Hearing Community
-
-**How This Book Points to Christ:**
-
-| Connection Type | How This Book Shows It |
-|---|---|
-| Reveals sin for which Christ died | The comprehensive indictment of 2–20 — idolatry, injustice, hard-heartedness, repeated rejection of God's word — is the deepest diagnosis of the human heart in the OT (17:9: "deceitful above all things"). This is the diagnosis that makes the cross necessary. |
-| Demands righteousness only Christ fulfilled | "Circumcise your hearts" (4:4) — Israel cannot. The new covenant's requirement (31:31–34) is beyond human capacity. Only Christ by his Spirit produces the circumcised heart (Rom 2:29; Col 2:11–12; 2 Cor 3:3). |
-| Shows God's character fully revealed in Christ | The scorned husband (2–3), the grieving father (3:19), the God who watches over his word through every setback (1:12), the God who rejoices with all his heart and soul to do his people good (32:41) — all fully revealed in the cross, where God bears in his Son what his people deserved. |
-| Anticipates what Christ accomplished | The new covenant of 31:31–34, quoted as the longest OT citation in the NT (Heb 8:8–12), is announced at the Last Supper as accomplished in Christ's blood (Luke 22:20; 1 Cor 11:25). The four-stage shape of fulfilment: (a) promised in Jer 31; (b) enacted in Christ's blood (Luke 22:20); (c) partially fulfilled in the Spirit's indwelling (already: Ezek 36:26–27, Acts 2); (d) awaiting full consummation in the new Jerusalem (not yet: Rev 21–22, which explicitly echoes Jer 31:38–40). |
-| Demonstrates human failure showing need for better [role] | Every king, prophet, and priest has failed comprehensively. The Davidic dynasty is dynastically ended with Jehoiachin (22:30). The prophets speak from their own deceitful hearts (23:26). The priests handle the law without knowing God (2:8). This comprehensive failure creates the space the Righteous Branch fills. |
-| Provides categories for understanding Christ | **Prophet:** Jeremiah as embodied word — people's response to him is their response to God's word. Jesus is the Word made flesh — the ultimate embodiment of what Jeremiah only typified. **King:** The Righteous Branch (23:5; 33:15) is the governing category for royal Christology. **Covenant mediator:** The new covenant requires a mediator who achieves what Sinai could not — definitive forgiveness and law on the heart (Heb 9:15). **King-priest combined:** 30:21 and 33:17–18 together describe a figure who combines the Davidic and Levitical offices — fulfilled in Christ as the royal Melchizedekian priest (Ps 110; Heb 6:20–7:28). |
-
-**Jeremiah as Type of Christ:**
-This is the book's most powerful Christological signal — and the most mispreached. Jeremiah is not primarily a *model* of courageous faithfulness; he is the *embodied word*, whose experience typifies the cost of the word being rejected.
-
-Key typological connections:
-- Rejected by his own hometown (11:21; cf. Luke 4:28–30)
-- Condemned for speaking against the temple (7:11; 26:11; cf. Matt 21:13; John 2:19)
-- "Like a lamb led to slaughter… cut off from the land of the living" (11:19 ~ Isa 53:7–8)
-- The confessions draw on the lament psalms (Ps 31; Ps 22; Ps 69) that Jesus himself quotes from the cross — the chain is deliberate: David → Jeremiah → Jesus
-- The cistern scene (38:6 → 38:13): the word-carrier "buried" and "resurrected" — typifying the Word who goes into death and comes out
-- "Fire shut up in my bones" (20:9): the word more powerful than the prophet's despair, pointing to the Word who cannot be silenced by crucifixion
-- The promise proved true through apparent defeat: 1:17–19 ("fortified city, iron pillar, bronze walls") fulfilled by Jeremiah's survival through every form of opposition — the word-carrier vindicated through weakness, not despite it
-
-**Mosaic Typology as a Sustained Parallel:**
-The Jeremiah-as-Moses parallel is not limited to the call narrative but is structural throughout the book (Shead/Seitz):
-
-| Mosaic element | Where in Jeremiah |
-|---|---|
-| Call with speech objection | 1:6–9 |
-| Prophet to two generations: one under judgment, one in hope | Moses' 40 years / Jeremiah's 70 years |
-| Intercessor forbidden to intercede | Moses at Meribah (Num 20) / Jeremiah in chs. 11, 15 |
-| Destruction and rewriting of divine words | Moses' tablets (Exod 32–34) / Jeremiah's scrolls (ch. 36) |
-| Election of Caleb-and-Joshua equivalents | Ebed-Melech and Baruch (faithful alongside the word-carrier) |
-| Dies outside the land | Jeremiah dies in Egypt; Moses dies outside Canaan |
-
-All of this points to Christ: the *greater* prophet like Moses (Deut 18:15; Acts 3:22; Heb 1:1–2) who does not merely carry the word but *is* the Word, and who does not die outside the land having failed — he dies as the sacrifice and rises as the first-fruits.
-
-**The Rechabites as Type of the New Covenant Community:**
-The Rechabites (ch. 35) are not incidental background. They function as a type:
-- They obey a father's command over generations without coercion — pointing to what the new covenant heart will do naturally
-- They renounce houses, fields, and vineyards — the very categories 32:15 promises will be restored — modelling the waiting-dispossessed posture of those who trust the restoration word before possessing it
-- They are preserved precisely because of their faithfulness — the "remnant of hearers" pattern in concentrated form
-- They are "godly outsiders" (like Ebed-Melech, like Baruch) who model what Israel as a whole has refused to be, anticipating the new covenant community of genuine hearers
-
-**The Jehoiachin/Eucharistic Type:**
-Jehoiachin's daily ration at the Babylonian king's table (52:33) participates in a canonical chain: Mephibosheth eating at David's table (2 Sam 9:7) → Jehoiachin eating at Evil-Merodach's table (52:33) → the Lord's Supper. The exiled covenant community sustained by the great king's provision at his table is the shape of grace. The Lord's Supper is the fulfilment: the new covenant people, exiled in a fallen world, eating at the King's table by daily provision, "until the day of his death" — or rather, until the day of his return.
-
-**The Book's Ache:**
-- **What is missing/broken:** The people cannot keep God's law because their hearts are stone (17:9). The old covenant is not just broken — it is structurally unrepeatable (3:1 — God's own law forbids taking back a repeatedly unfaithful wife). Human leadership has comprehensively failed.
-- **How Christ answers that longing:** He is the mediator of the new covenant (Heb 9:15) — the one who pays the penalty of the old covenant's breach in his blood (Luke 22:20), whose Spirit writes the law on the heart (2 Cor 3:3), and who is the Righteous Branch who rules with justice ("The LORD our righteousness," 23:6). He is the answer to 17:9 (the deceitful heart), to 3:1 (the unmarriageable wife taken back by grace), and to 31:34 (the definitive forgiveness that the Levitical system could only point toward).
-
-**The Day of the LORD Inversion:**
-A critical theological claim the preacher must name explicitly: Jeremiah takes the traditional "Day of the LORD" expectation (judgment against Israel's enemies, salvation for Israel — the popular version Amos already attacked) and inverts it. In Jeremiah, the Day of the LORD comes *against* Israel through Babylon. The warrior of ch. 4 is God himself. The foe from the north is God's instrument. The people who assumed the Day of the LORD would be good news for them are told: it will be darkness for you, not light (cf. Amos 5:18). This inversion is the ground of much of the prophecy's offence — and it is necessary background for every passage from ch. 4 onwards.
-
-**Trajectory for Series:**
-- The series must make **God's word** — not Jeremiah's biography — its protagonist. Shead's framing is the key: this is the story of what happened when the word of the LORD came to Jeremiah.
-- Jeremiah himself is the **embodied word** — a type of Christ throughout — but the sermons must resist making him a model of courageous preaching. His significance is typological, not exemplary.
-- The **remnant of hearers** thread (Baruch, Ebed-Melech, Rechabites, good figs) should be introduced early (Sermon 6) and tracked through the series as the positive ecclesiological argument: this is what the new covenant community looks like before it arrives.
-- **Christ should be made explicit** at: (a) 9:23–24 (Christ as the knowledge of God, 1 Cor 1:30); (b) the new covenant (31:31–34; Heb 8; Luke 22:20); (c) the Righteous Branch (23:5; 33:14–16); (d) the confessions (Jeremiah as type of the rejected Servant); (e) the cistern/scroll-burning parallel (death-and-resurrection of the word); (f) the field purchase (Christ as the purchase that makes all other purchases possible); (g) Jehoiachin's table (52:33; the Lord's Supper).
-
-**Transformed Purpose Statement:**
-
-| Original PS (for them) | Transformed PS (for us) |
-|---|---|
-| Align yourself with God's declared future — trust the word that tears down and the word that builds — rather than grasping at any human alternative (kings, alliances, temple, false prophets) | Trust Christ, the Word made flesh and mediator of the new covenant, who has already done the demolition work through his death and now builds his people through his Spirit — and resist every substitute word that promises peace without the cross |
-
-**Already/Not Yet check:** The new covenant is: (a) *promised* in Jer 31:31–34; (b) *enacted* in Christ's blood (Luke 22:20) at the Last Supper; (c) *partially fulfilled* now in the Spirit's indwelling, the universal direct knowledge of God, and the definitive forgiveness of sins (already); (d) *awaiting full consummation* in the new Jerusalem where even the garbage dumps will be holy (Jer 31:40; Rev 21–22) and the restored city will be "never again uprooted" (not yet). Preach both. The Transformed PS must hold both.
-
----
-
-## MICROSCRIPT
-
-**"God watches over his word to perform it"** (companion: "Torn down — then built")
-
-Two options are commended depending on context:
-- **For the series overall:** *"Torn down — then built"* — captures the arc; the dash carries the weight of 52 chapters; physical, short, sequential
-- **For the key theological claim:** *"God watches over his word to perform it"* — drawn directly from 1:12, the almond branch; this is the book's own statement of its central claim; it returns at 31:28 and is proved by ch. 52
-
-**Recommendation:** Introduce both in Sermon 1. "Torn down — then built" carries the story arc; "God watches over his word to perform it" carries the theological ground. Use both throughout the series.
-
-- Template: Contrast (two movements of 1:10; 31:28) / Stark Reminder (1:12 proved by ch. 52)
-- Stickiness verified: Yes — both short, physical, unexpected in sequence (demolition before construction surprises those who expect God to simply preserve); both portable in ordinary conversation
-
----
-
-## BOOK-LEVEL TEACHING POINT
-
-**Section phrases (in book order):**
-
-| # | Section | Verses | Key phrase |
-|---|---|---|---|
-| 1 | Call and commission | 1:1–19 | God puts his word in Jeremiah's mouth to pluck up and break down, to build and to plant — watched over by God himself |
-| 2 | Fruitless appeal; temple corruption | 2:1–10:25 | Judah has forsaken the fountain of living water for broken cisterns, and false religion for false security — the only boast that survives is knowing God (9:23–24) |
-| 3 | Covenant-breaking and the prophet's agony | 11:1–20:18 | The covenant is broken by a heart deceitful above all things; Jeremiah bears the cost in his own person as the embodied, rejected word — and even so the fire cannot be extinguished (20:9) |
-| 4 | Failed leadership; the good figs | 21:1–24:10 | Every human alternative — king, prophet, nation — has failed; God himself will raise up a Righteous Branch, and hope is with the judged exiles, not the preserved institution |
-| 5 | Hinge: verdict delivered to all nations | 25:1–38 | God's word goes out as a cup of wrath to all nations; 70 years of exile declared; "whose word shall stand" is the question that frames everything that follows |
-| 6 | True word vs false word; word to the exiles | 26:1–29:32 | The word of the LORD is vindicated against every rival; the tested and proved word gives concrete instructions: settle in Babylon, seek its welfare, trust the 70-year timeline |
-| 7 | New covenant; the Book of Comfort | 30:1–33:26 | God will build and plant beyond the ruins, writing his law on hearts and raising up a Righteous Branch — a new covenant more permanent than creation; God rejoices with all his heart and soul to do his people good |
-| 8 | Word indestructible; Jerusalem falls | 34:1–39:18 | Two responses to God's word — obedience (the Rechabites) and burning the scroll (Jehoiakim) — prove that the word cannot be silenced; Jerusalem falls exactly as declared |
-| 9 | Remnant's disobedience; no escape | 40:1–44:30 | Even in the aftermath the remnant repeats the same rejection; they go to Egypt; "whose word shall stand: mine or theirs?" (44:28) — the book's own verdict on its central contest |
-| 10 | Universal judgment; new life from the wreckage | 45:1–52:34 | The word tears through all nations; Babylon falls and within its fall the new covenant community emerges; the word proved completely true; a seed of Davidic hope survives in exile — the building and planting have begun |
-
-**Constructed Teaching Point:**
-
-Because Judah has forsaken God, rejected his word through every human voice — prophet, priest, and king (2–24) — and because the heart problem runs too deep for any reform to fix (17:9), God's indestructible word announces and enacts the demolition it promised (25–44), while simultaneously — within the ruins — promising a new covenant written on hearts, raising up the Righteous Branch who is "the LORD our righteousness," and preserving a remnant of hearers as the seed of the community that only the word can build; and because God watches over his word to perform it (1:12; 31:28; 52:31–34), every word of building and planting is as certain as every word of tearing down.
-
----
-
-## BOOK-LEVEL PURPOSE STATEMENT
-
-Trust God's indestructible word — proved true about everything it said concerning demolition — enough to let go of every broken cistern and align yourself with his declared future: the new covenant written on the heart (31:33), the Righteous Branch who is "the LORD our righteousness" (23:6), the restoration that comes not by avoiding judgment but by passing through it; and join the remnant of hearers — the Rechabites, the Ebed-Melechs, the good figs — who hear the word and act on it, knowing that the God who watches over his word to perform it is at this moment rejoicing with all his heart and soul to do you good (32:41; 1:12).
-
-**How each section drives toward this:**
-
-| Section | Verses | How it drives toward the PS |
+| Chapters | Working title | Weight |
 |---|---|---|
-| Call | 1:1–19 | Establishes that God watches over his word — the only reliable word to trust |
-| Prosecution | 2–10 | Demolishes every alternative the reader might trust instead: idols, Egypt, the temple; names the only boast that holds (9:23–24) |
-| Confessions | 11–20 | Shows the cost of rejecting God's word — borne first by the prophet — and the impossibility of self-salvation; the fire in his bones shows the word cannot be extinguished |
-| Failed leadership | 21–24 | Removes every human structure that might seem to offer an alternative; plants the seed of the remnant of hearers (the good figs) |
-| Testing of the word | 25–29 | Demonstrates which word has proved true under fire; establishes the exiles in Babylon as the remnant of hope; gives the concrete shape of trust |
-| New covenant | 30–34 | Gives the content of the declared future: what God will build and plant; God's own commitment with all his heart and soul |
-| Enactment | 35–44 | Shows the word performing exactly what it said — both in demolition and in preserving the remnant of hearers; "whose word shall stand" is answered |
-| Universal scope | 45–52 | Reveals the word's global reach; Babylon's fall is the birth of the new covenant community at cosmic scale; the seed of hope survives in Jehoiachin |
+| 1:1–19 | Called before you were formed: six verbs and a watching God | ⭐ HIGH |
+| 2:1–6:30 | The fountain and the broken cisterns: a lawsuit against a wife | Standard |
+| 7:1–10:25 | Do not trust these deceptive words: the temple sermon | ⭐ HIGH |
+| 11:1–17:27 | The covenant broken, and the cost carried in one man's body | Standard |
+| 18:1–20:18 | The potter, the flask, and the prophet who curses his birthday | ⭐ HIGH |
+| 21:1–24:10 | Shepherds who scatter, a righteous Branch, and two baskets of figs | Standard |
+| 25:1–29:32 | The cup, the seventy years, and how to tell a true prophet | Standard |
+| 30:1–33:26 | The Book of Comfort: a new covenant and a field bought in a siege | ⭐ HIGH |
+| 34:1–36:32 | Two covenants and a fire: Zedekiah, the Rechabites, and the scroll | Standard |
+| 37:1–39:18 | The cistern and the fall: the word comes true | Standard |
+| 40:1–44:30 | Back to Egypt: the remnant undoes the exodus | Standard |
+| 45:1–5 | A word for the man who wrote it down | Standard |
+| 46:1–51:64 | The cup goes round: the word over the nations, and Babylon last | Standard |
+| 52:1–34 | The verdict entered — and a seed at the king's table | ⭐ HIGH |
+
+Notes for a series: units 2 and 4 are large because the text gives no strong internal seam; both can be split at 4:5 and 14:1 respectively if more weeks are available. Unit 13 covers six chapters and will need selective treatment — preach the shape (the cup of 25 going round, Babylon last and longest, the scroll sunk at 51:59–64) rather than every nation. If the series must be shortened, the four ⭐ HIGH units are the ones that must stay whole, and unit 14 should never be dropped: without chapter 52 the book has no verdict.
 
 ---
 
-## ARC MAP
+## What This Pass Changes
 
-**Tension-Resolution:**
+The superseded overview and this session's sweep were opened only after the whole-book counting above was complete. The superseded document is a substantial and often perceptive piece of work built on a different template (canon position, storyline placement, vocabulary plan, passage-posture map) and leaning explicitly on Shead's four-movement scheme. Recording both directions:
 
-| Phase | Chapters | What's happening | Tension level |
-|---|---|---|---|
-| Commission | 1 | The programme is set; the promise made | Medium — full weight not yet felt |
-| Prosecution | 2–10 | Case built against Judah; invasion announced; the pivotal diagnostic (9:23–24: only one boast holds); no repentance | Rising |
-| Covenant cost | 11–20 | Jeremiah bears the rejected word in his body; confessions reach maximum anguish; the heart diagnosis (17:9); "fire shut up in my bones" (20:9) | High — personal and national crisis |
-| Final verdict | 21–24 | Human leadership exhausted; good figs/bad figs — the verdict on the nation; the Righteous Branch promised | High |
-| Pivot | 25 | Cup of wrath to all nations; 70 years declared; "whose word shall stand?" | Peak tension — the sentence is passed |
-| Word tested | 26–29 | False prophets defeated; word vindicated; letter to exiles — hope for Babylon remnant; "I will restore your fortunes" (first use) | Tension begins to differentiate: doom for some, hope for others |
-| **Suspension: Book of Comfort** | 30–34 | New covenant, Righteous Branch, field purchase, covenant permanent as creation, voices of bride and bridegroom restored — the building verbs arrive | **First sustained release of tension** |
-| Two responses / word indestructible | 35–36 | Rechabites obey; Jehoiakim burns the scroll — a longer scroll appears; the word cannot be destroyed | Tension returns in new form: will anyone hear? |
-| Word vs. King | 37–39 | Scroll-burning → cistern scene → Jerusalem falls; the word-carrier preserved; the word came true | Resolves destructively but definitively |
-| Aftermath | 40–43 | Silence (40:7–41:18 — Jeremiah absent, chaos fills the vacuum); remnant self-destructs; goes to Egypt | Grim completion |
-| No escape | 44 | "Whose word shall stand: mine or theirs?" — answered by the historical appendix ahead | Final statement of the contest; the word stands |
-| Universal judgment | 45–51 | Nations fall; Babylon destroyed; within Babylon's fall, Israel's new covenant life emerges (50:4–20) | Panoramic; the building verbs return at cosmic scale |
-| Vindication and seed | 52 | Word proved true; Jehoiachin alive at the king's table; Davidic seed not extinct | **Partial resolution** — not triumph, but life; not the tree, but the seed |
+**Confirmed independently.** Babylon first named at 20:4; all six commissioning verbs recurring at 31:28; "new covenant" as the only occurrence in the Hebrew Bible; the two Branch texts at 23:5–6 and 33:15–16; the 51:64 colophon marking chapter 52 as an appendix; the "did not listen, did not incline their ear" formula at 25:4, 34:14, 35:15 and 44:5; the scroll-burning and cistern as a paired death-and-resurrection pattern; the exiles rather than the land as the location of hope; and the Egypt-as-anti-exodus reading.
 
-**Does the book resolve?** **Partially.** The demolition is complete; the word is proved true; Jehoiachin is alive; the seed of the Righteous Branch exists. But the new covenant has not been enacted, the Righteous Branch has not come, the nations have not gathered, creation is not yet renewed. The book ends looking forward — which is exactly right for a book that establishes categories that only Christ will fill.
+**Corrected.**
 
-**The "remnant of hearers" arc:**
-Running alongside the national arc of rejection is the positive thread of those who hear and obey. Track these figures through the series:
+1. **"The NT treats the MT as authoritative"** — this cannot stand. Hebrews 8:8–12, the longest OT quotation in the New Testament, cites Jeremiah 31:31–34 in a **Greek** form that differs from the Hebrew at two theologically loaded points ("I was their husband" / "I disregarded them"; singular *torah* "within them" / plural "laws into their mind"). The NT's most sustained engagement with Jeremiah follows the LXX.
+2. **The "did not listen" refrain is not a frame around the second half.** The full formula occurs **eight** times, four in the first half (7:24, 7:26, 11:8, 17:23) and four in the second (25:4, 34:14, 35:15, 44:5). It is a book-wide refrain; the chiastic-frame claim over-reads a genuine pattern.
+3. **The bridegroom refrain is three silencings and *one* restoration, not "three and three".** The clause is verbatim identical at 7:34, 16:9, 25:10 and 33:11. Stated correctly it is a better finding: one restoration answering three silencings in the same words.
+4. ***šûb* is not the book's most frequent word.** *šāmaʿ* outruns it roughly 189 to 107 and reaches more chapters. *šûb* remains the more theologically loaded root; the two claims should be separated.
+5. **The MT/LXX discussion needs the specifics.** The superseded overview notes the two editions in one line. The quantified shortfall (~10%, ~1,800 Hebrew words), the 58-verse minus catalogue, the derived chapter mapping, and — most consequentially — the fact that **33:14–26 is entirely absent from the Greek**, are all missing from it, though it builds on 33:14–16 in its Christological section.
 
-| Figure | Chapters | What they model | Tension implication |
-|---|---|---|---|
-| The good figs | 24 | Submission to God's declared judgment | Counterintuitive hope introduced in Movement 1 |
-| The Rechabites | 35 | Obedience over generations; waiting dispossessed | The type of the new covenant community |
-| Baruch | 36; 45 | Preserving the word in writing; preserved in turn | The scroll-keeper and the word share the same fate |
-| Ebed-Melech | 38–39 | Trust in God's word; rescues the word-carrier | Receives the 1:8/1:19 promise — it is transferable |
-| Seraiah | 51:59–64 | Carries the word to Babylon; sinks the scroll | The word performs its pronouncement before the event |
+**Corrections to this session's own sweep.**
 
-**God's Visibility:**
+6. **The cistern thread is thematic, not verbal.** The sweep traced *bôr* from 2:13 through 38:6 to 41:7. In fact **2:13 uses a different word** — *bōʾrôt*, "cisterns/wells" — while 38:6 and 41:9 share *bôr* exactly. The 38/41 link is verbal and strong; the link back to 2:13 is thematic and should be presented as such.
+7. **MT 45 is not absent from the LXX.** It is appended to LXX 51, immediately after MT 44 — verse counts (30 + 5 = 35) and the verbatim match at LXX 51:31 = MT 45:1 confirm it. The interpretive point survives in a better form: the Greek *demotes* Baruch's oracle rather than omitting it, and MT's placement of chapter 45 as a standalone hinge is a deliberate structural choice.
+8. **The LXX 52 minus is larger than "52:28–30".** MT 52:2–3, 15, 28–30 and **34** are all absent — including the book's final verse.
 
-| Phase | Chapters | Visibility | Sermon implication |
-|---|---|---|---|
-| Commission | 1 | Fully visible — God speaks, touches, commissions | God as the one who acts through his word |
-| Prosecution | 2–10 | Highly visible — scorned husband, grieving father, angry warrior | God's emotional investment in the covenant; his judgment is not cold |
-| Covenant cost | 11–20 | Visible through Jeremiah — divine/human voices blur in the confessions | The blurring is the point: Jeremiah embodies God's word |
-| Verdict | 21–25 | Visible as judge — the cup is passed | God's judgment is active, deliberate, comprehensive |
-| Word tested | 26–29 | Visible through outcomes — true prophets preserved, false destroyed | God's vindication is quiet but certain |
-| Book of Comfort | 30–34 | Fully and directly visible — "I will… I will… I will…" (9 times in 31:31–34); "with all my heart and all my soul" (32:41) | God's initiative in the new covenant is maximally asserted |
-| Two responses | 35–36 | Visible through the second scroll | God's response to the word being burned is to produce more word |
-| Enactment | 37–39 | Increasingly hidden behind events; but specifically present with Ebed-Melech and Jeremiah | Don't make God visible before the text does — the fall of Jerusalem is God's word at work |
-| Aftermath | 40–43 | **Word largely silent; Jeremiah absent 40:7–41:18** | The silence of God is itself a message — chaos is what happens when the word is not heard |
-| No escape | 44 | Visible in judgment oracle | God's word follows to Egypt; his presence in judgment is as real as his presence in grace |
-| Universal judgment | 45–51 | Visible through the oracle formula; the word is doing the work | The word's sovereignty over all nations is the final demonstration |
-| Ending | 52 | Quiet, almost hidden — life preserved in a small detail | The seed of hope is not spectacular; preach it as the quiet faithfulness of the covenant God |
+**Added.** The withholding of Babylon's name until 20:4 as a structural device; the full seven-stage six-verb table, including 42:10 and 45:4 as the thread's conditional and counterweight; the deliberate reverse-chronological placement of 35–36 and 45–46 and its thematic motive; the "rising early" formula (8×) as a Leitwort for divine persistence; the "from the north" reversal against Babylon; the 17:1 / 31:33 engraved-heart pair and its invisibility in Greek; the quantified LXX shortfall and complete minus catalogue; the derived MT↔LXX chapter mapping; the Hebrews-cites-the-Greek divergence; the 22:30 / 52:31–34 / Matthew 1 tension as the book's own unresolved bookend; and the Micah 3:12 courtroom citation at 26:18 as the OT's clearest instance of a prophet quoted by name as legal precedent.
 
 ---
 
-## VOCABULARY PLAN
+## Colophon
 
-**Foundational vocabulary — three structural words:**
-- **Problem word:** **שׁוּב** (*shub* — turn/return/backslide) — disease and potential cure; saturates chs. 3 and 30–34
-- **Second problem word:** **עָזַב** (*azab* — forsake) — the characteristic accusation of the prosecution sections; pairs with שׁוּב to form the diagnosis
-- **Third structural word:** **שָׁמַע** (*shama* — hear/obey) — frames Movements 2 and 3 as a structural marker; the deafness verdict; also the positive word for those who obey (the Rechabites: hear/obey in 35:8, 10, 14, 18)
-- **Contrast word:** **בָּנָה / נָטַע** (*build / plant*) — withheld through most of the book; must be felt as promised and deferred before they arrive
+**Version:** 1.0.0 · **Date:** 28 August 2026 · **Mode:** Draft (fresh text-first build; supersedes the previous overview)
 
-**Key vocabulary to introduce early:**
-- "The word of the LORD" — the protagonist; establish in Sermon 1
-- "Forsake" / "fountain of living water / broken cisterns" — the disease and diagnostic image; Sermon 2
-- "Knowing God" (9:23–24) — the only boast that survives; the positive pole of the whole axis; Sermon 3
-- "The deceitful heart" (17:9) — the deepest diagnosis; the problem the new covenant answers; Sermon 4
-- "Fire shut up in my bones" (20:9) — the indestructible word; Sermon 5
-- "The Righteous Branch" / "the LORD our righteousness" — Sermon 6
-- "God's 70-year plan" / "seek the welfare" — Sermon 7
-- "New covenant" / "written on the inside" / "definitive forgiveness" — Sermon 8
-- "Buy the field" / "nothing is too hard for God" / "he rejoices to do you good" — Sermon 9
-- "The indestructible word" — Sermon 10
-- "It all came true" / "I am with you to deliver you — proved" — Sermon 11
-- "Whose word shall stand?" / "going to Egypt" — Sermon 12
-- "Every Babylon must fall" — Sermon 13
-- "The seed that survived became the Branch" / "the almond branch is still watching" — Sermon 14
+**Sources consulted, in order of use:** the biblical text — BHS parsed and counted across 1,364 verses, Rahlfs LXX parsed and counted across 1,298 with accents normalised, ESV throughout; *then*, at the checking stage only, the superseded `book-overview-jeremiah.md` and this session's `dig-deeper-jeremiah-sweep.md`. No commentary was opened. New Testament and Deuteronomy wording referred to from standard reference knowledge and tagged accordingly.
 
-**Key transitions:**
+**Warrant counts** (explicit tags in this document, including the definitions line): [T] 32 · [I] 13 · [S] 8. The ratio is [T]-heavy because most load-bearing claims here are reproducible counts; the tables carry *confidence* flags in place of tags.
 
-| From | To | When |
-|---|---|---|
-| "Pluck up / break down / destroy / overthrow" | "Build / plant" | Book of Comfort (30–34) — let the congregation feel the gear-change |
-| "Thus says the LORD: judgment" | "Thus says the LORD: I will restore" | Movement 2 centre (30–31) — first sustained use of the positive verbs |
-| Jeremiah's anguish (confessions) | God's unconditional promises ("I will…") | Book of Comfort — the subject changes from what the people must do to what God will do |
-| "The days are coming" (judgment) | "The days are coming" (new covenant, 31:31) | Same formula, completely reversed content — name this contrast in the preaching |
-| Deafness: "you have not listened" | "Whose word shall stand: mine or theirs?" | Movement 3 close (44:28) — the shama verdict reaches its final form |
+**Health note.** The lexical and text-critical layer is the strongest part of this document and is fully reproducible from the supplied texts. Three claims are worth re-testing before they reach a pulpit: the Matthew 27:9–10 attribution (left open), the *šûb* count (a conservative floor, since unpointed Hebrew cannot cleanly separate š-w-b from y-š-b), and the ~10% LXX shortfall (a floor rather than a settled figure — the calibration chapters may themselves carry small within-verse minuses).
 
-**The Egypt vocabulary arc:**
-- Introduced: "Fountain of living water / broken cisterns" (Sermon 2) as the psychological structure of turning from God
-- Developed: Egypt as a specific broken cistern — the human alliance that promises more than it delivers (2:18; 37:7)
-- Climax: "Going to Egypt" as the anti-exodus, the book's sharpest image of unbelief (Sermons 12–13)
-- Should become portable language for the congregation: anything that promises what only God can give is "going to Egypt"
+**Before the pulpit:** run full solo digs on the four ⭐ HIGH units — chapter 1, the temple sermon, 18–20, the Book of Comfort, and chapter 52. The existing fourteen-passage sweep covers the whole book at reduced depth and should be harvested into a Finalise/Upgrade pass of this document: its Cross-Passage Convergent Findings and Book-Overview Tensions adjudicated in the open, its internal-echo findings folded into the echo table above, and everything taken from it tagged `[S]`.
 
 ---
 
-## NATURAL DIVISIONS
-
-| # | Passage | Structural basis |
-|---|---|---|
-| 1 | Jer 1 | Call narrative — the entire programme in miniature |
-| 2 | Jer 2–6 | Section 1 of Movement 1 (marriage metaphor; legal case against Judah; invasion announced) |
-| 3 | Jer 7–10 | Section 2 of Movement 1 (temple sermon; false religion; 9:23–24 as pivot) |
-| 4 | Jer 11–17 | Section 3 of Movement 1 (covenant-breaking; confessions 1–3; heart diagnosis) |
-| 5 | Jer 18–20 | Section 4 of Movement 1 (potter; broken flask; confessions 4–5; nadir) |
-| 6 | Jer 21–24 | Section 5 of Movement 1 (failed kings; failed prophets; Righteous Branch; good figs) |
-| 7 | Jer 25–29 | Movement 2 opening (hinge; cup of wrath; true vs false prophets; letter to exiles) |
-| 8 | Jer 30–31 | Movement 2 centre: Book of Comfort Part 1 (new covenant; return; Righteous Branch) |
-| 9 | Jer 32–33 | Movement 2 centre: Book of Comfort Part 2 (field purchase; covenant permanence; Branch as king-priest) |
-| 10 | Jer 34–36 | Movement 2 close / Movement 3 opening (broken covenant; Rechabites; Jehoiakim burns scroll) |
-| 11 | Jer 37–39 | Movement 3 centre (siege; cistern; Ebed-Melech; Jerusalem falls; word comes true) |
-| 12 | Jer 40–44 | Movement 3 close (silence in 40–41; remnant disobedience; Egypt; "whose word shall stand?") |
-| 13 | Jer 45–51 | Movement 4 (Baruch preserved; oracles against nations; Babylon falls; Israel lives) |
-| 14 | Jer 52 | Epilogue-vindication (word proved true; Jehoiachin's release; seed of hope) |
-
-**SERIES LENGTH: 14 weeks**
-
----
-
-## PASSAGE POSTURE MAP
-
-| # | Passage | Posture | Landing type | Landing description (textually precise) |
-|---|---|---|---|---|
-| 1 | Jer 1 | Prescriptive | Pointing Forward | Ends with God's double promise of presence ("I am with you to deliver you" — vv.8, 19) and the six verbs announced but not yet enacted; the almond branch guarantees performance |
-| 2 | Jer 2–6 | Warning | Deliberately Unresolved | Ends in unrelieved judgment imagery (6:27–30: worthless dross); no note of hope; the case is made but the door is not formally closed |
-| 3 | Jer 7–10 | Warning | Deliberately Unresolved | Ends with Jeremiah's prayer for justice (10:23–25); temple corruption exposed; the pivot of 9:23–24 gives one positive note but the overall trajectory is still doom |
-| 4 | Jer 11–17 | Descriptive / Warning | Applied but Unresolved | Ends with the Sabbath sermon (17:19–27): even now, a conditional crack of light; but the heart diagnosis (17:9) and the confessions have shown the depth of the problem |
-| 5 | Jer 18–20 | Descriptive | Deliberately Unresolved | Ends with Jeremiah cursing the day of his birth (20:14–18) — the nadir; no resolution, no comfort; "fire shut up in my bones" (20:9) is the only unresolved positive |
-| 6 | Jer 21–24 | Descriptive / Pointing Forward | Partial | Ends with the two baskets of figs: bad figs condemned, good figs promised "a heart to know me" (24:7) — first clear new covenant language; genuinely partial hope |
-| 7 | Jer 25–29 | Prescriptive | Applied but Unresolved | Ends with the letter to exiles: settle in Babylon, trust God's 70-year timeline, "I will restore your fortunes" — concrete, hopeful prescription; the exile is real and ongoing |
-| 8 | Jer 30–31 | Pointing Forward | Partial | Ends with the new covenant promise (31:31–34) and the permanence of God's commitment (31:35–37) — the most resolved note so far; but explicitly future-tense throughout |
-| 9 | Jer 32–33 | Pointing Forward | Partial | Ends with the threefold covenant permanence argument (33:20–26: as secure as day and night) — hope maximally asserted during the siege; still "the days are coming" |
-| 10 | Jer 34–36 | Descriptive / Warning | Deliberately Unresolved | Ends with the new scroll "with many similar words besides" (36:32) and Jehoiakim's dynasty condemned; the word wins but the nation is not saved; the demolition is not yet complete |
-| 11 | Jer 37–39 | Descriptive | Resolved (destructively) | Ends with Jeremiah freed and given provision (39:14); Ebed-Melech preserved; Jerusalem has fallen exactly as the word said; 1:17–19 proved true; the demolition is complete |
-| 12 | Jer 40–44 | Warning / Descriptive | Deliberately Unresolved | Ends with "whose word shall stand: mine or theirs?" (44:28); no resolution; the remnant has sealed its own fate; the word will find them even in Egypt |
-| 13 | Jer 45–51 | Pointing Forward | Partial | Ends with the scroll of Babylon's doom sunk in the Euphrates (51:59–64) and "thus far are the words of Jeremiah" — the universal demolition declared complete, Israel's restoration promised within Babylon's fall (50:4–20), but the new covenant community has not yet appeared |
-| 14 | Jer 52 | Descriptive | Partial | Ends with Jehoiachin eating at the king's table, provisioned daily "until the day of his death" (52:34) — life preserved, Davidic line not extinguished, but no restoration; hope alive entirely in God's hands |
-
----
-
-## SERIES BIG QUESTION
-
-**"When everything you've trusted has been torn down — is there a word worth holding on to?"**
-
-**Criteria verification:**
-
-| Criterion | Pass? | Evidence |
-|---|---|---|
-| Felt | Yes | Every person knows the experience of having foundations shaken; and everyone faces the question of whether any word survives the wreckage |
-| Open (not yes/no) | Yes | The answer the book gives is surprising — the word that tears things down is the word worth holding on to |
-| Answered by book | Yes | Ch. 52: the word proved completely true; the almond branch kept its promise; the seed survives |
-| Text-grounded | Yes | Tied to 1:10–12 (six verbs + almond branch), 31:28 (word watching over to build and plant), 44:28 ("whose word shall stand?"), and 52:31–34 |
-| Single | Yes | One question |
-| Concrete | Yes | "Torn down" is physical; "a word worth holding on to" echoes the book's central theme |
-
-**Situation Now test:** We live in an age of structural collapse — of trusted institutions, of confident certainties, of things assumed permanent. Churches have failed. Relationships have broken. Careers have ended. National confidence has shattered. People are looking for something that will hold when everything else has fallen. The question Jeremiah forces is: is the word of God that word? The unsettling, liberating answer is: yes — but only because it is also the word that tears things down.
-
-**Text's own question:** 44:28 — "Whose word shall stand: mine or theirs?" — is the book's own explicit statement of what is at stake. It serves as the climactic weekly question (Sermon 12), not the series question, because it assumes the exile has already come and is asking for a verdict. Repositioned as the weekly climax at 44:28 (Sermon 12), it then receives its answer in the series finale (ch. 52): God's word stands.
-
-**Alternative questions considered and why rejected:**
-- "What does it mean to trust God when his word is tearing your world apart?" — rejected: slightly interior/psychological; doesn't capture the full arc of public vindication
-- "Is God's word reliable enough to stake everything on?" — rejected: too abstract; doesn't carry the book's physical weight of demolition and construction
-
-**SERIES BIG ANSWER:** The word of the LORD is the only word worth trusting — because it alone does what it says, because it tears down only to build, because the demolition it announces is the necessary clearing for the new covenant it promises, and because the God who watched over every word of judgment also watches over every word of restoration (1:12; 31:28; 44:28; 52:34).
-
-**Weekly questions:**
-
-| Week | Passage | Question | Answer (from text) |
-|---|---|---|---|
-| 1 | Jer 1 | What kind of word does God put in Jeremiah's mouth — and does it actually do anything? | A word with authority over nations — to tear down and to build — watched over by God himself to perform it (1:9–12) |
-| 2 | Jer 2–6 | What is so terrible about turning away from God — and why can't we seem to stop? | Because we've swapped the fountain of living water for broken cisterns — and it's not just wrong; it's insane, degrading, and beyond our power to undo (2:13) |
-| 3 | Jer 7–10 | What do we actually trust to protect us from God's judgment — and will it hold? | Not the temple, not wisdom, strength, or wealth — only knowing the God who practises steadfast love, justice, and righteousness (9:24) |
-| 4 | Jer 11–17 | What is actually wrong with us — and can we fix it ourselves? | The heart is deceitful above all things — only God can search it, judge it, and write his law on it (17:9–10) |
-| 5 | Jer 18–20 | Does God have the right to do what he's doing — and is there anything left when he does? | Yes — he is the potter, free to smash what is beyond reshaping; and the word he speaks cannot be silenced, even in the prophet's darkest night (20:9) |
-| 6 | Jer 21–24 | When every human leader has failed, where is hope? | In the one God raises up himself: the Righteous Branch — and in the most unexpected place: the judged exiles who submitted to God's declared judgment (24:4–7) |
-| 7 | Jer 25–29 | What does it look like to trust God's word when his judgment has come? | Settle in Babylon, seek its welfare, wait for God's 70-year timeline — align with the declared future rather than grasping for a false shortcut (29:4–14) |
-| 8 | Jer 30–31 | Is there any word of hope that actually matches the depth of what's broken? | Yes — a new covenant God makes entirely by his own initiative, writing his law on hearts, forgiving sins definitively, and making himself known to all — from least to greatest (31:31–34) |
-| 9 | Jer 32–33 | How do you trust God's word about a future you cannot see, when the present looks like the opposite? | You buy the field — you make a concrete investment in God's declared future, because the God who brought the judgment is the same God who promises the restoration, and nothing is too hard for him (32:14–15, 27) |
-| 10 | Jer 34–36 | What happens when someone tries to silence God's word? | They get a longer version. The word cannot be burned; it returns in expanded form; and the one who burned it has written his own end (36:29–32) |
-| 11 | Jer 37–39 | Did God actually do what he said he would do? | Yes. Every word. Jerusalem fell exactly as declared. Jeremiah was preserved exactly as promised. The faithful outsider who trusted the word received exactly what God said. (39:14–18) |
-| 12 | Jer 40–44 | *Text's own question:* **Whose word shall stand — mine or theirs?** (44:28) | God's word stands — proved by the historical appendix that follows; and by every event in the book from 1:12 onwards |
-| 13 | Jer 45–51 | How far does the word of the LORD actually reach? | To every nation — Egypt to Elam; tearing down every power that oppresses, including Babylon; and within Babylon's fall, the new covenant community emerges (50:4–20) |
-| 14 | Jer 52 | After all the demolition — is there anything left? | Yes — a seed. A king alive in exile, eating at a foreign table. The word proved completely true. The Davidic line is not extinct. The Righteous Branch will grow (52:31–34; Matt 1:1) |
-
----
-
-## WHAT PREACHERS TEND TO MISS ABOUT JEREMIAH
-
-### 1. The book is a coherent narrative — not a random collection
-Commentators who describe Jeremiah as "unreadable" (J.A. Thompson) have led generations of preachers to approach it as a quarry for proof texts rather than a sustained argument. Shead's work demonstrates convincingly that the "word of the LORD" formulae create a four-movement narrative arc. The preacher who misses this will mine the book for its greatest hits (31:31–34; 29:11; the confessions) while losing the argument that gives each passage its weight. Knowing that you are in Movement 1 (the speaker is crushed) rather than Movement 2 (the word is vindicated) completely changes how a passage should land.
-
-### 2. The word of the LORD is the protagonist — not Jeremiah
-Shead's central thesis: "I shall argue that the word of the LORD is the book's protagonist. We might describe the book as the story of what happened when the word of the LORD came to Jeremiah." This is not just a scholarly observation — it is a preaching decision. The temptation to make Jeremiah the hero (courageous preacher, faithful sufferer) turns the book into a biography and the sermons into exhortations to pastoral resilience. The whole point is that Jeremiah's word has the power it has because it is God's word. The Christological reading depends on getting this right.
-
-### 3. The book has two interlocking arguments — preach both
-*Argument 1* (usually captured): the word of the LORD is indestructible — it tears down and builds; God watches over it to perform it. *Argument 2* (often missed): will anyone actually hear it? The whole book is structured around the *shama* (hear/obey) question. The "remnant of hearers" — the Rechabites, Baruch, Ebed-Melech, the good figs, Seraiah — are not incidental characters. They are the positive ecclesiological argument: this is what the new covenant community looks like before it arrives. Preaching only Argument 1 produces a doctrine of Scripture; preaching both produces a doctrine of Scripture *and* an ecclesiology.
-
-### 4. Josiah's reform was superficial — and Jeremiah knows it
-Josiah's reform (2 Kgs 22–23) is treated in Kings as the high point of later Israelite religion. Jeremiah is largely silent about it, and what he does say is damning: "Judah did not return to me with her whole heart, but in pretence" (3:10). The preacher who assumes Josiah's reform was genuine will misread the early chapters, which diagnose a heart problem that goes deeper than any outward reformation can reach.
-
-### 5. The six verbs of 1:10 are the programme — track them across the whole book
-"To pluck up, to break down, to destroy, to overthrow, to build and to plant" are not merely a vivid expression of Jeremiah's commission. They are the structural and theological spine of 52 chapters. When all six appear together again at 31:28, it is the most important structural signal in the book: the demolition is formally over; the building is formally beginning. Track these verbs; they are the book's own commentary on where it is in its argument.
-
-### 6. The confessions are not primarily personal therapy — they are typological embodiment
-The five major laments/confessions (11:18–12:6; 15:10–21; 17:14–18; 18:18–23; 20:7–18) are often read as evidence of Jeremiah's emotional depth or as models of honest prayer. This reading is not wrong, but it is dangerously incomplete. The confessions show Jeremiah as the *embodied word*: what the people are doing to the prophet, they are doing to God's word; Jeremiah absorbs the nation's suffering into himself (15:15–18 — he uses the language the nation used about itself). This is the ground for the typological reading: Jeremiah's suffering points toward the Servant who suffers *for* the people, not merely alongside them. **Preaching the confessions primarily as models of emotional resilience or pastoral endurance is the most common error in Jeremiah preaching.**
-
-### 7. The confessions should not be resolved prematurely
-The fifth confession (20:7–18) ends with Jeremiah cursing the day of his birth — with no resolution. Do not add a resurrection coda the passage does not supply. Let it land in darkness. The "fire shut up in my bones" (20:9) is the only sliver of hope — the word more powerful than the prophet's despair. That is the landing. Preachers who feel compelled to end every sermon on a positive note will ruin this passage.
-
-### 8. The false prophet problem is subtle and urgent
-Hananiah and the false prophets don't merely say "Baal says." They say "Thus says the LORD." They use God's name, speak in religious language, give the message the people want, and have prophetic tradition on their side ("surely God won't destroy his own temple"). The criteria for distinguishing true from false prophecy (Deut 18:20–22) only work retrospectively. The preacher who reduces this to "false teachers are obvious liars" will miss the warning: the most dangerous false word is the one that uses God's name while speaking from a human heart.
-
-### 9. The exiles in Babylon are the hope — counterintuitively
-Chapter 24's two baskets of figs is one of the most disorienting passages in the book: the exiles — those defeated, deported, judged — are the good figs. The people left in Jerusalem — apparently still in the land, apparently surviving — are the bad figs. The remnant in Egypt (40–44) is explicitly the bad outcome. The preacher who misses this will misread the whole back half of the book. The counterintuitive logic is also the pattern of the cross: the path to life runs through submission to God's declared judgment, not around it.
-
-### 10. Egypt is the anti-exodus — a theological direction, not merely a geographical one
-Egypt appears repeatedly as the alternative to trusting God: alliances with Egypt (2:18; 37:7), looking to Egypt for military help, and finally fleeing to Egypt against God's explicit command (43:7). This is not geographically incidental. Egypt is the house of slavery from which God rescued Israel at the exodus. To flee there is to undo the redemption — to choose slavery over the wilderness of trust. The tragic irony of the book's ending — the remnant in Egypt, dragging Jeremiah with them — is that they have gone backwards through the entire salvation narrative. Preach Egypt as a category, not a location. The congregation will have their own Egypts.
-
-### 11. The new covenant (31:31–34) is not a simple return-from-exile promise
-There is a temptation to read the new covenant as "return from Babylon + renewed commitment to Torah." Jeremiah's own language resists this: the law written on the heart is more than a renewed commitment; it requires something no amount of exile-and-return can produce. The "for" of 31:34 — "for I will forgive their iniquity and remember their sin no more" — establishes definitive forgiveness as the *ground* of everything else (law on hearts, universal knowledge of God). This is not the annual Yom Kippur covering; it is a new and permanent act. Hebrews is right to read this as pointing beyond anything the return from exile accomplished.
-
-### 12. The "1:17–19 promise proved true through apparent weakness" is a preaching theme in itself
-Jeremiah was promised: "I make you a fortified city, an iron pillar, bronze walls" (1:18). The book then traces how this is fulfilled through imprisonment, cisterns, exile to Egypt — through precisely the form that looked like defeat. His survival and vindication (ch. 39: freed, fed, given a ration) is the word keeping its promise about the word-carrier. Don't miss the irony: the "bronze walls" promise is proved true by a prophet who spent much of his ministry in various forms of prison. This is the Christological logic of weakness-through-which-God-works — and it is preachable at every stage of Jeremiah's suffering.
-
-### 13. The Rechabites are not background colour — they are typological
-The Rechabites (ch. 35) are placed before the scroll-burning (ch. 36) in reverse chronological order to make a theological point: obedience is possible; Judah's disobedience is therefore chosen, not inevitable. But they function also as a type: they renounce houses, fields, and vineyards (the very three categories the field purchase promises will return — 32:15), modelling the waiting posture of the new covenant community. They are the obedient children of a human father — showing what obedience to the divine Father could look like. Preach them as a type, not a morality tale.
-
-### 14. The Day of the LORD is inverted in Jeremiah
-Israel expected the Day of the LORD to bring judgment against their enemies and salvation for Israel. This was the popular expectation Amos already attacked (Amos 5:18–20). Jeremiah radicalises this inversion: the Day of the LORD comes against Israel through Babylon. The warrior of chs. 4–6 is God himself. The armies from the north are God's instrument. This inversion is the ground of much of the book's offence — and it is essential background for every passage in chs. 4–10, where the destruction imagery must be understood as God's own action, not merely Babylon's aggression.
-
-### 15. Don't preach the microscript as comfort before the congregation has earned it
-"Torn down — then built" can be preached as reassurance ("God is building something from your ruins") before the congregation has felt the full weight of *why* the demolition came and what it cost. This is the Jeremianic equivalent of quoting 29:11 ("plans to prosper you") stripped of its 70-year context. The series must make the congregation *earn* the building language by sitting with the demolition long enough. Preach the four destruction-verbs fully before you let the two building-verbs arrive. The gap between them is where the book lives.
-
-### 16. Jeremiah 52 is not an appendix — it is a vindication and a canonical handoff
-The final chapter (paralleling 2 Kgs 25) is sometimes treated as an afterthought. But its function is theological: it verifies Jeremiah as a true prophet (Deut 18:21–22); it ends with the smallest possible Davidic seed alive in Babylon; and it hands off directly to Matthew 1:11–12, where Jehoiachin appears in the genealogy of Jesus. The book ends not with triumph but with the tiniest of seeds — which is exactly right. Preach it small. Resist expanding it. The seed that survived in Babylon became the Branch that fills the earth.
-
----
-
-## QUALITY CHECKS
-- [x] Hebrew canon position identified
-- [x] Canonical collection mapped (including handoff to next book)
-- [x] Original audience's need for this book articulated (specific, not generic) — including the "remnant of hearers" as a distinct audience need
-- [x] Presenting situation mapped (concrete historical context with preaching implications) — including Egypt as anti-exodus theology
-- [x] Opening signals analysed — including all three structural words (שׁוּב, עָזַב, שָׁמַע)
-- [x] Structural markers identified — including the *shama* refrain as a movement-framing device
-- [x] Contrast word mode identified (anticipatory/internal)
-- [x] Storyline development traced (section-by-section logic, not just arc tension)
-- [x] Structural echoes identified — including scroll/cistern parallel; houses-fields-vineyards echo; voice of bride and bridegroom triple silencing/restoration
-- [x] Movement type identified (Accumulation with suspension)
-- [x] The book's two interlocking arguments identified (word indestructible / will anyone hear?)
-- [x] "Remnant of hearers" thread identified and mapped
-- [x] Intertextual map completed — including Psalms (Ps 1, 31, 78); Egypt as anti-exodus; Mosaic sustained parallel; Joseph typology; sword-famine-pestilence triad
-- [x] Christological trajectory mapped
-- [x] Categories this book establishes identified (prophet, king, new covenant, remnant, Branch, hearing community)
-- [x] Book's "ache" explicitly labelled
-- [x] Moralism traps identified for each major character
-- [x] Day of the LORD inversion identified and named
-- [x] Transformed PS maintains already/not yet tension with four-stage fulfilment shape
-- [x] TP built from section phrases
-- [x] TP includes EVERY section
-- [x] TP follows book order
-- [x] Microscript meets stickiness criteria (two options commended; both drawn from the text)
-- [x] PS includes verse references embedded within the sentence
-- [x] PS: every section drives toward it
-- [x] Big Question passes all six criteria: felt, open, text-grounded, answered by book, single, concrete
-- [x] Big Question passes Situation Now test
-- [x] Text's own question (44:28) identified, repositioned as weekly climax at Sermon 12
-- [x] Big Answer derived from text with verse references
-- [x] Arc mapped (tension + God's visibility + "remnant of hearers" thread)
-- [x] Landing descriptions are textually precise (not impressionistic labels)
-- [x] Vocabulary transitions planned — including all three structural words and Egypt arc
-- [x] Every passage accounted for
-- [x] Divisions derived from text's own structure
-- [x] Postures assigned (including Deliberately Unresolved and Partial)
-- [x] Landing types determined
-- [x] Series length derived from structure
-- [x] Christ is the hero of the series (not Jeremiah)
-- [x] "What Preachers Tend to Miss" section included (16 specific traps and insights)
-- [x] Sources and acknowledgements documented
-- [x] Internal consistency verified (same passage described consistently across arc map, posture map, series plan, weekly questions, and quality checks)
-
----
-
-## SOURCES AND ACKNOWLEDGEMENTS
-
-| Source                                                                                                         | Contribution                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Andrew G. Shead, *A Mouth Full of Fire: The Word of God in the Words of Jeremiah* (NSBT 29; IVP/Apollos, 2012) | Foundational structural analysis (four-movement narrative; word of the LORD as protagonist; disjunctive headings; singular/plural word distinction; camera-angle exposition; Jeremiah as embodied word); Christological trajectory; all section titles for movements 1–4; intertextual notes throughout; Mosaic parallel (following Seitz); voice-blurring in the confessions                                                                                   |
-| Stephen G. Dempster, *Dominion and Dynasty* (NSBT 15; IVP, 2003)                                               | Canonical positioning; six-verb analysis and its connection to 2 Sam 7 and Amos 9; Davidic covenant trajectory; connection of Jer 1 to 2 Kgs 25                                                                                                                                                                                                                                                                                                                 |
-| Gary Edward Schnittjer, *Old Testament Use of Old Testament: A Book-by-Book Guide* (Zondervan Academic, 2021)  | Comprehensive intertextual map; passage-level allusions with probability ratings; anti-creation oracle (4:23–28); divorce law (3:1); Branch network; Seventy-Years network; cistern and loincloth connections                                                                                                                                                                                                                                                   |
-| Wendy Widder, *Old Testament Prophets* (B&H Academic, 2026)                                                    | Historical background (three kings, three empires); Mosaic parallels; gospel connections; structural overview; sign acts; life connections                                                                                                                                                                                                                                                                                                                      |
-| James M. Hamilton Jr., *God's Glory in Salvation through Judgment* (Crossway, 2010)                            | Jeremiah 52 as vindication of true prophecy (Deut 18:21–22); skull-crushing seed language in the oracles against nations; ch. 51 and Gen 3:15                                                                                                                                                                                                                                                                                                                   |
-| P.J. Gentry & S.J. Wellum, *Kingdom through Covenant* (Crossway, 2018)                                         | Nations blessing themselves through Israel's restoration (4:2); the new covenant's implications for covenant community membership; lex talionis in 16:18; restoration language (16:16)                                                                                                                                                                                                                                                                          |
-| D.A. Carson, *Showing the Spirit* (Baker, 1987)                                                                | 31:34 — the mediated vs unmediated knowledge distinction; the nature of the new covenant community                                                                                                                                                                                                                                                                                                                                                              |
-| Avioz (noted in Jeremiah Notes)                                                                                | 52:31–34 as theological realism rather than political hope                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Christopher R. Seitz                                                                                           | The sustained Mosaic parallel in Jeremiah (two generations; intercessor forbidden; Caleb-and-Joshua equivalents; dying outside the land)                                                                                                                                                                                                                                                                                                                        |
-| Cornhill Plus Transcripts (Proclamation Trust)                                                                 | Overall framing of the book's preaching challenges; historical background reconstruction; thematic observations (turning language, false prophets, nations theme); Book of Comfort exposition; summary and purpose discussion                                                                                                                                                                                                                                   |
-| *Book in a Day: Jeremiah* (Proclamation Trust)                                                                 | Christological reading of ch. 1; four qualities of sin from chs. 2–3; new covenant exposition; field purchase sermon; Egypt as the direction of unbelief                                                                                                                                                                                                                                                                                                        |
-| Passage-level point-purpose and seven-second-sermon work (Sermons 1–14)                                        | Identified: *shama* as third structural word; 9:23–24 as positive pole of Movement 1; cistern/scroll-burning parallel; Rechabites as typological; houses-fields-vineyards echo; Egypt as anti-exodus theology; Jehoiachin's table as Eucharistic type; Psalms connections in the confessions; Day of the LORD inversion; 1:17–19 as a tracked promise; "remnant of hearers" as ecclesiological thread; 44:28 as the book's own statement of its central contest |
-
-### Further Reading for the Preacher
-
-| Topic                                     | Start Here                                                                                                                                                                                   |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The word of the LORD as protagonist       | Andrew Shead, *A Mouth Full of Fire* (the single most important book for preaching Jeremiah)                                                                                                 |
-| Historical background (kings and empires) | Wendy Widder, *Old Testament Prophets*, ch. 2                                                                                                                                                |
-| Intertextual allusions                    | Gary Schnittjer, *OTUOT*, ch. 11                                                                                                                                                             |
-| New covenant theology                     | Gentry & Wellum, *Kingdom through Covenant*, ch. on Jeremiah; Hebrews 8–10                                                                                                                   |
-| Christological reading of Jeremiah        | Shead, *A Mouth Full of Fire*, chs. 4–6; also the Cornhill Plus transcripts for a worked pastoral version                                                                                    |
-| Mosaic typology                           | Christopher Seitz, referenced in Shead; also Holladay's work on the Mosaic parallel                                                                                                          |
-| Commentary for exegesis                   | Hetty Lalleman, *Jeremiah and Lamentations* (TOTC) for accessibility; J.A. Thompson (NICOT) for detail; Christopher J.H. Wright, *The Message of Jeremiah* for pastoral-theological richness |
-
----
-
-*Book Overview: Jeremiah | Christ Church Hemel Hempstead | Compiled May 2026 | Revised following passage-level sermon work, May 2026*
-*Primary sources: Shead (A Mouth Full of Fire), Dempster (Dominion and Dynasty), Schnittjer (OTUOT), Widder (OT Prophets), Hamilton (God's Glory), Gentry & Wellum (Kingdom through Covenant), Carson (Showing the Spirit), Seitz, Cornhill Plus session transcripts*
+*Prepared with the Dig Deeper toolkit (book-overview layer). Output in three formats: `.md`, `.odt` (house style), `.html` (two-pane house layout).*
