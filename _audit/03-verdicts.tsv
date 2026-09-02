@@ -1,0 +1,617 @@
+verdict	doc	line	skeleton	ref	context
+CONFIRMED	Ezra-Nehemiah/book-overview-ezra-nehemiah.md	73	עור	Isa 45:13	the verb עוּר (stir up) alludes to Isaiah 45:13 and Haggai 1:14
+CONFIRMED	Ezra-Nehemiah/book-overview-ezra-nehemiah.md	73	עור	Hag 1:14	the verb עוּר (stir up) alludes to Isaiah 45:13 and Haggai 1:14
+FAILED	Isaiah/book-overview-isaiah.md	87	הוי	Isa 23:1	23:1), the הוֹי series (5:8–22
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	הוי	Isa 5:8	23:1), the הוֹי series (5:8–22
+FAILED	Isaiah/book-overview-isaiah.md	87	אינ	Isa 33:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+FAILED	Isaiah/book-overview-isaiah.md	87	אינ	Isa 36:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	אינ	Isa 48:22	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	אינ	Isa 57:21	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	87	שלומ	Isa 33:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	87	שלומ	Isa 36:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	שלומ	Isa 48:22	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	שלומ	Isa 57:21	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+FAILED	Isaiah/book-overview-isaiah.md	87	לרשעימ	Isa 33:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	87	לרשעימ	Isa 36:1	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	לרשעימ	Isa 48:22	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	87	לרשעימ	Isa 57:21	33:1), the change from poetry to sustained narrative at 36:1, the twice-repeated refrain **אֵין שָׁלוֹם … לָרְשָׁעִים** at 48:22 and 57:21, and the Masoretic *petuhot*
+CONFIRMED	Isaiah/book-overview-isaiah.md	101	פשעו	Isa 1:2	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED	Isaiah/book-overview-isaiah.md	101	פשעו	Isa 66:24	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	101	בי	Isa 1:2	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	101	בי	Isa 66:24	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED	Isaiah/book-overview-isaiah.md	101	הפשעימ	Isa 1:2	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED	Isaiah/book-overview-isaiah.md	101	הפשעימ	Isa 66:24	The strongest: **פָּשְׁעוּ בִי** "they have rebelled against me" (1:2) and **הַפֹּשְׁעִים בִּי** "those who rebelled against me" (66:24)
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	אינ	Isa 48:22	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	אינ	Isa 57:21	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	שלומ	Isa 48:22	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	שלומ	Isa 57:21	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	לרשעימ	Isa 48:22	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	103	לרשעימ	Isa 57:21	**Triple refrain in 40–66.** אֵין שָׁלוֹם לָרְשָׁעִים at 48:22 and 57:21
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	רמ	Isa 2:12-17	**The pulse, everywhere: high brought low, low raised high.** 2:12–17 levels all that is רָם וְנִשָּׂא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	ונשא	Isa 2:12-17	**The pulse, everywhere: high brought low, low raised high.** 2:12–17 levels all that is רָם וְנִשָּׂא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	רמ	Isa 6:1	6:1 the Lord sits on a throne רָם וְנִשָּׂא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	ונשא	Isa 6:1	6:1 the Lord sits on a throne רָם וְנִשָּׂא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	רמ	Isa 57:15	57:15 the רָם וְנִשָּׂא One dwells with the דַּכָּא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	ונשא	Isa 57:15	57:15 the רָם וְנִשָּׂא One dwells with the דַּכָּא
+CONFIRMED	Isaiah/book-overview-isaiah.md	104	דכא	Isa 57:15	57:15 the רָם וְנִשָּׂא One dwells with the דַּכָּא
+CONFIRMED	Isaiah/book-overview-isaiah.md	141	האזינו	Isa 1:2	1:2 (הַאֲזִינוּ / שִׁמְעוּ heavens-and-earth summons ≈ Deut 32:1)
+CONFIRMED	Isaiah/book-overview-isaiah.md	141	האזינו	Deut 32:1	1:2 (הַאֲזִינוּ / שִׁמְעוּ heavens-and-earth summons ≈ Deut 32:1)
+CONFIRMED	Isaiah/book-overview-isaiah.md	141	שמעו	Isa 1:2	1:2 (הַאֲזִינוּ / שִׁמְעוּ heavens-and-earth summons ≈ Deut 32:1)
+CONFIRMED	Isaiah/book-overview-isaiah.md	141	שמעו	Deut 32:1	1:2 (הַאֲזִינוּ / שִׁמְעוּ heavens-and-earth summons ≈ Deut 32:1)
+CONFIRMED	Isaiah/book-overview-isaiah.md	141	צור	Isa 8:14	the **צוּר** *Rock* motif 8:14
+UNRESOLVED-WORD	Isaiah/book-overview-isaiah.md	142	לאתהו	Isa 45:18	45:18 לֹא־תֹהוּ בְרָאָהּ (Gen 1:2 *tohu*)
+UNRESOLVED-WORD	Isaiah/book-overview-isaiah.md	142	לאתהו	Gen 1:2	45:18 לֹא־תֹהוּ בְרָאָהּ (Gen 1:2 *tohu*)
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	142	בראה	Isa 45:18	45:18 לֹא־תֹהוּ בְרָאָהּ (Gen 1:2 *tohu*)
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	142	בראה	Gen 1:2	45:18 לֹא־תֹהוּ בְרָאָהּ (Gen 1:2 *tohu*)
+CONFIRMED	Isaiah/book-overview-isaiah.md	147	חסדי	Isa 55:3	**55:3 חַסְדֵי דָוִד הַנֶּאֱמָנִים**
+CONFIRMED	Isaiah/book-overview-isaiah.md	147	דוד	Isa 55:3	**55:3 חַסְדֵי דָוִד הַנֶּאֱמָנִים**
+CONFIRMED	Isaiah/book-overview-isaiah.md	147	הנאמנימ	Isa 55:3	**55:3 חַסְדֵי דָוִד הַנֶּאֱמָנִים**
+CONFIRMED	Isaiah/book-overview-isaiah.md	147	דוד	Isa 7:2	דָּוִד is named 10× (7:2, 13
+CONFIRMED	Isaiah/book-overview-isaiah.md	148	אשמ	Isa 53:10	**53:10 אָשָׁם**
+CONFIRMED	Isaiah/book-overview-isaiah.md	148	דרור	Isa 61:1	**61:1 דְּרוֹר**
+CONFIRMED	Isaiah/book-overview-isaiah.md	151	קדוש	Isa 6:3	6:3 threefold קָדוֹשׁ
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	160	גבור	Isa 7:14	with the boundary marked.** The book presents four passages as announcing a coming figure in terms it does not apply to any contemporary: the sign-child **Immanuel** (7:14), the child whose names include אֵל גִּבּוֹר and whose government has no end (9:6–7), th
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	160	גבור	Isa 9:6-7	with the boundary marked.** The book presents four passages as announcing a coming figure in terms it does not apply to any contemporary: the sign-child **Immanuel** (7:14), the child whose names include אֵל גִּבּוֹר and whose government has no end (9:6–7), th
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	160	גבור	Isa 11:1-10	with the boundary marked.** The book presents four passages as announcing a coming figure in terms it does not apply to any contemporary: the sign-child **Immanuel** (7:14), the child whose names include אֵל גִּבּוֹר and whose government has no end (9:6–7), th
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	160	גבור	Isa 52:13	with the boundary marked.** The book presents four passages as announcing a coming figure in terms it does not apply to any contemporary: the sign-child **Immanuel** (7:14), the child whose names include אֵל גִּבּוֹר and whose government has no end (9:6–7), th
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	160	גבור	Isa 9:6	but it is a claim the book's own escalating language invites, and 9:6's אֵל גִּבּוֹר is not a title the LXX was willing to translate
+CONFIRMED	Isaiah/book-overview-isaiah.md	164	עבדי	Isa 41:8	**עַבְדִּי** singular runs from 41:8 to 53:11
+CONFIRMED	Isaiah/book-overview-isaiah.md	164	עבדי	Isa 53:11	**עַבְדִּי** singular runs from 41:8 to 53:11
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	168	שלחני	Isa 61:1	Note what 61:1 does lexically: **שְׁלָחַנִי**, "he has sent me"
+CONFIRMED	Isaiah/book-overview-isaiah.md	206	האנשימ	Isa 66:24	**66:24** הָאֲנָשִׁים **הַפֹּשְׁעִים בִּי** "the men who rebelled against me"
+CONFIRMED	Isaiah/book-overview-isaiah.md	206	הפשעימ	Isa 66:24	**66:24** הָאֲנָשִׁים **הַפֹּשְׁעִים בִּי** "the men who rebelled against me"
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	206	בי	Isa 66:24	**66:24** הָאֲנָשִׁים **הַפֹּשְׁעִים בִּי** "the men who rebelled against me"
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	207	ואשמ	Isa 66:24	**66:24** וְאִשָּׁם **לֹא תִכְבֶּה** "their fire shall not be quenched"
+CONFIRMED	Isaiah/book-overview-isaiah.md	207	תכבה	Isa 66:24	**66:24** וְאִשָּׁם **לֹא תִכְבֶּה** "their fire shall not be quenched"
+CONFIRMED	Isaiah/book-overview-isaiah.md	208	בחרתמ	Isa 1:29	**1:29** the **oaks** you desired, the **gardens** you have **chosen** (בְּחַרְתֶּם)
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	רמ	Isa 2:12-17	**2:12–17** everything **רָם וְנִשָּׂא** brought low
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	ונשא	Isa 2:12-17	**2:12–17** everything **רָם וְנִשָּׂא** brought low
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	רמ	Isa 6:1	**6:1** the Lord on a throne **רָם וְנִשָּׂא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	ונשא	Isa 6:1	**6:1** the Lord on a throne **רָם וְנִשָּׂא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	ירומ	Isa 52:13	**52:13** the Servant **יָרוּם וְנִשָּׂא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	ונשא	Isa 52:13	**52:13** the Servant **יָרוּם וְנִשָּׂא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	רמ	Isa 57:15	**57:15** the **רָם וְנִשָּׂא** One dwells with the **דַּכָּא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	ונשא	Isa 57:15	**57:15** the **רָם וְנִשָּׂא** One dwells with the **דַּכָּא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	דכא	Isa 57:15	**57:15** the **רָם וְנִשָּׂא** One dwells with the **דַּכָּא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	210	מדכא	Isa 53:5	**53:5, 10** the Servant **מְדֻכָּא**
+CONFIRMED	Isaiah/book-overview-isaiah.md	211	זרע	Isa 6:13	**6:13** "the **holy seed** (זֶרַע קֹדֶשׁ) is its **stump**"
+CONFIRMED	Isaiah/book-overview-isaiah.md	211	קדש	Isa 6:13	**6:13** "the **holy seed** (זֶרַע קֹדֶשׁ) is its **stump**"
+CONFIRMED	Isaiah/book-overview-isaiah.md	213	סריסימ	Isa 39:7	**39:7** "some of your own sons… shall be **eunuchs** (סָרִיסִים) in the palace of the king of Babylon"
+CONFIRMED	Isaiah/book-overview-isaiah.md	213	סריס	Isa 39:7	סָרִיס occurs only 3× in Isaiah (39:7
+CONFIRMED	Isaiah/book-overview-isaiah.md	216	תאמינו	Isa 7:9	**7:9** "if you are not firm in faith (תַאֲמִינוּ) you will not be firm at all (תֵאָמֵנוּ)"
+CONFIRMED	Isaiah/book-overview-isaiah.md	216	תאמנו	Isa 7:9	**7:9** "if you are not firm in faith (תַאֲמִינוּ) you will not be firm at all (תֵאָמֵנוּ)"
+CONFIRMED	Isaiah/book-overview-isaiah.md	216	המאמינ	Isa 28:16	**28:16** "the one who **believes** (הַמַּאֲמִין) will not be in haste"
+CONFIRMED	Isaiah/book-overview-isaiah.md	218	מסלה	Isa 11:16	מְסִלָּה is a whole-book thread (11:16
+CONFIRMED	Isaiah/book-overview-isaiah.md	219	תולעת	Isa 41:14	**41:14** "fear not, you **worm** (תּוֹלַעַת) Jacob"
+CONFIRMED	Isaiah/book-overview-isaiah.md	219	תולעתמ	Isa 66:24	**66:24** "their **worm** (תּוֹלַעְתָּם) shall not die"
+CONFIRMED	Isaiah/book-overview-isaiah.md	220	אילימ	Isa 1:29	**1:29** ashamed of the **oaks** (אֵילִים) that you desired
+CONFIRMED	Isaiah/book-overview-isaiah.md	220	אילי	Isa 61:3	**61:3** the redeemed called **אֵילֵי הַצֶּדֶק**, "**oaks of righteousness**, the planting of the LORD"
+CONFIRMED	Isaiah/book-overview-isaiah.md	220	הצדק	Isa 61:3	**61:3** the redeemed called **אֵילֵי הַצֶּדֶק**, "**oaks of righteousness**, the planting of the LORD"
+CONFIRMED	Isaiah/book-overview-isaiah.md	221	הנני	Isa 6:8	**6:8** Isaiah answers **הִנְנִי**
+CONFIRMED	Isaiah/book-overview-isaiah.md	221	הנני	Isa 65:1	**65:1** God says **הִנְנִי הִנְנִי**
+CONFIRMED	Isaiah/book-overview-isaiah.md	222	אשלח	Isa 6:8	**6:8** "whom shall I **send** (אֶשְׁלַח)… **send me** (שְׁלָחֵנִי)"
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	222	שלחני	Isa 6:8	**6:8** "whom shall I **send** (אֶשְׁלַח)… **send me** (שְׁלָחֵנִי)"
+CONFIRMED-SURFACE	Isaiah/book-overview-isaiah.md	222	שלחני	Isa 48:16	**48:16** "the Lord GOD **has sent me** (שְׁלָחַנִי), and his Spirit"
+CONFIRMED	Isaiah/book-overview-isaiah.md	223	אנחמ	Isa 1:24	**1:24** "Ah, I will **vent myself** (אֶנָּחֵם) on my enemies"
+CONFIRMED	Isaiah/book-overview-isaiah.md	223	אנחמ	Isa 57:6	**57:6** "Shall I **relent** (אֶנָּחֵם) for these things?"
+CONFIRMED	Isaiah/book-overview-isaiah.md	224	חרד	Isa 66:2	**66:2, 5** the one who "**trembles at my word**" (חָרֵד)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	79	הוי	Isa 55:1	55:1's הוֹי is a *gracious* summons
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	96	קדוש	Isa 1:4	**קְדוֹשׁ יִשְׂרָאֵל, the book's spine-title, has its first occurrence here (1:4)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	96	ישראל	Isa 1:4	**קְדוֹשׁ יִשְׂרָאֵל, the book's spine-title, has its first occurrence here (1:4)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	112	פשעו	Isa 43:27	` **פָּשְׁעוּ בִי** (v.2) → 43:27 → **66:24** (only three occurrences)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	112	פשעו	Isa 66:24	` **פָּשְׁעוּ בִי** (v.2) → 43:27 → **66:24** (only three occurrences)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	112	בי	Isa 43:27	` **פָּשְׁעוּ בִי** (v.2) → 43:27 → **66:24** (only three occurrences)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	112	בי	Isa 66:24	` **פָּשְׁעוּ בִי** (v.2) → 43:27 → **66:24** (only three occurrences)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	112	ואינ	Isa 66:24	**וְאֵין מְכַבֶּה** (v.31) → **66:24** *"their fire shall not be quenched"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	112	מכבה	Isa 66:24	**וְאֵין מְכַבֶּה** (v.31) → **66:24** *"their fire shall not be quenched"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	112	בחרתמ	Isa 65:12	**בְּחַרְתֶּם** *"you have chosen"* (v.29) → 65:12
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	112	אנחמ	Isa 57:6	**אֶנָּחֵם** (v.24) → 57:6 (only two occurrences of this form)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	127	רמ	Isa 2:2	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	רמ	Isa 2:12-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	רמ	Isa 2:11-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	נשא	Isa 2:2	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	נשא	Isa 2:12-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	נשא	Isa 2:11-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	127	גבה	Isa 2:2	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	גבה	Isa 2:12-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	127	גבה	Isa 2:11-17	**The unit is built as a deliberate collision: the highest mountain (2:2) against everything else that is high being brought low (2:12–17).** `[T]` Surfaced by: Structure, Repetition (רָם / נִשָּׂא / גָּבֹהַּ saturate 2:11–17), Linking Words
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	131	ביומ	Isa 2:11	**"In that day" (בַּיּוֹם הַהוּא) fires six times in 2:11–4:2 alone** `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	131	ההוא	Isa 2:11	**"In that day" (בַּיּוֹם הַהוּא) fires six times in 2:11–4:2 alone** `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	140	צמח	Isa 4:2	- **Vocabulary.** **צֶמַח יְהוָה** (4:2) "the branch of the LORD"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	140	יהוה	Isa 4:2	- **Vocabulary.** **צֶמַח יְהוָה** (4:2) "the branch of the LORD"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	144	סכה	Isa 4:6	God's presence over it, and a **סֻכָּה** (booth, 4:6) for shade
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	145	רמ	Isa 2:12-17	` 2:12–17's רָם וְנִשָּׂא → 6:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	145	רמ	Isa 6:1	` 2:12–17's רָם וְנִשָּׂא → 6:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	145	ונשא	Isa 2:12-17	` 2:12–17's רָם וְנִשָּׂא → 6:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	145	ונשא	Isa 6:1	` 2:12–17's רָם וְנִשָּׂא → 6:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	177	נס	Isa 11:10	` v.26's **נֵס** *"signal for nations far away"* → 11:10, 12
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	192	רמ	Isa 2:12-17	**The chapter's opening phrase, רָם וְנִשָּׂא, is the exact phrase 2:12–17 has just said God will destroy in every human instance
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	192	ונשא	Isa 2:12-17	**The chapter's opening phrase, רָם וְנִשָּׂא, is the exact phrase 2:12–17 has just said God will destroy in every human instance
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	236	עלמה	Isa 7:14	- **Vocabulary / Hebrew.** **עַלְמָה** *ʿalmâ* (7:14) with the **article**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	237	וקראת	Isa 7:14	*High confidence.* Note also MT **וְקָרָאת** (7:14)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	238	לכנ	Isa 8:6-7	- **Linking words.** 8:6–7 **לָכֵן**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	242	אמנ	Isa 7:9	` 7:9's **אמן** → **28:16** *"the one who believes (ha-maʾămîn) will not be in haste"*, the inscription on the foundation stone *(high)* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	242	אמנ	Isa 28:16	` 7:9's **אמן** → **28:16** *"the one who believes (ha-maʾămîn) will not be in haste"*, the inscription on the foundation stone *(high)* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	270	שאר	Isa 10:21	- **Vocabulary.** **שְׁאָר יָשׁוּב** (10:21)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	270	ישוב	Isa 10:21	- **Vocabulary.** **שְׁאָר יָשׁוּב** (10:21)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	270	גבור	Isa 7:3	Isaiah's son's name (7:3) quoted back as an oracle: *"A remnant shall return, the remnant of Jacob, to the mighty God."* `[T, high]` **אֵל גִּבּוֹר** in 10:21 is the same title given to the child at 9:6
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	270	גבור	Isa 10:21	Isaiah's son's name (7:3) quoted back as an oracle: *"A remnant shall return, the remnant of Jacob, to the mighty God."* `[T, high]` **אֵל גִּבּוֹר** in 10:21 is the same title given to the child at 9:6
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	270	גבור	Isa 9:6	Isaiah's son's name (7:3) quoted back as an oracle: *"A remnant shall return, the remnant of Jacob, to the mighty God."* `[T, high]` **אֵל גִּבּוֹר** in 10:21 is the same title given to the child at 9:6
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	293	שנית	Isa 11:11	**11:11's "a **second time**" (שֵׁנִית) is the book's first explicit new-exodus claim.** `[T]` Surfaced by: Vocabulary, Biblical Theology
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	301	חטר	Isa 11:1	- **Vocabulary / Hebrew.** **חֹטֶר** (shoot) and **נֵצֶר** (branch, 11:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	301	נצר	Isa 11:1	- **Vocabulary / Hebrew.** **חֹטֶר** (shoot) and **נֵצֶר** (branch, 11:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	301	נצר	Isa 60:21	**נֵצֶר** returns at **60:21** ("the branch of my planting") applied to *the people* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	301	נס	Isa 11:10	**נֵס** (11:10, 12) "banner/signal"
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	306	ידע	Isa 11:9	11:9's *"the earth shall be full of the knowledge of the LORD"* answers 1:3's *"Israel does not know, my people do not understand"*, the same root **ידע** *(high)* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	306	ידע	Isa 1:3	11:9's *"the earth shall be full of the knowledge of the LORD"* answers 1:3's *"Israel does not know, my people do not understand"*, the same root **ידע** *(high)* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	306	נס	Isa 11:10	11:10's **נֵס** → 49:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	306	נס	Isa 49:22	11:10's **נֵס** → 49:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	333	משא	Isa 13:1	- **Vocabulary.** **מַשָּׂא** *maśśāʾ* (13:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	333	הילל	Isa 14:12	**הֵילֵל בֶּן־שָׁחַר** (14:12)
+UNRESOLVED-WORD	Isaiah/dig-deeper-isaiah-sweep.md	333	בנשחר	Isa 14:12	**הֵילֵל בֶּן־שָׁחַר** (14:12)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	363	ביומ	Isa 19:16-24	- **Repetition.** **בַּיּוֹם הַהוּא** ×6 in 19:16–24, each opening a further stage: terror → five cities → an altar → the LORD known → a highway → the threefold blessing
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	363	ההוא	Isa 19:16-24	- **Repetition.** **בַּיּוֹם הַהוּא** ×6 in 19:16–24, each opening a further stage: terror → five cities → an altar → the LORD known → a highway → the threefold blessing
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	364	עמי	Isa 19:25	- **Vocabulary.** **עַמִּי** (19:25) "my people" applied to **Egypt**
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	368	בני	Isa 2:6	2:6 condemned Judah for striking hands with **בְּנֵי נֵכָר**
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	368	נכר	Isa 2:6	2:6 condemned Judah for striking hands with **בְּנֵי נֵכָר**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	394	צפה	Isa 21:6	- **Vocabulary.** **צֹפֶה** *ṣōp̄eh* (21:6, 8) "watchman"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	445	בלע	Isa 25:8	**25:8's "he will swallow up death forever" uses the same verb (בִּלַּע) as v.7's swallowing of the shroud
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	455	בלע	Isa 25:7	- **Vocabulary / Hebrew.** **בִּלַּע** *billaʿ* (25:7, 8)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	518	אריאל	Isa 29:1	- **Vocabulary / Hebrew.** **אֲרִיאֵל** (29:1, 2, 7)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	549	מוקדי	Isa 33:14	- **Vocabulary.** **מוֹקְדֵי עוֹלָם** (33:14) "everlasting burnings"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	549	עולמ	Isa 33:14	- **Vocabulary.** **מוֹקְדֵי עוֹלָם** (33:14) "everlasting burnings"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	549	חקק	Isa 33:22	**חֹקֵק / מְחֹקְקֵנוּ** (33:22) "lawgiver"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	549	מחקקנו	Isa 33:22	**חֹקֵק / מְחֹקְקֵנוּ** (33:22) "lawgiver"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	579	דרכ	Isa 35:8	- **Vocabulary.** **דֶּרֶךְ הַקֹּדֶשׁ** (35:8) "the Way of Holiness"
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	579	הקדש	Isa 35:8	- **Vocabulary.** **דֶּרֶךְ הַקֹּדֶשׁ** (35:8) "the Way of Holiness"
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	579	מסלה	Isa 35:8	**מְסִלָּה** (35:8) "highway"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	631	סריסימ	Isa 39:7	**39:7's "eunuchs" (סָרִיסִים) is one of only three occurrences of the word in Isaiah, and the other two are 56:3 and 56:4
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	631	סריסימ	Isa 56:3	**39:7's "eunuchs" (סָרִיסִים) is one of only three occurrences of the word in Isaiah, and the other two are 56:3 and 56:4
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	631	סריסימ	Isa 56:4	**39:7's "eunuchs" (סָרִיסִים) is one of only three occurrences of the word in Isaiah, and the other two are 56:3 and 56:4
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	סריס	Isa 39:7	- **Vocabulary.** **סָרִיס** (39:7)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	שלומ	Isa 39:8	**שָׁלוֹם וֶאֱמֶת** (39:8) "peace and security/truth"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	ואמת	Isa 39:8	**שָׁלוֹם וֶאֱמֶת** (39:8) "peace and security/truth"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	אינ	Isa 48:22	Hezekiah's last words, and the book will spend three panels saying **אֵין שָׁלוֹם לָרְשָׁעִים** (48:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	שלומ	Isa 48:22	Hezekiah's last words, and the book will spend three panels saying **אֵין שָׁלוֹם לָרְשָׁעִים** (48:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	641	לרשעימ	Isa 48:22	Hezekiah's last words, and the book will spend three panels saying **אֵין שָׁלוֹם לָרְשָׁעִים** (48:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	660	במדבר	Isa 40:3	**40:3's punctuation is the textbook case of translation-as-interpretation, and the Masoretic accents settle the Hebrew.** `[T, high]` MT reads *qôl qôrēʾ* with a **zaqef qaton** (a disjunctive accent) on *qôrēʾ*, and the parallelism is **בַּמִּדְבָּר ‖ בָּעֲר
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	660	בערבה	Isa 40:3	**40:3's punctuation is the textbook case of translation-as-interpretation, and the Masoretic accents settle the Hebrew.** `[T, high]` MT reads *qôl qôrēʾ* with a **zaqef qaton** (a disjunctive accent) on *qôrēʾ*, and the parallelism is **בַּמִּדְבָּר ‖ בָּעֲר
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	664	נחמ	Isa 1:24	**"Comfort" (נחם) has appeared only three times in chapters 1–39 (1:24
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	694	פשעו	Isa 43:27	**43:27's "your mediators **transgressed against me**" (פָּשְׁעוּ בִי) is the middle of only three occurrences of the phrase in the book
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	694	בי	Isa 43:27	**43:27's "your mediators **transgressed against me**" (פָּשְׁעוּ בִי) is the middle of only three occurrences of the phrase in the book
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	696	ראשנות	Isa 65:16-17	**The "former things / new things" disputation term (רָאשֹׁנוֹת) is confined to 41–48 and then reappears only at 65:16–17 to be cancelled.** `[T, high]` 41:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	696	ראשנות	Isa 41:22	**The "former things / new things" disputation term (רָאשֹׁנוֹת) is confined to 41–48 and then reappears only at 65:16–17 to be cancelled.** `[T, high]` 41:22
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	705	תולעת	Isa 41:14	**תּוֹלַעַת** (41:14) "worm"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	725	נשא	Isa 46:1-4	**46:1–4 is a single sustained pun on two Hebrew roots, and it is the funniest and sharpest thing in the book.** `[T, high]` The verbs **נשא** (lift/bear) and **סבל** (carry a load) are applied first to idols
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	725	סבל	Isa 46:1-4	**46:1–4 is a single sustained pun on two Hebrew roots, and it is the funniest and sharpest thing in the book.** `[T, high]` The verbs **נשא** (lift/bear) and **סבל** (carry a load) are applied first to idols
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	725	נשאתיכמ	Isa 46:1	*"your carried things (נְשֻׂאֹתֵיכֶם) are **loaded** (עֲמוּסוֹת), a burden (מַשָּׂא) to the weary beast"* (46:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	725	עמוסות	Isa 46:1	*"your carried things (נְשֻׂאֹתֵיכֶם) are **loaded** (עֲמוּסוֹת), a burden (מַשָּׂא) to the weary beast"* (46:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	725	משא	Isa 46:1	*"your carried things (נְשֻׂאֹתֵיכֶם) are **loaded** (עֲמוּסוֹת), a burden (מַשָּׂא) to the weary beast"* (46:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	727	סבל	Isa 53:4	**That same root סבל reappears only at 53:4 and 53:11
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	727	סבל	Isa 53:11	**That same root סבל reappears only at 53:4 and 53:11
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	727	סבל	Isa 9:3	סבל occurs nine times in Isaiah: 9:3
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	737	משיחו	Isa 45:1	**מְשִׁיחוֹ** (45:1)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	737	תהו	Isa 45:18	**תֹּהוּ** (45:18)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	769	מרה	Isa 50:5	- **Vocabulary / Hebrew.** **מָרָה** (50:5) "rebel"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	769	למודימ	Isa 50:4	**לִמּוּדִים** (50:4) "those who are taught / disciples"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	773	נס	Isa 49:22	49:22's *"I will raise my signal (נֵס) to the peoples"* completes the banner-reversal: the signal that summoned invaders now summons the nations to *carry Israel's children home* *(high)* `[T]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	789	נשא	Isa 52:13	**52:13's נָשָׂא does double duty, and both meanings are load-bearing in the same passage.** `[T, high]` At 52:13 the Servant is *"**high and lifted up** (יָרוּם וְנִשָּׂא)"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	789	ירומ	Isa 52:13	**52:13's נָשָׂא does double duty, and both meanings are load-bearing in the same passage.** `[T, high]` At 52:13 the Servant is *"**high and lifted up** (יָרוּם וְנִשָּׂא)"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	789	ונשא	Isa 52:13	**52:13's נָשָׂא does double duty, and both meanings are load-bearing in the same passage.** `[T, high]` At 52:13 the Servant is *"**high and lifted up** (יָרוּם וְנִשָּׂא)"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	791	אשמ	Isa 53:10	**53:10's אָשָׁם is the technical Levitical guilt-offering, applied to a person
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	791	דרור	Isa 61:1	and it is one of only two rare cultic-legal borrowings in the book's last third (the other is דְּרוֹר at 61:1).** `[T, high]` Surfaced by: Vocabulary, Biblical Theology, Move 1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	801	עורי	Isa 51:9	- **Repetition.** The threefold **עוּרִי עוּרִי / הִתְעוֹרְרִי** (51:9, 17
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	801	התעוררי	Isa 51:9	- **Repetition.** The threefold **עוּרִי עוּרִי / הִתְעוֹרְרִי** (51:9, 17
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	802	אשמ	Isa 53:10	- **Vocabulary / Hebrew.** **אָשָׁם** (53:10)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	802	דכא	Isa 53:5	**דָּכָא** "crush" (53:5, 10)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	802	דכא	Isa 57:15	and the same root at **57:15**, where the High and Lofty One dwells *"with him who is of a contrite (דַּכָּא) and lowly spirit"*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	807	רמ	Isa 52:13	52:13's רָם וְנִשָּׂא *(high)*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	807	ונשא	Isa 52:13	52:13's רָם וְנִשָּׂא *(high)*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	807	מבשר	Isa 52:7	52:7's מְבַשֵּׂר completes the herald commissioned at 40:9 *(high)*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	807	מבשר	Isa 40:9	52:7's מְבַשֵּׂר completes the herald commissioned at 40:9 *(high)*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	807	זרע	Isa 53:10	` 53:10's **זֶרַע** → 54:17
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	807	זרע	Isa 54:17	` 53:10's **זֶרַע** → 54:17
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	822	עבדי	Isa 54:17	**54:17 is the turn: עַבְדֵי יְהוָה, "the *servants* of the LORD"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	822	יהוה	Isa 54:17	**54:17 is the turn: עַבְדֵי יְהוָה, "the *servants* of the LORD"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	824	הוי	Isa 55:1	**55:1 opens with הוֹי
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	834	דכא	Isa 57:15	**דַּכָּא** (57:15)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	834	רמ	Isa 57:15	**רָם וְנִשָּׂא** (57:15)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	834	ונשא	Isa 57:15	**רָם וְנִשָּׂא** (57:15)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	835	הנחמימ	Isa 57:5	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	835	הנחמימ	Isa 57:6	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	835	הנחמימ	Isa 40:1	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	835	אנחמ	Isa 57:5	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	835	אנחמ	Isa 57:6	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	835	אנחמ	Isa 40:1	57:5's *"you who burn with lust (הַנֵּחָמִים) among the oaks"* and 57:6's *"Shall I relent (אֶנָּחֵם) for these things?"* use the same root that opens 40:1
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	835	אנחמ	Isa 1:24	**And אֶנָּחֵם occurs only twice in the book: 1:24 and 57:6.** *High confidence
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	835	אנחמ	Isa 57:6	**And אֶנָּחֵם occurs only twice in the book: 1:24 and 57:6.** *High confidence
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	839	אנחמ	Isa 57:6	57:6's אֶנָּחֵם *(moderate–high)*
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	839	רמ	Isa 57:15	57:15's רָם וְנִשָּׂא *(high)*.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	839	ונשא	Isa 57:15	57:15's רָם וְנִשָּׂא *(high)*.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	853	מפגיע	Isa 59:16	**59:16's "no one to intercede" (מַפְגִּיעַ) uses the same rare verb as 53:6 and 53:12
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	853	מפגיע	Isa 53:6	**59:16's "no one to intercede" (מַפְגִּיעַ) uses the same rare verb as 53:6 and 53:12
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	853	מפגיע	Isa 53:12	**59:16's "no one to intercede" (מַפְגִּיעַ) uses the same rare verb as 53:6 and 53:12
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	853	פגע	Isa 47:3	"the LORD laid on him the iniquity of us all" and "he makes intercession for the transgressors".** `[T, high]` The hiphil of פגע occurs five times in Isaiah (47:3
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	855	הנני	Isa 58:9	**58:9's "you shall cry, and he will say, 'Here I am' (הִנֵּנִי)" is God returning Isaiah's own answer from 6:8.** `[T, high]` Surfaced by: Move 4, Vocabulary
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	855	הנני	Isa 6:8	**58:9's "you shall cry, and he will say, 'Here I am' (הִנֵּנִי)" is God returning Isaiah's own answer from 6:8.** `[T, high]` Surfaced by: Move 4, Vocabulary
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	855	הנני	Isa 6:8	The chain runs 6:8 (the prophet says it to God) → 58:9 (God says it to a praying people) → **65:1 (God says it doubled, הִנֵּנִי הִנֵּנִי, to a nation that never asked)**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	855	הנני	Isa 58:9	The chain runs 6:8 (the prophet says it to God) → 58:9 (God says it to a praying people) → **65:1 (God says it doubled, הִנֵּנִי הִנֵּנִי, to a nation that never asked)**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	855	הנני	Isa 65:1	The chain runs 6:8 (the prophet says it to God) → 58:9 (God says it to a praying people) → **65:1 (God says it doubled, הִנֵּנִי הִנֵּנִי, to a nation that never asked)**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	865	הנ	Isa 59:1-2	- **Linking words.** 59:1–2's **הֵן… כִּי אִם**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	866	מפגיע	Isa 59:16	- **Vocabulary / Hebrew.** **מַפְגִּיעַ** (59:16)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	866	סמכ	Isa 59:16	**סָמַךְ** "uphold" (59:16)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	866	גאל	Isa 59:20	**גֹּאֵל** (59:20) "Redeemer"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	885	אילי	Isa 61:3	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	885	אילי	Isa 1:29	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	885	אילי	Isa 57:5	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	885	הצדק	Isa 61:3	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	885	הצדק	Isa 1:29	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	885	הצדק	Isa 57:5	**61:3's "oaks of righteousness" (אֵילֵי הַצֶּדֶק) redeems the word for the idolatrous oaks of 1:29 and 57:5
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	887	שלחני	Isa 61:1	**61:1's שְׁלָחַנִי, "he has sent me", is one of three occurrences of the form
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	889	נצר	Isa 60:21	**60:21's נֵצֶר "branch" is applied to *the people*, and it is one of only three occurrences
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	897	פאר	Isa 61:3	and 61:3's **פְּאֵר** ("a beautiful headdress") instead of ashes puns on the root
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	898	דרור	Isa 61:1	- **Vocabulary / Hebrew.** **דְּרוֹר** (61:1)
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	898	אשמ	Lev 25:10	the **Jubilee release-word of Leviticus 25:10**, one of only two rare cultic-legal borrowings in the book's last third (with אָשָׁם at 53:10) `[T, high]`
+NO-SUCH-VERSE	Isaiah/dig-deeper-isaiah-sweep.md	898	אשמ	Lev 53:10	the **Jubilee release-word of Leviticus 25:10**, one of only two rare cultic-legal borrowings in the book's last third (with אָשָׁם at 53:10) `[T, high]`
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	898	אילי	Isa 61:3	**אֵילֵי הַצֶּדֶק** (61:3)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	898	הצדק	Isa 61:3	**אֵילֵי הַצֶּדֶק** (61:3)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	898	נצר	Isa 60:21	**נֵצֶר** (60:21).
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	902	נס	Isa 62:10	62:10's **נֵס** and **מְסִלָּה** together, the last occurrence of each *(high)*.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	902	מסלה	Isa 62:10	62:10's **נֵס** and **מְסִלָּה** together, the last occurrence of each *(high)*.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	917	צדקתו	Isa 59:16	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	917	צדקתו	Isa 63:5	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	917	חמתי	Isa 59:16	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	917	חמתי	Isa 63:5	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	917	שממ	Isa 59:16	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	917	שממ	Isa 63:5	and the change is the point.** `[T, high]` 59:16: *"his own arm brought him salvation, and **his righteousness** (צִדְקָתוֹ) upheld him."* 63:5: *"my own arm brought me salvation, and **my wrath** (חֲמָתִי) upheld me."* The rare hitpolel of שמם ("was appalled"
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	919	הנני	Isa 65:1	**65:1's doubled הִנֵּנִי הִנֵּנִי completes the chain from 6:8 and 58:9
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	919	הנני	Isa 6:8	**65:1's doubled הִנֵּנִי הִנֵּנִי completes the chain from 6:8 and 58:9
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	919	הנני	Isa 58:9	**65:1's doubled הִנֵּנִי הִנֵּנִי completes the chain from 6:8 and 58:9
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	929	הנני	Isa 65:1	- **Vocabulary / Hebrew.** **הִנֵּנִי** (65:1)
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	929	חמר	Isa 64:8	**חֹמֶר / יֹצֵר** (64:8)
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	929	יצר	Isa 64:8	**חֹמֶר / יֹצֵר** (64:8)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	933	בחירי	Isa 65:9	65:9's **בְחִירַי** "my chosen" is **plural**, where 42:1's was singular *(high)* `[T]`.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	933	בחירי	Isa 42:1	65:9's **בְחִירַי** "my chosen" is **plural**, where 42:1's was singular *(high)* `[T]`.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	פשעימ	Isa 66:24	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	פשעימ	Isa 1:2	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	פשעימ	Isa 43:27	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	948	בי	Isa 66:24	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	948	בי	Isa 1:2	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	948	בי	Isa 43:27	**The book's last verse closes four distinct verbal circuits opened in its first chapter, and every one is lexical rather than thematic.** `[T, high]` **פֹּשְׁעִים בִּי** (66:24 ‖ 1:2, only three occurrences with 43:27)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	תכבה	Isa 1:31	**לֹא תִכְבֶּה** ‖ 1:31's **וְאֵין מְכַבֶּה**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	ואינ	Isa 1:31	**לֹא תִכְבֶּה** ‖ 1:31's **וְאֵין מְכַבֶּה**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	מכבה	Isa 1:31	**לֹא תִכְבֶּה** ‖ 1:31's **וְאֵין מְכַבֶּה**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	תולעתמ	Isa 41:14	**תּוֹלַעְתָּם** ‖ 41:14's **תּוֹלַעַת** (the only two)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	948	תולעת	Isa 41:14	**תּוֹלַעְתָּם** ‖ 41:14's **תּוֹלַעַת** (the only two)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	961	חרד	Isa 66:2	- **Vocabulary / Hebrew.** **חָרֵד** (66:2, 5)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	961	ראשנות	Isa 65:16	**רָאשֹׁנוֹת** (65:16, 17)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	984	רמ	Isa 2:12-17	2:12–17 (everything רָם וְנִשָּׂא brought low)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	984	ונשא	Isa 2:12-17	2:12–17 (everything רָם וְנִשָּׂא brought low)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	הפגיע	Isa 53:6	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	הפגיע	Isa 53:12	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	הפגיע	Isa 59:16	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	יפגיע	Isa 53:6	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	יפגיע	Isa 53:12	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	יפגיע	Isa 59:16	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	מפגיע	Isa 53:6	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	מפגיע	Isa 53:12	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1005	מפגיע	Isa 59:16	**53:6** (*"the LORD **laid on him** (הִפְגִּיעַ) the iniquity of us all"*) and **53:12** (*"he **makes intercession** (יַפְגִּיעַ) for the transgressors"*) precede **59:16** (*"he wondered that there was **no one to intercede** (מַפְגִּיעַ)"*)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	עבדי	Isa 41:8	**עַבְדִּי** singular runs 41:8 → 53:11 unbroken
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	עבדי	Isa 53:11	**עַבְדִּי** singular runs 41:8 → 53:11 unbroken
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	עבדי	Isa 56:6	has **עַבְדֵי יְהוָה**, plural, and the singular never returns (56:6
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	יהוה	Isa 56:6	has **עַבְדֵי יְהוָה**, plural, and the singular never returns (56:6
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	בחירי	Isa 65:9	`[T, high]` Confirms the overview independently, and adds the observation that **65:9's בְחִירַי "my chosen" is the plural of 42:1's singular בְּחִירִי**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1009	בחירי	Isa 42:1	`[T, high]` Confirms the overview independently, and adds the observation that **65:9's בְחִירַי "my chosen" is the plural of 42:1's singular בְּחִירִי**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 5:26	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 11:10	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 13:2	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 18:3	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 49:22	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1022	נס	Isa 62:10	נֵס: 5:26 (summons invaders) → 11:10, 12 → 13:2 → 18:3 → 49:22 (summons nations to carry Israel home) → 62:10
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1094	זרע	Isa 6:13	**Isaiah 6:13's final clause** (זֶרַע קֹדֶשׁ מַצַּבְתָּהּ)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1094	קדש	Isa 6:13	**Isaiah 6:13's final clause** (זֶרַע קֹדֶשׁ מַצַּבְתָּהּ)
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	1094	מצבתה	Isa 6:13	**Isaiah 6:13's final clause** (זֶרַע קֹדֶשׁ מַצַּבְתָּהּ)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1097	כפלימ	Isa 40:2	**Isaiah 40:2's כִּפְלַיִם "double"**
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	סכה	Isa 1:8	Beyond the four added at v0.1.1, this sweep verified: 1:8 → 4:6 (**סֻכָּה**, booth of abandonment → booth of shelter)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	סכה	Isa 4:6	Beyond the four added at v0.1.1, this sweep verified: 1:8 → 4:6 (**סֻכָּה**, booth of abandonment → booth of shelter)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	ידע	Isa 1:3	1:3 → 11:9 (**ידע**, "Israel does not know" → "the earth full of the knowledge of the LORD")
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	1123	ידע	Isa 11:9	1:3 → 11:9 (**ידע**, "Israel does not know" → "the earth full of the knowledge of the LORD")
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	נס	Isa 5:26	5:26 → 49:22 (**נֵס** reversed)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	נס	Isa 49:22	5:26 → 49:22 (**נֵס** reversed)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	סבל	Isa 46:1-4	46:1–4 → 53:4, 11 (**סבל**)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	סבל	Isa 53:4	46:1–4 → 53:4, 11 (**סבל**)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	פגע	Isa 53:6	53:6, 12 → 59:16 (**פגע**)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1123	פגע	Isa 59:16	53:6, 12 → 59:16 (**פגע**)
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1127	נשא	Isa 52:13	The sweep would state it lexically: **נָשָׂא does both jobs, and the Servant is lifted up by bearing (52:13 with 53:4, 12).** `[T, high]` That is the same claim with the evidence attached.
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1127	נשא	Isa 53:4	The sweep would state it lexically: **נָשָׂא does both jobs, and the Servant is lifted up by bearing (52:13 with 53:4, 12).** `[T, high]` That is the same claim with the evidence attached.
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	1129	רמ	Isa 41:29	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	1129	רמ	Isa 42:4	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+CONFIRMED-SURFACE	Isaiah/dig-deeper-isaiah-sweep.md	1129	רמ	Isa 42:9	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	1129	רמ	Isa 42:1-4	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	1129	ונשא	Isa 41:29	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	1129	ונשא	Isa 42:4	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+FAILED	Isaiah/dig-deeper-isaiah-sweep.md	1129	ונשא	Isa 42:9	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+CONFIRMED	Isaiah/dig-deeper-isaiah-sweep.md	1129	ונשא	Isa 42:1-4	including the 12/13 distribution, the 1↔66 inclusio, the servant/servants shift, the eunuch reversal, the רָם וְנִשָּׂא chain, the oaks chain, and the Masoretic delimitation of the Servant passages (the *petuḥot* at 41:29, 42:4 and 42:9 confirm 42:1–4
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	35	יצר	Gen 2:7	**The verb "formed" (יָצַר, v.5) is the same verb used of Adam's formation (Gen 2:7) and will return as the book's dominant image for God the potter (Jer 18).** `[T]`/`[I]` Surfaced by: Tool 7, Tool 11 Move 4 (internal echo, planted)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	151	תהו	Jer 4:23-28	**The anti-creation reversal of 4:23–28 quotes Genesis 1:2's exact, otherwise-unique phrase "without form and void" (תֹהוּ וָבֹהוּ).** `[T]` Surfaced by: Tool 11 (independent candidate-finding), Tool 9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	151	תהו	Gen 1:2	**The anti-creation reversal of 4:23–28 quotes Genesis 1:2's exact, otherwise-unique phrase "without form and void" (תֹהוּ וָבֹהוּ).** `[T]` Surfaced by: Tool 11 (independent candidate-finding), Tool 9
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	151	ובהו	Jer 4:23-28	**The anti-creation reversal of 4:23–28 quotes Genesis 1:2's exact, otherwise-unique phrase "without form and void" (תֹהוּ וָבֹהוּ).** `[T]` Surfaced by: Tool 11 (independent candidate-finding), Tool 9
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	151	ובהו	Gen 1:2	**The anti-creation reversal of 4:23–28 quotes Genesis 1:2's exact, otherwise-unique phrase "without form and void" (תֹהוּ וָבֹהוּ).** `[T]` Surfaced by: Tool 11 (independent candidate-finding), Tool 9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	176	חסד	Jer 2:2	see Headline Finding 2.* חֶסֶד (*ḥesed*, "devotion/steadfast love," 2:2)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	176	תהו	Jer 4:23	תֹהוּ וָבֹהוּ (4:23)
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	176	ובהו	Jer 4:23	תֹהוּ וָבֹהוּ (4:23)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	178	תהו	Gen 1:2	ESV, NASB, and KJV all render תֹהוּ וָבֹהוּ identically to their own Gen 1:2 renderings, correctly preserving the verbal link (a dynamic translation that varied the wording between the two passages would destroy Headline Finding 1
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	178	ובהו	Gen 1:2	ESV, NASB, and KJV all render תֹהוּ וָבֹהוּ identically to their own Gen 1:2 renderings, correctly preserving the verbal link (a dynamic translation that varied the wording between the two passages would destroy Headline Finding 1
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	178	תהו	Gen 1:2	LXX renders οὐθέν ("nothing") rather than a direct equivalent of תֹהוּ וָבֹהוּ, and does not use the same phrase LXX Gen 1:2 uses (ἀόρατος καὶ ἀκατασκεύαστος)
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	178	ובהו	Gen 1:2	LXX renders οὐθέν ("nothing") rather than a direct equivalent of תֹהוּ וָבֹהוּ, and does not use the same phrase LXX Gen 1:2 uses (ἀόρατος καὶ ἀκατασκεύαστος)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	208	תהו	Jer 4:23	תֹהוּ וָבֹהוּ (4:23, *high*)
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	208	ובהו	Jer 4:23	תֹהוּ וָבֹהוּ (4:23, *high*)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	282	בטח	Jer 7:4	Vocabulary.** בָּטַח (*batach*, "trust," 7:4, 8, 14)
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	282	ידע	Jer 9:24	יָדַע (*yada'*, "know/understand," 9:24)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	282	יצר	Jer 10:16	יָצַר (*yatsar*, "formed," 10:16, "he who formed all things")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	288	בטח	Jer 7:4	Repetition.** בָּטַח ("trust") ×3 in 7:4, 8, 14
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	296	ידע	Jer 9:24	יָדַע (9:24) reuses Jer 1:5's elective-knowing verb, now offered as the one ground of legitimate confidence
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	296	ידע	Jer 1:5	יָדַע (9:24) reuses Jer 1:5's elective-knowing verb, now offered as the one ground of legitimate confidence
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	296	יצר	Jer 10:16	יצר (10:16) continues the Jer 1:5/Jer 18 potter-thread (Tool 7).
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	296	יצר	Jer 1:5	יצר (10:16) continues the Jer 1:5/Jer 18 potter-thread (Tool 7).
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	310	שוב	Jer 8:4-5	the שׁוּב wordplay at 8:4–5 (turning away / returning, same root, opposite senses in one verse
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	בחנ	Jer 11:20	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	בחנ	Jer 12:3	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	בחנ	Jer 17:10	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	כליות	Jer 11:20	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	383	כליות	Jer 12:3	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	כליות	Jer 17:10	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	ולב	Jer 11:20	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	ולב	Jer 12:3	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	383	ולב	Jer 17:10	`[T]` the verbal formula בֹּחֵן כְּלָיֹות (וָלֵב) recurs at 11:20, 12:3, and 17:10
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	נתש	Jer 1:10	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	נתש	Jer 12:14-17	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	בנה	Jer 1:10	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	בנה	Jer 12:14-17	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	אבד	Jer 1:10	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	384	אבד	Jer 12:14-17	**The six commissioning verbs of 1:10 begin to regather here, ahead of schedule.** 12:14–17 reuses "pluck up" (נתש, three times), "build" (בנה), and "destroy" (אבד)
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	403	לכנ	Jer 11:11	Linking Words.** "לָכֵן" (therefore) recurs as the structural hinge word introducing consequence-oracles throughout (11:11, 21, 22
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	409	עקב	Jer 17:9	Vocabulary.** עָקֹב (*'aqob*, "deceitful/crooked," 17:9) is a rare root, elsewhere applied to Jacob's name-etymology wordplay (Gen 27:36, "Is he not rightly named Jacob [ya'aqob], for he has cheated [ya'qebeni] me these two times?") and to the "crooked" made s
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	409	עקב	Gen 27:36	Vocabulary.** עָקֹב (*'aqob*, "deceitful/crooked," 17:9) is a rare root, elsewhere applied to Jacob's name-etymology wordplay (Gen 27:36, "Is he not rightly named Jacob [ya'aqob], for he has cheated [ya'qebeni] me these two times?") and to the "crooked" made s
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	409	עקב	Isa 40:4	Vocabulary.** עָקֹב (*'aqob*, "deceitful/crooked," 17:9) is a rare root, elsewhere applied to Jacob's name-etymology wordplay (Gen 27:36, "Is he not rightly named Jacob [ya'aqob], for he has cheated [ya'qebeni] me these two times?") and to the "crooked" made s
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	409	אנש	Jer 17:9	אָנֻשׁ ("desperately sick / incurable," 17:9, 16) is the same root used of the "incurable wound" language recurring through the book (e.g., 15:18
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	409	אנש	Jer 15:18	אָנֻשׁ ("desperately sick / incurable," 17:9, 16) is the same root used of the "incurable wound" language recurring through the book (e.g., 15:18
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	כור	Deut 4:20	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	כור	1Kgs 8:51	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	כור	Jer 11:4	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	הברזל	Deut 4:20	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	הברזל	1Kgs 8:51	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	419	הברזל	Jer 11:4	Deut 4:20/1 Kgs 8:51 "iron furnace" (כור הברזל) → Jer 11:4.**
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	426	תהלה	Deut 26:19	> *Move 1:* Deut 26:19 is the climax of the tithe-liturgy/covenant-renewal passage: Israel is promised to be set "high above all nations that he has made, in praise (תְּהִלָּה) and in fame and in honour (וּלְשֵׁם וּלְתִפְאָרֶת)" if they keep the commandments.
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	426	ולשמ	Deut 26:19	> *Move 1:* Deut 26:19 is the climax of the tithe-liturgy/covenant-renewal passage: Israel is promised to be set "high above all nations that he has made, in praise (תְּהִלָּה) and in fame and in honour (וּלְשֵׁם וּלְתִפְאָרֶת)" if they keep the commandments.
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	426	ולתפארת	Deut 26:19	> *Move 1:* Deut 26:19 is the climax of the tithe-liturgy/covenant-renewal passage: Israel is promised to be set "high above all nations that he has made, in praise (תְּהִלָּה) and in fame and in honour (וּלְשֵׁם וּלְתִפְאָרֶת)" if they keep the commandments.
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	438	מימ	Jer 17:8	Jer 17:8 has מַיִם ..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	455	אנוש	Jer 17:9	Worth noting: אָ֣נוּשׁ ("incurable," 17:9, 16) shares its root with a recurring "incurable wound" vocabulary cluster that will resurface at 30:12, 15
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	455	אנוש	Jer 30:12	Worth noting: אָ֣נוּשׁ ("incurable," 17:9, 16) shares its root with a recurring "incurable wound" vocabulary cluster that will resurface at 30:12, 15
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	514	הרס	Jer 18:7-9	five of the six verbs, but **הָרַס ("overthrow") is absent from the Hebrew of 18:7–9 itself**, not merely from a translation
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	531	לכנ	Jer 18:13	Linking Words.** לָכֵן ("therefore") again marks the hinge from diagnosis to sentence (18:13
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	537	נשחת	Jer 18:4	Vocabulary.** נִשְׁחַת ("was spoiled/ruined," 18:4) is the same verb used of the linen loincloth "spoiled" at 13:7
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	537	נשחת	Jer 13:7	Vocabulary.** נִשְׁחַת ("was spoiled/ruined," 18:4) is the same verb used of the linen loincloth "spoiled" at 13:7
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	537	שבר	Jer 19:10-11	שָׁבַר ("break," 19:10–11) versus the potter's reworking verb עשה ("make/remake," 18:4) marks the lexical line between the two objects' fates.
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	537	שבר	Jer 18:4	שָׁבַר ("break," 19:10–11) versus the potter's reworking verb עשה ("make/remake," 18:4) marks the lexical line between the two objects' fates.
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	537	עשה	Jer 19:10-11	שָׁבַר ("break," 19:10–11) versus the potter's reworking verb עשה ("make/remake," 18:4) marks the lexical line between the two objects' fates.
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	537	עשה	Jer 18:4	שָׁבַר ("break," 19:10–11) versus the potter's reworking verb עשה ("make/remake," 18:4) marks the lexical line between the two objects' fates.
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמתי	Jer 18:8	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמתי	Jonah 3:10	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמתי	Gen 6:6	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמ	Jer 18:8	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמ	Jonah 3:10	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	565	נחמ	Gen 6:6	**Original Language Observations.** נִחַמְתִּי ("I will relent," 18:8, 10) is the same root (נחם) used of Nineveh's repentance-triggered relenting in Jonah 3:10 and of God's own "grief" language elsewhere (Gen 6:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	569	פקיד	Jer 20:1	Pashhur son of Immer (20:1) held the senior temple-security office ("chief officer," פָּקִיד נָגִיד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	569	נגיד	Jer 20:1	Pashhur son of Immer (20:1) held the senior temple-security office ("chief officer," פָּקִיד נָגִיד)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	577	פתיתני	Jer 20:7	20:7's "you have deceived me" (פִּתִּיתַנִי) uses a strong verb (elsewhere of sexual seduction, e.g., Exod 22:16) that has troubled many readers as implying God acted in bad faith toward his prophet
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	577	פתיתני	Exod 22:16	20:7's "you have deceived me" (פִּתִּיתַנִי) uses a strong verb (elsewhere of sexual seduction, e.g., Exod 22:16) that has troubled many readers as implying God acted in bad faith toward his prophet
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	622	הרס	Jer 24:6	**24:6 is the first reappearance of "overthrow" (הרס) anywhere in the book since 1:10 itself
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	622	הרס	Jer 1:10	**24:6 is the first reappearance of "overthrow" (הרס) anywhere in the book since 1:10 itself
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	622	אהרס	Jer 24:6	Here, 24:6 states "I will build them, and not overthrow (אֶהֱרֹס) them
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	625	יהוה	Jer 23:6	the Branch to come will be called יְהוָה צִדְקֵנוּ ("The LORD is our righteousness," 23:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	625	צדקנו	Jer 23:6	the Branch to come will be called יְהוָה צִדְקֵנוּ ("The LORD is our righteousness," 23:6)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	646	חותמ	Jer 22:24	Vocabulary.** חֹותָם ("signet ring," 22:24) is a term of maximal covenantal intimacy and authority (cf
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	646	צמח	Jer 23:5	צֶמַח ("Branch/sprout," 23:5) is a botanical term for new organic growth, distinct from the "tree" vocabulary of 17:8 and the vine/olive imagery of 2:21/11:16
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	646	צמח	Jer 17:8	צֶמַח ("Branch/sprout," 23:5) is a botanical term for new organic growth, distinct from the "tree" vocabulary of 17:8 and the vine/olive imagery of 2:21/11:16
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	646	צמח	Jer 2:21	צֶמַח ("Branch/sprout," 23:5) is a botanical term for new organic growth, distinct from the "tree" vocabulary of 17:8 and the vine/olive imagery of 2:21/11:16
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	646	צמח	Jer 11:16	צֶמַח ("Branch/sprout," 23:5) is a botanical term for new organic growth, distinct from the "tree" vocabulary of 17:8 and the vine/olive imagery of 2:21/11:16
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	652	עשו	Jer 21:12	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	עשו	Jer 22:3	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	עשו	Jer 22:15	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	עשו	Jer 23:5	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	משפט	Jer 21:12	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	משפט	Jer 22:3	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	משפט	Jer 22:15	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	משפט	Jer 23:5	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	וצדקה	Jer 21:12	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	וצדקה	Jer 22:3	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	וצדקה	Jer 22:15	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	652	וצדקה	Jer 23:5	Repetition.** "Do justice and righteousness" (עָשׂוּ מִשְׁפָּט וּצְדָקָה) recurs at 21:12 (implicitly, "execute justice"), 22:3, 22:15, and is finally realised only by the Branch at 23:5
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	678	צדק	Jer 23:6	**Original Language Observations.** The Hebrew of 23:6 is carefully triple-balanced with Zedekiah's own name (both built on צדק)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	734	בנה	Jer 1:10	plant gardens" repurposes two of the six commissioning verbs from 1:10 as a positive command given directly to the people, for the first time in the book.** Previously "build" (בנה) and "plant" (נטע) have appeared only as divine first-person action (12:16
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	734	בנה	Jer 12:16	plant gardens" repurposes two of the six commissioning verbs from 1:10 as a positive command given directly to the people, for the first time in the book.** Previously "build" (בנה) and "plant" (נטע) have appeared only as divine first-person action (12:16
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	734	נטע	Jer 1:10	plant gardens" repurposes two of the six commissioning verbs from 1:10 as a positive command given directly to the people, for the first time in the book.** Previously "build" (בנה) and "plant" (נטע) have appeared only as divine first-person action (12:16
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	734	נטע	Jer 12:16	plant gardens" repurposes two of the six commissioning verbs from 1:10 as a positive command given directly to the people, for the first time in the book.** Previously "build" (בנה) and "plant" (נטע) have appeared only as divine first-person action (12:16
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	755	משא	Jer 23:33-38	Vocabulary.** מַשָּׂא ("burden," also "oracle," 23:33–38 in §6, recalled implicitly here) is not repeated in this division, but note עֹ֣ל ("yoke," 27:2
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	755	משא	Jer 27:2	Vocabulary.** מַשָּׂא ("burden," also "oracle," 23:33–38 in §6, recalled implicitly here) is not repeated in this division, but note עֹ֣ל ("yoke," 27:2
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	761	שבעימ	Jer 25:11-12	Repetition.** "Seventy years" (שִׁבְעִים שָׁנָה) recurs at 25:11–12 and 29:10, framing the division as its own inclusio around the deportation's duration
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	761	שבעימ	Jer 29:10	Repetition.** "Seventy years" (שִׁבְעִים שָׁנָה) recurs at 25:11–12 and 29:10, framing the division as its own inclusio around the deportation's duration
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	761	שנה	Jer 25:11-12	Repetition.** "Seventy years" (שִׁבְעִים שָׁנָה) recurs at 25:11–12 and 29:10, framing the division as its own inclusio around the deportation's duration
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	761	שנה	Jer 29:10	Repetition.** "Seventy years" (שִׁבְעִים שָׁנָה) recurs at 25:11–12 and 29:10, framing the division as its own inclusio around the deportation's duration
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	795	אחרית	Jer 29:11	**Original Language Observations.** אַחֲרִית וְתִקְוָה ("a future and a hope," 29:11) pairs a term used elsewhere in the book for a nation's ultimate fate/end (cf
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	795	ותקוה	Jer 29:11	**Original Language Observations.** אַחֲרִית וְתִקְוָה ("a future and a hope," 29:11) pairs a term used elsewhere in the book for a nation's ultimate fate/end (cf
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	795	תקוה	Jer 12:4	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	795	תקוה	Jer 14:8	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	795	קוה	Jer 12:4	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	795	קוה	Jer 14:8	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	795	מקוה	Jer 12:4	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	795	מקוה	Jer 14:8	12:4) with תִּקְוָה ("hope"), itself built on the same root as קוה ("wait for/hope in," used of God as Israel's "hope," מִקְוֵה, at 14:8
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	852	בנה	Jer 1:10	to build (בנה) and to plant (נטע)." All six of 1:10's original verbs are present
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	852	נטע	Jer 1:10	to build (בנה) and to plant (נטע)." All six of 1:10's original verbs are present
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	854	ברית	Jer 31:31-34	**31:31–34's "new covenant" (בְּרִית חֲדָשָׁה) is a hapax legomenon
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	854	חדשה	Jer 31:31-34	**31:31–34's "new covenant" (בְּרִית חֲדָשָׁה) is a hapax legomenon
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	856	צמח	Jer 23:5-6	9) sits alongside, but is verbally distinct from, the "Branch" title-track established at 23:5–6 (§6).** This division uses direct dynastic-name language ("David") rather than the "Branch" (צֶמַח) title
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	870	עוד	Jer 31:4-5	Linking Words.** "עוֹד" ("again/still") repeats insistently through 31:4–5, 23
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	876	שוב	Jer 30:3	שׁוּב (return/restore) saturates the division in its intensive form שׁוּב שְׁבוּת ("restore the fortunes," 30:3, 18
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	876	שבות	Jer 30:3	שׁוּב (return/restore) saturates the division in its intensive form שׁוּב שְׁבוּת ("restore the fortunes," 30:3, 18
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	911	בעלתי	Jer 31:32	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	911	בעלתי	Jer 2:23	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	911	במ	Jer 31:32	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	911	במ	Jer 2:23	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	911	בעל	Jer 31:32	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	911	בעל	Jer 2:23	**Original Language Observations.** בָּעַלְתִּי בָם ("I was their husband," 31:32) reuses the same root (בעל) that names the god Baal throughout the book (2:23
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	923	נקבה	Jer 31:22	**Difficult/Contested Verses.** 31:22's "a woman shall encircle/surround a man" (נְקֵבָה תְּסֹובֵב גָּבֶר) is among the most disputed textual cruces in the OT
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	923	תסובב	Jer 31:22	**Difficult/Contested Verses.** 31:22's "a woman shall encircle/surround a man" (נְקֵבָה תְּסֹובֵב גָּבֶר) is among the most disputed textual cruces in the OT
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	923	גבר	Jer 31:22	**Difficult/Contested Verses.** 31:22's "a woman shall encircle/surround a man" (נְקֵבָה תְּסֹובֵב גָּבֶר) is among the most disputed textual cruces in the OT
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	960	פלא	Jer 32:24-25	פלא ("be too difficult/wonderful") frames a prayer-and-answer exchange in which God does not correct Jeremiah's theology but confirms it, then applies it to the specific, present, visible catastrophe Jeremiah has just described in painful detail (32:24–25).
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	964	שדות	Jer 32:15	32:15's שָׂדֹות בַּכֶּסֶף..
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	964	בכספ	Jer 32:15	32:15's שָׂדֹות בַּכֶּסֶף..
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	977	פלא	Jer 32:1	Structure.** Two matched movements: 32:1–15 (narrated sign-act) is followed by 32:16–44 (Jeremiah's prayer of protest/confusion and the LORD's reply, itself structured as objection-then-resolution around the shared פלא vocabulary of Headline Finding 2)
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	977	פלא	Jer 32:16	Structure.** Two matched movements: 32:1–15 (narrated sign-act) is followed by 32:16–44 (Jeremiah's prayer of protest/confusion and the LORD's reply, itself structured as objection-then-resolution around the shared פלא vocabulary of Headline Finding 2)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	985	גאלה	Jer 32:7-8	Vocabulary.** גְּאֻלָּה ("right of redemption," 32:7–8)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	985	צמח	Jer 33:15	צֶמַח ("Branch," 33:15)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	985	משפחות	Jer 33:24	מִשְׁפָּחוֹת ("families/clans," 33:24)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	בתימ	Jer 32:15	32:15: בָתִּים וְשָׂדֹות וּכְרָמִים ("houses and fields and vineyards")
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	ושדות	Jer 32:15	32:15: בָתִּים וְשָׂדֹות וּכְרָמִים ("houses and fields and vineyards")
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	וכרמימ	Jer 32:15	32:15: בָתִּים וְשָׂדֹות וּכְרָמִים ("houses and fields and vineyards")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	ולבלתי	Jer 35:9	35:9: וּלְבִלְתִּי בְּנֹות בָּתִּים..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	בנות	Jer 35:9	35:9: וּלְבִלְתִּי בְּנֹות בָּתִּים..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1069	בתימ	Jer 35:9	35:9: וּלְבִלְתִּי בְּנֹות בָּתִּים..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1086	הקימו	Jer 35:14	Linking Words.** 35:14, 16: "כִּי הֵקִימוּ..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1092	דרור	Jer 34:8	Vocabulary.** דְּרֹור ("liberty/release," 34:8, 15, 17 ×3)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1126	כרת	Jer 34:8	כָּרַת בְּרִית ("cut a covenant," 34:8, 13, 15, 18)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1126	ברית	Jer 34:8	כָּרַת בְּרִית ("cut a covenant," 34:8, 13, 15, 18)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1126	כרת	Jer 34:18	the verb כרת ("cut") is the same root used of the calf's cutting in 34:18, making the judgment a grim pun on the covenant-making language itself: they "cut" a covenant, and are threatened with becoming like the thing that was cut
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1176	בור	Jer 38:6	**Jeremiah's own cistern (38:6, בּוֹר) directly picks up the root of the book's founding diagnostic image
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1176	בארת	Jer 2:13	the "broken cisterns" (בֹּארֹת, 2:13) Judah dug for itself instead of the fountain of living water
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	נצל	Jer 39:15-18	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	נצל	Jer 1:8	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	אתכ	Jer 39:15-18	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	אתכ	Jer 1:8	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	אני	Jer 39:15-18	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	אני	Jer 1:8	**Ebed-Melech's deliverance oracle (39:15–18) shares its key verb root (נצל, "deliver/rescue") with the book's opening inclusio (1:8, 19) but does not reproduce that formula's distinctive "I am with you" (אִתְּךָ אֲנִי) clause
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	כיאתכ	Jer 1:8	1:8/19: "כִּי־אִתְּךָ אֲנִי לְהַצִּלֶךָ" ("for I am with you, to deliver you")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	אני	Jer 1:8	1:8/19: "כִּי־אִתְּךָ אֲנִי לְהַצִּלֶךָ" ("for I am with you, to deliver you")
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	להצלכ	Jer 1:8	1:8/19: "כִּי־אִתְּךָ אֲנִי לְהַצִּלֶךָ" ("for I am with you, to deliver you")
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	1178	והצלתיכ	Jer 39:17-18	39:17–18: "וְהִצַּלְתִּיךָ..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1194	שמענא	Jer 38:20	Linking Words.** 38:20: "שְׁמַע־נָא בְּקֹול יְהוָה..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1194	בקול	Jer 38:20	Linking Words.** 38:20: "שְׁמַע־נָא בְּקֹול יְהוָה..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1194	יהוה	Jer 38:20	Linking Words.** 38:20: "שְׁמַע־נָא בְּקֹול יְהוָה..
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1194	בטחת	Jer 39:18	39:18: "כִּי בָטַחְתָּ בִּי" ("because you have trusted in me")
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	1194	בי	Jer 39:18	39:18: "כִּי בָטַחְתָּ בִּי" ("because you have trusted in me")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1200	בור	Jer 38:6	Vocabulary.** בּוֹר ("cistern/pit," 38:6, 9–13)
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1200	נצל	Jer 39:17-18	נצל ("deliver/rescue," 39:17–18)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1206	מלט	Jer 39:17-18	see Headline Finding 3, doubled within 39:17–18 itself via the infinitive-absolute construction (מַלֵּט אֲמַלֶּטְךָ, "I will surely, surely deliver you"
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1206	אמלטכ	Jer 39:17-18	see Headline Finding 3, doubled within 39:17–18 itself via the infinitive-absolute construction (מַלֵּט אֲמַלֶּטְךָ, "I will surely, surely deliver you"
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1238	בטח	Jer 39:18	Ebed-Melech's oracle (39:18) makes trust (בטח) the explicit ground of deliverance, the same root already tracked as a structural refrain in §3 (7:4, 8, 14)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1238	בטח	Jer 7:4	Ebed-Melech's oracle (39:18) makes trust (בטח) the explicit ground of deliverance, the same root already tracked as a structural refrain in §3 (7:4, 8, 14)
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1258	נצל	Jer 39:18	Text-first verification (Headline Finding 3) confirms a genuine, intensified verbal echo (the shared נצל root, doubled at 39:18) but finds that the specific "I am with you" clause central to 1:8/19's own wording is not itself repeated at 39:17–18
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1258	נצל	Jer 1:8	Text-first verification (Headline Finding 3) confirms a genuine, intensified verbal echo (the shared נצל root, doubled at 39:18) but finds that the specific "I am with you" clause central to 1:8/19's own wording is not itself repeated at 39:17–18
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1258	נצל	Jer 39:17-18	Text-first verification (Headline Finding 3) confirms a genuine, intensified verbal echo (the shared נצל root, doubled at 39:18) but finds that the specific "I am with you" clause central to 1:8/19's own wording is not itself repeated at 39:17–18
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1283	מפ	Jer 2:16	2:16: "מֹף וְתַחְפַּנְחֵס" (Memphis and Tahpanhes
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1283	ותחפנחס	Jer 2:16	2:16: "מֹף וְתַחְפַּנְחֵס" (Memphis and Tahpanhes
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1284	בור	Jer 2:13	**The cistern (בּוֹר) motif tracked since 2:13/38:6 (§11) recurs a third time at 41:7, 9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1284	בור	Jer 38:6	**The cistern (בּוֹר) motif tracked since 2:13/38:6 (§11) recurs a third time at 41:7, 9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1284	בור	Jer 41:7	**The cistern (בּוֹר) motif tracked since 2:13/38:6 (§11) recurs a third time at 41:7, 9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	מלכת	Jer 44:15-19	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	מלכת	Jer 7:18	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	מלכת	Jer 44:17-18	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	השמימ	Jer 44:15-19	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	השמימ	Jer 7:18	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1288	השמימ	Jer 44:17-18	**44:15–19's "queen of heaven" worship (מְלֶכֶת הַשָּׁמַיִם) is an explicit, named continuation of the practice condemned at 7:18 (§3), and the remnant's own stated theology (44:17–18) directly inverts Jeremiah's entire message in their own words
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	1302	אמטוב	Jer 42:6	Linking Words.** 42:6: "אִם־טֹוב וְאִם־רָע" ("whether it is good or bad")
+UNRESOLVED-WORD	Jeremiah/dig-deeper-jeremiah-sweep.md	1302	ואמרע	Jer 42:6	Linking Words.** 42:6: "אִם־טֹוב וְאִם־רָע" ("whether it is good or bad")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1302	נשמע	Jer 44:16	44:16: "לֹא נִשְׁמַע אֵלֶיךָ" ("we will not listen to you")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1302	אליכ	Jer 44:16	44:16: "לֹא נִשְׁמַע אֵלֶיךָ" ("we will not listen to you")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1308	שארית	Jer 42:15	שְׁאֵרִית ("remnant," repeated throughout 40–44, e.g., 42:15, 19
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1346	הושיע	Jer 42:11	The paired synonyms הֹושִׁיעַ/הַצִּיל ("save"/"deliver," 42:11)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1346	הציל	Jer 42:11	The paired synonyms הֹושִׁיעַ/הַצִּיל ("save"/"deliver," 42:11)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1396	נפשכ	Jer 21:9	The same phrase (נַפְשְׁךָ לְשָׁלָל, "your life as spoil/prize") that marks the bare minimum offered to besieged deserters (21:9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1396	לשלל	Jer 21:9	The same phrase (נַפְשְׁךָ לְשָׁלָל, "your life as spoil/prize") that marks the bare minimum offered to besieged deserters (21:9
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1398	ברית	Jer 32:40	בְּרִית עוֹלָם ("everlasting covenant") is the identical phrase used at 32:40 (§9) for the covenant God will make that will "not turn away from doing good to them"
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1398	עולמ	Jer 32:40	בְּרִית עוֹלָם ("everlasting covenant") is the identical phrase used at 32:40 (§9) for the covenant God will make that will "not turn away from doing good to them"
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	ואתה	Jer 45:5	Linking Words.** 45:5's "וְאַתָּה תְּבַקֶּשׁ־לְךָ גְדֹלֹות" ("and do you seek great things for yourself?")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	תבקשלכ	Jer 45:5	Linking Words.** 45:5's "וְאַתָּה תְּבַקֶּשׁ־לְךָ גְדֹלֹות" ("and do you seek great things for yourself?")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	גדלות	Jer 45:5	Linking Words.** 45:5's "וְאַתָּה תְּבַקֶּשׁ־לְךָ גְדֹלֹות" ("and do you seek great things for yourself?")
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	הנה	Jer 48:12	46–51, "הִנֵּה יָמִים בָּאִים" ("behold, the days are coming") recurs as the standard formula introducing each nation's eventual restoration clause (48:12
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	ימימ	Jer 48:12	46–51, "הִנֵּה יָמִים בָּאִים" ("behold, the days are coming") recurs as the standard formula introducing each nation's eventual restoration clause (48:12
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1415	באימ	Jer 48:12	46–51, "הִנֵּה יָמִים בָּאִים" ("behold, the days are coming") recurs as the standard formula introducing each nation's eventual restoration clause (48:12
+FAILED	Jeremiah/dig-deeper-jeremiah-sweep.md	1421	שארית	Jer 48:47	Moab's oracle uses שְׁאֵרִית ("remnant") of Moab's own future in the same term applied to Judah's surviving community elsewhere in the book (48:47's echo of the "remnant" vocabulary tracked in §12)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1584	הרע	Jer 31:28	all six converging, plus a seventh term (הרע, "harm"), at 31:28 (§8)
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1600	צמח	Jer 23:5-6	The Branch/David dual-track messianic language: two vocabularies converging on one hope.** The title track ("righteous Branch," צֶמַח, 23:5–6, §6) and the name track ("David their king," 30:9, §8) run in parallel before merging into a king-priest pairing at 33
+CONFIRMED-SURFACE	Jeremiah/dig-deeper-jeremiah-sweep.md	1600	צמח	Jer 30:9	The Branch/David dual-track messianic language: two vocabularies converging on one hope.** The title track ("righteous Branch," צֶמַח, 23:5–6, §6) and the name track ("David their king," 30:9, §8) run in parallel before merging into a king-priest pairing at 33
+CONFIRMED	Jeremiah/dig-deeper-jeremiah-sweep.md	1600	צמח	Jer 33:14-18	The Branch/David dual-track messianic language: two vocabularies converging on one hope.** The title track ("righteous Branch," צֶמַח, 23:5–6, §6) and the name track ("David their king," 30:9, §8) run in parallel before merging into a king-priest pairing at 33
+CONFIRMED	Proverbs/book-overview-proverbs.md	233	צרפ	Prov 30:5-6	**30:5–6 quotes Ps 18:31 + Deut 4:2.** √צרף (17:3
+CONFIRMED	Proverbs/book-overview-proverbs.md	233	צרפ	Ps 18:31	**30:5–6 quotes Ps 18:31 + Deut 4:2.** √צרף (17:3
+FAILED	Proverbs/book-overview-proverbs.md	233	צרפ	Deut 4:2	**30:5–6 quotes Ps 18:31 + Deut 4:2.** √צרף (17:3
+FAILED	Proverbs/book-overview-proverbs.md	233	צרפ	Deut 17:3	**30:5–6 quotes Ps 18:31 + Deut 4:2.** √צרף (17:3
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	ועתה	Prov 5:7	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	ועתה	Prov 7:24	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	ועתה	Prov 8:32	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	בנימ	Prov 5:7	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	בנימ	Prov 7:24	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	בנימ	Prov 8:32	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	שמעולי	Prov 5:7	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	שמעולי	Prov 7:24	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-1-8to9-18.md	483	שמעולי	Prov 8:32	- ~~The *wĕʿattâ bānîm šimʿû-lî* identity at 5:7, 7:24, 8:32 (Headline 2 rests on it).~~ **Confirmed 15 August, and more strongly than hoped.** The A-line is *verbatim identical* at all three verses, down to the accents: וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ־לִ֑י
+CONFIRMED	Proverbs/dig-deeper-proverbs-25-1to27-27.md	27	שנאכ	Exod 23:5	Exod 23:5 commands help for the beast of **שֹׂנַאֲךָ**
+CONFIRMED	Proverbs/dig-deeper-proverbs-25-1to27-27.md	597	שנאכ	Exod 23:5	*The chain.* Exodus 23:5 commands help for the donkey of **שֹׂנַאֲךָ**, "the one who hates you", inside the Covenant Code's block of courtroom law (23:1–9)
+CONFIRMED	Proverbs/dig-deeper-proverbs-25-1to27-27.md	597	שנאכ	Exod 23:1-9	*The chain.* Exodus 23:5 commands help for the donkey of **שֹׂנַאֲךָ**, "the one who hates you", inside the Covenant Code's block of courtroom law (23:1–9)
+CONFIRMED	Proverbs/dig-deeper-proverbs-25-1to27-27.md	1083	שנאכ	Exod 23:5	Exod 23:5 and Prov 25:21 both read **שֹׂנַאֲךָ**, the identical inflected form
+CONFIRMED	Proverbs/dig-deeper-proverbs-25-1to27-27.md	1083	שנאכ	Prov 25:21	Exod 23:5 and Prov 25:21 both read **שֹׂנַאֲךָ**, the identical inflected form
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	327	נאמ	Prov 30:1	**נְאֻם הַגֶּבֶר *nəʾum haggeber*, "the man declares" (30:1).** `[T]` on the occurrences
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	327	הגבר	Prov 30:1	**נְאֻם הַגֶּבֶר *nəʾum haggeber*, "the man declares" (30:1).** `[T]` on the occurrences
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	372	יכל	Josh 7:12	and Ansberry, who argues the defective form of √יכל occurs at Josh 7:12, Ps 18:39 and Jer 20:11
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	372	יכל	Ps 18:39	and Ansberry, who argues the defective form of √יכל occurs at Josh 7:12, Ps 18:39 and Jer 20:11
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	372	יכל	Jer 20:11	and Ansberry, who argues the defective form of √יכל occurs at Josh 7:12, Ps 18:39 and Jer 20:11
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	452	שתה	Prov 31:4-7	**And the whole complex terminates in drinking.** 31:4–7 has √שׁתה four times (*šətô*, *yišteh*, *yišteh*, plus the imperative *tənû* governing the drink), plus *yayin* twice and *šēkār* twice
+CONFIRMED-SURFACE	Proverbs/dig-deeper-proverbs-30-1to31-9.md	605	יסר	Prov 1:8	*ʾăšer-yissərattû ʾimmô*, √יסר, the verb behind 1:8's *mûsar*.** `[T]` **The maternal instruction promised in the book's first appeal is delivered in its last.** And note what has happened in between: at 30:11 a generation *curses* its father and will not bles
+FAILED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	605	יסר	Prov 30:11	*ʾăšer-yissərattû ʾimmô*, √יסר, the verb behind 1:8's *mûsar*.** `[T]` **The maternal instruction promised in the book's first appeal is delivered in its last.** And note what has happened in between: at 30:11 a generation *curses* its father and will not bles
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	729	בר	Prov 31:1-9	- **The Aramaisms of 31:1–9 cluster, and they are concentrated in three verses.** `[T]` **בַּר *bar*** for "son" appears **three times in 31:2** where Hebrew would have *bēn*
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	729	בר	Prov 31:2	- **The Aramaisms of 31:1–9 cluster, and they are concentrated in three verses.** `[T]` **בַּר *bar*** for "son" appears **three times in 31:2** where Hebrew would have *bēn*
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	729	מלכינ	Prov 31:3	**מְלָכִין *məlākîn*** at 31:3 carries the Aramaic masculine plural *-în* for Hebrew *-îm*
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	737	נשא	Prov 30:13	- **The √נשׂא chain (30:13, 21, 32)**
+CONFIRMED	Proverbs/dig-deeper-proverbs-30-1to31-9.md	1133	צרפ	Prov 25:4	the √צרף inclusio at 25:4 ∥ 27:21
+CONFIRMED-SURFACE	Proverbs/dig-deeper-proverbs-30-1to31-9.md	1133	צרפ	Prov 27:21	the √צרף inclusio at 25:4 ∥ 27:21
+CONFIRMED	Proverbs/dig-deeper-proverbs-sweep.md	1685	אכל	Prov 30:14	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1685	אכל	Prov 30:9	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+CONFIRMED-SURFACE	Proverbs/dig-deeper-proverbs-sweep.md	1685	אכל	Prov 31:4-7	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שבע	Prov 30:14	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+CONFIRMED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שבע	Prov 30:9	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שבע	Prov 31:4-7	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שתה	Prov 30:14	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שתה	Prov 30:9	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+CONFIRMED	Proverbs/dig-deeper-proverbs-sweep.md	1685	שתה	Prov 31:4-7	> - **The section's subject is appetite**, carried by √אכל (30:14 → 17 → 20, one per paragraph across three paragraphs), √שׂבע (30:9, 15, 16, 22) and √שׁתה (31:4–7)
+CONFIRMED	Proverbs/dig-deeper-proverbs-sweep.md	1686	צרפ	Prov 30:5	> - **√צרף reaches its object at 30:5**
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1798	דינ	Prov 1:7	**דין עני ואביון**, three words verbatim, and Jeremiah's verse defines doing it as *"knowing me."* Read against 1:7's *daʿat*, the book's last instruction is what knowing God looks like in someone with power
+FAILED	Proverbs/dig-deeper-proverbs-sweep.md	1798	עני	Prov 1:7	**דין עני ואביון**, three words verbatim, and Jeremiah's verse defines doing it as *"knowing me."* Read against 1:7's *daʿat*, the book's last instruction is what knowing God looks like in someone with power
+CONFIRMED-SURFACE	Proverbs/dig-deeper-proverbs-sweep.md	1798	ואביונ	Prov 1:7	**דין עני ואביון**, three words verbatim, and Jeremiah's verse defines doing it as *"knowing me."* Read against 1:7's *daʿat*, the book's last instruction is what knowing God looks like in someone with power
+CONFIRMED	Proverbs/point-purpose-proverbs-1-1to7.md	88	ראשית	Prov 1:7	the book distinguishes the two ideas rather than confusing them.* **✅ Confirmed against BHS, 21 August:** 1:7 reads **רֵאשִׁית**, 9:10 reads **תְּחִלַּת**
+FAILED	Proverbs/point-purpose-proverbs-1-1to7.md	88	ראשית	Prov 9:10	the book distinguishes the two ideas rather than confusing them.* **✅ Confirmed against BHS, 21 August:** 1:7 reads **רֵאשִׁית**, 9:10 reads **תְּחִלַּת**
+FAILED	Proverbs/point-purpose-proverbs-1-1to7.md	88	תחלת	Prov 1:7	the book distinguishes the two ideas rather than confusing them.* **✅ Confirmed against BHS, 21 August:** 1:7 reads **רֵאשִׁית**, 9:10 reads **תְּחִלַּת**
+CONFIRMED	Proverbs/point-purpose-proverbs-1-1to7.md	88	תחלת	Prov 9:10	the book distinguishes the two ideas rather than confusing them.* **✅ Confirmed against BHS, 21 August:** 1:7 reads **רֵאשִׁית**, 9:10 reads **תְּחִלַּת**
+CONFIRMED-SURFACE	Proverbs/point-purpose-proverbs-30-1to31-9.md	138	יסר	Prov 1:8	*"an oracle that his mother **taught** him"* is *yissərattû*, **√יסר, the verb behind 1:8's *mûsar***, so the book's last teacher is doing what its opening verse asked for
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	98	יסר	Prov 31:1	**31:1** *"an oracle **that his mother taught him**" (√יסר)* → **31:26** *"the **teaching of kindness** (*tôrat-ḥesed*) is on her tongue"*
+FAILED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	98	יסר	Prov 31:26	**31:1** *"an oracle **that his mother taught him**" (√יסר)* → **31:26** *"the **teaching of kindness** (*tôrat-ḥesed*) is on her tongue"*
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	ויפק	Prov 8:35	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	ויפק	Prov 18:22	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	רצונ	Prov 8:35	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	רצונ	Prov 18:22	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	מיהוה	Prov 8:35	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED	Proverbs/proverbs-dig-deeper-macro-synthesis.md	101	מיהוה	Prov 18:22	וַיָּפֶק רָצוֹן מֵיְהוָה identical to the accents at 8:35 and 18:22
+CONFIRMED-SURFACE	Proverbs/proverbs-dig-deeper-macro-synthesis.md	139	צרפ	Prov 17:3	- **And a metallurgical thread runs to the same terminus.** √צרף occurs in Proverbs at **17:3
+CONFIRMED	Proverbs/proverbs-logos-research-audit-21-august.md	172	צפנ	Prov 2:1	> **NET:** "The verbal root צָפַן is repeated in 2:1 and 2:7
+CONFIRMED	Proverbs/proverbs-logos-research-audit-21-august.md	172	צפנ	Prov 2:7	> **NET:** "The verbal root צָפַן is repeated in 2:1 and 2:7
+CONFIRMED	Ruth/book-overview-ruth.md	71	שדה	Ruth 1:1	שָׂדֶה *śādeh*, "field".** Naomi's family goes to *the fields of Moab* (1:1, 2, 6, 22
+CONFIRMED	Ruth/book-overview-ruth.md	73	ילד	Ruth 1:5	יֶלֶד *yeled*, "child".** At the point of maximal loss the narrator drops "Naomi" and drops "sons": *wattiššāʾēr hāʾiššāh miššənê yəlādêhā*, "**the woman** was left from her two **children**" (1:5)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-15-22to17-16.md	690	שבת	Exod 16:23	**⭐ NOW CONFIRMED from a concordance:** *"Exodus 16:23 is the first occurrence of the nouns שַׁבָּת and שַׁבָּתוֹן in Exodus
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-15-22to17-16.md	690	שבתונ	Exod 16:23	**⭐ NOW CONFIRMED from a concordance:** *"Exodus 16:23 is the first occurrence of the nouns שַׁבָּת and שַׁבָּתוֹן in Exodus
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	190	קדש	Exod 19:10	קָדַשׁ (19:10, 14, 22, 23)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	191	פרצ	Exod 19:22	פָּרַץ (19:22, 24)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	192	ירד	Exod 19:11	יָרַד (19:11, 18, 20)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	193	ערפל	Exod 20:21	עֲרָפֶל (20:21)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	194	ירא	Exod 20:18	יָרֵא / יִרְאָה (20:18, 20)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	194	יראה	Exod 20:18	יָרֵא / יִרְאָה (20:18, 20)
+CONFIRMED	Torah/Exodus/dig-deeper-exodus-19-9to20-21.md	195	רצח	Exod 20:13	רָצַח (20:13)
+CONFIRMED	Torah/Genesis/book-overview-genesis.md	620	כבש	Gen 1:28	Gen 1:28 (כָּבַשׁ)

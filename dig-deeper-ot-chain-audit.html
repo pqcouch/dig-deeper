@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Old Testament Chain Audit</title>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#old-testament-chain-audit">Old Testament Chain Audit</a></li>
+    <li><a href="#headline-findings">Headline findings</a></li>
+    <li><a href="#what-was-checked">What was checked</a></li>
+    <li><a href="#the-four-confirmed-errors">The four confirmed errors</a></li>
+    <li><a href="#one-real-but-nuanced-case">One real but nuanced case</a></li>
+    <li><a href="#what-the-failures-were-not">What the failures were not</a></li>
+    <li><a href="#limitations-what-this-audit-does-not-cover">Limitations — what this audit does not cover</a></li>
+    <li><a href="#what-this-means-for-revisiting-the-digs">What this means for revisiting the digs</a></li>
+    <li><a href="#reproducing-this">Reproducing this</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="old-testament-chain-audit">Old Testament Chain Audit</h1>
+<p><strong>Mode:</strong> Claim Audit — mechanical verification of verbal-chain claims against the primary text <strong>Date:</strong> 2 September 2026 <strong>Scope:</strong> all 124 Old Testament markdown documents in the Dig Deeper folder <strong>Substrate:</strong> <code>_texts/hebrew-wlc/</code> (Westminster Leningrad Codex with lemma index), built 2 September 2026 <strong>Method:</strong> every Hebrew-script word paired with the verse references standing in its own clause or table cell was checked, by lemma, at each reference claimed for it.</p>
+<hr />
+<h2 id="headline-findings">Headline findings</h2>
+<p><strong>1. Four confirmed errors, and every one of them is in the same document</strong> — <code>dig-deeper-jeremiah-sweep.md</code>. No other Old Testament document produced a confirmed error.</p>
+<p><strong>2. All four are the same failure.</strong> Each is a word attributed to a verse that does not contain it. That is the failure mode the Jonah claim audit named — <em>“a verbal chain extended by inference into a verse that does not contain the word”</em> — previously found three times, in Exodus and Jonah, both times by hand. It is now found four more times, mechanically, in a book nobody had audited.</p>
+<p><strong>3. One of the four inverts its own point.</strong> The Jeremiah sweep says Moab’s oracle applies שְׁאֵרִית to Moab. The word is not at the verse cited, and it is not in Jeremiah 48 at all. The nearest occurrences, 47:4 and 47:5, are about <strong>Philistia</strong>. The observation is not merely unsupported; the vocabulary it appeals to belongs to a different nation.</p>
+<p><strong>4. Isaiah came out clean.</strong> Isaiah carried more Hebrew-script claims than any other book — the sweep and overview together produced 241 of the 616 checks — and not one survived as an error. Given that the Isaiah work was built directly on supplied BHS and LXX exports, this is a result about method, not luck.</p>
+<p><strong>5. A systematic trap was found that is nobody’s error.</strong> The reports use English versification; the Hebrew text uses Hebrew versification. Isaiah 64:8 is Hebrew 64:7; Jeremiah 9:24 is Hebrew 9:23; Exodus 22:16 is Hebrew 22:15. Any future automated check must map between the two or it will manufacture false failures. It has been noted in the corpus README.</p>
+<hr />
+<h2 id="what-was-checked">What was checked</h2>
+<table>
+<tbody>
+<tr class="odd">
+<td>Documents in scope</td>
+<td>124</td>
+</tr>
+<tr class="even">
+<td>Documents containing Hebrew-script claims</td>
+<td>17</td>
+</tr>
+<tr class="odd">
+<td>Claims extracted</td>
+<td>423</td>
+</tr>
+<tr class="even">
+<td>Word-to-reference checks performed</td>
+<td>616</td>
+</tr>
+<tr class="odd">
+<td>Verified present</td>
+<td>555 (90%)</td>
+</tr>
+<tr class="even">
+<td>Failed the automated check</td>
+<td>50</td>
+</tr>
+<tr class="odd">
+<td>Word not resolvable to a lemma</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td>Reference not in the Hebrew text</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td><strong>Confirmed as real errors after hand-checking</strong></td>
+<td><strong>4</strong></td>
+</tr>
+<tr class="even">
+<td>Real but nuanced</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>Every one of the 61 non-passing checks was read in its own context before being reported. <strong>The automated pass is a screen, not a verdict.</strong> It narrowed 616 checks to 61 for human attention; 56 of those 61 turned out to be artefacts of the checker rather than faults in the reports. That ratio is the honest headline about the method: it finds real errors, and it must never be believed without reading.</p>
+<hr />
+<h2 id="the-four-confirmed-errors">The four confirmed errors</h2>
+<h3 id="jeremiah-1216-plant-נטע-is-not-there">1. Jeremiah 12:16 — “plant” (נטע) is not there</h3>
+<blockquote>
+<p><strong>29:5’s “build houses… plant gardens” repurposes two of the six commissioning verbs from 1:10… Previously “build” (בנה) and “plant” (נטע) have appeared only as divine first-person action (12:16; 18:9; 24:6).</strong> <code>[T]</code>, high confidence</p>
+</blockquote>
+<p><strong>Verified:</strong> נטע occurs at 18:9 and 24:6. It does <strong>not</strong> occur at 12:16. בנה occurs at all three.</p>
+<p>Jeremiah 12:16 reads <em>וְנִבְנוּ בְּתוֹךְ עַמִּי</em> — “they shall be built up in the midst of my people.” One verb, not two, and it is a niphal — “they shall be built” — so the verse does not support “divine first-person action” either.</p>
+<p><strong>This is the clearest instance in the folder of the named failure mode</strong>, and it carries the strongest possible warrant: <code>[T]</code>, high confidence. The substantive claim survives — 29:5 does repurpose commissioning verbs — but its evidence base is two verses, not three.</p>
+<p><strong>Fix:</strong> drop 12:16 from the list, or restate as “(18:9; 24:6; and 12:16 for ‘build’ alone)”. Re-examine the “first-person” characterisation.</p>
+<h3 id="jeremiah-3215-בכסף-is-not-in-the-verse">2. Jeremiah 32:15 — בַּכֶּסֶף is not in the verse</h3>
+<blockquote>
+<p>32:15’s שָׂדֹות בַּכֶּסֶף… בָּתִּים וְשָׂדֹות וּכְרָמִים (“houses and fields and vineyards shall again be bought”) <code>[T]</code>/<code>[I]</code></p>
+</blockquote>
+<p><strong>Verified:</strong> Jeremiah 32:15 reads <em>עוֹד יִקָּנוּ בָתִּים וְשָׂדוֹת וּכְרָמִים בָּאָרֶץ הַזֹּאת</em>. The three-term inventory is exactly right. <strong>כֶּסֶף is not in the verse</strong>; in Jeremiah 32 it stands at verses 9, 10, 25 and 44.</p>
+<p>The argument — a three-term inventory planted for a later echo — is untouched. The quotation attached to it is not the verse’s wording.</p>
+<p><strong>Fix:</strong> delete <code>שָׂדֹות בַּכֶּסֶף…</code> from the quotation. If the money language is wanted, cite 32:9 or 32:44.</p>
+<h3 id="jeremiah-4847-שארית-is-not-there-and-the-point-reverses">3. Jeremiah 48:47 — שְׁאֵרִית is not there, and the point reverses</h3>
+<blockquote>
+<p>Moab’s oracle uses שְׁאֵרִית (“remnant”) of Moab’s own future in the same term applied to Judah’s surviving community elsewhere in the book (48:47’s echo of the “remnant” vocabulary tracked in §12) — worth noting that the term’s application is not exclusive to Israel. <code>[T]</code>, moderate confidence</p>
+</blockquote>
+<p><strong>Verified:</strong> Jeremiah 48:47 reads <em>וְשַׁבְתִּי שְׁבוּת־מוֹאָב בְּאַחֲרִית הַיָּמִים</em> — “I will restore the fortunes of Moab in the latter days.” <strong>שְׁאֵרִית does not occur at 48:47, nor anywhere in Jeremiah 48.</strong> The nearest occurrences in the oracles against the nations are 47:4 and 47:5, and both concern <strong>the Philistines</strong>.</p>
+<p>Note what is probably behind the slip: 48:47 contains בְּאַחֲרִית (“in the latter [days]”), which shares its consonants with שְׁאֵרִית save the opening letter. The observation that remnant vocabulary is applied outside Israel is defensible — but from Jeremiah 47 and Philistia, not from 48:47 and Moab.</p>
+<p><strong>Fix:</strong> either restate the claim on 47:4–5 and Philistia, or withdraw it. As written it cannot stand.</p>
+<h3 id="jeremiah-216-the-city-is-נף-not-מף">4. Jeremiah 2:16 — the city is נֹף, not מֹף</h3>
+<blockquote>
+<p>2:16: “מֹף וְתַחְפַּנְחֵס” (Memphis and Tahpanhes)</p>
+</blockquote>
+<p><strong>Verified:</strong> Jeremiah 2:16 reads <em>גַּם־בְּנֵי־נֹף ותחפנס</em> — <strong>נֹף</strong> with nun. (מֹף with mem is the form at Hosea 9:6.) The second name is also the ketiv <em>ותחפנס</em>, not the fuller spelling given.</p>
+<p>A one-letter transcription slip with nothing hanging on it, recorded for completeness rather than because it matters.</p>
+<p><strong>Fix:</strong> correct the quotation to נֹף.</p>
+<hr />
+<h2 id="one-real-but-nuanced-case">One real but nuanced case</h2>
+<h3 id="jeremiah-213-the-cistern-motif-starts-at-386-not-213">Jeremiah 2:13 — the cistern motif starts at 38:6, not 2:13</h3>
+<blockquote>
+<p><strong>The cistern (בּוֹר) motif tracked since 2:13/38:6 (§11) recurs a third time at 41:7, 9</strong> <code>[T]</code></p>
+</blockquote>
+<p><strong>Verified:</strong> 38:6 and 41:7, 9 all contain בּוֹר (H953). Jeremiah 2:13 does <strong>not</strong>. It reads <em>בֹּארוֹת בֹּארֹת נִשְׁבָּרִים</em> — <strong>בֹּאר</strong> (H877), a different lexeme.</p>
+<p>This is not a mistake of substance. Broken cisterns at 2:13 and the cistern at 38:6 are the same image, and the reading — misplaced trust, then affliction, then a mass grave — is a good one. But it is a <strong>thematic</strong> chain, not a <strong>verbal</strong> one, and it is presented as verbal and tagged <code>[T]</code>.</p>
+<p><strong>Fix:</strong> say so. “The cistern image (בֹּאר at 2:13; בּוֹר from 38:6)” costs four words and makes the claim true.</p>
+<hr />
+<h2 id="what-the-failures-were-not">What the failures were <em>not</em></h2>
+<p>Fifty-six of the sixty-one non-passing checks were faults in the checker. Recording the classes matters, because it says what a future run of this audit must handle:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Class</th>
+<th>Count</th>
+<th>What it is</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cross-pairing within a clause</td>
+<td>~35</td>
+<td>A clause holds two words and two references — “57:5’s הַנֵּחָמִים and 57:6’s אֶנָּחֵם” — and the checker paired each word with both references. The reports were right; the pairing was wrong.</td>
+</tr>
+<tr class="even">
+<td>Root citation vs inflected form</td>
+<td>~10</td>
+<td>The reports cite roots (√נצל, √אכל, √שׂבע). A root is often not itself an attested surface form, so the lemma lookup finds nothing. A root-aware matcher is needed.</td>
+</tr>
+<tr class="odd">
+<td>English vs Hebrew versification</td>
+<td>5</td>
+<td>Isaiah 64:8 = Hebrew 64:7; Jeremiah 9:24 = Hebrew 9:23; Exodus 22:16 = Hebrew 22:15.</td>
+</tr>
+<tr class="even">
+<td>Book mis-resolution</td>
+<td>4</td>
+<td>“Leviticus 25:10 … אָשָׁם at 53:10” — the checker carried Leviticus forward into an Isaiah reference.</td>
+</tr>
+<tr class="odd">
+<td>Negative claims read as positive</td>
+<td>2</td>
+<td>“צֶמַח … is <strong>distinct from</strong> the vine imagery of 2:21/11:16” is a claim that the word is <em>not</em> there.</td>
+</tr>
+</tbody>
+</table>
+<p>One of these deserves singling out. <code>point-purpose-proverbs-1-1to7.md</code> says <em>“1:7 reads רֵאשִׁית, 9:10 reads תְּחִלַּת”</em> and marks it “✅ Confirmed against BHS, 21 August”. The checker crossed the pair and reported two failures. <strong>The report was right and had already done this work properly.</strong> That is worth knowing: where a document records that it checked, it had.</p>
+<hr />
+<h2 id="limitations-what-this-audit-does-not-cover">Limitations — what this audit does <em>not</em> cover</h2>
+<p><strong>Transliterated claims are not checked.</strong> This is the significant gap. Most Torah documents — the Exodus sweep and its fifteen solo digs above all — carry their lexical work in transliteration (<em>šākan</em>, <em>kābēd</em>, <em>ʿābad</em>) rather than Hebrew script, and no automated check reached them. <strong>The three previously known errors, in Exodus and Jonah, are all in that untested population.</strong> A second pass needs a reverse-transliteration layer; until it runs, the Torah documents are unaudited, not cleared.</p>
+<p><strong>Root citations are not checked</strong>, for the reason given above.</p>
+<p><strong>Claims without explicit verse references are not checked</strong> — “the root runs throughout chapters 5–8” cannot be tested mechanically. Those need a reader.</p>
+<p><strong>Only verbal presence is tested.</strong> That a word occurs where it is claimed says nothing about whether the chain means what the report says it means.</p>
+<hr />
+<h2 id="what-this-means-for-revisiting-the-digs">What this means for revisiting the digs</h2>
+<p>The question that prompted this audit was whether the existing digs should be re-run. On the Hebrew-script evidence, the answer is <strong>no, with one exception</strong>.</p>
+<ul>
+<li><strong><code>dig-deeper-jeremiah-sweep.md</code> needs a corrections pass.</strong> Four errors, one of which reverses its own point. Nothing here requires re-running the sweep; all four are local fixes to specific claims.</li>
+<li><strong>Everything else in Hebrew script is clean.</strong> Isaiah, Proverbs, Psalms, Ruth, Leviticus, Ezra-Nehemiah, Genesis, Exodus: no confirmed errors.</li>
+<li><strong>The Torah documents remain untested</strong>, because their lexical work is transliterated. That is the next audit, not a re-run.</li>
+</ul>
+<p>This also confirms, from a third book, the finding the Exodus overview recorded and the Jonah audit named: <strong>errors cluster in synthetic, book-level, sweep-depth work.</strong> All four errors are in a whole-book sweep. None is in a solo dig, an overview, or a point-purpose plan.</p>
+<hr />
+<h2 id="reproducing-this">Reproducing this</h2>
+<pre><code>python3 _audit/extract_verify.py</code></pre>
+<p>Checkpoints, all in <code>_audit/</code>:</p>
+<table>
+<thead>
+<tr class="header">
+<th>File</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>01-documents.tsv</code></td>
+<td>the 124 documents in scope</td>
+</tr>
+<tr class="even">
+<td><code>02-claims.tsv</code></td>
+<td>423 extracted claims with context</td>
+</tr>
+<tr class="odd">
+<td><code>03-verdicts.tsv</code></td>
+<td>616 word-to-reference checks with verdicts</td>
+</tr>
+</tbody>
+</table>
+<p>Individual claims can be re-checked directly:</p>
+<pre><code>python3 _texts/tools/find.py verify 5193 Jer:12:16 Jer:18:9 Jer:24:6</code></pre>
+<hr />
+<p><em>Prepared with the Dig Deeper toolkit in Claim Audit Mode, 2 September 2026. Every claim reported as an error was read in its own context and verified against the Westminster Leningrad Codex before being listed. Confirmation by the originating run was not accepted as evidence.</em></p>
+
+</main>
+</div>
+</body>
+</html>
