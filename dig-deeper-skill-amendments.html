@@ -50,15 +50,17 @@
     <li><a href="#amendment-a-wire-the-local-text-corpus-into-the-workflow">Amendment A — Wire the local text corpus into the workflow</a></li>
     <li><a href="#amendment-b-tanak-order-for-the-old-testament">Amendment B — Tanak order for the Old Testament</a></li>
     <li><a href="#amendment-c-the-chain-verification-gate">Amendment C — The chain-verification gate</a></li>
-    <li><a href="#amendment-d-nasb95-as-reference-version-esv-as-pulpit-text">Amendment D — NASB95 as reference version, ESV as pulpit text</a></li>
+    <li><a href="#amendment-d-nasb95-as-study-text-pulpit-text-declared-per-engagement">Amendment D — NASB95 as study text, pulpit text declared per engagement</a></li>
     <li><a href="#amendment-e-audit-trigger-for-synthetic-claims">Amendment E — Audit trigger for synthetic claims</a></li>
     <li><a href="#changelog-entry-to-add">Changelog entry to add</a></li>
+    <li><a href="#consequential-edits-found-only-by-applying-the-amendments">Consequential edits — found only by applying the amendments</a></li>
+    <li><a href="#what-cannot-be-applied-through-skill.md-at-all">What cannot be applied through SKILL.md at all</a></li>
     <li><a href="#what-is-deliberately-not-proposed">What is deliberately not proposed</a></li>
   </ul>
 </nav>
 <main>
 <h1 id="dig-deeper-proposed-skill-amendments">Dig Deeper — Proposed Skill Amendments</h1>
-<p><strong>Status:</strong> Draft v1.0 — <strong>proposed, not applied.</strong> Nothing in the installed skill has been changed. <strong>Date:</strong> 2 September 2026 <strong>Prepared for:</strong> the process review of 2 September 2026 <strong>Scope:</strong> five amendments to <code>dig-deeper</code>, each with the exact file, anchor and text to change.</p>
+<p><strong>Status:</strong> Draft v1.1 — <strong>proposed, not applied.</strong> Nothing in the installed skill has been changed. <strong>Date:</strong> 2 September 2026 · <strong>revised</strong> 4 September 2026 (Amendment B gains a field template and a worked example) <strong>Prepared for:</strong> the process review of 2 September 2026 <strong>Scope:</strong> five amendments to <code>dig-deeper</code>, each with the exact file, anchor and text to change.</p>
 <hr />
 <h2 id="how-to-read-this-document">How to read this document</h2>
 <p>Each amendment gives the <strong>problem</strong>, the <strong>evidence from completed runs</strong> that it is a real problem and not a tidiness preference, the <strong>file and anchor</strong> to edit, the <strong>exact text</strong>, and the <strong>cost</strong> of adopting it.</p>
@@ -169,6 +171,17 @@
 <li><strong>Always view <code>_texts/README.md</code></strong> when the corpus is present. It states what each layer is and — more importantly — what each layer is <em>not</em>, so a proxy edition never gets cited as the edition it stands in for.</li>
 </ul>
 </blockquote>
+<p><strong>Edit 3</strong> — <code>SKILL.md</code>, the <strong>Hebrew and Greek — the Three-Way Triage</strong> section. Replace the “Working default, stated plainly” paragraph with:</p>
+<blockquote>
+<p><strong>Working default, stated plainly — and the distinction it turns on.</strong> English OTs, the ESV included, translate the Masoretic text. That settles one question and not another.</p>
+<p>It settles the <strong>variant</strong> question: because the ESV’s <em>Vorlage</em> is the MT, no rule is needed to make the report’s <em>textual basis</em> Hebrew rather than Greek. The confessional warrant for privileging the Hebrew (WCF 1.8, “immediately inspired… kept pure in all ages”) is a claim about the Hebrew <strong>original</strong> and about providential preservation; it is not a ruling on any particular variant, and the Reformed themselves distinguished the two. Preserve that distinction: work from the Hebrew, and still weigh the variant on the evidence.</p>
+<p>It settles nothing about the <strong>evidence</strong> question. A translation of the Hebrew is not the Hebrew. Repeated roots, wordplay, a Leitwort, the count of a formula, a name-pun, the <em>petuchot</em> — none of these survives into any English version, so a report working from the ESV cannot see them and must not claim them. <strong>The report’s textual basis is already Hebrew; its evidence is not, until the Hebrew is opened.</strong> That is what Phase 0.2 exists to do.</p>
+</blockquote>
+<p><em>Rationale: as it stands the paragraph is true of the first question and reads as though it settled the second, and that reading is what licenses a run to work from the ESV as though it were the Hebrew. The Proverbs 2A note is the refutation — “the ESV alone would have reproduced the sweep.”</em></p>
+<p><strong>Edit 4</strong> — <code>references/extensions/textual-variants.md</code>, the subsection “The working default, stated plainly”. Same correction, same reason: the paragraph there carries the identical sentence (“The report’s working text is therefore already Hebrew, and needs no rule to make it so”), and that file is mandatory viewing whenever the textual-variants extension applies. Replace its opening two sentences with the two-question distinction above, keeping the Owen/Walton material that follows.</p>
+<blockquote>
+<p><strong>This edit cannot be made by replacing <code>SKILL.md</code>.</strong> It lives in the reference tree, which a SKILL.md replacement does not touch. If Amendment A is applied through a SKILL.md replacement alone, <strong>the skill will carry the corrected paragraph in <code>SKILL.md</code> and the uncorrected one in <code>textual-variants.md</code>.</strong> That is a tolerable interim state — <code>SKILL.md</code> governs, and the reference file’s claim is narrower than it reads — but it is not the finished job, and it should be recorded as outstanding rather than forgotten.</p>
+</blockquote>
 <h3 id="cost">Cost</h3>
 <p>One extra file read per run. In exchange, every lexical claim becomes reproducible by a third party months later, which is the precondition for Amendment C.</p>
 <hr />
@@ -183,6 +196,42 @@
 <h3 id="canonical-position-where-the-book-stands-not-only-where-the-events-fall">Canonical position — where the book stands, not only where the events fall</h3>
 <p>Tool 14 asks where a passage sits in the <em>story</em>. Ask alongside it where the book sits in the <em>canon</em>, and keep the two apart.</p>
 <p><strong>For every OT passage, state the book’s position in the Tanak</strong> — Torah, Nevi’im (Former or Latter), or Ketuvim — and one line on what that position implies for reading. Use the BHS order, in which the Ketuvim run Psalms, Job, Proverbs, Ruth, Song of Songs, Ecclesiastes, Lamentations, Esther, Daniel, Ezra–Nehemiah, Chronicles.</p>
+<p>Where the passage is being worked at book level — a book-overview, a sweep, a macro-synthesis — state it as five fields. The first three are required; the last two are worth having when the series planning will use them.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>The question it answers</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td>Which canon division, and where within it</td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>What does standing <em>there</em> do to how the book is read?</td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td>What has a reader of <em>this</em> sequence already met by the time they arrive?</td>
+</tr>
+<tr class="even">
+<td><strong>Handoff</strong></td>
+<td>What does the book pass to the one that follows it?</td>
+</tr>
+<tr class="odd">
+<td><strong>Neighbours</strong></td>
+<td>What sits either side, and what would be missing without this book?</td>
+</tr>
+</tbody>
+</table>
+<p><strong><code>Presupposes</code> is the field that does the work, and the only one that produces testable claims.</strong> Every item in it is a reference; every reference either supports the claim or does not. Fill it with references, not with themes, and check them — a canon-position section built on unchecked references is orientation dressed as evidence. The other fields orient; this one argues.</p>
 <p>Three positions carry weight often enough to name:</p>
 <table>
 <colgroup>
@@ -228,6 +277,18 @@
 <blockquote>
 <p>[For OT passages: Tanak position of the book, and one line on what it implies. Note any divergence between canonical and compositional order, with the direction-of-dependence question left open.]</p>
 </blockquote>
+<h3 id="worked-example-ruth">Worked example — Ruth</h3>
+<p>The clearest case for the whole amendment, because the reading it produces cannot exist in English Bible order, and because it verifies exactly.</p>
+<ul>
+<li><strong>Section:</strong> Ketuvim, among the Megilloth. In the order BHS prints, Ruth stands <strong>immediately after Proverbs</strong>.</li>
+<li><strong>Reading implication:</strong> Not an appendix to Judges. A Writings reflection, read by a community that already knows how the monarchy ended, on how the line to David ran through <em>ḥesed</em> and through a Moabite.</li>
+<li><strong>Presupposes:</strong> Proverbs, and specifically its closing poem. Deuteronomy 23:3–4 (no Moabite in the assembly). Genesis 38 (Tamar, named at Ruth 4:12). The Judges period as setting, not as literary neighbour.</li>
+<li><strong>Handoff:</strong> the genealogy of 4:18–22 hands the sequence to David, whom the Ketuvim have already been reading about in the Psalter.</li>
+</ul>
+<p><strong>The seam, verified.</strong> Proverbs closes by asking <em>ʾēšet-ḥayil mî yimṣāʾ</em> — “a woman of worth, who can find?” (31:10). The next book in the sequence answers: <em>kî ʾēšet ḥayil ʾātt</em> — “for you are a woman of worth” (Ruth 3:11), said of a Moabite, by the whole town gate.</p>
+<p>אֵשֶׁת חַיִל occurs three times in the Hebrew Bible — Proverbs 12:4, Proverbs 31:10, Ruth 3:11 — counted from <code>_texts/hebrew-wlc/</code> by searching for lemma 802 immediately followed by lemma 2428. In English Bible order the question and its answer never meet: Ruth sits after Judges, and Proverbs is nineteen books away.</p>
+<h3 id="provenance-of-this-pattern">Provenance of this pattern</h3>
+<p>The five fields are not invented here. They are distilled from the only three documents in the folder that carry a canon-position section — the imported Genesis, Ezra-Nehemiah and 1 Peter overviews — which are reproduced verbatim, with a health warning on their content, in <strong><code>canon-position-pattern.md</code></strong>. That document exists because two other imported overviews, Jeremiah and Leviticus, were superseded on 28 August by fresh builds written to the same filenames, and the repository holds no earlier copy of either. The pattern is preserved here so that it survives whatever becomes of the three documents it came from.</p>
 <h3 id="cost-1">Cost</h3>
 <p>Two or three sentences per OT report. It will occasionally overturn a reading built on English-Bible adjacency, which is the point.</p>
 <hr />
@@ -255,22 +316,27 @@ OK   Exod 40:35</code></pre>
 <h3 id="cost-2">Cost</h3>
 <p>A minute per chain. It would have caught all three known errors before they reached an overview.</p>
 <hr />
-<h2 id="amendment-d-nasb95-as-reference-version-esv-as-pulpit-text">Amendment D — NASB95 as reference version, ESV as pulpit text</h2>
+<h2 id="amendment-d-nasb95-as-study-text-pulpit-text-declared-per-engagement">Amendment D — NASB95 as study text, pulpit text declared per engagement</h2>
 <h3 id="problem-3">Problem</h3>
-<p><code>SKILL.md</code> currently switches off the pulpit-divergence check on the ground that report and pulpit share one text:</p>
+<p><code>SKILL.md</code> switches the pulpit-divergence check <strong>off</strong>, and does so by an argument that no longer holds:</p>
 <blockquote>
 <p>“Because the report’s default translation and the pulpit translation are now the same text, the report’s ESV wording transfers directly into the manuscript — there is no ESV→pulpit gap to guard. Tool 8 therefore does <strong>not</strong> run a pulpit-divergence check.”</p>
 </blockquote>
-<p>That collapses a distinction worth keeping. The reference version and the pulpit version are two different things doing two different jobs, and where they diverge the pulpit text is doing interpretive work the congregation will hear and the preacher may not have noticed.</p>
+<p>Two things are wrong with this. First, it collapses two texts doing two different jobs: the text used to see what the original is doing, and the text a congregation will hear. Second, and decisively, <strong>the premise is false</strong> — the pulpit text is not a constant. It is the ESV at the preacher’s own church, but he preaches elsewhere, where it may be the NIV84 or another version entirely.</p>
+<p>That makes the check more valuable, not less. A dynamic version such as the NIV84 will smooth exactly the features a text-first report is built on — a repeated root levelled into synonyms, a connective dropped, an ambiguity closed. Those are the moments the preacher most needs warning about, and they are invisible if the report assumes its own wording is what will be read aloud.</p>
 <h3 id="file-and-anchor-3">File and anchor</h3>
 <p><code>SKILL.md</code>, <strong>Default Translation</strong> section. Replace the “Pulpit translation note” paragraph with:</p>
 <blockquote>
-<p><strong>Reference version and pulpit version.</strong> These are two texts with two jobs. The <strong>NASB95</strong> is the reference version — the more wooden rendering, used to see what the original is doing. The <strong>ESV (Anglicised)</strong> is the pulpit text: what the congregation hears read at CCH and what <code>/sermon-creator</code> quotes. Quote the ESV at the head of the report, because that is the wording the sermon will carry.</p>
-<p><strong>Tool 8 runs a live divergence check between them.</strong> Where NASB95 and ESV differ in a way that bears on the finding — a connective dropped or supplied, a repeated root levelled into synonyms, a participle resolved into a finite verb, an ambiguity closed — say so, say which is closer to the original, and say what the congregation will therefore hear. This is not a translation-quality verdict; it is a note to the preacher about where the pulpit text has already made an interpretive decision on his behalf. KJV remains available as the historic witness where it earns its place, and the ancient-versions check runs as before.</p>
-<p>Where NASB95 and ESV agree, say nothing: silence is the normal case and the check should not generate filler.</p>
+<p><strong>Study text and pulpit text.</strong> These are two texts with two jobs, and only one of them is fixed.</p>
+<p>The <strong>study text is the NASB95</strong> — the 1995 edition specifically, not the 2020 revision, which is a substantially different text. Its woodenness is the point: it is the English that gets closest to showing what the original is doing. Quote it as the report’s English reference.</p>
+<p>The <strong>pulpit text is a variable and is declared per engagement.</strong> It is the ESV (Anglicised) at the preacher’s own church; when he preaches elsewhere it may be the NIV84 (not the 2011 revision) or another version. <strong>If a sermon is in view and the pulpit text has not been stated, ask.</strong> Do not assume the ESV. Where no sermon is in view — a book overview, a sweep, a claim audit — no pulpit text is needed and none should be invented.</p>
+<p><strong>Tool 8 runs a live divergence check between the study text and the declared pulpit text.</strong> Where they differ in a way that bears on a finding — a connective dropped or supplied, a repeated root levelled into synonyms, a participle resolved into a finite verb, an ambiguity closed — say so, say which is closer to the original, and say <strong>what the congregation will actually hear</strong>. This is not a translation-quality verdict; it is a note to the preacher about where the pulpit text has already made an interpretive decision on his behalf. Expect the check to find more, and more that matters, when the pulpit text is a dynamic version.</p>
+<p>Where the two agree, say nothing. Silence is the normal case and the check must not generate filler. KJV remains available as the historic witness where it earns its place, and the ancient-versions check runs as before.</p>
 </blockquote>
+<h3 id="a-note-on-where-the-versions-come-from">A note on where the versions come from</h3>
+<p>Neither text is in the corpus, and neither can be: both are in copyright with no redistributable bulk source. Both come from Logos, exported per book into <code>_texts/logos-exports/</code>, with the version named in the filename — <code>NASB95 Ruth.txt</code>, not <code>NASB Ruth.txt</code>, because the 1995 and 2020 texts differ and a file that does not say which is worthless in two years.</p>
 <h3 id="cost-3">Cost</h3>
-<p>One extra comparison in Tool 8, reported only when it bears. Note that NASB95 is not redistributable and is not in the corpus; it comes from Logos per book, like the ESV.</p>
+<p>One extra comparison in Tool 8, reported only when it bears, plus one question asked when a sermon is in view and the pulpit text is unstated. The cost of <em>not</em> doing it is a report whose careful wording work is silently undone between the desk and the lectern.</p>
 <hr />
 <h2 id="amendment-e-audit-trigger-for-synthetic-claims">Amendment E — Audit trigger for synthetic claims</h2>
 <h3 id="problem-4">Problem</h3>
@@ -301,9 +367,111 @@ OK   Exod 40:35</code></pre>
 <h2 id="changelog-entry-to-add">Changelog entry to add</h2>
 <p>To be placed at the top of <code>references/CHANGELOG.md</code> if these are adopted:</p>
 <blockquote>
-<p><em>Revised September 2026 (Primary-text corpus, Tanak order, chain verification, reference-vs-pulpit versions, synthetic-claim burden). Five amendments arising from the 2 September process review, each derived from a discipline that completed runs had already recorded in their own method notes with no mechanism to carry it forward. (A) A new Phase 0.2 loads a local primary-text corpus (<code>_texts/</code>: WLC with lemma index, Swete LXX, SBLGNT with parsing, Logos exports) and requires the original language to be read before the ESV, every count to name its edition, and readings that turn on a variant or apparatus to go to Logos — replacing the prior reasoning that the working text is “already Hebrew” because English OTs translate the MT, which the Proverbs 2A note refuted (“the ESV alone would have reproduced the sweep”). (B) Tool 14 gains a canonical-position subsection requiring the Tanak position of every OT book, with Ruth, Daniel and Chronicles tabulated, the BHS-vs-Leningrad Ketuvim caveat stated, and an explicit rule that where canonical and compositional order diverge (Isa 36–39 // 2 Kgs 18–20) both are reported and neither resolves the other; Tool 2 gains a canonical-context level. (C) Phase 10.5 gains hard gate item (e3) requiring every verbal-chain claim to be verified lemma-by-lemma against the corpus, with failing references removed rather than hedged and unverified chains barred from book overviews; the Text-First Declaration gains a chains-verified line. Rationale: three instances across Exodus and Jonah of “a verbal chain extended by inference into a verse that does not contain the word”, the failure mode the Jonah audit named. (D) Default Translation now distinguishes NASB95 as reference version from ESV (Anglicised) as pulpit text and restores a live Tool 8 divergence check between them, replacing the note that switched the check off on the ground that report and pulpit shared one text. (E) A new section, Synthetic Claims Carry a Higher Burden, marks cross-passage claims, requires each constituent verified, caps unverified synthetic claims at moderate confidence, and adds the widen-the-window and derive-blind disciplines from the Proverbs runs; sweep mode marks its book-level claims provisional. Rationale: the Exodus overview’s finding that every claim needing correction was synthetic while every single-passage claim held.</em></p>
+<p><em>Revised September 2026 (Primary-text corpus, Tanak order, chain verification, reference-vs-pulpit versions, synthetic-claim burden). Five amendments arising from the 2 September process review, each derived from a discipline that completed runs had already recorded in their own method notes with no mechanism to carry it forward. (A) A new Phase 0.2 loads a local primary-text corpus (<code>_texts/</code>: WLC with lemma index, Swete LXX, SBLGNT with parsing, Logos exports) and requires the original language to be read before the ESV, every count to name its edition, and readings that turn on a variant or apparatus to go to Logos — replacing the prior reasoning that the working text is “already Hebrew” because English OTs translate the MT, which the Proverbs 2A note refuted (“the ESV alone would have reproduced the sweep”). (B) Tool 14 gains a canonical-position subsection requiring the Tanak position of every OT book, with a five-field template for book-level work (Section, Reading implication, Presupposes, Handoff, Neighbours) in which Presupposes carries the testable claims and must be filled with checked references, with Ruth, Daniel and Chronicles tabulated, the BHS-vs-Leningrad Ketuvim caveat stated, and an explicit rule that where canonical and compositional order diverge (Isa 36–39 // 2 Kgs 18–20) both are reported and neither resolves the other; Tool 2 gains a canonical-context level. (C) Phase 10.5 gains hard gate item (e3) requiring every verbal-chain claim to be verified lemma-by-lemma against the corpus, with failing references removed rather than hedged and unverified chains barred from book overviews; the Text-First Declaration gains a chains-verified line. Rationale: three instances across Exodus and Jonah of “a verbal chain extended by inference into a verse that does not contain the word”, the failure mode the Jonah audit named. (D) Default Translation now names the NASB95 (1995 edition, not the 2020 revision) as the fixed study text and makes the pulpit text a variable declared per engagement — ESV (Anglicised) at the preacher’s own church, NIV84 or another version elsewhere — to be asked for when a sermon is in view and not assumed; Tool 8 runs a live divergence check between the study text and the declared pulpit text, reporting what the congregation will actually hear. This replaces the note that switched the check off on the ground that report and pulpit shared one text, a premise that was false as soon as the preacher left his own church. (E) A new section, Synthetic Claims Carry a Higher Burden, marks cross-passage claims, requires each constituent verified, caps unverified synthetic claims at moderate confidence, and adds the widen-the-window and derive-blind disciplines from the Proverbs runs; sweep mode marks its book-level claims provisional. Rationale: the Exodus overview’s finding that every claim needing correction was synthetic while every single-passage claim held.</em></p>
 </blockquote>
 <hr />
+<h2 id="consequential-edits-found-only-by-applying-the-amendments">Consequential edits — found only by applying the amendments</h2>
+<p>Building the amended <code>SKILL.md</code> on 7 September surfaced something the spec had missed. Amendments A–E were each written against the passage they correct, but the ESV-as-both-texts assumption was <strong>repeated in seven further places</strong>, and applying the five amendments literally would have left the skill contradicting itself. All seven are now in the built file; they are recorded here so the spec is the reliable record.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Where</th>
+<th>What it said</th>
+<th>Now</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>F1</td>
+<td>Default Translation, opening</td>
+<td>“ESV unless the user has specified otherwise… Default to ESV for the passage quote”</td>
+<td>Originals are the substrate; NASB95 is the English reference</td>
+</tr>
+<tr class="even">
+<td>F2</td>
+<td>Report template header</td>
+<td><code>**Pulpit translation:** ESV (Anglicised) — same text as the report default</code></td>
+<td>Three fields: primary texts opened, study text, pulpit text declared</td>
+</tr>
+<tr class="odd">
+<td>F3</td>
+<td>Template, The Passage</td>
+<td>“Quote the passage in full, ESV”</td>
+<td>Hebrew or Greek from <code>_texts/</code>, NASB95 beneath</td>
+</tr>
+<tr class="even">
+<td>F4</td>
+<td>Template, Tool 8</td>
+<td>“Where ESV/NASB/KJV diverge”</td>
+<td>NASB95, declared pulpit text, KJV</td>
+</tr>
+<tr class="odd">
+<td>F5</td>
+<td>Template, Pulpit edition note</td>
+<td>“State <em>Pulpit text matches report default</em>”</td>
+<td>A real divergence note, or an explicit N/A where no sermon is in view</td>
+</tr>
+<tr class="even">
+<td>F6</td>
+<td>Quality Markers</td>
+<td>“because the pulpit hears the ESV… no divergence to reconcile”</td>
+<td>Findings rest on the originals; Tool 8 reports where the pulpit text has already decided something</td>
+</tr>
+<tr class="odd">
+<td>F7</td>
+<td>Key Principles</td>
+<td>“Report and pulpit share one text, so no pulpit-divergence check is needed”</td>
+<td>Originals first, NASB95 as study text, pulpit text declared and checked</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The lesson for any future amendment.</strong> An assumption stated once in a governing section is usually restated in the template, the quality markers and the key principles, because those sections exist to summarise it. <strong>Grep the whole file for the assumption, not just for the paragraph that argues it.</strong> A spec written against the argument alone will leave the summaries contradicting the new rule, and the summaries are what a run under context pressure actually reads.</p>
+<h2 id="what-cannot-be-applied-through-skill.md-at-all">What cannot be applied through <code>SKILL.md</code> at all</h2>
+<p>Four proposed edits live in the reference tree, which a <code>SKILL.md</code> replacement does not touch:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Edit</th>
+<th>File</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amendment A, Edit 4</td>
+<td><code>references/extensions/textual-variants.md</code></td>
+<td>the “needs no rule” paragraph, uncorrected</td>
+</tr>
+<tr class="even">
+<td>Amendment B, Edit 1</td>
+<td><code>references/07-application-foundations.md</code></td>
+<td>Tool 14 canonical-position subsection</td>
+</tr>
+<tr class="odd">
+<td>Amendment B, Edit 2</td>
+<td><code>references/01-purpose-and-context.md</code></td>
+<td>Tool 2 canonical-context level</td>
+</tr>
+<tr class="even">
+<td>Amendment C, Edit 3</td>
+<td><code>references/04-words-and-translations.md</code></td>
+<td>Tool 7 “verify before you report”</td>
+</tr>
+</tbody>
+</table>
+<p>Amendments B and C were therefore <strong>re-sited into <code>SKILL.md</code> itself</strong> in the built file — B as a new Phase 0.55 and an Output Format line, C as gate item (e3) and a Declaration line — so that the rules take effect even though the reference files are out of reach. That is the right call, because <code>SKILL.md</code> is read every run while a reference file is read only when its extension applies. <strong>But it leaves the four files above stating the old position</strong>, and that should be recorded as outstanding rather than forgotten.</p>
 <h2 id="what-is-deliberately-not-proposed">What is deliberately not proposed</h2>
 <p><strong>A blanket re-run of existing digs.</strong> The evidence argues against it. Passage-level work has held; the errors are in book-level and synthetic material. The proportionate response is a chain-verification sweep across the OT documents first — mechanical, cheap, and it would have caught all three known errors — and then re-runs only where the audit moves a claim or the passage is next in the preaching diary. Jeremiah and Leviticus have already been rebuilt from the Hebrew and are the model.</p>
 <p><strong>A Rahlfs layer in the corpus.</strong> Every free machine-readable Rahlfs descends from CCAT/CATSS at Penn, whose licence asks the user to send a declaration first. Swete stands in as the search-and-count layer and Rahlfs-Hanhart comes from Logos for citation. If the CCAT declaration is ever sent, the corpus can gain a Rahlfs layer without any change to these amendments.</p>

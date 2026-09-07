@@ -18,7 +18,7 @@ primary texts are for the data. Do not ask a search engine what a verse says.**
 | `hebrew-wlc/` | Westminster Leningrad Codex (Open Scriptures / morphhb) | The Hebrew substrate: reading, counting, root and Leitwort work, petuchot/setumot | Citing *BHS* as such. It is the same manuscript BHS prints (Leningrad B19a), but not BHS's apparatus or editorial decisions |
 | `greek-lxx-swete/` | Swete, *The Old Testament in Greek* (1909–30) | Reading and searching the Greek OT; whole-canon word searches | Citing *Rahlfs* or *Rahlfs-Hanhart*. Swete is Vaticanus-based and diverges from Rahlfs in real places |
 | `greek-nt-sblgnt/` | SBLGNT with MorphGNT parsing | The Greek NT substrate: reading, counting, lemma work | Citing *NA28*. No apparatus; the SBLGNT omits 5:4 and brackets 7:53–8:11 in John, and text-critical decisions differ from NA28 in a few dozen places |
-| `logos-exports/` | Your own Logos exports (BHS, Rahlfs LXX, ESV) | Citation of record, where a reading is load-bearing | Whole-canon searching — coverage is only what has been exported so far |
+| `logos-exports/` | Your own Logos exports — BHS, Rahlfs-Hanhart LXX, NASB95, ESV, and whatever else you upload | **Citation of record**, wherever a reading is load-bearing | Whole-canon searching — coverage is only what has been exported so far |
 
 **The honest summary.** Three of these four layers are *proxies*. They are the
 right tool for finding, counting and checking; they are the wrong tool for
@@ -26,17 +26,66 @@ citing. When a finding turns on a particular reading — a variant, an apparatus
 question, a Rahlfs-vs-Swete divergence, an NA28 decision — go to Logos and cite
 that. **Every count or chain in a report should name the edition it came from.**
 
+## Observe versus cite
+
+The distinction that governs everything else here. **Observe from the corpus; cite from
+Logos.** They are different acts and they want different editions.
+
+**Observation** is reading, counting, searching, checking a chain, seeing whether a root
+recurs. It needs breadth and reproducibility, and the corpus gives both: the whole canon,
+locally, lemma-indexed, re-checkable in a single command months later.
+
+**Citation** is the moment a finding rests on a particular reading — a variant, an
+apparatus question, a divergence between editions, a claim about what "the LXX" says.
+There the corpus is not enough, because three of its four layers are proxies. Go to
+Logos and name the edition you cite.
+
+### Why Swete here, and Rahlfs there
+
+Not an accident of licensing, though the licence decided it. The two editions do
+different jobs:
+
+| | Kind | What it shows you |
+|---|---|---|
+| **Swete** (1909–30) | **Diplomatic** — prints Codex Vaticanus, filling gaps from Sinaiticus and Alexandrinus | What a scribe actually wrote |
+| **Rahlfs / Rahlfs-Hanhart** | **Eclectic** — a reconstruction of the earliest recoverable Greek | What an editor concluded |
+| **Göttingen** | Fully critical, book by book, still incomplete | The scholarly best account, where it exists |
+
+For a method that exists because *editorial interpretation may skew a text-focussed
+reading*, the diplomatic edition is the right observation layer: it shows a manuscript
+rather than a judgement. Rahlfs has already made choices on your behalf — well made, but
+made.
+
+The honest counterweight: a diplomatic text carries its manuscript's own slips, and in
+Judges, Vaticanus represents a distinctly different recension. Closer to a scribe is not
+automatically closer to the original. Both editions are interpretations; they are
+different *kinds* of interpretation, and the discipline is knowing which you are looking
+at.
+
+**There is in any case no single Septuagint**, and the corpus shows it rather than hiding
+it. Judges has two texts. So do Daniel, Susanna, Bel and Tobit — and the Swete layer
+holds each pair side by side (`Daniel-OG` / `Daniel-Theodotion`, `Tobit-BA` /
+`Tobit-Sinaiticus`) because Swete printed them side by side. Jeremiah's Greek is about an
+eighth shorter than the Hebrew, on a different *Vorlage*; Job's is about a sixth shorter.
+An eclectic text would have handed you one reading where the evidence offers two.
+
+**So: Swete to observe, Rahlfs to cite, Göttingen where it exists and something turns on
+it.** When a commentary says "the LXX", it means Rahlfs-Hanhart — which is why the Logos
+exports are the citation of record and this layer is not.
+
 ## What still has to come from Logos
 
 - **BHS** — apparatus, Masorah, editorial notes
 - **Rahlfs-Hanhart LXX** — the critical text and apparatus
 - **NA28 / UBS5** — the Greek NT apparatus
 - **ESV** — no redistributable bulk text; export per book as needed
-- **NASB95** — not freely available; export per book as needed
+- **NASB95** — the study text. Lockman copyright, no redistributable source; export per book as needed
 
 `logos-exports/` is where those go. Name them as they already are —
-`BHS Ruth.txt`, `LXX Isaiah.txt`, `ESV Leviticus.txt` — so the source is
-visible in the filename. Logos caps a single export at 100 pages, so a long
+`BHS Ruth.txt`, `LXX Isaiah.txt`, `ESV Leviticus.txt`, `NASB95 Ruth.txt` — so the
+source is visible in the filename. **Name the edition, not just the version:** the
+NASB95 and the 2020 revision are substantially different texts, and a file called
+`NASB Ruth.txt` will be ambiguous within a year. Logos caps a single export at 100 pages, so a long
 book comes in parts; that split is an export artefact and means nothing.
 
 ---

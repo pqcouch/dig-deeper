@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Transliteration and Greek Chain Audit</title>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#transliteration-and-greek-chain-audit">Transliteration and Greek Chain Audit</a></li>
+    <li><a href="#headline-findings">Headline findings</a></li>
+    <li><a href="#what-was-checked">What was checked</a></li>
+    <li><a href="#the-error">The error</a></li>
+    <li><a href="#claims-verified-exactly">Claims verified exactly</a></li>
+    <li><a href="#limitations-and-they-are-larger-here-than-in-pass-1">Limitations — and they are larger here than in pass 1</a></li>
+    <li><a href="#what-this-changes">What this changes</a></li>
+    <li><a href="#reproducing-this">Reproducing this</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="transliteration-and-greek-chain-audit">Transliteration and Greek Chain Audit</h1>
+<p><strong>Mode:</strong> Claim Audit — pass 2, completing the folder <strong>Date:</strong> 4 September 2026 <strong>Scope:</strong> all 131 documents — the 124 Old Testament documents plus the John, Philippians, Acts, Matthew, Luke, 1 Peter and 2–3 John sets <strong>Substrate:</strong> <code>_texts/hebrew-wlc/</code> (WLC with lemma index), <code>_texts/greek-nt-sblgnt/</code> (SBLGNT with MorphGNT parsing) <strong>Bridge:</strong> TBESH — Tyndale Brief Lexicon of Extended Strongs for Hebrew (CC BY) — mapping transliteration to Strong’s numbers <strong>Follows:</strong> <code>dig-deeper-ot-chain-audit</code> (2 September), which covered Hebrew-script claims only</p>
+<hr />
+<h2 id="headline-findings">Headline findings</h2>
+<p><strong>1. One real error, and it carries a “verified” tag.</strong> The John gathering-thread statistic — <em>“συνάγω 4× / σκορπίζω 3× in John”</em> — is wrong on both counts. συνάγω occurs <strong>7</strong> times; σκορπίζω occurs <strong>2</strong>. The claim stands in two documents, and in one of them it is marked as verified.</p>
+<p><strong>2. Two load-bearing claims verified exactly, independently.</strong> Isaiah’s “Holy One of Israel splits 12/13 across chapters 1–39 and 40–66” is precisely right: 25 occurrences of the construct phrase, 12 before chapter 40 and 13 after. John’s σημεῖον count of 17 is exactly right, and its δαιμόνιον list — six occurrences at 7:20; 8:48, 49, 52; 10:20, 21, every one an accusation — is right to the verse.</p>
+<p><strong>3. No error at all in the Greek documents’ presence claims.</strong> All 38 Greek-script failures were artefacts of the checker: reference pairing, inflected form against lexical form, compound against simplex, and one case where <code>κατ᾽ ὄνομα</code> was cut at the apostrophe. The John, 1 Peter and 2–3 John documents come out clean.</p>
+<p><strong>4. No new error in the Torah.</strong> This pass was commissioned because the Torah’s lexical work is transliterated and pass 1 could not reach it. It reached it, and found nothing. That is a genuine result, but a qualified one — see the limitations below, which matter more here than anywhere else in this report.</p>
+<p><strong>5. Counting claims proved far more productive than presence claims.</strong> Every real finding in this pass came from checking a <em>number</em>, not from checking whether a word sits at a verse. Presence claims in transliteration are hard to check and mostly came back either weak or falsely failed. <strong>A stated count is the most auditable thing a report can contain</strong>, and the method should lean on that.</p>
+<hr />
+<h2 id="what-was-checked">What was checked</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Documents in scope</td>
+<td>131</td>
+</tr>
+<tr class="even">
+<td>Documents yielding claims</td>
+<td>109</td>
+</tr>
+<tr class="odd">
+<td>Claims extracted</td>
+<td>2,531</td>
+</tr>
+<tr class="even">
+<td>— transliterated Hebrew</td>
+<td>1,821</td>
+</tr>
+<tr class="odd">
+<td>— Hebrew script</td>
+<td>432</td>
+</tr>
+<tr class="even">
+<td>— Greek script</td>
+<td>278</td>
+</tr>
+<tr class="odd">
+<td>Word-to-reference checks</td>
+<td>3,141</td>
+</tr>
+<tr class="even">
+<td>Verified present</td>
+<td>627</td>
+</tr>
+<tr class="odd">
+<td>Verified, but the quoted form is ambiguous enough that the hit proves little</td>
+<td>1,702</td>
+</tr>
+<tr class="even">
+<td>Verified at a neighbouring verse, consistent with English/Hebrew versification</td>
+<td>133</td>
+</tr>
+<tr class="odd">
+<td>Near miss, not explained by versification</td>
+<td>103</td>
+</tr>
+<tr class="even">
+<td>Cross-testament (a Hebrew word cited at a New Testament reference, or the reverse) — out of scope</td>
+<td>347</td>
+</tr>
+<tr class="odd">
+<td>Failed</td>
+<td>194</td>
+</tr>
+<tr class="even">
+<td>Unresolvable to any lemma</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td><strong>Failures examined by hand</strong></td>
+<td><strong>51 — all 38 Greek, all 3 tight transliteration, 10 sampled fuzzy</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Real errors found among them</strong></td>
+<td><strong>0</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Real errors found by count-checking</strong></td>
+<td><strong>1</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="the-error">The error</h2>
+<h3 id="john-the-gathering-threads-statistics">John: the gathering thread’s statistics</h3>
+<blockquote>
+<p><code>book-overview-john.md</code> — “Develops — <strong>συνάγω 4×, σκορπίζω 3×</strong>, εἰς ἕν at 11:52; 17:21, 23 | high”</p>
+<p><code>dig-deeper-john-10-1to21.md</code> — “συνάγω 4× / σκορπίζω 3× <strong>in John</strong> (verified <code>[S…</code>”</p>
+</blockquote>
+<p><strong>Counted against the SBLGNT:</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Lemma</th>
+<th>Claimed</th>
+<th>Actual</th>
+<th>Where</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>συνάγω</td>
+<td>4×</td>
+<td><strong>7×</strong></td>
+<td>4:36; 6:12; 6:13; 11:47; 11:52; 15:6; 18:2</td>
+</tr>
+<tr class="even">
+<td>σκορπίζω</td>
+<td>3×</td>
+<td><strong>2×</strong></td>
+<td>10:12; 16:32</td>
+</tr>
+<tr class="odd">
+<td>διασκορπίζω</td>
+<td>—</td>
+<td>1×</td>
+<td>11:52</td>
+</tr>
+</tbody>
+</table>
+<p>Two distinct faults. <strong>συνάγω</strong> is undercounted: four is the number of occurrences <em>inside the thread being traced</em>, not the number in the Gospel, but the claim says “in John”. <strong>σκορπίζω</strong> is overcounted because 11:52’s scattering is <strong>διασκορπίζω</strong>, a compound with its own lemma — the simplex and the compound have been added together.</p>
+<p>The thread itself is untouched. 6:12 → 10:12, 16 → 11:52 → 16:32 → 17:21–23 is a real and well-observed sequence, and 11:52 genuinely holds both a gathering and a scattering. What fails is the statistic offered as its warrant, in a table cell whose confidence column reads “high” and whose sibling document calls it verified.</p>
+<p><strong>Fix:</strong> either restate as “συνάγω 7× in John, four of them in this thread; σκορπίζω 2×, with διασκορπίζω at 11:52”, or drop the numbers and keep the verse sequence, which was never in doubt.</p>
+<p><strong>One trivial companion.</strong> παροιμία is given as “3× at 10:6; 16:25, 29”. The verses are right; the occurrences are four, because 16:25 carries it twice. A verse count offered as an occurrence count.</p>
+<hr />
+<h2 id="claims-verified-exactly">Claims verified exactly</h2>
+<p>Worth recording, because a claim audit that reports only faults gives a false picture of the work.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Claim</th>
+<th>Source</th>
+<th>Verified</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>“Holy One of Israel splits 12/13 across chs 1–39 and 40–66”</td>
+<td>Isaiah overview</td>
+<td><strong>Exact.</strong> 25 occurrences of קְדוֹשׁ יִשְׂרָאֵל; 12 in chs 1–39, 13 in chs 40–66</td>
+</tr>
+<tr class="even">
+<td>σημεῖον occurs 17 times in John</td>
+<td>John overview</td>
+<td><strong>Exact</strong></td>
+</tr>
+<tr class="odd">
+<td>δαιμόνιον occurs 6 times, every one an accusation against Jesus (7:20; 8:48, 49, 52; 10:20, 21)</td>
+<td>John overview</td>
+<td><strong>Exact, to the verse</strong></td>
+</tr>
+<tr class="even">
+<td>παραβολή occurs 0 times; μετανοέω occurs 0 times</td>
+<td>John overview</td>
+<td><strong>Exact</strong></td>
+</tr>
+<tr class="odd">
+<td>Sheol: “five occurrences” across Proverbs 1–9 (1:12; 2:18 <em>rĕpāʾîm</em>; 5:5; 7:27; 9:18 <em>rĕpāʾîm</em>)</td>
+<td>Proverbs 1–9 dig</td>
+<td><strong>Right as scoped.</strong> Note that שְׁאוֹל occurs 9× in the whole book, so the sentence reads as a book-level count unless the section scope is held in view</td>
+</tr>
+</tbody>
+</table>
+<p>The Isaiah result deserves a note. That claim is load-bearing for the whole Isaiah overview and is tagged <code>[T]</code>. It was made by a run working from supplied BHS exports, and it survives an independent machine count of the construct phrase without a single verse of drift.</p>
+<hr />
+<h2 id="limitations-and-they-are-larger-here-than-in-pass-1">Limitations — and they are larger here than in pass 1</h2>
+<p><strong>The bridge under-confirms.</strong> Transliteration is lossy in ways Hebrew script is not. SBL writes a mater lectionis as a vowel mark (<em>bəʿênāyw</em>) where the lexicon writes the consonant (<em>a.yin</em>); aleph and ayin are dropped by the lexicon’s own scheme; construct endings, verbal prefixes and pronominal suffixes all have to be peeled by guesswork. Each fallback widens the candidate set, so <strong>1,702 of 3,141 checks came back “weak”</strong> — the word was found, but among so many candidate lemmas that finding it proves little.</p>
+<p><strong>Therefore the failures are dominated by artefacts, and absence of a finding is not proof of correctness.</strong> Of 51 failures examined by hand, 51 were faults in the checker. That is reassuring about the reports and damning about the checker’s precision, and it means this pass <strong>cannot certify the Torah clean</strong>. It can say only that it surfaced nothing — which is weaker, and is what the headline says.</p>
+<p><strong>Known checker faults, recorded so a future pass starts ahead of this one:</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Fault</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nearest-reference pairing still mis-assigns in dense clauses</td>
+<td>“<em>mĕzimmâ</em> (1:4)→<em>zāmĕmâ</em> (31:16)” — the second word drew the first reference</td>
+</tr>
+<tr class="even">
+<td>Inflected forms not matched to lexical entries</td>
+<td>συναγαγεῖν against lemma συνάγω; ἑλκύω against SBLGNT’s ἕλκω</td>
+</tr>
+<tr class="odd">
+<td>Compounds not related to simplexes</td>
+<td>διασκορπίζω against σκορπίζω</td>
+</tr>
+<tr class="even">
+<td>Apostrophes cut tokens</td>
+<td><code>κατ᾽ ὄνομα</code> became <code>κατ</code></td>
+</tr>
+<tr class="odd">
+<td>“MT” read as an abbreviation for Matthew</td>
+<td>“= MT 17:5’s” in the Jeremiah sweep resolved to Matt 17:5</td>
+</tr>
+<tr class="even">
+<td>Greek transliterations treated as Hebrew</td>
+<td><em>hilastērion</em>, <em>typos</em> looked for in the Hebrew text</td>
+</tr>
+<tr class="odd">
+<td>Waw-prefixed verbs missed after the waw is normalised to b</td>
+<td><em>wayyaḥšĕbehā</em> at Gen 15:6 — present, reported absent</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Negative claims read as positive.</strong> A report saying a word is <em>distinct from</em>, or <em>against</em>, or <em>not at</em> a verse is making the opposite claim to the one tested. Several failures were reports being careful.</p>
+<hr />
+<h2 id="what-this-changes">What this changes</h2>
+<p><strong>Nothing about re-running the digs.</strong> Pass 1 found four errors, all in one document. This pass found one, in a different document, and it is a corrigible sentence rather than a flawed argument. Two audits across 131 documents have produced five errors, none of which requires a re-run.</p>
+<p><strong>Something about the method, though.</strong> The most auditable claim a report can make is a <strong>count</strong> — and counts are exactly where both this pass’s real finding and pass 1’s cleanest finding came from. Amendment C in <code>dig-deeper-skill-amendments.md</code> requires chains to be verified; on this evidence it should also require that <strong>every stated count name its edition and be reproducible</strong>, since a count is the one claim a later reader can check in a single command.</p>
+<p>The corollary is uncomfortable and worth stating: <strong>the word “verified” in a report is not itself evidence.</strong> The John statistic carries it, and is wrong.</p>
+<hr />
+<h2 id="reproducing-this">Reproducing this</h2>
+<pre><code>python3 _texts/tools/translit.py          # rebuild the bridge
+python3 _audit/extract_verify_v2.py       # extract and verify</code></pre>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>File</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>_texts/_bridge/translit-to-strongs.tsv</code></td>
+<td>3,558 skeletons mapped to Strong’s numbers</td>
+</tr>
+<tr class="even">
+<td><code>_texts/_bridge/strongs-info.tsv</code></td>
+<td>Strong’s, Hebrew, transliteration, gloss</td>
+</tr>
+<tr class="odd">
+<td><code>_audit/04-claims-v2.tsv</code></td>
+<td>2,531 extracted claims with context</td>
+</tr>
+<tr class="even">
+<td><code>_audit/05-verdicts-v2.tsv</code></td>
+<td>3,141 checks with verdicts</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><em>Prepared with the Dig Deeper toolkit in Claim Audit Mode, 4 September 2026. Every failure reported as an error was read in its own context and counted against the primary text. Confirmation by the originating run was not accepted as evidence.</em></p>
+
+</main>
+</div>
+</body>
+</html>

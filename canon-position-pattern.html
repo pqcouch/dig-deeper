@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canon Position — a Harvested Pattern</title>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#canon-position-a-harvested-pattern">Canon Position — a Harvested Pattern</a></li>
+    <li><a href="#why-this-was-harvested">Why this was harvested</a></li>
+    <li><a href="#the-pattern">The pattern</a></li>
+    <li><a href="#worked-example-ruth">Worked example: Ruth</a></li>
+    <li><a href="#the-three-harvested-sections-verbatim">The three harvested sections, verbatim</a></li>
+    <li><a href="#health-warning-on-the-content">Health warning on the content</a></li>
+    <li><a href="#what-to-do-with-this">What to do with this</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="canon-position-a-harvested-pattern">Canon Position — a Harvested Pattern</h1>
+<p><strong>Status:</strong> Reference document. Harvested 4 September 2026 from three imported book overviews. <strong>Purpose:</strong> to preserve, before those overviews are superseded or discarded, the one thing they contain that no document produced by this toolkit contains — an explicit statement of where a book stands in the canon and what that position does to the reading. <strong>Companion:</strong> Amendment B in <code>dig-deeper-skill-amendments.md</code>, which proposes requiring this of every Old Testament passage. This document is its worked example.</p>
+<hr />
+<h2 id="why-this-was-harvested">Why this was harvested</h2>
+<p>Of the thirty-three book overviews in this folder, <strong>three carry a canon-position section, and all three were imported rather than produced here</strong>:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Document</th>
+<th>Heading</th>
+<th>Canon division</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>Torah/Genesis/book-overview-genesis.md</code></td>
+<td><code>HEBREW CANON POSITION</code></td>
+<td>Torah</td>
+</tr>
+<tr class="even">
+<td><code>Ezra-Nehemiah/book-overview-ezra-nehemiah.md</code></td>
+<td><code>HEBREW CANON POSITION</code></td>
+<td>Ketuvim</td>
+</tr>
+<tr class="odd">
+<td><code>1 Peter/book-overview-1-peter.md</code></td>
+<td><code>CANONICAL POSITION</code></td>
+<td>General Epistles</td>
+</tr>
+</tbody>
+</table>
+<p>A fourth imported document, <code>Acts/dig-deeper-acts-book-overview.md</code>, has no such section — it is a differently shaped document that also names the NIV 2011 rather than the ESV as its pulpit text.</p>
+<p><strong>The harvesting is a precaution, and the precedent is recent.</strong> Two other imported overviews, Jeremiah and Leviticus, were superseded by fresh text-first builds on 28 August 2026. Both rebuilds wrote to the same filenames, and the repository’s history begins on that same day with no commit touching any book-overview file. <strong>Git holds no earlier copy of either.</strong> Whatever those two contained is gone, and nobody looked before overwriting. If the remaining imported overviews go the same way, this section goes with them.</p>
+<h2 id="the-pattern">The pattern</h2>
+<p>Reading the three together, a canon-position section is doing five jobs. The first three appear in all of them; the last two only in the fuller specimens.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>The question it answers</th>
+<th>Why it earns its place</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td>Which canon division, and where within it</td>
+<td>The bare fact. Cheap to state, and it is what everything else hangs on</td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>What does standing <em>there</em> do to how the book is read?</td>
+<td>The interpretive payload. A section that stops at the label has not done the work</td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td>What has a reader of <em>this</em> sequence already met by the time they arrive?</td>
+<td><strong>The field that does the most.</strong> It converts canonical position from a label into a reading instruction, and it is testable — every item is a reference that either supports the claim or does not</td>
+</tr>
+<tr class="even">
+<td><strong>Handoff</strong></td>
+<td>What does the book pass to the one that follows it?</td>
+<td>Catches the seam. Genesis ends with a coffin and a command; Exodus 1:7 answers Genesis 1:28</td>
+</tr>
+<tr class="odd">
+<td><strong>Neighbours / unique contribution</strong></td>
+<td>What sits either side, and what would be missing without this book?</td>
+<td>Useful for a series; least load-bearing of the five</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The distinguishing mark of a good one</strong> is that it is <em>falsifiable</em>. “Ruth stands in the Ketuvim” is a fact. “A reader of the Ketuvim sequence arrives at Ruth having just been asked who can find a woman of worth” is a claim — and it can be checked.</p>
+<h2 id="worked-example-ruth">Worked example: Ruth</h2>
+<p>The strongest case for the whole amendment, because the reading it produces cannot exist in English Bible order, and because it verifies exactly.</p>
+<ul>
+<li><strong>Section:</strong> Ketuvim, among the Megilloth. In the order BHS prints, Ruth stands <strong>immediately after Proverbs</strong>.</li>
+<li><strong>Reading implication:</strong> Ruth is not an appendix to Judges. It is a Writings reflection, read by a community that already knows how the monarchy ended, on how the line to David ran through <em>ḥesed</em> and through a Moabite.</li>
+<li><strong>Presupposes:</strong> Proverbs — and specifically its closing poem. Deuteronomy 23:3–4 (no Moabite in the assembly). Genesis 38 (Tamar, named at Ruth 4:12). The Judges period as setting, not as literary neighbour.</li>
+<li><strong>The seam, verified:</strong> Proverbs closes by asking <em>ʾēšet-ḥayil mî yimṣāʾ</em> — “a woman of worth, who can find?” (31:10). The next book in the sequence answers: <em>kî ʾēšet ḥayil ʾātt</em> — “for you are a woman of worth” (Ruth 3:11), said of a Moabite by the whole town gate.</li>
+</ul>
+<p><strong>Verification.</strong> The phrase אֵשֶׁת חַיִל occurs three times in the Hebrew Bible: Proverbs 12:4, Proverbs 31:10, and Ruth 3:11. Counted from <code>_texts/hebrew-wlc/</code> by searching for lemma 802 immediately followed by lemma 2428. <em>(One further adjacency, Proverbs 31:3, is a different construction — “do not give your strength to women” — and is not the phrase; the search finds it because the two lemmas stand next to each other there too. Reported so the count is honest.)</em></p>
+<p>In English Bible order this reading is unavailable. Ruth sits after Judges; Proverbs is nineteen books away; the question and its answer never meet.</p>
+<hr />
+<h2 id="the-three-harvested-sections-verbatim">The three harvested sections, verbatim</h2>
+<p>Reproduced exactly as they stand in the source documents, with inner headings demoted so they nest here. Nothing has been edited, corrected or modernised: the point is the shape, and an edited specimen is no specimen.</p>
+<h3 id="genesis">Genesis</h3>
+<p><em>Source: <code>Torah/Genesis/book-overview-genesis.md</code> (v5.0, May 2026). Canon division: Torah — opening scroll.</em></p>
+<ul>
+<li><strong>Section:</strong> Torah — first of the five books of Moses (the Pentateuch as a single five-scroll work)</li>
+<li><strong>Reading implication:</strong> Genesis opens the Torah and thereby opens the entire Tanakh (Torah → Nevi’im → Ketuvim). As the Torah’s opening scroll, it establishes the categories — creation, humanity, image, blessing, seed, land, covenant — within which all subsequent revelation operates. The Torah has been read as having an ABCB′A′ concentric structure (Genesis↔︎Deuteronomy, Exodus↔︎Numbers, Leviticus at the centre) — a literary proposal associated with Mary Douglas and developed theologically by Morales; defensible but not scholarly consensus, and weakest on the Exodus↔︎Numbers leg. What <em>is</em> strong, and load-bearing here, is the Genesis↔︎Deuteronomy pairing: both end with a patriarch/leader blessing the twelve tribes before dying outside the land. The “beginning” (<em>bereshit</em>) is paired throughout Scripture with “the end” (<em>ahrit hayyamim</em>, “last days”), signalling that creation has a trajectory and a goal — the book itself uses this frame (1:1 and 49:1).</li>
+<li><strong>Presupposes:</strong> Nothing prior — Genesis is the origin point. However, its first readers encountered it in a context already shaped by the Exodus and Sinai events: the tabernacle was with them when they received this text (see Presenting Situation), meaning they would read creation, the garden, and the loss of the divine presence through that lens.</li>
+<li><strong>Handoff within the Tanakh:</strong> Genesis ends in Egypt with a coffin and a command (50:24–26); Exodus 1:7 immediately shows the fulfilment of “be fruitful and multiply” (Gen 1:28) and Exodus 2:24 records God “remembering his covenant” — the deliberate echo of Genesis 8:1 (“God remembered Noah”). The Nevi’im begins with Joshua, which presupposes the entire Torah’s unresolved tension (the land still not possessed) and answers it.</li>
+</ul>
+<h3 id="ezra-nehemiah">Ezra-Nehemiah</h3>
+<p><em>Source: <code>Ezra-Nehemiah/book-overview-ezra-nehemiah.md</code> (undated). Canon division: Ketuvim — the closing historical group.</em></p>
+<table>
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 98%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Question</th>
+<th>Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td>Writings (כְּתוּבִים) — in the final, forward-looking historical section (Esther, Daniel, Ezra-Nehemiah, Chronicles)</td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>Reflection literature, not straightforward history; the reader has already encountered the Torah’s covenant promises and curses, the Prophets’ announcements of exile and restoration, and Daniel’s apocalyptic vision of the seventy sevens. Ezra-Nehemiah presupposes all of this and narrates the <em>partial</em> historical fulfilment — a return that is real but profoundly incomplete.</td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td><strong>Torah:</strong> Genesis 1–11 (creation, Babel/Shinar, Abrahamic promise); Exodus 12 (plundering Egypt — typologically replayed); Leviticus 5–6 (reparation offering behind mass divorce); Leviticus 23 (festivals — Tabernacles, Passover); Leviticus 26:40–45 (exile confession leading to covenant remembrance); Deuteronomy 7:1–4 (prohibition against covenant-breaking marriages); Deuteronomy 23:3–8 (law of the assembly); Deuteronomy 28–30 (covenant curses, exile, and the promise of return — but critically, Nehemiah stops short of Deut 30:6, circumcision of the heart). <strong>Prophets:</strong> Isaiah 40–55 (new exodus, Cyrus named in 44:28–45:1, “stirred up” language in 45:13); Isaiah 56–66 (the vision of restored Zion, servants, and glory that Ezra-Nehemiah positions us as still awaiting); Jeremiah 25:11–12; 29:10 (seventy years); Haggai 1:14 (“stirred up the spirit”); Haggai 2:3–9 (glory of the latter house — promised but not yet arrived); Zechariah 8:23 (nations grabbing hems). <strong>Writings:</strong> Daniel 9 (seventy weeks — the exile is not over until the Messiah comes); Psalms 89, 106, 132, 137 (exile prayers using “remember” language that Nehemiah echoes).</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The crucial hermeneutical key:</strong> Ezra-Nehemiah is placed in the Writings, not the Prophets, because its function is not to announce God’s word fresh but to <em>narrate what happened when the prophetic promises began to be fulfilled</em> — and to show that the fulfilment, while real, is devastatingly partial. It is the Bible’s record of what Dempster calls “exile in the land” — a return in body but not in spirit. The seventy years of Jeremiah may be over, but the seventy weeks of Daniel have only just begun.</p>
+<h3 id="peter">1 Peter</h3>
+<p><em>Source: <code>1 Peter/book-overview-1-peter.md</code> (undated). Canon division: General Epistles.</em></p>
+<h5 id="section">Section</h5>
+<ul>
+<li><strong>Collection:</strong> General Epistles (Hebrews–Jude)</li>
+<li><strong>This book’s position:</strong> Middle of the General Epistles; the first of two Petrine letters</li>
+<li><strong>Reading implication:</strong> Non-Pauline apostolic letter; pastoral instruction to churches the author did not plant but has apostolic responsibility for. Broadens the NT’s voice beyond Paul — Peter and Paul share common tradition (cf. 1 Cor 15:11) but Peter’s emphasis on exile identity and the suffering-to-glory pattern is distinctive</li>
+<li><strong>Presupposes:</strong> Torah (Exodus 12, 19, 24; Leviticus holiness code; Genesis — Abraham/Sarah, Noah); Prophets (Isaiah extensively — chs. 8, 11, 28, 40, 43, 52–53); Psalms (34, 118); Hosea 1–2; Proverbs 3, 11; the Gospel events (Christ’s death, resurrection, ascension); early Christian tradition shared with Paul</li>
+<li><strong>Building or reflecting?</strong> Building — constructing a theological framework for how the eschatological people of God should live as a marginalised minority in a hostile society, grounded in Christ’s suffering-to-glory pattern</li>
+<li><strong>Preceding book (canonical):</strong> James — shares diaspora language (Jas 1:1) and concern for practical conduct, but addresses internal community issues (wealth, speech, favouritism) while 1 Peter addresses the community’s relationship with hostile outsiders</li>
+<li><strong>This book’s unique contribution:</strong> The NT’s most sustained treatment of how gospel identity shapes conduct under social pressure — neither accommodating nor retaliating, but doing good under fire, following Christ’s pattern, trusting the righteous Judge</li>
+<li><strong>Handoff to next book:</strong> 2 Peter shifts from external threats (social hostility) to internal threats (false teachers). The “stand firm” of 1 Peter 5:12 becomes the “grow in grace and knowledge” of 2 Peter 3:18 — having weathered persecution, the church must now guard its doctrine</li>
+</ul>
+<h5 id="this-matters-because">This Matters Because</h5>
+<p>1 Peter is the New Testament’s most concentrated treatment of how the gospel of Jesus Christ shapes the believer’s engagement with a hostile culture. It draws more heavily on the OT per verse than almost any other NT book, and its hermeneutical key (1:10–12) explicitly claims that the prophets wrote <em>to serve</em> these communities. Peter constructs the church’s identity from Israel’s Scriptures and then shows what that identity demands in the midst of social suffering. Without 1 Peter, the canon would lack a sustained, apostolic treatment of Christian identity and conduct under social pressure — neither retreating nor retaliating but doing good while trusting God for vindication.</p>
+<hr />
+<h2 id="health-warning-on-the-content">Health warning on the content</h2>
+<p><strong>Keep the shape; test the claims.</strong> These sections are secondary-source work by nature. The Genesis one names its sources at the head of its document — Cornhill Plus lecture transcripts, Dempster’s <em>Dominion and Dynasty</em>, Morales’s <em>Who Shall Ascend the Mountain of the Lord</em>, Schnittjer — and its claims are <code>[S]</code> accordingly. It is candid about this in places (the ABCB′A′ Torah structure is flagged as “defensible but not scholarly consensus, and weakest on the Exodus↔︎Numbers leg”), which is a good sign, but candour is not verification.</p>
+<p>Three specific things to test before any of this content is reused:</p>
+<ol type="1">
+<li><strong>Every item in a <code>Presupposes</code> list is a reference</strong>, and every reference is checkable. The Ezra-Nehemiah list is long and precise — Leviticus 26:40–45, Deuteronomy 30:6, Haggai 1:14, Daniel 9 — which makes it the most useful and the most auditable of the three.</li>
+<li><strong>The Ezra-Nehemiah entry’s sharpest claim</strong> — that Nehemiah “stops short of Deut 30:6, circumcision of the heart” — is an argument from absence. Under the toolkit’s own rule, an absence may be reported only where the pattern that makes it visible can be cited with instances. It may well hold; it has not been shown here.</li>
+<li><strong>The 1 Peter section’s canonical neighbours</strong> (James before, 2 Peter after) are stated as though the ordering were doing interpretive work. In the General Epistles that ordering is far less settled than the Tanak’s, and the claim should be weighted accordingly.</li>
+</ol>
+<h2 id="what-to-do-with-this">What to do with this</h2>
+<ul>
+<li><strong>Amendment B</strong> carries the field template and the Ruth worked example, so the pattern survives independently of these three documents.</li>
+<li><strong>The three source documents</strong> can now be superseded, rebuilt or retired without losing the section.</li>
+<li><strong>When our own overviews gain a canon-position section</strong>, the <code>Presupposes</code> field is the one to spend effort on, and the one to verify — it is the only field that produces testable claims rather than orientation.</li>
+</ul>
+<hr />
+<p><em>Harvested 4 September 2026. The three sections below the pattern are reproduced verbatim from their source documents; the pattern, the Ruth example and this warning are new.</em></p>
+
+</main>
+</div>
+</body>
+</html>
