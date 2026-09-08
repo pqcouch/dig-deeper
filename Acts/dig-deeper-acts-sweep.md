@@ -2336,10 +2336,14 @@ Passage-level pitfalls are given at each pericope. These four operate across the
 11. **The Amos-pair claim** (Amos 5 at the pivot, Amos 9 at the hinge, both LXX) is the
     sweep's most attractive untested pattern. It clears the ≥2 threshold for a two-member
     pattern but not the ≥3 macro gate. **Do not enter it in the overview without an audit.**
-12. **The ESV export in `_texts/logos-exports/` has no chapter markers** — only a leading
-    `Ac 1:1` and then bare verse numbers — so it cannot be parsed by reference without
-    inferring chapter breaks from verse resets. Worth re-exporting with chapter headings, as
-    the NASB95 export has.
+12. ~~The ESV export has no chapter markers.~~ **Withdrawn — this was my error, not the
+    file's.** The export *does* mark every chapter: `Ac 1:1` at the head, then `2:1`, `3:1`
+    … `28:1` opening each chapter, with bare verse numbers between. My first parser matched
+    the bare number in `2:1` as verse 2 and never saw the colon, so it reported no markers.
+    Parsed correctly the file yields **1,003 verses in 28 chapters** — the standard ESV
+    versification, omitting 8:37, 15:34, 24:7 and 28:29, and (unlike SBLGNT) keeping 19:41
+    as its own verse. Every ESV rendering quoted in this report has been re-checked against
+    a correct parse and stands unchanged. *Corrected 8 September 2026.*
 
 ***
 

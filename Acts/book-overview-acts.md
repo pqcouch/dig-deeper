@@ -100,6 +100,7 @@ Acts is saturated with the **Greek** Old Testament — and its two most structur
 |---|---|---|---|---|
 | **Exodus 1:7 LXX** | 6:7; 7:17; 12:24; 19:20 | Supplies the seam-vocabulary; makes the church Israel-multiplying-in-Egypt, on the way out | ✅ **live (4)** | high `[revised: logos-research]` |
 | **Genesis 1:28 / 9:1 LXX** | behind the same four | The creation blessing standing behind Exod 1:7 — the mandate fulfilled in the gospel | via above | moderate–high `[S: Schreiner]` |
+| **4 Reigns (2 Kgs) 2:9–11 LXX** | behind 1:9–11 | The ascension told in Elijah's vocabulary — *ἀναλαμβάνω* 3× in the source scene, twice with *ἀπό*, shared *εἰς τὸν οὐρανόν*; the disciples put in Elisha's watching position, so the fourfold gaze is the fulfilled condition of the Spirit's coming | ✅ **live** (Elijah–Elisha material across both volumes: Luke 4:25–27; 7:11–17; 9:59–62; Acts 9:36–41) | high `[revised: logos-research]` |
 | **Joel 3:1–5 LXX (Eng. 2:28–32)** | 2:17–21 | Sets the eschatological frame; *the last days* have begun; plants *everyone who calls on the name* | — (1) | high |
 | **Psalm 16:8–11** | 2:25–28; 13:35 | The resurrection argument — David's tomb is here, so the psalm speaks of another. **The only OT text Luke gives to both Peter and Paul in the same role** | ✅ live (2) | high |
 | **Psalm 110:1** | 2:34–35 | The enthronement; supplies the right hand Stephen sees occupied (7:55) | — (1) | high |
@@ -123,7 +124,7 @@ Acts is saturated with the **Greek** Old Testament — and its two most structur
 | **Ezekiel 34** | behind 20:28–29 | Shepherd, flock, wolves — the failed-shepherds oracle | — (1) | moderate |
 | *Aratus, Phaenomena* | 17:28 | The only quotations in the Areopagus speech are **pagan** | — | high |
 
-**Live sources, ranked:** Isaiah (7 uses across 4 texts) · the Psalter (6 uses across 5 psalms) · Exodus (5) · Amos (2) · Deuteronomy (2) · Genesis (2).
+**Live sources, ranked:** Isaiah (7 uses across 4 texts) · the Psalter (6 uses across 5 psalms) · Exodus (5) · Amos (2) · Deuteronomy (2) · Genesis (2) · the Elijah–Elisha cycle (1 in Acts, live across both volumes).
 
 **Two honesty notes the passage runs need.**
 
@@ -206,6 +207,7 @@ Fuel for dig-deeper's Move 4. The opening chapters were held open against the wh
 | Charge against Stephen: *κατὰ τοῦ **τόπου** τοῦ ἁγίου καὶ τοῦ νόμου*, 6:13 | Charge against Paul: *κατὰ τοῦ λαοῦ καὶ τοῦ νόμου καὶ τοῦ **τόπου** τούτου*, 21:28 | The same charge, fifteen chapters apart, in nearly the same words | high `[T]` |
 | Stephen: God *οὐκ ἐν **χειροποιήτοις** κατοικεῖ*, 7:48 | Paul at Athens: *οὐκ ἐν **χειροποιήτοις** ναοῖς κατοικεῖ*, 17:24 | Two occurrences in Acts. Paul says to Athens what Stephen was killed for saying to Jerusalem | high `[T]` |
 | Stephen: the **σκηνή** of Moloch (7:43) against the **σκηνή** of witness (7:44) | James: *ἀνοικοδομήσω τὴν **σκηνὴν** Δαυίδ*, 15:16 | Three occurrences in Acts. The temple question opened at the pivot is closed at the hinge — and both moves are made from the Greek Amos | moderate `[S: sweep]` — flagged for audit |
+| *καὶ ἰδοὺ **ἄνδρες δύο*** — Luke 9:30 (transfiguration: Moses and Elijah, on his *ἔξοδος*); Luke 24:4 (the tomb) | **Acts 1:10** (the ascension) | Three occurrences in the whole NT, all Lukan. At the tomb and the ascension the two men ask the same shape of question — *why seek the living among the dead* / *why stand looking into heaven* | high `[T]` on the distribution; moderate–high on the design |
 | Stephen: *ηὔξησεν ὁ λαὸς καὶ ἐπληθύνθη ἐν Αἰγύπτῳ*, 7:17 | 6:7; 12:24; 19:20 | The character's phrase identifies the narrator's refrain | high `[revised: logos-research]` |
 | Coats laid *παρὰ τοὺς πόδας νεανίου Σαύλου*, 7:58 | *ἤμην ἐφεστὼς καὶ συνευδοκῶν καὶ φυλάσσων τὰ ἱμάτια*, 22:20 | Paul recalls in his own words the scene Luke narrated fifteen chapters earlier — and calls Stephen *ὁ μάρτυς σου* | high `[T]` |
 | The lame man *χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ*, 3:2 | The Lystran man *χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ*, 14:8 | Verbally identical; both leap and walk. The most exact Peter–Paul parallel in the book | high `[T]` |
@@ -280,16 +282,16 @@ For a shorter series, the eleven ⭐ units plus 12:1–25 and 15:36–16:15 give
 
 ## Colophon
 
-**Version:** 2.0 (supersedes the imported 1.0, `dig-deeper-acts-book-overview.md`, now in `Acts/_superseded/`)
+**Version:** 2.1 — 8 Sep 2026, after the solo dig on 1:1–11: added 4 Reigns 2:9–11 to the intertextual map and the *ἄνδρες δύο* formula to the echo table, both from `dig-deeper-acts-1-1to11.md` and both confirmed in Logos. (2.0, 7 Sep 2026, superseded the imported 1.0, now in `Acts/_superseded/`.)
 **Date:** 7 September 2026
 **Mode:** Finalise / Upgrade
 
 **Sources consulted.**
 *Primary:* SBLGNT Acts (all 1,002 verses, `_texts/greek-nt-sblgnt/`) with its lemma index; NA28 (`_texts/logos-exports/NA28 Acts.txt`) as citation of record; Swete LXX for Exod 1:7, Gen 1:28/9:1, Josh 7:1; NASB95 and ESV exports.
-*Toolkit:* `dig-deeper-acts-sweep.md` (33 pericopes); `dig-deeper-acts-18-23to19-20.md`; `dig-deeper-acts-19-21to20-1.md`.
-*Logos (Study Assistant, 7 Sep 2026):* Tannehill, *The Narrative Unity of Luke-Acts: The Acts of the Apostles* (Fortress, 1994), 82; Sproul (ed.), *Reformation Study Bible* ESV (2015), 1952; Schreiner, *Handbook on Acts and Paul's Letters* (Baker Academic, 2019), 6; Wall, "The Acts of the Apostles", *New Interpreter's Bible* (Abingdon), 10:368.
+*Toolkit:* `dig-deeper-acts-sweep.md` (33 pericopes); `dig-deeper-acts-1-1to11.md`; `dig-deeper-acts-18-23to19-20.md`; `dig-deeper-acts-19-21to20-1.md`.
+*Logos (Study Assistant, 7 Sep 2026):* Tannehill, *The Narrative Unity of Luke-Acts: The Acts of the Apostles* (Fortress, 1994), 82; Sproul (ed.), *Reformation Study Bible* ESV (2015), 1952; Schreiner, *Handbook on Acts and Paul's Letters* (Baker Academic, 2019), 6; Wall, "The Acts of the Apostles", *New Interpreter's Bible* (Abingdon), 10:368. *8 Sep:* Litwak, *Echoes of Scripture in Luke-Acts* (JSNTSup 282; T&T Clark, 2005), 149–150; Parsons, *Acts* (Paideia; Baker Academic, 2008), 27; Talbert, *Reading Acts* (Smyth & Helwys, 2005), 3; Orr, *Exalted above the Heavens* (NSBT 47; IVP/Apollos, 2018), 90.
 *Not opened:* Pao, *Acts and the Isaianic New Exodus* — deliberately, so that this overview does not rest on the monograph the previous version was built from. Its claims are flagged for a claim audit, not adjudicated here.
 
 **Warrant counts:** `[T]` 46 · `[I]` 9 · `[S]` 22 (of which `[S: sweep]` 8, `[revised: logos-research]` 5, `[S: prior report]` 3).
 
-**Health note.** Version 2.0 is **finalised on a complete sweep but provisional where solo depth is outstanding**: all 33 units have sweep-depth runs, but only two units (18:23–19:20 and 19:21–20:1) have full solo runs, and eleven of the twelve ⭐ HIGH units do not. Treat the ⭐ entries as planned, not prepared. The `[S]` count is high by design — that is what a Finalise pass looks like, and it shows honestly how much of this document is now sweep-confirmed rather than text-only. Two headline claims were taken to Logos before being admitted: the Exodus 1:7 echo came back **confirmed and already established in the literature** (so it is not this project's discovery, and is stated at high confidence); the κωλύω thread came back **half-corroborated** — the terminal *ἀκωλύτως* is recognised by Wall, the six-occurrence thread is not attested, and it is therefore held at moderate confidence throughout. The most attractive untested pattern in the book is the Amos pair (5:25–27 at the pivot, 9:11–12 at the hinge, linked by *σκηνή*); it clears a two-member threshold but not the three-pericope macro gate, and should not be preached as established until audited.
+**Health note.** Version 2.1 is **finalised on a complete sweep but provisional where solo depth is outstanding**: all 33 units have sweep-depth runs, but only three units (1:1–11, 18:23–19:20 and 19:21–20:1) have full solo runs, and **ten** of the twelve ⭐ HIGH units do not. Treat the ⭐ entries as planned, not prepared. The `[S]` count is high by design — that is what a Finalise pass looks like, and it shows honestly how much of this document is now sweep-confirmed rather than text-only. Two headline claims were taken to Logos before being admitted: the Exodus 1:7 echo came back **confirmed and already established in the literature** (so it is not this project's discovery, and is stated at high confidence); the κωλύω thread came back **half-corroborated** — the terminal *ἀκωλύτως* is recognised by Wall, the six-occurrence thread is not attested, and it is therefore held at moderate confidence throughout. The most attractive untested pattern in the book is the Amos pair (5:25–27 at the pivot, 9:11–12 at the hinge, linked by *σκηνή*); it clears a two-member threshold but not the three-pericope macro gate, and should not be preached as established until audited.
