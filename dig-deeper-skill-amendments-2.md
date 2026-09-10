@@ -1,6 +1,6 @@
 # Dig Deeper — Proposed Skill Amendments, Round 2
 
-**Status:** Draft v1.0 — **proposed, not applied.** Nothing in the installed skill has been changed.
+**Status:** **v1.1 — ADOPTED and packaged, 10 September 2026.** All four amendments are built into `dig-deeper-amended-2026-09-10.skill`; Amendment **G is adopted on trial** and is marked as such in the skill itself. The pre-amendment skill is backed up in `_skill-backup/`.
 **Date:** 10 September 2026
 **Prepared for:** the continuing process review opened 2 September 2026
 **Scope:** four amendments to `dig-deeper`, each with the exact file, anchor and text to change.
@@ -286,7 +286,18 @@ Round 1's constraint still holds: a proposal card replaces `SKILL.md` only. Two 
 | Amendment H, Edit 3 | `references/extensions/textual-variants.md` | `.skill` package, or re-site into `SKILL.md` |
 | Amendment J, Edit 2 | `references/04-words-and-translations.md` | `.skill` package, or fold into gate item (e3) |
 
-**Recommendation: build the `.skill` package.** Round 1 re-sited its reference-tree edits into `SKILL.md` because the package route had not yet been worked out; it has been since, and the four files Round 1 left stating the old position are still outstanding. A package for this round can carry Round 1's four unfixed files at the same time, which is the cheapest moment to clear them.
+**Recommendation: build the `.skill` package.**
+
+**Correction, made while building it on 10 September.** This section originally said that "the four files Round 1 left stating the old position are still outstanding", and recommended clearing them in the same package. **That was wrong.** It was taken from the Round 1 document's own *What cannot be applied* table, which was written *before* the 7 September package was installed and never updated afterwards. Checking the installed reference tree directly shows all four Round-1 edits present:
+
+| Round 1 edit | File | Actual status |
+|---|---|---|
+| A/4 | `references/extensions/textual-variants.md` | **Installed** — the three-way triage and "working default" section are both there |
+| B/1 | `references/07-application-foundations.md` | **Installed** — Tool 14 §Canonical position, with the five fields |
+| B/2 | `references/01-purpose-and-context.md` | **Installed** — Tool 2 context level 6, canonical context |
+| C/3 | `references/04-words-and-translations.md` | **Installed** — Tool 7 "Verify before you report" |
+
+Nothing was outstanding, and nothing needed clearing. **The error is instructive and is left on the record rather than quietly deleted:** it is a status claim taken from a stale secondary source instead of from the thing itself — the same failure the skill's own Text-First Discipline exists to prevent, committed in a document about improving that skill. **Round 1's status table should now be marked superseded**, so it does not mislead a third round.
 
 ---
 
@@ -302,4 +313,29 @@ Round 1's constraint still holds: a proposal card replaces `SKILL.md` only. Two 
 
 ---
 
-*Prepared 10 September 2026. Proposed only — the installed skill is unchanged.*
+## Build record — 10 September 2026
+
+Package: `dig-deeper-amended-2026-09-10.skill`. Validated before packaging (`quick_validate`: *Skill is valid*).
+
+**Exactly four files differ** from the installed skill, which is the whole intended change and nothing else:
+
+| File | Change |
+|---|---|
+| `SKILL.md` | 633 → 684 lines. Amendments G (Phase 0.5d + five consequential edits), H (gate item (e4), Phase 0.2 warning, Declaration line), I (Handling Tools point 5), J (gate item (e3) clause) |
+| `references/extensions/textual-variants.md` | Amendment H, Edit 3 — the fourth-category section |
+| `references/04-words-and-translations.md` | Amendment J, Edit 2 — the phrase-search rule |
+| `references/CHANGELOG.md` | Round 2 provenance entry |
+
+**One thing changed from the draft.** Amendment G as installed carries an opening paragraph the draft did not have:
+
+> **Adopted on trial, September 2026.** Unlike the other amendments of its round, this mode rests on a single completed run. Treat it as a hypothesis to be tested by the next synoptic run, not as settled method — and if a synoptic report turns out worse than two separate digs would have been, say so and withdraw the mode.
+
+That paragraph is the difference between an amendment and a hypothesis, and it belongs in the file a run actually reads rather than only in this one.
+
+**One thing went wrong during the build and was fixed:** Amendment I's new point 5 was first inserted *before* the existing point 4, leaving the section numbered 1, 2, 3, 5, 4. Caught on re-reading, reordered, re-checked.
+
+**The next verdict on G** is the Isaiah 36–39 // 2 Kings 18–20 run. It is the "open" case, where the direction of dependence must not be resolved — which is the harder half of the mode and the half the Decalogue run never exercised.
+
+---
+
+*Prepared 10 September 2026; adopted and packaged the same day.*

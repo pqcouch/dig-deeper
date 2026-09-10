@@ -54,11 +54,12 @@
     <li><a href="#changelog-entry-to-add">Changelog entry to add</a></li>
     <li><a href="#what-cannot-be-applied-through-skill.md-at-all">What cannot be applied through SKILL.md at all</a></li>
     <li><a href="#what-is-deliberately-not-proposed">What is deliberately not proposed</a></li>
+    <li><a href="#build-record-10-september-2026">Build record — 10 September 2026</a></li>
   </ul>
 </nav>
 <main>
 <h1 id="dig-deeper-proposed-skill-amendments-round-2">Dig Deeper — Proposed Skill Amendments, Round 2</h1>
-<p><strong>Status:</strong> Draft v1.0 — <strong>proposed, not applied.</strong> Nothing in the installed skill has been changed. <strong>Date:</strong> 10 September 2026 <strong>Prepared for:</strong> the continuing process review opened 2 September 2026 <strong>Scope:</strong> four amendments to <code>dig-deeper</code>, each with the exact file, anchor and text to change. <strong>Relationship to Round 1:</strong> Amendments A–E were drafted 2 September, revised 4 September, and <strong>applied 7 September</strong> — the amended <code>SKILL.md</code> from a proposal card, and the four reference-tree edits as an installable <code>.skill</code> package. This document continues that sequence.</p>
+<p><strong>Status:</strong> <strong>v1.1 — ADOPTED and packaged, 10 September 2026.</strong> All four amendments are built into <code>dig-deeper-amended-2026-09-10.skill</code>; Amendment <strong>G is adopted on trial</strong> and is marked as such in the skill itself. The pre-amendment skill is backed up in <code>_skill-backup/</code>. <strong>Date:</strong> 10 September 2026 <strong>Prepared for:</strong> the continuing process review opened 2 September 2026 <strong>Scope:</strong> four amendments to <code>dig-deeper</code>, each with the exact file, anchor and text to change. <strong>Relationship to Round 1:</strong> Amendments A–E were drafted 2 September, revised 4 September, and <strong>applied 7 September</strong> — the amended <code>SKILL.md</code> from a proposal card, and the four reference-tree edits as an installable <code>.skill</code> package. This document continues that sequence.</p>
 <p><strong>Lettering.</strong> These are <strong>G, H, I and J</strong>. <strong>F is skipped deliberately:</strong> Round 1’s <em>Consequential edits</em> table already uses the identifiers F1–F7, and re-using the bare letter F would make two different things share a name in the same series.</p>
 <hr />
 <h2 id="how-to-read-this-document">How to read this document</h2>
@@ -431,7 +432,45 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Recommendation: build the <code>.skill</code> package.</strong> Round 1 re-sited its reference-tree edits into <code>SKILL.md</code> because the package route had not yet been worked out; it has been since, and the four files Round 1 left stating the old position are still outstanding. A package for this round can carry Round 1’s four unfixed files at the same time, which is the cheapest moment to clear them.</p>
+<p><strong>Recommendation: build the <code>.skill</code> package.</strong></p>
+<p><strong>Correction, made while building it on 10 September.</strong> This section originally said that “the four files Round 1 left stating the old position are still outstanding”, and recommended clearing them in the same package. <strong>That was wrong.</strong> It was taken from the Round 1 document’s own <em>What cannot be applied</em> table, which was written <em>before</em> the 7 September package was installed and never updated afterwards. Checking the installed reference tree directly shows all four Round-1 edits present:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Round 1 edit</th>
+<th>File</th>
+<th>Actual status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A/4</td>
+<td><code>references/extensions/textual-variants.md</code></td>
+<td><strong>Installed</strong> — the three-way triage and “working default” section are both there</td>
+</tr>
+<tr class="even">
+<td>B/1</td>
+<td><code>references/07-application-foundations.md</code></td>
+<td><strong>Installed</strong> — Tool 14 §Canonical position, with the five fields</td>
+</tr>
+<tr class="odd">
+<td>B/2</td>
+<td><code>references/01-purpose-and-context.md</code></td>
+<td><strong>Installed</strong> — Tool 2 context level 6, canonical context</td>
+</tr>
+<tr class="even">
+<td>C/3</td>
+<td><code>references/04-words-and-translations.md</code></td>
+<td><strong>Installed</strong> — Tool 7 “Verify before you report”</td>
+</tr>
+</tbody>
+</table>
+<p>Nothing was outstanding, and nothing needed clearing. <strong>The error is instructive and is left on the record rather than quietly deleted:</strong> it is a status claim taken from a stale secondary source instead of from the thing itself — the same failure the skill’s own Text-First Discipline exists to prevent, committed in a document about improving that skill. <strong>Round 1’s status table should now be marked superseded</strong>, so it does not mislead a third round.</p>
 <hr />
 <h2 id="what-is-deliberately-not-proposed">What is deliberately not proposed</h2>
 <p><strong>A synoptic re-run of the pairs already partly covered.</strong> Isaiah 36–39 and 2 Kings 18–20 both have material in the folder, and it would be tempting to run the pair immediately as a test of Amendment G. The honest sequence is the other way round: adopt the amendment, then run the pair <em>under</em> it, so the mode is tested rather than retrofitted. The Decalogue report is the specimen; Isaiah/Kings should be the first true trial, not a second specimen.</p>
@@ -439,7 +478,48 @@
 <p><strong>A general “consult the library” step.</strong> Amendment I hardens the existing instruction rather than adding a phase. A blanket requirement to run library queries would compete with the text-first discipline, which is the one thing in this method that must not be diluted: the corpus is the substrate, and the library is a check on it.</p>
 <p><strong>Anything about the Deuteronomy overview.</strong> That it is v0.1.0, ESV and pre-corpus is a fact about a document, not about the skill, and it belongs in the run note and the Book-Overview Tensions section where it already stands.</p>
 <hr />
-<p><em>Prepared 10 September 2026. Proposed only — the installed skill is unchanged.</em></p>
+<h2 id="build-record-10-september-2026">Build record — 10 September 2026</h2>
+<p>Package: <code>dig-deeper-amended-2026-09-10.skill</code>. Validated before packaging (<code>quick_validate</code>: <em>Skill is valid</em>).</p>
+<p><strong>Exactly four files differ</strong> from the installed skill, which is the whole intended change and nothing else:</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>File</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>SKILL.md</code></td>
+<td>633 → 684 lines. Amendments G (Phase 0.5d + five consequential edits), H (gate item (e4), Phase 0.2 warning, Declaration line), I (Handling Tools point 5), J (gate item (e3) clause)</td>
+</tr>
+<tr class="even">
+<td><code>references/extensions/textual-variants.md</code></td>
+<td>Amendment H, Edit 3 — the fourth-category section</td>
+</tr>
+<tr class="odd">
+<td><code>references/04-words-and-translations.md</code></td>
+<td>Amendment J, Edit 2 — the phrase-search rule</td>
+</tr>
+<tr class="even">
+<td><code>references/CHANGELOG.md</code></td>
+<td>Round 2 provenance entry</td>
+</tr>
+</tbody>
+</table>
+<p><strong>One thing changed from the draft.</strong> Amendment G as installed carries an opening paragraph the draft did not have:</p>
+<blockquote>
+<p><strong>Adopted on trial, September 2026.</strong> Unlike the other amendments of its round, this mode rests on a single completed run. Treat it as a hypothesis to be tested by the next synoptic run, not as settled method — and if a synoptic report turns out worse than two separate digs would have been, say so and withdraw the mode.</p>
+</blockquote>
+<p>That paragraph is the difference between an amendment and a hypothesis, and it belongs in the file a run actually reads rather than only in this one.</p>
+<p><strong>One thing went wrong during the build and was fixed:</strong> Amendment I’s new point 5 was first inserted <em>before</em> the existing point 4, leaving the section numbered 1, 2, 3, 5, 4. Caught on re-reading, reordered, re-checked.</p>
+<p><strong>The next verdict on G</strong> is the Isaiah 36–39 // 2 Kings 18–20 run. It is the “open” case, where the direction of dependence must not be resolved — which is the harder half of the mode and the half the Decalogue run never exercised.</p>
+<hr />
+<p><em>Prepared 10 September 2026; adopted and packaged the same day.</em></p>
 
 </main>
 </div>
