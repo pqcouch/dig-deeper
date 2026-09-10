@@ -1,6 +1,6 @@
 # Dig Deeper: Acts 20:17–38
 
-**Primary text:** SBLGNT (`_texts/greek-nt-sblgnt/05-Acts.txt`), read before any English, with the MorphGNT lemma index (`_index/05-Acts.tsv`, 18,412 indexed words) for every count; NA28 (`_texts/logos-exports/NA28 Acts.txt`) as citation of record, with its apparatus sigla, and — from 9 Sep 2026 — the full NA28 apparatus for chapters 20–21 (`_texts/logos-exports/NA28 apparatus Acts 20-21.txt`); Swete LXX (`_texts/greek-lxx-swete/`) for Genesis, Isaiah, Ezekiel, Zephaniah and Jeremiah
+**Primary text:** SBLGNT (`_texts/greek-nt-sblgnt/05-Acts.txt`), read before any English, with the MorphGNT lemma index (`_index/05-Acts.tsv`, 18,412 indexed words) for every count; NA28 (`_texts/logos-exports/NA28 Acts.txt`) as citation of record, with its apparatus sigla, and — from 9 Sep 2026 — the NA28 apparatus (`_texts/logos-exports/NA28 apparatus Acts.txt`; supplied that day as a chapters 20–21 export, completed to the whole book on 10 Sep and since merged into one file); Swete LXX (`_texts/greek-lxx-swete/`) for Genesis, Isaiah, Ezekiel, Zephaniah and Jeremiah
 **Study text:** NASB95
 **Pulpit text:** **Not declared — no engagement stated.** Tool 8 therefore runs NASB95 against the ESV (Anglicised), the text at his own church. **If this is being prepared for a church using the NIV84 or another version, say so and the divergence check should be re-run** — one of the findings below (§8, the loss of *shepherd*) is severely translation-sensitive and changes what a congregation can hear.
 **Book-overview context:** `book-overview-acts.md` v2.1 (Finalise, 8 Sep 2026), held as the Phase 0.5 active layer
@@ -419,13 +419,13 @@ And the shape of the whole: **the last thing Paul is recorded saying to a church
 
 ### Textual Variants
 
-**Revised 9 September 2026.** As first written, this section had to work from `NA28 Acts.txt`, which carries **the text with apparatus sigla but not the apparatus entries** — it establishes *where* NA28 marks variation and not what the witnesses are, so the witness lists were `[S]` from memory and flagged for confirmation. Patrick then supplied the NA28 apparatus for chapters 20–21 (`_texts/logos-exports/NA28 apparatus Acts 20-21.txt`), and everything below is now read off the edition and tagged `[T]`. Where the apparatus corrected what had been written from memory, the correction is shown rather than quietly absorbed.
+**Revised 9 September 2026.** As first written, this section had to work from `NA28 Acts.txt`, which carries **the text with apparatus sigla but not the apparatus entries** — it establishes *where* NA28 marks variation and not what the witnesses are, so the witness lists were `[S]` from memory and flagged for confirmation. Patrick then supplied the NA28 apparatus for chapters 20–21 (now part of the merged `_texts/logos-exports/NA28 apparatus Acts.txt`), and everything below is now read off the edition and tagged `[T]`. Where the apparatus corrected what had been written from memory, the correction is shown rather than quietly absorbed.
 
 **Variation units NA28 marks in 20:17–38** (from the sigla in the export): v.17 ⸀μετεκαλέσατο · v.18 ⸆ , ⸇ , ⸂…⸃ · v.20 ° , °1 · v.21 ⸆ , ⸂…⸃ · v.22 ⸀εἰδώς · v.23 ⸆ , ⸂…⸃ · v.24 ⸂…⸃ , ⸀ὡς , ⸁τελειῶσαι , ⸆ , ⸄…⸅ , ⸇ · v.25 ⸂…⸃ · v.26 ⸂…⸃ · v.27 ° · v.28 **⸀θεοῦ**, ⸆ , **⸂αἵματος τοῦ ἰδίου⸃** · v.29 ⸆ , ⸀οἶδα · v.30 ° , ⸀ἀποσπᾶν , ⸁αὐτῶν · v.31 ⸆ · v.32 ⸀θεῷ , ⸁πᾶσιν , ⸆ · v.33 ⸀οὐδενός · v.35 ⸀πάντα , ⸁μακάριον. `[T]` — read off the export.
 
 **The 20:28 crux, in two parts.**
 
-> **Update, 9 September 2026.** Patrick supplied the NA28 apparatus for Acts 20–21 (now filed as `_texts/logos-exports/NA28 apparatus Acts 20-21.txt`). The three sub-sections below are rewritten from it. What was `[S]` from memory is now `[T]` from the edition; Metzger's *discussion* remains unconsulted and is still marked as such.
+> **Update, 9 September 2026.** Patrick supplied the NA28 apparatus for Acts 20–21 (now part of the merged `_texts/logos-exports/NA28 apparatus Acts.txt`). The three sub-sections below are rewritten from it. What was `[S]` from memory is now `[T]` from the edition; Metzger's *discussion* remains unconsulted and is still marked as such.
 
 *(a) τὴν ἐκκλησίαν τοῦ **θεοῦ** / τοῦ **κυρίου**.* NA28 apparatus, read directly `[T]`:
 

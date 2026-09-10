@@ -1,6 +1,6 @@
 # Dig Deeper: Acts 21:1–36
 
-**Primary text:** SBLGNT (`_texts/greek-nt-sblgnt/05-Acts.txt`), read before any English, with the MorphGNT lemma index (`_index/05-Acts.tsv`, 18,412 indexed words) for every count; **NA28 with its apparatus** (`_texts/logos-exports/NA28 apparatus Acts.txt` — supplied 9 Sep 2026 as a chapters 20–21 export, completed to the whole book on 10 Sep and merged into one file) as citation of record; Swete LXX (`_texts/greek-lxx-swete/`) for Numbers 6
+**Primary text:** SBLGNT (`_texts/greek-nt-sblgnt/05-Acts.txt`), read before any English, with the MorphGNT lemma index (`_index/05-Acts.tsv`, 18,412 indexed words) for every count; **NA28 with its apparatus for chapters 20–21** (`_texts/logos-exports/NA28 apparatus Acts 20-21.txt`, supplied 9 Sep 2026) as citation of record; Swete LXX (`_texts/greek-lxx-swete/`) for Numbers 6
 **Study text:** NASB95
 **Pulpit text:** **Not declared — no engagement stated.** Tool 8 runs NASB95 against the ESV (Anglicised), the text at his own church. **Two findings below are severely translation-sensitive** — the *δέω* chain at vv.11/13/33 and *τὸ πλῆθος τοῦ λαοῦ* at v.36 — and if this is being prepared for a church on NIV84 or another version the divergence check must be re-run.
 **Book-overview context:** `book-overview-acts.md` v2.1 (Finalise, 8 Sep 2026), held as the Phase 0.5 active layer
@@ -397,7 +397,7 @@ In redemptive-historical terms the pericope sits at a joint the whole book has b
 
 ### Textual Variants
 
-Worked from **the NA28 apparatus**, supplied 9 September 2026 as a chapters 20–21 export and now part of the merged `_texts/logos-exports/NA28 apparatus Acts.txt`. Everything below is `[T]` from the edition.
+Worked from **the NA28 apparatus for chapters 20–21**, supplied 9 September 2026 and filed at `_texts/logos-exports/NA28 apparatus Acts 20-21.txt`. Everything below is `[T]` from the edition.
 
 **The character of the chapter's tradition.** Acts 21 is one of the most heavily Western-attested chapters in the NT: of roughly forty variation units in vv.1–36, **D (Codex Bezae) is cited in the great majority**, frequently alone or with *gig* and the Syriac. This is the standing feature of Acts' textual history and it matters here more than usual, because several of D's readings are not slips but *interpretation*.
 
