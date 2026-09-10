@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dig Deeper — Proposed Skill Amendments, Round 2</title>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-proposed-skill-amendments-round-2">Dig Deeper — Proposed Skill Amendments, Round 2</a></li>
+    <li><a href="#how-to-read-this-document">How to read this document</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#the-evidence-in-the-runs-own-words">The evidence, in the run’s own words</a></li>
+    <li><a href="#amendment-g-synoptic-mode-passages-the-canon-tells-twice">Amendment G — Synoptic Mode: passages the canon tells twice</a></li>
+    <li><a href="#amendment-h-the-apparatus-spread-gate">Amendment H — The apparatus-spread gate</a></li>
+    <li><a href="#amendment-i-research-tool-answers-are-claims-to-test-not-findings">Amendment I — Research-tool answers are claims to test, not findings</a></li>
+    <li><a href="#amendment-j-search-normalisation-completed">Amendment J — Search normalisation, completed</a></li>
+    <li><a href="#changelog-entry-to-add">Changelog entry to add</a></li>
+    <li><a href="#what-cannot-be-applied-through-skill.md-at-all">What cannot be applied through SKILL.md at all</a></li>
+    <li><a href="#what-is-deliberately-not-proposed">What is deliberately not proposed</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="dig-deeper-proposed-skill-amendments-round-2">Dig Deeper — Proposed Skill Amendments, Round 2</h1>
+<p><strong>Status:</strong> Draft v1.0 — <strong>proposed, not applied.</strong> Nothing in the installed skill has been changed. <strong>Date:</strong> 10 September 2026 <strong>Prepared for:</strong> the continuing process review opened 2 September 2026 <strong>Scope:</strong> four amendments to <code>dig-deeper</code>, each with the exact file, anchor and text to change. <strong>Relationship to Round 1:</strong> Amendments A–E were drafted 2 September, revised 4 September, and <strong>applied 7 September</strong> — the amended <code>SKILL.md</code> from a proposal card, and the four reference-tree edits as an installable <code>.skill</code> package. This document continues that sequence.</p>
+<p><strong>Lettering.</strong> These are <strong>G, H, I and J</strong>. <strong>F is skipped deliberately:</strong> Round 1’s <em>Consequential edits</em> table already uses the identifiers F1–F7, and re-using the bare letter F would make two different things share a name in the same series.</p>
+<hr />
+<h2 id="how-to-read-this-document">How to read this document</h2>
+<p>Same shape as Round 1. Each amendment gives the <strong>problem</strong>, the <strong>evidence from completed runs</strong>, the <strong>file and anchor</strong> to edit, the <strong>exact text</strong>, and the <strong>cost</strong>.</p>
+<p>The evidence standard is also the same, and it matters more than the proposals: <strong>an amendment earns its place only if a completed run has already hit the problem and had no way to carry the lesson forward.</strong> All four below come from a single run — the synoptic Decalogue dig of 10 September — which is a smaller evidence base than Round 1 had, and that is stated rather than disguised. Two of the four (G and H) are structural and would change what a run does; two (I and J) are small hardenings of rules that already exist.</p>
+<p>Nothing here should be adopted because it is written down. Each is a claim to be tested against the next few runs.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Amendment</th>
+<th>Solves</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>G</strong></td>
+<td>Synoptic Mode — passages the canon tells twice</td>
+<td>The skill’s three modes all assume one passage in one place; a run on a twice-told text has to improvise its whole shape</td>
+<td>One new Phase 0.5d; three edited lines elsewhere; one filename form</td>
+</tr>
+<tr class="even">
+<td><strong>H</strong></td>
+<td>The apparatus-spread gate</td>
+<td>A finding resting on the Masoretic apparatus looks fully verified from inside a corpus that holds one manuscript tradition</td>
+<td>One new item in the Phase 10.5 gate; one Declaration line; one reference-tree section</td>
+</tr>
+<tr class="odd">
+<td><strong>I</strong></td>
+<td>Research-tool answers are claims to test</td>
+<td>The skill tells a run to use a research tool and tag results <code>[S]</code>, but not what such a tool characteristically gets wrong</td>
+<td>One new numbered point in an existing section</td>
+</tr>
+<tr class="even">
+<td><strong>J</strong></td>
+<td>Search normalisation, completed</td>
+<td>The accent-insensitivity rule is incomplete: maqqef and paseq are not combining marks, and defeat a phrase search silently</td>
+<td>One clause added to gate item (e3); one reference-tree line</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="the-evidence-in-the-runs-own-words">The evidence, in the run’s own words</h2>
+<p><strong>1. Round 1’s gate is working, and this is the first hard proof.</strong> The Decalogue run’s Text-First Declaration records:</p>
+<blockquote>
+<p>“<strong>One claim was dropped at this gate:</strong> an initial four-link יטב chain including Deut 5:33 was cut to three (5:16, 28, 29), because 5:33 uses the adjective טוֹב, not the verb.”</p>
+</blockquote>
+<p>Amendment C’s gate item (e3) caught, in its first Torah outing, exactly the failure mode it was written for — a chain extended by inference into a verse that does not contain the word. That is a point in favour of the whole Round-1 method, and a reason to hold this round to the same standard.</p>
+<p><strong>2. The mode gap, stated by the run that fell into it.</strong> The Decalogue report’s scope note had to invent its own shape, because no mode fitted:</p>
+<blockquote>
+<p>“Three movements: Exodus 20 in its Sinai frame (supplied by the completed 19:9–20:21 dig, not re-worked); Deuteronomy 5 in its Moab frame (worked in full…); and the synoptic comparison, which is where the value of running them together lies.”</p>
+</blockquote>
+<p>It then ran Phase 0.6 twice, applied the OT Citation Triad with an <strong>intra-Torah</strong> source, invented a filing rule (Torah root, since the report belongs to neither book folder), and had to reconcile against <strong>two</strong> book-overviews of very unequal maturity. None of that is in the skill. All of it will be needed again.</p>
+<p><strong>3. The finding the corpus could not check about itself.</strong> The run’s Headline Finding 1 was published as a claim about “the Masoretic paragraphing” of the two Decalogues. It was in fact a claim about <strong>Leningrad</strong>. Keil &amp; Delitzsch report the load-bearing setumah <strong>absent from 234 of the 694 manuscripts Kennicott collated</strong>. The corpus holds one manuscript tradition and prints the parashoth without variants, so no query against it could have raised the question — and the verification gate, doing its job perfectly, returned a clean result. The correction came from the library, after delivery.</p>
+<p><strong>4. What a research tool got wrong, twice in one sitting.</strong> Asked how the Bible designates the Decalogue, Logos answered that the biblical texts <em>“consistently employ ‘Ten Commandments’ when naming this collection”</em>, citing Exod 34:28; Deut 4:13; 10:4 — the three verses where the Hebrew reads עֲשֶׂרֶת הַדְּבָרִים, as its own answer had conceded two paragraphs earlier. Asked about the section markers, it gave two answers on the same point, the first (flagged “from my general knowledge”) defining a setumah as meaning <em>“there is no space break before the next verse”</em> — the opposite of what a closed section is.</p>
+<p><strong>5. A silent nil return.</strong> A whole-corpus search for פָּנִים בְּפָנִים returned nothing, on a text that contains it. The pattern was accent-insensitive, per the rule learned 8 September. It failed on the <strong>paseq</strong>.</p>
+<hr />
+<h2 id="amendment-g-synoptic-mode-passages-the-canon-tells-twice">Amendment G — Synoptic Mode: passages the canon tells twice</h2>
+<h3 id="problem">Problem</h3>
+<p>The skill has three modes — Fresh Exegesis, Claim Audit, Macro-Synthesis — and <strong>all three assume one passage standing in one place.</strong> Multi-Passage Sweep Mode is explicitly “six or more passages <strong>from the same book</strong>”, so it does not cover this either.</p>
+<p>But Scripture repeatedly tells the same material twice, and when it does, <strong>the second telling is the canon’s own commentary on the first.</strong> That is not a curiosity; it is one of the richest kinds of evidence available, and it is invisible to a run that works either passage alone. The Decalogue run put the point sharply: <strong>four of its five headline findings could not have been reached from either passage on its own.</strong> A dig on Exodus 20 alone cannot know that God commended the people’s terror; a dig on Deuteronomy 5 alone cannot feel how much Exodus withheld.</p>
+<p>Where this recurs, in this library and beyond:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pair</th>
+<th>Direction of dependence</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Exod 20:1–17 // Deut 5:1–33</strong></td>
+<td><strong>Stated by the later text</strong> (כַּאֲשֶׁר צִוְּךָ, 5:12, 16)</td>
+<td>Done, 10 Sep 2026</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 36–39 // 2 Kgs 18–20</strong></td>
+<td><strong>Open</strong> — and already named in <code>SKILL.md</code> Phase 0.55 as the paradigm case</td>
+<td>Not done; both books have material in the folder</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Sam 22 // Ps 18</strong></td>
+<td>Open</td>
+<td>Not done</td>
+</tr>
+<tr class="even">
+<td><strong>Ps 14 // Ps 53</strong></td>
+<td>Open</td>
+<td>Not done</td>
+</tr>
+<tr class="odd">
+<td><strong>Obad 1–9 // Jer 49:7–22</strong></td>
+<td>Open</td>
+<td>Not done</td>
+</tr>
+<tr class="even">
+<td><strong>Samuel–Kings // Chronicles</strong></td>
+<td>Chronicles later, and says so by omission rather than by formula</td>
+<td>Not done</td>
+</tr>
+<tr class="odd">
+<td><strong>The Synoptic Gospels</strong></td>
+<td>Contested</td>
+<td>Not done</td>
+</tr>
+<tr class="even">
+<td><strong>Exod 23:10–19 // Exod 34:11–26</strong></td>
+<td>Within one book</td>
+<td>Not done</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The variable that governs everything is the second column.</strong> Where the later text <em>states</em> its dependence, the two passages are an original and an authorised re-issue, and the differences are homiletic moves. Where the direction is <em>open</em>, the same differences are evidence in an unresolved question, and the run must — per the rule the skill already carries at Phase 0.55 — report both orders and resolve neither. <strong>A mode that did not force that distinction at the start would produce confident nonsense on Isaiah 36–39.</strong></p>
+<p>Three further things the Decalogue run had to invent, each of which will recur:</p>
+<ul>
+<li><strong>Phase 0.6 has to run twice</strong>, once per passage, because each passage’s positional necessity is a fact about its own book.</li>
+<li><strong>The Citation Triad runs with the source inside the same corpus.</strong> Move 2 (book usage) and Move 4 (internal echo) nearly collapse into one operation when a book’s “source” is its own five-volume work. Worth saying, so the run does not report the collapse as a nil return.</li>
+<li><strong>Two book-overviews are live, and they are rarely of equal maturity.</strong> In this case one was finalised at v1.0.5 and corpus-era; the other was v0.1.0, ESV, and pre-corpus. The asymmetry is itself a finding, and there is currently no instruction to look for it.</li>
+</ul>
+<h3 id="file-and-anchor">File and anchor</h3>
+<p><strong>Edit 1</strong> — <code>SKILL.md</code>, <code>## Workflow</code>, the “Choose the mode first” paragraph. Replace:</p>
+<blockquote>
+<p><strong>Choose the mode first.</strong> Fresh Exegesis (default — the full report, table below) or <strong>Claim Audit Mode</strong> (Phase 0.5b — testing named claims from an overview or a new source), or <strong>Macro-Synthesis Mode</strong> (Phase 0.5c — drawing together the cross-pericope arguments a completed set of dig-deeper runs jointly demonstrates). The decision rules are at the end of Phase 0.5b and Phase 0.5c. If the ask is “is this claim/overview/source right?”, it’s a claim audit; if it’s “what do all these runs add up to / what wider arguments emerge across the book?”, it’s a macro-synthesis.</p>
+</blockquote>
+<p>with:</p>
+<blockquote>
+<p><strong>Choose the mode first.</strong> Fresh Exegesis (default — the full report, table below); <strong>Claim Audit Mode</strong> (Phase 0.5b — testing named claims from an overview or a new source); <strong>Macro-Synthesis Mode</strong> (Phase 0.5c — drawing together the cross-pericope arguments a completed set of dig-deeper runs jointly demonstrates); or <strong>Synoptic Mode</strong> (Phase 0.5d — one passage told twice in the canon, worked as a pair). The decision rules are at the end of each. If the ask is “is this claim/overview/source right?”, it’s a claim audit; if it’s “what do all these runs add up to?”, it’s a macro-synthesis; <strong>if the passage has a canonical twin and the differences between them are part of what is being asked, it is a synoptic run</strong> — and a synoptic run is a modified Fresh Exegesis, not a separate report format.</p>
+</blockquote>
+<p><strong>Edit 2</strong> — <code>SKILL.md</code>, new section after Phase 0.5c and before the Adaptive Depth Principle:</p>
+<blockquote>
+<h3 id="phase-0.5d-synoptic-mode-a-modified-fresh-exegesis">Phase 0.5d — Synoptic Mode (a modified Fresh Exegesis)</h3>
+<p>Run this when the passage is told <strong>twice</strong> in the canon and the relation between the tellings is part of the question. It is not a separate report format: the sixteen tools, the extensions and the template all stand. What changes is the shape of the work.</p>
+<p><strong>1. Settle the direction of dependence before anything else, and never by default.</strong> Three cases, and they are not interchangeable:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Case</th>
+<th>Signal</th>
+<th>How the run treats the pair</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Stated</strong></td>
+<td>The later text names the earlier (Deut 5:12, 16 <em>“as the LORD your God commanded you”</em>)</td>
+<td>Original and authorised re-issue. Differences are the later author’s own application, and are read as homiletic moves</td>
+</tr>
+<tr class="even">
+<td><strong>Open</strong></td>
+<td>Neither text marks priority; canonical and compositional order may diverge (<strong>Isa 36–39 ‖ 2 Kgs 18–20</strong> — the case Phase 0.55 already names)</td>
+<td><strong>Report both orders, resolve neither.</strong> Differences are evidence in an unresolved question and may not be narrated as one text “editing” the other</td>
+</tr>
+<tr class="odd">
+<td><strong>Contested</strong></td>
+<td>A scholarly hypothesis supplies the direction, the texts do not</td>
+<td>Name the hypothesis as <code>[S]</code>, work the differences without it, and say what each direction would imply</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Getting this wrong is the mode’s characteristic failure.</strong> A run that assumes priority will describe a difference as a deliberate change, which is a claim about an author’s intention that the “open” case cannot support.</p>
+<p><strong>2. Work in three movements.</strong> Passage A in its own frame; passage B in its own frame; then the comparison. Do not average the two into a composite: <strong>the harmonised text exists nowhere and is the mode’s first pitfall.</strong> Where one passage already has a completed solo dig, consume it at Phase 0.5 rather than re-working it, and say so in the scope note.</p>
+<p><strong>3. Run Phase 0.6 twice.</strong> Each passage’s positional necessity is a fact about its own book and cannot be inherited from its twin.</p>
+<p><strong>4. Diff mechanically before reading either text closely.</strong> Align the passages verse by verse and compare the originals with accents, maqqef and paseq normalised (Amendment J). A mechanical diff is reproducible, catches what the eye slides over, and — crucially — <strong>establishes what is identical</strong>, which is as much a finding as what differs. Report the count of unchanged material explicitly.</p>
+<p><strong>5. Expect the Triad to behave differently.</strong> Where the source is inside the same corpus as the citing text (Deuteronomy quoting Exodus), Move 2 (book usage) and Move 4 (internal echo) largely coincide. Say so rather than filing a nil return for one of them.</p>
+<p><strong>6. Reconcile against <em>both</em> book-overviews, and report the asymmetry.</strong> Two overviews are live and they are rarely equally mature. Where one is materially behind the other — older, pre-corpus, built on a sweep rather than on solo digs — <strong>that gap is a finding for the Book-Overview Tensions section</strong>, because the weaker overview will systematically lack whatever the run’s original-language work produced.</p>
+<p><strong>7. File it where it belongs to neither passage.</strong> A report spanning two books goes at the level above both — the Torah root, the corpus root — not in either book’s folder, with a cross-reference from each. Filename per the two-passage convention below.</p>
+<p><strong>Choosing Synoptic Mode.</strong> Use it when the user names both passages; when the user names one and asks about its twin; or when a passage in the table of known twins is brought for a full dig and the differences bear on the findings. <strong>Do not</strong> use it to compare thematically similar passages that are not textual twins — two accounts of a similar event are not a synoptic pair, and the mode’s discipline (mechanical diff, direction of dependence) has nothing to work on.</p>
+</blockquote>
+<p><strong>Edit 3</strong> — <code>SKILL.md</code>, the “<strong>Choosing the mode</strong>” bullet list. Change the heading to <em>(Fresh Exegesis vs Claim Audit vs Macro-Synthesis vs Synoptic)</em> and add a fourth bullet:</p>
+<blockquote>
+<ul>
+<li><strong>Synoptic:</strong> When the passage is told twice in the canon and the differences are part of the question. Operates on <strong>two passages at once</strong>, where Fresh Exegesis and Claim Audit operate on one and Macro-Synthesis operates across completed runs.</li>
+</ul>
+</blockquote>
+<p><strong>Edit 4</strong> — <code>SKILL.md</code>, <code>## Filename Convention</code>. Add after the existing examples:</p>
+<blockquote>
+<p><strong>Two-passage (Synoptic Mode):</strong> <code>dig-deeper-[topic]-[bookA]-[ch]-[bookB]-[ch].odt</code> — e.g. <code>dig-deeper-decalogue-exodus-20-deuteronomy-5.odt</code>, <code>dig-deeper-hezekiah-isaiah-36-2kings-18.odt</code>. Named by what the pair is about, because it belongs to neither book alone.</p>
+</blockquote>
+<p><strong>Edit 5</strong> — <code>SKILL.md</code>, Output Format report template header. Add after <code>**Series context:**</code>:</p>
+<blockquote>
+<p><strong>Scope note (Synoptic Mode only):</strong> [The three movements; which passage’s frame is supplied by an existing dig rather than re-worked; and <strong>the direction of dependence — stated, open, or contested — with its evidence</strong>.]</p>
+</blockquote>
+<h3 id="consequential-edits-the-round-1-lesson-applied-in-advance">Consequential edits — the Round-1 lesson applied in advance</h3>
+<p>Round 1 learned that “an assumption stated once in a governing section is usually restated in the template, the quality markers and the key principles… <strong>grep the whole file for the assumption, not just for the paragraph that argues it.</strong>” Applying that here, the one-passage assumption is restated in <strong>five</strong> further places. None of these blocks the amendment, but a build that ignored them would leave the skill contradicting itself:</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Where</th>
+<th>What it says</th>
+<th>Needs</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>G1</td>
+<td>Required Input table</td>
+<td>“<strong>Passage reference</strong> — E.g. ‘Ruth 1:1–22’”</td>
+<td>“…or a passage pair, for Synoptic Mode”</td>
+</tr>
+<tr class="even">
+<td>G2</td>
+<td>Report template, H1</td>
+<td><code># Dig Deeper: [Passage Reference]</code></td>
+<td>Allow <code>[Passage A] // [Passage B]</code></td>
+</tr>
+<tr class="odd">
+<td>G3</td>
+<td>Report template, <code>## The Passage</code></td>
+<td>“Quote the passage in full”</td>
+<td>A synoptic presentation for a pair — the Decalogue run used a two-column table with identical verses marked</td>
+</tr>
+<tr class="even">
+<td>G4</td>
+<td>Depth floors</td>
+<td>“For a <strong>solo</strong> run, the following are minimums”</td>
+<td>Say whether a synoptic run’s floors are per-passage or per-report. <strong>Recommended: per report, since the comparison is where the depth goes</strong></td>
+</tr>
+<tr class="odd">
+<td>G5</td>
+<td>Quality Markers</td>
+<td>“every finding traceable to the passage”</td>
+<td>“…to one of the passages, or to the comparison”</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cost">Cost</h3>
+<p>The largest of the four by some distance: a new phase, five consequential edits, and a mode a run must correctly decline as often as it invokes it. Against that, it is the only amendment here that unlocks findings rather than preventing errors, and the library has at least seven untouched pairs waiting — one of which, Isaiah 36–39 // 2 Kings 18–20, the skill already names and Patrick already cites as his standing example of canonical and chronological order diverging.</p>
+<hr />
+<h2 id="amendment-h-the-apparatus-spread-gate">Amendment H — The apparatus-spread gate</h2>
+<h3 id="problem-1">Problem</h3>
+<p><strong>The corpus cannot see its own witness base.</strong> <code>_texts/hebrew-wlc/</code> is a single manuscript tradition — Leningrad — and the Logos BHS export is the same manuscript with an apparatus attached. For questions of <em>wording</em> this is not a limitation, because that is what BHS prints and what every English OT translates. But for a class of finding it is a serious one, and the skill currently has nothing to say about it.</p>
+<p>The class is: <strong>findings that rest on features of the apparatus rather than on the words.</strong> The <em>parashoth</em> (פ and ס). The accentuation, including the Decalogue’s double system. Ketiv/qere. The Masorah. These are printed in the corpus <strong>without variants</strong>, so a finding built on them looks <em>fully verified</em> from inside the corpus — it passes gate item (e3), it is mechanically reproducible, and it is wrong about its own scope.</p>
+<p>That is exactly what happened. Headline Finding 1 of the Decalogue run — that the paragraph divisions give Deuteronomy ten units and Exodus nine — was published as a claim about “the Masoretic paragraphing”. Keil &amp; Delitzsch report the load-bearing setumah absent from <strong>234 of Kennicott’s 694 manuscripts</strong>. The finding survives, narrowed to Leningrad, and is arguably more interesting for being narrowed. But <strong>nothing in the run could have raised the question</strong>, and it was corrected only because Patrick independently put the matter to Logos after delivery.</p>
+<p><strong>This is not the three-way triage.</strong> That governs Hebrew <em>against Greek</em>. This governs variation <em>within</em> the Hebrew, in a layer the corpus does not represent at all. The two are easy to confuse and should be kept apart in the file.</p>
+<p>Three further apparatus-features are already flagged as open questions in the Decalogue report and have the same shape: the setumah at Deut 5:10 (present in the WLC, not shown in the BHS export); the double accentuation; and the ketiv/qere at Deut 5:10.</p>
+<h3 id="file-and-anchor-1">File and anchor</h3>
+<p><strong>Edit 1</strong> — <code>SKILL.md</code>, Phase 10.5 (the hard gate). Insert a new item after (e3):</p>
+<blockquote>
+<p>(e4) <strong>Apparatus-spread check.</strong> Where a finding rests on a feature of the <strong>apparatus</strong> rather than on the wording — <em>parashoth</em> (petuchah/setumah), accentuation, ketiv/qere, Masorah, sigla — the corpus is a <strong>single manuscript tradition</strong> and cannot show how widely that feature is attested. The corpus establishes <em>that Leningrad has it</em>; it can never establish <em>that the Hebrew has it</em>. So: name the witness rather than the tradition (“in Leningrad”, “as BHS prints it”, never “the Masoretic text” unqualified); state that the feature is a reading tradition and not authorial where that is the case; and, before the finding enters a book overview or a sermon, <strong>run one library pass on the manuscript spread</strong>. Where that pass has not been run, tag the finding <code>[unchecked — apparatus spread]</code>, cap it at moderate confidence, and bar it from an overview on the same terms as an unverified chain. <strong>A verified count and an unrepresentative witness look identical from inside the corpus.</strong></p>
+</blockquote>
+<p><strong>Edit 2</strong> — <code>SKILL.md</code>, Text-First Declaration block. Add a line after “<strong>Chains verified:</strong>”:</p>
+<blockquote>
+<p><strong>Apparatus findings:</strong> [n findings resting on parashoth / accents / ketiv-qere / Masorah — witness named for each, spread checked or tagged — or “None”]</p>
+</blockquote>
+<p><strong>Edit 3</strong> — <code>references/extensions/textual-variants.md</code>, new section immediately after the three-way triage and before “Catalogue of NT variants”. <strong>Reference tree — out of reach of a <code>SKILL.md</code> proposal card; see Round 1’s note.</strong></p>
+<blockquote>
+<h2 id="the-fourth-category-variation-inside-the-hebrew">The fourth category: variation inside the Hebrew</h2>
+<p>The three-way triage governs divergence between the <strong>Hebrew and the Greek</strong>. It says nothing about divergence <strong>within the Hebrew tradition</strong>, and a corpus built on one manuscript will not raise the question by itself.</p>
+<p>Two layers, with different properties:</p>
+<p><strong>Consonantal and vocalic variants.</strong> What BHS’s apparatus is for. Reported under category 2 of the triage, on the usual terms.</p>
+<p><strong>Apparatus and reading-tradition features</strong> — <em>parashoth</em>, accentuation, ketiv/qere, Masorah. These are <strong>not</strong> part of the text, they are <strong>not</strong> authorial, and they <strong>vary between manuscripts far more than a single printed edition suggests.</strong> They are nonetheless first-rate evidence, because they record how the text was read and divided in antiquity — often centuries before the Masoretes fixed the pointing. Handle them so:</p>
+<ul>
+<li><strong>Name the witness, never the tradition.</strong> “In Leningrad”, “as BHS prints it” — not “the Masoretic text”.</li>
+<li><strong>Say they are not authorial.</strong> The parashoth pre-date the Masoretic pointing (the Mishnah knows them; the Gemara ascribes them to Moses) but are not original to the text. They are evidence about reception, never about composition.</li>
+<li><strong>Check the spread before the finding carries weight.</strong> The paradigm: the setumah dividing the coveting commandment is absent from 234 of Kennicott’s 694 manuscripts and from many printed editions (Keil &amp; Delitzsch, <em>Commentary on the OT</em> 1:393–94). A finding resting on it is about Leningrad until a library pass says otherwise.</li>
+<li><strong>Keep the systems apart.</strong> Accentuation and parashoth are independent division systems that can disagree, and a query about one returns nothing about the other. The Decalogue is printed under <em>two</em> accent systems in <em>both</em> Exodus 20 and Deuteronomy 5 — the <em>taʿam ʿelyon</em> dividing by commandment, the <em>taʿam taḥton</em> by verse length — which is the Masoretes preserving two answers rather than choosing one.</li>
+<li><strong>Warrant.</strong> A marker in the manuscript is <code>[T]</code> <em>as a datum about the text as transmitted</em>. What it implies about how the material should be divided or counted is reception, and is <code>[S]</code> or <code>[I]</code>. The <code>[T]</code> boundary applies here exactly as it does to authorship and date.</li>
+</ul>
+</blockquote>
+<p><strong>Edit 4</strong> — <code>SKILL.md</code>, Phase 0.2 (Load the substrate). Add a sentence to the end:</p>
+<blockquote>
+<p><strong>And know what the corpus cannot show you.</strong> It holds one Hebrew manuscript tradition, so it can verify wording, counts and chains, and it can never report how widely an apparatus feature — a paragraph marker, an accent system, a ketiv — is attested. See gate item (e4).</p>
+</blockquote>
+<h3 id="cost-1">Cost</h3>
+<p>One library query, and only for a finding that rests on the apparatus — which is a small minority of findings. The Decalogue run had exactly one. The real cost is remembering that the category exists, which is what (e4) is for.</p>
+<hr />
+<h2 id="amendment-i-research-tool-answers-are-claims-to-test-not-findings">Amendment I — Research-tool answers are claims to test, not findings</h2>
+<h3 id="problem-2">Problem</h3>
+<p>The skill’s <em>Handling Tools That Need External Data</em> tells a run to point a cross-reference tool at a <strong>systematic sweep</strong> rather than only at targeted queries, and to tag the results <code>[S]</code> as checking-stage material. That is right and it works. But it says nothing about <strong>what an AI research assistant characteristically gets wrong</strong>, and the failure mode is specific enough to name.</p>
+<p><strong>It reasons from the English version by default.</strong> Asked how the Bible designates the Decalogue, Logos answered that the biblical texts <em>“consistently employ ‘Ten Commandments’ when naming this collection”</em>, citing the three verses that read עֲשֶׂרֶת הַדְּבָרִים. It had even quoted the Hebrew sense two paragraphs earlier and then reasoned from the NASB95’s rendering anyway. <strong>An English rendering was reported as the biblical text’s own term.</strong> For a project whose first discipline is that no English version is ever merely a translation, that is precisely the error the method exists to prevent — arriving with citations attached.</p>
+<p><strong>It will answer from general knowledge when the library has nothing, and the flag is easy to miss.</strong> The same session produced two answers on the section markers. The first, marked “from my general knowledge”, defined a setumah as meaning <em>“there is no space break before the next verse”</em> — the opposite of the truth. The second, sourced from Hastings, was correct. Both looked equally authoritative in the reply.</p>
+<p>The general shape: <strong>a cited answer is not a verified answer, and the citation makes it feel like one.</strong> The skill already treats a commentary this way. It should say the same of a research tool, in the section that tells the run to use one.</p>
+<h3 id="file-and-anchor-2">File and anchor</h3>
+<p><strong>Edit 1</strong> — <code>SKILL.md</code>, <code>## Handling Tools That Need External Data</code>. Add a fifth numbered point after point 4:</p>
+<blockquote>
+<ol start="5" type="1">
+<li><p><strong>Treat a research tool’s answers as claims to test, exactly as you would a commentary’s — and know its two characteristic errors.</strong> A cited answer is not a verified answer, and the citation is what makes it feel like one.</p>
+<p><strong>(a) It reasons from the English version by default.</strong> Any answer about what “the text says”, what a term “is”, or how Scripture “refers to” something must be checked against the corpus before it is reported. <em>Worked example:</em> asked how the Bible designates the Decalogue, a Study Assistant answered that the biblical texts “consistently employ ‘Ten Commandments’”, citing Exod 34:28; Deut 4:13; 10:4 — the three verses whose Hebrew reads עֲשֶׂרֶת הַדְּבָרִים, “the ten words”. The citations were right and the conclusion was an artefact of reading a rendering as the designation. <strong>Where a tool’s answer and the corpus disagree about wording, the corpus wins and the disagreement is itself worth reporting.</strong></p>
+<p><strong>(b) It will answer from general knowledge when the library has nothing.</strong> Such answers usually carry a disclaimer, and the disclaimer is easy to miss beside a well-cited paragraph in the same reply. <strong>Check every claim for a source before relying on it</strong>, and downgrade an uncited claim to the same standing as Claude’s own recall — which is to say, flag it and verify it.</p>
+<p>Where a tool’s answer <strong>corrects</strong> the run, say so at the point of use and rewrite the finding around it rather than appending a caveat. Where the run <strong>corrects the tool</strong>, argue it from the text rather than asserting it. Both are reportable; neither is embarrassing.</p></li>
+</ol>
+</blockquote>
+<h3 id="cost-2">Cost</h3>
+<p>None to the workflow — it hardens an existing instruction. The only cost is a slower reading of research-tool output, which is where the time should go.</p>
+<hr />
+<h2 id="amendment-j-search-normalisation-completed">Amendment J — Search normalisation, completed</h2>
+<h3 id="problem-3">Problem</h3>
+<p>The rule learned 8 September — <strong>always search accent-insensitively</strong>, NFD-decompose and strip combining marks — is right and is already in the corpus documentation. It is also <strong>incomplete</strong>, and the gap fails silently in the same way the accent problem did.</p>
+<p><strong>Maqqef (־) and paseq (׀) are not combining marks.</strong> NFD-stripping leaves them in place, so they survive into the normalised string and defeat any pattern that expects whitespace between words. Two live examples from the Decalogue run:</p>
+<ul>
+<li><code>פנים\s+בפנים</code> returned <strong>nil</strong> against Deut 5:4, which contains the phrase — because the Hebrew has a paseq between the words: פָּנִ֣ים ׀ בְּפָנִ֗ים.</li>
+<li><code>פנים\s+אל[- ]פנים</code> returned <strong>nil</strong> across the whole WLC — because אֶל־פָּנִים is bound by maqqef, and the pattern’s hyphen is not the maqqef character.</li>
+</ul>
+<p>Both were nil returns on texts that contain the phrase, which is the worst kind of failure: it looks exactly like a genuine finding of absence. Corrected, the same searches return the result that became a headline finding — <strong>פָּנִים בְּפָנִים occurs once in the Hebrew Bible; פָּנִים אֶל־פָּנִים five times.</strong></p>
+<p>The fix is one line in the normaliser: replace ־ and ׀ with spaces before collapsing whitespace.</p>
+<h3 id="file-and-anchor-3">File and anchor</h3>
+<p><strong>Edit 1</strong> — <code>SKILL.md</code>, Phase 10.5, gate item (e3). Extend the parenthetical on searching. After “<em>by lemma, never by pointed surface form or English gloss</em>” add:</p>
+<blockquote>
+<p>— and where a <strong>phrase</strong> search is unavoidable, normalise <strong>maqqef (־) and paseq (׀) to spaces</strong> as well as NFD-stripping combining marks, since neither is a combining mark and both defeat a whitespace pattern silently, returning a nil on a text that contains the phrase</p>
+</blockquote>
+<p><strong>Edit 2</strong> — <code>references/04-words-and-translations.md</code>, Tool 7 operational guidance, the “Verify before you report” bullet added by Amendment C. <strong>Reference tree — out of reach of a proposal card.</strong> Add at the end:</p>
+<blockquote>
+<p>A <strong>phrase</strong> search needs one step more than a word search. Maqqef and paseq are not combining marks, so accent-stripping leaves them standing between the very words your pattern is trying to match: normalise ־ and ׀ to spaces before matching. Two searches in the Decalogue run returned nil on texts that contained the phrase for exactly this reason, and a nil return is indistinguishable from a real absence.</p>
+</blockquote>
+<p><strong>Edit 3</strong> — <code>_texts/README.md</code>, the “Using it” section. <strong>Not a skill file</strong> — Patrick’s corpus documentation, listed here so the record is complete. Extend the existing accent-insensitivity note:</p>
+<blockquote>
+<p><strong>Surface phrase searches need maqqef and paseq normalised too.</strong> Stripping accents is not enough: ־ and ׀ are not combining marks and will sit between the words a pattern is trying to match. Normalise both to spaces first. <code>find.py</code> lemma searches are unaffected.</p>
+</blockquote>
+<h3 id="cost-3">Cost</h3>
+<p>One line of code in any ad-hoc search, and it makes two known silent failures impossible.</p>
+<hr />
+<h2 id="changelog-entry-to-add">Changelog entry to add</h2>
+<p>To be placed at the top of <code>references/CHANGELOG.md</code> if these are adopted:</p>
+<blockquote>
+<p><em>Revised September 2026, round 2 (Synoptic Mode, apparatus spread, research-tool discipline, phrase-search normalisation). Four amendments arising from the synoptic Decalogue run of 10 September, the first run to work two canonically twinned passages as a pair. (G) A new Phase 0.5d adds <strong>Synoptic Mode</strong> for passages the canon tells twice, requiring the direction of dependence to be settled first as stated / open / contested — with the “open” case (Isa 36–39 ‖ 2 Kgs 18–20, already the paradigm at Phase 0.55) barred from narrating either text as editing the other — then three movements rather than a composite, Phase 0.6 run per passage, a mechanical diff with accents, maqqef and paseq normalised, the Triad’s Move 2 and Move 4 noted as coinciding where the source is intra-corpus, reconciliation against both book-overviews with any maturity gap reported as a tension, and filing above both books; five consequential edits follow in the template, Required Input, depth floors and Quality Markers. Rationale: four of the Decalogue run’s five headline findings were unreachable from either passage alone, and at least seven further pairs stand untouched in the library. (H) Phase 10.5 gains gate item (e4), the <strong>apparatus-spread check</strong>: a finding resting on parashoth, accentuation, ketiv/qere or Masorah must name its witness rather than the tradition, state that the feature is reception and not authorial, and have its manuscript spread checked in the library before entering an overview — because the corpus holds one manuscript tradition and prints these features without variants, so an unrepresentative witness and a verified count are indistinguishable from inside it. Rationale: the Decalogue run’s paragraph-division finding passed every existing gate as a claim about “the Masoretic paragraphing” while resting on a setumah absent from 234 of Kennicott’s 694 manuscripts. <code>textual-variants.md</code> gains a fourth-category section distinguishing variation inside the Hebrew from the Hebrew/Greek triage; the Declaration gains an apparatus-findings line. (I) Handling Tools That Need External Data gains a fifth point: a research tool’s answers are claims to test, with its two characteristic errors named — reasoning from the English version by default (a Study Assistant reported “Ten Commandments” as the biblical designation of a collection the Hebrew calls “the ten words”, with correct citations) and answering from general knowledge under a disclaimer easily missed beside cited material in the same reply. (J) Gate item (e3) and Tool 7’s verify-before-you-report bullet gain the phrase-search rule: maqqef and paseq are not combining marks, survive NFD-stripping, and silently defeat whitespace patterns — two searches in the Decalogue run returned nil on texts containing the phrase.</em></p>
+</blockquote>
+<hr />
+<h2 id="what-cannot-be-applied-through-skill.md-at-all">What cannot be applied through <code>SKILL.md</code> at all</h2>
+<p>Round 1’s constraint still holds: a proposal card replaces <code>SKILL.md</code> only. Two of this round’s edits live in the reference tree.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Edit</th>
+<th>File</th>
+<th>Route</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amendment H, Edit 3</td>
+<td><code>references/extensions/textual-variants.md</code></td>
+<td><code>.skill</code> package, or re-site into <code>SKILL.md</code></td>
+</tr>
+<tr class="even">
+<td>Amendment J, Edit 2</td>
+<td><code>references/04-words-and-translations.md</code></td>
+<td><code>.skill</code> package, or fold into gate item (e3)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recommendation: build the <code>.skill</code> package.</strong> Round 1 re-sited its reference-tree edits into <code>SKILL.md</code> because the package route had not yet been worked out; it has been since, and the four files Round 1 left stating the old position are still outstanding. A package for this round can carry Round 1’s four unfixed files at the same time, which is the cheapest moment to clear them.</p>
+<hr />
+<h2 id="what-is-deliberately-not-proposed">What is deliberately not proposed</h2>
+<p><strong>A synoptic re-run of the pairs already partly covered.</strong> Isaiah 36–39 and 2 Kings 18–20 both have material in the folder, and it would be tempting to run the pair immediately as a test of Amendment G. The honest sequence is the other way round: adopt the amendment, then run the pair <em>under</em> it, so the mode is tested rather than retrofitted. The Decalogue report is the specimen; Isaiah/Kings should be the first true trial, not a second specimen.</p>
+<p><strong>Any rule about how many manuscripts a finding needs.</strong> Amendment H asks for the spread to be <em>checked and stated</em>, not for a threshold. A feature attested in one manuscript can be the right reading and a feature in six hundred can be a harmonisation; the skill’s job is to make the run say which manuscripts it is talking about, not to arithmetise the answer.</p>
+<p><strong>A general “consult the library” step.</strong> Amendment I hardens the existing instruction rather than adding a phase. A blanket requirement to run library queries would compete with the text-first discipline, which is the one thing in this method that must not be diluted: the corpus is the substrate, and the library is a check on it.</p>
+<p><strong>Anything about the Deuteronomy overview.</strong> That it is v0.1.0, ESV and pre-corpus is a fact about a document, not about the skill, and it belongs in the run note and the Book-Overview Tensions section where it already stands.</p>
+<hr />
+<p><em>Prepared 10 September 2026. Proposed only — the installed skill is unchanged.</em></p>
+
+</main>
+</div>
+</body>
+</html>
