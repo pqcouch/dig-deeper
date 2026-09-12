@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dig Deeper — skill amendments, Round 3</title>
+<style>
+:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-skill-amendments-round-3">Dig Deeper — skill amendments, Round 3</a></li>
+    <li><a href="#status-change-amendment-g-is-no-longer-on-trial">Status change — Amendment G is no longer on trial</a></li>
+    <li><a href="#amendment-k-the-filing-rule-assumes-a-shared-parent-and-often-there-isnt-one">Amendment K — the filing rule assumes a shared parent, and often there isn’t one</a></li>
+    <li><a href="#amendment-l-diff-in-two-passes-not-one">Amendment L — diff in two passes, not one</a></li>
+    <li><a href="#amendment-m-set-the-extent-before-working-and-set-it-so-absences-are-in-scope">Amendment M — set the extent before working, and set it so absences are in scope</a></li>
+    <li><a href="#amendment-n-the-per-book-checks-run-twice">Amendment N — the per-book checks, run twice</a></li>
+    <li><a href="#what-needed-no-change">What needed no change</a></li>
+    <li><a href="#one-thing-that-is-a-corpus-note-not-a-skill-amendment">One thing that is a corpus note, not a skill amendment</a></li>
+    <li><a href="#recommended-order-of-application">Recommended order of application</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="dig-deeper-skill-amendments-round-3">Dig Deeper — skill amendments, Round 3</h1>
+<p><strong>Date:</strong> 11 September 2026 · <strong>Source:</strong> the synoptic run on Isaiah 36:1–39:8 // 2 Kings 18:13–20:21 (<code>Isaiah/dig-deeper-hezekiah-isaiah-36-2kings-18.md</code>) <strong>Status:</strong> <strong>drafted, not applied.</strong> Four amendments, lettered <strong>K–N</strong>, plus one status change to Amendment G.</p>
+<p><strong>Lettering.</strong> Round 1 used A–E (with F1–F7 as the <em>Consequential edits</em> table); Round 2 used G–J. Round 3 continues at K.</p>
+<p><strong>All four are edits to <code>SKILL.md</code> only</strong> — specifically to the Phase 0.5d Synoptic Mode block. None touches the reference tree, so unlike Round 2 these could in principle go in by proposal card rather than by a rebuilt <code>.skill</code> package. <em>Check the installed file before assuming that, rather than trusting this note</em> — which is the lesson Round 2 recorded about itself.</p>
+<hr />
+<h2 id="status-change-amendment-g-is-no-longer-on-trial">Status change — Amendment G is no longer on trial</h2>
+<p><strong>Current text (Phase 0.5d, opening paragraph):</strong></p>
+<blockquote>
+<p><strong>Adopted on trial, September 2026.</strong> Unlike the other amendments of its round, this mode rests on a single completed run. Treat it as a hypothesis to be tested by the next synoptic run, not as settled method — and if a synoptic report turns out worse than two separate digs would have been, say so and withdraw the mode.</p>
+</blockquote>
+<p><strong>The trial has now run, and the withdrawal condition was not met.</strong> The Hezekiah pair was the mode’s first <em>open</em> direction-of-dependence case, which is the case that could have broken it. What the mode contributed that two separate digs would not have:</p>
+<ul>
+<li>The mechanical diff established <strong>what is identical</strong> (70% of aligned units differ by two words or fewer) — a fact about the relationship that neither solo dig could state.</li>
+<li>The three-way classification held the run off a priority it could not support, across 77 aligned units and eight major divergences.</li>
+<li>Running Phase 0.6 twice produced <strong>two genuinely different positional answers</strong> — Isaiah’s block tests the preceding poetry’s claim about trust; Kings’ block tests whether Judah will go the way of chapter 17 — which a single-passage dig would have collapsed into one.</li>
+</ul>
+<p><strong>Proposed replacement:</strong></p>
+<blockquote>
+<p><strong>Adopted September 2026; trial completed 11 September 2026.</strong> The mode was adopted on one run and tested on a second — the Isa 36–39 ‖ 2 Kgs 18–20 pair, the <em>open</em> case, which is the one that can break it. It held: the diff established the extent of identity, the direction was declared and not resolved, and Phase 0.6 run twice produced two distinct positional answers. <strong>The evidence base is two runs, both on the same library</strong>, so treat the mode as working method rather than as settled beyond revision — and the withdrawal test still stands: if a synoptic report turns out worse than two separate digs would have been, say so and withdraw it.</p>
+</blockquote>
+<p><em>The honest caveat is deliberate. Two runs is better than one and it is not many.</em></p>
+<hr />
+<h2 id="amendment-k-the-filing-rule-assumes-a-shared-parent-and-often-there-isnt-one">Amendment K — the filing rule assumes a shared parent, and often there isn’t one</h2>
+<p><strong>The failure.</strong> Synoptic Mode point 7 currently reads:</p>
+<blockquote>
+<p><strong>7. File it where it belongs to neither passage.</strong> A report spanning two books goes at the level above both — the Torah root, the corpus root — not in either book’s folder, with a cross-reference from each.</p>
+</blockquote>
+<p>That works for the Decalogue, because Exodus and Deuteronomy share a <code>Torah/</code> parent. <strong>It fails for Isaiah // Kings, which share no parent short of the library root</strong>, and filing a passage report at the library root buries it among the toolkit documents. The rule quietly assumes a folder structure only the Torah pairs have. Most of the known pairs in the mode’s own table — Isa ‖ Kgs, 2 Sam 22 ‖ Ps 18, Ps 14 ‖ Ps 53, Obad ‖ Jer, Samuel–Kings ‖ Chronicles — have no shared parent.</p>
+<p><strong>Proposed replacement for point 7:</strong></p>
+<blockquote>
+<p><strong>7. File it where both books can find it.</strong> A report spanning two books goes at the level above both <strong>where the two share a parent</strong> — the <code>Torah/</code> root for Exod // Deut, the corpus root for a pair spanning sections. <strong>Where they share no parent</strong> (Isa // Kgs, 2 Sam // Ps, Obad // Jer, Sam–Kgs // Chr), the real file goes in <strong>one</strong> book’s folder and a <strong>one-line pointer page</strong> goes in the other’s, naming the report and its path. Choose the host folder by where the <em>unique</em> material sits: Hezekiah’s psalm (Isa 38:9–20) has no counterpart in Kings, so the pair is hosted by <code>Isaiah/</code>. <strong>Do not keep two copies</strong> — they drift, and the library index lists the report twice. Filename per the two-passage convention either way.</p>
+</blockquote>
+<hr />
+<h2 id="amendment-l-diff-in-two-passes-not-one">Amendment L — diff in two passes, not one</h2>
+<p><strong>The failure this prevents.</strong> A consonantal diff of the Hezekiah pair (accents stripped, maqqef and paseq normalised — i.e. everything Amendment J already requires) returned <strong>71 of 76 pairs as “differing” and a mean similarity of 0.595.</strong> Read off the page, that says the two texts are substantially different. They are not. A second pass deleting the principal <em>matres lectionis</em> showed that <strong>13 of those pairs differ only in spelling</strong> (חוֹמָה/חֹמָה, הַסּוֹפֵר/הַסֹּפֵר, חִזְקִיָּהוּ/חִזְקִיָּה) and a further 33 by one or two words. <strong>The one-pass figure is not wrong; it is misleading, and it is misleading in the direction that matters</strong> — it inflates difference, which is exactly what a synoptic run must not do while the direction of dependence is open.</p>
+<p><strong>Proposed addition to point 4</strong> (<em>Diff mechanically before reading either text closely</em>):</p>
+<blockquote>
+<p><strong>Diff in two passes, not one.</strong> Pass 1 is <em>consonantal</em>: NFD-strip combining marks, normalise maqqef ־, paseq ׀ and sof pasuq ׃ to spaces (Amendment J), reduce to consonants and spaces. Pass 2 is <em>skeletal</em>: additionally delete waw, yod and word-final he, so that plene/defective spelling collapses to identity. <strong>A pair identical in pass 2 but not pass 1 differs only in spelling.</strong> Report the two-pass figures and stratify what remains by magnitude (identical / orthographic / 1–2 words / 3–6 / 7+), because <strong>the share of material that is identical <em>but for spelling</em> is a finding in its own right</strong>, and because divergence is usually concentrated rather than spread — in the Hezekiah pair, six of the eight major divergences fell in one chapter-pair. The same normalisation belongs in any whole-canon search: a defective spelling silently drops a verse, and an undercount is indistinguishable from a count.</p>
+</blockquote>
+<p><em>Worked instance, and it is an instance of the run correcting itself:</em> a plene-only search for קְדוֹשׁ יִשְׂרָאֵל returned 24 verses of Isaiah. The figure is 25 — <strong>Isaiah 49:7 spells it קְדֹשׁ</strong>. The book-overview’s count, made in August, was right and the run’s was wrong.</p>
+<hr />
+<h2 id="amendment-m-set-the-extent-before-working-and-set-it-so-absences-are-in-scope">Amendment M — set the extent before working, and set it so absences are in scope</h2>
+<p><strong>The gap.</strong> The mode says nothing about where a synoptic run’s boundaries go. In practice the question arose immediately and it was not trivial: the two references supplied were <strong>misaligned by a chapter</strong> (2 Kgs 18:17 corresponds to Isa 36:2, not Isa 37), and the choice of boundary decided whether <strong>2 Kings 18:14–16 — the tribute, Hezekiah stripping the temple doors, which has no parallel in Isaiah at all</strong> — fell inside the run or just outside it. That paragraph turned out to carry one of the five headline findings. Had the extent been set to the point where the two texts first run together, the run would have been blind to it and would not have known.</p>
+<p><strong>This is a general property of synoptic work.</strong> Material unique to one side sits at the <em>edges</em> of the parallel as often as in the middle, and the edges are precisely where a boundary drawn by “where they overlap” will cut it off. <strong>On an open direction of dependence, an absence is evidence</strong>, and evidence has to be in scope to be weighed.</p>
+<p><strong>Proposed new point, inserted as point 2 (renumbering the rest):</strong></p>
+<blockquote>
+<p><strong>2. Set the extent before working, at each book’s own seams — not at the overlap.</strong> Align the two references first; they are frequently off by a verse or a chapter, and a supplied pair should be checked rather than trusted. <strong>Then set each boundary at the natural seam in its own book, not at the point where the texts begin and cease to run together.</strong> The purpose is to bring material unique to one side <em>inside</em> the run: on an open direction of dependence an absence is evidence, and a boundary drawn at the overlap systematically excludes exactly the evidence the mode exists to weigh. Record the extent decision and its reason in the scope note. Where the extent is genuinely contestable, say which alternative was rejected and what it would have excluded.</p>
+</blockquote>
+<hr />
+<h2 id="amendment-n-the-per-book-checks-run-twice">Amendment N — the per-book checks, run twice</h2>
+<p><strong>The finding this codifies.</strong> The two most productive operations in the Hezekiah run were both <em>per-book</em> operations, and neither is currently required by the mode. The mode already says to run <strong>Phase 0.6 twice</strong> — “each passage’s positional necessity is a fact about its own book and cannot be inherited from its twin.” <strong>The same is true of internal echo and of house vocabulary, and for the same reason.</strong></p>
+<h3 id="n1-move-4-is-a-fact-about-one-book-so-run-it-once-per-book">N1 — Move 4 is a fact about one book, so run it once per book</h3>
+<p>Isaiah’s internal echoes in this block: the conduit doublet (7:3 → 36:2, two kings at one location, a sign refused and a sign given) and the eunuch reversal (39:7 → 56:3–5, סָרִיס 3× in Isaiah, the exact curse repealed). Kings’ internal echoes in the same block: the treasury shown twice (18:15–16 → 20:13), the Babylon oracle discharged by the narrator (20:17 → 24:13), and the conduit inclusio (18:17 → 20:20, where the location that opens the episode is explained by the engineering note that closes it).</p>
+<p><strong>Five echoes, and not one of them is visible from the other side of the parallel.</strong> Run as a single Move 4 over “the passage”, the check would have found a muddle of both and belonged to neither.</p>
+<blockquote>
+<p><strong>Move 4 is run once per book, and the asymmetry between the two results is itself a finding.</strong> An internal echo is a fact about one book’s own composition; it cannot be shared, and a single Move 4 over a synoptic pair produces a list belonging to no book. Run it twice, report the two lists separately, and <strong>say what each book does with the shared material that the other does not</strong> — including where one book plants something it never resolves and the other resolves something it never planted. Where the two books use the same concrete detail for different ends (a place name serving an echo in one book and an inclusio in the other), that divergence of <em>use</em> is reportable even though the <em>wording</em> is identical.</p>
+</blockquote>
+<h3 id="n2-test-each-books-house-vocabulary-inside-the-shared-text">N2 — test each book’s house vocabulary inside the shared text</h3>
+<blockquote>
+<p><strong>Before concluding the comparison, run the house-vocabulary test in both directions.</strong> Take each book’s characteristic vocabulary — the terms a whole-book sweep or overview has identified as its own — and ask three questions of the shared text: (a) does the term appear in one version and not the other, and in which direction; (b) how does it behave across each whole book; (c) is it <em>rare</em> in the host book, in which case its presence here is design, or <em>common</em>, in which case its presence here is idiom? <strong>Report the direction of every divergence, including the ones that cut against the run’s drift.</strong> The test is cheap, mechanical, and is the most direct evidence a synoptic run can obtain about how each book owns the material.</p>
+</blockquote>
+<p><em>Worked instance.</em> In the Hezekiah pair the test produced the run’s central finding, and produced it <strong>in both directions at once</strong>: יְהוָה צְבָאוֹת stands in Isaiah’s version three times out of three where Kings has plain יְהוָה (60 verses of Isaiah against 5 in all of 1–2 Kings); נָגִיד, Kings’ own royal-designation term, stands in Kings’ oracle where Isaiah has nothing; and קְדוֹשׁ יִשְׂרָאֵל stands in <strong>both</strong>, at Isa 37:23 = 2 Kgs 19:22, which is the <strong>only occurrence in the whole of Joshua–Kings</strong>. Two data pointing one way, one the other. <strong>That symmetry is what turned “open” from a refusal into a result</strong> — and a run that had checked only the Isaiah vocabulary would have reported a drift toward Isaianic priority that the third datum does not support.</p>
+<hr />
+<h2 id="what-needed-no-change">What needed no change</h2>
+<p>Worth stating, since the question was whether anything else is outstanding.</p>
+<ul>
+<li><strong>The sixteen tools and the extensions</strong> carried a two-book comparison without strain. No tool needed a synoptic variant.</li>
+<li><strong>The Phase 10.5 gate did its job again.</strong> Item (e3) forced the chain correction at קְדוֹשׁ יִשְׂרָאֵל; item (e4) caught the <em>petuchah</em> at Isaiah 39:8 and capped it; the three-way triage classified the Isa 38:8 Ahaz divergence as category 2 rather than letting it pass as translation loss. <strong>Amendments C, H and J are all working as intended in the field.</strong></li>
+<li><strong>Amendment I</strong> (research-tool answers are claims to test) was not exercised — no Logos pass was run. It remains untested in the field and should not be assumed sound.</li>
+<li><strong>The depth floors</strong> held at “per report, not per passage” without producing a thin report.</li>
+</ul>
+<h2 id="one-thing-that-is-a-corpus-note-not-a-skill-amendment">One thing that is a corpus note, not a skill amendment</h2>
+<p>The NASB95 Logos exports write chapter headings as <strong><code>Chapter 36</code></strong>; the Kings export writes <strong><code>CHAPTER 36</code></strong>. A case-sensitive pattern reports a sound file as broken — it did, in this run, and the file was briefly declared missing. <strong>This belongs in <code>_texts/README.md</code>, not in the skill.</strong></p>
+<hr />
+<h2 id="recommended-order-of-application">Recommended order of application</h2>
+<ol type="1">
+<li><strong>The G status change</strong> — costs nothing and stops the skill describing settled method as a hypothesis.</li>
+<li><strong>K and M</strong> — both prevent a run going wrong at its first decision, which is the most expensive place to go wrong.</li>
+<li><strong>L and N</strong> — both improve findings rather than preventing errors, and neither is urgent.</li>
+</ol>
+<p>All four are <code>SKILL.md</code> edits confined to the Phase 0.5d block, so the Synoptic Mode section should be rewritten whole rather than patched in five places.</p>
+
+</main>
+</div>
+</body>
+</html>
