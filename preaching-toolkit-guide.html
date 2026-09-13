@@ -2,21 +2,15 @@
 <html lang="en-GB">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Preaching Toolkit: Workflow Quick Reference</title>
 <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-<style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
-   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
   .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
   nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
    padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
@@ -34,7 +28,7 @@
   blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
   code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
    font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
   th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
   th{background:#efe9dc;}
   tr:nth-child(even) td{background:#faf7f0;}
@@ -42,42 +36,133 @@
   strong{color:#332e26;}
   main>ul,main>ol{padding-left:1.3rem;}
   li{margin:.25rem 0;}
-  pre{background:#f4efe4;padding:.7rem .9rem;border-radius:4px;overflow:auto;border:1px solid var(--rule);}
   .tag{white-space:nowrap;}
   @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 </style>
 </head>
 <body>
 <div class="wrap">
-<nav><h2>Contents</h2><ul>
-<li><a href="#the-preaching-toolkit-workflow-quick-reference">The Preaching Toolkit: Workflow Quick Reference</a></li>
-<li><a href="#the-order-at-a-glance">The Order at a Glance</a></li>
-<li><a href="#step-by-step">Step by Step</a></li>
-<li><a href="#its-a-loop-not-a-line">It’s a Loop, Not a Line</a></li>
-<li><a href="#where-to-keep-the-files">Where to Keep the Files</a></li>
-<li><a href="#filename-conventions">Filename Conventions</a></li>
-</ul></nav>
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#the-preaching-toolkit-workflow-quick-reference">The Preaching Toolkit: Workflow Quick Reference</a></li>
+    <li><a href="#the-order-at-a-glance">The order at a glance</a></li>
+    <li><a href="#before-anything-the-substrate">Before anything: the substrate</a></li>
+    <li><a href="#step-by-step">Step by step</a></li>
+    <li><a href="#the-gates">The gates</a></li>
+    <li><a href="#two-texts-and-which-is-which">Two texts, and which is which</a></li>
+    <li><a href="#hebrew-and-greek-in-the-documents">Hebrew and Greek in the documents</a></li>
+    <li><a href="#its-a-loop-not-a-line">It’s a loop, not a line</a></li>
+    <li><a href="#where-to-keep-the-files">Where to keep the files</a></li>
+    <li><a href="#filename-conventions">Filename conventions</a></li>
+    <li><a href="#rendering">Rendering</a></li>
+  </ul>
+</nav>
 <main>
 <h1 id="the-preaching-toolkit-workflow-quick-reference">The Preaching Toolkit: Workflow Quick Reference</h1>
-<p><strong>For:</strong> book-overview · dig-deeper · point-purpose · sermon-review <strong>Default translation:</strong> ESV · <strong>House output:</strong> .md (canonical), .odt, .html</p>
+<p><strong>Four skills, one system:</strong> <code>book-overview</code> · <code>dig-deeper</code> · <code>point-purpose</code> · <code>sermon-review</code> <strong>Substrate:</strong> the original languages, from <code>_texts/</code> · <strong>Study text:</strong> NASB95 (1995, not the 2020 revision) · <strong>Pulpit text:</strong> declared per engagement <strong>House output:</strong> <code>.md</code> (canonical) · <code>.odt</code> · <code>.html</code></p>
+<p><em>Rewritten 13 September 2026, at the close of the September process review. The version it replaces dated from 23 July and predated the whole of it.</em></p>
 <hr />
-<h2 id="the-order-at-a-glance">The Order at a Glance</h2>
+<h2 id="the-order-at-a-glance">The order at a glance</h2>
 <p>Book overview → make it visible to the project → book sweep → solo passage digs → finalise the overview → point-purpose → sermon-review.</p>
 <p>The overview is <strong>first in and last out</strong>: it orients everything downstream, and the completed passage work flows back to finalise it. Treat it as a planning document to be <em>tested</em>, not fixed truth.</p>
 <hr />
-<h2 id="step-by-step">Step by Step</h2>
-<p><strong>1. Book overview (its own skill).</strong> Run first, before any passage work. Produces the presenting situation, arc map, microscript, intertextual map, Christological trajectory, preaching traps, an early↔︎late echo table, and a weighted series plan.</p>
+<h2 id="before-anything-the-substrate">Before anything: the substrate</h2>
+<p>Every run — overview, sweep, dig, claim audit — begins from the primary texts, never from an English version.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Layer</th>
+<th>What it is</th>
+<th>Right for</th>
+<th>Not for</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>_texts/hebrew-wlc/</code></td>
+<td>Westminster Leningrad Codex</td>
+<td>Reading, counting, roots, Leitwort work</td>
+<td>Citing <em>BHS</em> as such</td>
+</tr>
+<tr class="even">
+<td><code>_texts/greek-lxx-swete/</code></td>
+<td>Swete’s LXX</td>
+<td>Reading and searching the Greek OT</td>
+<td>Citing <em>Rahlfs</em></td>
+</tr>
+<tr class="odd">
+<td><code>_texts/greek-nt-sblgnt/</code></td>
+<td>SBLGNT with parsing</td>
+<td>Reading, counting, lemma work in the NT</td>
+<td>Citing <em>NA28</em></td>
+</tr>
+<tr class="even">
+<td><code>_texts/logos-exports/</code></td>
+<td>Your own exports, filed book-first</td>
+<td><strong>Citation of record</strong> where a reading is load-bearing</td>
+<td>Whole-canon searching</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observe versus cite.</strong> The first three are <em>proxies</em>: right for finding, counting and checking; wrong for citing where a finding turns on a particular reading. A variant, an apparatus question, a Rahlfs-vs-Swete divergence, an NA28 decision — those go to Logos, and the finding cites that.</p>
+<p>Three rules that follow, and they are not negotiable:</p>
+<ul>
+<li><strong>Every count and chain names its edition.</strong> A count is edition-specific; “seven times” without “in the WLC” is not a finding.</li>
+<li><strong>Do not ask a search engine what a verse says.</strong></li>
+<li><strong>If the corpus is unreachable, say so before proceeding</strong> rather than falling back silently.</li>
+</ul>
+<p>Read <code>_texts/README.md</code> at the start. It states what each layer is and, more usefully, what each is <em>not</em>.</p>
+<hr />
+<h2 id="step-by-step">Step by step</h2>
+<p><strong>1. Book overview (its own skill).</strong> Run first, before any passage work. Produces the <strong>canonical position</strong> (Tanak section, reading implication, presupposes, handoff, neighbours), presenting situation, arc map, microscript, intertextual map, Christological trajectory, preaching traps, an early↔︎late echo table, and a weighted series plan.</p>
 <blockquote>
 <p>“Give me a book overview of Philippians.”</p>
 </blockquote>
-<p><strong>2. Make it visible to the project.</strong> For the downstream skills to <em>use</em> the overview automatically, it must be somewhere they can see it — a connected folder or the same conversation. A skill cannot consume an overview it cannot see.</p>
-<p><strong>3. Book sweep (a dig-deeper mode).</strong> A lighter, proportional-depth pass across the whole book — for auditing the overview and seeing the cross-passage network. This is planning, not pulpit prep.</p>
+<p><strong>2. Make it visible to the project.</strong> For the downstream skills to <em>use</em> the overview automatically, it must be somewhere they can see it — a connected folder or the same conversation. A skill cannot consume an overview it cannot see. The same is true of <code>_texts/</code>: if the folder is not connected, the corpus is not loaded, and the run must say so.</p>
+<p><strong>3. Book sweep (a dig-deeper mode).</strong> A lighter, proportional-depth pass across the whole book — for auditing the overview and seeing the cross-passage network. This is planning, not pulpit prep. <strong>A sweep’s book-level claims are provisional until audited</strong>, because proportional depth cuts the checking first.</p>
 <blockquote>
 <p>“Using the Philippians book overview, run a dig-deeper sweep across the whole book.”</p>
 </blockquote>
-<p><strong>4. Solo passage digs.</strong> For each passage you will preach — especially the ⭐ HIGH ones the overview flagged — run a full solo dig. This is the deep prep the pulpit needs.</p>
+<p><strong>4. Solo passage digs.</strong> For each passage you will preach — especially the ⭐ HIGH ones the overview flagged — run a full solo dig. <code>dig-deeper</code> has four modes and chooses first:</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mode</th>
+<th>When</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Fresh Exegesis</strong></td>
+<td>The default: a full report on one passage</td>
+</tr>
+<tr class="even">
+<td><strong>Claim Audit</strong></td>
+<td>“Is this overview / commentary / article right?”</td>
+</tr>
+<tr class="odd">
+<td><strong>Macro-Synthesis</strong></td>
+<td>“What do all these runs add up to?” — needs a finished sweep</td>
+</tr>
+<tr class="even">
+<td><strong>Synoptic</strong></td>
+<td>The passage is told twice in the canon and the differences are part of the question</td>
+</tr>
+</tbody>
+</table>
 <blockquote>
-<p>“Dig deeper into Philippians 2:1–11, using the book overview.”</p>
+<p>“Dig deeper into Philippians 2:1–11, using the book overview.” “Dig deeper into Isaiah 36–39 // 2 Kings 18–20.” <em>(synoptic)</em></p>
 </blockquote>
 <p><strong>5. Finalise the overview (the loop closes).</strong> Feed the completed runs back so the overview reflects what the passages actually demonstrated. Optionally ask for the cross-pericope synthesis.</p>
 <blockquote>
@@ -88,38 +173,130 @@
 <p>“Turn the dig-deeper report on Philippians 2:1–11 into a sermon backbone.” <em>(point-purpose)</em> “Here’s my sermon draft — review it and produce a final manuscript.” <em>(sermon-review)</em></p>
 </blockquote>
 <hr />
-<h2 id="its-a-loop-not-a-line">It’s a Loop, Not a Line</h2>
-<pre><code>book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► sermon-review
-      ▲                           │
-      └────── runs feed back ──────┘   (Finalise / macro-synthesis)</code></pre>
-<p>The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved.</p>
+<h2 id="the-gates">The gates</h2>
+<p>Each stage refuses to ship work that fails its own checks. Knowing what they are tells you what a run is protecting you from — and what to ask for if it goes quiet.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Gate</th>
+<th>Where</th>
+<th>What it refuses</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Chain verification</strong></td>
+<td>overview Phase 10.5 · dig Phase 10.5 (e3)</td>
+<td>A claim that a word recurs across verses, unverified by lemma. A failing reference is <em>removed</em>, never hedged</td>
+</tr>
+<tr class="even">
+<td><strong>Apparatus spread</strong></td>
+<td>dig (e4)</td>
+<td>A finding resting on <em>parashoth</em>, accents, ketiv/qere or Masorah that names “the Masoretic text” rather than its witness</td>
+</tr>
+<tr class="odd">
+<td><strong>The OT Citation Triad</strong></td>
+<td>dig Tool 11</td>
+<td>A citation treated as a proof-text, without source context, book usage and OT-to-OT</td>
+</tr>
+<tr class="even">
+<td><strong>Anti-moralism</strong></td>
+<td>point-purpose Phase 8</td>
+<td>A Teaching Point whose payoff is “be like X”</td>
+</tr>
+<tr class="odd">
+<td><strong>Pulpit-text check</strong></td>
+<td>point-purpose 8.5 · sermon-review criterion 10</td>
+<td>A point resting on wording the congregation’s version does not carry</td>
+</tr>
+<tr class="even">
+<td><strong>Section count</strong></td>
+<td>both converters</td>
+<td>An <code>.odt</code> or <code>.html</code> that has silently lost a section to a stray <code>---</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>The chain gate is the one to understand.</strong> A <em>passage-level</em> claim rests on one verified stretch of text. A <em>synthetic</em> claim — a chain, an arc, a count across a book — is assembled across passages, and this project’s audits agree across three books that synthetic claims fail at a much higher rate. The intertextual map and the echo table in a book overview are exactly that: synthetic claims, built at speed, and then handed downstream as settled input. An unverified chain in an overview is not a local defect; it is a defect with a delivery mechanism.</p>
 <hr />
-<h2 id="where-to-keep-the-files">Where to Keep the Files</h2>
+<h2 id="two-texts-and-which-is-which">Two texts, and which is which</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>What it is</th>
+<th>Who declares it</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Study text</strong></td>
+<td>NASB95 — the 1995 edition, not the 2020 revision</td>
+<td>Fixed. Quoted as the English reference alongside the original</td>
+</tr>
+<tr class="even">
+<td><strong>Pulpit text</strong></td>
+<td>The version the congregation will hear — ESV (Anglicised) at your own church, NIV84 or another elsewhere</td>
+<td><strong>Declared per engagement. Asked for, never assumed.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>A <strong>book overview has no pulpit text</strong> — no sermon is in view, and one should not be invented; the field reads “N/A”. A <strong>dig</strong> has one only if a sermon is in view. <strong>point-purpose and sermon-review always have one</strong>, and both now check it: where the pulpit text and the NASB95 diverge in a way that bears on a finding, the run says so and says what the congregation will actually hear. That gap is a note to the preacher, not a verdict on a translation.</p>
+<hr />
+<h2 id="hebrew-and-greek-in-the-documents">Hebrew and Greek in the documents</h2>
+<p><strong>Script first, English gloss in brackets, every occurrence</strong> — חֶסֶד (“lovingkindness”), λόγος (“word”), φρονέω (“to think, to be minded”). Not transliteration, and not “first occurrence only”.</p>
+<p><strong>Transliteration is kept only where the sound is the argument</strong> — paronomasia, assonance, alliteration, a name-pun — and then all three are given: נְחֹשֶׁת (“bronze”, <em>nĕḥōšet</em>) against נָחָשׁ (“serpent”, <em>nāḥāš</em>).</p>
+<p><strong>A sermon manuscript inverts the order, and only a manuscript does.</strong> Those pages are read aloud, so the English leads and the original follows in brackets: <em>“not visit, not pass through, but settle down and stay (שָׁכַן).”</em> Never put an original-language word where the preacher must read it aloud to complete the sentence.</p>
+<p>Hebrew is set three points above the surrounding English in every house format. The converters handle it; nothing special is needed in the Markdown.</p>
+<hr />
+<h2 id="its-a-loop-not-a-line">It’s a loop, not a line</h2>
+<pre><code>book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► sermon-review
+      ▲                           │                        │                 │
+      └────── runs feed back ──────┘        pulpit text ────┴─────────────────┘
+              (Finalise / macro-synthesis)</code></pre>
+<p>The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved. The pulpit text enters at the sermon end and is checked twice on the way to the pulpit.</p>
+<hr />
+<h2 id="where-to-keep-the-files">Where to keep the files</h2>
 <p>Keep everything for a book <strong>together in one folder per book</strong>, inside a single prep folder connected to the project. This is what makes the loop automatic: dig-deeper picks up the overview at Phase 0.5, reconciles each passage against its <em>neighbouring</em> reports (especially the opening chapter) at its checking stage, and the finalise/macro-synthesis passes read the whole set.</p>
-<p><strong>Keep the <code>.md</code> as the canonical copy.</strong> The skills read and generate from Markdown; the <code>.odt</code> and <code>.html</code> are derived views. Storing the <code>.md</code> files (as you already do) is exactly right — keep those; the other two formats can be regenerated any time.</p>
-<p>Suggested layout (Title-Case book folders; group the Minor Prophets under <code>The Twelve/</code>):</p>
+<p><strong>Keep the <code>.md</code> as the canonical copy.</strong> The skills read and generate from Markdown; the <code>.odt</code> and <code>.html</code> are derived views and can be regenerated at any time.</p>
 <pre><code>dig-deeper/
 ├── README.md
-├── preaching-toolkit-guide.md
+├── preaching-toolkit-guide.md          this file
+├── _texts/                             THE SUBSTRATE — read its README first
+│   ├── hebrew-wlc/  greek-lxx-swete/  greek-nt-sblgnt/
+│   ├── logos-exports/                  your exports, filed book-first in Tanak order
+│   └── tools/find.py                   lemma search and chain verification
+├── _house-style/
+│   ├── make_odt.py                     canonical .odt converter (versioned)
+│   ├── make_html.py                    the two-pane reading layout
+│   └── bundle_converter.py             stamps and checks bundled copies
+├── _audit/                             claim-extraction checkpoints
 ├── Philippians/
 │   ├── book-overview-philippians.md
 │   ├── dig-deeper-philippians-sweep.md
 │   ├── dig-deeper-philippians-2-1to11.md
-│   ├── dig-deeper-philippians-4-1to9.md
-│   ├── dig-deeper-philippians-claim-audit.md        (if produced)
 │   └── philippians-dig-deeper-macro-synthesis.md    (if produced)
-├── Ruth/
-│   └── book-overview-ruth.md ...
+├── Isaiah/
+│   ├── book-overview-isaiah.md
+│   └── dig-deeper-hezekiah-isaiah-36-2kings-18.md   two-passage report, hosted here
+├── Kings/
+│   └── dig-deeper-hezekiah-pointer.md               one line: where the real file lives
 └── The Twelve/
-    ├── Habakkuk/
-    │   ├── book-overview-habakkuk.md
-    │   └── dig-deeper-habakkuk-sweep.md ...
-    └── Jonah/
-        ├── book-overview-jonah.md
-        └── dig-deeper-jonah-sweep.md ...</code></pre>
-<p>Per-book folders matter because the skills reconcile a passage against its <em>neighbours</em> — keeping a book’s reports together is what lets them find each other. Folder case doesn’t matter to the skills; co-location does.</p>
+    └── Habakkuk/ …</code></pre>
+<p>Per-book folders matter because the skills reconcile a passage against its <em>neighbours</em>. Folder case doesn’t matter to the skills; co-location does.</p>
+<p><strong>A two-passage report is filed once.</strong> Where both books share a parent (Exodus // Deuteronomy under <code>Torah/</code>), it goes at the level above both. Where they share no parent — which is most pairs — the real file goes in <strong>one</strong> book’s folder, chosen by where the <em>unique</em> material sits, with a one-line pointer page in the other’s. Never two copies: they drift, and the index lists the report twice.</p>
+<p><strong>Source texts are not reports.</strong> They live in <code>_texts/logos-exports/</code>, filed book-first in the Tanak sections and named <code>NN-Book-VERSION.txt</code> — the convention is in <code>_texts/README.md</code>, not here.</p>
 <hr />
-<h2 id="filename-conventions">Filename Conventions</h2>
+<h2 id="filename-conventions">Filename conventions</h2>
 <p>Use these exact patterns (lower-case, hyphenated) so the skills recognise related files as a set:</p>
 <table style="width:100%;">
 <colgroup>
@@ -146,25 +323,48 @@
 <td><code>dig-deeper-philippians-4-1to9.md</code></td>
 </tr>
 <tr class="odd">
+<td><strong>Two-passage dig (Synoptic)</strong></td>
+<td><code>dig-deeper-[topic]-[bookA]-[ch]-[bookB]-[ch].md</code></td>
+<td><code>dig-deeper-hezekiah-isaiah-36-2kings-18.md</code></td>
+</tr>
+<tr class="even">
 <td>Book sweep</td>
 <td><code>dig-deeper-[book]-sweep.md</code></td>
 <td><code>dig-deeper-philippians-sweep.md</code></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Claim audit</td>
 <td><code>dig-deeper-[book]-claim-audit.md</code></td>
 <td><code>dig-deeper-jonah-claim-audit.md</code></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Macro-synthesis</td>
 <td><code>[book]-dig-deeper-macro-synthesis.md</code></td>
 <td><code>ruth-dig-deeper-macro-synthesis.md</code></td>
 </tr>
+<tr class="odd">
+<td>Sermon plan</td>
+<td><code>point-purpose-[book]-[chapter]-[verses].odt</code></td>
+<td><code>point-purpose-john-6.odt</code></td>
+</tr>
+<tr class="even">
+<td><strong>Library-wide audit</strong></td>
+<td><code>dig-deeper-[scope]-audit.md</code>, at the root</td>
+<td><code>dig-deeper-ot-chain-audit.md</code></td>
+</tr>
 </tbody>
 </table>
-<p>Verse ranges use <code>to</code> (e.g. <code>4-1to9</code>); single verses drop the range (e.g. <code>dig-deeper-john-3-16.md</code>).</p>
+<p>Verse ranges use <code>to</code> (e.g. <code>4-1to9</code>); single verses drop the range (e.g. <code>dig-deeper-john-3-16.md</code>). A two-passage report is named by what the pair is <em>about</em>, because it belongs to neither book alone — and the name stays the same wherever it is hosted.</p>
 <hr />
-<p><em>Keep this guide in the prep folder as a reminder of the sequence. When in doubt: overview first, digs from the text, overview finalised last.</em></p>
+<h2 id="rendering">Rendering</h2>
+<p>Build both derived formats with the canonical converters in <code>_house-style/</code>:</p>
+<pre><code>python3 _house-style/make_odt.py  report.md report.odt
+python3 _house-style/make_html.py report.md report.html</code></pre>
+<p>They apply the A5 / Liberation Serif house style, declare the house font as an ODF font face (without which LibreOffice silently renders Hebrew in its default complex-script font), set Hebrew three points above the western size, normalise bare <code>---</code> rules so pandoc cannot swallow a section as YAML metadata, and <strong>refuse to write a file that has lost a section</strong>.</p>
+<p><strong>One converter, not several.</strong> A skill that cannot rely on the prep folder being connected takes a hash-stamped copy produced by <code>bundle_converter.py</code>, never a hand-maintained one. <code>--check</code> reports the two ways a copy goes wrong: <em>edited by hand</em> (its body no longer matches its own stamp) and <em>stale</em> (the canonical file moved on). Two converters existed once in this toolkit, and they diverged silently.</p>
+<hr />
+<p><em>Keep this guide in the prep folder as a reminder of the sequence. When in doubt: the corpus first, overview before passages, every chain verified, and the overview finalised last.</em></p>
+
 </main>
 </div>
 </body>

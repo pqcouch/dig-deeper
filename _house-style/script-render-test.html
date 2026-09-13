@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Script rendering test — Hebrew and Greek in the house formats</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#script-rendering-test-hebrew-and-greek-in-the-house-formats">Script rendering test — Hebrew and Greek in the house formats</a></li>
+    <li><a href="#hebrew-inline-in-an-english-sentence-with-a-gloss">1. Hebrew inline in an English sentence, with a gloss</a></li>
+    <li><a href="#vowel-points-accents-and-the-special-marks">2. Vowel points, accents and the special marks</a></li>
+    <li><a href="#a-full-verse">3. A full verse</a></li>
+    <li><a href="#greek">4. Greek</a></li>
+    <li><a href="#in-a-table">5. In a table</a></li>
+    <li><a href="#in-a-heading-עדות-testimony-and-μάρτυς-witness">6. In a heading — עֵדוּת (“testimony”) and μάρτυς (“witness”)</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="script-rendering-test-hebrew-and-greek-in-the-house-formats">Script rendering test — Hebrew and Greek in the house formats</h1>
+<p>This file exists to answer one question: does pointed Hebrew, and accented Greek, survive into the house <code>.odt</code> and the house two-pane <code>.html</code> without mangling? Open both and compare them against this list.</p>
+<h2 id="hebrew-inline-in-an-english-sentence-with-a-gloss">1. Hebrew inline in an English sentence, with a gloss</h2>
+<p>The verb שָׁכַן (“to dwell, settle”) is the root behind מִשְׁכָּן (“tabernacle, dwelling-place”), and the two stand together at Exodus 40:35.</p>
+<p><strong>What to check:</strong> each Hebrew word reads right-to-left <em>within itself</em>, the sentence still runs left-to-right, and the bracket after the Hebrew sits on the correct side — <code>שָׁכַן ("to dwell")</code>, not with the opening bracket stranded.</p>
+<h2 id="vowel-points-accents-and-the-special-marks">2. Vowel points, accents and the special marks</h2>
+<ul>
+<li>Maqqef binds two words: עַל־פְּנֵי (“upon the face of”)</li>
+<li>Paseq stands alone: אֱלֹהִים ׀ לָאוֹר (“God … to the light”)</li>
+<li>Sof pasuq closes the verse: הָאָֽרֶץ׃ (“the earth.”)</li>
+<li>Final forms: מֶלֶךְ (“king”), אָרֶץ (“land”), עַם (“people”)</li>
+<li>Sin and shin distinguished: שָׂרַי (“Sarai”) against שָׁמַיִם (“heavens”)</li>
+</ul>
+<p><strong>What to check:</strong> the points sit <em>under</em> their consonants rather than drifting, and the accents have not become boxes or question marks.</p>
+<h2 id="a-full-verse">3. A full verse</h2>
+<p>בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃</p>
+<p>(“In the beginning God created the heavens and the earth.” — Genesis 1:1, NASB95)</p>
+<p><strong>What to check:</strong> the verse begins at the <em>right</em> margin, and the cantillation accents are present.</p>
+<h2 id="greek">4. Greek</h2>
+<p>The noun λόγος (“word”) opens John’s Gospel; συνάγω (“gather”) and σκορπίζω (“scatter”) stand opposed at John 11:52. Breathings and accents: ἀρχῇ, ἦν, οὗτος, Θεόφιλε, ἐφʼ.</p>
+<p><strong>What to check:</strong> rough and smooth breathings are visible and distinct, the iota subscript in ἀρχῇ has survived, and the apostrophe in ἐφʼ is the Greek one.</p>
+<h2 id="in-a-table">5. In a table</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Term</th>
+<th>Gloss</th>
+<th>Where</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>קְדוֹשׁ יִשְׂרָאֵל</td>
+<td>“the Holy One of Israel”</td>
+<td>Isaiah, 25×; Joshua–Kings, once</td>
+</tr>
+<tr class="even">
+<td>יְהוָה צְבָאוֹת</td>
+<td>“the LORD of hosts”</td>
+<td>Isaiah 60×; 1–2 Kings 5×</td>
+</tr>
+<tr class="odd">
+<td>נָגִיד</td>
+<td>“leader, prince”</td>
+<td>2 Kings 20:5</td>
+</tr>
+<tr class="even">
+<td>ἐκκλησία</td>
+<td>“assembly, church”</td>
+<td>Acts 5:11</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What to check:</strong> the Hebrew stays inside its own cell and does not push the column borders about.</p>
+<h2 id="in-a-heading-עדות-testimony-and-μάρτυς-witness">6. In a heading — עֵדוּת (“testimony”) and μάρτυς (“witness”)</h2>
+<p><strong>What to check:</strong> the heading renders at 14 pt bold like every other heading, and appears correctly in the HTML sidebar if it is an H2.</p>
+<hr />
+<p><em>If every check passes, the convention is safe: original script first, English gloss in brackets after.</em></p>
+
+</main>
+</div>
+</body>
+</html>

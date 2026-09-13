@@ -1,7 +1,7 @@
 # Dig Deeper — skill amendments, Round 3
 
 **Date:** 11 September 2026 · **Source:** the synoptic run on Isaiah 36:1–39:8 // 2 Kings 18:13–20:21 (`Isaiah/dig-deeper-hezekiah-isaiah-36-2kings-18.md`)
-**Status:** **drafted, not applied.** Four amendments, lettered **K–N**, plus one status change to Amendment G.
+**Status:** **applied 12 September 2026.** Four amendments, lettered **K–N**, plus one status change to Amendment G. All five landed in `SKILL.md`, together with five consequential edits the drafting missed (below). The corpus note was found to be wrong on inspection and has been corrected and widened; it is now in `_texts/README.md`.
 
 **Lettering.** Round 1 used A–E (with F1–F7 as the *Consequential edits* table); Round 2 used G–J. Round 3 continues at K.
 
@@ -96,9 +96,25 @@ Worth stating, since the question was whether anything else is outstanding.
 - **Amendment I** (research-tool answers are claims to test) was not exercised — no Logos pass was run. It remains untested in the field and should not be assumed sound.
 - **The depth floors** held at "per report, not per passage" without producing a thin report.
 
-## One thing that is a corpus note, not a skill amendment
+## One thing that is a corpus note, not a skill amendment — **and the draft got it wrong**
 
-The NASB95 Logos exports write chapter headings as **`Chapter 36`**; the Kings export writes **`CHAPTER 36`**. A case-sensitive pattern reports a sound file as broken — it did, in this run, and the file was briefly declared missing. **This belongs in `_texts/README.md`, not in the skill.**
+**As drafted:** "The NASB95 Logos exports write chapter headings as `Chapter 36`; the Kings export writes `CHAPTER 36`."
+
+**On inspection, 12 September 2026, that is not what the files do.** The split is by *version*, not by book. Every NASB95 export writes `Chapter NN` in title case — Kings included, 47 of them. Every LXX export writes `CHAPTER NN` in upper case. The run's `CHAPTER` sighting came from an LXX file, not from NASB95 Kings.
+
+The wider fact is worse than the one the draft recorded: `logos-exports/` holds **seven different chapter-and-verse conventions**, and four of the seven have no chapter marker at all.
+
+| Export | Chapter marker | Verse form |
+|---|---|---|
+| BHS | none — the chapter number prefixes verse 1 only (`1 1 <text>`) | bare number |
+| ESV | none — the first verse of each chapter carries `c:v` (`2:1`); only the book's very first reads `Ge 1:1` | bare number |
+| NASB95 (prose) | `Chapter NN` — title case | bare number |
+| NASB95 Psalms | `PSALM N`, under `BOOK 1`–`BOOK 5` headings | bare number |
+| LXX (Swete via Logos) | `CHAPTER NN` — upper case | bare number |
+| NIV84 | none — every line is `c:v` + tab + text | `c:v` |
+| NA28 | none at all in the Acts export | inline |
+
+**This belongs in `_texts/README.md`, not in the skill**, and is now there in the corrected and widened form. *The lesson is the audits' own: a claim about a file is checked against the file. The draft's version was written from memory of one run and was wrong in the detail that mattered — which file.*
 
 ---
 
@@ -109,3 +125,21 @@ The NASB95 Logos exports write chapter headings as **`Chapter 36`**; the Kings e
 3. **L and N** — both improve findings rather than preventing errors, and neither is urgent.
 
 All four are `SKILL.md` edits confined to the Phase 0.5d block, so the Synoptic Mode section should be rewritten whole rather than patched in five places.
+
+---
+
+## As applied, 12 September 2026
+
+The Synoptic Mode block was rewritten whole. Its points now run **1** direction of dependence · **2** extent (M) · **3** three movements · **4** two-pass diff (L) · **5** the per-book checks run twice (N1 + N2, folded into one point with Phase 0.6) · **6** the Triad · **7** both book-overviews · **8** filing (K).
+
+**Five consequential edits the draft did not anticipate.** The draft said all four amendments were "confined to the Phase 0.5d block" while warning the reader to check rather than trust that. The check was worth running — applying them to 0.5d alone would have left the skill inconsistent in five places:
+
+| Where | Why it had to change |
+|---|---|
+| Gate item **(e3)**, Phase 10.5 | Amendment L's skeletal pass is a rule about *any* whole-canon search, not only a synoptic diff. Added, with the קְדוֹשׁ יִשְׂרָאֵל 24-vs-25 instance. |
+| **Scope note** line, report template | M requires the extent decision to be recorded; the template's scope note had no field for it. |
+| **Tool 11** template, Move 4 block | N1 requires two lists in Synoptic Mode; the template asked for one. |
+| **Quality marker** on Move 4 | Same, at the gate that checks it. |
+| **Filename convention** note | Read "it belongs to neither book alone" as filing guidance, which K now contradicts. Reworded so the *name* is invariant and the *host folder* is K's decision. |
+
+*Round 2 recorded the lesson as "grep the whole file for the assumption, not just for the paragraph that argues it." It applied again, and found five.*

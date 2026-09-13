@@ -1,86 +1,80 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dig Deeper: Ezekiel (whole-book sweep)</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-  <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);
-      font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
-    .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
-    nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
-      padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
-    nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
-    nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
-    nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
-    nav ul{list-style:none;margin:0;padding:0;}
-    nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
-    main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
-    h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
-    h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
-    h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
-    h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
-    p{margin:.5rem 0;}
-    blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
-    code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
-      font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-    table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
-    th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
-    th{background:#efe9dc;}
-    tr:nth-child(even) td{background:#faf7f0;}
-    hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
-    strong{color:#332e26;}
-    main>ul,main>ol{padding-left:1.3rem;}
-    li{margin:.25rem 0;}
-    .tag{white-space:nowrap;}
-    @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dig Deeper: Ezekiel (whole-book sweep)</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 </style>
 </head>
 <body>
-  <div class="wrap">
-  <nav>
-    <h2>Contents</h2>
-    <ul>
-      <li><a href="#dig-deeper-ezekiel-whole-book-sweep">Dig Deeper: Ezekiel (whole-book sweep)</a></li>
-      <li><a href="#whole-book-orientation">Whole-book orientation</a></li>
-      <li><a href="#pericope-1-ezekiel-1128-the-glory-by-the-river">Pericope 1 — Ezekiel 1:1–28 — The glory by the river</a></li>
-      <li><a href="#pericope-2-ezekiel-21327-son-of-man-the-scroll-and-the-watchman">Pericope 2 — Ezekiel 2:1–3:27 — Son of man: the scroll and the watchman</a></li>
-      <li><a href="#pericope-3-ezekiel-41517-sign-acts-of-the-siege">Pericope 3 — Ezekiel 4:1–5:17 — Sign-acts of the siege</a></li>
-      <li><a href="#pericope-4-ezekiel-811125-the-glory-departs-the-temple">Pericope 4 — Ezekiel 8:1–11:25 — The glory departs the temple</a></li>
-      <li><a href="#pericope-5-ezekiel-1211423-false-hopes-and-false-prophets">Pericope 5 — Ezekiel 12:1–14:23 — False hopes and false prophets</a></li>
-      <li><a href="#pericope-6-ezekiel-16163-the-unfaithful-bride">Pericope 6 — Ezekiel 16:1–63 — The unfaithful bride</a></li>
-      <li><a href="#pericope-7-ezekiel-18132-the-soul-who-sins-turn-and-live">Pericope 7 — Ezekiel 18:1–32 — The soul who sins; turn and live</a></li>
-      <li><a href="#pericope-8-ezekiel-20144-a-history-of-rebellion-and-gods-name">Pericope 8 — Ezekiel 20:1–44 — A history of rebellion, and God’s name</a></li>
-      <li><a href="#pericope-9-ezekiel-24127-the-boiling-pot-the-day-the-siege-begins">Pericope 9 — Ezekiel 24:1–27 — The boiling pot; the day the siege begins</a></li>
-      <li><a href="#pericope-10-ezekiel-2513232-oracles-against-the-nations">Pericope 10 — Ezekiel 25:1–32:32 — Oracles against the nations</a></li>
-      <li><a href="#pericope-11-ezekiel-33133-the-watchman-and-the-news-of-the-fall">Pericope 11 — Ezekiel 33:1–33 — The watchman and the news of the fall</a></li>
-      <li><a href="#pericope-12-ezekiel-34131-the-shepherds-and-the-one-shepherd">Pericope 12 — Ezekiel 34:1–31 — The shepherds and the one Shepherd</a></li>
-      <li><a href="#pericope-13-ezekiel-361638-a-new-heart-and-a-new-spirit">Pericope 13 — Ezekiel 36:16–38 — A new heart and a new spirit</a></li>
-      <li><a href="#pericope-14-ezekiel-37114-the-valley-of-dry-bones">Pericope 14 — Ezekiel 37:1–14 — The valley of dry bones</a></li>
-      <li><a href="#pericope-15-ezekiel-371528-two-sticks-one-king-one-covenant-of-peace">Pericope 15 — Ezekiel 37:15–28 — Two sticks: one king, one covenant of peace</a></li>
-      <li><a href="#pericope-16-ezekiel-3813929-gog-the-last-assault-defeated">Pericope 16 — Ezekiel 38:1–39:29 — Gog: the last assault defeated</a></li>
-      <li><a href="#pericope-17-ezekiel-4014312-the-glory-returns-to-the-temple">Pericope 17 — Ezekiel 40:1–43:12 — The glory returns to the temple</a></li>
-      <li><a href="#pericope-18-ezekiel-47112-the-river-of-life">Pericope 18 — Ezekiel 47:1–12 — The river of life</a></li>
-      <li><a href="#pericope-19-ezekiel-47134835-the-land-and-the-lord-is-there">Pericope 19 — Ezekiel 47:13–48:35 — The land, and “The LORD Is There”</a></li>
-      <li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
-      <li><a href="#preaching-pitfalls-book-level-gathered-from-the-sweep">Preaching Pitfalls (book-level, gathered from the sweep)</a></li>
-      <li><a href="#reconciliation-with-the-book-overview">Reconciliation with the book-overview</a></li>
-      <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
-      <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
-      <li><a href="#text-first-declaration">Text-First Declaration</a></li>
-    </ul>
-  </nav>
-  <main>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-ezekiel-whole-book-sweep">Dig Deeper: Ezekiel (whole-book sweep)</a></li>
+    <li><a href="#whole-book-orientation">Whole-book orientation</a></li>
+    <li><a href="#pericope-1-ezekiel-1128-the-glory-by-the-river">Pericope 1 — Ezekiel 1:1–28 — The glory by the river</a></li>
+    <li><a href="#pericope-2-ezekiel-21327-son-of-man-the-scroll-and-the-watchman">Pericope 2 — Ezekiel 2:1–3:27 — Son of man: the scroll and the watchman</a></li>
+    <li><a href="#pericope-3-ezekiel-41517-sign-acts-of-the-siege">Pericope 3 — Ezekiel 4:1–5:17 — Sign-acts of the siege</a></li>
+    <li><a href="#pericope-4-ezekiel-811125-the-glory-departs-the-temple">Pericope 4 — Ezekiel 8:1–11:25 — The glory departs the temple</a></li>
+    <li><a href="#pericope-5-ezekiel-1211423-false-hopes-and-false-prophets">Pericope 5 — Ezekiel 12:1–14:23 — False hopes and false prophets</a></li>
+    <li><a href="#pericope-6-ezekiel-16163-the-unfaithful-bride">Pericope 6 — Ezekiel 16:1–63 — The unfaithful bride</a></li>
+    <li><a href="#pericope-7-ezekiel-18132-the-soul-who-sins-turn-and-live">Pericope 7 — Ezekiel 18:1–32 — The soul who sins; turn and live</a></li>
+    <li><a href="#pericope-8-ezekiel-20144-a-history-of-rebellion-and-gods-name">Pericope 8 — Ezekiel 20:1–44 — A history of rebellion, and God’s name</a></li>
+    <li><a href="#pericope-9-ezekiel-24127-the-boiling-pot-the-day-the-siege-begins">Pericope 9 — Ezekiel 24:1–27 — The boiling pot; the day the siege begins</a></li>
+    <li><a href="#pericope-10-ezekiel-2513232-oracles-against-the-nations">Pericope 10 — Ezekiel 25:1–32:32 — Oracles against the nations</a></li>
+    <li><a href="#pericope-11-ezekiel-33133-the-watchman-and-the-news-of-the-fall">Pericope 11 — Ezekiel 33:1–33 — The watchman and the news of the fall</a></li>
+    <li><a href="#pericope-12-ezekiel-34131-the-shepherds-and-the-one-shepherd">Pericope 12 — Ezekiel 34:1–31 — The shepherds and the one Shepherd</a></li>
+    <li><a href="#pericope-13-ezekiel-361638-a-new-heart-and-a-new-spirit">Pericope 13 — Ezekiel 36:16–38 — A new heart and a new spirit</a></li>
+    <li><a href="#pericope-14-ezekiel-37114-the-valley-of-dry-bones">Pericope 14 — Ezekiel 37:1–14 — The valley of dry bones</a></li>
+    <li><a href="#pericope-15-ezekiel-371528-two-sticks-one-king-one-covenant-of-peace">Pericope 15 — Ezekiel 37:15–28 — Two sticks: one king, one covenant of peace</a></li>
+    <li><a href="#pericope-16-ezekiel-3813929-gog-the-last-assault-defeated">Pericope 16 — Ezekiel 38:1–39:29 — Gog: the last assault defeated</a></li>
+    <li><a href="#pericope-17-ezekiel-4014312-the-glory-returns-to-the-temple">Pericope 17 — Ezekiel 40:1–43:12 — The glory returns to the temple</a></li>
+    <li><a href="#pericope-18-ezekiel-47112-the-river-of-life">Pericope 18 — Ezekiel 47:1–12 — The river of life</a></li>
+    <li><a href="#pericope-19-ezekiel-47134835-the-land-and-the-lord-is-there">Pericope 19 — Ezekiel 47:13–48:35 — The land, and “The LORD Is There”</a></li>
+    <li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
+    <li><a href="#preaching-pitfalls-book-level-gathered-from-the-sweep">Preaching Pitfalls (book-level, gathered from the sweep)</a></li>
+    <li><a href="#reconciliation-with-the-book-overview">Reconciliation with the book-overview</a></li>
+    <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
+    <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
+</nav>
+<main>
 <h1 id="dig-deeper-ezekiel-whole-book-sweep">Dig Deeper: Ezekiel (whole-book sweep)</h1>
 <p><strong>Translation:</strong> ESV (Anglicised in the pulpit — same text). <strong>Date:</strong> 30 July 2026. <strong>Mode:</strong> Multi-Passage Sweep — the sixteen tools worked at proportional (sweep) depth across nineteen pericopes (the book-overview’s preaching units), preceded by a whole-book orientation and followed by a cross-passage synthesis. <strong>Book-overview context:</strong> In-conversation — <code>book-overview-ezekiel</code> (Draft, v0.1.0, 30 July 2026). Its four active threads (presenting situation, intertextual map, Christological trajectory, preaching traps) are front-loaded and used reactively; tensions are surfaced, not suppressed. This sweep is the intended input to the overview’s Finalise/Upgrade pass. <strong>Secondary sources present:</strong> none beyond the book-overview and the biblical text. No commentary was consulted; the overview is treated as a planning document to be tested, not a substrate. Warrant tags: <code>[T]</code> from the text · <code>[I]</code> reasonable inference · <code>[S]</code> supplied by a secondary source, held provisionally.</p>
 <blockquote>
@@ -394,7 +388,7 @@
 <h2 id="text-first-declaration">Text-First Declaration</h2>
 <p><strong>Secondary sources present in context:</strong> the Draft <code>book-overview-ezekiel</code> v0.1.0 (front-loaded at Phase 0.5 as a thread-set) and the biblical text. No commentary, transcript, or prior dig-deeper report on any Ezekiel passage was present. <strong>Tools worked before secondary sources consulted:</strong> Confirmed — each pericope’s tools were worked text-first from the passage; the overview was reconciled only at the checking stage (see “Reconciliation”). The overview’s threads oriented attention but did not generate findings; agreements are independent (the glory-arc, live sources, and echo chains were re-derived from the text). <strong>Passage text:</strong> ESV quoted from high-confidence recall (full-text fetch copyright-restricted); load-bearing findings are structural/Hebrew, not fine-English-wording dependent; the few wording-sensitive points are flagged and listed in Open Question 6. <strong>Reference files viewed:</strong> dig-deeper SKILL body; <code>06-canonical-reading.md</code> (Triad + Move 4) and <code>preacher-extras.md</code> viewed in full this session; the Philippians whole-letter sweep served as the house calibration anchor for sweep format and depth. Core files 01–05, 07 and several extension files were <strong>not</strong> re-viewed in full this session — worked from established knowledge of their content under sweep-mode proportional depth; flagged honestly. For any ⭐ HIGH-weight solo dig before the pulpit, those files should be re-viewed. <strong>Depth floors (sweep-adjusted):</strong> Met at session level — every pericope carries Headline Findings, a Positional Necessity Check, proportional tools, Move 4, and live extensions; Tool 11’s Triad/Move 4 run on every unit; Christological reading and moralism check on every OT unit. Depth is proportional (sweep), so individual tools are briefer than a solo run — by design. <strong>Warrant counts (approximate, sweep-level):</strong> [T] ≈ 95 · [I] ≈ 22 · [S] ≈ 14. <strong>Health note:</strong> Text-first and <code>[T]</code>-dominant, as an Ezekiel sweep should be — the book’s argument is carried by structure, the two refrains, and dense internal echo, all worked from the text. The sweep confirms and deepens the Draft overview and is ready to drive its Finalise/Upgrade pass. Before preaching any ⭐ HIGH unit (1; 2–3; 8–11; 18; 33; 34; 36:16–38; 37:1–14; 40–43; 47:1–12), run a full solo <code>/dig-deeper</code> with the relevant reference files re-viewed and a printed ESV to hand.</p>
 
-  </main>
-  </div>
+</main>
+</div>
 </body>
 </html>

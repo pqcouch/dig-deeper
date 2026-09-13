@@ -1,72 +1,66 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dig Deeper: Malachi — the seal of the Book of the Twelve</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-  <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);
-      font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
-    .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
-    nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
-      padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
-    nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
-    nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
-    nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
-    nav ul{list-style:none;margin:0;padding:0;}
-    nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
-    main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
-    h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
-    h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
-    h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
-    h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
-    p{margin:.5rem 0;}
-    blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
-    code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
-      font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-    table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
-    th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
-    th{background:#efe9dc;}
-    tr:nth-child(even) td{background:#faf7f0;}
-    hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
-    strong{color:#332e26;}
-    main>ul,main>ol{padding-left:1.3rem;}
-    li{margin:.25rem 0;}
-    .tag{white-space:nowrap;}
-    @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dig Deeper: Malachi — the seal of the Book of the Twelve</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 </style>
 </head>
 <body>
-  <div class="wrap">
-  <nav>
-    <h2>Contents</h2>
-    <ul>
-      <li><a href="#dig-deeper-malachi-the-seal-of-the-book-of-the-twelve">Dig Deeper: Malachi — the seal of the Book of the Twelve</a></li>
-      <li><a href="#the-passage">The Passage</a></li>
-      <li><a href="#headline-findings">Headline Findings</a></li>
-      <li><a href="#book-level-tools-whole-book-work">Book-level Tools (whole-book work)</a></li>
-      <li><a href="#the-seven-units">The Seven Units</a></li>
-      <li><a href="#tool-8-translations-book-level-with-pulpit-guard">Tool 8 — Translations (book level, with pulpit guard)</a></li>
-      <li><a href="#extensions">Extensions</a></li>
-      <li><a href="#cross-passage-convergent-findings-malachi-as-one-argument-and-as-the-seal-of-the-twelve">Cross-Passage Convergent Findings — Malachi as one argument, and as the seal of the Twelve</a></li>
-      <li><a href="#convergent-findings-within-book-full-list">Convergent Findings (within-book, full list)</a></li>
-      <li><a href="#preaching-pitfalls">Preaching Pitfalls</a></li>
-      <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
-      <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
-      <li><a href="#text-first-declaration">Text-First Declaration</a></li>
-    </ul>
-  </nav>
-  <main>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-malachi-the-seal-of-the-book-of-the-twelve">Dig Deeper: Malachi — the seal of the Book of the Twelve</a></li>
+    <li><a href="#the-passage">The Passage</a></li>
+    <li><a href="#headline-findings">Headline Findings</a></li>
+    <li><a href="#book-level-tools-whole-book-work">Book-level Tools (whole-book work)</a></li>
+    <li><a href="#the-seven-units">The Seven Units</a></li>
+    <li><a href="#tool-8-translations-book-level-with-pulpit-guard">Tool 8 — Translations (book level, with pulpit guard)</a></li>
+    <li><a href="#extensions">Extensions</a></li>
+    <li><a href="#cross-passage-convergent-findings-malachi-as-one-argument-and-as-the-seal-of-the-twelve">Cross-Passage Convergent Findings — Malachi as one argument, and as the seal of the Twelve</a></li>
+    <li><a href="#convergent-findings-within-book-full-list">Convergent Findings (within-book, full list)</a></li>
+    <li><a href="#preaching-pitfalls">Preaching Pitfalls</a></li>
+    <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
+    <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
+</nav>
+<main>
 <h1 id="dig-deeper-malachi-the-seal-of-the-book-of-the-twelve">Dig Deeper: Malachi — the seal of the Book of the Twelve</h1>
 <p><strong>Translation:</strong> ESV (default). Hebrew versification differs — Malachi 4:1–6 (English) = 3:19–24 (Hebrew); the book has three chapters in the Hebrew Bible. <strong>Pulpit translation:</strong> NIV 2011 (Anglicised) — divergences flagged under Tool 8. <strong>Date:</strong> 11 July 2026 <strong>Mode:</strong> Multi-passage sweep (six disputations + double appendix), heavy Book-of-the-Twelve framing. <strong>Book-overview context:</strong> None present in project (only a metadata file in the cache). Move 2 source-tracking built independently below. <strong>Series context:</strong> Malachi treated as one “chapter” of the Twelve (Trei Asar / the Minor Prophets read as a single scroll).</p>
 <p>Warrant tags: <em>[T]</em> derivable from the text itself · <em>[I]</em> reasonable inference from the text · <em>[S]</em> supplied by a secondary source, held provisionally.</p>
@@ -553,7 +547,7 @@
 <p><strong>Secondary sources present in context:</strong> None. The project cache held only a metadata file — no book-overview, commentary, transcript, or prior report on Malachi or the Twelve. <strong>Tools worked before secondary sources consulted:</strong> N/A — no secondary sources; all findings are text-first from Malachi and its canonical neighbours, using standard reference knowledge of the Twelve and the Hebrew. <strong>Passage text:</strong> ESV, high-confidence recall for a short, well-known book; wording-dependent findings (2:15, 2:16, 3:11 “devourer”) explicitly flagged and their weight limited accordingly. Where exact wording is contested it is named as contested rather than asserted. <strong>Reference files viewed:</strong> Core 01–07 (all); preacher-extras; extensions historical-background, original-audience, original-languages, biblical-theology, christological-reading, difficult-verses, textual-variants; worked example romans-8-31to39. Not separately re-viewed: psalm-33 worked example (Romans example used as anchor, appropriate for prophetic prose rather than tight poetry). <strong>Depth floors:</strong> Met — well over five tools receive substantial treatment (Author’s Purpose, Context/Positional, Structure, Tone, Repetition, Vocabulary, Quotation/Allusion, Genre, plus per-unit Tool 2 and Tool 11); Tools 1, 2, 7, 8, 11, 16 all substantive; Headline Findings 5; Preaching Pitfalls 5; confidence flags well above five. OT Citation Triad applied to the load-bearing citations (Gen 25–27; Exod 23:20 + Isa 40:3; Zech 1:3; Exod 19:5/Deut 7:6; the Twelve day-thread); Move 4 internal-echo run for every unit. <strong>Warrant counts (approx.):</strong> <em>[T]</em> ~42 · <em>[I]</em> ~20 · <em>[S]</em> ~3 (the concentric-structure proposal; the maśśā’ editorial-seam significance; the liturgical-repetition significance — all flagged as provisional). <strong>Health note:</strong> The report is overwhelmingly <em>[T]</em>/<em>[I]</em> and text-first; the handful of <em>[S]</em> items are scholarly proposals openly flagged as such, not smuggled findings. It could not have been written by someone who read a commentary but never opened Malachi — the messenger-spine, the father/son inclusio, the name-reversal, and the Twelve-internal allusion set were derived from the words of the text and its canonical neighbours.</p>
 <p><em>Hand off to /point-purpose for Teaching Point and Purpose Statement work — per unit, or for a book-level series on Malachi as the seal of the Twelve.</em></p>
 
-  </main>
-  </div>
+</main>
+</div>
 </body>
 </html>

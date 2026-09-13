@@ -18,7 +18,7 @@ primary texts are for the data. Do not ask a search engine what a verse says.**
 | `hebrew-wlc/` | Westminster Leningrad Codex (Open Scriptures / morphhb) | The Hebrew substrate: reading, counting, root and Leitwort work, petuchot/setumot | Citing *BHS* as such. It is the same manuscript BHS prints (Leningrad B19a), but not BHS's apparatus or editorial decisions |
 | `greek-lxx-swete/` | Swete, *The Old Testament in Greek* (1909–30) | Reading and searching the Greek OT; whole-canon word searches | Citing *Rahlfs* or *Rahlfs-Hanhart*. Swete is Vaticanus-based and diverges from Rahlfs in real places |
 | `greek-nt-sblgnt/` | SBLGNT with MorphGNT parsing | The Greek NT substrate: reading, counting, lemma work | Citing *NA28*. No apparatus; the SBLGNT omits 5:4 and brackets 7:53–8:11 in John, and text-critical decisions differ from NA28 in a few dozen places |
-| `logos-exports/` | Your own Logos exports — BHS, Rahlfs-Hanhart LXX, NASB95, ESV, and whatever else you upload | **Citation of record**, wherever a reading is load-bearing | Whole-canon searching — coverage is only what has been exported so far |
+| `logos-exports/` | Your own Logos exports — BHS, Rahlfs-Hanhart LXX, NASB95, ESV, NIV84, NA28, and whatever else you upload. Laid out book-first in the Tanak sections; see below | **Citation of record**, wherever a reading is load-bearing | Whole-canon searching — coverage is only what has been exported so far |
 
 **The honest summary.** Three of these four layers are *proxies*. They are the
 right tool for finding, counting and checking; they are the wrong tool for
@@ -81,12 +81,41 @@ exports are the citation of record and this layer is not.
 - **ESV** — no redistributable bulk text; export per book as needed
 - **NASB95** — the study text. Lockman copyright, no redistributable source; export per book as needed
 
-`logos-exports/` is where those go. Name them as they already are —
-`BHS Ruth.txt`, `LXX Isaiah.txt`, `ESV Leviticus.txt`, `NASB95 Ruth.txt` — so the
-source is visible in the filename. **Name the edition, not just the version:** the
-NASB95 and the 2020 revision are substantially different texts, and a file called
-`NASB Ruth.txt` will be ambiguous within a year. Logos caps a single export at 100 pages, so a long
-book comes in parts; that split is an export artefact and means nothing.
+`logos-exports/` is where those go, and since **13 September 2026** it is laid out
+**book-first**, in the same Tanak skeleton as `hebrew-wlc/`:
+
+```
+logos-exports/
+├── 01-Old-Testament/
+│   ├── 01-Torah/
+│   ├── 02-Neviim/01-Former/
+│   ├── 02-Neviim/02-Latter/   (04-The-Twelve/ nested beneath)
+│   └── 03-Ketuvim/
+└── 02-New-Testament/          flat, as `greek-nt-sblgnt/` is
+```
+
+**Filename: `NN-Book-VERSION.txt`** — `01-Genesis-BHS.txt`, `02-Jeremiah-LXX.txt`,
+`05-Acts-NA28-apparatus.txt`. The number is the book's position in its section,
+matching `hebrew-wlc/` exactly, including the a/b suffixes where a version splits
+a book the Hebrew canon counts as one (`03a-1-Samuel-NIV84.txt` beside
+`03-Samuel-BHS.txt`). Book first means every version of a book sits together and
+the books stand in canonical order — which is the arrangement the work actually
+wants, since a dig opens four versions of one book rather than eleven books of one
+version.
+
+**Keep the version in the filename**, and **name the edition, not just the
+version:** the NASB95 and the 2020 revision are substantially different texts, and
+a file called `04-Ruth-NASB.txt` will be ambiguous within a year. Logos exports
+arrive named `NASB95 Ruth.txt`, so filing a new one means a rename into this shape.
+
+**The sections are a finding aid, not a claim.** Torah / Nevi'im / Ketuvim is the
+*Hebrew* canon's architecture. Swete's LXX has its own — ordered by genre, and
+carrying books the Tanak does not — and the NIV84 and ESV follow the Christian
+order. Filing every version into the Hebrew sections makes them findable together;
+it says nothing about how any of those collections orders itself.
+
+Logos caps a single export at 100 pages, so a long book comes in parts; that split
+is an export artefact and means nothing.
 
 ---
 
@@ -104,7 +133,9 @@ _texts/
 ├── greek-lxx-swete/           60 books, in the LXX's own order
 ├── greek-nt-sblgnt/
 │   └── _index/                word-level TSV
-├── logos-exports/             your BHS / LXX / ESV / NASB95 exports
+├── logos-exports/             your BHS / LXX / ESV / NASB95 / NIV84 / NA28 exports
+│   ├── 01-Old-Testament/      Tanak sections, as above; files NN-Book-VERSION.txt
+│   └── 02-New-Testament/      flat
 ├── source/                    unmodified downloads (for reproducibility)
 └── tools/                     build and search scripts
 ```
@@ -178,6 +209,28 @@ Hebrew lemmas are Strong's numbers, prefixed morphemes separated by `/`
 **Search the lemma column, not the pointed surface form** — pointing, prefixes
 and suffixes make surface search unreliable, which is exactly how a chain gets
 claimed at a verse that does not contain the word.
+
+### Chapter markers in the Logos exports — seven conventions, no two alike
+
+`logos-exports/` is not one format. Each version exports chapter and verse
+differently, and a pattern that works on one file reports a sound file as broken
+on another. It did: in the Hezekiah synoptic run of 11 September 2026 a
+case-sensitive search declared a good export missing.
+
+| Export | Chapter marker | Verse form |
+|---|---|---|
+| BHS | none — the chapter number prefixes verse 1 only (`1 1 <text>`) | bare number |
+| ESV | none — the first verse of each chapter carries `c:v` (`2:1`); only the book's very first reads `Ge 1:1` | bare number |
+| NASB95 (prose) | `Chapter NN` — **title case** | bare number |
+| NASB95 Psalms | `PSALM N`, under `BOOK 1`–`BOOK 5` division headings | bare number |
+| LXX (Swete via Logos) | `CHAPTER NN` — **upper case** | bare number |
+| NIV84 | none — every line is `c:v` + tab + text | `c:v` |
+| NA28 | none at all in the Acts export; verse numbers and apparatus sigla run inline | inline |
+
+**Match case-insensitively, and confirm the marker in the file in front of you
+before scripting against it.** The split is by version, not by book: every
+NASB95 export uses `Chapter`, Kings included, and every LXX export uses
+`CHAPTER`.
 
 ---
 

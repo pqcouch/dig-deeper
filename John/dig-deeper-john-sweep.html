@@ -1,112 +1,106 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dig Deeper: John (whole-book sweep)</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-  <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);
-      font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
-    .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
-    nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
-      padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
-    nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
-    nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
-    nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
-    nav ul{list-style:none;margin:0;padding:0;}
-    nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
-    main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
-    h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
-    h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
-    h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
-    h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
-    p{margin:.5rem 0;}
-    blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
-    code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
-      font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-    table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
-    th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
-    th{background:#efe9dc;}
-    tr:nth-child(even) td{background:#faf7f0;}
-    hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
-    strong{color:#332e26;}
-    main>ul,main>ol{padding-left:1.3rem;}
-    li{margin:.25rem 0;}
-    .tag{white-space:nowrap;}
-    @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dig Deeper: John (whole-book sweep)</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 </style>
 </head>
 <body>
-  <div class="wrap">
-  <nav>
-    <h2>Contents</h2>
-    <ul>
-      <li><a href="#dig-deeper-john-whole-book-sweep">Dig Deeper: John (whole-book sweep)</a></li>
-      <li><a href="#method-note-read-this-before-using-the-sweep">Method note — read this before using the sweep</a></li>
-      <li><a href="#phase-0.5-book-overview-active-layer">Phase 0.5 — Book-overview active layer</a></li>
-      <li><a href="#whole-book-orientation-built-text-first-at-sweep-level">Whole-book orientation (built text-first at sweep level)</a></li>
-      <li><a href="#pericope-1-john-1118-the-prologue">Pericope 1 — John 1:1–18 — The Prologue</a></li>
-      <li><a href="#pericope-2-john-11934-the-witness-of-john-behold-the-lamb-of-god">Pericope 2 — John 1:19–34 — The witness of John: “Behold the Lamb of God”</a></li>
-      <li><a href="#pericope-3-john-13551-come-and-see">Pericope 3 — John 1:35–51 — Come and see</a></li>
-      <li><a href="#pericope-4-john-2112-the-first-sign-water-into-wine">Pericope 4 — John 2:1–12 — The first sign: water into wine</a></li>
-      <li><a href="#pericope-5-john-21325-the-temple-cleansed">Pericope 5 — John 2:13–25 — The temple cleansed</a></li>
-      <li><a href="#pericope-6-john-3121-born-from-above">Pericope 6 — John 3:1–21 — Born from above</a></li>
-      <li><a href="#pericope-7-john-32236-he-must-increase">Pericope 7 — John 3:22–36 — He must increase</a></li>
-      <li><a href="#pericope-8-john-4142-the-samaritan-woman">Pericope 8 — John 4:1–42 — The Samaritan woman</a></li>
-      <li><a href="#pericope-9-john-44354-the-second-sign">Pericope 9 — John 4:43–54 — The second sign</a></li>
-      <li><a href="#pericope-10-john-5118-healing-at-bethesda-the-sabbath-charge">Pericope 10 — John 5:1–18 — Healing at Bethesda; the Sabbath charge</a></li>
-      <li><a href="#pericope-11-john-51947-the-son-and-the-four-witnesses">Pericope 11 — John 5:19–47 — The Son and the four witnesses</a></li>
-      <li><a href="#pericope-12-john-6121-feeding-kingship-refused-and-the-sea">Pericope 12 — John 6:1–21 — Feeding, kingship refused, and the sea</a></li>
-      <li><a href="#pericope-13-john-62259-i-am-the-bread-of-life">Pericope 13 — John 6:22–59 — I am the bread of life</a></li>
-      <li><a href="#pericope-14-john-66071-many-turned-back">Pericope 14 — John 6:60–71 — Many turned back</a></li>
-      <li><a href="#pericope-15-john-7152-tabernacles-rivers-of-living-water">Pericope 15 — John 7:1–52 — Tabernacles: rivers of living water</a></li>
-      <li><a href="#pericope-16-john-753811-the-woman-caught-in-adultery">Pericope 16 — [John 7:53–8:11] — The woman caught in adultery</a></li>
-      <li><a href="#pericope-17-john-81230-the-light-of-the-world-the-witness-dispute">Pericope 17 — John 8:12–30 — The light of the world; the witness dispute</a></li>
-      <li><a href="#pericope-18-john-83159-before-abraham-was-i-am">Pericope 18 — John 8:31–59 — Before Abraham was, I am</a></li>
-      <li><a href="#pericope-19-john-9141-the-man-born-blind">Pericope 19 — John 9:1–41 — The man born blind</a></li>
-      <li><a href="#pericope-20-john-10121-the-good-shepherd">Pericope 20 — John 10:1–21 — The good shepherd</a></li>
-      <li><a href="#pericope-21-john-102242-at-the-feast-of-dedication">Pericope 21 — John 10:22–42 — At the Feast of Dedication</a></li>
-      <li><a href="#pericope-22-john-11144-i-am-the-resurrection-and-the-life">Pericope 22 — John 11:1–44 — I am the resurrection and the life</a></li>
-      <li><a href="#pericope-23-john-114557-one-man-should-die-for-the-people">Pericope 23 — John 11:45–57 — One man should die for the people</a></li>
-      <li><a href="#pericope-24-john-12111-the-house-filled-with-fragrance">Pericope 24 — John 12:1–11 — The house filled with fragrance</a></li>
-      <li><a href="#pericope-25-john-121219-the-king-on-a-donkey">Pericope 25 — John 12:12–19 — The King on a donkey</a></li>
-      <li><a href="#pericope-26-john-122036-the-hour-has-come">Pericope 26 — John 12:20–36 — The hour has come</a></li>
-      <li><a href="#pericope-27-john-123750-why-they-could-not-believe">Pericope 27 — John 12:37–50 — Why they could not believe</a></li>
-      <li><a href="#pericope-28-john-13120-he-loved-them-to-the-end">Pericope 28 — John 13:1–20 — He loved them to the end</a></li>
-      <li><a href="#pericope-29-john-132138-betrayal-glory-and-the-new-commandment">Pericope 29 — John 13:21–38 — Betrayal, glory, and the new commandment</a></li>
-      <li><a href="#pericope-30-john-14114-i-am-the-way-the-truth-and-the-life">Pericope 30 — John 14:1–14 — I am the way, the truth, and the life</a></li>
-      <li><a href="#pericope-31-john-141531-another-helper">Pericope 31 — John 14:15–31 — Another Helper</a></li>
-      <li><a href="#pericope-32-john-15117-i-am-the-true-vine">Pericope 32 — John 15:1–17 — I am the true vine</a></li>
-      <li><a href="#pericope-33-john-15181615-the-worlds-hatred-and-the-spirits-witness">Pericope 33 — John 15:18–16:15 — The world’s hatred and the Spirit’s witness</a></li>
-      <li><a href="#pericope-34-john-161633-your-sorrow-will-turn-into-joy">Pericope 34 — John 16:16–33 — Your sorrow will turn into joy</a></li>
-      <li><a href="#pericope-35-john-17126-that-they-may-all-be-one">Pericope 35 — John 17:1–26 — That they may all be one</a></li>
-      <li><a href="#pericope-36-john-18127-whom-do-you-seek">Pericope 36 — John 18:1–27 — Whom do you seek?</a></li>
-      <li><a href="#pericope-37-john-18281916-what-is-truth-behold-your-king">Pericope 37 — John 18:28–19:16 — What is truth? Behold your King</a></li>
-      <li><a href="#pericope-38-john-191742-it-is-finished">Pericope 38 — John 19:17–42 — It is finished</a></li>
-      <li><a href="#pericope-39-john-20118-woman-why-are-you-weeping">Pericope 39 — John 20:1–18 — Woman, why are you weeping?</a></li>
-      <li><a href="#pericope-40-john-201931-my-lord-and-my-god">Pericope 40 — John 20:19–31 — My Lord and my God</a></li>
-      <li><a href="#pericope-41-john-21125-breakfast-and-a-second-charcoal-fire">Pericope 41 — John 21:1–25 — Breakfast, and a second charcoal fire</a></li>
-      <li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
-      <li><a href="#headline-findings-whole-book">Headline Findings (whole book)</a></li>
-      <li><a href="#preaching-pitfalls-whole-book">Preaching Pitfalls (whole book)</a></li>
-      <li><a href="#solo-dig-triage">Solo-Dig Triage</a></li>
-      <li><a href="#series-planning-notes">Series Planning Notes</a></li>
-      <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
-      <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
-      <li><a href="#text-first-declaration">Text-First Declaration</a></li>
-    </ul>
-  </nav>
-  <main>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-john-whole-book-sweep">Dig Deeper: John (whole-book sweep)</a></li>
+    <li><a href="#method-note-read-this-before-using-the-sweep">Method note — read this before using the sweep</a></li>
+    <li><a href="#phase-0.5-book-overview-active-layer">Phase 0.5 — Book-overview active layer</a></li>
+    <li><a href="#whole-book-orientation-built-text-first-at-sweep-level">Whole-book orientation (built text-first at sweep level)</a></li>
+    <li><a href="#pericope-1-john-1118-the-prologue">Pericope 1 — John 1:1–18 — The Prologue</a></li>
+    <li><a href="#pericope-2-john-11934-the-witness-of-john-behold-the-lamb-of-god">Pericope 2 — John 1:19–34 — The witness of John: “Behold the Lamb of God”</a></li>
+    <li><a href="#pericope-3-john-13551-come-and-see">Pericope 3 — John 1:35–51 — Come and see</a></li>
+    <li><a href="#pericope-4-john-2112-the-first-sign-water-into-wine">Pericope 4 — John 2:1–12 — The first sign: water into wine</a></li>
+    <li><a href="#pericope-5-john-21325-the-temple-cleansed">Pericope 5 — John 2:13–25 — The temple cleansed</a></li>
+    <li><a href="#pericope-6-john-3121-born-from-above">Pericope 6 — John 3:1–21 — Born from above</a></li>
+    <li><a href="#pericope-7-john-32236-he-must-increase">Pericope 7 — John 3:22–36 — He must increase</a></li>
+    <li><a href="#pericope-8-john-4142-the-samaritan-woman">Pericope 8 — John 4:1–42 — The Samaritan woman</a></li>
+    <li><a href="#pericope-9-john-44354-the-second-sign">Pericope 9 — John 4:43–54 — The second sign</a></li>
+    <li><a href="#pericope-10-john-5118-healing-at-bethesda-the-sabbath-charge">Pericope 10 — John 5:1–18 — Healing at Bethesda; the Sabbath charge</a></li>
+    <li><a href="#pericope-11-john-51947-the-son-and-the-four-witnesses">Pericope 11 — John 5:19–47 — The Son and the four witnesses</a></li>
+    <li><a href="#pericope-12-john-6121-feeding-kingship-refused-and-the-sea">Pericope 12 — John 6:1–21 — Feeding, kingship refused, and the sea</a></li>
+    <li><a href="#pericope-13-john-62259-i-am-the-bread-of-life">Pericope 13 — John 6:22–59 — I am the bread of life</a></li>
+    <li><a href="#pericope-14-john-66071-many-turned-back">Pericope 14 — John 6:60–71 — Many turned back</a></li>
+    <li><a href="#pericope-15-john-7152-tabernacles-rivers-of-living-water">Pericope 15 — John 7:1–52 — Tabernacles: rivers of living water</a></li>
+    <li><a href="#pericope-16-john-753811-the-woman-caught-in-adultery">Pericope 16 — [John 7:53–8:11] — The woman caught in adultery</a></li>
+    <li><a href="#pericope-17-john-81230-the-light-of-the-world-the-witness-dispute">Pericope 17 — John 8:12–30 — The light of the world; the witness dispute</a></li>
+    <li><a href="#pericope-18-john-83159-before-abraham-was-i-am">Pericope 18 — John 8:31–59 — Before Abraham was, I am</a></li>
+    <li><a href="#pericope-19-john-9141-the-man-born-blind">Pericope 19 — John 9:1–41 — The man born blind</a></li>
+    <li><a href="#pericope-20-john-10121-the-good-shepherd">Pericope 20 — John 10:1–21 — The good shepherd</a></li>
+    <li><a href="#pericope-21-john-102242-at-the-feast-of-dedication">Pericope 21 — John 10:22–42 — At the Feast of Dedication</a></li>
+    <li><a href="#pericope-22-john-11144-i-am-the-resurrection-and-the-life">Pericope 22 — John 11:1–44 — I am the resurrection and the life</a></li>
+    <li><a href="#pericope-23-john-114557-one-man-should-die-for-the-people">Pericope 23 — John 11:45–57 — One man should die for the people</a></li>
+    <li><a href="#pericope-24-john-12111-the-house-filled-with-fragrance">Pericope 24 — John 12:1–11 — The house filled with fragrance</a></li>
+    <li><a href="#pericope-25-john-121219-the-king-on-a-donkey">Pericope 25 — John 12:12–19 — The King on a donkey</a></li>
+    <li><a href="#pericope-26-john-122036-the-hour-has-come">Pericope 26 — John 12:20–36 — The hour has come</a></li>
+    <li><a href="#pericope-27-john-123750-why-they-could-not-believe">Pericope 27 — John 12:37–50 — Why they could not believe</a></li>
+    <li><a href="#pericope-28-john-13120-he-loved-them-to-the-end">Pericope 28 — John 13:1–20 — He loved them to the end</a></li>
+    <li><a href="#pericope-29-john-132138-betrayal-glory-and-the-new-commandment">Pericope 29 — John 13:21–38 — Betrayal, glory, and the new commandment</a></li>
+    <li><a href="#pericope-30-john-14114-i-am-the-way-the-truth-and-the-life">Pericope 30 — John 14:1–14 — I am the way, the truth, and the life</a></li>
+    <li><a href="#pericope-31-john-141531-another-helper">Pericope 31 — John 14:15–31 — Another Helper</a></li>
+    <li><a href="#pericope-32-john-15117-i-am-the-true-vine">Pericope 32 — John 15:1–17 — I am the true vine</a></li>
+    <li><a href="#pericope-33-john-15181615-the-worlds-hatred-and-the-spirits-witness">Pericope 33 — John 15:18–16:15 — The world’s hatred and the Spirit’s witness</a></li>
+    <li><a href="#pericope-34-john-161633-your-sorrow-will-turn-into-joy">Pericope 34 — John 16:16–33 — Your sorrow will turn into joy</a></li>
+    <li><a href="#pericope-35-john-17126-that-they-may-all-be-one">Pericope 35 — John 17:1–26 — That they may all be one</a></li>
+    <li><a href="#pericope-36-john-18127-whom-do-you-seek">Pericope 36 — John 18:1–27 — Whom do you seek?</a></li>
+    <li><a href="#pericope-37-john-18281916-what-is-truth-behold-your-king">Pericope 37 — John 18:28–19:16 — What is truth? Behold your King</a></li>
+    <li><a href="#pericope-38-john-191742-it-is-finished">Pericope 38 — John 19:17–42 — It is finished</a></li>
+    <li><a href="#pericope-39-john-20118-woman-why-are-you-weeping">Pericope 39 — John 20:1–18 — Woman, why are you weeping?</a></li>
+    <li><a href="#pericope-40-john-201931-my-lord-and-my-god">Pericope 40 — John 20:19–31 — My Lord and my God</a></li>
+    <li><a href="#pericope-41-john-21125-breakfast-and-a-second-charcoal-fire">Pericope 41 — John 21:1–25 — Breakfast, and a second charcoal fire</a></li>
+    <li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
+    <li><a href="#headline-findings-whole-book">Headline Findings (whole book)</a></li>
+    <li><a href="#preaching-pitfalls-whole-book">Preaching Pitfalls (whole book)</a></li>
+    <li><a href="#solo-dig-triage">Solo-Dig Triage</a></li>
+    <li><a href="#series-planning-notes">Series Planning Notes</a></li>
+    <li><a href="#open-questions-uncertainties">Open Questions / Uncertainties</a></li>
+    <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
+</nav>
+<main>
 <h1 id="dig-deeper-john-whole-book-sweep">Dig Deeper: John (whole-book sweep)</h1>
 <p><strong>Translation:</strong> ESV <strong>Pulpit translation:</strong> ESV (Anglicised) — same text as the report default <strong>Date:</strong> 4 August 2026 <strong>Mode:</strong> Multi-Passage Sweep (41 pericopes, even depth), Fresh Exegesis throughout <strong>Book-overview context:</strong> <code>book-overview-john</code> v0.1.0 (4 August 2026), in conversation — front-loaded at Phase 0.5, reconciled at Phase 5.5 <strong>Prior runs in context:</strong> <code>dig-deeper-john-6</code>, <code>dig-deeper-john-7</code>, <code>dig-deeper-john-7-1to10-21</code> — <strong>not</strong> used as substrate; chapters 6 and 7:1–10:21 were re-worked from the text at sweep depth and the prior runs consulted only at the checking stage <strong>Version:</strong> 1.1 (4 August 2026) — revised at the checking stage against two conversation records supplied after the text-first pass was complete: <em>The Gospel of John as Legal Brief</em> and <em>John’s Gospel — Use of Rhetoric in the Structure</em> (Patrick &amp; Claude, May 2026). <strong>The forensic frame in this report was reached independently from the text before those documents were opened</strong> (see Cross-Passage Convergent Finding 15); what they supplied is recorded as <code>[S: conv]</code> and marked in the four places it changed the report <strong>Commissioned priorities:</strong> (1) audit the overview’s claims; (2) surface cross-passage threads only visible book-wide; (3) triage which units need a full solo dig; (4) series-planning material</p>
 <hr />
@@ -882,7 +876,7 @@
 <hr />
 <p><em>Dig Deeper whole-book sweep: John, 41 pericopes. Companion documents: <code>book-overview-john</code> (upgrade to v0.2.0 recommended), <code>dig-deeper-john-6</code>, <code>dig-deeper-john-7</code>, <code>dig-deeper-john-7-1to10-21</code>.</em></p>
 
-  </main>
-  </div>
+</main>
+</div>
 </body>
 </html>

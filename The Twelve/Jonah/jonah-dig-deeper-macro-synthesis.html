@@ -3,12 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jonah &mdash; Dig-Deeper Macro-Synthesis</title>
+<title>Jonah — Dig-Deeper Macro-Synthesis</title>
 <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
-   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
   .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
   nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
    padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
@@ -26,7 +28,7 @@
   blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
   code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
    font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
   th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
   th{background:#efe9dc;}
   tr:nth-child(even) td{background:#faf7f0;}
@@ -41,21 +43,21 @@
 <body>
 <div class="wrap">
 <nav>
-<h2>Contents</h2>
-<ul>
-<li><a href="#jonah-dig-deeper-macro-synthesis">Jonah — Dig-Deeper Macro-Synthesis</a></li>
-<li><a href="#how-to-read-this-document">How to read this document</a></li>
-<li><a href="#the-books-scandal-is-compressed-into-one-word-the-raah-pun">1. The book’s scandal is compressed into one word: the ra’ah pun</a></li>
-<li><a href="#the-exodus-346-creed-is-the-books-spine-cited-in-the-twelves-own-expanded-voice-and-bracketed-by-nahum">2. The Exodus 34:6 creed is the book’s spine — cited in the Twelve’s own expanded voice, and bracketed by Nahum</a></li>
-<li><a href="#the-outsiders-ascend-while-the-prophet-descends-the-foil-is-structural-not-incidental">3. The outsiders ascend while the prophet descends — the foil is structural, not incidental</a></li>
-<li><a href="#that-we-may-not-perish-the-word-that-travels-from-pagan-lips-to-a-withered-plant">4. “That we may not perish”: the word that travels from pagan lips to a withered plant</a></li>
-<li><a href="#one-hand-commands-the-created-order-rescue-and-rebuke-are-a-single-governance">5. One hand commands the created order — rescue and rebuke are a single governance</a></li>
-<li><a href="#the-book-withholds-its-thesis-seeds-it-and-ends-on-a-question">6. The book withholds its thesis, seeds it, and ends on a question</a></li>
-<li><a href="#the-christological-method-nt-authorised-sign-and-contrast-never-constructed-typology-or-moralism">7. The Christological method: NT-authorised sign-and-contrast, never constructed typology or moralism</a></li>
-<li><a href="#candidate-threads-real-but-not-yet-macro">Candidate threads (real, but not yet macro)</a></li>
-<li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
-<li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
-</ul>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#jonah-dig-deeper-macro-synthesis">Jonah — Dig-Deeper Macro-Synthesis</a></li>
+    <li><a href="#how-to-read-this-document">How to read this document</a></li>
+    <li><a href="#the-books-scandal-is-compressed-into-one-word-the-raah-pun">1. The book’s scandal is compressed into one word: the ra’ah pun</a></li>
+    <li><a href="#the-exodus-346-creed-is-the-books-spine-cited-in-the-twelves-own-expanded-voice-and-bracketed-by-nahum">2. The Exodus 34:6 creed is the book’s spine — cited in the Twelve’s own expanded voice, and bracketed by Nahum</a></li>
+    <li><a href="#the-outsiders-ascend-while-the-prophet-descends-the-foil-is-structural-not-incidental">3. The outsiders ascend while the prophet descends — the foil is structural, not incidental</a></li>
+    <li><a href="#that-we-may-not-perish-the-word-that-travels-from-pagan-lips-to-a-withered-plant">4. “That we may not perish”: the word that travels from pagan lips to a withered plant</a></li>
+    <li><a href="#one-hand-commands-the-created-order-rescue-and-rebuke-are-a-single-governance">5. One hand commands the created order — rescue and rebuke are a single governance</a></li>
+    <li><a href="#the-book-withholds-its-thesis-seeds-it-and-ends-on-a-question">6. The book withholds its thesis, seeds it, and ends on a question</a></li>
+    <li><a href="#the-christological-method-nt-authorised-sign-and-contrast-never-constructed-typology-or-moralism">7. The Christological method: NT-authorised sign-and-contrast, never constructed typology or moralism</a></li>
+    <li><a href="#candidate-threads-real-but-not-yet-macro">Candidate threads (real, but not yet macro)</a></li>
+    <li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
+    <li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
+  </ul>
 </nav>
 <main>
 <h1 id="jonah-dig-deeper-macro-synthesis">Jonah — Dig-Deeper Macro-Synthesis</h1>

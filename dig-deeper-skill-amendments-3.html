@@ -5,10 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dig Deeper — skill amendments, Round 3</title>
 <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
-   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
   .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
   nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
    padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
@@ -26,7 +28,7 @@
   blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
   code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
    font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
   th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
   th{background:#efe9dc;}
   tr:nth-child(even) td{background:#faf7f0;}
@@ -50,13 +52,14 @@
     <li><a href="#amendment-m-set-the-extent-before-working-and-set-it-so-absences-are-in-scope">Amendment M — set the extent before working, and set it so absences are in scope</a></li>
     <li><a href="#amendment-n-the-per-book-checks-run-twice">Amendment N — the per-book checks, run twice</a></li>
     <li><a href="#what-needed-no-change">What needed no change</a></li>
-    <li><a href="#one-thing-that-is-a-corpus-note-not-a-skill-amendment">One thing that is a corpus note, not a skill amendment</a></li>
+    <li><a href="#one-thing-that-is-a-corpus-note-not-a-skill-amendment-and-the-draft-got-it-wrong">One thing that is a corpus note, not a skill amendment — and the draft got it wrong</a></li>
     <li><a href="#recommended-order-of-application">Recommended order of application</a></li>
+    <li><a href="#as-applied-12-september-2026">As applied, 12 September 2026</a></li>
   </ul>
 </nav>
 <main>
 <h1 id="dig-deeper-skill-amendments-round-3">Dig Deeper — skill amendments, Round 3</h1>
-<p><strong>Date:</strong> 11 September 2026 · <strong>Source:</strong> the synoptic run on Isaiah 36:1–39:8 // 2 Kings 18:13–20:21 (<code>Isaiah/dig-deeper-hezekiah-isaiah-36-2kings-18.md</code>) <strong>Status:</strong> <strong>drafted, not applied.</strong> Four amendments, lettered <strong>K–N</strong>, plus one status change to Amendment G.</p>
+<p><strong>Date:</strong> 11 September 2026 · <strong>Source:</strong> the synoptic run on Isaiah 36:1–39:8 // 2 Kings 18:13–20:21 (<code>Isaiah/dig-deeper-hezekiah-isaiah-36-2kings-18.md</code>) <strong>Status:</strong> <strong>applied 12 September 2026.</strong> Four amendments, lettered <strong>K–N</strong>, plus one status change to Amendment G. All five landed in <code>SKILL.md</code>, together with five consequential edits the drafting missed (below). The corpus note was found to be wrong on inspection and has been corrected and widened; it is now in <code>_texts/README.md</code>.</p>
 <p><strong>Lettering.</strong> Round 1 used A–E (with F1–F7 as the <em>Consequential edits</em> table); Round 2 used G–J. Round 3 continues at K.</p>
 <p><strong>All four are edits to <code>SKILL.md</code> only</strong> — specifically to the Phase 0.5d Synoptic Mode block. None touches the reference tree, so unlike Round 2 these could in principle go in by proposal card rather than by a rebuilt <code>.skill</code> package. <em>Check the installed file before assuming that, rather than trusting this note</em> — which is the lesson Round 2 recorded about itself.</p>
 <hr />
@@ -126,8 +129,62 @@
 <li><strong>Amendment I</strong> (research-tool answers are claims to test) was not exercised — no Logos pass was run. It remains untested in the field and should not be assumed sound.</li>
 <li><strong>The depth floors</strong> held at “per report, not per passage” without producing a thin report.</li>
 </ul>
-<h2 id="one-thing-that-is-a-corpus-note-not-a-skill-amendment">One thing that is a corpus note, not a skill amendment</h2>
-<p>The NASB95 Logos exports write chapter headings as <strong><code>Chapter 36</code></strong>; the Kings export writes <strong><code>CHAPTER 36</code></strong>. A case-sensitive pattern reports a sound file as broken — it did, in this run, and the file was briefly declared missing. <strong>This belongs in <code>_texts/README.md</code>, not in the skill.</strong></p>
+<h2 id="one-thing-that-is-a-corpus-note-not-a-skill-amendment-and-the-draft-got-it-wrong">One thing that is a corpus note, not a skill amendment — <strong>and the draft got it wrong</strong></h2>
+<p><strong>As drafted:</strong> “The NASB95 Logos exports write chapter headings as <code>Chapter 36</code>; the Kings export writes <code>CHAPTER 36</code>.”</p>
+<p><strong>On inspection, 12 September 2026, that is not what the files do.</strong> The split is by <em>version</em>, not by book. Every NASB95 export writes <code>Chapter NN</code> in title case — Kings included, 47 of them. Every LXX export writes <code>CHAPTER NN</code> in upper case. The run’s <code>CHAPTER</code> sighting came from an LXX file, not from NASB95 Kings.</p>
+<p>The wider fact is worse than the one the draft recorded: <code>logos-exports/</code> holds <strong>seven different chapter-and-verse conventions</strong>, and four of the seven have no chapter marker at all.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Export</th>
+<th>Chapter marker</th>
+<th>Verse form</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>BHS</td>
+<td>none — the chapter number prefixes verse 1 only (<code>1 1 &lt;text&gt;</code>)</td>
+<td>bare number</td>
+</tr>
+<tr class="even">
+<td>ESV</td>
+<td>none — the first verse of each chapter carries <code>c:v</code> (<code>2:1</code>); only the book’s very first reads <code>Ge 1:1</code></td>
+<td>bare number</td>
+</tr>
+<tr class="odd">
+<td>NASB95 (prose)</td>
+<td><code>Chapter NN</code> — title case</td>
+<td>bare number</td>
+</tr>
+<tr class="even">
+<td>NASB95 Psalms</td>
+<td><code>PSALM N</code>, under <code>BOOK 1</code>–<code>BOOK 5</code> headings</td>
+<td>bare number</td>
+</tr>
+<tr class="odd">
+<td>LXX (Swete via Logos)</td>
+<td><code>CHAPTER NN</code> — upper case</td>
+<td>bare number</td>
+</tr>
+<tr class="even">
+<td>NIV84</td>
+<td>none — every line is <code>c:v</code> + tab + text</td>
+<td><code>c:v</code></td>
+</tr>
+<tr class="odd">
+<td>NA28</td>
+<td>none at all in the Acts export</td>
+<td>inline</td>
+</tr>
+</tbody>
+</table>
+<p><strong>This belongs in <code>_texts/README.md</code>, not in the skill</strong>, and is now there in the corrected and widened form. <em>The lesson is the audits’ own: a claim about a file is checked against the file. The draft’s version was written from memory of one run and was wrong in the detail that mattered — which file.</em></p>
 <hr />
 <h2 id="recommended-order-of-application">Recommended order of application</h2>
 <ol type="1">
@@ -136,6 +193,45 @@
 <li><strong>L and N</strong> — both improve findings rather than preventing errors, and neither is urgent.</li>
 </ol>
 <p>All four are <code>SKILL.md</code> edits confined to the Phase 0.5d block, so the Synoptic Mode section should be rewritten whole rather than patched in five places.</p>
+<hr />
+<h2 id="as-applied-12-september-2026">As applied, 12 September 2026</h2>
+<p>The Synoptic Mode block was rewritten whole. Its points now run <strong>1</strong> direction of dependence · <strong>2</strong> extent (M) · <strong>3</strong> three movements · <strong>4</strong> two-pass diff (L) · <strong>5</strong> the per-book checks run twice (N1 + N2, folded into one point with Phase 0.6) · <strong>6</strong> the Triad · <strong>7</strong> both book-overviews · <strong>8</strong> filing (K).</p>
+<p><strong>Five consequential edits the draft did not anticipate.</strong> The draft said all four amendments were “confined to the Phase 0.5d block” while warning the reader to check rather than trust that. The check was worth running — applying them to 0.5d alone would have left the skill inconsistent in five places:</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Where</th>
+<th>Why it had to change</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Gate item <strong>(e3)</strong>, Phase 10.5</td>
+<td>Amendment L’s skeletal pass is a rule about <em>any</em> whole-canon search, not only a synoptic diff. Added, with the קְדוֹשׁ יִשְׂרָאֵל 24-vs-25 instance.</td>
+</tr>
+<tr class="even">
+<td><strong>Scope note</strong> line, report template</td>
+<td>M requires the extent decision to be recorded; the template’s scope note had no field for it.</td>
+</tr>
+<tr class="odd">
+<td><strong>Tool 11</strong> template, Move 4 block</td>
+<td>N1 requires two lists in Synoptic Mode; the template asked for one.</td>
+</tr>
+<tr class="even">
+<td><strong>Quality marker</strong> on Move 4</td>
+<td>Same, at the gate that checks it.</td>
+</tr>
+<tr class="odd">
+<td><strong>Filename convention</strong> note</td>
+<td>Read “it belongs to neither book alone” as filing guidance, which K now contradicts. Reworded so the <em>name</em> is invariant and the <em>host folder</em> is K’s decision.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Round 2 recorded the lesson as “grep the whole file for the assumption, not just for the paragraph that argues it.” It applied again, and found five.</em></p>
 
 </main>
 </div>

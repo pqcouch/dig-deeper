@@ -5,10 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dig Deeper: Numbers — Whole-Book Sweep</title>
 <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
-   font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
   .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
   nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
    padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
@@ -26,7 +28,7 @@
   blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
   code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
    font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
   th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
   th{background:#efe9dc;}
   tr:nth-child(even) td{background:#faf7f0;}
@@ -40,32 +42,33 @@
 </head>
 <body>
 <div class="wrap">
-<nav><h2>Contents</h2>
-<ul>
-<li><a href="#dig-deeper-numbers-whole-book-sweep">Dig Deeper: Numbers — Whole-Book Sweep</a></li>
-<li><a href="#how-to-use-this-sweep">How to use this sweep</a></li>
-<li><a href="#book-orientation">Book Orientation</a></li>
-<li><a href="#numbers-11234-the-census-and-the-ordered-camp">1. Numbers 1:1–2:34 — The Census and the Ordered Camp</a></li>
-<li><a href="#numbers-31449-the-levites-guardians-of-the-holy-given-in-place-of-the-firstborn">2. Numbers 3:1–4:49 — The Levites: Guardians of the Holy, Given in Place of the Firstborn</a></li>
-<li><a href="#numbers-51627-a-holy-camp-the-jealousy-ordeal-the-nazirite-and-the-priestly-blessing">3. Numbers 5:1–6:27 — A Holy Camp, the Jealousy Ordeal, the Nazirite, and the Priestly Blessing</a></li>
-<li><a href="#numbers-711010-dedication-the-second-passover-the-guiding-cloud-and-the-trumpets">4. Numbers 7:1–10:10 — Dedication, the Second Passover, the Guiding Cloud, and the Trumpets</a></li>
-<li><a href="#numbers-10111216-the-march-begins-and-the-grumbling-erupts">5. Numbers 10:11–12:16 — The March Begins and the Grumbling Erupts</a></li>
-<li><a href="#numbers-1311445-the-spies-and-the-great-rebellion">6. Numbers 13:1–14:45 — The Spies and the Great Rebellion ⭐</a></li>
-<li><a href="#numbers-15141-grace-after-judgment-laws-for-when-you-come-into-the-land">7. Numbers 15:1–41 — Grace After Judgment: Laws for “When You Come Into the Land”</a></li>
-<li><a href="#numbers-1611713-korahs-rebellion-and-aarons-budding-staff">8. Numbers 16:1–17:13 — Korah’s Rebellion and Aaron’s Budding Staff ⭐</a></li>
-<li><a href="#numbers-1811922-the-priests-charge-and-the-red-heifer-for-cleansing-from-death">9. Numbers 18:1–19:22 — The Priests’ Charge, and the Red Heifer for Cleansing from Death</a></li>
-<li><a href="#numbers-2012135-meribah-aarons-death-and-the-bronze-serpent">10. Numbers 20:1–21:35 — Meribah, Aaron’s Death, and the Bronze Serpent ⭐</a></li>
-<li><a href="#numbers-2212425-balaam-the-god-who-turns-cursing-into-blessing">11. Numbers 22:1–24:25 — Balaam: The God Who Turns Cursing into Blessing ⭐</a></li>
-<li><a href="#numbers-25118-baal-of-peor-the-enemy-within">12. Numbers 25:1–18 — Baal of Peor: The Enemy Within</a></li>
-<li><a href="#numbers-2612723-the-second-census-zelophehads-daughters-and-joshua-commissioned">13. Numbers 26:1–27:23 — The Second Census, Zelophehad’s Daughters, and Joshua Commissioned</a></li>
-<li><a href="#numbers-2813016-offerings-festivals-and-vows-for-life-in-the-land">14. Numbers 28:1–30:16 — Offerings, Festivals, and Vows for Life in the Land</a></li>
-<li><a href="#numbers-3113613-reckoning-with-midian-the-land-apportioned-and-the-books-close">15. Numbers 31:1–36:13 — Reckoning with Midian, the Land Apportioned, and the Book’s Close</a></li>
-<li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
-<li><a href="#book-level-convergent-findings-within-unit-agreements-full-list">Book-Level Convergent Findings (within-unit agreements, full list)</a></li>
-<li><a href="#open-questions-uncertainties-sweep-level">Open Questions / Uncertainties (sweep level)</a></li>
-<li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
-<li><a href="#text-first-declaration">Text-First Declaration</a></li>
-</ul>
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#dig-deeper-numbers-whole-book-sweep">Dig Deeper: Numbers — Whole-Book Sweep</a></li>
+    <li><a href="#how-to-use-this-sweep">How to use this sweep</a></li>
+    <li><a href="#book-orientation">Book Orientation</a></li>
+    <li><a href="#numbers-11234-the-census-and-the-ordered-camp">1. Numbers 1:1–2:34 — The Census and the Ordered Camp</a></li>
+    <li><a href="#numbers-31449-the-levites-guardians-of-the-holy-given-in-place-of-the-firstborn">2. Numbers 3:1–4:49 — The Levites: Guardians of the Holy, Given in Place of the Firstborn</a></li>
+    <li><a href="#numbers-51627-a-holy-camp-the-jealousy-ordeal-the-nazirite-and-the-priestly-blessing">3. Numbers 5:1–6:27 — A Holy Camp, the Jealousy Ordeal, the Nazirite, and the Priestly Blessing</a></li>
+    <li><a href="#numbers-711010-dedication-the-second-passover-the-guiding-cloud-and-the-trumpets">4. Numbers 7:1–10:10 — Dedication, the Second Passover, the Guiding Cloud, and the Trumpets</a></li>
+    <li><a href="#numbers-10111216-the-march-begins-and-the-grumbling-erupts">5. Numbers 10:11–12:16 — The March Begins and the Grumbling Erupts</a></li>
+    <li><a href="#numbers-1311445-the-spies-and-the-great-rebellion">6. Numbers 13:1–14:45 — The Spies and the Great Rebellion ⭐</a></li>
+    <li><a href="#numbers-15141-grace-after-judgment-laws-for-when-you-come-into-the-land">7. Numbers 15:1–41 — Grace After Judgment: Laws for “When You Come Into the Land”</a></li>
+    <li><a href="#numbers-1611713-korahs-rebellion-and-aarons-budding-staff">8. Numbers 16:1–17:13 — Korah’s Rebellion and Aaron’s Budding Staff ⭐</a></li>
+    <li><a href="#numbers-1811922-the-priests-charge-and-the-red-heifer-for-cleansing-from-death">9. Numbers 18:1–19:22 — The Priests’ Charge, and the Red Heifer for Cleansing from Death</a></li>
+    <li><a href="#numbers-2012135-meribah-aarons-death-and-the-bronze-serpent">10. Numbers 20:1–21:35 — Meribah, Aaron’s Death, and the Bronze Serpent ⭐</a></li>
+    <li><a href="#numbers-2212425-balaam-the-god-who-turns-cursing-into-blessing">11. Numbers 22:1–24:25 — Balaam: The God Who Turns Cursing into Blessing ⭐</a></li>
+    <li><a href="#numbers-25118-baal-of-peor-the-enemy-within">12. Numbers 25:1–18 — Baal of Peor: The Enemy Within</a></li>
+    <li><a href="#numbers-2612723-the-second-census-zelophehads-daughters-and-joshua-commissioned">13. Numbers 26:1–27:23 — The Second Census, Zelophehad’s Daughters, and Joshua Commissioned</a></li>
+    <li><a href="#numbers-2813016-offerings-festivals-and-vows-for-life-in-the-land">14. Numbers 28:1–30:16 — Offerings, Festivals, and Vows for Life in the Land</a></li>
+    <li><a href="#numbers-3113613-reckoning-with-midian-the-land-apportioned-and-the-books-close">15. Numbers 31:1–36:13 — Reckoning with Midian, the Land Apportioned, and the Book’s Close</a></li>
+    <li><a href="#cross-passage-convergent-findings">Cross-Passage Convergent Findings</a></li>
+    <li><a href="#book-level-convergent-findings-within-unit-agreements-full-list">Book-Level Convergent Findings (within-unit agreements, full list)</a></li>
+    <li><a href="#open-questions-uncertainties-sweep-level">Open Questions / Uncertainties (sweep level)</a></li>
+    <li><a href="#book-overview-tensions">Book-Overview Tensions</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
 </nav>
 <main>
 <h1 id="dig-deeper-numbers-whole-book-sweep">Dig Deeper: Numbers — Whole-Book Sweep</h1>

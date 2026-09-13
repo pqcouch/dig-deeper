@@ -1,73 +1,67 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Book Overview: Proverbs</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-  <style>
-:root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--ink);
-      font-family:"Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
-    .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
-    nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
-      padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
-    nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
-    nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
-    nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
-    nav ul{list-style:none;margin:0;padding:0;}
-    nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
-    main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
-    h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
-    h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
-    h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
-    h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
-    p{margin:.5rem 0;}
-    blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
-    code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
-      font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
-    table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:15px;}
-    th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
-    th{background:#efe9dc;}
-    tr:nth-child(even) td{background:#faf7f0;}
-    hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
-    strong{color:#332e26;}
-    main>ul,main>ol{padding-left:1.3rem;}
-    li{margin:.25rem 0;}
-    .tag{white-space:nowrap;}
-    @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Overview: Proverbs</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
 </style>
 </head>
 <body>
-  <div class="wrap">
-  <nav>
-    <h2>Contents</h2>
-    <ul>
-      <li><a href="#book-overview-proverbs">Book Overview: Proverbs</a></li>
-      <li><a href="#what-this-document-is">What this document is</a></li>
-      <li><a href="#presenting-situation">Presenting Situation</a></li>
-      <li><a href="#structural-arc-map">Structural Arc Map</a></li>
-      <li><a href="#microscript">Microscript</a></li>
-      <li><a href="#intertextual-map">Intertextual Map</a></li>
-      <li><a href="#christological-trajectory">Christological Trajectory</a></li>
-      <li><a href="#preaching-traps">Preaching Traps</a></li>
-      <li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
-      <li><a href="#preaching-units">Preaching Units</a></li>
-      <li><a href="#cross-pericope-macro-arguments">CROSS-PERICOPE MACRO-ARGUMENTS</a></li>
-      <li><a href="#colophon">Colophon</a></li>
-      <li><a href="#upgrade-pass-17-august-2026">Upgrade pass — 17 August 2026</a></li>
-      <li><a href="#upgrade-pass-26-august-2026-v1.3">Upgrade pass — 26 August 2026 (v1.3)</a></li>
-    </ul>
-  </nav>
-  <main>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#book-overview-proverbs">Book Overview: Proverbs</a></li>
+    <li><a href="#what-this-document-is">What this document is</a></li>
+    <li><a href="#presenting-situation">Presenting Situation</a></li>
+    <li><a href="#structural-arc-map">Structural Arc Map</a></li>
+    <li><a href="#microscript">Microscript</a></li>
+    <li><a href="#intertextual-map">Intertextual Map</a></li>
+    <li><a href="#christological-trajectory">Christological Trajectory</a></li>
+    <li><a href="#preaching-traps">Preaching Traps</a></li>
+    <li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
+    <li><a href="#preaching-units">Preaching Units</a></li>
+    <li><a href="#cross-pericope-macro-arguments">CROSS-PERICOPE MACRO-ARGUMENTS</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+    <li><a href="#upgrade-pass-17-august-2026">Upgrade pass — 17 August 2026</a></li>
+    <li><a href="#upgrade-pass-26-august-2026-v1.3">Upgrade pass — 26 August 2026 (v1.3)</a></li>
+  </ul>
+</nav>
+<main>
 <h1 id="book-overview-proverbs">Book Overview: Proverbs</h1>
 <p><strong>Translation:</strong> ESV <strong>Genre:</strong> Wisdom literature — an anthology of instruction. Two chapter-length blocks of extended parental lectures and personified-Wisdom speeches (1–9) introduce four collections of terse, mostly two-line sayings (10:1–22:16; 22:17–24:22; 24:23–34; 25:1–29:27), and the whole is closed by two named oracles and an acrostic poem (30–31). <strong>Mode:</strong> <strong>Finalised — v1.3, upgraded 26 August 2026.</strong> (Originally drafted text-first, before any dig-deeper run.) <strong>Date:</strong> 8 August 2026 · <strong>Upgraded:</strong> 17 August (v1.2) · <strong>26 August (v1.3)</strong> <strong>Sweep status:</strong> <strong>Complete.</strong> Eleven dig-deeper runs, two of them whole-section; a macro-synthesis; a whole-book Greek survey; and nine point-purpose plans. <strong>See the 26 August upgrade pass at the foot of this document for what the completed work changed here.</strong></p>
 <p>Warrant tags: <code>[T]</code> observable on the page of Proverbs · <code>[I]</code> reasonable inference from the text · <code>[S]</code> supplied by a secondary source, held provisionally.</p>
@@ -753,7 +747,7 @@
 <h3 id="one-tension-named-and-correctly-this-time">7. One tension named, and correctly this time</h3>
 <p><code>[I]</code> <strong>Macro-arguments 5 and 6 pull against each other</strong> on whether the book develops — 5 says wisdom is <em>progressively</em> subordinated to revelation, 6 says the sentence collections <em>alternate rather than progress</em>. <strong>They are differently scoped and do not strictly contradict:</strong> 5 tracks re-foundation points across the whole book, 6 only the four Solomonic sub-collections. <strong>The honest statement: Proverbs develops in its framing material and oscillates in its sentence material.</strong> <em>(An earlier note in this project located the tension between arguments 1 and 6. That was loose — those two support each other.)</em></p>
 
-  </main>
-  </div>
+</main>
+</div>
 </body>
 </html>
