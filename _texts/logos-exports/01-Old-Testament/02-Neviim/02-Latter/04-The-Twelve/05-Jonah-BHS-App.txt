@@ -1,0 +1,28 @@
+BHS APPARATUS — JONAH (complete)
+
+Converted 17 September 2026 from the Logos RTF export 05-Jonah-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:49 16 September 2026.
+
+================================================================
+
+Jona
+Cp 1, 3 ᵃ sic L, mlt Mss Edd אֳניה cf 4.5
+8/10 ^{a–a} nonn add hab
+16 ^{a–a} add?
+Cp 2, 4 ^{a–a} dl aut מצולה aut בלבב ימים, gl
+5 ᵃ prp אֵיך cf θ´ πῶς; frt ins לאֹ
+7 ᵃ prb l לְקַצְוֵי et tr post הרים
+9 ᵃ prp משׁמרֵי, al הַשֹּׁמרים
+Cp 3, 2 ᵃ sic L = וּק׳ ad וִק׳, mlt Mss Edd וּק׳
+3 ᵃ sic L, mlt Mss Edd וֵה—
+4 ᵃ nonn huc tr 4,5
+6 ᵃ sic L, mlt Mss Edd ךְ—
+Cp 4, 5 ᵃ cf 3,4ᵃ
+6 ᵃ 𝔊 τοῦ σκιάζειν
+8 ᵃ prp חריפית
+

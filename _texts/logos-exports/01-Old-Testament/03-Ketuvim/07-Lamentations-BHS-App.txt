@@ -1,0 +1,106 @@
+BHS APPARATUS — LAMENTATIONS (complete)
+
+Converted 17 September 2026 from the Logos RTF export 07-Lamentations-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 17:12 16 September 2026.
+
+================================================================
+
+Threni
+Cp 1, 2 ᵃ pc Mss Vrs du, l 𝔐
+4 ᵃ prp שֹׁעֲרֶיהָ || ᵇ 𝔊 ἀγόμεναι cf α´σ´, l נְהוּגוֹת
+6 ᵃ 𝔊* καὶ ἐξήρθη = וַיֻּצָא || ^{b–b} pc Mss ut Q מִבַּת
+7 ᵃ prp מְרוֹרֶיהָ || ^{b–b} prb add
+8 ᵃ prp חָטאֹ || ^{b–b} frt dl m cs
+9 ᵃ prp וַתּוּרַד cf σ´ καὶ κατήχθη, 𝔙 deposita est || ᵇ l עָנְיָהּ cf Bo Ambr
+11 ᵃ Qᴹˢˢ mlt Mss מחמדיהם
+12 ᵃ 𝔊*ᴹˢˢσ´ οὐ, 𝔊ʳᵉˡ οἱ
+13 ᵃ 𝔊 κατήγαγεν αὐτό = וַיֹּרִדֶנָּה vel הֹרִידָהּ
+14 ^{a–a} dub; mlt Mss נשׁקד על, 𝔊 ἐγρηγορήθη ἐπί = נִשְׁקַד עַל || ᵇ 𝔊ᴸ τὸν ζυγὸν αὐτοῦ, σ´ ὁ ζυγὸς αὐτοῦ = עֻלּוֹ || ᶜ l c mlt Mss יהוה
+15 ᵃ cf 14ᶜ || ᵇ 𝔊(𝔙) ἐκ μέσου μου = מִקִּ׳
+16 ᵃ > pc Mss 𝔊*𝔖𝔙, dl
+17 ᵃ prp בְּעֵינֵיהֶם
+18 ᵃ mlt Mss 𝔊𝔗 ut 𝔔 הָעַמִּים
+19 ᵃ 𝔊 ad καὶ οὐχ εὗρον = מָצָאוּ וְלאֹ
+20 ^{a–a} 𝔊 (Ambr) tr, 𝔖(𝔙) wdbbjtʾ mwtʾ = בבית מות? frt l בּ׳ כְּמוּת cf akk kamǔtu captivitas
+21 ᵃ 𝔊 ἀκούσατε = שִׁמְעוּ; l שְׁמַע cf 𝔖 || ᵇ l הָבֵא אֶת־ cf 𝔖
+Cp 2, 1 ᵃ cf 1,14ᶜ
+2 ᵃ cf 1,14ᵉ || ᵇ 𝔊 ut K לאֹ, mlt Mss 𝔖𝔗𝔙 ut Q וְלאֹ || ᶜ 𝔙 virginis = בְתוּלַת || ᵈ 𝔖 qṭjljh = חֲלָלֶיהָ? || ᵉ 𝔊 βασιλέα αὐτῆς, 𝔊ᴮ(𝔖) βασιλέας αὐτῆς
+3 ᵃ l אַפּוֹ cf 𝔊𝔖𝔙ᴹˢˢ
+4 ^{a–a} prp חֵץ בִּימִינוֹ || ᵇ tr post ויהרג
+5 ᵃ cf 1,14ᶜ || ^{b–b} l ארמנותָו הִשְׁחִת
+6 ᵃ 𝔊 ὡς ἄμπελον, l כְּגֶפֶן
+7 ᵃ cf 1,14ᶜ || ^{b–b} prp חֶמְדְּת אֹצְרוֹתֶיהָ
+8 ᵃ 𝔊* καὶ ἐπέστρεψεν = הֵשִׁב, l 𝔐
+9 ^{a–a} dl vel אבד vel ושׁבר
+10 ᵃ ℭ𝔊𝔖𝔙 יָשְׁבוּ || ᵇ 𝔊(𝔖𝔙) ἐσιώπησαν = דַּמּוּ
+13 ᵃ 𝔙 comparabo te, l אֶעֱרֹךְ || ^{b–b} 𝔊 τίς σώσει σε καὶ παρακαλέσει = מִי יוֹשִׁיעַ לָךְ וְנִחַמְךָ || ᶜ 𝔊 ποτήριον = כּוֹס
+14 ᵃ mlt Mss ut Q שְׁבוּתֵךְ, K שְׁבִיתֵךְ || ᵇ frt l מַשָּׂאוֹת
+15 ^{a–a} dl vel שׁיאמרו vel משׂושׂ לכל־הארץ
+16 ᵃ pc Mss 𝔊ᴸ𝔖 tr v 16 (פ) post v 17 (ע)
+18 ^{a–a} crrp; prp צַעֲקִי לָךְ מָלֵא || ᵇ cf 1,14ᶜ || ᶜ prp הֱמִי || ᵈ prp בָּבַת
+19 ᵃ mlt Mss ut Q בַּלַּיְלָה, K בַלַּיִל || ᵇ cf 1,14ᶜ || ^{c–c} add
+20 ᵃ cf 1,14ᶜ
+21 ^{a–a} 𝔊* ἐπορεύθησαν ἐν αἰχμαλωσίᾳ (ex 1,5.18) ἐν ῥομφείᾳ καὶ ἐν λιμῷ || ᵇ mlt Mss 𝔖𝔗𝔙 וְלאֹ
+22 ᵃ 𝔖 bʿldbbj hostes mei; 𝔙 qui terrerent me = מְגוֹרְרַי?
+Cp 3, 5 ^{a–a} prp תלאה ראֹשִׁי (cf 𝔊 κεφαλήν μου καὶ ἐμόχθησεν) vel מִתּ׳ ראֹשִׁי
+8 ᵃ mlt Mss סתם
+10 ᵃ mlt Mss ut Q אֲרִי, K אַרְיֵה
+14 ᵃ l c Seb mlt Mss 𝔖 עַמִּים
+16 ᵃ 𝔊 καὶ ἐξέβαλεν = וַיְגָרֵשׁ?
+17 ᵃ 𝔊 καὶ ἀπώσατο = וַיִּזְנַח; 𝔙(𝔖) repulsa est = וַתִּזָּנַח
+18 ᵃ dub; 𝔙 finis meus = קִצִּי?
+20 ᵃ mlt Mss ut Q וְתָשׁוֹחַ, K וְתָשִׁיחַ || ᵇ Tiq soph ךָ—ֶ
+21 ᵃ 𝔊 τάξω = אָשִׂים
+22 ᵃ v 22–24 > 𝔊* || ᵇ 𝔊^{CO} ἐξέλειπεν με; l c Ms 𝔖𝔗 תָמּוּ
+23 ᵃ prb ins הֵם
+26 ᵃ 𝔊 καὶ ὑπομενεῖ, l וְיֹחִיל || ᵇ 𝔊 καὶ ἡσυχάσει, 𝔖 bqwštʾ pro bšwtqʾ, l וְרָמַם חַסְדּוֹ
+29 ᵃ v 29 > 𝔊ᴹˢˢ
+31 ᵃ cf 1,14ᶜ; exc vb
+32 ᵃ Kᴼʳ 𝔊𝔗 ut K חַסְדּוֹ, 𝔎ᴼᶜ 𝔙 ut Q חֲסָדָיו
+33 ᵃ prp וַיֹּגֶה
+36 ᵃ cf 1,14ᶜ
+37 ᵃ cf 1,14ᶜ
+39 ^{a–a} prp יְהִי גְבִיר || ᵇ 𝔊 ut K חֶטְאוֹ, mlt Mss 𝔖𝔗𝔙 ut Q חֲטָאָיו
+40 ᵃ 𝔊 sg
+41 ᵃ mlt Mss 𝔊𝔖𝔙 לבבינו || ᵇ l על cf 𝔊(𝔖) ἐπί
+44 ᵃ 𝔊 εἳνεκεν = בַּעֲבוּר
+46 ᵃ pc Mss 𝔊ᴹˢˢ𝔖 tr 46–48 (פ) post 49–51 (ע)
+51 ^{a–a} prb l בְּכוּת et dl עירי
+56 ^{a–a} 𝔊 εἰς τὴν δέησίν μου εἰς τὴν βοήθειάν μου = לִישׁוּעָתִי לִתְחִנָּתִי? dl vel לרוחתי vel לשׁועתי
+58 ᵃ cf 1,14ᶜ || ᵇ 𝔙(𝔖) causam, l רִיב
+59 ᵃ 𝔊(𝔖) ἔκρινας = שָׁפַטְתָּ
+60 ᵃ mlt Mss 𝔖𝔗𝔙 עָלָי
+65 ᵃ 𝔊(𝔗𝔙) μόχθον σου = תְּלָאָתְךָ; prp אָתָא אֲלָתְךָ
+66 ᵃ 𝔊 ad αὐτούς = תִּרְדְּפֵם || ^{b–b} 𝔊 τοῦ οὐρανοῦ (𝔊ᴼ ad σου) = (שָׁמֶיךָ) שָׁמַיִם
+Cp 4, 1 ᵃ mlt Mss ישנה
+2 ᵃ prp אַבְנֵי || ᵇ Kᴼʳ 𝔊𝔗 pl
+3 ᵃ 2 Mss Q תנים || ᵇ θυγατέρες, l בְּנוֹת || ^{c–c} mlt Mss Vrs ut Q כַּיְעֵנִים; K dub
+6 ᵃ prp יְלָדִים
+7 ᵃ prp נְעָרֶיהָ || ^{b–b} 𝔊 om עֶצֶם; prp אָדַם עוֹרָם מִ׳ vel אָדְמָה שְׂפָתָם מִ׳
+8 ᵃ dl m cs
+9 ^{a–a} crrp; prp שׁהם יַדּוּ בִמְקֹר דָּמָם מֵתוּ בְחִישׁ
+10 ᵃ 𝔊(𝔖) εἰς βρῶσιν, l לְבָרוּת
+12 ᵃ mlt Mss 𝔊⁻ᴸ ut Q כֹּל, K וְכֹל
+14 ᵃ 𝔊 ἐγρήγοροι αὐτῆς = עֵרֶיהָ; prp דָּוִם vel עָרוֹם
+15 ᵃ 𝔙 polluti, l טְמֵאִים || ^{b–b} 𝔊 καλέσατε αὐτούς = קִרְאוּ ל׳, sed prb dl || ᶜ prb dl
+16 ᵃ pc Mss 𝔖 tr v 16 (פ) post v 17 (ע) || ᵇ 𝔊 μερὶς αὐτῶν = חֶלְקָם; l 𝔐
+17 ᵃ Kᴼʳ 𝔊𝔖𝔙 ut Q עוֹדֵינוּ; K עוֹדֵינָה
+18 ᵃ Ms צרו; 𝔊 ἐθηρεύσαμεν = צַדְנוּ; 𝔙 lubricaverunt = מָעֲדוּ? prb ins צָרֵינוּ
+21 ᵃ mlt Mss ut Q יוֹשֶׁבֶת, K יוֹשַׁבְתִּי || ᵇ > 𝔊*𝔙ᴹˢˢ || ᶜ 𝔊 ad κυρίου || ᵈ 𝔊 καὶ ἀποχεεῖς = וּתְעָרִי; l 𝔐
+Cp 5, 1 ᵃ mlt Mss ut Q הַבִּיטָה, K הַבֵּיט
+3 ᵃ mlt Mss Vrs ut Q וְאֵין, K אֵין
+4 ᵃ 𝔊 ἐξ ἡμερῶν = מִיָּמֵינוּ
+5 ^{a–a} crrp; prp עַל־אַרְצֵנוּ || ᵇ σ´ pr ζυγός = עֹל, frt l || ᶜ 𝔊𝔗𝔙 ut K לאֹ, mlt Mss 𝔖 ut Q וְלאֹ || ᵈ prp הֻנַּח
+7 ^{a–a} mlt Mss 𝔖𝔗𝔙 ut Q וְאֵ׳ וַאֲ׳
+10 ^{a–a} l vel עוֹרֵינוּ cf mlt Mss vel נִכְמַר cf 𝔊 ἐπελιώθη, 𝔙 exusta est
+12 ᵃ > 𝔊*
+18 ᵃ Kᴼᶜ שֶׁהָשְׁמַם
+19 ᵃ 𝔊(𝔖𝔙) σὺ δέ, l וְאַתֶּה
+21 ᵃ mlt Mss Kᴼʳ ut 𝔔 וְנָשׁוּבָה, K וּב—
+22 ᵃ > 𝔊𝔖
+

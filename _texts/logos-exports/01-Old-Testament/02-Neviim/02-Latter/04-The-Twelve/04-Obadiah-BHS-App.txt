@@ -1,0 +1,32 @@
+BHS APPARATUS — OBADIAH (complete)
+
+Converted 17 September 2026 from the Logos RTF export 04-Obadiah-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:49 16 September 2026.
+
+================================================================
+
+Obadia
+Cp 1, 1 ᵃ Jer 49,14 𝔊 שׁמעתִּי || ᵇ Jer 49,14 שָׁלוּחַ || ^{c–c} Jer 49,14 למלחמה הִתְקַבְּצוּ וּבֹאוּ עליה וְקוּמוּ || ᵈ 𝔊^{l II}(𝔙) ἐπʼ αὐτόν = עָלָיו; sic nonn prp (cf 2), al נַעֲלֶה
+2 ^{a–a} Jer 49,15 בָּאָדָם
+3 ^{a–a} Jer 49,16 תִּפְלַצְתְּךָ הִשִּׁיא אֹתָךְ זדון לבֶך || ^{b–b} Jer 49,16 תֹפְשִׂי מרום גִּבְעָה || ᶜ 𝔊 ὑψῶν = מֵרִים? cf 𝔙
+4 ᵃ Jer 49,16 כִּי || ^{b–b} > Jer 49,16 || ᶜ aut l תָּשִׂים (cf Vrs) aut dl
+5 ^{a–a} Jer 49,9ᵇ אם גנבים באו לך הִשְׁחִיתוּ דים || ^{b–b} tr ad fin v a an dl (gl ex Jer 49,9)? || ᶜ prp הֲ(יגנבו) cf d || ᵈ Jer 49,9ᵃ לא; prp הֲ(ישׁאירו)
+6 ᵃ prb l נחפַּשׂ
+7 ᵃ prp לֹחֲמֶיךָ cf 𝔊ᴸσ´𝔗𝔙; 𝔊ᵂ(𝔎𝔈) ἐπολέμησάν σε; sed frt exc vb || ᵇ frt l שָׂמו cf 𝔊𝔖𝔗 || ᶜ prp מָצוֹו cf Vrs || ^{d–d} gl ad 8ᵇ?
+9 ᵃ prp גבורֵי || ᵇ 𝔊𝔖𝔙 cj c 10, frt recte (cf 10ᵃ); al gl vel var lect ad מחמס 10 hab
+10 ᵃ 𝔊𝔖𝔙 pr cop, frt l וּמ׳; sed cf 9ᵇ
+11 ^{a–a} prp מֵעָמְדְךָ || ᵇ K שַׁעֲרוֹ
+12 ^{a–a} prp בְאחיך
+13 ᵃ 𝔊 πόνων (vel πόνου) αὐτῶν, prp אוֹנוֹ || ^{b–b} l ואל־תשׁלח יָד || ᶜ 𝔊 ἀπωλείας αὐτῶν, prp אָבְדוֹ
+15 ᵃ L עשׂית֙
+16 ᵃ mlt Mss סָבִיב || ᵇ prp ונָעו
+17 ^{a–a} add? || ᵇ l מורִשׁיהם cf Mur מוריש׳ et Vrs
+19 ^{a–a} prb gl || ^{b–b} 𝔊 τὸ ὄρος, frt l הַר || ^{c–c} prb l את־בְּנֵי עַמֹּן (gl ad וְהגלעד)
+20 ^{a–a} crrp; prp חֲלַח זה (gl); frt l (dominabuntur) בְּחַלַח יִזְבְּלוּ et tr post אשׁר || ᵇ prp יִרְשׁוּ, sed cf a || ^{c–c} gl?
+21 ᵃ 𝔊 (α´θ´𝔖) ἄνδρες σεσῳσμένοι, prb l נוֹשָׁעים vel מוּשָׁעים || ᵇ 𝔊 ἐξ ὄρους, frt l מֵהר
+

@@ -1666,7 +1666,6 @@
 104:33	I will sing to the LORD all my life; I will sing praise to my God as long as I live.
 104:34	May my meditation be pleasing to him, as I rejoice in the LORD.
 104:35	But may sinners vanish from the earth and the wicked be no more. Praise the LORD, O my soul. Praise the LORD. [Hebrew: Hallelu Yah; in the Septuagint this line stands at the beginning of Psalm 105.]
-105:0	Psalm 105
 105:1	Give thanks to the LORD, call on his name; make known among the nations what he has done.
 105:2	Sing to him, sing praise to him; tell of all his wonderful acts.
 105:3	Glory in his holy name; let the hearts of those who seek the LORD rejoice.
@@ -1712,7 +1711,6 @@
 105:43	He brought out his people with rejoicing, his chosen ones with shouts of joy;
 105:44	he gave them the lands of the nations, and they fell heir to what others had toiled for —
 105:45	that they might keep his precepts and observe his laws. Praise the LORD. [Hebrew: Hallelu Yah]
-106:0	Psalm 106
 106:1	Praise the LORD. [Hebrew: Hallelu Yah; also in verse 48] Give thanks to the LORD, for he is good; his love endures for ever.
 106:2	Who can proclaim the mighty acts of the LORD or fully declare his praise?
 106:3	Blessed are they who maintain justice, who constantly do what is right.
@@ -1761,7 +1759,6 @@
 106:46	He caused them to be pitied by all who held them captive.
 106:47	Save us, O LORD our God, and gather us from the nations, that we may give thanks to your holy name and glory in your praise.
 106:48	Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, “Amen!” Praise the LORD.
-107:0	Psalm 107
 107:1	Give thanks to the LORD, for he is good; his love endures for ever.
 107:2	Let the redeemed of the LORD say this — those he redeemed from the hand of the foe,
 107:3	those he gathered from the lands, from east and west, from north and south. [Hebrew: north and the sea]
@@ -1856,7 +1853,6 @@
 110:5	The Lord is at your right hand; he will crush kings on the day of his wrath.
 110:6	He will judge nations, heaping up the dead and crushing the rulers of the whole earth.
 110:7	He will drink from a brook beside the way; [Or The One who grants succession will set him in authority] therefore he will lift up his head.
-111:0	Psalm 111
 111:1	[This psalm is an acrostic poem, the lines of which begin with the successive letters of the Hebrew alphabet.] Praise the LORD. [Hebrew: Hallelu Yah] I will extol the LORD with all my heart in the council of the upright and in the assembly.
 111:2	Great are the works of the LORD; they are pondered by all who delight in them.
 111:3	Glorious and majestic are his deeds, and his righteousness endures for ever.
@@ -1877,7 +1873,6 @@
 112:8	His heart is secure, he will have no fear; in the end he will look in triumph on his foes.
 112:9	He has scattered abroad his gifts to the poor, his righteousness endures for ever; his horn [Horn here symbolises dignity.] will be lifted high in honour.
 112:10	The wicked man will see and be vexed, he will gnash his teeth and waste away; the longings of the wicked will come to nothing.
-113:0	Psalm 113
 113:1	Praise the LORD. [Hebrew: Hallelu Yah; also in verse 9] Praise, O servants of the LORD, praise the name of the LORD.
 113:2	Let the name of the LORD be praised, both now and for evermore.
 113:3	From the rising of the sun to the place where it sets, the name of the LORD is to be praised.
@@ -1887,7 +1882,6 @@
 113:7	He raises the poor from the dust and lifts the needy from the ash heap;
 113:8	he seats them with princes, with the princes of their people.
 113:9	He settles the barren woman in her home as a happy mother of children. Praise the LORD.
-114:0	Psalm 114
 114:1	When Israel came out of Egypt, the house of Jacob from a people of foreign tongue,
 114:2	Judah became God’s sanctuary, Israel his dominion.
 114:3	The sea looked and fled, the Jordan turned back;
@@ -1896,7 +1890,6 @@
 114:6	you mountains, that you skipped like rams, you hills, like lambs?
 114:7	Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,
 114:8	who turned the rock into a pool, the hard rock into springs of water.
-115:0	Psalm 115
 115:1	Not to us, O LORD, not to us but to your name be the glory, because of your love and faithfulness.
 115:2	Why do the nations say, “Where is their God?”
 115:3	Our God is in heaven; he does whatever pleases him.
@@ -1915,7 +1908,6 @@
 115:16	The highest heavens belong to the LORD, but the earth he has given to man.
 115:17	It is not the dead who praise the LORD, those who go down to silence;
 115:18	it is we who extol the LORD, both now and for evermore. Praise the LORD. [Hebrew: Hallelu Yah]
-116:0	Psalm 116
 116:1	I love the LORD, for he heard my voice; he heard my cry for mercy.
 116:2	Because he turned his ear to me, I will call on him as long as I live.
 116:3	The cords of death entangled me, the anguish of the grave [Hebrew: Sheol] came upon me; I was overcome by trouble and sorrow.
@@ -1935,10 +1927,8 @@
 116:17	I will sacrifice a thank-offering to you and call on the name of the LORD.
 116:18	I will fulfil my vows to the LORD in the presence of all his people,
 116:19	in the courts of the house of the LORD — in your midst, O Jerusalem. Praise the LORD. [Hebrew: Hallelu Yah]
-117:0	Psalm 117
 117:1	Praise the LORD, all you nations; extol him, all you peoples.
 117:2	For great is his love towards us, and the faithfulness of the LORD endures for ever. Praise the LORD. [Hebrew: Hallelu Yah]
-118:0	Psalm 118
 118:1	Give thanks to the LORD, for he is good; his love endures for ever.
 118:2	Let Israel say: “His love endures for ever.”
 118:3	Let the house of Aaron say: “His love endures for ever.”
@@ -1968,7 +1958,6 @@
 118:27	The LORD is God, and he has made his light shine upon us. With boughs in hand, join in the festal procession up [Or Bind the festal sacrifice with ropes and take it] to the horns of the altar.
 118:28	You are my God, and I will give thanks; you are my God, and I will exalt you.
 118:29	Give thanks to the LORD, for he is good; his love endures for ever.
-119:0	Psalm 119
 119:1	[This psalm is an acrostic poem; the verses of each stanza begin with the same letter of the Hebrew alphabet.] Aleph Blessed are they whose ways are blameless, who walk according to the law of the LORD.
 119:2	Blessed are they who keep his statutes and seek him with all their heart.
 119:3	They do nothing wrong; they walk in his ways.
@@ -2246,7 +2235,6 @@
 134:1	Praise the LORD, all you servants of the LORD who minister by night in the house of the LORD.
 134:2	Lift up your hands in the sanctuary and praise the LORD.
 134:3	May the LORD, the Maker of heaven and earth, bless you from Zion.
-135:0	Psalm 135
 135:1	Praise the LORD. [Hebrew: Hallelu Yah; also in verses 3 and 21] Praise the name of the LORD; praise him, you servants of the LORD,
 135:2	you who minister in the house of the LORD, in the courts of the house of our God.
 135:3	Praise the LORD, for the LORD is good; sing praise to his name, for that is pleasant.
@@ -2268,7 +2256,6 @@
 135:19	house of Israel, praise the LORD; O house of Aaron, praise the LORD;
 135:20	house of Levi, praise the LORD; you who fear him, praise the LORD.
 135:21	Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD.
-136:0	Psalm 136
 136:1	Give thanks to the LORD, for he is good. His love endures for ever.
 136:2	Give thanks to the God of gods. His love endures for ever.
 136:3	Give thanks to the Lord of lords: His love endures for ever.
@@ -2295,7 +2282,6 @@
 136:24	and freed us from our enemies, His love endures for ever.
 136:25	and who gives food to every creature. His love endures for ever.
 136:26	Give thanks to the God of heaven. His love endures for ever.
-137:0	Psalm 137
 137:1	By the rivers of Babylon we sat and wept when we remembered Zion.
 137:2	There on the poplars we hung our harps,
 137:3	for there our captors asked us for songs, our tormentors demanded songs of joy; they said, “Sing us one of the songs of Zion!”

@@ -3,7 +3,7 @@
 
 
            Ezr 1:1       In the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing: 
-           2       “Thus says Cyrus king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth (erets), and he has charged me to build him a house at Jerusalem, which is in Judah. 
+           2       “Thus says Cyrus king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah. 
            3       Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the LORD, the God of Israel—he is the God who is in Jerusalem. 
            4       And let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God that is in Jerusalem.” 
            5       Then rose up the heads of the fathers’ houses of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred to go up to rebuild the house of the LORD that is in Jerusalem. 
@@ -88,7 +88,7 @@ The number of the men of the people of Israel:
 
            3:1       When the seventh month came, and the children of Israel were in the towns, the people gathered as one man to Jerusalem. 
            2       Then arose Jeshua the son of Jozadak, with his fellow priests, and Zerubbabel the son of Shealtiel with his kinsmen, and they built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the Law of Moses the man of God. 
-           3       They set the altar in its place, for fear was on them because of the peoples of the lands (erets), and they offered burnt offerings on it to the LORD, burnt offerings morning and evening. 
+           3       They set the altar in its place, for fear was on them because of the peoples of the lands, and they offered burnt offerings on it to the LORD, burnt offerings morning and evening. 
            4       And they kept the Feast of Booths, as it is written, and offered the daily burnt offerings by number according to the rule, as each day required, 
            5       and after that the regular burnt offerings, the offerings at the new moon and at all the appointed feasts of the LORD, and the offerings of everyone who made a freewill offering to the LORD. 
            6       From the first day of the seventh month they began to offer burnt offerings to the LORD. But the foundation of the temple of the LORD was not yet laid. 
@@ -109,7 +109,7 @@ And all the people shouted with a great shout when they praised the LORD, becaus
            4:1       Now when the adversaries of Judah and Benjamin heard that the returned exiles were building a temple to the LORD, the God of Israel, 
            2       they approached Zerubbabel and the heads of fathers’ houses and said to them, “Let us build with you, for we worship your God as you do, and we have been sacrificing to him ever since the days of Esarhaddon king of Assyria who brought us here.” 
            3       But Zerubbabel, Jeshua, and the rest of the heads of fathers’ houses in Israel said to them, “You have nothing to do with us in building a house to our God; but we alone will build to the LORD, the God of Israel, as King Cyrus the king of Persia has commanded us.” 
-           4       Then the people of the land (erets) discouraged the people of Judah and made them afraid to build 
+           4       Then the people of the land discouraged the people of Judah and made them afraid to build 
            5       and bribed counselors against them to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. 
            6       And in the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. 
 
@@ -174,7 +174,7 @@ And all the people shouted with a great shout when they praised the LORD, becaus
 
            19       On the fourteenth day of the first month, the returned exiles kept the Passover. 
            20       For the priests and the Levites had purified themselves together; all of them were clean. So they slaughtered the Passover lamb for all the returned exiles, for their fellow priests, and for themselves. 
-           21       It was eaten by the people of Israel who had returned from exile, and also by every one who had joined them and separated himself from the uncleanness of the peoples of the land (erets) to worship the LORD, the God of Israel. 
+           21       It was eaten by the people of Israel who had returned from exile, and also by every one who had joined them and separated himself from the uncleanness of the peoples of the land to worship the LORD, the God of Israel. 
            22       And they kept the Feast of Unleavened Bread seven days with joy, for the LORD had made them joyful and had turned the heart of the king of Assyria to them, so that he aided them in the work of the house of God, the God of Israel. 
 
            7:1       Now after this, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, son of Azariah, son of Hilkiah, 
@@ -246,25 +246,25 @@ And all the people shouted with a great shout when they praised the LORD, becaus
            35       At that time those who had come from captivity, the returned exiles, offered burnt offerings to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and as a sin offering twelve male goats. All this was a burnt offering to the LORD. 
            36       They also delivered the king’s commissions to the king’s satraps and to the governors of the province Beyond the River, and they aided the people and the house of God. 
 
-           9:1       After these things had been done, the officials approached me and said, “The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands (erets) with their abominations, from the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. 
-           2       For they have taken some of their daughters to be wives for themselves and for their sons, so that the holy race has mixed itself with the peoples of the lands (erets). And in this faithlessness the hand of the officials and chief men has been foremost.” 
+           9:1       After these things had been done, the officials approached me and said, “The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands with their abominations, from the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. 
+           2       For they have taken some of their daughters to be wives for themselves and for their sons, so that the holy race has mixed itself with the peoples of the lands. And in this faithlessness the hand of the officials and chief men has been foremost.” 
            3       As soon as I heard this, I tore my garment and my cloak and pulled hair from my head and beard and sat appalled. 
            4       Then all who trembled at the words of the God of Israel, because of the faithlessness of the returned exiles, gathered around me while I sat appalled until the evening sacrifice. 
            5       And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and fell upon my knees and spread out my hands to the LORD my God, 
            6       saying: 
 “O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has mounted up to the heavens. 
-           7       From the days of our fathers to this day we have been in great guilt. And for our iniquities we, our kings, and our priests have been given into the hand of the kings of the lands (erets), to the sword, to captivity, to plundering, and to utter shame, as it is today. 
+           7       From the days of our fathers to this day we have been in great guilt. And for our iniquities we, our kings, and our priests have been given into the hand of the kings of the lands, to the sword, to captivity, to plundering, and to utter shame, as it is today. 
            8       But now for a brief moment favor has been shown by the LORD our God, to leave us a remnant and to give us a secure hold within his holy place, that our God may brighten our eyes and grant us a little reviving in our slavery. 
            9       For we are slaves. Yet our God has not forsaken us in our slavery, but has extended to us his steadfast love before the kings of Persia, to grant us some reviving to set up the house of our God, to repair its ruins, and to give us protection in Judea and Jerusalem. 
            10       “And now, O our God, what shall we say after this? For we have forsaken your commandments, 
-           11       which you commanded by your servants the prophets, saying, ‘The land (erets) that you are entering, to take possession of it, is a land (erets) impure with the impurity of the peoples of the lands (erets), with their abominations that have filled it from end to end with their uncleanness. 
-           12       Therefore do not give your daughters to their sons, neither take their daughters for your sons, and never seek their peace or prosperity, that you may be strong and eat the good of the land (erets) and leave it for an inheritance to your children forever.’ 
+           11       which you commanded by your servants the prophets, saying, ‘The land that you are entering, to take possession of it, is a land impure with the impurity of the peoples of the lands, with their abominations that have filled it from end to end with their uncleanness. 
+           12       Therefore do not give your daughters to their sons, neither take their daughters for your sons, and never seek their peace or prosperity, that you may be strong and eat the good of the land and leave it for an inheritance to your children forever.’ 
            13       And after all that has come upon us for our evil deeds and for our great guilt, seeing that you, our God, have punished us less than our iniquities deserved and have given us such a remnant as this, 
            14       shall we break your commandments again and intermarry with the peoples who practice these abominations? Would you not be angry with us until you consumed us, so that there should be no remnant, nor any to escape? 
            15       O LORD, the God of Israel, you are just, for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guilt, for none can stand before you because of this.” 
 
            10:1       While Ezra prayed and made confession, weeping and casting himself down before the house of God, a very great assembly of men, women, and children, gathered to him out of Israel, for the people wept bitterly. 
-           2       And Shecaniah the son of Jehiel, of the sons of Elam, addressed Ezra: “We have broken faith with our God and have married foreign women from the peoples of the land (erets), but even now there is hope for Israel in spite of this. 
+           2       And Shecaniah the son of Jehiel, of the sons of Elam, addressed Ezra: “We have broken faith with our God and have married foreign women from the peoples of the land, but even now there is hope for Israel in spite of this. 
            3       Therefore let us make a covenant with our God to put away all these wives and their children, according to the counsel of my lord and of those who tremble at the commandment of our God, and let it be done according to the Law. 
            4       Arise, for it is your task, and we are with you; be strong and do it.” 
            5       Then Ezra arose and made the leading priests and Levites and all Israel take an oath that they would do as had been said. So they took the oath. 
@@ -273,7 +273,7 @@ And all the people shouted with a great shout when they praised the LORD, becaus
            8       and that if anyone did not come within three days, by order of the officials and the elders all his property should be forfeited, and he himself banned from the congregation of the exiles. 
            9       Then all the men of Judah and Benjamin assembled at Jerusalem within the three days. It was the ninth month, on the twentieth day of the month. And all the people sat in the open square before the house of God, trembling because of this matter and because of the heavy rain. 
            10       And Ezra the priest stood up and said to them, “You have broken faith and married foreign women, and so increased the guilt of Israel. 
-           11       Now then make confession to the LORD, the God of your fathers and do his will. Separate yourselves from the peoples of the land (erets) and from the foreign wives.” 
+           11       Now then make confession to the LORD, the God of your fathers and do his will. Separate yourselves from the peoples of the land and from the foreign wives.” 
            12       Then all the assembly answered with a loud voice, “It is so; we must do as you have said. 
            13       But the people are many, and it is a time of heavy rain; we cannot stand in the open. Nor is this a task for one day or for two, for we have greatly transgressed in this matter. 
            14       Let our officials stand for the whole assembly. Let all in our cities who have taken foreign wives come at appointed times, and with them the elders and judges of every city, until the fierce wrath of our God over this matter is turned away from us.” 
@@ -337,9 +337,9 @@ Now I was cupbearer to the king.
            8       and a letter to Asaph, the keeper of the king’s forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that I shall occupy.” And the king granted me what I asked, for the good hand of my God was upon me. 
 
            9       Then I came to the governors of the province Beyond the River and gave them the king’s letters. Now the king had sent with me officers of the army and horsemen. 
-           10       But when Sanballat the Horonite and Tobiah the Ammonite servant heard this, it displeased them greatly that someone (adam) had come to seek the welfare of the people of Israel. 
+           10       But when Sanballat the Horonite and Tobiah the Ammonite servant heard this, it displeased them greatly that someone had come to seek the welfare of the people of Israel. 
            11       So I went to Jerusalem and was there three days. 
-           12       Then I arose in the night, I and a few men with me. And I told no one (adam) what my God had put into my heart to do for Jerusalem. There was no animal with me but the one on which I rode. 
+           12       Then I arose in the night, I and a few men with me. And I told no one what my God had put into my heart to do for Jerusalem. There was no animal with me but the one on which I rode. 
            13       I went out by night by the Valley Gate to the Dragon Spring and to the Dung Gate, and I inspected the walls of Jerusalem that were broken down and its gates that had been destroyed by fire. 
            14       Then I went on to the Fountain Gate and to the King’s Pool, but there was no room for the animal that was under me to pass. 
            15       Then I went up in the night by the valley and inspected the wall, and I turned back and entered by the Valley Gate, and so returned. 
@@ -385,7 +385,7 @@ Now I was cupbearer to the king.
            4:1        Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews. 
            2       And he said in the presence of his brothers and of the army of Samaria, “What are these feeble Jews doing? Will they restore it for themselves? Will they sacrifice? Will they finish up in a day? Will they revive the stones out of the heaps of rubbish, and burned ones at that?” 
            3       Tobiah the Ammonite was beside him, and he said, “Yes, what they are building—if a fox goes up on it he will break down their stone wall!” 
-           4       Hear, O our God, for we are despised. Turn back their taunt on their own heads and give them up to be plundered in a land (erets) where they are captives. 
+           4       Hear, O our God, for we are despised. Turn back their taunt on their own heads and give them up to be plundered in a land where they are captives. 
            5       Do not cover their guilt, and let not their sin be blotted out from your sight, for they have provoked you to anger in the presence of the builders. 
            6       So we built the wall. And all the wall was joined together to half its height, for the people had a mind to work. 
            7        But when Sanballat and Tobiah and the Arabs and the Ammonites and the Ashdodites heard that the repairing of the walls of Jerusalem was going forward and that the breaches were beginning to be closed, they were very angry. 
@@ -421,7 +421,7 @@ Now I was cupbearer to the king.
            12       Then they said, “We will restore these and require nothing from them. We will do as you say.” And I called the priests and made them swear to do as they had promised. 
            13       I also shook out the fold of my garment and said, “So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied.” And all the assembly said “Amen” and praised the LORD. And the people did as they had promised. 
 
-           14       Moreover, from the time that I was appointed to be their governor in the land (erets) of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, neither I nor my brothers ate the food allowance of the governor. 
+           14       Moreover, from the time that I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, neither I nor my brothers ate the food allowance of the governor. 
            15       The former governors who were before me laid heavy burdens on the people and took from them for their daily ration forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God. 
            16       I also persevered in the work on this wall, and we acquired no land, and all my servants were gathered there for the work. 
            17       Moreover, there were at my table 150 men, Jews and officials, besides those who came to us from the nations that were around us. 
@@ -531,7 +531,7 @@ And when the seventh month had come, the people of Israel were in their towns.
            3       And he read from it facing the square before the Water Gate from early morning until midday, in the presence of the men and the women and those who could understand. And the ears of all the people were attentive to the Book of the Law. 
            4       And Ezra the scribe stood on a wooden platform that they had made for the purpose. And beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah on his right hand, and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam on his left hand. 
            5       And Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it all the people stood. 
-           6       And Ezra blessed the LORD, the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the LORD with their faces to the ground (erets). 
+           6       And Ezra blessed the LORD, the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the LORD with their faces to the ground. 
            7       Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites, helped the people to understand the Law, while the people remained in their places. 
            8       They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading. 
 
@@ -547,42 +547,42 @@ And when the seventh month had come, the people of Israel were in their towns.
            17       And all the assembly of those who had returned from the captivity made booths and lived in the booths, for from the days of Jeshua the son of Nun to that day the people of Israel had not done so. And there was very great rejoicing. 
            18       And day by day, from the first day to the last day, he read from the Book of the Law of God. They kept the feast seven days, and on the eighth day there was a solemn assembly, according to the rule. 
 
-           9:1       Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth (adama) on their heads. 
+           9:1       Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads. 
            2       And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers. 
            3       And they stood up in their place and read from the Book of the Law of the LORD their God for a quarter of the day; for another quarter of it they made confession and worshiped the LORD their God. 
            4       On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the LORD their God. 
            5       Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. 
-           6        “You are the LORD, you alone. You have made heaven, the heaven of heavens, with all their host, the earth (erets) and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you. 
+           6        “You are the LORD, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you. 
            7       You are the LORD, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham. 
-           8       You found his heart faithful before you, and made with him the covenant to give to his offspring the land (erets) of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous. 
+           8       You found his heart faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous. 
            9       “And you saw the affliction of our fathers in Egypt and heard their cry at the Red Sea, 
-           10       and performed signs and wonders against Pharaoh and all his servants and all the people of his land (erets), for you knew that they acted arrogantly against our fathers. And you made a name for yourself, as it is to this day. 
+           10       and performed signs and wonders against Pharaoh and all his servants and all the people of his land, for you knew that they acted arrogantly against our fathers. And you made a name for yourself, as it is to this day. 
            11       And you divided the sea before them, so that they went through the midst of the sea on dry land, and you cast their pursuers into the depths, as a stone into mighty waters. 
            12       By a pillar of cloud you led them in the day, and by a pillar of fire in the night to light for them the way in which they should go. 
            13       You came down on Mount Sinai and spoke with them from heaven and gave them right rules and true laws, good statutes and commandments, 
            14       and you made known to them your holy Sabbath and commanded them commandments and statutes and a law by Moses your servant. 
-           15       You gave them bread from heaven for their hunger and brought water for them out of the rock for their thirst, and you told them to go in to possess the land (erets) that you had sworn to give them. 
+           15       You gave them bread from heaven for their hunger and brought water for them out of the rock for their thirst, and you told them to go in to possess the land that you had sworn to give them. 
            16       “But they and our fathers acted presumptuously and stiffened their neck and did not obey your commandments. 
            17       They refused to obey and were not mindful of the wonders that you performed among them, but they stiffened their neck and appointed a leader to return to their slavery in Egypt. But you are a God ready to forgive, gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them. 
            18       Even when they had made for themselves a golden calf and said, ‘This is your God who brought you up out of Egypt,’ and had committed great blasphemies, 
            19       you in your great mercies did not forsake them in the wilderness. The pillar of cloud to lead them in the way did not depart from them by day, nor the pillar of fire by night to light for them the way by which they should go. 
            20       You gave your good Spirit to instruct them and did not withhold your manna from their mouth and gave them water for their thirst. 
            21       Forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell. 
-           22       “And you gave them kingdoms and peoples and allotted to them every corner. So they took possession of the land (erets) of Sihon (erets) king of Heshbon and the land (erets) of Og king of Bashan. 
-           23       You multiplied their children as the stars of heaven, and you brought them into the land (erets) that you had told their fathers to enter and possess. 
-           24       So the descendants went in and possessed the land (erets), and you subdued before them the inhabitants of the land (erets), the Canaanites, and gave them into their hand, with their kings and the peoples of the land (erets), that they might do with them as they would. 
-           25       And they captured fortified cities and a rich land (adama), and took possession of houses full of all good things, cisterns already hewn, vineyards, olive orchards and fruit trees in abundance. So they ate and were filled and became fat and delighted themselves in your great goodness. 
+           22       “And you gave them kingdoms and peoples and allotted to them every corner. So they took possession of the land of Sihon king of Heshbon and the land of Og king of Bashan. 
+           23       You multiplied their children as the stars of heaven, and you brought them into the land that you had told their fathers to enter and possess. 
+           24       So the descendants went in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hand, with their kings and the peoples of the land, that they might do with them as they would. 
+           25       And they captured fortified cities and a rich land, and took possession of houses full of all good things, cisterns already hewn, vineyards, olive orchards and fruit trees in abundance. So they ate and were filled and became fat and delighted themselves in your great goodness. 
            26       “Nevertheless, they were disobedient and rebelled against you and cast your law behind their back and killed your prophets, who had warned them in order to turn them back to you, and they committed great blasphemies. 
            27       Therefore you gave them into the hand of their enemies, who made them suffer. And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies you gave them saviors who saved them from the hand of their enemies. 
            28       But after they had rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, and many times you delivered them according to your mercies. 
-           29       And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person (adam) does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey. 
-           30       Many years you bore with them and warned them by your Spirit through your prophets. Yet they would not give ear. Therefore you gave them into the hand of the peoples of the lands (erets). 
+           29       And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey. 
+           30       Many years you bore with them and warned them by your Spirit through your prophets. Yet they would not give ear. Therefore you gave them into the hand of the peoples of the lands. 
            31       Nevertheless, in your great mercies you did not make an end of them or forsake them, for you are a gracious and merciful God. 
            32       “Now, therefore, our God, the great, the mighty, and the awesome God, who keeps covenant and steadfast love, let not all the hardship seem little to you that has come upon us, upon our kings, our princes, our priests, our prophets, our fathers, and all your people, since the time of the kings of Assyria until this day. 
            33       Yet you have been righteous in all that has come upon us, for you have dealt faithfully and we have acted wickedly. 
            34       Our kings, our princes, our priests, and our fathers have not kept your law or paid attention to your commandments and your warnings that you gave them. 
-           35       Even in their own kingdom, and amid your great goodness that you gave them, and in the large and rich land (erets) that you set before them, they did not serve you or turn from their wicked works. 
-           36       Behold, we are slaves this day; in the land (erets) that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves. 
+           35       Even in their own kingdom, and amid your great goodness that you gave them, and in the large and rich land that you set before them, they did not serve you or turn from their wicked works. 
+           36       Behold, we are slaves this day; in the land that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves. 
            37       And its rich yield goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress. 
            38        “Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests. 
 
@@ -614,10 +614,10 @@ And when the seventh month had come, the people of Israel were in their towns.
            26       Ahiah, Hanan, Anan, 
            27       Malluch, Harim, Baanah. 
 
-           28       “The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who have separated themselves from the peoples of the lands (erets) to the Law of God, their wives, their sons, their daughters, all who have knowledge and understanding, 
+           28       “The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who have separated themselves from the peoples of the lands to the Law of God, their wives, their sons, their daughters, all who have knowledge and understanding, 
            29       join with their brothers, their nobles, and enter into a curse and an oath to walk in God’s Law that was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord and his rules and his statutes. 
-           30       We will not give our daughters to the peoples of the land (erets) or take their daughters for our sons. 
-           31       And if the peoples of the land (erets) bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. And we will forgo the crops of the seventh year and the exaction of every debt. 
+           30       We will not give our daughters to the peoples of the land or take their daughters for our sons. 
+           31       And if the peoples of the land bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. And we will forgo the crops of the seventh year and the exaction of every debt. 
            32       “We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God: 
            33       for the showbread, the regular grain offering, the regular burnt offering, the Sabbaths, the new moons, the appointed feasts, the holy things, and the sin offerings to make atonement for Israel, and for all the work of the house of our God. 
            34       We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed, year by year, to burn on the altar of the LORD our God, as it is written in the Law. 

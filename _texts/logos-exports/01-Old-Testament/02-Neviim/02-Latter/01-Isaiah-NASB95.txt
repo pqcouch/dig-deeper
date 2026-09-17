@@ -366,7 +366,7 @@ Woes for the Wicked
                13      Therefore My people go into exile for their lack of knowledge; 
          And their honorable men are famished, 
          And their multitude is parched with thirst. 
-               14      Therefore Sheol has enlarged its throat and opened its mouth without measure (hoq); 
+               14      Therefore Sheol has enlarged its throat and opened its mouth without measure; 
          And Jerusalem’s splendor, her multitude, her din of revelry and the jubilant within her, descend into it. 
                15      So the common man will be humbled and the man of importance abased, 
          The eyes of the proud also will be abased. 
@@ -394,7 +394,7 @@ Woes for the Wicked
          And dry grass collapses into the flame, 
          So their root will become like rot and their blossom blow away as dust; 
          For they have rejected the law of the LORD of hosts 
-         And despised the word (imrah) of the Holy One of Israel. 
+         And despised the word of the Holy One of Israel. 
                25      On this account the anger of the LORD has burned against His people, 
          And He has stretched out His hand against them and struck them down. 
          And the mountains quaked, and their corpses lay like refuse in the middle of the streets. 
@@ -455,7 +455,7 @@ Isaiah’s Commission
           11      Then I said, “Lord, how long?” And He answered, 
          “Until cities are devastated and without inhabitant, 
          Houses are without people 
-         And the land (adama) is utterly desolate, 
+         And the land is utterly desolate, 
                12      “The LORD has removed men far away, 
          And the forsaken places are many in the midst of the land. 
                13      “Yet there will be a tenth portion in it, 
@@ -490,7 +490,7 @@ The Child Immanuel
           13      Then he said, “Listen now, O house of David! Is it too slight a thing for you to try the patience of men, that you will try the patience of my God as well? 
           14      “Therefore the Lord Himself will give you a sign: Behold, a virgin will be with child and bear a son, and she will call His name Immanuel. 
           15      “He will eat curds and honey at the time He knows enough to refuse evil and choose good. 
-          16      “For before the boy will know enough to refuse evil and choose good, the land (adama) whose two kings you dread will be forsaken. 
+          16      “For before the boy will know enough to refuse evil and choose good, the land whose two kings you dread will be forsaken. 
 
 Trials to Come for Judah
 
@@ -644,7 +644,7 @@ Chapter 10
 
 Assyria Is God’s Instrument
 
-          1      Woe to those who enact evil statutes (hoq) 
+          1      Woe to those who enact evil statutes 
          And to those who constantly record unjust decisions, 
                2      So as to deprive the needy of justice 
          And rob the poor of My people of their rights, 
@@ -960,7 +960,7 @@ Israel’s Taunt
          And I will sit on the mount of assembly 
          In the recesses of the north. 
                14      ‘I will ascend above the heights of the clouds; 
-         I will make (adama) myself like the Most High.’ 
+         I will make myself like the Most High.’ 
                15      “Nevertheless you will be thrust down to Sheol, 
          To the recesses of the pit. 
                16      “Those who see you will gaze at you, 
@@ -1048,7 +1048,7 @@ Judgment on Moab
          Its wail goes as far as Eglaim and its wailing even to Beer-elim. 
                9      For the waters of Dimon are full of blood; 
          Surely I will bring added woes upon Dimon, 
-         A lion upon the fugitives of Moab and upon the remnant of the land (adama). 
+         A lion upon the fugitives of Moab and upon the remnant of the land. 
 
 
 
@@ -1472,7 +1472,7 @@ The Fall of Tyre
          O forgotten harlot; 
          Pluck the strings skillfully, sing many songs, 
          That you may be remembered. 
-          17      It will come about at the end of seventy years that the LORD will visit Tyre. Then she will go back to her harlot’s wages and will play the harlot with all the kingdoms on the face of the earth (adama). 
+          17      It will come about at the end of seventy years that the LORD will visit Tyre. Then she will go back to her harlot’s wages and will play the harlot with all the kingdoms on the face of the earth. 
           18      Her gain and her harlot’s wages will be set apart to the LORD; it will not be stored up or hoarded, but her gain will become sufficient food and choice attire for those who dwell in the presence of the LORD. 
 
 
@@ -1487,7 +1487,7 @@ Judgment on the Earth
           2      And the people will be like the priest, the servant like his master, the maid like her mistress, the buyer like the seller, the lender like the borrower, the creditor like the debtor. 
           3      The earth will be completely laid waste and completely despoiled, for the LORD has spoken this word. 
           4      The earth mourns and withers, the world fades and withers, the exalted of the people of the earth fade away. 
-          5      The earth is also polluted by its inhabitants, for they transgressed laws, violated statutes (hoq), broke the everlasting covenant. 
+          5      The earth is also polluted by its inhabitants, for they transgressed laws, violated statutes, broke the everlasting covenant. 
           6      Therefore, a curse devours the earth, and those who live in it are held guilty. Therefore, the inhabitants of the earth are burned, and few men are left. 
           7      The new wine mourns, 
          The vine decays, 
@@ -1530,7 +1530,7 @@ Judgment on the Earth
          And it will fall, never to rise again. 
                21      So it will happen in that day, 
          That the LORD will punish the host of heaven on high, 
-         And the kings of the earth (adama) on earth (adama). 
+         And the kings of the earth on earth. 
                22      They will be gathered together 
          Like prisoners in the dungeon, 
          And will be confined in prison; 
@@ -1797,7 +1797,7 @@ Judah Is Warned
          Of decisive destruction on all the earth. 
 
                23      Give ear and hear my voice, 
-         Listen and hear my words (imrah). 
+         Listen and hear my words. 
                24      Does the farmer plow continually to plant seed? 
          Does he continually turn and harrow the ground? 
                25      Does he not level its surface 
@@ -1834,9 +1834,9 @@ Jerusalem Is Warned
                4      Then you will be brought low; 
          From the earth you will speak, 
          And from the dust where you are prostrate 
-         Your words (imrah) will come. 
+         Your words will come. 
          Your voice will also be like that of a spirit from the ground, 
-         And your speech (imrah) will whisper from the dust. 
+         And your speech will whisper from the dust. 
 
                5      But the multitude of your enemies will become like fine dust, 
          And the multitude of the ruthless ones like the chaff which blows away; 
@@ -1869,7 +1869,7 @@ Jerusalem Is Warned
          “Because this people draw near with their words 
          And honor Me with their lip service, 
          But they remove their hearts far from Me, 
-         And their reverence for Me consists of tradition (mitsvah) learned by rote, 
+         And their reverence for Me consists of tradition learned by rote, 
                14      Therefore behold, I will once again deal marvelously with this people, wondrously marvelous; 
          And the wisdom of their wise men will perish, 
          And the discernment of their discerning men will be concealed.” 
@@ -1934,7 +1934,7 @@ Judah Warned against Egyptian Alliance
          They carry their riches on the backs of young donkeys 
          And their treasures on camels’ humps, 
          To a people who cannot profit them; 
-               7      Even Egypt, whose help is vain (hevel) and empty. 
+               7      Even Egypt, whose help is vain and empty. 
          Therefore, I have called her 
          “Rahab who has been exterminated.” 
                8      Now go, write it on a tablet before them 
@@ -1985,8 +1985,8 @@ God Is Gracious and Just
           20      Although the Lord has given you bread of privation and water of oppression, He, your Teacher will no longer hide Himself, but your eyes will behold your Teacher. 
           21      Your ears will hear a word behind you, “This is the way, walk in it,” whenever you turn to the right or to the left. 
           22      And you will defile your graven images overlaid with silver, and your molten images plated with gold. You will scatter them as an impure thing, and say to them, “Be gone!” 
-          23      Then He will give you rain for the seed which you will sow in the ground (adama), and bread from the yield of the ground (adama), and it will be rich and plenteous; on that day your livestock will graze in a roomy pasture. 
-          24      Also the oxen and the donkeys which work the ground (adama) will eat salted fodder, which has been winnowed with shovel and fork. 
+          23      Then He will give you rain for the seed which you will sow in the ground, and bread from the yield of the ground, and it will be rich and plenteous; on that day your livestock will graze in a roomy pasture. 
+          24      Also the oxen and the donkeys which work the ground will eat salted fodder, which has been winnowed with shovel and fork. 
           25      On every lofty mountain and on every high hill there will be streams running with water on the day of the great slaughter, when the towers fall. 
           26      The light of the moon will be as the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, on the day the LORD binds up the fracture of His people and heals the bruise He has inflicted. 
           27      Behold, the name of the LORD comes from a remote place; 
@@ -2092,7 +2092,7 @@ The Glorious Future
 
                9      Rise up, you women who are at ease, 
          And hear my voice; 
-         Give ear to my word (imrah), 
+         Give ear to my word, 
          You complacent daughters. 
                10      Within a year and a few days 
          You will be troubled, O complacent daughters; 
@@ -2357,7 +2357,7 @@ Sennacherib Invades Judah
           18      ‘Beware that Hezekiah does not mislead you, saying, “The LORD will deliver us.” Has any one of the gods of the nations delivered his land from the hand of the king of Assyria? 
           19      ‘Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? And when have they delivered Samaria from my hand? 
           20      ‘Who among all the gods of these lands have delivered their land from my hand, that the LORD would deliver Jerusalem from my hand?’ ” 
-          21      But they were silent and answered him not a word; for the king’s commandment (mitsvah) was, “Do not answer him.” 
+          21      But they were silent and answered him not a word; for the king’s commandment was, “Do not answer him.” 
           22      Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn and told him the words of Rabshakeh. 
 
 
@@ -3092,7 +3092,7 @@ God’s Supreme Power
          I, the LORD, have created it. 
 
                9      “Woe to the one who quarrels with his Maker— 
-         An earthenware vessel among the vessels of earth (adama)! 
+         An earthenware vessel among the vessels of earth! 
          Will the clay say to the potter, ‘What are you doing?’ 
          Or the thing you are making say, ‘He has no hands’? 
                10      “Woe to him who says to a father, ‘What are you begetting?’ 
@@ -3362,7 +3362,7 @@ Deliverance Promised
                17      Thus says the LORD, your Redeemer, the Holy One of Israel, 
          “I am the LORD your God, who teaches you to profit, 
          Who leads you in the way you should go. 
-               18      “If only you had paid attention to My commandments (mitsvah)! 
+               18      “If only you had paid attention to My commandments! 
          Then your well-being would have been like a river, 
          And your righteousness like the waves of the sea. 
                19      “Your descendants would have been like the sand, 
@@ -3397,7 +3397,7 @@ Salvation Reaches to the End of the Earth
                3      He said to Me, “You are My Servant, Israel, 
          In Whom I will show My glory.” 
                4      But I said, “I have toiled in vain, 
-         I have spent My strength for nothing and vanity (hevel); 
+         I have spent My strength for nothing and vanity; 
          Yet surely the justice due to Me is with the LORD, 
          And My reward with My God.” 
 
@@ -4016,7 +4016,7 @@ Evil Leaders Rebuked
          But they will not profit you. 
                13      “When you cry out, let your collection of idols deliver you. 
          But the wind will carry all of them up, 
-         And a breath (hevel) will take them away. 
+         And a breath will take them away. 
          But he who takes refuge in Me will inherit the land 
          And will possess My holy mountain.” 
 

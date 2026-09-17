@@ -1,0 +1,55 @@
+BHS APPARATUS — RUTH (complete)
+
+Converted 17 September 2026 from the Logos RTF export 04-Ruth-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 17:10 16 September 2026.
+
+================================================================
+
+Ruth
+Cp 1, 1 ^{a–a} 𝔊* ἐν τῷ κρίνειν = בִּשְׁפֹט; 𝔖 om שׁפט || ᵇ 𝔊(𝔖) om שׁני
+8 ᵃ 𝔊𝔙 ut Q יַעַשׂ
+14 ᵃ 𝔊 ad καὶ ἐπέστρεψεν εἰς τὸν λαὸν αὐτῆς, frt l וַתָּשָׁב אֶל־עַמָּהּ
+19 ᵃ l c mlt Mss הֶן— || ^{b–b} > 𝔊* || ᶜ 𝔊ᴮ ἐπʼ αὐτῆς (𝔊^{AQ} αὐτῇ) = עָלֶיהָ
+20 ᵃ l c mlt Mss מרה
+21 ^{a–a} 𝔊(𝔖𝔙) ἐταπείνωσέν με
+Cp 2, 1 ᵃ mlt Mss ut Q מוֹדַע; K מְיֻדָּע
+6 ^{a–a} > 𝔖
+7 ᵃ 𝔊 ἑσπέρας = עֶרֶב || ^{b–b} 𝔊 οὐ κατέπαυσεν ἐν τῷ ἀγρῷ = לאֹ שָׁבְתָה בַשָּׂדֶה
+16 ᵃ v 16 > 𝔖
+18 ᵃ pc Mss 𝔖𝔙 וַתַּרְא
+19 ^{a–a} 𝔊 ποῦ ἐποίησεν cf 𝔖
+20 ᵃ Ms 𝔖 יהוה
+21 ᵃ 𝔊(𝔖) ad πρὸς τὴν πενθερὰν αὐτῆς = לַחֲמוֹתָהּ; > 𝔊𝔖𝔙
+23 ^{a–a} pc Mss 𝔙 וַתָּשָׁב אֶל
+Cp 3, 3 ᵃ pc Mss ut Q לֹתַיִךְ—; K mlt Mss לָתֵךְ— || ᵇ Q mlt Mss וְיָרַדְתְּ; K תִּי—
+4 ᵃ cf 3ᵇ
+5 ᵃ mlt Mss ut Q אֵלַי, 𝔊* ut K
+6 ᵃ pc Mss 𝔖𝔙 כֹּל
+7 ᵃ > 𝔊*
+9 ᵃ 𝔊ᴸ(𝔖𝔙) ad αὐτῇ = לָהּ || ᵇ sic L, mlt Mss Edd אָ֑תְּ || ᶜ Kᴼᶜᶜ mlt Mss פֶיךָ—, Kᴼʳ Q 𝔊𝔖 פְךָ—
+11 ᵃ pc Mss 𝔊ᴼ𝔖𝔗𝔙 ad אֵלַי
+12 ᵃ mlt Mss ut Q
+14 ᵃ mlt Mss ut Q תָיו— || ᵇ K בִּטְרוֹם, mlt Mss ut Q בְּטֶרֶם || ᶜ 𝔊(𝔙) ad Βοος; 𝔖 wʾmrt = וַתּאֹמֶר || ᵈ 𝔖 nḥtt = בָאתִי || ᵉ > 𝔖, 𝔊 γυνή = אִשָּׁה
+15 ᵃ 𝔊* ad αὐτῇ, 𝔊ᴸ ad τῇ Ρουθ || ᵇ mlt Mss 𝔖𝔙 וַתָּבאֹ
+17 ᵃ 𝔊* ad αὐτῇ cf 15ᵃ || ᵇ 𝔊(𝔖)𝔗 ut Q אֵלַי
+Cp 4, 2 ᵃ 𝔊(𝔙) ad Βοος
+3 ^{a–a} 𝔊 ἣ δέδοται Νωεμειν
+4 ᵃ mlt Mss Vrs תִגְ׳ || ᵇ K וְאֵדַע; mlt Mss ut Q וְאֵדְעָה
+5 ᵃ 𝔙 quoque, l גַּם אֶת־ || ᵇ pc Mss ut Q קָנִיתָה, K קָנִיתִי; frt l קְנֵה cf Vrs
+7 ᵃ 𝔊 ad τὸ δικαίωμα cf 𝔖𝔗𝔙 = הַתִּשְׁפָּט || ᵇ 𝔊𝔗 pr cop
+8 ᵃ 𝔊 ad καὶ ἔδωκεν αὐτῷ = וַיִּתֵּן לוֹ
+10 ^{a–a} l מֵעַמּוֹ cf 𝔊
+11 ^{a–a} 𝔊 Μάρτυρες καὶ οἱ πρεσβύτεροι εἴποσαν, frt l עדים וַיּאֹמְרוּ הזקנים
+14 ᵃ 𝔊 τὸ ὄνομά σου = שְׁמֵךְ
+15 ᵃ sic L, mlt Mss Edd אהבָתך
+16 ^{a–a} > 𝔖
+18 ᵃ 18sqq cf 1 Ch 2,5.9–15
+19 ᵃ 𝔊ᴬᴮ Αρραν; 𝔊ʳᵉˡ Αραμ, l אֲרָם cf Mt 1,3.4
+20 ᵃ 𝔊ᴮ Σαλμαν, 𝔊ʳᵉˡ Σαλμων
+21 ᵃ pc Mss ושׂלמה; 𝔊ᴮ Σαλμαν, 𝔊ʳᵉˡ = 𝔐
+

@@ -3,7 +3,7 @@
 
 
            Le 1:1       The LORD called Moses and spoke to him from the tent of meeting, saying, 
-           2       “Speak to the people of Israel and say to them, When any one (adam) of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock. 
+           2       “Speak to the people of Israel and say to them, When any one of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock. 
            3       “If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the LORD. 
            4       He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him. 
            5       Then he shall kill the bull before the LORD, and Aaron’s sons the priests shall bring the blood and throw the blood against the sides of the altar that is at the entrance of the tent of meeting. 
@@ -81,7 +81,7 @@
            24       and shall lay his hand on the head of the goat and kill it in the place where they kill the burnt offering before the LORD; it is a sin offering. 
            25       Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of its blood at the base of the altar of burnt offering. 
            26       And all its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings. So the priest shall make atonement for him for his sin, and he shall be forgiven. 
-           27       “If anyone of the common (erets) people sins unintentionally in doing any one of the things that by the LORD’s commandments ought not to be done, and realizes his guilt, 
+           27       “If anyone of the common people sins unintentionally in doing any one of the things that by the LORD’s commandments ought not to be done, and realizes his guilt, 
            28       or the sin which he has committed is made known to him, he shall bring for his offering a goat, a female without blemish, for his sin which he has committed. 
            29       And he shall lay his hand on the head of the sin offering and kill the sin offering in the place of burnt offering. 
            30       And the priest shall take some of its blood with his finger and put it on the horns of the altar of burnt offering and pour out all the rest of its blood at the base of the altar. 
@@ -92,8 +92,8 @@
            35       And all its fat he shall remove as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest shall burn it on the altar, on top of the LORD’s food offerings. And the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven. 
            5:1       “If anyone sins in that he hears a public adjuration to testify, and though he is a witness, whether he has seen or come to know the matter, yet does not speak, he shall bear his iniquity; 
            2       or if anyone touches an unclean thing, whether a carcass of an unclean wild animal or a carcass of unclean livestock or a carcass of unclean swarming things, and it is hidden from him and he has become unclean, and he realizes his guilt; 
-           3       or if he touches human (adam) uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and it is hidden from him, when he comes to know it, and realizes his guilt; 
-           4       or if anyone utters with his lips a rash oath to do evil or to do good, any sort of rash oath that people (adam) swear, and it is hidden from him, when he comes to know it, and he realizes his guilt in any of these; 
+           3       or if he touches human uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and it is hidden from him, when he comes to know it, and realizes his guilt; 
+           4       or if anyone utters with his lips a rash oath to do evil or to do good, any sort of rash oath that people swear, and it is hidden from him, when he comes to know it, and he realizes his guilt in any of these; 
            5       when he realizes his guilt in any of these and confesses the sin he has committed, 
            6       he shall bring to the LORD as his compensation for the sin that he has committed, a female from the flock, a lamb or a goat, for a sin offering. And the priest shall make atonement for him for his sin. 
            7       “But if he cannot afford a lamb, then he shall bring to the LORD as his compensation for the sin that he has committed two turtledoves or two pigeons, one for a sin offering and the other for a burnt offering. 
@@ -112,7 +112,7 @@
            19       It is a guilt offering; he has indeed incurred guilt before the LORD.” 
            6:1        The LORD spoke to Moses, saying, 
            2       “If anyone sins and commits a breach of faith against the LORD by deceiving his neighbor in a matter of deposit or security, or through robbery, or if he has oppressed his neighbor 
-           3       or has found something lost and lied about it, swearing falsely—in any of all the things that people (adam) do and sin thereby— 
+           3       or has found something lost and lied about it, swearing falsely—in any of all the things that people do and sin thereby— 
            4       if he has sinned and has realized his guilt and will restore what he took by robbery or what he got by oppression or the deposit that was committed to him or the lost thing that he found 
            5       or anything about which he has sworn falsely, he shall restore it in full and shall add a fifth to it, and give it to him to whom it belongs on the day he realizes his guilt. 
            6       And he shall bring to the priest as his compensation to the LORD a ram without blemish out of the flock, or its equivalent, for a guilt offering. 
@@ -161,7 +161,7 @@
            18       If any of the flesh of the sacrifice of his peace offering is eaten on the third day, he who offers it shall not be accepted, neither shall it be credited to him. It is tainted, and he who eats of it shall bear his iniquity. 
            19       “Flesh that touches any unclean thing shall not be eaten. It shall be burned up with fire. All who are clean may eat flesh, 
            20       but the person who eats of the flesh of the sacrifice of the LORD’s peace offerings while an uncleanness is on him, that person shall be cut off from his people. 
-           21       And if anyone touches an unclean thing, whether human (adam) uncleanness or an unclean beast or any unclean detestable creature, and then eats some flesh from the sacrifice of the LORD’s peace offerings, that person shall be cut off from his people.” 
+           21       And if anyone touches an unclean thing, whether human uncleanness or an unclean beast or any unclean detestable creature, and then eats some flesh from the sacrifice of the LORD’s peace offerings, that person shall be cut off from his people.” 
            22       The LORD spoke to Moses, saying, 
            23       “Speak to the people of Israel, saying, You shall eat no fat, of ox or sheep or goat. 
            24       The fat of an animal that dies of itself and the fat of one that is torn by beasts may be put to any other use, but on no account shall you eat it. 
@@ -264,7 +264,7 @@
            20       And when Moses heard that, he approved. 
 
            11:1       And the LORD spoke to Moses and Aaron, saying to them, 
-           2       “Speak to the people of Israel, saying, These are the living things that you may eat among all the animals that are on the earth (erets). 
+           2       “Speak to the people of Israel, saying, These are the living things that you may eat among all the animals that are on the earth. 
            3       Whatever parts the hoof and is cloven-footed and chews the cud, among the animals, you may eat. 
            4       Nevertheless, among those that chew the cud or part the hoof, you shall not eat these: The camel, because it chews the cud but does not part the hoof, is unclean to you. 
            5       And the rock badger, because it chews the cud but does not part the hoof, is unclean to you. 
@@ -283,7 +283,7 @@
            18       the barn owl, the tawny owl, the carrion vulture, 
            19       the stork, the heron of any kind, the hoopoe, and the bat. 
            20       “All winged insects that go on all fours are detestable to you. 
-           21       Yet among the winged insects that go on all fours you may eat those that have jointed legs above their feet, with which to hop on the ground (erets). 
+           21       Yet among the winged insects that go on all fours you may eat those that have jointed legs above their feet, with which to hop on the ground. 
            22       Of them you may eat: the locust of any kind, the bald locust of any kind, the cricket of any kind, and the grasshopper of any kind. 
            23       But all other winged insects that have four feet are detestable to you. 
            24       “And by these you shall become unclean. Whoever touches their carcass shall be unclean until the evening, 
@@ -291,7 +291,7 @@
            26       Every animal that parts the hoof but is not cloven-footed or does not chew the cud is unclean to you. Everyone who touches them shall be unclean. 
            27       And all that walk on their paws, among the animals that go on all fours, are unclean to you. Whoever touches their carcass shall be unclean until the evening, 
            28       and he who carries their carcass shall wash his clothes and be unclean until the evening; they are unclean to you. 
-           29       “And these are unclean to you among the swarming things that swarm on the ground (erets): the mole rat, the mouse, the great lizard of any kind, 
+           29       “And these are unclean to you among the swarming things that swarm on the ground: the mole rat, the mouse, the great lizard of any kind, 
            30       the gecko, the monitor lizard, the lizard, the sand lizard, and the chameleon. 
            31       These are unclean to you among all that swarm. Whoever touches them when they are dead shall be unclean until the evening. 
            32       And anything on which any of them falls when they are dead shall be unclean, whether it is an article of wood or a garment or a skin or a sack, any article that is used for any purpose. It must be put into water, and it shall be unclean until the evening; then it shall be clean. 
@@ -303,12 +303,12 @@
            38       but if water is put on the seed and any part of their carcass falls on it, it is unclean to you. 
            39       “And if any animal which you may eat dies, whoever touches its carcass shall be unclean until the evening, 
            40       and whoever eats of its carcass shall wash his clothes and be unclean until the evening. And whoever carries the carcass shall wash his clothes and be unclean until the evening. 
-           41       “Every swarming thing that swarms on the ground (erets) is detestable; it shall not be eaten. 
-           42       Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, any swarming thing that swarms on the ground (erets), you shall not eat, for they are detestable. 
+           41       “Every swarming thing that swarms on the ground is detestable; it shall not be eaten. 
+           42       Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, any swarming thing that swarms on the ground, you shall not eat, for they are detestable. 
            43       You shall not make yourselves detestable with any swarming thing that swarms, and you shall not defile yourselves with them, and become unclean through them. 
-           44       For I am the LORD your God. Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming thing that crawls on the ground (erets). 
-           45       For I am the LORD who brought you up out of the land (erets) of Egypt to be your God. You shall therefore be holy, for I am holy.” 
-           46       This is the law about beast and bird and every living creature that moves through the waters and every creature that swarms on the ground (erets), 
+           44       For I am the LORD your God. Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming thing that crawls on the ground. 
+           45       For I am the LORD who brought you up out of the land of Egypt to be your God. You shall therefore be holy, for I am holy.” 
+           46       This is the law about beast and bird and every living creature that moves through the waters and every creature that swarms on the ground, 
            47       to make a distinction between the unclean and the clean and between the living creature that may be eaten and the living creature that may not be eaten. 
 
            12:1       The LORD spoke to Moses, saying, 
@@ -321,14 +321,14 @@
            8       And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.” 
 
            13:1       The LORD spoke to Moses and Aaron, saying, 
-           2       “When a person (adam) has on the skin of his body a swelling or an eruption or a spot, and it turns into a case of leprous disease on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests, 
+           2       “When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into a case of leprous disease on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests, 
            3       and the priest shall examine the diseased area on the skin of his body. And if the hair in the diseased area has turned white and the disease appears to be deeper than the skin of his body, it is a case of leprous disease. When the priest has examined him, he shall pronounce him unclean. 
            4       But if the spot is white in the skin of his body and appears no deeper than the skin, and the hair in it has not turned white, the priest shall shut up the diseased person for seven days. 
            5       And the priest shall examine him on the seventh day, and if in his eyes the disease is checked and the disease has not spread in the skin, then the priest shall shut him up for another seven days. 
            6       And the priest shall examine him again on the seventh day, and if the diseased area has faded and the disease has not spread in the skin, then the priest shall pronounce him clean; it is only an eruption. And he shall wash his clothes and be clean. 
            7       But if the eruption spreads in the skin, after he has shown himself to the priest for his cleansing, he shall appear again before the priest. 
            8       And the priest shall look, and if the eruption has spread in the skin, then the priest shall pronounce him unclean; it is a leprous disease. 
-           9       “When a man (adam) is afflicted with a leprous disease, he shall be brought to the priest, 
+           9       “When a man is afflicted with a leprous disease, he shall be brought to the priest, 
            10       and the priest shall look. And if there is a white swelling in the skin that has turned the hair white, and there is raw flesh in the swelling, 
            11       it is a chronic leprous disease in the skin of his body, and the priest shall pronounce him unclean. He shall not shut him up, for he is unclean. 
            12       And if the leprous disease breaks out in the skin, so that the leprous disease covers all the skin of the diseased person from head to foot, so far as the priest can see, 
@@ -414,7 +414,7 @@
            32       This is the law for him in whom is a case of leprous disease, who cannot afford the offerings for his cleansing.” 
 
            33       The LORD spoke to Moses and Aaron, saying, 
-           34       “When you come into the land (erets) of Canaan, which I give you for a possession, and I put a case of leprous disease in a house in the land (erets) of your possession, 
+           34       “When you come into the land of Canaan, which I give you for a possession, and I put a case of leprous disease in a house in the land of your possession, 
            35       then he who owns the house shall come and tell the priest, ‘There seems to me to be some case of disease in my house.’ 
            36       Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest shall go in to see the house. 
            37       And he shall examine the disease. And if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface, 
@@ -489,12 +489,12 @@
            14       And he shall take some of the blood of the bull and sprinkle it with his finger on the front of the mercy seat on the east side, and in front of the mercy seat he shall sprinkle some of the blood with his finger seven times. 
            15       “Then he shall kill the goat of the sin offering that is for the people and bring its blood inside the veil and do with its blood as he did with the blood of the bull, sprinkling it over the mercy seat and in front of the mercy seat. 
            16       Thus he shall make atonement for the Holy Place, because of the uncleannesses of the people of Israel and because of their transgressions, all their sins. And so he shall do for the tent of meeting, which dwells with them in the midst of their uncleannesses. 
-           17       No one (adam) may be in the tent of meeting from the time he enters to make atonement in the Holy Place until he comes out and has made atonement for himself and for his house and for all the assembly of Israel. 
+           17       No one may be in the tent of meeting from the time he enters to make atonement in the Holy Place until he comes out and has made atonement for himself and for his house and for all the assembly of Israel. 
            18       Then he shall go out to the altar that is before the LORD and make atonement for it, and shall take some of the blood of the bull and some of the blood of the goat, and put it on the horns of the altar all around. 
            19       And he shall sprinkle some of the blood on it with his finger seven times, and cleanse it and consecrate it from the uncleannesses of the people of Israel. 
            20       “And when he has made an end of atoning for the Holy Place and the tent of meeting and the altar, he shall present the live goat. 
            21       And Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins. And he shall put them on the head of the goat and send it away into the wilderness by the hand of a man who is in readiness. 
-           22       The goat shall bear all their iniquities on itself to a remote area (erets), and he shall let the goat go free in the wilderness. 
+           22       The goat shall bear all their iniquities on itself to a remote area, and he shall let the goat go free in the wilderness. 
            23       “Then Aaron shall come into the tent of meeting and shall take off the linen garments that he put on when he went into the Holy Place and shall leave them there. 
            24       And he shall bathe his body in water in a holy place and put on his garments and come out and offer his burnt offering and the burnt offering of the people and make atonement for himself and for the people. 
            25       And the fat of the sin offering he shall burn on the altar. 
@@ -528,9 +528,9 @@
 
            18:1       And the LORD spoke to Moses, saying, 
            2       “Speak to the people of Israel and say to them, I am the LORD your God. 
-           3       You shall not do as they do in the land (erets) of Egypt, where you lived, and you shall not do as they do in the land (erets) of Canaan, to which I am bringing you. You shall not walk in their statutes. 
+           3       You shall not do as they do in the land of Egypt, where you lived, and you shall not do as they do in the land of Canaan, to which I am bringing you. You shall not walk in their statutes. 
            4       You shall follow my rules and keep my statutes and walk in them. I am the LORD your God. 
-           5       You shall therefore keep my statutes and my rules; if a person (adam) does them, he shall live by them: I am the LORD. 
+           5       You shall therefore keep my statutes and my rules; if a person does them, he shall live by them: I am the LORD. 
            6       “None of you shall approach any one of his close relatives to uncover nakedness. I am the LORD. 
            7       You shall not uncover the nakedness of your father, which is the nakedness of your mother; she is your mother, you shall not uncover her nakedness. 
            8       You shall not uncover the nakedness of your father’s wife; it is your father’s nakedness. 
@@ -550,10 +550,10 @@
            22       You shall not lie with a male as with a woman; it is an abomination. 
            23       And you shall not lie with any animal and so make yourself unclean with it, neither shall any woman give herself to an animal to lie with it: it is perversion. 
            24       “Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean, 
-           25       and the land (erets) became unclean, so that I punished its iniquity, and the land (erets) vomited out its inhabitants. 
+           25       and the land became unclean, so that I punished its iniquity, and the land vomited out its inhabitants. 
            26       But you shall keep my statutes and my rules and do none of these abominations, either the native or the stranger who sojourns among you 
-           27       (for the people of the land (erets), who were before you, did all of these abominations, so that the land (erets) became unclean), 
-           28       lest the land (erets) vomit you out when you make it unclean, as it vomited out the nation that was before you. 
+           27       (for the people of the land, who were before you, did all of these abominations, so that the land became unclean), 
+           28       lest the land vomit you out when you make it unclean, as it vomited out the nation that was before you. 
            29       For everyone who does any of these abominations, the persons who do them shall be cut off from among their people. 
            30       So keep my charge never to practice any of these abominable customs that were practiced before you, and never to make yourselves unclean by them: I am the LORD your God.” 
 
@@ -566,7 +566,7 @@
            7       If it is eaten at all on the third day, it is tainted; it will not be accepted, 
            8       and everyone who eats it shall bear his iniquity, because he has profaned what is holy to the LORD, and that person shall be cut off from his people. 
 
-           9       “When you reap the harvest of your land (erets), you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest. 
+           9       “When you reap the harvest of your land, you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest. 
            10       And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the LORD your God. 
            11       “You shall not steal; you shall not deal falsely; you shall not lie to one another. 
            12       You shall not swear by my name falsely, and so profane the name of your God: I am the LORD. 
@@ -581,26 +581,26 @@
            20       “If a man lies sexually with a woman who is a slave, assigned to another man and not yet ransomed or given her freedom, a distinction shall be made. They shall not be put to death, because she was not free; 
            21       but he shall bring his compensation to the LORD, to the entrance of the tent of meeting, a ram for a guilt offering. 
            22       And the priest shall make atonement for him with the ram of the guilt offering before the LORD for his sin that he has committed, and he shall be forgiven for the sin that he has committed. 
-           23       “When you come into the land (erets) and plant any kind of tree for food, then you shall regard its fruit as forbidden. Three years it shall be forbidden to you; it must not be eaten. 
+           23       “When you come into the land and plant any kind of tree for food, then you shall regard its fruit as forbidden. Three years it shall be forbidden to you; it must not be eaten. 
            24       And in the fourth year all its fruit shall be holy, an offering of praise to the LORD. 
            25       But in the fifth year you may eat of its fruit, to increase its yield for you: I am the LORD your God. 
            26       “You shall not eat any flesh with the blood in it. You shall not interpret omens or tell fortunes. 
            27       You shall not round off the hair on your temples or mar the edges of your beard. 
            28       You shall not make any cuts on your body for the dead or tattoo yourselves: I am the LORD. 
-           29       “Do not profane your daughter by making her a prostitute, lest the land (erets) fall into prostitution and the land (erets) become full of depravity. 
+           29       “Do not profane your daughter by making her a prostitute, lest the land fall into prostitution and the land become full of depravity. 
            30       You shall keep my Sabbaths and reverence my sanctuary: I am the LORD. 
            31       “Do not turn to mediums or necromancers; do not seek them out, and so make yourselves unclean by them: I am the LORD your God. 
            32       “You shall stand up before the gray head and honor the face of an old man, and you shall fear your God: I am the LORD. 
-           33       “When a stranger sojourns with you in your land (erets), you shall not do him wrong. 
-           34       You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land (erets) of Egypt: I am the LORD your God. 
+           33       “When a stranger sojourns with you in your land, you shall not do him wrong. 
+           34       You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the LORD your God. 
            35       “You shall do no wrong in judgment, in measures of length or weight or quantity. 
-           36       You shall have just balances, just weights, a just ephah, and a just hin: I am the LORD your God, who brought you out of the land (erets) of Egypt. 
+           36       You shall have just balances, just weights, a just ephah, and a just hin: I am the LORD your God, who brought you out of the land of Egypt. 
            37       And you shall observe all my statutes and all my rules, and do them: I am the LORD.” 
 
            20:1       The LORD spoke to Moses, saying, 
-           2       “Say to the people of Israel, Any one of the people of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech shall surely be put to death. The people of the land (erets) shall stone him with stones. 
+           2       “Say to the people of Israel, Any one of the people of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech shall surely be put to death. The people of the land shall stone him with stones. 
            3       I myself will set my face against that man and will cut him off from among his people, because he has given one of his children to Molech, to make my sanctuary unclean and to profane my holy name. 
-           4       And if the people of the land (erets) do at all close their eyes to that man when he gives one of his children to Molech, and do not put him to death, 
+           4       And if the people of the land do at all close their eyes to that man when he gives one of his children to Molech, and do not put him to death, 
            5       then I will set my face against that man and against his clan and will cut them off from among their people, him and all who follow him in whoring after Molech. 
            6       “If a person turns to mediums and necromancers, whoring after them, I will set my face against that person and will cut him off from among his people. 
            7       Consecrate yourselves, therefore, and be holy, for I am the LORD your God. 
@@ -620,10 +620,10 @@
            20       If a man lies with his uncle’s wife, he has uncovered his uncle’s nakedness; they shall bear their sin; they shall die childless. 
            21       If a man takes his brother’s wife, it is impurity. He has uncovered his brother’s nakedness; they shall be childless. 
 
-           22       “You shall therefore keep all my statutes and all my rules and do them, that the land (erets) where I am bringing you to live may not vomit you out. 
+           22       “You shall therefore keep all my statutes and all my rules and do them, that the land where I am bringing you to live may not vomit you out. 
            23       And you shall not walk in the customs of the nation that I am driving out before you, for they did all these things, and therefore I detested them. 
-           24       But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land (erets) flowing with milk and honey.’ I am the LORD your God, who has separated you from the peoples. 
-           25       You shall therefore separate the clean beast from the unclean, and the unclean bird from the clean. You shall not make yourselves detestable by beast or by bird or by anything with which the ground (adama) crawls, which I have set apart for you to hold unclean. 
+           24       But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the LORD your God, who has separated you from the peoples. 
+           25       You shall therefore separate the clean beast from the unclean, and the unclean bird from the clean. You shall not make yourselves detestable by beast or by bird or by anything with which the ground crawls, which I have set apart for you to hold unclean. 
            26       You shall be holy to me, for I the LORD am holy and have separated you from the peoples, that you should be mine. 
            27       “A man or a woman who is a medium or a necromancer shall surely be put to death. They shall be stoned with stones; their blood shall be upon them.” 
 
@@ -655,7 +655,7 @@
            2       “Speak to Aaron and his sons so that they abstain from the holy things of the people of Israel, which they dedicate to me, so that they do not profane my holy name: I am the LORD. 
            3       Say to them, ‘If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the LORD, while he has an uncleanness, that person shall be cut off from my presence: I am the LORD. 
            4       None of the offspring of Aaron who has a leprous disease or a discharge may eat of the holy things until he is clean. Whoever touches anything that is unclean through contact with the dead or a man who has had an emission of semen, 
-           5       and whoever touches a swarming thing by which he may be made unclean or a person (adam) from whom he may take uncleanness, whatever his uncleanness may be— 
+           5       and whoever touches a swarming thing by which he may be made unclean or a person from whom he may take uncleanness, whatever his uncleanness may be— 
            6       the person who touches such a thing shall be unclean until the evening and shall not eat of the holy things unless he has bathed his body in water. 
            7       When the sun goes down he shall be clean, and afterward he may eat of the holy things, because they are his food. 
            8       He shall not eat what dies of itself or is torn by beasts, and so make himself unclean by it: I am the LORD.’ 
@@ -675,7 +675,7 @@
            21       And when anyone offers a sacrifice of peace offerings to the LORD to fulfill a vow or as a freewill offering from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it. 
            22       Animals blind or disabled or mutilated or having a discharge or an itch or scabs you shall not offer to the LORD or give them to the LORD as a food offering on the altar. 
            23       You may present a bull or a lamb that has a part too long or too short for a freewill offering, but for a vow offering it cannot be accepted. 
-           24       Any animal that has its testicles bruised or crushed or torn or cut you shall not offer to the LORD; you shall not do it within your land (erets), 
+           24       Any animal that has its testicles bruised or crushed or torn or cut you shall not offer to the LORD; you shall not do it within your land, 
            25       neither shall you offer as the bread of your God any such animals gotten from a foreigner. Since there is a blemish in them, because of their mutilation, they will not be accepted for you.” 
            26       And the LORD spoke to Moses, saying, 
            27       “When an ox or sheep or goat is born, it shall remain seven days with its mother, and from the eighth day on it shall be acceptable as a food offering to the LORD. 
@@ -684,7 +684,7 @@
            30       It shall be eaten on the same day; you shall leave none of it until morning: I am the LORD. 
            31       “So you shall keep my commandments and do them: I am the LORD. 
            32       And you shall not profane my holy name, that I may be sanctified among the people of Israel. I am the LORD who sanctifies you, 
-           33       who brought you out of the land (erets) of Egypt to be your God: I am the LORD.” 
+           33       who brought you out of the land of Egypt to be your God: I am the LORD.” 
 
            23:1       The LORD spoke to Moses, saying, 
            2       “Speak to the people of Israel and say to them, These are the appointed feasts of the LORD that you shall proclaim as holy convocations; they are my appointed feasts. 
@@ -698,7 +698,7 @@
            8       But you shall present a food offering to the LORD for seven days. On the seventh day is a holy convocation; you shall not do any ordinary work.” 
 
            9       And the LORD spoke to Moses, saying, 
-           10       “Speak to the people of Israel and say to them, When you come into the land (erets) that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest, 
+           10       “Speak to the people of Israel and say to them, When you come into the land that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest, 
            11       and he shall wave the sheaf before the LORD, so that you may be accepted. On the day after the Sabbath the priest shall wave it. 
            12       And on the day when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the LORD. 
            13       And the grain offering with it shall be two tenths of an ephah of fine flour mixed with oil, a food offering to the LORD with a pleasing aroma, and the drink offering with it shall be of wine, a fourth of a hin. 
@@ -711,7 +711,7 @@
            19       And you shall offer one male goat for a sin offering, and two male lambs a year old as a sacrifice of peace offerings. 
            20       And the priest shall wave them with the bread of the firstfruits as a wave offering before the LORD, with the two lambs. They shall be holy to the LORD for the priest. 
            21       And you shall make a proclamation on the same day. You shall hold a holy convocation. You shall not do any ordinary work. It is a statute forever in all your dwelling places throughout your generations. 
-           22       “And when you reap the harvest of your land (erets), you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the LORD your God.” 
+           22       “And when you reap the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the LORD your God.” 
 
            23       And the LORD spoke to Moses, saying, 
            24       “Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation. 
@@ -731,11 +731,11 @@
            36       For seven days you shall present food offerings to the LORD. On the eighth day you shall hold a holy convocation and present a food offering to the LORD. It is a solemn assembly; you shall not do any ordinary work. 
            37       “These are the appointed feasts of the LORD, which you shall proclaim as times of holy convocation, for presenting to the LORD food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day, 
            38       besides the LORD’s Sabbaths and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the LORD. 
-           39       “On the fifteenth day of the seventh month, when you have gathered in the produce of the land (erets), you shall celebrate the feast of the LORD seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest. 
+           39       “On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the LORD seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest. 
            40       And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days. 
            41       You shall celebrate it as a feast to the LORD for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month. 
            42       You shall dwell in booths for seven days. All native Israelites shall dwell in booths, 
-           43       that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land (erets) of Egypt: I am the LORD your God.” 
+           43       that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the LORD your God.” 
            44       Thus Moses declared to the people of Israel the appointed feasts of the LORD. 
 
            24:1       The LORD spoke to Moses, saying, 
@@ -757,25 +757,25 @@
            15       And speak to the people of Israel, saying, Whoever curses his God shall bear his sin. 
            16       Whoever blasphemes the name of the LORD shall surely be put to death. All the congregation shall stone him. The sojourner as well as the native, when he blasphemes the Name, shall be put to death. 
 
-           17       “Whoever takes a human (adam) life shall surely be put to death. 
+           17       “Whoever takes a human life shall surely be put to death. 
            18       Whoever takes an animal’s life shall make it good, life for life. 
            19       If anyone injures his neighbor, as he has done it shall be done to him, 
-           20       fracture for fracture, eye for eye, tooth for tooth; whatever injury he has given a person (adam) shall be given to him. 
-           21       Whoever kills an animal shall make it good, and whoever kills a person (adam) shall be put to death. 
+           20       fracture for fracture, eye for eye, tooth for tooth; whatever injury he has given a person shall be given to him. 
+           21       Whoever kills an animal shall make it good, and whoever kills a person shall be put to death. 
            22       You shall have the same rule for the sojourner and for the native, for I am the LORD your God.” 
            23       So Moses spoke to the people of Israel, and they brought out of the camp the one who had cursed and stoned him with stones. Thus the people of Israel did as the LORD commanded Moses. 
 
            25:1       The LORD spoke to Moses on Mount Sinai, saying, 
-           2       “Speak to the people of Israel and say to them, When you come into the land (erets) that I give you, the land (erets) shall keep a Sabbath to the LORD. 
+           2       “Speak to the people of Israel and say to them, When you come into the land that I give you, the land shall keep a Sabbath to the LORD. 
            3       For six years you shall sow your field, and for six years you shall prune your vineyard and gather in its fruits, 
-           4       but in the seventh year there shall be a Sabbath of solemn rest for the land (erets), a Sabbath to the LORD. You shall not sow your field or prune your vineyard. 
-           5       You shall not reap what grows of itself in your harvest, or gather the grapes of your undressed vine. It shall be a year of solemn rest for the land (erets). 
-           6       The Sabbath of the land (erets) shall provide food for you, for yourself and for your male and female slaves and for your hired worker and the sojourner who lives with you, 
-           7       and for your cattle and for the wild animals that are in your land (erets): all its yield shall be for food. 
+           4       but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the LORD. You shall not sow your field or prune your vineyard. 
+           5       You shall not reap what grows of itself in your harvest, or gather the grapes of your undressed vine. It shall be a year of solemn rest for the land. 
+           6       The Sabbath of the land shall provide food for you, for yourself and for your male and female slaves and for your hired worker and the sojourner who lives with you, 
+           7       and for your cattle and for the wild animals that are in your land: all its yield shall be for food. 
 
            8       “You shall count seven weeks of years, seven times seven years, so that the time of the seven weeks of years shall give you forty-nine years. 
-           9       Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land (erets). 
-           10       And you shall consecrate the fiftieth year, and proclaim liberty throughout the land (erets) to all its inhabitants. It shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his clan. 
+           9       Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land. 
+           10       And you shall consecrate the fiftieth year, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his clan. 
            11       That fiftieth year shall be a jubilee for you; in it you shall neither sow nor reap what grows of itself nor gather the grapes from the undressed vines. 
            12       For it is a jubilee. It shall be holy to you. You may eat the produce of the field. 
            13       “In this year of jubilee each of you shall return to his property. 
@@ -783,21 +783,21 @@
            15       You shall pay your neighbor according to the number of years after the jubilee, and he shall sell to you according to the number of years for crops. 
            16       If the years are many, you shall increase the price, and if the years are few, you shall reduce the price, for it is the number of the crops that he is selling to you. 
            17       You shall not wrong one another, but you shall fear your God, for I am the LORD your God. 
-           18       “Therefore you shall do my statutes and keep my rules and perform them, and then you will dwell in the land (erets) securely. 
-           19       The land (erets) will yield its fruit, and you will eat your fill and dwell in it securely. 
+           18       “Therefore you shall do my statutes and keep my rules and perform them, and then you will dwell in the land securely. 
+           19       The land will yield its fruit, and you will eat your fill and dwell in it securely. 
            20       And if you say, ‘What shall we eat in the seventh year, if we may not sow or gather in our crop?’ 
            21       I will command my blessing on you in the sixth year, so that it will produce a crop sufficient for three years. 
            22       When you sow in the eighth year, you will be eating some of the old crop; you shall eat the old until the ninth year, when its crop arrives. 
 
-           23       “The land (erets) shall not be sold in perpetuity, for the land (erets) is mine. For you are strangers and sojourners with me. 
-           24       And in all the country (erets) you possess, you shall allow a redemption of the land (erets). 
+           23       “The land shall not be sold in perpetuity, for the land is mine. For you are strangers and sojourners with me. 
+           24       And in all the country you possess, you shall allow a redemption of the land. 
            25       “If your brother becomes poor and sells part of his property, then his nearest redeemer shall come and redeem what his brother has sold. 
            26       If a man has no one to redeem it and then himself becomes prosperous and finds sufficient means to redeem it, 
            27       let him calculate the years since he sold it and pay back the balance to the man to whom he sold it, and then return to his property. 
            28       But if he does not have sufficient means to recover it, then what he sold shall remain in the hand of the buyer until the year of jubilee. In the jubilee it shall be released, and he shall return to his property. 
            29       “If a man sells a dwelling house in a walled city, he may redeem it within a year of its sale. For a full year he shall have the right of redemption. 
            30       If it is not redeemed within a full year, then the house in the walled city shall belong in perpetuity to the buyer, throughout his generations; it shall not be released in the jubilee. 
-           31       But the houses of the villages that have no wall around them shall be classified with the fields of the land (erets). They may be redeemed, and they shall be released in the jubilee. 
+           31       But the houses of the villages that have no wall around them shall be classified with the fields of the land. They may be redeemed, and they shall be released in the jubilee. 
            32       As for the cities of the Levites, the Levites may redeem at any time the houses in the cities they possess. 
            33       And if one of the Levites exercises his right of redemption, then the house that was sold in a city they possess shall be released in the jubilee. For the houses in the cities of the Levites are their possession among the people of Israel. 
            34       But the fields of pastureland belonging to their cities may not be sold, for that is their possession forever. 
@@ -805,14 +805,14 @@
            35       “If your brother becomes poor and cannot maintain himself with you, you shall support him as though he were a stranger and a sojourner, and he shall live with you. 
            36       Take no interest from him or profit, but fear your God, that your brother may live beside you. 
            37       You shall not lend him your money at interest, nor give him your food for profit. 
-           38       I am the LORD your God, who brought you out of the land (erets) of Egypt to give you the land (erets) of Canaan, and to be your God. 
+           38       I am the LORD your God, who brought you out of the land of Egypt to give you the land of Canaan, and to be your God. 
            39       “If your brother becomes poor beside you and sells himself to you, you shall not make him serve as a slave: 
            40       he shall be with you as a hired worker and as a sojourner. He shall serve with you until the year of the jubilee. 
            41       Then he shall go out from you, he and his children with him, and go back to his own clan and return to the possession of his fathers. 
-           42       For they are my servants, whom I brought out of the land (erets) of Egypt; they shall not be sold as slaves. 
+           42       For they are my servants, whom I brought out of the land of Egypt; they shall not be sold as slaves. 
            43       You shall not rule over him ruthlessly but shall fear your God. 
            44       As for your male and female slaves whom you may have: you may buy male and female slaves from among the nations that are around you. 
-           45       You may also buy from among the strangers who sojourn with you and their clans that are with you, who have been born in your land (erets), and they may be your property. 
+           45       You may also buy from among the strangers who sojourn with you and their clans that are with you, who have been born in your land, and they may be your property. 
            46       You may bequeath them to your sons after you to inherit as a possession forever. You may make slaves of them, but over your brothers the people of Israel you shall not rule, one over another ruthlessly. 
 
            47       “If a stranger or sojourner with you becomes rich, and your brother beside him becomes poor and sells himself to the stranger or sojourner with you or to a member of the stranger’s clan, 
@@ -823,29 +823,29 @@
            52       If there remain but a few years until the year of jubilee, he shall calculate and pay for his redemption in proportion to his years of service. 
            53       He shall treat him as a worker hired year by year. He shall not rule ruthlessly over him in your sight. 
            54       And if he is not redeemed by these means, then he and his children with him shall be released in the year of jubilee. 
-           55       For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land (erets) of Egypt: I am the LORD your God. 
+           55       For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt: I am the LORD your God. 
 
-           26:1       “You shall not make idols for yourselves or erect an image or pillar, and you shall not set up a figured stone in your land (erets) to bow down to it, for I am the LORD your God. 
+           26:1       “You shall not make idols for yourselves or erect an image or pillar, and you shall not set up a figured stone in your land to bow down to it, for I am the LORD your God. 
            2       You shall keep my Sabbaths and reverence my sanctuary: I am the LORD. 
            3       “If you walk in my statutes and observe my commandments and do them, 
-           4       then I will give you your rains in their season, and the land (erets) shall yield its increase, and the trees of the field shall yield their fruit. 
-           5       Your threshing shall last to the time of the grape harvest, and the grape harvest shall last to the time for sowing. And you shall eat your bread to the full and dwell in your land (erets) securely. 
-           6       I will give peace in the land (erets), and you shall lie down, and none shall make you afraid. And I will remove harmful beasts from the land (erets), and the sword shall not go through your land (erets). 
+           4       then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit. 
+           5       Your threshing shall last to the time of the grape harvest, and the grape harvest shall last to the time for sowing. And you shall eat your bread to the full and dwell in your land securely. 
+           6       I will give peace in the land, and you shall lie down, and none shall make you afraid. And I will remove harmful beasts from the land, and the sword shall not go through your land. 
            7       You shall chase your enemies, and they shall fall before you by the sword. 
            8       Five of you shall chase a hundred, and a hundred of you shall chase ten thousand, and your enemies shall fall before you by the sword. 
            9       I will turn to you and make you fruitful and multiply you and will confirm my covenant with you. 
            10       You shall eat old store long kept, and you shall clear out the old to make way for the new. 
            11       I will make my dwelling among you, and my soul shall not abhor you. 
            12       And I will walk among you and will be your God, and you shall be my people. 
-           13       I am the LORD your God, who brought you out of the land (erets) of Egypt, that you should not be their slaves. And I have broken the bars of your yoke and made you walk erect. 
+           13       I am the LORD your God, who brought you out of the land of Egypt, that you should not be their slaves. And I have broken the bars of your yoke and made you walk erect. 
 
            14       “But if you will not listen to me and will not do all these commandments, 
            15       if you spurn my statutes, and if your soul abhors my rules, so that you will not do all my commandments, but break my covenant, 
            16       then I will do this to you: I will visit you with panic, with wasting disease and fever that consume the eyes and make the heart ache. And you shall sow your seed in vain, for your enemies shall eat it. 
            17       I will set my face against you, and you shall be struck down before your enemies. Those who hate you shall rule over you, and you shall flee when none pursues you. 
            18       And if in spite of this you will not listen to me, then I will discipline you again sevenfold for your sins, 
-           19       and I will break the pride of your power, and I will make your heavens like iron and your earth (erets) like bronze. 
-           20       And your strength shall be spent in vain, for your land (erets) shall not yield its increase, and the trees of the land (erets) shall not yield their fruit. 
+           19       and I will break the pride of your power, and I will make your heavens like iron and your earth like bronze. 
+           20       And your strength shall be spent in vain, for your land shall not yield its increase, and the trees of the land shall not yield their fruit. 
            21       “Then if you walk contrary to me and will not listen to me, I will continue striking you, sevenfold for your sins. 
            22       And I will let loose the wild beasts against you, which shall bereave you of your children and destroy your livestock and make you few in number, so that your roads shall be deserted. 
            23       “And if by this discipline you are not turned to me but walk contrary to me, 
@@ -857,20 +857,20 @@
            29       You shall eat the flesh of your sons, and you shall eat the flesh of your daughters. 
            30       And I will destroy your high places and cut down your incense altars and cast your dead bodies upon the dead bodies of your idols, and my soul will abhor you. 
            31       And I will lay your cities waste and will make your sanctuaries desolate, and I will not smell your pleasing aromas. 
-           32       And I myself will devastate the land (erets), so that your enemies who settle in it shall be appalled at it. 
-           33       And I will scatter you among the nations, and I will unsheathe the sword after you, and your land (erets) shall be a desolation, and your cities shall be a waste. 
-           34       “Then the land (erets) shall enjoy its Sabbaths as long as it lies desolate, while you are in your enemies’ land (erets); then the land (erets) shall rest, and enjoy its Sabbaths. 
+           32       And I myself will devastate the land, so that your enemies who settle in it shall be appalled at it. 
+           33       And I will scatter you among the nations, and I will unsheathe the sword after you, and your land shall be a desolation, and your cities shall be a waste. 
+           34       “Then the land shall enjoy its Sabbaths as long as it lies desolate, while you are in your enemies’ land; then the land shall rest, and enjoy its Sabbaths. 
            35       As long as it lies desolate it shall have rest, the rest that it did not have on your Sabbaths when you were dwelling in it. 
-           36       And as for those of you who are left, I will send faintness into their hearts in the lands (erets) of their enemies. The sound of a driven leaf shall put them to flight, and they shall flee as one flees from the sword, and they shall fall when none pursues. 
+           36       And as for those of you who are left, I will send faintness into their hearts in the lands of their enemies. The sound of a driven leaf shall put them to flight, and they shall flee as one flees from the sword, and they shall fall when none pursues. 
            37       They shall stumble over one another, as if to escape a sword, though none pursues. And you shall have no power to stand before your enemies. 
-           38       And you shall perish among the nations, and the land (erets) of your enemies shall eat you up. 
-           39       And those of you who are left shall rot away in your enemies’ lands (erets) because of their iniquity, and also because of the iniquities of their fathers they shall rot away like them. 
+           38       And you shall perish among the nations, and the land of your enemies shall eat you up. 
+           39       And those of you who are left shall rot away in your enemies’ lands because of their iniquity, and also because of the iniquities of their fathers they shall rot away like them. 
            40       “But if they confess their iniquity and the iniquity of their fathers in their treachery that they committed against me, and also in walking contrary to me, 
-           41       so that I walked contrary to them and brought them into the land (erets) of their enemies—if then their uncircumcised heart is humbled and they make amends for their iniquity, 
-           42       then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham, and I will remember the land (erets). 
-           43       But the land (erets) shall be abandoned by them and enjoy its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes. 
-           44       Yet for all that, when they are in the land (erets) of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them, for I am the LORD their God. 
-           45       But I will for their sake remember the covenant with their forefathers, whom I brought out of the land (erets) of Egypt in the sight of the nations, that I might be their God: I am the LORD.” 
+           41       so that I walked contrary to them and brought them into the land of their enemies—if then their uncircumcised heart is humbled and they make amends for their iniquity, 
+           42       then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham, and I will remember the land. 
+           43       But the land shall be abandoned by them and enjoy its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes. 
+           44       Yet for all that, when they are in the land of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them, for I am the LORD their God. 
+           45       But I will for their sake remember the covenant with their forefathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God: I am the LORD.” 
            46       These are the statutes and rules and laws that the LORD made between himself and the people of Israel through Moses on Mount Sinai. 
 
            27:1       The LORD spoke to Moses, saying, 
@@ -896,13 +896,13 @@
            21       But the field, when it is released in the jubilee, shall be a holy gift to the LORD, like a field that has been devoted. The priest shall be in possession of it. 
            22       If he dedicates to the LORD a field that he has bought, which is not a part of his possession, 
            23       then the priest shall calculate the amount of the valuation for it up to the year of jubilee, and the man shall give the valuation on that day as a holy gift to the LORD. 
-           24       In the year of jubilee the field shall return to him from whom it was bought, to whom the land (erets) belongs as a possession. 
+           24       In the year of jubilee the field shall return to him from whom it was bought, to whom the land belongs as a possession. 
            25       Every valuation shall be according to the shekel of the sanctuary: twenty gerahs shall make a shekel. 
            26       “But a firstborn of animals, which as a firstborn belongs to the LORD, no man may dedicate; whether ox or sheep, it is the LORD’s. 
            27       And if it is an unclean animal, then he shall buy it back at the valuation, and add a fifth to it; or, if it is not redeemed, it shall be sold at the valuation. 
-           28       “But no devoted thing that a man devotes to the LORD, of anything that he has, whether man (adam) or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the LORD. 
-           29       No one devoted, who is to be devoted for destruction from mankind (adam), shall be ransomed; he shall surely be put to death. 
-           30       “Every tithe of the land (erets), whether of the seed of the land (erets) or of the fruit of the trees, is the LORD’s; it is holy to the LORD. 
+           28       “But no devoted thing that a man devotes to the LORD, of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the LORD. 
+           29       No one devoted, who is to be devoted for destruction from mankind, shall be ransomed; he shall surely be put to death. 
+           30       “Every tithe of the land, whether of the seed of the land or of the fruit of the trees, is the LORD’s; it is holy to the LORD. 
            31       If a man wishes to redeem some of his tithe, he shall add a fifth to it. 
            32       And every tithe of herds and flocks, every tenth animal of all that pass under the herdsman’s staff, shall be holy to the LORD. 
            33       One shall not differentiate between good or bad, neither shall he make a substitute for it; and if he does substitute for it, then both it and the substitute shall be holy; it shall not be redeemed.” 

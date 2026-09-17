@@ -1,0 +1,63 @@
+NA28 CRITICAL APPARATUS — PHILEMON (complete)
+
+Converted 17 September 2026 from the Logos RTF export 18-Philemon-NA28-apparatus.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Nestle, E. and Nestle, E. (2012) Nestle-Aland: NTG Apparatus Criticus. 28. revidierte Auflage. Edited by B. Aland et al. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 07:21 17 September 2026.
+
+================================================================
+
+ΠΡΟΣ ΦΙΛΗΜΟΝΑ
+1 ⸀ αποστολος D*
+¦ αποστολος δεσμιος 629
+¦ δουλος 323. 945
+⸆ αδελφω D* (ar) b; Ambst
+2 ⸂ τη αγαπητη D² K L Ψ 365. 630. 1241. 1505 𝔪 (syᵖ) saᵐˢˢ
+¦ αδελφη τη αγαπητη 629 ar (b vgᵐˢ) vgᶜˡ syʰ; Ambst
+¦ txt א A D* F G I P 048. 0278. 33. 81. 104. 1739. 1881 vgˢᵗ·ʷʷ saᵐˢ bo
+5 ⸉ πιστιν και την (− 1881) αγαπην 𝔓⁶¹ᵛⁱᵈ D 323. 365. 629. 945. 1739. 1881 ar bvgᵐˢˢ syᵖ; Ambst
+⸂ εις τον κυριον Ιησουν (+ Χριστον D*) A C D* 048. 0278. 33
+¦ εν Χριστω Ιησου 629
+¦ txt א D² F G K L P Ψ 81. 104. 365. 630. 1241. 1505. 1739. 1881 𝔪
+6 ⸆ εργου F G vgᶜˡ
+⸀ ἡ 1739. 1881 it vgᵐˢˢ; Ambst
+¦ − 𝔓⁶¹ A C 048. 33. 629 f vgˢᵗ·ʷʷ
+¦ txt א D F G K L P Ψ 0278. 81. 104. 365. 630. 1241. 1505 𝔪 vgᶜˡ; Hier
+⸂ εν υμιν 𝔓⁶¹ א F G P 0278. 33. 104. 365. 1505. 1739. 1881 ar bvgᶜˡ·ʷʷ sy co
+¦ − 629 vgᵐˢˢ
+¦ txt A C D K L Ψ 048ᵛⁱᵈ. 81. 630. 1241 𝔪 vgˢᵗ syʰᵐᵍ; Ambst
+⸇ Ιησουν א² D F G K L P Ψ 0278. 81. 104. 365. 630. 1241. 1505. 1739. 1881 𝔪 latt sy⁽ᵖ⁾
+¦ txt 𝔓⁶¹ א* A C 33 co; Ambst
+7 ⸀ χαριν K L P 629*. 1241 𝔪
+¦ txt א A C D F G Ψ 048. 0278. 33. 81. 104. 365. 629ᶜ. 630. 1505. 1739. 1881 latt sy co
+⸂ πολλην εσχομεν D* b
+¦ μεγαλην εχωμεν 629
+¦ εχομεν πολλην K L Ψ 630. 1241. (⸉ D² 1505) 𝔪 sy
+¦ txt 𝔓⁶¹ᵛⁱᵈ א A C F G P 048. 0278. 33. 81. 104. 365. 1739. 1881 (f vg) co
+9 ⸀ νυν A
+10 ⸆ εγω A 1505 ar
+⸇ μου א² C D¹ K L P Ψ 0278. 104. 365. 630. 1241. 1505. 1739ᶜ. 1881 𝔪 sy
+¦ txt א* A D* F G 33. 81. 1739.* latt
+11 ° אᶜ A C D K L P 0278. 81. 365. 630. 1241. 1505. 1739. 1881 𝔪 it ar f syʰ
+¦ txt א*·² F G 33. 104 vg syᵖ
+12 ⸂ σοι αυτον τουτ εστιν τα εμα σπλαγχνα προσλαβου C*
+¦ συ (σοι συ C² D*, σοι Ψ) δε αυτον τουτ εστιν τα εμα σπλαγχνα προσλαβου א² C² D*·² K L P Ψ 0278. 81. 104. (365). 630. 1241. 1505. 1739. 1881 𝔪 lat (sy)
+¦ σοι συ δε αυτον προσλαβου τουτ εστιν τα εμα σπλαγχνα 048 g; (Thretˡᵉᵐ)
+¦ txt א* A (συ δε loco σοι F G) 33
+18 ⸀ ελλογει א²ᵃ D¹ Ψ 1739. 1881 𝔪
+¦ txt א*·²ᵇ A C D* F G P 048. 33. 81. 104
+19 ⸆ εν κυριω D*
+20 ⸀ κυριω D² K 𝔪 ar vg
+¦ txt א A C D* F G L P Ψ 33. 81. 104. 365. 630. 1241. 1505. 1739. 1881 vgᵐˢ sy co; Ambst
+21 ⸀ ο D K L Ψ 630. 1241. 1505. 1739. 1881 𝔪 lat
+¦ txt א A C P 0278. 33. 81. 104. 365
+23 ⸀ ασπαζονται D¹ K L 104. 630. 1241 𝔪 f vgᵐˢ
+¦ txt א A C D* P Ψ 048. 0278. 6. 33. 81. 365. 1505. 1739. 1881 lat
+25 ⸆ ημων A C D K L Ψ 0278. 630. 1241 𝔪 lat syᵖ co; Ambst
+¦ txt (𝔓⁸⁷) א P 33. 81. 104. 365. 1505. 1739. 1881 bvgᵐˢˢ syʰ
+⸇ αμην א C D¹ K L P Ψ 0278. 104. 365. 630. 1241. 1505. 1739ᶜ 𝔪 lat sy bo
+¦ txt A D* 048ᵛⁱᵈ. 6. 33. 81. 1739.*. 1881 vgᵐˢˢ sa boᵐˢˢ
+

@@ -97,8 +97,9 @@ logos-exports/
 **Filename: `NN-Book-VERSION.txt`** — `01-Genesis-BHS.txt`, `02-Jeremiah-LXX.txt`,
 `05-Acts-NA28-apparatus.txt`. The number is the book's position in its section,
 matching `hebrew-wlc/` exactly, including the a/b suffixes where a version splits
-a book the Hebrew canon counts as one (`03a-1-Samuel-NIV84.txt` beside
-`03-Samuel-BHS.txt`). Book first means every version of a book sits together and
+a book the Hebrew canon counts as one (the WLC's `03a-1-Samuel.txt` beside
+the export `03-Samuel-BHS.txt`; every Logos export and NIV84 file holds the
+whole book in one file). Book first means every version of a book sits together and
 the books stand in canonical order — which is the arrangement the work actually
 wants, since a dig opens four versions of one book rather than eleven books of one
 version.
@@ -220,12 +221,12 @@ case-sensitive search declared a good export missing.
 | Export | Chapter marker | Verse form |
 |---|---|---|
 | BHS | none — the chapter number prefixes verse 1 only (`1 1 <text>`) | bare number |
-| ESV | none — the first verse of each chapter carries `c:v` (`2:1`); only the book's very first reads `Ge 1:1` | bare number |
+| ESV | **two layouts.** Some files (Genesis, Isaiah and Jeremiah among them): the first verse of each chapter carries `c:v` (`2:1`), the book's very first reads `Ge 1:1`. The rest: the chapter number stands in place of verse 1 (`2 The LORD spoke…`), as in a printed Bible | bare number, followed by a no-break space |
 | NASB95 (prose) | `Chapter NN` — **title case** | bare number |
 | NASB95 Psalms | `PSALM N`, under `BOOK 1`–`BOOK 5` division headings | bare number |
-| LXX (Swete via Logos) | `CHAPTER NN` — **upper case** | bare number |
+| LXX (Rahlfs 1979 via Logos — *not* Swete) | `CHAPTER NN` — **upper case** | bare number |
 | NIV84 | none — every line is `c:v` + tab + text | `c:v` |
-| NA28 | none at all in the Acts export; verse numbers and apparatus sigla run inline | inline |
+| NA28 | none — the chapter number stands in place of verse 1, often with a leading `*` (`*5 Μετὰ ταῦτα`); verse numbers and apparatus sigla run inline | inline, followed by a no-break space |
 
 **Match case-insensitively, and confirm the marker in the file in front of you
 before scripting against it.** The split is by version, not by book: every
@@ -306,3 +307,124 @@ been verified against Swete's printed volumes; check before relying on it.
 | Proverbs, Hebrew vs Swete | 915 vs 902 — consistent with `proverbs-lxx-pluses-survey` |
 | Pointing, maqqef, paseq, sof pasuq | intact (Deut 6:4, Gen 1:1, Ruth 4:22 inspected) |
 | Chain-verification gate | reproduces the Exodus audit's *šākan* correction, exit status 1 |
+
+---
+
+## Audit of `logos-exports/`, 16 September 2026
+
+All 345 files were checked for names, encoding, edition stamps and verse coverage:
+BHS against WLC, NA28 against SBLGNT, and ESV and NASB95 against NIV84. The LXX files
+and both apparatus layers were checked for chapter coverage. A copy of every changed
+file, and of this README before the change, is in `_backup/logos-exports-2026-09-16/`.
+
+### Tidied
+
+- **Lemma tags removed: 4,991 of them, from 53 files.** A Logos visual filter had written
+  transliterated Hebrew lemmas into the text after the words they tag: `(erets)` ×3,022,
+  `(adam)` ×831, `(davar)` ×300, `(adama)`, `(shamar)`, `(mishphat)`, `(torah)`,
+  `(mitsvah)`, `(yachal)`, `(hoq)`, `(eduth)`, `(hevel)`, `(savar)`, `(chakah)` and
+  `(imrah)`. The affected files were ESV, NASB95, LXX and BHS files, *including the
+  Greek and the Hebrew*. The tags broke phrase searches. **Switch that filter off before
+  the next export.** The NIV84 footnote "man (adam)" at Gen 2:7 is genuine and stays.
+- **Non-scripture introductions removed** from ESV Exodus, Numbers, Deuteronomy and 2 Kings
+  (one "Introduction" heading and paragraph each).
+- **Renamed:** `02-Judges-NABS95` → `NASB95`; `11-Phiippians-*` → `11-Philippians-*` (×2);
+  `05-Romans-{ESV,NA28,NASB95}` → `06-Romans-*`; `06-1-Corinthians-NA28-apparatus` → `07-`;
+  `07-2-Corinthians-NA28-apparatus` → `08-`.
+- **`01-Matthew-NA28-apparatus.txt` → `01-Matthew-SBLGNT-apparatus.txt`.** Its colophon is
+  Holmes, *Apparatus for the Greek New Testament: SBL Edition* (2010), not NA28.
+- **Other mechanical fixes:** Genesis ESV converted from CRLF to LF line endings; John 1:7 in
+  the ESV had its verse number run into the text (`7He`), now separated; missing `CHAPTER`
+  headings added to Deuteronomy 6 and Joshua 1 in the LXX (the text was present); and 14
+  spurious `n:0 Psalm n` lines removed from the NIV84 Psalms, a leftover from the PDF
+  conversion.
+
+### Still to re-export from Logos (updated 16 September 2026, second pass)
+
+| File | Status |
+|---|---|
+| `03-Ketuvim/11-Chronicles-BHS.txt` | **Fixed.** Re-exported with both volumes; all 1,765 verses match the WLC |
+| `03-Ketuvim/09-Daniel-LXX.txt` | **Complete for the Old Greek only**, chapters 1–12 in Rahlfs' numbering (3:24–90 included; the OG's own gaps in chs 4–5 are genuine). **Theodotion is not in the file**, and neither are Susanna or Bel, which Rahlfs prints as separate books. If Theodotion is wanted, export it separately as `09-Daniel-LXX-Theodotion` |
+| `04-The-Twelve/08-Habakkuk-BHS-App.{rtf,pdf,txt}` | **Fixed.** Complete, Cp 1–3 (notes 1:3 to 3:19), checked against the rendered PDF pages. The `.txt` is converted from the **RTF** export; the old chapter-1-only text export is in `_backup/…/third-pass/` |
+| `02-New-Testament/01-Matthew-NA28-apparatus.txt` | **Fixed.** Decoded from three PDF parts (chs 1–10, 11–20, 21–28); every chapter, 1–28, is present |
+| `02-New-Testament/02-Mark-NA28-apparatus.txt` | **Fixed.** Decoded from two PDF parts (chs 1–8, 9–16); every chapter, 1–16, is present. The empty file is in the backup |
+
+The lemma-tag filter was **still on** for the second-pass exports: 2 tags in BHS Chronicles and 25 in LXX Daniel, all now removed.
+
+### PDF exports of the apparatus — the verdict
+
+**On the page, the PDF is faithful**: every superscript, 𝔓 with its number, 𝔐, italics, and even the pop-up notes (sigla and manuscript descriptions) printed beneath each block. **Its text layer is not**: the blackletter sigla are drawn from a Logos symbol font that plain text extraction reads as `"` `#` `$` `%` `&`, with the codes reassigned from page to page. The superscripts come out as ordinary digits, the ligatures `tt` and `Th` come out as `!` and `$`, and the Hebrew comes out in reverse visual order with the pointing detached.
+
+The NA28 PDFs can nonetheless be decoded reliably, because each symbol glyph has a fixed *width* (𝔓 0.819 em, 𝔐 0.915 em, 𝔊 0.779 em) and superscripts are set at 9 pt. `tools/logos_apparatus_pdf2txt.py` does this (it needs `pdfplumber`). Checked against the rendered pages at Matt 1:3–8 and Matt 13:55–14:3, it reproduced them character for character, italics aside. Matthew now has 109 papyrus sigla with their numbers and Mark 136; the plain-text exports had **none**.
+
+**RTF is better still — tested on Habakkuk, 16 September 2026.** The RTF export carries **true Unicode**: the sigla (𝔊 𝔖 𝔗 𝔔 𝔙) are stored as their proper characters, the Hebrew is in logical order with its pointing intact, superscripts are marked as superscripts, and the pop-up notes sit in separate footnote groups that are easy to drop. `tools/logos_rtf2txt.py` converts one to plain text with no guesswork, and needs no extra libraries. The converted Habakkuk apparatus matches the rendered pages. **Recommended route for any apparatus, BHS or NA28: export as RTF and convert it.** A PDF is then optional, for reading only. **Confirmed on six books (fourth pass): the BHS apparatus for Genesis–Deuteronomy and the NA28 apparatus for Galatians.**
+- **Complete:** every chapter is present.
+- **Nothing lost:** with superscripts set aside, every character of Hebrew, Greek and sigla is identical to the earlier plain-text exports.
+- **Everything the plain-text exports lost is back.** Genesis alone has 149 restorations (𝔗ᴶ, 𝔊ᴬ, Mss, Ken 69 …) and Deuteronomy 1,273. Galatians has all 94 papyrus numbers (𝔓⁴⁶, 𝔓⁵¹ᵛⁱᵈ).
+- **The Logos private-use character U+E91E is Ethiopic 𝔈** ("versio Aethiopica", confirmed in Logos at Exod 13:20 on 16 September 2026). All 38 instances across ten BHS apparatus files (the Torah, Kings, Isaiah, Ezekiel, Obadiah, Micah and Ezra–Nehemiah) are now replaced with 𝔈 (U+1D508), and `tools/logos_rtf2txt.py` makes the substitution automatically. No other private-use characters occur in `logos-exports/`.
+
+### Limits of the exports — not fixable by tidying
+
+- **The plain-text apparatus exports lose every superscript** (the PDF route above avoids this). None of the roughly 4,800 papyrus
+  sigla in the NA28 apparatus files keeps its number (`𝔓` where the edition prints
+  `𝔓⁶⁶`, `𝔓⁷⁵`), and version subscripts such as `vg^mss` and `sy^h` collapse too. The BHS
+  apparatus very probably suffers the same loss. **For any reading that turns on which
+  papyrus or which version, cite from Logos on screen, not from these files.** An export
+  to Word format may keep the superscripts; that is worth testing.
+- **The BHS text files carry the apparatus note letters inside the words**
+  (`בְּרֵאשִׁ֖יתa‬`, with an invisible U+202C directional character). Search the WLC
+  layer; use the BHS file to cite.
+- **The ESV is Crossway's 2025 US text**, not the ESV Anglicised. Check the pulpit wording
+  against the church's own edition.
+- **The LXX files use Rahlfs' versification and arrangement:** Exodus 35–40, Jeremiah and
+  Proverbs 24–31 are ordered differently, Kings is 3–4 Reigns, Lamentations lacks 3:22–24
+  and 3:29, and `10-Ezra-Nehemiah-LXX.txt` carries **Esdras A (1 Esdras) as well as
+  Esdras B**.
+- **The NA28 text includes John 7:53–8:11 and Romans 16:25–27, and omits Luke 17:36 and
+  Romans 16:24.** The ESV and NASB95 verse differences from NIV84 are the familiar
+  omitted and bracketed verses (Matt 12:47, 17:21, 18:11; Mark 7:16 …), not export faults.
+- **13 files carry no Logos citation or export stamp**, so their exact edition is
+  unrecorded. The text was checked and is complete in each: BHS Genesis, Jeremiah and
+  Psalms; ESV Genesis, Psalms, Isaiah and Jeremiah; NASB95 Genesis, Exodus, Numbers,
+  Deuteronomy and Psalms. (The empty Mark apparatus that was listed here has been replaced.) The NASB95 wording checked
+  confirms the 1995 edition ("formless and void", Gen 1:2).
+- Byte-order marks are present in some files and not others; this is harmless.
+
+### Sixth pass and final review — 17 September 2026
+
+**All 62 apparatus files (35 BHS, 27 NA28) now come from RTF exports**, converted with `tools/logos_rtf2txt.py`; the previous `.txt` versions are in `_backup/…/sixth-pass/`.
+
+**Checks run on every file:**
+- **Chapter coverage:** complete for every book.
+- **Content against the previous exports:** with superscripts set aside, the Hebrew, Greek and sigla are identical. The only differences are material the old exports had dropped: book titles; the Inscriptio of Matthew and John; and 𝔊^{ο´} and 𝔊^{θ´} (Old Greek and Theodotion) in Daniel.
+- **Superscripts:** restored throughout. Every papyrus siglum in the NA28 files now carries its number.
+
+**Faults found and handled:**
+- **TextEdit re-saves.** Ten RTFs were re-saved by TextEdit (Psalms, Ezra–Nehemiah and Chronicles in the BHS; Matthew–Acts, Ephesians and Revelation in the NA28). Their text is intact, but the Logos export stamp is gone, and TextEdit writes paragraph breaks differently. The converter now handles that.
+- **Revelation:** the RTF export omits the Inscriptio. It has been supplied from the earlier plain-text export and labelled as such.
+- **Misnamed files:** `17-Titus.rtf` and `18-Philemon.rtf` were renamed to the house pattern.
+- **Superscripts across paragraph breaks:** a superscript run that crossed a paragraph break (Mark 8:38/9:1) is fixed in the converter.
+
+**Whole-folder review (414 files: 346 `.txt`, 62 `.rtf`, 6 `.pdf`):**
+- **Completeness:** every one of the 62 books has every expected version.
+- **Clean:** every filename fits the house pattern. No lemma tags, private-use characters, replacement characters or CR line endings remain.
+- **Verse coverage:** unchanged from the first pass.
+- **LXX first verses:** each file's first verse matches the corresponding Swete book. Rahlfs' Esther additions are present as lettered verses (1:1a–s and so on).
+
+**Left as they are:**
+- **Logos quirk in Amos:** the BHS apparatus at Amos 1:11 note a reads `𝔖(𝔙) wnt\r`. That is in Logos's own data (the old export has it too). It is probably the Syriac `wnṭr`.
+- **Superseded PDFs:** the Matthew, Mark and Habakkuk apparatus PDFs are now superseded by their RTFs and can be kept or removed.
+- **Matthew SBLGNT apparatus:** `01-Matthew-SBLGNT-apparatus.txt` is a deliberate extra.
+- **Daniel LXX: now complete — Theodotion added, 17 September 2026.**
+  - **File:** `09-Daniel-LXX-Theodotion.{rtf,txt}`. Logos labels it the "alternative text"; the RTF was renamed. `09-Daniel-LXX.txt` is the Old Greek.
+  - **Content:** chapters 1–12, 423 verses in Rahlfs' numbering, including 3:24–90. Chapter by chapter it matches Swete's Theodotion on 87–94 % of vocabulary and his Old Greek on only 25–59 %.
+  - **Order:** in 3:52–90 some verses stand in a different order in Rahlfs; that is genuine.
+  - **Daniel 4:11–12: the files match Logos, but the two Greek texts look crossed.** Patrick confirmed on screen (17 September) that Logos itself has no Theodotion 4:11. Compared with Swete, whose numbering here runs three lower:
+    - **Theodotion file:** there is no verse 11. Verse 12 ends with "καὶ ἡ ὅρασις αὐτοῦ μεγάλη, ἡ κορυφὴ αὐτοῦ ἤγγιζεν…", which Swete gives as **Old Greek** 4:8.
+    - **Old Greek file:** 4:11 reads "ἐμεγαλύνθη τὸ δένδρον καὶ ἴσχυσεν…", which Swete gives as **Theodotion** 4:8.
+
+    This is either Rahlfs' own editorial arrangement or a fault in Logos's data; the files cannot tell which. **The files are left exactly as Logos has them.** Before any finding rests on Dan 4:11–12 in either Greek text, check a printed Rahlfs-Hanhart (or Göttingen), and report it to Faithlife if Logos is wrong.
+  - **A paste repaired, 17 September.** A paste of 5:10–13 had landed in chapter 4, replacing 4:10–13. Chapter 4 has been restored from the RTF. The misplaced version is kept as `_backup/…/sixth-pass/09-Daniel-LXX-Theodotion-with-misplaced-paste.txt`. Chapter 5 already had 5:10–13 complete.
+  - **Tags:** none; the highlighting filter is now off.
+- **Book titles and Inscriptio in the NA28 apparatus:** there is no Inscriptio for Romans (confirmed in Logos). Book titles are not needed, since the filename and header already name the book, so the letters need no re-export.
+

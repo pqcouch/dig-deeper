@@ -1321,7 +1321,7 @@ A Psalm of Complaint and of Praise.
                5      Into Your hand I commit my spirit; 
          You have ransomed me, O LORD, God of truth. 
 
-               6      I hate those who regard  vain idols (hevel), 
+               6      I hate those who regard  vain idols, 
          But I trust in the LORD. 
                7      I will rejoice and be glad in Your lovingkindness, 
          Because You have seen my affliction; 
@@ -1375,7 +1375,7 @@ A Psalm of Complaint and of Praise.
          The LORD preserves the faithful 
          And fully recompenses the proud doer. 
                24      Be strong and let your heart take courage, 
-         All you who hope (yachal) in the LORD. 
+         All you who hope in the LORD. 
 
 
 
@@ -1464,15 +1464,15 @@ Praise to the Creator and Preserver.
          Nor does it deliver anyone by its great strength. 
 
                18      Behold, the eye of the LORD is on those who fear Him, 
-         On those who hope (yachal) for His lovingkindness, 
+         On those who hope for His lovingkindness, 
                19      To deliver their soul from death 
          And to keep them alive in famine. 
-               20      Our soul waits (chakah) for the LORD; 
+               20      Our soul waits for the LORD; 
          He is our help and our shield. 
                21      For our heart rejoices in Him, 
          Because we trust in His holy name. 
                22      Let Your lovingkindness, O LORD, be upon us, 
-         According as we have hoped (yachal) in You. 
+         According as we have hoped in You. 
 
 
 
@@ -1795,7 +1795,7 @@ Prayer of a Suffering Penitent.
          And I am like a mute man who does not open his mouth. 
                14      Yes, I am like a man who does not hear, 
          And in whose mouth are no arguments. 
-               15      For I hope (yachal) in You, O LORD; 
+               15      For I hope in You, O LORD; 
          You will answer, O Lord my God. 
                16      For I said, “May they not rejoice over me, 
          Who, when my foot slips, would magnify themselves against me.” 
@@ -1837,10 +1837,10 @@ The Vanity of Life.
          Let me know how transient I am. 
                5      “Behold, You have made my days as handbreadths, 
          And my lifetime as nothing in Your sight; 
-         Surely every man  at his best is a mere breath (hevel). 
+         Surely every man  at his best is a mere breath. 
 Selah. 
                6      “Surely every man walks about as a phantom; 
-         Surely they make an uproar for nothing (hevel); 
+         Surely they make an uproar for nothing; 
          He amasses riches and does not know who will gather them. 
 
                7      “And now, Lord, for what do I wait? 
@@ -1853,7 +1853,7 @@ Selah.
          Because of the opposition of Your hand I am perishing. 
                11      “With reproofs You chasten a man for iniquity; 
          You consume as a moth what is precious to him; 
-         Surely every man  is a mere breath (hevel). 
+         Surely every man  is a mere breath. 
 Selah. 
 
                12      “Hear my prayer, O LORD, and give ear to my cry; 
@@ -1995,7 +1995,7 @@ Thirsting for God in Trouble and Exile.
 
                5      Why are you in despair, O my soul? 
          And why have you become disturbed within me? 
-         Hope (yachal) in God, for I shall again praise Him 
+         Hope in God, for I shall again praise Him 
          For the help of His presence. 
                6      O my God, my soul is in despair within me; 
          Therefore I remember You from the land  of the Jordan 
@@ -2012,7 +2012,7 @@ Thirsting for God in Trouble and Exile.
          While they say to me all day long, “Where is your God?” 
                11      Why are you in despair, O my soul? 
          And why have you become disturbed within me? 
-         Hope (yachal) in God, for I shall yet praise Him, 
+         Hope in God, for I shall yet praise Him, 
          The help of my countenance and my God. 
 
 
@@ -2037,7 +2037,7 @@ Prayer for Deliverance.
 
                5      Why are you in despair, O my soul? 
          And why are you disturbed within me? 
-         Hope (yachal) in God, for I shall again praise Him, 
+         Hope in God, for I shall again praise Him, 
          The help of my countenance and my God. 
 
 
@@ -2929,9 +2929,9 @@ Selah.
          God is a refuge for us. 
 Selah. 
 
-               9      Men of low degree  are only vanity (hevel) and men of rank are a lie; 
+               9      Men of low degree  are only vanity and men of rank are a lie; 
          In the balances they go up; 
-         They are together lighter than breath (hevel). 
+         They are together lighter than breath. 
                10      Do not trust in oppression 
          And do not vainly hope in robbery; 
          If riches increase, do not set your heart upon them. 
@@ -3271,7 +3271,7 @@ A Cry of Distress and Imprecation on Adversaries.
                2      I have sunk in deep mire, and there is no foothold; 
          I have come into deep waters, and a flood overflows me. 
                3      I am weary with my crying; my throat is parched; 
-         My eyes fail while I wait (yachal) for my God. 
+         My eyes fail while I wait for my God. 
                4      Those who hate me without a cause are more than the hairs of my head; 
          Those who would destroy me are powerful, being wrongfully my enemies; 
          What I did not steal, I then have to restore. 
@@ -3415,7 +3415,7 @@ Prayer of an Old Man for Deliverance.
          O my God, hasten to my help! 
                13      Let those who are adversaries of my soul be ashamed and consumed; 
          Let them be covered with reproach and dishonor, who seek to injure me. 
-               14      But as for me, I will hope (yachal) continually, 
+               14      But as for me, I will hope continually, 
          And will praise You yet more and more. 
                15      My mouth shall tell of Your righteousness 
          And of Your salvation all day long; 
@@ -3872,7 +3872,7 @@ God’s Guidance of His People in Spite of Their Unfaithfulness.
          And subdued the choice men of Israel. 
                32      In spite of all this they still sinned 
          And did not believe in His wonderful works. 
-               33      So He brought their days to an end in futility (hevel) 
+               33      So He brought their days to an end in futility 
          And their years in sudden terror. 
 
                34      When He killed them, then they sought Him, 
@@ -4167,7 +4167,7 @@ Selah.
                9      Deal with them as with Midian, 
          As with Sisera and Jabin at the torrent of Kishon, 
                10      Who were destroyed at En-dor, 
-         Who became as dung for the ground (adama). 
+         Who became as dung for the ground. 
                11      Make their nobles like Oreb and Zeeb 
          And all their princes like Zebah and Zalmunna, 
                12      Who said, “Let us possess for ourselves 
@@ -4733,7 +4733,7 @@ The LORD Implored to Avenge His People.
                10      He who chastens the nations, will He not rebuke, 
          Even He who teaches man  knowledge? 
                11      The LORD knows the thoughts of man , 
-         That they are a mere breath (hevel). 
+         That they are a mere breath. 
 
                12      Blessed is the man whom You chasten, O LORD, 
          And whom You teach out of Your law ; 
@@ -5201,7 +5201,7 @@ The LORD’S Care over All His Works.
                26      There the ships move along, 
          And Leviathan, which You have formed to sport in it. 
 
-               27      They all wait (savar) for You 
+               27      They all wait for You 
          To give them their food in due season. 
                28      You give to them, they gather it up; 
          You open Your hand, they are satisfied with good. 
@@ -5209,7 +5209,7 @@ The LORD’S Care over All His Works.
          You take away their spirit, they expire 
          And return to their dust. 
                30      You send forth Your Spirit, they are created; 
-         And You renew the face of the ground (adama). 
+         And You renew the face of the ground. 
 
                31      Let the glory of the LORD endure forever; 
          Let the LORD be glad in His works; 
@@ -5367,7 +5367,7 @@ Israel’s Rebelliousness and the LORD’S Deliverances.
          They sang His praise. 
 
                13      They quickly forgot His works; 
-         They did not wait (chakah) for His counsel, 
+         They did not wait for His counsel, 
                14      But craved intensely in the wilderness, 
          And tempted God in the desert. 
                15      So He gave them their request, 
@@ -6149,7 +6149,7 @@ Vav.
                42      So I will have an answer for  him who reproaches me, 
          For I trust in Your word . 
                43      And do not take the word  of truth utterly out of my mouth, 
-         For I wait (yachal) for Your ordinances . 
+         For I wait for Your ordinances . 
                44      So I will keep  Your law  continually, 
          Forever and ever. 
                45      And I will walk at liberty, 
@@ -6167,7 +6167,7 @@ Vav.
 Zayin.
 
                49      Remember the word  to Your servant, 
-         In which You have made me hope (yachal). 
+         In which You have made me hope. 
                50      This is my comfort in my affliction, 
          That Your word  has revived me. 
                51      The arrogant utterly deride me, 
@@ -6232,7 +6232,7 @@ Yodh.
                73      Your hands made me and fashioned me; 
          Give me understanding, that I may learn Your commandments . 
                74      May those who fear You see me and be glad, 
-         Because I wait (yachal) for Your word . 
+         Because I wait for Your word . 
                75      I know, O LORD, that Your judgments  are righteous, 
          And that in faithfulness You have afflicted me. 
                76      O may Your lovingkindness comfort me, 
@@ -6251,7 +6251,7 @@ Yodh.
 Kaph.
 
                81      My soul languishes for Your salvation; 
-         I wait (yachal) for Your word . 
+         I wait for Your word . 
                82      My eyes fail with longing for Your word , 
          While I say, “When will You comfort me?” 
                83      Though I have become like a wineskin in the smoke, 
@@ -6337,7 +6337,7 @@ Samekh.
                113      I hate those who are double-minded, 
          But I love Your law . 
                114      You are my hiding place and my shield; 
-         I wait (yachal) for Your word . 
+         I wait for Your word . 
                115      Depart from me, evildoers, 
          That I may observe the commandments  of my God. 
                116      Sustain me according to Your word , that I may live; 
@@ -6423,7 +6423,7 @@ Qoph.
                146      I cried to You; save me 
          And I shall keep  Your testimonies . 
                147      I rise before dawn and cry for help; 
-         I wait (yachal) for Your words . 
+         I wait for Your words . 
                148      My eyes anticipate the night watches, 
          That I may meditate on Your word . 
                149      Hear my voice according to Your lovingkindness; 
@@ -6470,7 +6470,7 @@ Shin.
          Because of Your righteous ordinances . 
                165      Those who love Your law  have great peace, 
          And nothing causes them to stumble. 
-               166      I hope (savar) for Your salvation, O LORD, 
+               166      I hope for Your salvation, O LORD, 
          And do Your commandments . 
                167      My soul keeps  Your testimonies , 
          And I love them exceedingly. 
@@ -6784,11 +6784,11 @@ Hope in the LORD’S Forgiving Love.
          That You may be feared. 
 
                5      I wait for the LORD, my soul does wait, 
-         And in His word  do I hope (yachal). 
+         And in His word  do I hope. 
                6      My soul waits for the Lord 
          More than the watchmen  for the morning; 
          Indeed, more than the watchmen  for the morning. 
-               7      O Israel, hope (yachal) in the LORD; 
+               7      O Israel, hope in the LORD; 
          For with the LORD there is lovingkindness, 
          And with Him is abundant redemption. 
                8      And He will redeem Israel 
@@ -6810,7 +6810,7 @@ Childlike Trust in the LORD.
                2      Surely I have composed and quieted my soul; 
          Like a weaned child rests against his mother, 
          My soul is like a weaned child within me. 
-               3      O Israel, hope (yachal) in the LORD 
+               3      O Israel, hope in the LORD 
          From this time forth and forever. 
 
 
@@ -7345,7 +7345,7 @@ Prayer for Rescue and Prosperity.
          Who subdues my people under me. 
                3      O LORD, what is man , that You take knowledge of him? 
          Or the son of man, that You think of him? 
-               4      Man  is like a mere breath (hevel); 
+               4      Man  is like a mere breath; 
          His days are like a passing shadow. 
 
                5      Bow Your heavens, O LORD, and come down; 
@@ -7416,7 +7416,7 @@ The LORD Extolled for His Goodness.
 
                14      The LORD sustains all who fall 
          And raises up all who are bowed down. 
-               15      The eyes of all look (savar) to You, 
+               15      The eyes of all look to You, 
          And You give them their food in due time. 
                16      You open Your hand 
          And satisfy the desire of every living thing. 
@@ -7499,7 +7499,7 @@ Praise for Jerusalem’s Restoration and Prosperity.
                10      He does not delight in the strength of the horse; 
          He does not take pleasure in the legs of a man. 
                11      The LORD favors those who fear Him, 
-         Those who wait (yachal) for His lovingkindness. 
+         Those who wait for His lovingkindness. 
 
                12      Praise the LORD, O Jerusalem! 
          Praise your God, O Zion! 

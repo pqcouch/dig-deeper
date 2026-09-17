@@ -1,0 +1,46 @@
+BHS APPARATUS — JOEL (complete)
+
+Converted 17 September 2026 from the Logos RTF export 02-Joel-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:48 16 September 2026.
+
+================================================================
+
+Joel
+Cp 1, 3 ^{a–a} prp add
+7 ^{a–a} prp חֲשָׂפָהּ חָשֹׂף וְהַשְׁלֵךְ
+13 ᵃ 𝔊 θεῷ
+14 ᵃ > 𝔊*
+15 ᵃ 𝔊*𝔙 ter 𝔖 bis || ᵇ sic L, mlt Mss Edd משּׁ׳
+17 ^{a–a} prb l הַתּוּ גָרְנֹתיהם || ᵇ prb l מְגֻרוֹת (מ dttg)
+18 ᵃ = נָשַׁמּוּ cf Vrs
+20 ᵃ prp בֶּהֱמַת, sed cf 2,22 || ᵇ frt l תערֹגְנָה
+Cp 2, 1 ^{a–a} 𝔖 cj c 2
+2 ᵃ prp כִּשְׁחֹר
+3 ^{a–a} add?
+5 ᵃ prb ins קוֹלָם
+7 ᵃ tr post ירצון?
+8 ^{a–a} crrp? prp יִבְקְעוּ et cj c בעיר 9 (cf 9ᵃ); tr לא ante יפלו?
+9 ᵃ tr ad fin 8 (cf 8^{a–a})? tunc scandendum ישׁקו בחומה, ירצון בבתים. יעלו בעד החלונים, יבאו כגגב.
+11 ᵃ exc vb?
+12 ᵃ sic L, mlt Mss Edd ובִב׳
+14 ᵃ exc vb?
+16 ^{a–a} et ^{b–b} var lect?
+17 ^{a–a} tr post ויאמרו?
+20 ^{a–a} prp ואת־הַצַּפְצְפוֹנִי || ᵇ 𝔊 καὶ ἀφανιῶ || ᶜ prp וְעָלְתָה || ᵈ prb ins יְהוָה
+23 ^{a–a} l אֶת־הַגֶּשֶׁם? || ᵇ 𝔊(𝔖) τὰ (> 𝔊ᴸ) βρώματα || ᶜ mlt Mss יורה || ᵈ prb l c Ms 𝔊𝔖𝔙 כָּראשׁון
+25 ^{a–a} prp שְׁנַ֔יִם את־
+26 ^{a–a} dl? cf 27ᵇ
+Cp 3, 5 ᵃ tr ad bγ? cf b || ᵇ prp ובירושׁלם שְׂרִידִים cf a
+Cp 4, 1 ᵃ > pc Mss, dl?
+3 ᵃ add?
+9 ^{a–a} prp גְּשׁוּ וַעֲלוּ cf 𝔊
+11 ᵃ crrp? prp עורו vel חושׁו || ^{b–b} prb l הִקָּבְצו שָׁמ֑ה || ^{c–c} crrp? nonn add hab, sed cf 𝔊 ὁ πραῢς ἔστω μαχητής; frt l יִהְיֶה גבור (mansuetus) וְהַנּוֹחַ et tr post 10ᵇ
+18 ᵃ nonn add חַיִּים
+19 ᵃ dl m cs? cf 𝔖; al dl שׁממה || ᵇ add?
+21 ^{a–a} add? || ᵇ 𝔊(𝔖) καὶ ἐκδικήσω (vel ἐκζητήσω), prb l וְנִקַּמְתִּי || ^{c–c} 𝔊(𝔖) καὶ οὐ μὴ ἀθῳώσω, frt l וְלאֹ־אֲנַקֶּה
+

@@ -1,0 +1,1087 @@
+BHS APPARATUS — SAMUEL (complete)
+
+Converted 17 September 2026 from the Logos RTF export 03-Samuel-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:44 16 September 2026.
+
+================================================================
+
+1 Samuel
+Cp 1, 1 ᵃ > Ms PesR 𝔊ᴹˢˢ cf Jdc 13,2 || ^{b–b} 𝔖 rmtʾ ddwqʾ (pl), 𝔗 (m)rmtʾ mtlmjdj nbjjʾ, 𝔊⁻ᴼ Αρμαθαιμ Σειφα cf 9,5 || ᶜ 𝔊⁻ᴼ Ιερεμε/ιηλ cf 1 Ch 2,25sqq
+2 ᵃ nonn Mss האחת cf Vrs
+4 ᵃ pc Mss PesR ולב׳
+5 ^{a–a} 𝔊 (𝔊ᴸ ad κατὰ πρόσωπον) …, πλὴν ὅτι cf 2 S 12,14 || ᵇ 2 Mss ad בעד cf 𝔊 et 6
+6 ᵃ 𝔖𝔗𝔙 verb
+7 ᵃ Ms כן cf 𝔊⁻ᴼ𝔏⁹³.⁹⁴ || ᵇ 𝔖 ʿbdʾ hwt pnnʾ || ᶜ 𝔊ᴹˢˢ ἀναβῆναι αὐτόν, 𝔙 ascenderent || ᵈ mlt Mss citt בית, 𝔊 εἰς …, 𝔖𝔗 l …, 𝔙 templum || ᵉ Ms וכן, 𝔊⁻ᴼᵖ καί, 𝔙 et sic
+9 ᵃ 𝔊⁻ᴼᵖ (μετὰ) τὸ φάγειν αὐτούς || ^{b–b} > 𝔊⁻ᴼᴸ; 𝔊 ad καὶ κατέστη ἐνώπιον κυρίου || ᶜ citt pl cf 𝔊𝔗ᴮᵘˣᵗ𝔙 || ᵈ Ms בית, 𝔖^{C} (d)bjth cf 3,3ᵃ
+10 ᵃ mlt Mss cit אל
+11 ᵃ pc Mss רא—, 𝔗 wmrwt ʾnš
+12 ᵃ mlt Mss citt אל
+13 ᵃ Ms אל cf Gn 24,45
+15 ᵃ pc Mss pr כי cf 𝔏⁹³.⁹⁴𝔙 sed etiam Gn 23,11 et cet || ^{b–b} 𝔊 ἡ (𝔊ᴹˢˢ ἐν) σκληρὰ ἡμέρα, 𝔏¹¹⁵ dura dies (𝔏⁹³.⁹⁴ dierum) cf Hi 30,25 aut vb רוח
+16 ^{a–a} 𝔖 qdmjk brt, 𝔙 quasi unam de filiabus, cf Hi 3,24 Hi 4,19
+17 ᵃ 𝔊𝔏¹¹⁵𝔖ᴰ𝔙 ad pron prs 2 sg dat || ᵇ mlt Mss Qᴹˢˢ שאל׳
+18 ᵃ > nonn Mss 𝔖 || ^{b–b} 𝔊 συνέπεσεν cf 𝔏⁹³.⁹⁴
+19 ᵃ 𝔊𝔏¹¹⁵𝔙 suff sg
+20 ᵃ nonn Mss cit לתק(ו)פת cf Vrs
+21 ᵃ 𝔊𝔏¹¹⁵.⁹³.⁹⁴ ad nonn vb
+22 ᵃ > pc Mss, sed cf 2 S 10,5; 𝔔 ad אשר || ^{b–b} 𝔔 alit et ad nonn vb (ex 1,11?)
+23 ᵃ 𝔔 ה היוצאֹ מפֹיך[ cf 𝔊𝔏⁹³.⁹⁴, 𝔖 mltkj
+24 ᵃ 𝔔 שילה cf 𝔊 𝔏¹¹⁵ || ^{b–b} 𝔔 בקר משלש ולחֹםֹ […, 𝔊 ἐν μόσχῳ τριετίζοντι καὶ ἄρτοις cf 𝔏⁹³.⁹⁴, 𝔖 btwrʾ twltʾ || ᶜ 𝔊 καὶ εἰσῆλθε/ον cf 𝔏¹¹⁵ || ᵈ 𝔊 μετʼ αὐτῶν (𝔊ᴼᵖ αὐτῆς) cf 𝔏¹¹⁵; 𝔊𝔏¹¹⁵.⁹⁴ ad mlt vb cf 𝔔 … אשר […] הֹזֹבֹ […
+27 ^{a–a} 𝔖𝔙 cj c 26 cf 𝔏¹¹⁵ ad et (oravi)
+ 28/Cp 2,1 ^{a–a} Ms חיה, Ms חי, 𝔊 ζῇ αὐτός, 𝔏¹¹⁵ vitae quibus vivit (𝔏⁹³.⁹⁴ vixerit [in] usum domino), 𝔖 (d)hw ḥj, 𝔗 (d)hwʾ qjjm || ^{b–b} > 𝔊ᴹˢˢ cf 𝔏¹¹⁵ || ᶜ pc Mss cit 𝔊ᴸ𝔖𝔙 pl || ᵈ 𝔔 ad ותשתחֹ] || ᵉ mlt Mss citt באלהי cf 𝔊 𝔏¹¹⁵𝔖^{AG corr} (> 𝔖ʳᵉˡ) 𝔙ᴹˢˢ
+2 ᵃ 𝔔 pr [י cf? 𝔊⁻ᴬ ὅτι et cf 𝔏 || ^{b–b} 𝔊⁻ᴬ tr in fin; > 𝔏¹¹⁵ || ᶜ 𝔊 δίκαιος cf 𝔏¹¹⁵
+3 ᵃ > pc Mss cf 𝔊ᴹˢˢ𝔏¹¹⁵𝔖 || ᵇ Ms pr עשק cf 𝔖 ṭlwmjʾ et Ps 119,134; 𝔏¹¹⁵ magnum (𝔏⁹³.⁹⁴ malignum) verbum; 𝔙 vetera || ᶜ 𝔔 דעת cf 𝔊ᴹˢˢ𝔏⁹³.⁹⁴ || ᵈ mlt Mss ut 𝔔 cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴𝔙, et e || ᵉ 𝔊ᴹˢˢ ad αὐτοῦ, 𝔏¹¹⁵ ad (inventiones [𝔏⁹³.⁹⁴ inquisitiones]) suas (𝔏⁹⁴ eius), 𝔖 ad qdmwhj ex Q?
+4 ᵃ 𝔔 cit חתה, 𝔊 ἠσθένησεν cf 𝔏¹¹⁵, sed etiam 10; 2 S 22,35
+5 ^{a–a} 𝔊 παρῆκαν γῆν, 𝔏¹¹⁵ transierunt (𝔏⁹³.⁹⁴ habitaverunt) terram (חלדו עד?)
+8 ᵃ „mlt Mss” (de Rossi) ומ׳ cf 𝔊𝔏¹¹⁵ᵀᴱ𝔖𝔗ᴹˢ𝔙 || ᵇ pc Mss citt בי—; 𝔊ᴹˢˢ𝔏⁹³.⁹⁴ᵀᴱ𝔖 ad suff 3 sg, 𝔗 ad suff 3 pl || ^{c–c} 𝔊𝔏¹¹⁵.⁹³.⁹⁴ alit; 𝔔 נתן[ ]ודרךֹ[ ] עליהם[ ]ויברך[ ]נדֹ
+9 ^{a–a} 𝔊𝔏⁹³.⁹⁴ alit || ᵇ mlt Mss ut Q cf 𝔖𝔗𝔙
+10 ᵃ 𝔖𝔗 sg; 𝔊𝔏¹¹⁵.⁹³.⁹⁴ alit, vb sim sg || ᵇ mlt Mss ut Q cf 𝔖𝔙 || ᶜ 𝔊𝔏¹¹⁵.⁹³.⁹⁴ ad permlt vb partim ex Jer 9,22sq || ᵈ mlt Mss ut Q; 2 Mss ועל(י)ו cf 𝔖 wʿljhwn, 𝔗 ʿljhwn, 𝔙 et super ipsos || ᵉ 𝔔 pr cop cf 𝔊
+11 ᵃ mlt Mss אל, Ms ל׳ cf 10,26
+13 ᵃ nonn Mss מאת cf 𝔊𝔏¹¹⁵𝔖𝔗 et Dt 18,3
+14 ᵃ 𝔊ᴸᴹˢˢ𝔏⁹⁴𝔖𝔙 pr cop || ᵇ 𝔊𝔏¹¹⁵.⁹³.⁹⁴𝔖𝔗𝔙 pron prs 3 sg dat || ᶜ pc Mss יעשה (qal sive ni) || ᵈ Ms שמה, 𝔊 θῦσαι (τῷ) κυρίῳ cf 𝔏¹¹⁵, 𝔖 ltmn, 𝔗 ldbḥʾ tmn; > 𝔙
+15 ᵃ cit 𝔊𝔏¹¹⁵𝔖𝔙 1 sg
+16 ᵃ 𝔔 מכול אשר cf 𝔊 || ᵇ mlt Mss 𝔔 ut Q cf 𝔊𝔙 || ^{c–c} pc Mss om ו; 𝔔 om אם־לא || ᵈ 𝔔 ad mlt vb cf 2,13.14
+17 ᵃ > Ms 𝔔𝔊
+18 ᵃ 𝔔 חוגר cf 1 R 20,11 2 R 3,21
+20 ᵃ 𝔔 לאמר ישלם cf 𝔊 λέγων ἀποτῖσαι, 𝔙 dixitque (𝔙ᴹˢ dicens) reddat et Ex 21,36 || ᵇ 𝔔 השאיל]ה, 𝔊 ἐχρῆσας, 𝔖 d(ʾ)šʾlt(j), 𝔙 commodasti || ᶜ 𝔔 וילך האיש cf 𝔊 || ᵈ nonn Mss למק(ו)מם cf 𝔖𝔗ᴹˢˢ
+21 ^{a–a} 𝔔 ויפקד cf 𝔊; 𝔖 w(mrjʾ) pqd || ^{b–b} 𝔔 ותלד עוד cf 𝔊⁻ᴼᴸ || ᶜ > 𝔔 || ᵈ pc Mss את, 𝔔 לפני cf 𝔊𝔖𝔗
+22 ᵃ 𝔔 ad בן תשעים שנה cf 4,15 || ᵇ > 2 Mss citt 𝔊ᴹˢˢ || ᶜ 𝔔 לבני cf 𝔊 || ^{d–d} > 𝔔 𝔊ᴹˢˢ, sed cf Ex 38,8
+23 ᵃ pc Mss אלהם || ^{b–b} > 𝔊ᴼᴸᴹˢˢ || ᶜ 𝔊 κυρίου (τούτου); > 𝔙
+24 ᵃ 2 Mss מעבדים (אתם), 𝔊 τοῦ μὴ δουλεύειν cf 𝔏⁹³.⁹⁴
+25 ᵃ 𝔊 καὶ προσεύξονται ὑπὲρ / περὶ αὐτοῦ, 𝔏⁹⁴ orabunt (𝔏⁹³ stabunt) pro eo
+27 ᵃ 𝔊𝔖𝔗⁻ᴹˢ om particulam interrogativam || ^{b–b} 2 Mss citt לבית || ᶜ 𝔔 ad עבדים, 𝔊 ὄντων αὐτῶν … δούλων, 𝔗ᶠ mštʿbdjn (𝔗ʳᵉˡ wmšʿbdjn)
+28 ᵃ citt 𝔊𝔖𝔗^{-ed princ}𝔙 1 sg impf || ᵇ > 𝔔𝔊⁻ᴼᴸᴹˢˢ; 𝔗 pr lšmšʾ || ᶜ 𝔊 ad εἰς βρῶσιν cf Dt 18,1
+29 ᵃ 𝔔𝔊 sg || ᵇ 𝔊𝔏⁹³.⁹⁴ a ברך; 𝔗 3 m pl || ᶜ 𝔔 pl || ᵈ 𝔊 ἔμπροσθέν μου cf 𝔏⁹³.⁹⁴
+31 ᵃ pc Mss ad נאם יהוה cf 𝔖 || ^{b–b} > 𝔊⁻ᴼ⁽ᴸ⁾
+32 ^{a–a} > 𝔊⁻ᴼ⁽ᴸ⁾ || ᵇ 𝔔 ad לך, 𝔊 ad σου || ᶜ 𝔔𝔊 suff 1 sg
+33 ᵃ 𝔔𝔊𝔏⁹³.⁹⁴ suff 3 sg || ᵇ 𝔔 ad בחרב, 𝔊 ad ἐν ῥομφαίᾳ
+35 ᵃ 2 Mss cit אשר cf 𝔊𝔙 || ᵇ pc Mss cit כל׳ cf 𝔖(𝔙) … wʾjk dblbj, 𝔗 (d)kmjmrj || ᶜ pc Mss וכנ׳ cf 𝔖𝔗𝔙 || ᵈ 2–3 Mss לי cf 𝔊ᴹˢ || ᵉ sic L, mlt Mss Edd וְהִתְ׳
+Cp 3, 2 ᵃ mlt Mss ut Q cf Vrs || ᵇ nonn Mss ולא cf 𝔊𝔏⁹⁴𝔖𝔗ᴹˢˢ𝔙 || ᶜ Ms יוכלו cf 𝔊ᴹˢˢ𝔙ᴹˢ
+3 ᵃ Ms בבית cf 𝔊ᴹˢˢ et 1,9ᵈ || ᵇ > 𝔊ᴸᴹˢˢ
+5 ᵃ Ms cit ins בני cf 𝔏⁹³.⁹⁴𝔖^{C} ex 6 || ᵇ Mss om interv
+6 ^{a–a} > 2 Mss cf 𝔊ᴹˢˢ
+9 ᵃ pc Mss citt כי cf 𝔗ᴹˢ
+13 ᵃ Tiq soph אלהים cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴; לו cf Ginsburg
+14 ᵃ pc Mss citt ומנחה cf 𝔊ᴹˢˢ 𝔏¹¹⁵
+15 ᵃ 𝔊 ad καὶ ὤρθρισεν τὸ πρωΐ cf 𝔏¹¹⁵ et 1,19
+16 ᵃ mlt Mss אל cf 𝔗ᴹˢˢ || ᵇ 𝔏¹¹⁵ ad hic sum
+18 ᵃ pc Mss cit ad האלה cf 𝔊ᴹˢ || ᵇ > pc Mss || ᶜ mlt Mss Mss^{Q} ניו— cf Vrs
+21 ᵃ 𝔊𝔏¹¹⁵.⁹³.⁹⁴ ad mlt vb || ᵇ > 𝔊𝔏¹¹⁵ || ^{c–c} mlt Mss כד׳ י׳ cf 𝔗ᵉᵈᵈ𝔙; > 𝔊𝔏¹¹⁵
+Cp 4, 1 ^{a–a} 𝔊𝔏¹¹⁵ alit cf 3,21ᵃ || ᵇ mlt Mss interv
+2 ᵃ 𝔊𝔏¹¹⁵𝔖𝔙 verb pass
+3 ᵃ 𝔏¹¹⁵.⁹⁴ presbyteris || ^{b–b} 𝔊⁻ᴼᴸᴹˢˢ (κιβωτὸν) τοῦ θεοῦ cf 𝔏¹¹⁵ || ᶜ nonn Mss איבנו
+4 ^{a–a} 𝔊⁻ᴼᴸᴹˢˢ κιβωτὸν (τοῦ) κυρίου cf 𝔏¹¹⁵ || ᵇ 𝔊𝔏¹¹⁵𝔙 om שם || ᶜ > 2 Mss cf 𝔊⁻ᴼᴸᴹˢˢ 𝔏¹¹⁵ || ᵈ 2 Mss יהוה cf 𝔊ᴹˢˢ𝔖𝔗𝔙ᴹˢˢ; Ms יהוה האל; > 𝔊⁻ᴸᴹˢˢ
+5 ᵃ pc Mss בבא || ᵇ > Ms cf 𝔊⁻ᴸᴹˢˢ𝔏¹¹⁵
+6 ᵃ > 2 Mss cf 𝔖
+7 ^{a–a} 𝔊 καὶ εἶπον οὗτοι οἱ θεοὶ ἥκασιν (𝔊ᴸ οὗτος ὁ θεὸς αὐτῶν ἥκει) πρὸς αὐτούς cf 𝔏¹¹⁵ || ᵇ 𝔊 ad ἐξέλου ἡμᾶς κύριε cf 𝔏¹¹⁵ ex 8
+8 ᵃ 𝔊 pr cop
+10 ᵃ pc Mss לאהלו cf 𝔊𝔏¹¹⁵𝔖𝔙 || ᵇ Ms ויפלו cf 𝔊⁻ᴹˢˢ𝔏¹¹⁵𝔖𝔗ᴹˢˢ𝔙
+13 ᵃ 𝔏¹¹⁵ ad suam || ᵇ mlt Mss ut Q cf 𝔊𝔏¹¹⁵𝔖𝔗; 𝔙 contra (viam aspectans) cf 𝔊𝔏¹¹⁵ et 18^{b–b}
+15 ᵃ nonn Mss נו— (Ms^{Q} עיניו) || ᵇ Qᴼʳ קמו cf 𝔊𝔏¹¹⁵ σ´𝔗𝔙 et 1 R 14,4 || ᶜ pc Mss יוכל || ᵈ 𝔊 𝔏¹¹⁵ ad mlt vb
+16 ^{a–a} 𝔊𝔏¹¹⁵ alit cf 14 || ᵇ 𝔊 παρεμβολῆς, 𝔏¹¹⁵ castris
+17 ᵃ nonn Mss Mišna Soṭa 8,6 citt מפני cf 𝔊𝔏¹¹⁵𝔖𝔗⁻ᵉᵈᵈ || ^{b–b} > 𝔊⁻ᴼᴹˢˢ𝔏¹¹⁵
+18 ᵃ nonn Mss citt בה׳ cf 𝔗^{ed princ} || ^{b–b} cit על יד, 𝔊 ἐχόμενος (—α), 𝔏¹¹⁵ contra, 𝔖 ʿl jd, 𝔗 ʿl kjbš ʾwrḥ cf 13ᵇ, 𝔏⁹³.⁹⁴𝔙 iuxta || ᶜ 𝔊⁻ᴹˢˢ𝔏⁹³.⁹⁴ 20
+19 ᵃ Gn R 82,8 ללדת
+20 ᵃ mlt Mss וב׳ cf 𝔊σ´𝔖𝔗^{ed princ}𝔙 || ᵇ pc Mss cit pr על cf 𝔗ᴹˢˢ, Ms pr אל cf Hi 7,17 sed etiam Ps 62,11 Prv 24,32
+21 ᵃ pc Mss ואל מ(ו)ת, nonn Mss ומת cf 𝔗
+Cp 5, 3 ᵃ > 𝔊ᴹˢˢ; 𝔊 ad nonn vb || ᵇ 𝔊 ἐπὶ πρόσωπον, 𝔖𝔗 ʿlʾpwhj cf 17,49 || ᶜ 𝔊 καὶ ἤγειραν, 𝔖 wʾtqnwhj || ᵈ 𝔊⁻ᴸ𝔏⁹³.⁹⁴ ad mlt vb
+4 ᵃ > 𝔊ᴹˢˢ || ᵇ ut 3ᵇ, 𝔙 ad super faciem || ᶜ pc Mss citt על cf 𝔖𝔗? || ᵈ 𝔊 pr ἡ ῥάχις cf 𝔏⁹³.⁹⁴ 𝔖; 𝔗 gwpjh (𝔗^{ed princ.Qimḥi} ad ddgwn); 𝔙 dagon truncus
+5 ᵃ 𝔊⁻ᴹˢ ad nonn vb
+6 ᵃ nonn Mss citt על cf Ps 32,4 || ᵇ α´θ´ ἐφαγεδαίνησεν cf 7,10ᵃ המם || ^{c–c} 𝔊𝔏⁹¹.⁹³.⁹⁴ alit partim ex 6,4 || ᵈ nonn Mss ut Q cf 𝔖𝔗𝔙
+8 ^{a–a} 𝔊 καὶ λέγουσιν οἱ Γεθθαῖοι Μετελθέτω (… πρὸς ἡμᾶς), 𝔙 responderuntque Getthei Circumducatur, 𝔖 wʾmrw lgt thpwk, 𝔗 wʾmrw lgt jstḥr
+9 ᵃ 𝔔 גתה, 𝔊ᴸ τὴν κιβωτὸν πρὸς τοὺς Γεθθαίους || ᵇ Ms בעם, 𝔙 per singulas civitates || ᶜ pc Mss ut Q cf 𝔖𝔗, σ´ κατὰ τῶν κρυπτῶν, 𝔙 prominentes extales; 𝔊 εἰς τὰς ἕδρας αὐτῶν (ad nonn vb) cf 𝔏⁹¹.⁹³.⁹⁴, α´ αἱ ἕδραι
+10 ᵃ 𝔔 אלוהי ישראֹ]ל, 𝔊ᴸ θεοῦ Ισραηλ || ^{b–b} > nonn Mss cf 𝔊ᴹˢˢ𝔖𝔗ᴹˢˢ𝔙ᴹˢˢ || ᶜ 𝔔𝔊 pr למה || ᵈ Vrs suff 1 pl (𝔗ᴹˢˢ lwtj), 2 Mss תנו—
+11 ᵃ 𝔊𝔖𝔙 suff 1 pl || ᵇ 𝔔 יהו]
+12 ᵃ pc Mss ut Q cf 𝔖𝔗𝔙, 𝔊 ἕδρας || ᵇ nonn Mss ימה—
+Cp 6, 1 ᵃ 𝔊𝔏⁹¹.⁹³.⁹⁴ ad nonn vb
+2 ᵃ 𝔔 אל מ׳
+3 ᵃ pc Mss cit ad אתם cf 𝔊𝔖𝔗ᴹˢˢ || ᵇ 𝔔𝔊 ad בריתֹ יהוה
+4 ᵃ pc Mss ut Q cf 𝔖𝔗𝔙, 𝔊 ἕδρας, 𝔏¹¹⁵ nates, 𝔏⁹³ sedes || ^{b–b} > 𝔔𝔊⁻ᴼᴹˢˢ𝔏¹¹⁵ cf 5^{a–a} || ᶜ nonn Mss לכלכם, 𝔊(𝔏¹¹⁵ [pr cop]𝔖) ὑμῖν, 𝔙(𝔗⁻ᶠ ad šwjʾ) omnibus vobis
+5 ^{a–a} 𝔊 καὶ μῦς χρυσοῦς ὁμοίωμα (𝔊ᴹˢˢ ad τῶν ἑδρῶν ὑμῖν καὶ) τῶν μυῶν ὑμῶν, 𝔊ᴸ (𝔏⁹³.⁹⁴ om ὑμῶν) καὶ πέντε μύας χρυσοῦς ποιήσατε ὁμοίωμα τῶν μυῶν ὑμῶν, 𝔏¹¹⁵ set et mures aureos similes muribus … || ᵇ Ms עפלים; nonn Mss ut Q cf 𝔊ᴹˢˢ𝔖𝔗𝔙 et a–a || ᶜ 𝔔 העכברים || ^{d–d} 𝔊⁻ᴹˢˢ τῷ κυρίῳ cf 𝔏¹¹⁵
+6 ᵃ 2 Mss citt התעולל cf Ps 141,4
+8 ᵃ > 𝔊ᴹˢˢ𝔏¹¹⁵ || ᵇ pc Mss citt pr כל
+9 ᵃ nonn Mss pr כל
+11 ᵃ > 𝔊ᴹˢˢ𝔏¹¹⁵; 𝔙 Dei || ^{b–b} > 𝔊⁻ᴼᴹˢˢ𝔏¹¹⁵ || ᶜ mlt Mss עפליהם cf Q 5,6 et cet
+12 ᵃ sic L, mlt Mss Edd וַיִּ׳ || ᵇ nonn Mss citt עה—
+13 ᵃ 𝔊⁻ᴸ εἰς ἀπάντησιν αὐτῆς cf 𝔏¹¹⁵, 𝔊ᴸ καὶ ἐπορεύθησαν cf Jdc 19,3
+15 ᵃ mlt Mss על cf 𝔊𝔏¹¹⁵
+17 ᵃ pc Mss עפלי cf Q 5,6 et cet
+18 ᵃ pc Mss אבן cf 𝔊𝔏⁹³.⁹⁴𝔗
+19 ᵃ 𝔊 καὶ οὐκ ἠσμένισαν (οἱ) υἱοὶ Ιεχονιου, 𝔏⁹³.⁹⁴ et non substinuerunt filii Jechoniae || ᵇ 𝔖 (d) dḥlw || ᶜ 2 Mss בהם cf 𝔊 || ^{d–d} > pc Mss || ᵉ nonn Mss citt וח׳ cf 𝔊𝔖𝔙 || ᶠ sic L, mlt Mss Edd ׃
+20 ᵃ 𝔊⁻ᴸ διελθεῖν || ᵇ Mss om interv
+21 ᵃ pc Mss וה׳ cf 𝔊𝔗ᴹˢ𝔙
+Cp 7, 1 ᵃ mlt Mss 𝔖𝔗^{f edd} pr אשר || ^{b–b} 𝔊ᴸ ἡγίασεν τὸν υἱὸν αὐτοῦ Ελεαζαρ, 𝔖 wqdš lʾljʿzr brh
+2 ᵃ 𝔊⁻ᴸ καὶ ἐπέβλεψε/αν, 𝔊ᴸ καὶ ἐπέστρεψεν, 𝔏⁹³.⁹⁴ et respexit … ire … in pace cf Dt 31,18, 𝔗 wʾtnhjʾw, 𝔙 et requievit
+3 ᵃ 𝔊 καὶ τὰ ἄλση cf 𝔏⁹³.⁹⁴ et Dt 12,3 sed etiam 4; 12,10
+5 ᵃ Ms בעדם
+6 ᵃ 2 Mss ויתק׳ cf 7 || ᵇ 𝔊 ad ἐπὶ τὴν γῆν cf 𝔏⁹³.⁹⁴ || ᶜ > 2 Mss 𝔊𝔏⁹³.⁹⁴𝔖^{Jac edess}; 𝔖 mṭl d…, 𝔙 tibi (ibi?)
+8 ᵃ 𝔊 θεόν σου (𝔊ᴸ ad ὑπὲρ ἡμῶν) cf 𝔏⁹³.⁹⁴
+9 ᵃ nonn Mss ut Q cf Vrs
+12 ᵃ 𝔊 τῆς παλαιᾶς, 𝔏⁹³.⁹⁴ (novae et) veteris, 𝔖 jšn || ᵇ Ms ני— cf 𝔖ᴬ, 𝔊ᴸ (λίθος τοῦ βοηθοῦ) μου
+16 ᵃ 𝔊 ἐν cf 𝔏⁹³.⁹⁴𝔙; cit ואת cf 𝔖 || ᵇ 𝔊 τοῖς ἡγιασμένοις cf 𝔏⁹³.⁹⁴
+Cp 8, 1 ᵃ pc Mss citt כי
+3 ᵃ mlt Mss ut Q cf 𝔖𝔗𝔙
+5 ᵃ nonn Mss citt וע׳ cf 𝔊𝔗ᶠ
+8 ᵃ 𝔊 ad μοι || ᵇ 2 Mss מארץ מצ׳ cf 𝔊ᴹˢ𝔖 et 2 S 7,6ᵃ || ᶜ 2 Mss עד cf 𝔊⁻ᴸᴹˢˢ𝔗ᶠ
+12 ᵃ 𝔊 100, 𝔖 (1000 …) 100 (… 50 … 10 …) cf Dt 1,15
+16 ᵃ 𝔊 βουκόλια ὑμῶν || ᵇ 𝔔 ועשו; 𝔊 καὶ ἀποδεκατώσει cf 15.17
+17 ᵃ 𝔔𝔊⁻ᴹˢ𝔖𝔙ᴹˢˢ pr cop
+18 ᵃ 𝔊 ad nonn vb
+19 ᵃ nonn Mss לו, 𝔊 αὐτῷ οὐχί, 𝔖 lh lʾ hknʾ || ᵇ pc Mss citt ימלך
+22 ᵃ 2 Mss עלהם cf 12,1
+Cp 9, 1 ᵃ nonn Mss ad אחד cf 𝔖𝔗ᴹˢˢ et 1,1 || ^{b–b} pc Mss ut Q cf Vrs; 𝔊 pr (ἐξ) υἱῶν cf 𝔏¹¹⁶ || ᶜ > 𝔊ᴸ𝔖 || ᵈ 𝔖 (mn) bnjmjn, 𝔗 (mšbṭʾ dbjt) bnjm(j)n
+3 ᵃ 𝔊ᴸᴹˢˢ𝔖 ad mlt vb
+4 ᵃ 𝔊⁻ᴹˢ𝔏¹¹⁶𝔖^{C}𝔙 pl || ᵇ Ms 𝔊⁻ᴹˢ𝔏¹¹⁶𝔙 pl || ᶜ pc Mss 𝔖ᴬᴮ 𝔗ᴮᵘˣᵗ sg || ᵈ 2 Mss 𝔊𝔏¹¹⁶𝔖^{C}𝔗ᴹˢˢ𝔙 pl
+5 ᵃ 𝔊⁻ᴸᴹˢˢ𝔏¹¹⁶ om ארץ
+6 ᵃ pc Mss 𝔊𝔏¹¹⁶ 𝔗ᴹˢ וע׳
+7 ᵃ pc Mss ה׳ cf 𝔊ᴹˢˢ𝔖 || ᵇ 2 Mss 𝔗ᴹˢˢ ומה
+8 ᵃ 𝔊⁻ᴹˢ 2 sg, 𝔊ᴹˢ𝔖𝔗ᴹˢˢ𝔙 1 pl
+9 ᵃ pc Mss אל || ᵇ 𝔊 ἐκάλει ὁ λαός
+10 ᵃ mlt Mss ונ׳ cf 𝔊⁻ᴹˢˢ
+11 ᵃ Ms citt 𝔖 (wʾmr [lhjn šʾwl]) 𝔗ᴹˢˢ sg
+12 ᵃ 𝔊 κατὰ πρόσωπον ὑμῶν || ᵇ > Ms 𝔊⁻ᴼᴸᴹˢˢ || ^{c–c} 𝔊 διὰ τὴν ἡμέραν cf 13
+13 ᵃ nonn Mss citt בב׳ cf 𝔗ᴹˢˢ || ᵇ mlt Mss וא׳ cf 𝔊𝔏⁹³.⁹⁴𝔖𝔗ᴹˢ𝔙; pc Mss ואחר || ᶜ 2 Mss ע׳ || ᵈ > cit 𝔊𝔖𝔙
+16 ᵃ 𝔊 ad τὴν ταπείνωσιν; 𝔗 (glj qdmj) dḥqʾ (d…)
+18 ᵃ pc Mss citt אל cf 𝔊 sed etiam Nu 4,19 et 30,21
+19 ᵃ pc Mss cit אל
+20 ᵃ pc Mss י׳ cf 30,12 || ᵇ > 𝔊𝔙? || ᶜ 𝔊⁻ᴼᴹˢˢ𝔖 om כל
+21 ᵃ 𝔖𝔗 bnjmjn || ^{b–b} Ms מ׳ שבט, 𝔊 τοῦ μικρ(οτέρ)ου σκήπτρου φυλῆς (𝔊ᴸ ἐκ τῶν φυλῶν), 𝔖(𝔏¹¹⁵𝔙) mn zʿwrʾ (sg) dšbṭʾ (pl) || ᶜ > 𝔊 || ᵈ 𝔊𝔏¹¹⁵𝔖𝔗ᴱᵈᵈ𝔙 sg; 𝔏⁹³.⁹⁴ minima post (𝔏⁹³ prae) omnibus civitatibus || ᵉ 𝔊ᴹˢˢ𝔖𝔙 om כ
+22 ᵃ 𝔊𝔏⁹³.⁹⁴ 70
+24 ᵃ 𝔊⁻ᴸᴹˢˢ καὶ ἥψησεν || ᵇ 𝔔 [ליהו…; > 𝔊ᴼᴸᴹˢˢ𝔏¹¹⁵𝔙 || ᶜ 𝔊 εἰς μαρτύρτον cf 𝔏¹¹⁵.⁹³.⁹⁴·ᵍˡ, σ´ ἐπιτηδές, 𝔙 de industria || ᵈ 𝔔 ש[ים, 𝔊 τέθειται || ^{e–e} 𝔊 παρὰ τοὺς ἄλλους (𝔊ᴸᴹˢˢ τοῦ λαοῦ) ἀπόκνιζε, σ´ τόδε παρὰ τοῦ λαοῦ …, θ´ ὅτι ἐλέχθη τὸν λαὸν ἐκάλεσα, 𝔏¹¹⁵ a populo carpe, 𝔏⁹³.⁹⁴ propter caeteros manduca, 𝔙 quando (populum vocavi); > 𝔖; 𝔗 ad lšjrwtʾ
+25 ᵃ 𝔊𝔏¹¹⁵.⁹³.⁹⁴𝔖^{-C} sg || ᵇ 𝔊 καὶ (δι) έστρωσαν (τῷ), 𝔏¹¹⁵ et deduxit (Saul in domo et stra[vi]t ei), 𝔏⁹¹.⁹³.⁹⁴ et straverunt (S.in d.)
+26 ᵃ 𝔊𝔏¹¹⁵.⁹³.⁹⁴ sg || ᵇ nonn Mss בע׳, sed cf Jos 6,15 || ᶜ mlt Mss ut Q cf Vrs || ^{d–d} 𝔊𝔏¹¹⁵ sg (om שׁ׳)
+27 ᵃ > 𝔊⁻ᴼ𝔏¹¹⁵𝔖
+Cp 10, 1 ᵃ sic L || ᵇ 𝔊𝔏¹¹⁵ ad mlt vb
+2 ᵃ pc Mss בצלצל, 𝔊⁻ᴸ (ἐν Σηλω ἐν Βακαλαθ) ἁλλομένους μεγάλα, 𝔊ᴸ μεσημβρίας ἁλλ. μεγ, 𝔏¹¹⁵ (in selom in bac[h]allat) salientem magna stadina (𝔏⁹¹.⁹³.⁹⁴ salientes magnas fossas), 𝔙 in meridie || ᵇ 2 Mss cit דבר cf Vrs
+3 ᵃ 𝔊ᴸ τῆς ἐκλεκτῆς, 𝔏¹¹⁵.⁹³.⁹⁴ glandis electae || ᵇ cit צאת— cf 𝔊𝔏¹¹⁵, 𝔖 mškḥ ʾnt || ᶜ 𝔊 ἀγγεῖα cf 𝔏¹¹⁵ et 9,7
+4 ᵃ 𝔔 ad תנ[ופות ut 𝔊 ad ἀπαρχάς cf 𝔏¹¹⁵.⁹³.⁹⁴, 𝔗 ad grjṣn
+5 ᵃ pc Mss וא׳ cf 𝔊𝔏¹¹⁵𝔖 || ᵇ pc Mss ad אל || ᶜ 𝔊𝔏¹¹⁵𝔖𝔙 sg cf 13,3
+6 ᵃ pc Mss citt באת—
+7 ᵃ mlt Mss ut Q || ᵇ pc Mss cit pr כל cf 𝔙 et 9 || ᶜ 𝔊 πάντα cf 𝔏¹¹⁵ || ᵈ pc Mss כאשר cf 𝔗ᴹˢ
+8 ᵃ pc Mss ול׳ cf 𝔊𝔗ᴹˢˢ𝔙
+9 ᵃ 2 Mss citt ויהי || ᵇ > Ms 𝔊⁻ᴸᴹˢˢ
+10 ᵃ 2 Mss 𝔊𝔖 sg || ᵇ Ms משם cf 𝔊, Ms אל cf 𝔖𝔗^{-ed princ}𝔙 || ᶜ nonn Mss יהוה cf 𝔊ᴹˢˢ𝔖^{C}𝔙ᴹˢˢ
+11 ᵃ mlt Mss interv || ᵇ 2 Mss 𝔊ᴸᴹˢˢ𝔖ᴬᴮ𝔗ᴹˢˢ𝔙 pl
+12 ᵃ 𝔊(𝔊ᴸ pr ἐξ) αὐτῶν || ᵇ 𝔊𝔏⁹³.⁹⁴ᵍˡ𝔖 suff 3 sg
+13 ᵃ 𝔖^{BC} pl || ᵇ pc Mss בא(ו)ת— || ᶜ 𝔊 εἰς τὸν βουνόν cf 𝔏⁹³.⁹⁴, 𝔖 (šʾwl) mn bjm
+14 ᵃ Ms 𝔊ᴹˢˢ𝔖^{C}𝔗ᴹˢˢ𝔙 pl
+15 ᵃ 𝔊(𝔖𝔗^{ed princ}) πρὸς Σαουλ, 𝔙 ei || ᵇ 𝔊𝔙 sg
+16 ^{a–a} > 𝔊⁻ᴼᴸ𝔏¹¹⁵
+18 ^{a–a} pc Mss אתכם, 2 Mss את בני יש׳ cf 𝔊⁻ᴹˢˢ𝔏¹¹⁵ || ᵇ 𝔊 pr Φαραὼ βασιλέως cf 𝔏¹¹⁵, 𝔖 (d)plštjʾ || ᶜ 𝔏¹¹⁵𝔙 regum
+19 ᵃ pc Mss ad לא cf 𝔗, mlt Mss לא cf 𝔊𝔏¹¹⁵𝔖𝔙, pc Mss לי לא, 2 Mss לי
+20 ᵃ 2 Mss זקני
+21 ᵃ mlt Mss ut Q cf 𝔗ᴹˢˢ𝔙; 𝔊𝔏¹¹⁵𝔖 pl sine suff || ᵇ 𝔊𝔏¹¹⁵ ad mlt vb cf Jos 7,17sq
+22 ᵃ > cit 𝔊ᴹˢˢ𝔏¹¹⁵.⁹³.⁹⁴𝔖𝔙 || ᵇ mlt Mss om interv
+24 ᵃ Ms וידעו cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴
+25 ᵃ 𝔊⁻ᴸᴹˢˢ τοῦ βασιλέως cf 𝔖𝔗ᴮᵘˣᵗ et 8,9.11 || ᵇ 𝔊 pr καὶ (ἀπ)ῆλθε/ον (ἕκαστος) cf 𝔏¹¹⁵𝔖 || ᶜ 𝔔 למק], 𝔊 εἰς τὸν τόπον
+26 ᵃ 𝔔 pr בני, 𝔊 pr (οἱ) υἱοί cf 𝔏¹¹⁵.⁹³.⁹⁴ || ᵇ 𝔔 יהֹוֹה || ᶜ 𝔔 בלבבם
+27 ᵃ 𝔔 pr ה || ᵇ 𝔔ᶜᵒʳʳ כמו חדש, 𝔊 ὡς μετὰ μῆνα (ἡμερῶν) cf 𝔏¹¹⁵
+Cp 11, 1 ^{a–a} 𝔔 בֹנֹי עמון ויבאו אל
+2 ᵃ pc Mss cit ad ברית cf 𝔊𝔏¹¹⁵𝔖𝔗ᴹˢˢ𝔙 || ᵇ 𝔊⁻ᴸ𝔏¹¹⁵ om suff; 𝔙 ponamque vos
+5 ^{a–a} 𝔊 μετὰ τὸ πρωΐ, 𝔏¹¹⁵ mane, 𝔏⁹¹.⁹³.⁹⁴ ad post boves
+6 ᵃ 2 Mss יהוה cf 𝔊𝔏¹¹⁵𝔙ᴹˢˢ || ᵇ nonn Mss ut Q
+7 ᵃ mlt Mss ואחרי || ᵇ 2 Mss אל || ᶜ 𝔊 καὶ ἐβόησαν cf 𝔏¹¹⁵.⁹³.⁹⁴ et 12,8
+8 ᵃ 𝔊𝔏⁹³.⁹⁴ 6 || ᵇ 𝔔𝔊𝔏⁹³.⁹⁴ 70
+9 ᵃ 𝔊𝔏¹¹⁵𝔖ᴮ sg || ᵇ pc Mss לאנשי cf 𝔊𝔏¹¹⁵𝔖𝔗ᶠ𝔙 || ᶜ mlt Mss ut Q
+10 ᵃ 𝔊ᴸ𝔏¹¹⁵.⁹⁴𝔖^{-C}𝔗ᴹˢ𝔙 om כ; > 𝔊⁻ᴸ𝔖^{C}
+11 ᵃ Ms 𝔊ᴹˢˢ𝔖𝔙 sg || ᵇ 𝔊ᴹˢˢ𝔏¹¹⁵𝔖^{-C}𝔙 sg || ᶜ pc Mss pr בני cf 𝔊𝔏¹¹⁵𝔖𝔗ᴹˢˢ || ᵈ Ms pl cf 𝔊ᴹˢˢ || ᵉ 𝔖 ʾštkḥw
+12 ᵃ 2 Mss pr לא cf Vrs || ᵇ 2 Mss תנה cf 𝔊𝔏¹¹⁵𝔖
+13 ᵃ 𝔊ᴹˢˢ Σαμουηλ
+15 ᵃ 𝔊 καὶ ἔχρισεν Σαμουηλ, 𝔖ᴬ wʾmlk || ᵇ 𝔊ᴹˢˢ sg || ^{c–c} 𝔊 (𝔊ᴹˢˢ ἐκεῖ) Σαμουηλ
+Cp 12, 2 ᵃ nonn Mss ועד cf 𝔊⁻ᴹˢˢ𝔖
+3 ᵃ nonn Mss את || ᵇ permlt Mss ואת cf 𝔊𝔏⁹⁴𝔖𝔗ᴹˢˢ || ^{c–c} 𝔊 (ἢ) (𝔊ᴹˢˢ ad παρόψομαι ὀφθαλμοὺς ἐν αὐτῷ ἢ) καὶ ὑπόδημα (𝔊ᴸᵖ ad καὶ ἀπέκρυψα τοὺς ὀφθαλμούς μου ἐν αὐτῷ cf 𝔏⁹³.⁹⁴); ἀποκρίθητε (𝔊ᴸ εἴπατε) κατʼ ἐμοῦ cf Si 46,19 תי (כופר)[י לקח]ונעל(י)ם ממ, 𝔖 wʾṣdt ʿjnj bh ʾmrw lj
+5 ᵃ mlt Mss Seb pl cf 𝔊⁻ᴸ (𝔊ᴸ καὶ εἶπεν ὁ λαός) 𝔖𝔗ᴹˢˢ𝔙
+6 ᵃ 𝔊⁻ᴼᵖ pr μάρτυς cf 5 || ᵇ 𝔊⁻ᴸᵖᴹˢˢ𝔖𝔙 suff 1 pl || ᶜ 2 Mss om ארץ cf 𝔊
+8 ᵃ 2 Mss cit Seb ימה— || ᵇ 𝔊ᴹˢˢ suff 1 pl || ᶜ 𝔊ᴹˢˢ𝔖ᴬᴮ𝔙 3 m sg || ᵈ mlt Mss וישבם cf Vrs (𝔗ᴱᵈᵈ)
+9 ᵃ 𝔊⁻ᴼᴸᴹˢˢ𝔖ᴬ sg
+10 ᵃ permlt Mss ut Q cf Vrs || ᵇ 𝔊 καὶ τοῖς ἄλσεσιν cf 𝔏⁹³.⁹⁴ et 7,3ᵃ
+11 ^{a–a} 𝔊 Jerubaal ( — boam), Barak, Jeftha (𝔊ᴹˢ ad Simson), Samuel; 𝔖 Debora, Barak, Gideon, Jeftha, Simson; 𝔗 Gideon, Simson (𝔗ᶠ Bedan), Jeftha, Samuel
+12 ᵃ > 𝔊⁻ᴸ𝔖
+13 ^{a–a} > 𝔊ᴹˢˢ || ᵇ mlt Mss וא׳ cf 𝔊⁻ᴼᴹˢˢ𝔖𝔗ᴹˢˢ𝔙 || ᶜ nonn Mss ה׳ cf 𝔊ᴹˢˢ𝔖 || ᵈ Ms לכם cf 𝔖𝔙, sed etiam Gn 41,41
+14 ᵃ mlt Mss אחרי cf 2 S 2,10
+15 ᵃ 𝔊 καὶ ἐπὶ τὸν βασιλέα ὑμῶν cf 𝔏⁹³.⁹⁴ et 14; 𝔊ᴸ ad ἐξολοθρεῦσαι ὑμάς
+19 ᵃ pc Mss cit ולא cf Gn 42,2
+21 ᵃ > 2 Mss Vrs
+23 ᵃ 𝔊 ad καὶ δουλεύσω (𝔊ᴸ —σωμεν) τῷ κυρίῳ ex duplice versione? || ᵇ Vrs stat abs cf Ps 25,8
+24 ᵃ 𝔊ᴹˢˢ𝔙 pr cop, sed cf 1 R 2,4
+Cp 13, 1 ᵃ v 1 > 𝔊⁻ᴼᵖᴸᴹˢˢ || ᵇ 𝔊ᴸᵖᴹˢ 30, 𝔖 21 || ^{c–c} > 𝔖
+2 ᵃ mlt Mssᴳ משׁ— || ᵇ 𝔊 ἐν Γαβεε (𝔊ᴼᵖᴸ βουνῷ [ἐπὶ] Γαβαα) cf 16 || ᶜ pc Mss לו— cf 𝔊𝔖𝔗ᴹˢ
+3 ᵃ 𝔊 ἐν τῷ βουνῷ cf 2ᵇ || ^{b–b} 𝔊 ἠθετήκασιν οἱ δούλοι, 𝔏⁹³.⁹⁴ audiant Haebrei dereliquerunt servi cf 1 R 12,19
+4 ᵃ sic L, mlt Mss Edd אַ֥שׁ—
+5 ᵃ 𝔊ᴸ𝔖 3 || ^{b–b} 𝔊 Βαιθωρων κατὰ νώτου (𝔊ᴹˢˢ νότου)
+6 ᵃ 𝔊 sg, sed cf Jdc 8,1 || ^{b–b} 𝔊⁻ᴸ μὴ προσάγειν αὐτόν (a נגשׁ)
+7 ^{a–a} 𝔊ᴸ ἐξέστησαν ἀπὸ ὄπισθεν αὐτοῦ cf 𝔏⁹³.⁹⁴, sed etiam Gn 42,28
+8 ᵃ nonn Mss ut Q || ᵇ pc Mss pr אמר cf 𝔊𝔏⁹³.⁹⁴𝔗, pc Mss pr שׂם
+11 ᵃ nonn Mss במ׳ cf 𝔊ᴹˢˢ𝔖, sed etiam 2 Ch 30,13; Mssᴳ במכמשׁ cf 2ᵃ
+13 ᵃ nonn Mss ולא cf 𝔙, 2 Mss citt כי לא cf 𝔊𝔏⁹³.⁹⁴𝔖 || ᵇ nonn Mss citt על cf Vrs
+15 ᵃ 𝔊𝔏⁹³.⁹⁴ ad mlt vb || ᵇ 𝔊⁻ᴸ Γαβαα
+16 ᵃ Ms אים— cf 𝔊 ([καὶ] οἱ εὑρεθέντες) 𝔗ᴹˢˢ || ᵇ 2 Mss בגבעת || ᶜ Mssᴳ משׁ— cf 2ᵃ
+17 ᵃ pc Mss ואל
+18 ᵃ 𝔊 Γαβεε cf 𝔏⁹³.⁹⁴ || ᵇ nonn Mss גיא || ᶜ 𝔖 pr cop; > 𝔊⁻ᴹˢˢ
+19 ᵃ nonn Mss גבול cf 𝔗 tḥwm ʾrʿʾ || ᵇ mlt Mss ut Q cf Vrs
+20 ᵃ Ms pr אל cf Vrs || ᵇ 𝔊 τὸ δρέπανον αὐτοῦ, 𝔏⁹³.⁹⁴ securim suam et falcem suam cf Dt 16,9 23,26
+22 ᵃ 𝔊 ad Μαχ(ε)μας || ᵇ 2 Mss cit לא cf 𝔖𝔗^{Buxt.Qimḥi}𝔙
+23 ᵃ Mssᴳ משׁ— cf 2ᵃ
+Cp 14, 1 ᵃ ℭ מעֹבר
+4 ᵃ pc Mss אל cf 𝔗ᴹˢˢ, sed etiam Jes 45,14 || ᵇ Ms ושן cf 𝔊⁻ᴸ 𝔏⁹³.⁹⁴𝔖 || ᶜ ℭ מהעֹבר; > 𝔊𝔏⁹³.⁹⁴ || ᵈ mlt Mss שם cf 𝔊ᴹˢˢ𝔏⁹³.⁹⁴𝔖𝔗ᴹˢˢ𝔙 || ᵉ nonn Mss השני(ת) cf 1,2 || ᶠ ℭ סֶנָה cf? 𝔏⁹³.⁹⁴ Sen/d(n)aar/s
+5 ᵃ > 𝔊𝔏⁹³.⁹⁴ || ᵇ ℭ מוֹל cf Dt 1,1 || ᶜ Mssᴳ משׁ— cf 13,2ᵃ
+6 ᵃ ℭ בֹרה—
+7 ^{a–a} 𝔊 (ποίει πᾶν ὁ ἐὰν) ἡ καρδία σου ἐκκλίνῃ
+9 ᵃ 𝔊 (ἕως ἂν) ἀπαγγείλωμεν cf 12
+10 ᵃ mlt Mss אלינו cf 12 || ᵇ mlt Mss דינו— cf 𝔊𝔙
+12 ᵃ > pc Mss 𝔊ᴹˢˢ𝔏⁹³.⁹⁴ || ᵇ mlt Mss om interv
+13 ᵃ 𝔊 καὶ ἐπέβλεψαν cf 𝔏¹¹⁵.⁹¹.⁹³.⁹⁴ || ᵇ 𝔊 ad καὶ ἐπάταξεν αὐτούς cf 𝔏⁹³.⁹⁴
+14 ^{a–a} 𝔊 ἐν βόλισι (חץ) (𝔊ᴹˢˢ καὶ ἐν πετροβόλοις) καὶ (ἐν) κόχλαξιν (צור?) τοῦ πεδίου, 𝔏¹¹⁵ in sagittis et in fundibalis et in cauculis campi, 𝔏⁹³.⁹⁴ in b/volidis et petrob/volis et in saxis campi, 𝔖 ʾjk pswlʾ (pl, a חצב) wʾjk dbrj (pl) pdnʾ (pl) bḥqlʾ || ᵇ 2 Mss ad בקר cf 𝔗𝔙
+15 ᵃ 𝔊⁻ᴼᵖ𝔏¹¹⁵.⁹³.⁹⁴ pr cop || ᵇ pc Mss וכל cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴𝔙
+16 ᵃ 𝔊 ἐν Γαβεε cf 2.5 || ᵇ 𝔊 ἡ παρεμβόλη (𝔊ᴸ ad τῶν ἀλλοφύλων), 𝔏¹¹⁵ castra, 𝔖 ḥjlʾ dplštjʾ (> 𝔖^{BcorrC}); 𝔗 ad mšrjt plštʾj cf 19 || ᶜ pc Mss ה׳; 𝔖𝔗 a הלם
+17 ᵃ nonn Mss עמו
+18 ^{a–a} citt (את) האפוד cf 𝔊𝔏¹¹⁵ || ^{b–b} 𝔊ᴹˢˢ ὅτι αὐτὸς ἦρεν τὸ ἐφούδ cf a–a || ᶜ Ms cit עם בני cf 𝔖𝔗 (𝔗ᴹˢˢ wʿm) 𝔙; 𝔊 ἐνώπιον cf 𝔏¹¹⁵
+19 ᵃ mlt Mss om interv || ᵇ mlt Mss ידיך cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴
+21 ᵃ 𝔊 𝔏¹¹⁵.⁹³.⁹⁴𝔙 pr pron relat || ^{b–b} 𝔊(𝔏⁹³.⁹⁴) ἐπεστράφησαν καὶ αὐτοί, 𝔏¹¹⁵ conversi sunt et ipsi, 𝔖 wḥdjrjn ʾp hnwn, 𝔗⁻ᴹˢ ad tbw, 𝔙 reversi sunt
+23 ᵃ > 2 Mss; nonn Mss עד cf 𝔏¹¹⁵𝔗(𝔗ᴹˢ ʿd jt)𝔙; 𝔊⁻ᴸ𝔏⁹³.⁹⁴ alit || ^{b–b} 𝔊ᴸ Βαιθωρων cf 13,5^{b–b} || ᶜ 𝔊𝔏¹¹⁵.⁹¹ ad mlt vb
+24 ^{a–a} 𝔊𝔏¹¹⁵ alit || ᵇ pc Mssᴳ נגשׁ cf 𝔖𝔙 || ᶜ 𝔊 καὶ ἀρᾶται cf 𝔏¹¹⁵.⁹³.⁹⁴𝔗𝔙 (a אלה) || ^{d–d} sic L, mlt Mss Edd ולא־טעם
+25 ᵃ Ms העם cf 𝔗𝔙 || ᵇ 𝔊 ἠρίστα, 𝔏ᵀᴱ (non) prandebat
+26 ᵃ 𝔊 ἐπορεύετο (λαλῶν) cf 𝔏¹¹⁵.⁹³.⁹⁴; 𝔖𝔙 pt act
+27 ᵃ > Ms 𝔏¹¹⁵ || ᵇ nonn Mss ut Q cf α´𝔖𝔗𝔙 et 29
+29 ᵃ 𝔊 εἶδον cf 𝔏¹¹⁵ et K 27
+30 ᵃ nonn Mss לא, 2 Mss לוֹא cf 𝔖
+31 ᵃ Mssᴳ משׁ— cf 13,2ᵃ
+32 ᵃ permlt Mss ut Q cf Vrs || ᵇ mlt Mss ut Q || ᶜ ℭ וישַׁחטו
+33 ᵃ 𝔊 ἐνταῦθα cf 𝔏¹¹⁵ et 36
+34 ᵃ ℭ פֹצו || ᵇ > Ms cf 𝔖; 𝔊 ἐνταῦθα cf 𝔏¹¹⁵ || ᶜ ℭ שׂיֹהו || ᵈ > 𝔊⁻ᴼᴸ𝔖 || ᵉ mlt Mss על, 2 Mss את || ᶠ > 𝔊⁻ᴼᴹˢˢ; 𝔖𝔗 pr b …, 𝔙 pr usque ad …
+36 ᵃ pc Mss מהם cf 𝔖𝔙 et 2 Ch 28,8 || ᵇ mlt Mss om interv
+38 ᵃ 𝔖ᴬ bmnw, 𝔗ᴮᵘˣᵗ bmn, 𝔙 per quem
+40 ᵃ 2 Mss בד— cf 𝔊𝔏⁹³.⁹⁴
+41 ᵃ 𝔊𝔏⁹³.⁹⁴ ad mlt vb || ᵇ 𝔊 δήλους ex duplice versione cf 𝔏⁹¹.⁹³.⁹⁴𝔙
+42 ᵃ 𝔊𝔏⁹³.⁹⁴ ad mlt vb
+44 ᵃ permlt Mss ad לי cf 𝔊𝔖𝔗ᴹˢˢ𝔙 || ᵇ pc Mss ימות cf 𝔊⁻ᴹˢ
+45 ᵃ pc Mss citt (את) התש׳
+47 ᵃ pc Mss ℭ ובני || ᵇ 𝔊⁻ᴸ ad καὶ εἰς τὸν Βαιθ(ε)ωρ (𝔊ᴸ … Βαιθροωβει) || ᶜ 𝔔𝔊 sg, 𝔖 wbmlkwtʾ || ᵈ 𝔊 ἐσώζετο, 𝔏⁹³ conserv/babatur cf Ps 33,16; 𝔖 zkʾ hwʾ (pt act), 𝔙 superabat
+49 ᵃ 𝔊ᴼᵖᴸ𝔖 ad Išbaʿal || ᵇ 𝔔𝔊 מרוב
+50 ᵃ 𝔔 הצבאֹ] cf 𝔊 || ᵇ mlt Mss אבנר
+Cp 15, 1 ^{a–a} pc Mss om על 2° cf 𝔙, Ms om על עמו cf 𝔊⁻ᴼᵖᴸ || ᵇ 2 Mss דבר cf 𝔊ᴸ 𝔗^{-ed princ}
+3 ᵃ mlt Mss וע׳ cf 𝔊𝔗ᴮᵘˣᵗ𝔙ᴹˢ || ᵇ 2 Mss citt מת— cf? 𝔊 bis 𝔖𝔗⁻ᴹˢ𝔙 || ᶜ 𝔊 pr (αὐτὸν) καί || ᵈ permlt Mss ועד cf 𝔊⁻ᴹˢˢ𝔖𝔗ᴹˢˢ𝔙
+4 ᵃ 𝔊 ἐν Γαλγαλοις cf exempli cs 11,14 || ᵇ 𝔊⁻ᴹˢˢ𝔏⁹³.⁹⁴ 400, 𝔊ᴬ 10 || ᶜ 𝔊⁻ᴹˢˢ𝔏⁹³.⁹⁴ 30
+5 ᵃ 𝔊 pl || ᵇ 2 Mss וירד; 𝔊𝔙 a ארב
+6 ᵃ 𝔊ᴸ Αμαληκ cf 𝔙 et 15ᵃ; 30,1ᵇ || ᵇ 𝔖𝔗 a ספה cf Gn 18,23 Nu 32,14 Jes 30,1 || ᶜ 2 Mss הק׳ cf Vrs
+7 ᵃ pc Mss pr עד cf 𝔙
+9 ᵃ pc Mss על || ᵇ Ms והשמנים cf? 𝔊 καὶ τῶν ἐδεσμάτων, 𝔖 wdšmjnʾ (pl), 𝔗 wšmjnjʾ, 𝔙 et vestibus cf Jdc 14,19 || ᶜ 2 Mss citt om על cf Vrs || ᵈ > ℭ || ^{e–e} 𝔊⁻ᴸ om אתה; Vrs a בזה et מאס
+12 ᵃ ℭ ויסֵב || ᵇ ℭ וירֵד
+13 ᵃ 𝔊𝔏¹¹⁶ pr mlt vb
+15 ᵃ 𝔊 ἐξ Αμαληκ cf 𝔏¹¹⁶𝔖𝔗ᴹˢ𝔙 et 6ᵃ || ᵇ ℭ הִחְרָמנו
+16 ᵃ > pc Mss || ᵇ mlt Mss ut Q cf Vrs
+17 ᵃ pc Mss ad אל שאול cf 𝔊𝔏¹¹⁶𝔖𝔗ᴹˢ
+18 ᵃ ℭ והִחְר׳ || ᵇ 2 Mss בם cf Vrs || ᶜ Ms תך— cf 𝔊𝔖𝔗
+19 ᵃ nonn Mss את
+21 ᵃ 𝔊 θεοῦ ἡμῶν (𝔊ᴹˢˢ θεοῦ Ισραηλ), 𝔙 Deo suo, sed cf 15
+22 ᵃ nonn Mss ובז׳ cf 𝔖𝔗ᴮᵘˣᵗ || ᵇ pc Mss בש׳, pc Mss לש׳, 2 Mss cit מש׳
+23 ᵃ ℭ קֹסֵם || ^{b–b} α´ ἡ δὲ ἀνομία τῶν εἰδώλων || ᶜ nonn Mss citt ad יהוה cf 𝔊𝔏⁹³.⁹⁴𝔗ᴹˢ𝔙ᴹˢˢ || ᵈ ℭ ממלֹך cf 𝔊𝔏⁹³.⁹⁴
+24 ᵃ mlt Mss רך— cf 𝔊𝔗 || ᵇ 2 Mss לק׳
+25 ᵃ 2 Mss ad אלהיך cf 𝔊
+27 ᵃ 𝔔𝔊 ad שאול || ᵇ Ms pl cf 𝔊𝔏⁹³.⁹⁴𝔖
+28 ᵃ > pc Mss 𝔙ᴹˢ || ^{b–b} 𝔊 τὴν βασιλείαν (σου) ἀπὸ Ισραηλ
+30 ᵃ 2 Mss וע׳ cf 𝔊𝔙 || ᵇ > pc Mss
+32 ᵃ 𝔊 τρέμων cf 𝔏⁹¹.⁹³.⁹⁴ a מעד, α´ ἀπὸ τρυφερέας, σ´ ἁβρός, 𝔗 mpnqʾ, 𝔙 pinguissimus (𝔙ᴹˢˢ ad tremens) a עדן || ᵇ > 𝔊𝔏⁹³.⁹⁴𝔖; 𝔗 rbwnj cf 22,14ᵃ Jer 6,28
+Cp 16, 1 ᵃ mlt Mss על cf 𝔗⁻ᴱᵈ || ᵇ 𝔊ᴸ pr καὶ εἶπεν κύριος πρὸς Σαμουηλ
+2 ᵃ mlt Mss om interv || ᵇ 𝔔 ק]ח cf 𝔊𝔖 || ᶜ nonn Mss דיך—
+3 ᵃ cit לז׳ cf 𝔊𝔖𝔙 et 5ᵃ
+4 ᵃ mlt Mss Seb pl cf 𝔊𝔖𝔗⁻ᴹˢ ^{ed princ}𝔙 || ᵇ Ms הש׳ cf 𝔊 et 1 R 2,13 || ᶜ 𝔔 ad הראה cf 𝔊
+5 ᵃ 𝔊ᴸ(𝔖) εἰς τὴν θυσίαν, 𝔗ᴮᵘˣᵗ lšjrwtʾ, 𝔙 ut immolem; 𝔊⁻ᴸ alit
+7 ᵃ cit כא׳ cf 𝔊𝔖𝔗 || ᵇ 𝔖 bʿjnʾ (pl), 𝔗 bʿjnjhwn cf Ez 44,5 || ᶜ 𝔖 blbʾ
+11 ᵃ ℭ הֵתמו || ᵇ ℭ נסֵב, 𝔖 ʾhpwk
+12 ᵃ mlt Mss om interv
+13 ᵃ pc Mss אלהים
+14 ᵃ cit אלהים cf 𝔊ᴹˢ𝔖 || ᵇ pc Mss מעם
+15 ᵃ pc Mss יהוה cf 𝔊𝔏⁹³.⁹⁴
+16 ᵃ 𝔏⁹³.⁹⁴ (loquantur ergo) pueri tui … (et quaerant), 𝔙 et servi tui (… quaerant) || ᵇ Ms cit נגן, 2 Mss לנגן cf Vrs et 18 || ᶜ > 𝔊⁻ᴸ𝔏⁹³.⁹⁴𝔖
+18 ᵃ 2 Mss citt ג׳
+19 ^{a–a} 𝔖 ḥšḥ lj
+20 ᵃ 𝔊⁻ᴸ γομορ cf 𝔏⁹³.⁹⁴ et Hos 3,2
+21 ᵃ ℭ ויאֹהֵ׳
+23 ᵃ nonn Mss cit ad רעה cf 𝔊⁻ᴸ (πνεῦμα) πονήρον), 𝔊ᴸ(𝔖𝔙) παρὰ θεοῦ πονηρὸν (πνεῦμα), 𝔗 (rwḥ) bjšʾ mn qdm jhwh
+Cp 17, 1 ^{a–a} 𝔊 ἐν (σ) Εφερμαειμ (sive ἐν Αφεσδομμειν/μ) cf 𝔏⁹³.⁹⁴ in Rameam in Sepherme, 𝔖 bʾprsmjn et 1 Ch 11,13
+3 ᵃ pc Mss והגי cf Dt 34,6
+4 ᵃ 𝔗 mbjnjhwn; 𝔊 δυνατός, 𝔖 gnbrʾ; 𝔙 spurius cf 23ᵃ || ᵇ jJeb 4,2 ממערכות cf 𝔊 et 8 || ᶜ 𝔊ᴸᴹˢˢ 4, 𝔊ᴹˢˢ 5, 𝔏⁹⁴ 16
+6 ᵃ cit Vrs pl
+7 ᵃ mlt Mss ut Q cf Vrs et 2 S 21,19
+8 ᵃ Vrs a בחר cf 1 R 18,25
+11 ᵃ > 2 Mss cit cf 𝔖
+12 ᵃ 𝔊ᴹˢˢ om 12–31 || ᵇ citt היה cf 𝔖 || ᶜ 𝔊ᴸᴹˢˢ ἐν ἔτεσιν cf 𝔖
+13 ᵃ > Ms cf 𝔊ᴹˢˢ𝔖𝔙 || ᵇ nonn Mss למ׳ cf 𝔊𝔗ᴹˢˢ𝔙 || ᶜ 𝔊𝔖 ad suff 3 m sg
+15 ᵃ pc Mss מעם, sed cf 2 S 10,14 2 R 18,14
+17 ᵃ nonn Mss לי— cf Mp || ᵇ Ms ול׳
+19 ᵃ > Ms 𝔖; 𝔊⁻ᴸ αὐτός
+20 ᵃ pc Mss ה׳
+22 ᵃ > 𝔊ᴸ𝔖𝔙
+23 ᵃ ut 4ᵃ; 𝔊 ὁ ἀμεσσαῖος || ᵇ mlt Mss ut Q cf 𝔊⁻ᴸ𝔗𝔙 (ex castris); 𝔊ᴸ𝔖 sg || ᶜ 𝔖𝔙 om כ
+25 ᵃ ℭ לחרֹף || ᵇ 2 Mss citt ad לאשה
+31 ᵃ sic L, mlt Mss Edd וַיִּ׳ || ᵇ 2 Mss ויקחו, Ms ויקחוהו, 𝔊⁻ᴼ καὶ παρέλαβον αὐτὸν καὶ εἰσήγαγον (αὐτὸν) πρὸς Σαουλ, 𝔊ᴼᵖ καὶ παρέστησαν αὐτὸν ἐνώπιον Σαουλ
+32 ^{a–a} cit המלך לב cf 𝔊 καρδία τοῦ κυρίου μου, 𝔏⁹³.⁹⁴ cor domini mei
+34 ᵃ mlt Mss לאבי cf 𝔖 || ᵇ Ms citt om את
+35 ᵃ nonn Mss citt תיו— cf 𝔖𝔗ᴹˢˢ
+36 ᵃ 2 Mss citt וגם, Ms citt ואת cf b || ᵇ nonn Mss citt pr את cf 𝔗ᴹˢ || ᶜ 𝔊 ad mlt vb cf 26
+37 ^{a–a} > 𝔊ᴹˢˢ || ᵇ mlt Mss om interv
+38 ᵃ mlt Mss כובע || ^{b–b} > 𝔊⁻ᴼᴸᴹˢˢ
+39 ᵃ 𝔊⁻ᴸ καὶ ἐκοπίασεν cf Jes 47,13, 𝔊ᴸ καὶ ἐχώλαινεν cf 𝔏⁹³.⁹⁴ et claudicare coepit, σ´ καὶ ἔσκαξεν, 𝔖 wlʾ ṣbʾ cf 𝔗 wlʾ ʾbʾ || ^{b–b} > 𝔊⁻ᴸᴹˢˢ; 𝔖 ad ʾnwn || ^{c–c} 𝔊 καὶ ἀφαίρουσιν αὐτά cf 𝔏⁹³.⁹⁴
+40 ᵃ 𝔊 εἰς συλλογήν cf 𝔏⁹⁴; 𝔖 om cop
+41 ᵃ v 41 > 𝔊⁻ᴼᴸᴹˢˢ
+42 ᵃ pc Mss עינים cf 𝔊
+44 ᵃ mlt Mss הארץ cf 𝔊𝔗ᴹˢˢ𝔙
+46 ᵃ σ´𝔖𝔗ᴹˢˢ pl; 𝔊 τὰ κῶλα σου καὶ τὰ κῶλα … || ᵇ nonn Mss בי׳ cf 𝔊𝔗⁻ᶠ𝔙
+47 ᵃ mlt Mss דינו— cf 𝔊𝔖^{BC}𝔙
+48 ^{a–a} > 𝔊⁻ᴼᴸᴹˢˢ || ᵇ 𝔊⁻ᴼᵖ εἰς τὴν παράταξιν, 𝔖𝔗 lsdrʾ, 𝔙 ad pugnam
+49 ᵃ ℭ מָצחו
+50 ᵃ v 50 > 𝔊⁻ᴼᴸᴹˢˢ
+51 ᵃ pc Mss Okh על cf 𝔊𝔖𝔗ᴹˢˢᴮᵘˣᵗ𝔙 et 2 S 1,9.10 || ᵇ ℭ תֵתהו—, Ms וימתהו
+52 ᵃ 𝔊⁻ᴬᴹˢ Γεθ || ᵇ 𝔊 Ασκαλων || ᶜ sic L, mlt Mss Edd ׃
+55 ᵃ 𝔊⁻ᴼᴸᴹˢˢ om 17,55–18,5 || ᵇ 𝔊ᴸ𝔖𝔗ᴹˢ ad suff 3 m sg || ᶜ > 2 Mss citt cf 𝔊ᴬᴹˢˢ𝔖
+56 ᵃ ℭ העֶלם
+57 ᵃ mlt Mss וב׳
+Cp 18, 1 ᵃ mlt Mss ut Q
+4 ᵃ pc Mss עד cf 𝔖𝔗ᶠ
+6 ^{a–a} > 𝔊⁻ᴼᴸᴹˢˢ || ^{b–b} > 𝔊⁻ᴼᴹˢˢ || ᶜ mlt Mss ut Q || ᵈ cit במח׳, 𝔖 brbjʿʾ (pl), 𝔗 bḥngjʾ || ᵉ nonn Mss וב׳ cf 𝔊𝔖? 𝔗^{ed princ}
+7 ᵃ mlt Mss ut Q cf 𝔊; 𝔖𝔗𝔙 pl sed sine suff; cf 21,12ᵃ 29,5ᵃ || ᵇ mlt Mss תו—, Qᴹˢˢ תיו—; 𝔖𝔗𝔙 pl sed sine suff; cf 21,12ᵃ 29,5ᵇ
+8 ^{a–a} > 𝔊⁻ᴸ || ^{b–b} > 𝔊⁻ᴼᴸᴹˢˢ
+9 ᵃ nonn Mss ut Q; nonn Mss עי(י)ן
+10 ᵃ v 10 > 𝔊⁻ᵂᴼᴸᴹˢˢ || ᵇ 𝔊𝔖𝔙 ad suff 3 m sg
+11 ᵃ v 11 > 𝔊⁻ᵂᴼᴸᴹˢˢ || ᵇ 𝔊 καὶ ἦρεν cf 𝔗 et 20,33ᵃ
+12 ᵃ nonn Mss cit מפני || ^{b–b} > 𝔊ᵂᴼᴸᴹˢˢ
+14 ᵃ mlt Mss Seb בכל cf 𝔊𝔏⁹³.⁹⁴𝔖𝔗ᴹˢˢ𝔙 || ᵇ mlt Mss Mss^{Q} כיו— cf 𝔊𝔖𝔗ᴹˢˢ𝔙
+17 ᵃ 𝔊⁻ᵂᴼᴸᴹˢˢ om 17–19
+18 ᵃ > 𝔊ᵂᴸ || ᵇ pc Mss ומ׳ cf 𝔖𝔙
+19 ᵃ pc Mss לעזריעל cf 𝔊ᴹˢˢ𝔖
+20 ᵃ > 2 Mss cf 𝔊⁻ᵂᴼᴸᴹˢˢ𝔏⁹³.⁹⁴𝔙
+21 ^{a–a} > 𝔊ᴼᴸᵂᴹˢˢ
+22 ᵃ mlt Mss Mss^{Q} דיו— cf Vrs || ᵇ nonn Mss citt בלאט cf Jdc 4,21
+23 ᵃ ℭ הנקַלֶה || ᵇ nonn Mss citt לְה׳ cf Vrs || ᶜ ℭ לָה—
+25 ᵃ nonn Mss Seb Kᴼʳ citt כי אם cf Vrs
+26 ^{a–a} > 𝔊⁻ᴼᴸ
+27 ᵃ 𝔊𝔏⁹⁴ 100 cf 2 S 3,14 || ^{b–b} > 𝔊⁻ᴼᴸ || ᶜ 𝔊ᴹˢˢα´θ´𝔗ᴹˢˢ𝔙 verb sg
+28 ᵃ > 𝔊⁻ᴼᴹˢˢ || ^{b–b} 𝔊 καὶ πᾶς Ισραηλ (𝔊ᴸ pr καὶ Μελχολ ἡ θυγάτηρ αὐτοῦ) || ᶜ ℭ אַהבִתהו
+29 ᵃ ℭ ויֵאסֹף, pc Mss ויוסף, nonn Mss ויסף || ᵇ 2 Mss לירא cf Jos 22,25 || ^{c–c} > 𝔊⁻ᴼᴸᴹˢˢ
+30 ᵃ v 30 > 𝔊⁻ᴼᴸᴹˢˢ
+Cp 19, 4 ᵃ ℭ יחטֶא || ᵇ nonn Mss ℭ לא
+6 ᵃ 2 Mss ימות cf 𝔊𝔖
+7 ᵃ nonn Mss ל
+9 ᵃ > pc Mss cf 𝔊⁻ᴼᴸᴹˢˢ; 𝔊ᴸᴹˢˢ θεοῦ || ᵇ pc Mss בידו cf 𝔊ᴹˢˢ𝔏⁹³𝔙 et 18,10; 𝔊⁻ᴹˢˢ ταῖς χερσὶν αὐτοῦ cf 𝔏⁹⁴; 𝔖 qdmwhj
+10 ᵃ pc Mss Seb ההוא
+11 ᵃ 𝔊 om cop
+13 ᵃ ℭ cit על
+14 ᵃ 𝔊⁻ᴸ καὶ λέγουσιν, 𝔙 et responsum est
+17 ᵃ mlt Mss שלחֵני
+18 ᵃ mlt Mss ut Q; pc Mss cit בנוות cf 20,1ᵃ
+19 ᵃ ut 18ᵃ
+20 ᵃ Ms ויראו cf 𝔊𝔏⁹³.⁹⁴𝔖𝔗ᴹˢˢ𝔙 || ᵇ Vrs a קהל, sed aeth lhq = senior || ᶜ > 𝔖𝔙
+21 ᵃ mlt Mssᴳ interv
+22 ᵃ 𝔊⁻ᴼᴹˢˢ ἅλως || ᵇ 𝔊⁻ᴼᴹˢˢ Σεφειν, 𝔖 swpʾ || ᶜ 𝔊⁻ᴮ*ᴹˢ𝔖𝔗ᴹˢ pl; 𝔙 dictumque est || ᵈ ut 18ᵃ
+23 ᵃ 𝔊⁻ᴸ ἐκεῖθεν; > 𝔊ᴸ𝔙 || ᵇ ut 18ᵃ || ᶜ 𝔖𝔗⁻ᶠ inf || ᵈ ut 18ᵃ
+Cp 20, 1 ᵃ permlt Mss מנוית; mlt Mss ut Q cf 19,18ᵃ || ᵇ pc Mss cit ומה cf 𝔊𝔖 et cf Gn 31,36ᵃ
+2 ᵃ 𝔊σ´θ´ ad σοι/συ, 𝔖 ad lk, sed cf 14,45 || ^{b–b} mlt Mss ut Q cf Vrs
+3 ᵃ > 𝔊𝔖 || ᵇ ℭ יעַצב
+4 ᵃ pc Mss א׳ cf 𝔖
+5 ᵃ > 𝔊ᴼᴹˢˢ𝔏⁹³.⁹⁴
+6 ᵃ ℭ יפקֹדני
+7 ᵃ nonn Mss ואם cf 𝔊ᴸᴹˢˢ
+8 ᵃ pc Mss Seb עם cf Vrs, Ms אם
+10 ^{a–a} 𝔊 ἐάν, 𝔖 dlmʾ, 𝔗 ʾw dlmʾ, 𝔙 si quid forte
+12 ᵃ 2 Mss cit pr חי; 𝔖 pr nshd || ᵇ 𝔊 ins οἶδεν cf 𝔏⁹³.⁹⁴
+13 ᵃ 𝔊⁻ᴼ ὁ θεός cf 3,17
+14 ᵃ 𝔊 καὶ ἐὰν (κὰν) μέν (> 𝔊ᴸ; 𝔊ᴼᵖ μή cf 𝔏⁹³.⁹⁴ aut si non), 𝔖 wlwj djn, 𝔙 et (si vixero) || ᵇ 𝔊 καί (> 𝔊ᴸ), 𝔏⁹³.⁹⁴ non, 𝔖 ʾlʾ; > 𝔙 || ᶜ 𝔊 καὶ ἐάν cf 𝔏⁹³.⁹⁴, 𝔙 si vero, 𝔖 ʿdlʾ
+15 ᵃ 𝔊⁻ᴼᵖ οὐκ (𝔊ᴸ εἰ); > 𝔏⁹³.⁹⁴; 𝔙 non
+16 ^{a–a} 𝔊ᴹˢˢ ἐξαρθῆναι τὸ ὄνομα τοῦ Ιωναθαν ἀπό cf Ru 4,10, sed etiam 22,8 || ᵇ 𝔊ᴸ (εἰ ἐξαρθήσεται τῷ Ιωναθαν μετὰ τοῦ οἴκου) Σαουλ cf 𝔏⁹¹.⁹³.⁹⁴
+17 ^{a–a} 𝔊 ὀμόσαι τῷ, 𝔙 deierare (David)
+19 ^{a–a} 𝔊 καὶ ἐπισκέψῃ, σ´ … ζητηθήσῃ …, 𝔖 mtbʿʾ ʾnt ṭb, 𝔗 ttbʿj lḥdʿ || ᵇ 𝔊⁻ᴸ τὸ ἐργάβ cf 𝔏⁹³.⁹⁴ (lapidem) argab(el[i]tu) et 41ᵇ || ᶜ 𝔊 ἐκεῖνος, 𝔖 hj
+20 ᵃ > 𝔊⁻ᴼ𝔖 || ᵇ > 𝔊𝔖
+21 ᵃ 𝔊⁻ᴸ τὴν σχίζαν cf 𝔏⁹³.⁹⁴ || ᵇ 𝔊 ἡ σχίζα, 𝔖^{CJac edess} gʾrʾ (sg), 𝔗⁻ᶠ grrʾ
+22 ᵃ pc Mss החצי cf 𝔊𝔏⁹³.⁹⁴𝔖^{ACJac edess}𝔗⁻ᶠ et 21ᵇ
+23 ᵃ 2 Mss וביניך
+24 ᵃ mlt Mss ut Q
+25 ^{a–a} > 𝔊ᴸ𝔖𝔙 || ᵇ 𝔊 καὶ προέφθασεν cf 2 S 22,6.19
+27 ᵃ 𝔊 τῇ ἡμέρᾳ τῇ δευτέρᾳ cf 𝔖𝔙 || ᵇ mlt Mssᴳ om interv
+28 ᵃ mlt Mss אל || ᵇ nonn Mss ad אביו cf 𝔖𝔗ᴹˢ ^{ed princ}
+30 ᵃ mlt Mss ad בנו, 𝔊 ad σφόδρα cf 11,6; > 𝔖⁻ᴬᴮ* || ᵇ 𝔊 μέτοχος εἶ cf Ps 119,63; 𝔏⁹³.⁹⁴ transfiguratus || ᶜ pc Mss cit בבן
+32 ᵃ nonn Mss אל
+33 ᵃ 𝔊(𝔖𝔗𝔙) καὶ ἐπῆρεν cf 18,11ᵇ || ᵇ Vrs subj היא || ᶜ nonn Mss הוא, 𝔊 ἡ κακία αὐτή
+36 ᵃ mlt Mss וה׳ cf 𝔊 𝔖^{Jac edess}𝔗ᴹˢ(𝔙) || ᵇ pc Mss החצים cf 𝔊ᴸ𝔖^{Jac edess}
+37 ᵃ 2 Mss החצים cf 𝔊ᴸ || ᵇ 2 Mss החצים
+38 ᵃ 𝔔 עלמו cf 𝔊 || ᵇ permlt Mss ut Q cf Vrs || ᶜ 𝔊ᴹˢˢ καὶ ἤνεγκεν cf 𝔖𝔙
+41 ᵃ nonn Mss וה׳ cf? 𝔊𝔙 || ᵇ 𝔊 ἐργάβ cf 19ᵇ || ᶜ 𝔖(𝔙) brm
+Cp 21, 3 ᵃ 𝔊 διαμεμαρτύρημαι, σ´ συνεταξάμην, 𝔙 condixi
+4 ^{a–a} Ms cit היש cf 𝔊⁻ᴹˢˢ𝔏⁹³𝔙 si quid
+5 ᵃ > Ms 𝔊𝔏⁹³.^{94CY}𝔖𝔙 || ᵇ 𝔔 ad ואכלתם ממנו cf 𝔊 καὶ φάγε/ονται
+6 ᵃ > pc Mss || ᵇ pc Mss citt מת׳ cf 𝔊ᴸ𝔖𝔗𝔙
+7 ᵃ 𝔔 המוסר
+9 ᵃ „plur Mss” (de Rossi) וְאֵין cf 𝔖 ljt; 𝔊 ἴδε εἰ || ᵇ 2 Mss cit 𝔖ᴮ גם
+10 ^{a–a} 𝔔 אֹחר[ אפד; > 𝔊⁻ᴼᴸ || ᵇ mlt Mss interv
+12 ᵃ mlt Mss ut Q cf 𝔊; 𝔖𝔗𝔙 pl sed sine suff cf 18,7ᵃ 29,5ᵃ
+14 ᵃ 2 Mss לע׳ cf 𝔊𝔗ᴹˢ𝔙; 𝔊𝔖 suff sg || ᵇ pc Mss ut 𝔔; 2 Mss ויתוא; 𝔊 dupl καὶ ἐτυμπάνιζεν … cf 𝔏⁹³.⁹⁴ et καὶ ἔπιπτεν (𝔊ᴼ ἔτυπτεν) …, cf 𝔏⁹¹.⁹³.⁹⁴ … et procidebat … et cecidit (et inruebat) || ᶜ nonn Mss citt על, sed cf 1 R 1,33
+Cp 22, 1 ᵃ > 𝔊⁻ᴼᴸ𝔗ᴮᵘˣᵗ
+2 ᵃ mlt Mss נ(ו)שה
+3 ᵃ Ms citt ישב cf 𝔖𝔙 ex 4
+4 ᵃ α´ οι λ´ ἔθετο αὐτοὺς (πρὸ προσώπου), 𝔖 wšbq ʾnwn, 𝔗 wʾšrjnwn, 𝔙 et reliquit eos cf Gn 19,16; 𝔊 καὶ παρεκάλεσεν (τὸ πρόσωπον) cf 2 S 10,2 et cet
+5 ᵃ mlt Mss pr אל
+6 ᵃ pc Mss עמו || ᵇ sic L, mlt Mss Edd הָאֵ׳ || ᶜ 𝔊⁻ᴼᴹˢˢ ἐν Βαμα
+7 ᵃ 𝔊𝔖𝔙 pr cop
+8 ᵃ 𝔊 εἰς ἐχθρόν cf 13ᶜ et Mi 2,8
+10 ᵃ 1–2 Mss cit באלהים cf 𝔊𝔖
+13 ᵃ mlt Mss ut Q || ᵇ „mlt Mss” (de Rossi) עלי || ᶜ 𝔊 εἰς ἐχθρόν cf 8ᵃ
+14 ᵃ 𝔊 καὶ ἄρχων, 𝔗 wrb cf 15,32ᵇ Jer 6,28
+15 ᵃ mlt Mss ut Q || ᵇ pc Mss citt וב׳ cf 𝔊𝔏⁹³.⁹⁴𝔖
+17 ᵃ > 𝔊𝔖𝔙 || ᵇ mlt Mss ut Q cf Vrs
+18 ᵃ nonn Mss ut Q cf 𝔖𝔗 || ^{b–b} 𝔊⁻ᴸ 305, 𝔊ᴸ𝔏⁹³.⁹⁴ 350 || ᶜ > 𝔊⁻ᴼ𝔏⁹³.⁹⁴
+22 ᵃ nonn Mss ut Q cf 𝔖𝔙 ut 18ᵃ || ᵇ 𝔊 εἰμι αἴτιος cf 𝔖𝔙
+Cp 23, 2 ᵃ mlt Mss om interv
+4 ᵃ mlt Mss om interv || ᵇ pc Mss דיך— cf 𝔊⁻ᴹˢ𝔖
+5 ᵃ mlt Mss ut Q cf Vrs
+7 ᵃ 𝔊 πέπρακεν, σ´ ἐξέδωκεν, 𝔖 ʾšlm(h), 𝔗 msr, 𝔙 tradidit
+8 ᵃ pc Mss לצוד
+9 ᵃ > pc Mss cit cf 𝔊ᴹˢˢ
+10 ᵃ pc Mss העיר cf 𝔗ᶠ
+11 ^{a–a} 𝔔 הגידה cf 𝔊⁻ᴬᴹˢ? sed etiam 2 S 1,4 || ᵇ mlt Mss om interv
+12 ᵃ Mssᴳ interv
+13 ᵃ 𝔊𝔏⁹³.⁹⁴ 4 cf 22,2 || ᵇ nonn Mss כא׳
+14 ᵃ 𝔔 יֹהֹ] cf 𝔊
+15 ᵃ sic L, mlt Mss Edd דּ׳
+16 ᵃ 𝔔? הֹ[ cf 𝔊
+18 ᵃ pc Mss ad בחרשה || ᵇ nonn Mss לדרכו cf 𝔗ᴹˢˢ
+19 ᵃ 2 Mss citt הז׳ || ᵇ nonn Mss החב׳, pc Mss החוילה cf 26,1ᵇ
+22 ᵃ pc Mss וה׳ cf 𝔊𝔗ᶠ𝔙; pc Mss הבינו cf 𝔖 || ^{b–b} 𝔊 ἐν τάχει (a מהר) || ᶜ 𝔖𝔗 pl || ᵈ 𝔊 μή ποτε cf Gn 24,5
+23 ^{a–a} mlt Mss ודעו וראו cf 𝔖𝔙 et 22 || ^{b–b} > 𝔊⁻ᴼᴸ
+25 ᵃ pc Mss cit ad את דוד cf 𝔊⁻ᴼ ᴮᴹˢˢ𝔖; Ms שו— cf 𝔊ᴼᴮᴹˢˢ(𝔖^{ABC}) || ᵇ nonn Mss במ׳ cf 𝔊𝔖𝔗^{ed princ}𝔙; > 2 Mss
+Cp 24, 4 ᵃ pc Mss pl cf 𝔊ᴹˢˢ || ᵇ pc Mss cit אל
+5 ᵃ mlt Mss permlt Mss^{Q} איבך cf Vrs || ᵇ pc Mss דיך— cf 𝔊𝔖
+6 ᵃ nonn Mss ad המעיל cf 𝔊𝔖𝔙 et 5
+7 ᵃ pc Mss ad דוד cf 𝔊𝔖
+8 ᵃ α´ … συνεκάλεσεν cf Jer 50,29
+9 ^{a–a} nonn Mss ut Q
+11 ᵃ 𝔙 et cogitavi, 𝔖 wʾmrw gbrʾ (pl) dʿmj, 𝔗 wʾmrw ʾḥrnjn, 𝔊 καὶ οὐκ ἠβουλήθην || ᵇ mlt Mss C גְך— || ᶜ 𝔊𝔖𝔗^{-Qimḥi} 1 sg, 𝔙 sed pepercit (tibi) oculus meus
+12 ᵃ pc Mss לא
+14 ᵃ pc Mss מָשָׁל || ᵇ 𝔔 הקד[מניים
+15 ᵃ 𝔔 pr או cf 𝔊 καὶ/ἤ || ᵇ 𝔔 ה׳
+16 ᵃ pc Mss דיך— cf 𝔖
+19 ᵃ mlt Mss ut Q || ᵇ > 𝔔
+23 ᵃ mlt Mss אל
+Cp 25, 1 ᵃ mlt Mss וילך || ᵇ > pc Mss cf Ru 3,3.6
+3 ᵃ nonn Mss ut Q cf 𝔗𝔙; 𝔊 κυνικός cf 𝔏⁹³.⁹⁴𝔖 (klb); K cf 25 כשמו כן הוא
+5 ᵃ 𝔔 הנֹער] אל
+6 ᵃ 𝔙 (sit) fratribus meis (et tibi pax) || ᵇ pc Mss א׳
+7 ᵃ pc Mss וע׳ || ᵇ nonn Mss ולא cf 𝔊𝔖𝔗ᴹˢˢ
+8 ᵃ 𝔖 pr whšʾ (nškḥwn), 𝔙 pr nunc ergo (inveniant) || ᵇ „mlt Mss” (de Rossi) באנו || ᶜ pc Mss בדך— cf 𝔗; > 𝔊⁻ᴼᴸ
+9 ᵃ Ms om כל cf 𝔗ᶠ, citt כל cf 𝔊ᴹˢˢ𝔖𝔙 et 12ᵃ
+11 ᵃ 𝔊 οἶνον μου cf 𝔏⁹³.⁹⁴, sed etiam Hos 2,7
+12 ᵃ Ms om כ cf 𝔊ᴹˢˢ𝔖𝔙 et 9ᵃ
+13 ^{a–a} > pc Mss 𝔊⁻ᴼᴸᴹˢˢ (homtel)
+14 ᵃ > Ms 𝔊𝔙
+15 ᵃ nonn Mss לא cf 𝔊⁻ᴸᴹˢˢ𝔗ᴹˢˢ
+17 ᵃ pc Mss על || ᵇ > 2 Mss 𝔊⁻ᴼᴸ𝔙
+18 ᵃ mlt Mss ut Q || ᵇ mlt Mss ut Q || ᶜ 𝔊 καὶ γόμορ ἕν cf 𝔏⁹³.⁹⁴ et 2 R 5,17 (משא)
+22 ^{a–a} 𝔊 τῷ Δαυειδ (𝔊ᴸᴹˢˢ τοῖς ἔχθροις Δ.), 𝔖 lʿbdh dwjd || ᵇ permlt Mss pr אור cf 𝔗 et 34
+23 ^{a–a} 𝔊 ἐνώπιον Δαυειδ ἐπὶ πρόσωπον αὐτῆς cf 𝔖𝔙 et 2 S 14,33 || ᵇ nonn Mss Seb צה— cf Gn 18,2
+24 ᵃ > pc Mss citt cf 𝔊
+25 ᵃ nonn Mss אל cf 2 S 13,33 || ᵇ pc Mss cit אל
+27 ᵃ 𝔊 pr λάβε cf 𝔙 et Gn 33,11 || ᵇ mlt Mss הביאה cf 35
+31 ᵃ pc Mss cit ל׳ cf 𝔊𝔖𝔙 || ^{b–b} > 𝔖; 𝔊 …σῶσαι χεῖρα cf 33
+34 ᵃ mlt Mss לולא || ᵇ mlt Mss ut Q
+36 ᵃ pc Mss או ג׳ cf 𝔊𝔗ᴹˢˢ𝔙
+37 ᵃ pc Mss pr כל cf 𝔊ᴹˢˢ𝔗ᴹˢ
+38 ᵃ 2 Mss citt בע׳
+44 ᵃ pc Mss לוש cf K 2 S 3,15
+Cp 26, 1 ᵃ pc Mss ad עִמָּנוּ cf 𝔊 || ᵇ mlt Mss החבילה, 1–2 Mss החוילה cf 𝔖 et 23,19ᵇ || ᶜ mlt Mss pr אשר cf 𝔗
+2 ᵃ pc Mss citt וילך cf 𝔊ᴬ
+3 ᵃ nonn Mss החבילה, 𝔖 ḥwjlʾ cf 1ᵇ
+4 ^{a–a} > 𝔊ᴹˢˢ cf 23,23; 𝔊ᴸ ἀπίσω αὐτοῦ cf 𝔖, 𝔊ᴹˢˢ ad ἐκ/εἰς Κεειλα, 𝔊ᴹˢˢ ad ἐκεῖ, 𝔊ᴸᴹˢˢ ad εἰς Σεκελαγ
+5 ^{a–a} > pc Mss 𝔊⁻ᴸᴹˢˢ (homtel) || ᵇ mlt Mss ut Q
+7 ᵃ mlt Mss ut Q || ᵇ mlt Mss ut Q
+8 ᵃ mlt Mss Kᴹˢˢ א(ו)יביך || ᵇ pc Mss דיך— cf 𝔊⁻ᴹˢ𝔖𝔙 || ᶜ 2 Mss ב׳ cf 𝔊⁻ᴸ𝔗𝔙
+10 ᵃ sic L, mlt Mss Edd יִגֳּ׳
+11 ᵃ mlt Mss ut Q
+12 ᵃ 2 Mss pr אשר cf 𝔙 et 11.16; 𝔊 pr ἀπό cf 𝔖𝔗
+15 ᵃ pc Mss את cf 2 S 11,16ᵇ
+16 ᵃ mlt Mss ut Q
+20 ^{a–a} 𝔊⁻ᴸ (τὴν) ψυχήν μου
+21 ᵃ 2 Mss ad אל דוד cf 𝔖⁻ᴮᶜᵒʳʳ
+22 ᵃ mlt Mss ut Q cf Vrs
+23 ᵃ mlt Mss די— cf 𝔊 (εἰς χεῖρας μου) 𝔖; 𝔗ᴹˢˢ bjdj cf 𝔙 in manu mea
+Cp 27, 1 ᵃ 𝔊 ἐὰν μή cf 𝔏⁹³, 𝔖 ʾlʾ || ᵇ > 𝔊𝔖𝔙
+2 ᵃ 𝔊𝔏⁹³ 4
+3 ᵃ 1–2 Mss וא׳ cf 𝔖𝔗 || ᵇ 2 Mss לי— cf 𝔊𝔙 et 30,5
+4 ᵃ mlt Mss ut Q
+5 ᵃ pc Mss בערי
+6 ᵃ pc Mss על כן || ᵇ Mssᴳ צקלָג
+7 ^{a–a} > cit (?) 𝔊⁻ᴬ𝔙; pc Mss om ו
+8 ᵃ nonn Mss ut Q cf 𝔏⁹³.⁹⁴𝔗𝔙 || ᵇ 𝔊⁻ᴸ ἀπὸ Τ/Γελαμ(ψουρ) cf (?) 15,4 || ᶜ 𝔊 pr ἀπό cf 𝔗ᴹˢˢ
+10 ᵃ 1–2 Mss cit אן cf 𝔖𝔗, 𝔔 עלֹ] cf 𝔊(𝔙) ἐπὶ τίνα || ᵇ nonn Mss 𝔔 אל || ᶜ pc Mss ואל || ᵈ sic L, mlt Mss Edd הַיְּרַחְ׳ || ᵉ mlt Mss ועל
+11 ᵃ nonn Mss ad דוד cf 𝔊⁻ᴼᵖ𝔖
+12 ᵃ mlt Mss יש׳ cf 𝔏⁹³.⁹⁴𝔖ᴬᴮ || ᵇ pc Mss ע׳
+Cp 28, 1 ᵃ 𝔔 [לחמה cf 𝔊 || ^{b–b} 𝔔 alit
+2 ᵃ Ms עתה cf 𝔊𝔙
+3 ᵃ 2 Mss cit ב׳ cf 𝔊𝔙; 𝔖 bqbrh
+7 ᵃ mlt Mss דאר cf 𝔗ᶠ et Ps 83,11
+8 ᵃ mlt Mss ut Mp
+9 ᵃ mlt Mss נים—
+10 ᵃ nonn Mss יִקְרך
+12 ᵃ > 2 Mss citt 𝔊𝔖𝔙
+13 ᵃ > cit 𝔖𝔙; 𝔊 εἶπον/εἶπε
+15 ᵃ permlt Mss הנביאים || ᵇ 2 Mss om ה
+16 ᵃ pc Mss citt ל׳ cf 𝔊𝔖𝔙 || ᵇ σ´(𝔙) ἀντίζηλός σου, 𝔗 dʾt bʿjl dbbjh cf Ps 139,20; 𝔊(𝔖) μετὰ τοῦ πλησίον σου cf 17; α´θ´ κατά σου
+17 ᵃ pc Mss citt לך cf 𝔊⁻ᴸ𝔙 || ᵇ nonn Mss דיך—; pc Mss cit מעליך cf 𝔗⁻ᶠ
+19 ᵃ 2 Mss citt מ׳ || ᵇ 𝔊⁻ᴸ μετὰ σοῦ || ᶜ pc Mss וגם cf 𝔖⁻ᴮ*𝔗ᴹˢˢ𝔙
+20 ᵃ nonn Mss ad ההוא cf 𝔊ᴼᴸ𝔖𝔙
+23 ᵃ mlt Mss ויפצרו cf Vrs et 2 S 13,25.27 || ᵇ mlt Mss על
+24 ᵃ nonn Mss ותאפהו, pc Mss ותופהו
+25 ᵃ 𝔔 הלילה cf 𝔊
+Cp 29, 1 ᵃ Mss בָעין
+3 ᵃ 𝔊 ad πρὸς μέ cf σ´(𝔗) (προσέφυγον) μοί, 𝔙 (transfugit) ad me; 𝔖 lwtn
+4 ^{a–a} > 𝔊𝔖𝔙 || ^{b–b} nonn Mss ממק׳
+5 ᵃ Kᴹˢˢ באלפו cf 18,7ᵃ 21,12ᵃ || ᵇ mlt Mss ut Q cf 𝔊𝔙 et 18,7ᵇ 21,12ᵃ
+7 ᵃ pc Mss לך cf 𝔖
+10 ᵃ 𝔊⁻ᴬ pr σύ cf 𝔏⁹³.⁹⁴𝔙 || ᵇ 𝔊𝔏⁹³.⁹⁴ ad mlt vb || ^{c–c} 𝔊 καὶ ὀρθρίσατε ἐν τῇ ὁδῷ, 𝔖 bʾwrḥʾ cf (?) Jdc 19,9
+11 ᵃ > 𝔊⁻ᴼᴸ𝔖
+Cp 30, 1 ᵃ nonn Mss כבא || ᵇ Ms citt לק— cf 𝔊 et 15,6ᵃ.15ᵃ
+2 ᵃ nonn Mss ולא cf 𝔊ᴹˢ𝔗ᴹˢˢ𝔙
+5 ᵃ mlt Mss Qᴹˢˢ עאלית— || ᵇ nonn Mss לית— cf 27,3
+6 ᵃ mlt Mss ut Q cf Vrs
+7 ^{a–a} > 𝔊⁻ᴼᴸ
+8 ᵃ 2 Mss citt הַא׳ cf 𝔊𝔏⁹³.⁹⁴
+9 ᵃ 𝔊 4
+13 ᵃ pc Mss ad ימים cf 𝔏⁹³.⁹⁴ (tertia die) α´ (?) 𝔖𝔗
+14 ᵃ citt pr על cf 𝔊𝔏⁹³.⁹⁴ 𝔗𝔙
+21 ᵃ pc Mss בֵם— cf 𝔊𝔖𝔗ᴮᵘˣᵗ𝔙 || ᵇ nonn Mss citt אל cf 𝔊𝔙 et 9,18ᵃ; 𝔖 (wqrb dwjd) w(ʿmʾ) || ^{c–c} 𝔊⁻ᴸ καὶ ἠρώτησαν αὐτόν, σ´ … ἠσπάσαντο αὐτούς, 𝔖 wšʾlw (bšlm)hwn
+22 ᵃ pc Mss cit עמָנוּ cf 𝔊𝔖𝔙 || ᵇ pc Mss ולא cf 𝔗ᶠ
+23 ᵃ cit אחרי cf 𝔊⁻ᴼᴸ (μετά) || ᵇ mlt Mss דינו— cf 𝔊𝔖
+24 ᵃ Mssᴷ הורד
+25 ᵃ mlt Mss בי׳ cf 𝔗ᴹˢ𝔙
+26 ᵃ 𝔊ᴹˢˢ 𝔏⁹⁴𝔖 pr cop
+27 ᵃ 𝔊⁻ᴹˢˢ ἐν Βαιθσο(υ)ρ, 𝔏⁹³ in Bethor
+29 ᵃ 𝔊⁻ᴼ𝔏⁹³ pr mlt vb
+30 ᵃ mlt Mss בכ(ו)ר cf 𝔗ᴹˢˢ
+Cp 31, 3 ᵃ nonn Mss על cf 1 Ch 10,3 || ^{b–b} 𝔊 καὶ ἐτραυματίσθη (𝔊ᴸᵖ ἐτραυμάτισαν αὐτὸν) εἰς τὰ ὑποχόνδρια, 𝔏⁹³.⁹⁴ et sauciatus est in congressione illa, 𝔙 et vulneratus est…
+6 ^{a–a} > 𝔊⁻ᴼᴸ || ᵇ mlt Mss וגם cf 𝔖𝔗ᶠ
+7 ᵃ 𝔊 τὰς πόλεις αὐτῶν cf 𝔙 et 1 Ch 10,7
+9 ᵃ 𝔊 τοῖς cf 𝔏⁹³.⁹⁴ et 1 Ch 10,9
+10 ᵃ pc Mss citt שאן cf Jdc 1,27
+11 ᵃ > Ms 𝔊⁻ᴼᴸᵖ𝔖𝔙; pc Mss כל cf 1 Ch 10,11
+12 ᵃ pc Mss cit שאן cf Jdc 1,27 || ᵇ 𝔊 καὶ φέρουσιν cf 𝔖
+2 Samuel
+Cp 1, 1 ᵃ nonn Mss קִ(י)— cf 𝔊 || ᵇ > Ms 𝔙
+2 ᵃ 𝔊ᴸᴬ ad ἐπὶ πρόσωπον cf 𝔙
+4 ^{a–a} > 𝔊ᴬ || ᵇ 𝔊ᴮᴬᴹˢˢ sg; > 𝔊ᴸᴹˢˢ𝔖 cf 2,23ᵃ
+5 ^{a–a} 𝔖 ḥwnj ʾjknʾ mjtw
+6 ^{a–a} > 𝔊ᴹˢ𝔖 || ᵇ nonn Mss citt נקראתי
+7 ᵃ permlt Mss אלַי
+8 ᵃ mlt Mss ut Q cf Vrs
+9 ᵃ > 𝔊ᴸ || ᵇ > Ms 𝔊ᴮᴬ𝔖
+11 ᵃ mlt Mss ut Q cf Vrs
+12 ᵃ 𝔊 Ιουδα (ex par ישראל)
+16 ᵃ mlt Mss ut Q
+18 ᵃ 𝔊ᴸ pr Ισραηλ καί || ᵇ > 𝔊⁻ᴬᴹˢ
+20 ᵃ mlt Mss 𝔊𝔖𝔙 ואל || ᵇ 𝔊ᴹˢˢ𝔖𝔙ᴹˢˢ pr cop
+21 ^{a–a} 𝔊ᴸ τὰ ὕψη σου ὄρη θανάτου cf 𝔏⁹³.⁹⁴ montes mortis, θ´ θανάτου || ᵇ > 𝔖 || ᶜ mlt Mss Q²ᴹˢˢ מָשׁוּהַ; in 𝔖 pertinet ad Saul
+22 ᵃ pc Mss מחרב || ᵇ mlt Mss נסוג
+23 ᵃ nonn Mss ומ׳ cf 𝔊⁻ᴸ𝔖𝔗ᴹˢˢ
+24 ᵃ nonn Mss על cf 𝔖𝔗 et 3,32ᶜ sed etiam Ez 27,31 || ᵇ nonn Mss citt כן— || ᶜ nonn Mss כם—; Ms 𝔊⁻ᴸ𝔖 שיכן—
+25 ^{a–a} 𝔊ᴸᴹˢˢ θ´ εἰς θάνατον ἐτραυματίσθης (ἐμοί)
+26 ᵃ 𝔊ᴸᵖ ἐπέπεσεν ἐπʼ ἐμέ/ἐμοί
+27 ᵃ 𝔊ᴸθ´α´(?) ἐπιθυμητά cf 2 Ch 36,19
+Cp 2, 2 ᵃ mlt Mss עאלית— cf 𝔗 || ᵇ pc Mss לית—
+3 ^{a–a} 𝔖^{AC} wdwjd wgbrwhj ʿmh slqw wʾnšj bjth w(ʾ)jtbw bḥbrwn || ᵇ 𝔊⁻ᴼᴸ καὶ οἱ ἄνδρες cf 𝔙 || ^{c–c} > 𝔊⁻ᴼ
+4 ᵃ 𝔊⁻ᴹˢ𝔖𝔗⁻ᶠ𝔙 verb, sed cf 𝔊𝔙 7ᵇ || ᵇ 𝔊⁻ᴸ ad ὅτι cf 𝔖𝔙 || ᶜ > 𝔊⁻ᴸ cf b
+5 ᵃ 𝔔 על, 𝔊 ἐπί
+6 ^{a–a} 𝔙 eo quod cf Dt 28,47 1 S 26,21
+7 ^{a–a} 𝔔 עלהם ל], 𝔊 ἐφʼ ἑαυτὸν εἰς βασιλέα || ᵇ 𝔖𝔗⁻ᶠ verb ut alibi cf 4ᵃ
+8 ᵃ 𝔔 pr ה || ^{b–b} 𝔊ᴹˢ α´σ´θ´ Εισβααλ cf 𝔏⁹³.⁹⁴; nonn Mss איש(־)בשת
+9 ᵃ 𝔖 gšwr, 𝔙 Ges(s)uri, 𝔗 (d)bjt ʾšr, sed cf Jdc 1,32 || ᵇ pc Mss כלו
+10 ^{a–a} 𝔊ᴹˢ Εισβααλ; pc Mss אישבשת || ᵇ mlt Mss שנה
+12 ^{a–a} cf 10^{a–a} || ᵇ 𝔊ᴹˢ γαβαα, 𝔊ᴹˢᴸα´θ´ βουνός cf 24ᵈ, 𝔗ᶠ lgbʿt, sed cf 1 R 3,4
+15 ᵃ 𝔔𝔊 לבני ב׳ || ^{b–b} 𝔊ᴹˢ Εισβααλ, 𝔔 איש]; nonn Mss ולאיש(־)בשת
+18 ᵃ > pc Mss || ^{b–b} pc Mss citt כ׳ הצבאים cf 1 Ch 12,9; 𝔊 ὡσεὶ (καὶ) μία δορκάς cf Gn 49,16
+19 ᵃ permlt Mss מאל—
+23 ᵃ > 𝔖 cf 1,4ᵇ || ᵇ mlt Mss ut Q
+24 ᵃ α´θ´ ὑδραγωγός cf 𝔖 jmʾ, 𝔙 aquae ductus || ᵇ 𝔊ᴹˢˢ Γαι, α´σ´θ´ φάραγγος, 𝔙 vallis || ᶜ 𝔖 pr b, 𝔙 pr et || ᵈ 𝔊ᴸα´θ´ βουνός cf 12ᵇ
+27 ᵃ Vrs tetragrammaton consuetudinis cs || ᵇ pc Mss לולי cf 1 S 25,34
+28 ᵃ pc Mss רדפו cf 𝔗⁻ᶠ
+31 ^{a–a} 𝔊⁻ᴸ τῶν ἀνδρῶν Α. 𝔔 מאנשי]; 𝔊ᴸ ἐκ τοῦ λαοῦ Α., 𝔖 wmn gbrʾ dʾ., 𝔙 et de viris qui erant cum A.; > 𝔏¹¹⁶ || ᵇ 𝔊⁻ᴸ παρʼ αὐτοῦ, 𝔏¹¹⁶ ab illo cf Jdc 19,2; > 𝔊ᴸ𝔖; 𝔙 qui et mortui sunt
+32 ᵃ nonn Mss בב׳ cf 𝔗ᴹˢˢ sed etiam 1 S 17,15
+Cp 3, 1 ᵃ 𝔊 ἐπὶ πολύ, 𝔏¹¹⁶ magna, 𝔗 tqjp || ᵇ 𝔔 הולך
+2 ᵃ mlt Mss 𝔔 (sg) ut Q || ᵇ 𝔔 היזרעלית; 𝔊⁻ᴬᴹˢˢ Ἰσραηλίτιδος cf 𝔏¹¹⁶
+3 ᵃ 𝔔 דל], 𝔊 Δαλουια cf 𝔊ᴸ 1 Ch 3,1 et 𝔏¹¹⁶ da[; 𝔖 klb cf 1 Ch 3,1, α´σ´θ´ Αβια || ᵇ mlt Mss 𝔔 ut Q; permlt Mss לְאֲב׳ || ^{c–c} > 𝔊𝔏¹¹⁶ || ᵈ 𝔊 τῆς Καρμηλίας, 𝔏¹¹⁶ de […]lo cf 1 Ch 3,1
+4 ᵃ 𝔔 ל cf 𝔊
+7 ᵃ > 𝔔𝔊⁻ᴸ || ᵇ nonn Mss באת || ᶜ pc Mss cit ad איש בשת cf α´σ´θ´𝔙, 𝔔 [שאֹול…, 𝔊 ad Μεμφιβοσθε ὑιὸς Σαουλ, 𝔖 ʾšbšwl cf 4,1ᵃ
+8 ᵃ 𝔊 sg || ^{b–b} > 𝔊𝔏⁹³.⁹⁴; 𝔙 adversum J. || ᶜ nonn Mss 𝔊𝔏⁹³.⁹⁴𝔖𝔗ᶠ𝔙 ואל || ^{d–d} 𝔊 καὶ οὐκ ηὐτομόλησα εἰς τὸν οἶκον Δ. cf 𝔏⁹³.⁹⁴
+9 ᵃ 𝔊⁻ᴼ ad ἐν τῇ ἡμέρᾳ ταύτῃ
+11 ᵃ pc Mss אל || ^{b–b} Vrs om suff
+12 ^{a–a} 𝔊⁻ᴸ εἰς θα/ειλαμ οὗ ἦν (𝔊ᴬᴹˢ θε/ηλαμου γῆν) παραχρῆμα λέγων, 𝔊ᴸ εἰς Χεβρων cf α´σ´ᴹˢ, 𝔖 lmʾmr mnʾ hj ʾrʿʾ || ᵇ mlt Mss ut Q || ᶜ > pc Mss || ᵈ nonn Mss הנה
+13 ᵃ > 𝔊𝔖𝔙 || ^{b–b} > 𝔖
+14 ᵃ pc Mss ארסתי
+15 ᵃ Vrs ad suff 3 f sg || ᵇ > 2 Mss || ᶜ mlt Mss ut Q; 𝔊⁻ᴼ alit cf 23,26 1 S 25,44 1 Ch 7,37
+16 ^{a–a} > 𝔊⁻ᴸ, sed cf? Jer 41,6
+17 ᵃ Vrs verb
+18 ᵃ mlt Mss אוש׳, Vrs 1 sg
+20 ᵃ nonn Mss בח׳ cf 𝔊𝔖𝔙
+21 ᵃ sic L, mlt Mss Edd וַיְ׳
+22 ᵃ 2 Mss Seb 𝔊𝔖𝔗⁻ᴮᵘˣᵗ𝔙 pl
+23 ᵃ 𝔊⁻ᴸ ἀπηγγέλη cf 𝔖? et 6,12 || ᵇ 𝔔𝔊 דויד
+24 ᵃ 𝔔 הן || ᵇ 𝔊 ad ἐν εἰρήνῃ cf 𝔖ᴮ* ex par 21.22.23 || ᶜ 𝔊 ἢ οὐκ, 𝔖 lʾ (init 25)
+25 ᵃ mlt Mss ut Q
+27 ᵃ 𝔔 [ונה… || ^{b–b} 𝔊 ἐκ πλαγίων cf Nu 3,29 || ᶜ nonn Mss pr אל, 2 Mss cit pr על, 𝔔 עד, Vrs pr praepos cf 2,23 etc || ᵈ permlt Mss עשהאל, sed cf 23,24, pc Mss 𝔔 עשאל || ᵉ 𝔔 אחֹיהו
+28 ᵃ 𝔔𝔊ᴸ ודם
+29 ᵃ 𝔔 יח[ול || ᵇ nonn Mss 𝔔 Seb ועל cf 𝔖𝔗⁻ᴮᵘˣᵗ || ᶜ 𝔔 יואב
+32 ᵃ sic L, mlt Mss Edd ויּ׳ || ᵇ > 𝔔 || ᶜ pc Mss cit על cf 𝔖𝔗 et 1,24ᵃ
+33 ᵃ pc Mss 𝔔 citt על cf 1,17
+34 ^{a–a} 𝔔 [בזקים…אֹ] || ᵇ mlt Mss ידיך cf 𝔊𝔖𝔙 || ^{c–c} 𝔔 בנחש].[ם לא הג].[ש || ^{d–d} > 𝔔
+35 ᵃ 𝔖 wʾmrw || ᵇ nonn Mss להכ׳ || ᶜ 𝔖 lj
+36 ᵃ > 𝔊ᴼ; 𝔊𝔖𝔙 om כ || ᵇ 𝔖 pr wšpr, 𝔗ᶠ pr cop || ᶜ > 𝔊⁻ᴸ || ᵈ > 𝔊⁻ᴼᴬ𝔖𝔙
+38 ᵃ Ms 𝔊ᴹˢˢ𝔖 ג׳ || ᵇ nonn Mss (𝔖) מי׳
+39 ^{a–a} 𝔊 συγγενὴς καὶ καθεσταμένος (𝔊ᴼ κατε[σ]πασμένος) ὑπὸ (τοῦ) βασιλέως cf 𝔏⁹¹.⁹³.⁹⁴, 𝔖 dḥl ʾnʾ. wḥzjt ʾnʾ mlkʾ. (d …), 𝔗 hdjwṭ wmrbʾ lmlkw (𝔗ᴹˢˢ … lmlkʾ)
+Cp 4, 1 ᵃ 𝔔 pr …מפיב], 𝔊 pr Μεμφιβοσθε; 𝔖 pr ʾšbšwl ut 3,7ᶜ
+2 ᵃ 𝔔? 𝔊 pr nom proprium ut 1ᵃ || ᵇ sic L, mlt Mss Edd הבאֵ׳ || ᶜ nonn Mss בארת
+4 ᵃ 𝔔 ויהי; 𝔊 καὶ οὗτος || ᵇ 𝔊ᴸ Μεμφιβααλ
+6 ᵃ 𝔊 καὶ ἰδού cf 𝔖𝔗 whʾ || ᵇ nonn Mss אל; > pc Mss
+7 ^{a–a} > 𝔖𝔙 || ^{b–b} > 𝔊ᴸ
+8 ᵃ pc Mss בח׳
+10 ᵃ 𝔊 ἐνώπιόν μου cf 𝔖 || ᵇ 𝔖 ḥlp d
+12 ^{a–a} 𝔔 מפיבשת || ^{b–b} > 𝔊𝔏¹¹⁵ || ᶜ 𝔔 לקח || ᵈ Ms רהו— cf 𝔖𝔗ᴹˢˢ || ᵉ 𝔊 ad υἱοῦ Νηρ cf 𝔏¹¹⁵ (consuetudinis cs) || ᶠ > 𝔊ᴹˢˢ
+Cp 5, 1 ᵃ > 𝔔; nonn Mss ad לו, 2 Mss ad אליו cf 𝔊ᴼᴮ𝔖𝔗ᴹˢˢ; > 𝔏¹¹⁵𝔙 || ᵇ > 2 Mss 𝔊𝔖𝔗ᴹˢˢ
+2 ^{a–a} nonn Mss ut Q || ᵇ nonn Mss ut Q || ᶜ Mss interv
+3 ᵃ > pc Mss || ᵇ pc Mss ad שם cf 𝔗ᴹˢˢ || ᶜ 𝔖𝔗ᴹˢˢ verb cf 2,7ᵃ || ᵈ 𝔊 pr πάντα cf 𝔏¹¹⁵ et 5
+4 ᵃ nonn Mss וְא׳ cf 𝔊𝔖𝔗ᴹˢˢ𝔙
+6 ᵃ 2 Mss דוד cf 𝔊⁻ᴸ; 𝔖 ad dwjd || ᵇ 𝔖𝔗ᴹˢˢ pl
+8 ᵃ 𝔊 ἐν παραξιφίδι cf 𝔏¹¹⁵.⁹³.⁹⁴𝔖 || ᵇ mlt Mss ut Q, 𝔔 שנאה
+9 ᵃ > 𝔊⁻ᴹˢ𝔏⁹³.⁹⁴𝔙; 𝔊 ad αὐτὴν/τὴν πόλιν cf 𝔏⁹³.⁹⁴ || ^{b–b} > 𝔖 || ᶜ 𝔊 καὶ τὸν οἶκον αὐτοῦ cf 𝔏¹¹⁵.⁹³.⁹⁴
+10 ᵃ > 𝔔𝔊
+11 ᵃ permlt Mss צֹ֣ר || ᵇ > 𝔔𝔊ᴸ𝔏¹¹⁵ || ᶜ > 𝔊⁻ᴼ
+12 ^{a–a} 𝔖 wʾttrjmt mlkwth ʿl, 𝔗 wʾrj mnṭlʾ …
+13 ᵃ 𝔊ᴹˢˢ εἰς Χ. || ^{b–b} 𝔔𝔊 לדויד עוד
+17 ᵃ 𝔖𝔗⁻ᶠ verb cf 2,7ᵃ
+19 ᵃ nonn Mss C interv || ᵇ 2 Mss דיך— cf 𝔊𝔖 et 1 S 16,2ᶜ etc
+20 ᵃ 𝔊 ἐκ τῶν ἐπάνω, 𝔏¹¹⁵ a summo, 𝔏⁹⁴ de super, 𝔏⁹³ de superioribus, 𝔖 lbʿl, 𝔗 bmjšr || ᵇ > 𝔊⁻ᴸ𝔏¹¹⁵𝔖ᴬᴮᶜᵒʳʳ𝔙 || ᶜ 𝔊(𝔏¹¹⁵𝔖) ad Δαυιδ || ᵈ 𝔊 ἐπάνω, 𝔏¹¹⁵.⁹³ de super, 𝔗 mjšr
+21 ᵃ 𝔊 τοὺς θεοὺς αὐτῶν, 𝔏¹¹⁵ deos suos || ᵇ 2 Mss 𝔗ᶠ pr הוא; 𝔊ᴹˢˢ𝔏¹¹⁵ ad nonn vb
+23 ᵃ 𝔊 ad εἰς συνάντησιν αὐτῶν, 𝔏¹¹⁵ o(b)via illis || ^{b–b} pc Mss citt מֵא׳ cf 𝔊𝔏¹¹⁵𝔖; pc Mss om אל
+24 ᵃ mlt Mss ut Q cf 𝔗 || ᵇ „mlt Mss” (de Rossi) הצ׳ || ᶜ 𝔖𝔗ᴹˢˢ𝔙 sg
+25 ᵃ > Ms citt 𝔊⁻ᴸ𝔙 || ᵇ nonn Mss 𝔗ᶠ ועד
+Cp 6, 1 ᵃ pc Mss cit 𝔖𝔗 יש׳; 𝔊 ἐξ Ι. cf 𝔙 || ᵇ 𝔊𝔏⁹³.⁹⁴ 70
+2 ᵃ 𝔔 alit cf 1 Ch 13,6 || ᵇ 𝔔 pr את || ᶜ mlt Mss שָׁם cf 𝔖
+3/4 ᵃ 𝔊⁻ᴸ κυρίου, 𝔗 djhwh ut ubique || ᵇ pc Mss 𝔔 citt על || ᶜ pc Mss ועזה cf 6ᵇ.7.8 || ^{d–d} > 𝔊⁻ᴼ (homtel)
+5 ᵃ pc Mss cit ב׳
+6 ᵃ 𝔔 נודן, 𝔊ᴮᴹˢ Νω/οδαβ || ᵇ permlt Mss עזה cf 3ᶜ.7.8 || ᶜ Ms cit ad את ידו cf 𝔔𝔊𝔖𝔗⁻ᴹˢ𝔙 || ᵈ mlt Mss את
+7 ᵃ mlt Mss זא— cf 6ᵇ || ^{b–b} > 𝔊
+8 ᵃ mlt Mss 𝔔 זא— cf 6ᵇ || ᵇ 2 Mss שם המ׳ || ᶜ mlt Mss עזא cf 6ᵇ
+10 ᵃ mlt Mss אל cf? 𝔖𝔗 l
+11 ᵃ nonn Mss citt pr בית cf 𝔗ᴹˢ, 𝔊 pr ὅλον τὸν οἶκον || ᵇ pc Mss cit ad הגתי cf 𝔖
+12 ᵃ 𝔊ᴸ𝔏⁹³.⁹⁴ ad nonn vb
+15 ᵃ > pc Mss 𝔖 || ᵇ 2 Mss pr ברית cf 𝔙
+16 ᵃ 𝔔 ויהי, 𝔊 καὶ ἐγένετο cf 1 Ch 15,29 || ^{b–b} 𝔖 bbjth ddwjd
+17 ᵃ > 𝔖
+19 ᵃ pc Mss מ׳ cf 𝔗ᴮᵘˣᵗ || ᵇ nonn Mssᴳ פַּר—
+20 ᵃ 𝔖^{AC} lmʾzl, 𝔖ᴮ lmʾtʾ || ᵇ pc Mss interv || ᶜ Ms ad אליו || ᵈ 𝔊 τῶν ὀρχουμένων cf 𝔏⁹³.⁹⁴ (unus de) saltatoribus, 𝔙 (unus de) curris
+21 ᵃ 𝔊⁻ᴬ ad ὀρχήσομαι || ᵇ 𝔊⁻ᴼ pr (καὶ) εὐλογητὸς (𝔊ᴸ καὶ ζῇ) κύριος || ᶜ mlt Mss לְנ׳ cf 𝔊, sed etiam 1 R 1,35; 𝔗 lmhwj (mlkʾ) || ᵈ 𝔊 αὐτοῦ || ᵉ pc Mss cit ועל; > 𝔊ᴼ⁻ᴸ𝔙 || ᶠ 𝔊 ad καὶ ὀρχήσομαι || ^{g–g} > 𝔊ᴼ𝔙
+22 ᵃ Ms ניו—, 𝔊 ἐν ὀφθαλμοῖς σου cf 𝔏⁹³.⁹⁴ ante oculos tuos || ᵇ 𝔊 (μὴ) δοξασθῆναι
+23 ᵃ mlt Mss Kᴼʳ ולד cf Gn 11,30
+Cp 7, 1 ^{a–a} 𝔊 κατεκληρονόμησεν αὐτόν cf 1 S 2,8
+3 ᵃ > nonn Mss 𝔖 || ᵇ Ms 𝔊 וע׳
+4 ᵃ mlt Mss interv || ᵇ pc Mss cit ad הנביא cf 𝔊ᴸ𝔖
+5 ᵃ > mlt Mss 𝔊𝔏^{CY}𝔖𝔗ᴹˢ𝔙 || ᵇ Mss interv || ᶜ 𝔊 οὐ σύ cf 𝔏^{CY}𝔖 || ᵈ pc Mss ad לשמי cf 13
+6 ᵃ 2 Mss מארץ מצ׳ cf 𝔖𝔙 et 1 S 8,8ᵇ
+7 ᵃ pc Mss ככל || ᵇ > Ms 𝔊 || ᶜ 𝔊 εἰ λαλῶν, 𝔙 numquid loquens || ᵈ > nonn Mss
+8 ᵃ pc Mss ד׳ cf 𝔊⁻ᴹˢˢ𝔖 || ᵇ mlt Mss רי—; 𝔊ᴸ ἐξ ἑνός cf 𝔏⁹³.⁹⁴; > 𝔊⁻ᴼᴹˢˢ || ᶜ 2 Mss לנ׳ cf 𝔊 σε εἰς || ^{d–d} > 𝔊ᴼ || ᵉ > nonn Mss 𝔖𝔗ᴹˢ𝔙
+9 ᵃ > Ms cit? 𝔊⁻ᴸ
+10 ᵃ mlt Mss 𝔖𝔗ᴹˢˢ יש׳
+11 ᵃ 2 Mss 𝔊ᴼᴹˢˢ𝔖𝔙 ל׳ || ᵇ 𝔊 τῶν ἡμερῶν || ᶜ > pc Mss
+12 ᵃ „mlt Mss” (de Rossi) עם cf 𝔖𝔗
+13 ᵃ 2 Mss 𝔊ᴹˢ𝔖ᴬᴮ וה׳
+14 ^{a–a} 𝔊 καὶ ἐὰν ἔλθῃ (ἡ) ἀδικία αὐτοῦ, 𝔖 wbsklwth ʾksjwhj
+15 ᵃ pc Mss אסור cf 𝔊𝔖𝔙 || ^{b–b} 𝔊 ἀφʼ ὧν ἀπέστησα ἐκ (𝔊ᴸ ἀπὸ) προσώπου μου cf 𝔏⁹³, 𝔖 mn šʾwl dhwʾ mn qdmjk. wʾʿbrth mn qdmj || ᶜ Ms ני— cf b–b
+16 ᵃ pc Mss ני— cf 𝔊𝔏^{CY}𝔖 || ᵇ pc Mss cit 𝔊𝔖𝔙 וכ׳
+19 ᵃ > 𝔊𝔏⁹³.⁹⁴𝔖 || ᵇ > 2 Mss cit 𝔊𝔖
+20 ^{a–a} pc Mss cit ע׳ ד׳ || ᵇ pc Mss אלהים cf 𝔖𝔗𝔙 et 25ᵇ
+21 ᵃ 𝔊⁻ᴼᴹˢˢ (𝔊ᴸ τὸν λόγον σου καὶ διὰ) τὸν δοῦλον σου, 𝔖 ptgmjk
+22 ^{a–a} permlt Mss יהוה אלהים cf 𝔖𝔗𝔙 et 25ᵇ || ᵇ permlt Mss 𝔗 ככל; > 𝔖
+23 ᵃ nonn Mss ישׂ׳ cf Vrs || ᵇ 𝔊 ἄλλο; > 𝔙 || ᶜ 𝔊 ὠδήγησεν (𝔊ᴸ —ας) αὐτόν cf Jos 24,3 Ps 106,9 || ᵈ 𝔊𝔖𝔗 om ל || ᵉ 𝔊 σε || ᶠ pc Mss להם cf 𝔗ᶠ𝔙, 𝔖 lh; > Ms 𝔊 || ᵍ 𝔊 τοῦ ἐκβαλεῖν σε, 𝔖 ʿl ʾrʿʾ cf 𝔙 || ^{h–h} 𝔖 (ʾjk d) mn qdjm. ʿl ʿmk || ⁱ 𝔊 1 m sg || ^{k–k} 2 Mss citt גוי וא׳, Ms וגוים וא׳, 𝔔 [וֹאהלים…, 𝔊 ἔθνη καὶ σκηνώματα cf 𝔏⁹³.⁹⁴, 𝔖 ʿmʾ dʾnt ʾlhh, 𝔙 gentem et deum eius
+24 ᵃ > 𝔊𝔙
+25 ᵃ α´ σ´ καὶ ποίησον || ^{b–b} nonn Mss אדני יהוה cf 𝔊ᴹˢˢ et 20ᵇ.22^{a–a} || ᶜ 𝔊 πίστωσον (𝔊ᴸ πιστωθήτω)
+26 ᵃ Ms לְ cf 𝔖 || ᵇ 𝔊ᴼ om cop || ᶜ Ms ad לעולם cf 𝔖𝔗ᴹˢ
+27 ᵃ Ms לפניך, Ms לך
+28 ^{a–a} nonn Mss יהוה אלהים cf 𝔖𝔗
+29 ^{a–a} pc Mss יהוה אלהים cf 𝔖𝔗
+Cp 8, 2 ᵃ > 2 Mss 𝔊ᴬᴹˢ
+3 ᵃ mlt Mss הדרעזר cf 𝔊𝔖, pc Mss 𝔗ᶠ הדד עזר || ᵇ 𝔊 ἐπιστῆσαι, σ´ στῆσαι || ᶜ mlt Mss ad פרת cf Vrs
+4 ᵃ > 𝔔 || ᵇ 𝔊 ad ἅρματα cf 𝔏⁹³.⁹⁴ || ᶜ 𝔊𝔏⁹³.⁹⁴ 1000 || ᵈ 𝔖 mrkbn
+5 ᵃ pc (?) Mss אד(ו)ם cf 𝔖 ʾdwm w… || ᵇ cf 3ᵃ || ᶜ 𝔖 cf 5ᵃ
+6 ᵃ 𝔖 cf 5ᵃ || ᵇ 𝔖 ʾdwmjʾ || ᶜ 𝔔 om ל || ᵈ 1–2 Mss 𝔗ᴹˢ ל cf 14ᵈ
+7 ᵃ pc Mss על cf 𝔖𝔗 || ᵇ cf 3ᵃ, sed 𝔗 una vox || ᶜ 𝔖 pr 8ᵇ || ᵈ 𝔔𝔊 ad nonn vb cf 1 R 14,25sqq
+8 ᵃ 𝔖 mn ṭbḥ cf 𝔊ᴹˢˢ et Gn 22,24 || ᵇ permlt Mss הדרעזר cf 3ᵃ || ^{c–c} 𝔖 cf 7ᶜ || ᵈ 𝔔 רבה cf 1 Ch 18,8
+9 ᵃ 𝔊⁻ᴼᴸ Θοου cf 𝔙, 𝔖 twʿ || ᵇ permlt Mss הדרעזר cf 3ᵃ
+10 ᵃ cf 9ᵃ || ᵇ 𝔊 (τὸν) Ιεδ(δ)ουρ(ρ)α(ν) || ᶜ cf 3ᵃ || ᵈ > 𝔊𝔖
+11 ᵃ 𝔊 πόλεων
+12 ᵃ nonn Mss מאדם cf 𝔊𝔖 || ᵇ 𝔖 wmn šwlṭnh || ᶜ cf 3ᵃ
+13 ^{a–a} 𝔖 wʿbd tmn dwjd qrbʾ, 𝔗 wknš dwjd mšjrjn || ᵇ 𝔊 pr καί || ᶜ nonn Mss כות— || ᵈ pc Mss אד(ו)ם cf 𝔊𝔖 || ᵉ 2 Mss מלך || ᶠ 𝔖 pr (w)ḥrb
+14 ᵃ > 𝔏⁹⁴𝔖 || ^{b–b} > 𝔙 || ^{c–c} > 𝔊⁻ᴼᴸ𝔏⁹⁴𝔖 || ᵈ pc Mss ל cf 6ᵈ
+15 ᵃ > pc Mss 𝔊
+16 ᵃ Ms interv || ᵇ 𝔊⁻ᴼᴸᴹˢˢ Αχεια, 𝔊ᴼ Αχ/βιμελεχ, 𝔊ᴸ Αχεινααβ || ᶜ nonn Mss הַמּ׳ cf 20,24 1 R 4,3
+17 ^{a–a} 𝔖 wʾbjtr br ʾḥjmlk cf 1 S 23,6 30,7 || ᵇ Mss interv || ᶜ 𝔊⁻ᴸ (σ)Ασα
+18 ^{a–a} Ms citt הכ׳ ועל הפ׳ ועל cf 𝔖𝔗𝔙
+Cp 9, 4 ᵃ pc Mss citt בלא cf 𝔗ᶠ, pc Mss מלו cf 𝔊𝔖; cf 17,27ᵃ
+5 ᵃ pc Mss cit מל(ו)א cf 𝔗ᶠ et 17,27ᵃ
+9 ^{a–a} > Ms 𝔖
+10 ᵃ > Ms 𝔊𝔖𝔙 || ᵇ 𝔊ᴸ εἰς τὸν οἶκον || ᶜ 2 Mss כל— cf 𝔖, 𝔊ᴸᴹˢˢ καὶ φάγονται
+11 ᵃ 2 Mss 𝔖 כל || ᵇ 2 Mss 𝔙 יאכל || ᶜ Ms נו—; 𝔊𝔖𝔙 mensam David/regis/tuam
+12 ᵃ nonn Mss מיכה cf 𝔗
+Cp 10, 2 ᵃ pc Mss pr אל cf 𝔖𝔗
+3 ᵃ pc Mss הארץ cf 𝔗
+4 ᵃ > Ms 𝔊
+5 ᵃ 𝔊 ad ὑπὲρ (𝔊ᴸ περὶ) τῶν ἀνδρῶν || ᵇ pc Mss ad אשר, sed cf 1 S 1,22
+6 ᵃ 𝔔 ut 1 Ch 19,6 || ᵇ mlt Mss 𝔗ᶠ צובה ac alit cf 8ᵇ || ^{c–c} 𝔊𝔖𝔙 nom proprium cf 𝔔 א[ישטוב
+7 ᵃ Ms צבא cf 𝔊ᴸ𝔖𝔙
+8 ᵃ 𝔊⁻ᴼᴮᴹˢˢ πόλεως || ᵇ mlt Mss 𝔗ᶠ צובה ac alit cf 6ᵃ
+9 ᵃ > nonn Mss 𝔖 || ^{b–b} 2 Mss בחור (ב)ישׂ׳; mlt Mss ut Q cf Vrs
+10 ᵃ nonn Mss אבישי cf 𝔊𝔖𝔗ᴹˢ𝔙 et 14
+11 ᵃ sic L, mlt Mss Edd יֶחֶ׳
+14 ᵃ 𝔊ᴼᵖ ad καὶ αὐτοί cf 𝔖^{-C}𝔗ᶠ𝔙 || ᵇ pc Mss אבשי cf 10 || ᶜ pc Mss ויבאו cf 𝔊ᴼᴹˢˢ; > 𝔏¹¹⁵
+15 ᵃ 2 Mss יחדו
+16 ᵃ maqqef erasum; mlt Mss הדר׳ cf 𝔊𝔖; cf 8,3ᵃ || ᵇ 2 Mss ויבא cf 𝔙 et adduxit; > 𝔏¹¹⁵
+17 ᵃ mlt Mss om interv || ᵇ mlt Mss או— cf 𝔊ᴹˢˢ𝔖𝔗ᴹˢˢ || ᶜ 2 Mss חלמה cf 𝔗, pc Mss חילאמה
+18 ᵃ 𝔊ᴸ ἀνδρῶν πεζῶν cf 𝔏¹¹⁵
+19 ᵃ cf 8,3ᵃ
+Cp 11, 1 ᵃ permlt Mss המְּלָאכים, sic etiam C ad nota marg יתיר אֹ; mlt Mss לכים— cf 𝔊𝔏¹¹⁵.¹¹⁷.⁹³.⁹⁴𝔗𝔙 Ps Hier Quaest, 𝔖^{ABC} mlkʾ (sg) || ^{b–b} > Ms 𝔖
+2 ^{a–a} > 𝔖; 𝔏¹¹⁵ per porticum, 𝔗ᴹˢˢ ʿlʾjgrʾ, 𝔙 ex adverso super solarium suum
+4 ^{a–a} 𝔊 καὶ εἰσῆλθεν πρὸς αὐτήν cf 𝔏¹¹⁵.¹¹⁷ || ᵇ > 2 Mss
+5 ^{a–a} 𝔔𝔊 אנוכי הרה
+6 ᵃ 𝔔 ש[לחה
+7 ᵃ nonn Mss אל דוד cf 𝔏¹¹⁵𝔖𝔙
+9 ᵃ > 𝔊⁻ᴸ
+10 ᵃ nonn Mss ומ׳ cf 𝔗ᴹˢˢ
+11 ᵃ > 2 Mss cf 25ᵃ
+12 ᵃ 𝔏¹¹⁵𝔖ᴬ ad 13
+15 ᵃ 𝔊⁻ᴸ εἰσάγαγε cf 𝔏¹¹⁵.¹¹⁷.⁹³.⁹⁴, 𝔖 ʿbdjhj (sg) || ᵇ > pc Mss 𝔊𝔏¹¹⁵.¹¹⁷.⁹³.⁹⁴𝔖 || ^{c–c} > 𝔏¹¹⁵.¹¹⁷
+16 ᵃ pc Mss כש׳ cf Jer 36,23 || ᵇ nonn Mss את cf 1 S 26,15ᵃ
+21 ᵃ 𝔊 Ιεροβααλ/μ cf 𝔖 (ndw)bʿl et Jdc 7,1sqq || ᵇ pc Mss ול׳ cf 𝔗ᶠ
+22 ᵃ > 2 Mss 𝔖
+23 ᵃ 2 Mss pr ויבא
+24 ^{a–a} pc–nonn Mss ut Q || ᵇ permlt Mss C דיך— cf 14,31ᵃ
+25 ᵃ > pc Mss, Ms אל; sed etiam cf 1 S 20,13
+Cp 12, 1 ᵃ pc Mss ad הנביא cf 𝔊𝔖 || ᵇ 𝔊ᴸᴹˢˢ ad ἀνάγγειλον δή μοι (τὴν) κρίσιν ταύτην
+3 ᵃ pc Mss citt לבת
+6 ᵃ 𝔊⁻ᴸ ἑπταπλάσιον(α), 𝔗ᴹˢˢ ʾrbʿjn
+7 ᵃ Mss interv || ᵇ 𝔖 dtmlk, 𝔗 lmhwj mlkʾ cf 2,4ᵃ.7ᵇ
+9 ᵃ > 𝔊ᴸθ´ || ᵇ nonn Mss ut Q cf 𝔗𝔙; 2 Mss בעיני אדני cf 𝔖𝔗ᴹˢˢ
+11 ᵃ „mlt Mss” (de Rossi) לרעך cf 𝔖𝔙 || ᵇ pc Mss cit את
+13 ᵃ mlt Mss om interv || ᵇ mlt Mss ולא cf 𝔏ᵀᴱ𝔗ᴹˢ
+14 ^{a–a} 𝔖 rwrbt cf σ´ 𝔗(𝔙) || ᵇ 𝔔 [ל].[בד cf 1 S 25,22 || ᶜ 𝔔 יומת
+15 ᵃ 𝔔 אלהים, 𝔊ᴸᴹˢ ὁ θεός || ᵇ > 𝔔𝔊ᴹˢ
+16 ᵃ 𝔔 מן cf 𝔗 || ᵇ 𝔊ᴹˢˢ𝔗𝔙 tetragrammaton || ^{c–c} 𝔔 [וש׳ בשק…, 𝔊⁻ᴸ καὶ ηὐλίσθη/ἐκοιμήθη (𝔊ᴸ ἐκάθευδεν) ἐν σάκκῳ cf 𝔏⁹³.⁹⁴; 𝔙 om ולן
+17 ᵃ 𝔔 אליו; > 𝔖; 𝔙 (venerunt) … cogentes eum ut … || ᵇ mlt Mss 𝔔 ברה || ᶜ 𝔔 אותם
+19 ᵃ 2 Mss מת cf 𝔗
+20 ᵃ mlt Mss ut Q cf 𝔊⁻ᴸ𝔖; 𝔗𝔙 ut K
+21 ᵃ 𝔊ᴸ ἔτι, 𝔖 kd, 𝔗 ʿd d … cf 22 בעוד
+22 ᵃ mlt Mss ut Q; 𝔖 mrḥm ʿlwhj cf (?) 𝔙 donet eum mihi … || ᵇ pc Mss אלהים cf 𝔖
+23 ᵃ > pc Mss || ^{b–b} 𝔖 lmʾ mškḥʾ dtwb nhpwk
+24 ᵃ nonn Mss ut Q cf 𝔖𝔗
+25 ᵃ 𝔊ᴸᴹˢˢθ´ ἐν λόγῳ cf 𝔏⁹³.⁹⁴ (quod est interpretatum) in verbo (domini)= (?) בעבור, cf KAI 26, II 6.11sq, III 11
+27 ᵃ mlt Mss וגם cf 𝔖𝔗ᴹˢˢ || ᵇ 2 Mss המלוכה cf 𝔖𝔗 et 26
+30 ᵃ 𝔊⁻ᴼᴸ pr nom proprium cf 1 R 11,5; Ms מלכה || ^{b–b} 𝔖 wʾjt hwj bh kʾpʾ ṭbtʾ (pl) cf 𝔗𝔙
+31 ^{a–a} > pc Mss 𝔊ᴹˢˢ cf 𝔖 || ᵇ mlt Mss ut Q cf 𝔊𝔙
+Cp 13, 3 ᵃ 𝔔𝔊ᴸ י[הונתן || ᵇ pc Mss עא— cf 32ᵃ 21,21ᵇ Q; 𝔖 šmʾ; 𝔔 שמעיה; 1 S 16,9 17,13 שמה
+5 ᵃ 𝔖 lj; > 𝔙 || ᵇ 𝔊⁻ᴸ𝔖 suff pl
+6 ᵃ 𝔖 suff pl
+8 ᵃ mlt Mss ut Q
+9 ᵃ pc Mss ויוציאו cf 𝔊𝔗ᶠ𝔙
+10 ᵃ 2 Mss רה— || ᵇ pc Mss דיך— cf 𝔊ᴹˢ𝔖 || ᶜ pc Mss אל א׳
+11 ᵃ Ms לה cf 15,5
+14 ᵃ pc Mss עמה cf 𝔊𝔏¹¹⁵𝔖𝔗, sed cf 1 S 2,22
+16 ᵃ mlt Mss על cf 𝔗
+19 ᵃ 𝔊𝔏¹¹⁵𝔖𝔙 pl || ᵇ 𝔊𝔏¹¹⁵𝔖𝔗ᴹˢˢ𝔙 pt; cf 16,13 Jos 6,13 1 S 19,23 Jes 31,5
+20 ᵃ nonn Mss האמנון cf 𝔊𝔏¹¹⁵𝔖𝔗ᴹˢ𝔙 || ᵇ pc Mss אל cf 𝔊ᴹˢˢ𝔏¹¹⁵ || ᶜ 2 Mss ש׳ cf 𝔊𝔏¹¹⁵.⁹³.⁹⁴𝔙 || ᵈ Sebᴹˢˢ בבית cf 𝔗ᴹˢ
+21 ᵃ 𝔔 ad כי אה[בו כי בכו]רו הוא; 𝔊𝔏¹¹⁵.⁹¹.⁹³.⁹⁴ ad mlt vb cf 1 R 1,6
+23 ^{a–a} 𝔖 wlʿdn bʿdn, sed cf 14,28 et cet
+24 ᵃ 𝔔 אל
+25 ᵃ 𝔔 ויפצר cf Vrs et 27 1 S 28,23
+26 ᵃ pc Mss וְלא cf 𝔖𝔙 || ᵇ 2 Mss עמנו, 𝔏¹¹⁵ mecum
+27 ᵃ Vrs ut 25ᵃ || ᵇ 𝔊⁻ᴹˢˢ𝔏¹¹⁵ ad mlt vb cf 1 S 25,36
+28 ᵃ 𝔔 ומתתם
+29 ᵃ 𝔊 ad αὐτοῖς cf 𝔏¹¹⁵𝔖𝔙 sed cf 24,19
+30 ᵃ sic L, mlt Mss Edd ךְ— || ᵇ 2 Mss pr עד cf 𝔗ᴹˢ, 2 Mss איש cf 𝔖 sed etiam Ps 106,11
+31 ᵃ Ms ad עליו cf 𝔗ᴹˢ, 𝔊 ad αὐτῷ cf 𝔏¹¹⁵𝔙 || ᵇ 2 Mss קרעו cf 𝔊⁻ᴸ𝔏¹¹⁵𝔖𝔙 || ᶜ 𝔔 ]בג[דיו, 𝔊⁻ᴸ𝔏¹¹⁵𝔖𝔗𝔙 ad suff 3 m pl
+32 ᵃ cf 3ᵇ || ᵇ 𝔊⁻ᴹˢ ad ὁ βασιλεύς cf 𝔏¹¹⁵𝔖 || ^{c–c} 𝔔 הנערים כול || ᵈ pc Mss מתו cf 𝔊ᴸ𝔖𝔗ᴹˢˢ𝔙 || ᵉ pc Mss ad אם || ᶠ α´σ´ ὀργῇ cf 𝔏¹¹⁵𝔙ᴹˢˢ et Ps 56,8 || ᵍ mlt Mss Kᴼʳ שימה
+33 ᵃ > nonn Mss cf 𝔊ᴬᴹˢ𝔏¹¹⁵𝔖𝔙
+34 ᵃ mlt Mss ut Q cf Vrs || ^{b–b} 𝔊⁻ᴸ ἐν τῇ ὁδῷ ὀπίσθεν αὐτοῦ, 𝔊ᴸ τὴν ὁδὸν τὴν Σωραιμ, 𝔏¹¹⁵ per via (soram)… in via quae est goran, 𝔖 bʾrwrḥʾ, 𝔗 mʾwrḥ(ʾ) mʾḥwrwhj, 𝔙 per iter devium
+37 ᵃ mlt Mss ut Q עמיח/הוד cf 𝔊𝔏¹¹⁵𝔖𝔗 || ᵇ 𝔊 ad ὁ βασιλεὺς (> 𝔊ᴼ cf 𝔖𝔙) Δαυειδ (> 𝔊ᴸᴹˢˢ cf 𝔏¹¹⁵) || ^{c–c} pc Mss ימים רבים cf 𝔏⁹³.⁹⁴𝔖𝔙ᴹˢˢ
+38 ᵃ nonn Mss רה—
+39 ᵃ 𝔊 καὶ ἐκόπασεν cf 𝔏¹¹⁵ et requievit, 𝔏⁹³.⁹⁴ et proposuit, 𝔖^{ABC} wʾhmj, 𝔖^{Bar Hebr} wʾttwj (explicitum: oblitus est), 𝔗 wḥmjdt, 𝔙 cessavitque || ^{b–b} 𝔊 ὁ βασιλεὺς Δαυειδ cf 𝔖𝔙ᴹˢˢ, 𝔊ᴹˢˢ τὸ πνεῦμα τοῦ βασιλέως (Δαυειδ) cf 𝔔𝔏¹¹⁵ (𝔏⁹³.⁹⁴ rex), 𝔗 npšʾ ddwjd mlkʾ, 𝔙 David rex || ᶜ 2 Mss על cf 𝔗
+Cp 14, 1 ᵃ 𝔖 ad ʾtrʿj; 𝔗 ([b]lbʾ dmlkʾ) lmpq, 𝔙 versum esset
+4 ᵃ mlt Mss ותבא cf 𝔊𝔖𝔗ᴹˢˢ𝔙 || ᵇ 𝔖𝔙 ad suff 1 sg
+7 ᵃ 2 Mss אל cf 1 S 22,13ᵇ || ᵇ pc Mss ad נא || ^{c–c} 𝔖 wbʿjn dnwbdwnh (3 pl) || ᵈ nonn Mss ut Q
+11 ᵃ 2 Mss pr אדני cf 𝔊ᴸᴹˢ𝔏⁹³.⁹⁴𝔖 || ^{b–b} 𝔖 bswgʾʾ dḥwdtʾ ddmʾ lʾ mḥbl || ᶜ mlt Mss ut Q || ᵈ Ms משערות cf 𝔊ᴸ𝔙; Ms ad ראשו cf 𝔖𝔗 et 1 S 14,45 1 R 1,52 (Ms)
+13 ᵃ 𝔗⁻ᴹˢ w(m)mljl cf Nu 7,89 Ez 2,2 Ez 43,6
+15 ᵃ > Ms 𝔊ᴹˢˢ𝔙 || ᵇ 𝔊 ὄψεταί με cf 𝔙 praesente (populo)
+16 ᵃ 𝔊 pr τοῦ ζητοῦντος, 𝔙 pr (omnium qui) volebant || ᵇ 𝔊ᴸθ´ κυρίου, 𝔗 ʿmʾ djhwh ac 20,19 21,3 1 S 26,19
+17 ᵃ pc Mss יהי || ᵇ permlt Mss לִמְנֻחָ֑ה, 𝔊 εἰς θυσίαν/ς, 𝔏¹¹⁷ velut in sacrificium misericordiae, 𝔖^{ABC} qwrbnʾ, 𝔖^{Bar Hebr}(𝔙) ʾjk qwrbnʾ || ᶜ 𝔊ᴸ κυρίου || ᵈ pc Mss יהיה cf 𝔊𝔏¹¹⁷𝔙
+19 ᵃ mlt Mss ℭ^{Q} איש; pc Mss cit Seb יש cf 𝔗; Mss interv || ᵇ 2 Mss מאיל—, 2 Mss מיאל—, 𝔔 מאל— || ᶜ 𝔔 אמתך
+21 ᵃ mlt Mss עשיתָ cf 𝔗ᴹˢˢ || ^{b–b} 𝔊 κατὰ τὸν λόγον σου τοῦτον, 𝔖 ʾjk dʾmrt, 𝔙 verbum tuum
+22 ᵃ pc Mss cit Sor על cf 𝔗 || ᵇ 2 Mss כי cf 𝔏¹¹⁷ || ᶜ pc Mss עבדוֹ sine Q; mlt Mss ut Q cf 𝔊ᴹˢ𝔏¹¹⁷𝔗𝔙
+26 ᵃ 𝔊𝔏⁹³.⁹⁴ 100
+27 ᵃ 𝔊ᴸ(𝔏⁹³.⁹⁴) Μααχα ex 1 R 15,2 cf b || ᵇ 𝔊𝔏¹¹⁷.⁹¹.⁹³.⁹⁴ ad mlt vb cf 1 R 15,2
+30 ᵃ nonn Mss ולא || ᵇ mlt Mss ut Q || ᶜ 𝔊𝔏¹¹⁷.⁹¹ ad mlt vb
+31 ᵃ permlt Mss ℭ דיך— cf 11,24ᵇ
+32 ᵃ pc Mss אם cf 𝔖 et 1 S 20,8
+33 ᵃ > 𝔖𝔙
+Cp 15, 2 ^{a–a} 𝔔 הדרך || ᵇ 𝔔 וה]יה || ^{c–c} pc Mss 𝔔 כל איש cf 𝔊 et 4 || ^{d–d} 𝔔 וקרא לו א׳ cf 𝔊
+3 ᵃ sic nonn Mss Or, permlt Mss ריך—
+4 ^{a–a} 𝔏⁹³.⁹⁴ et instificabo eum, 𝔙 et iuste iudicem
+5 ᵃ mlt Mss בו cf 𝔗 et 13,11ᵃ
+6 ᵃ Mišna Soṭaᴹˢˢ 1,8 citt ויגנוב cf Gn 31,20.26
+7 ^{a–a} 𝔊ᴸᴹˢ τέσσαρα ἔτη cf 𝔖𝔙 || ᵇ sic LC, permlt Mss Edd וַאֲשַׁלֵּ֧ם
+8 ᵃ mlt Mss ut Q cf 𝔊ᴹˢˢ𝔖𝔗; > 𝔊ᴹˢˢ𝔙
+10 ᵃ pc Mss בש׳
+12 ᵃ 𝔊⁻ᴬᴮᴹˢ ad καὶ ἐκάλεσεν
+13 ᵃ 𝔙 pr toto || ᵇ 𝔊ᴸ παντὸς τοῦ, 𝔙 universus
+15 ᵃ pc Mss בכל cf 𝔖𝔙
+16 ᵃ 𝔏⁹³.⁹⁴ 20
+17 ᵃ pc Mss עבדיו cf 𝔊⁻ᴸ, 2 Mss citt ביתו
+18 ᵃ 𝔊 ad mlt vb ex duplice versione || ᵇ mlt Mss ליו— (vel לָו—) cf 𝔊
+19 ᵃ nonn Mss עמנו || ᵇ Ms מִמּ׳ cf 𝔊𝔖𝔙
+20 ᵃ 𝔊 ad mlt vb ex altera versione || ᵇ mlt Mss ut Q cf Vrs || ^{c–c} pc Mss לאשר || ^{d–d} 𝔊 καὶ κύριος ποιήσει μετὰ σοῦ ἔλεος/ν καὶ ἀλήθειαν, 𝔖 wʾwtb lʾḥjk špjr, 𝔗 wʾtjb jt ʾḥk ʿmk w(ʾ)ʿbjd ʿmhwn ṭjbw wqšwṭ, 𝔙 et reduc tecum fratres tuos ostendisti gratiam et fidem
+21 ᵃ sic L; > pc Mss cf 𝔊𝔖𝔙; permlt Mss ut K
+22 ᵃ Ms המלך cf 𝔊 (𝔊ᴸ ad Δ.)
+23 ᵃ pc Mss בקול cf Esr 3,12; pc Mss בכי || ^{b–b} > pc Mss 𝔗ᴹˢˢ (homtel) || ᶜ 2 Mss אל cf (?) 𝔙; > mlt Mss
+24 ᵃ pc Mss pr אשר
+26 ᵃ Mss om interv
+27 ᵃ 𝔊⁻ᴸ ἴδετε, 𝔊ᴸ βλέπε
+28 ᵃ nonn Mss ut Q cf 𝔊σ´𝔖 (sg) 𝔗𝔙 et 17,16ᵃ
+29 ᵃ 𝔊⁻ᴸᴹˢˢ ἐκάθισεν, 𝔊ᴸ ἀνέστρεψεν, 𝔖^{C} wjtb
+30 ᵃ pc Mss חפוי cf 𝔖𝔙
+31 ᵃ 2 Mss ולדוד, 𝔔 [לדוי]ד cf 𝔊ᴹˢˢ𝔖𝔗𝔙 || ᵇ Ms הוגד cf 𝔊⁻ᴸ (𝔊ᴸ ἀπήγγειλαν) 𝔖𝔗𝔙 || ᶜ 𝔊⁻ᴹˢ ad ὁ θεός μου
+34 ᵃ 𝔊 ad mlt vb cf 𝔏⁹¹.⁹³.⁹⁴ (ad patere me vivere)
+36 ᵃ mlt Mss וה׳ cf 𝔊ᴸᴹˢˢ𝔗 || ᵇ Ms ושלחת cf 𝔊ᴹˢ𝔖^{C} || ᶜ 𝔊ᴸ ad mlt vb (ex 34)
+Cp 16, 1 ᵃ cf 4,4ᵇ
+2 ᵃ mlt Mss ut Q cf Vrs
+3 ᵃ 2 Mss בני cf 𝔊ᴹˢ𝔖
+4 ᵃ cf 4,4ᵇ
+8 ᵃ mlt Mss ut Q
+10 ᵃ pc Mss ut Q cf 𝔊(𝔊ᴹˢˢ pr καί)𝔗; 𝔙 dimittite eum cf 𝔖 || ᵇ nonn Mss ut Q cf 𝔊𝔗𝔙; > (?) 𝔖
+12 ᵃ nonn Mss ut Q cf 𝔗; pc Mss citt בעניי cf 𝔊𝔖𝔙 || ᵇ Mssᴷ קללתִי cf 𝔖
+13 ᵃ mlt Mss om interv || ᵇ pc Mss pr מזה cf (?) 𝔙
+14 ᵃ 𝔊ᴸᵖ ad παρὰ τὸν Ιορδάνην (ex 17,22)
+15 ᵃ pc Mss עמו
+16 ^{a–a} > 2 Mss 𝔊
+17 ᵃ pc Mss ול׳ cf 𝔊ᴹˢˢ
+18 ᵃ 2 Mss יבחר cf 𝔗ᶠ || ᵇ nonn Mss ut Q cf 𝔊𝔖𝔗𝔙
+19 ^{a–a} 𝔖 lʾ hwt bʾjdj (𝔖^{C} ad hdʾ) || ᵇ nonn Mss את
+23 ᵃ mlt Mss ut Q cf 𝔊⁻ᴼ𝔖𝔗𝔙
+Cp 17, 1 ᵃ pc Mss cit ל || ᵇ 𝔊 ad ἐμαυτῷ cf 𝔙 || ^{c–c} 𝔊ᴼᵖᴸ 10
+3 ^{a–a} 𝔊 ὃν τρόπον (𝔊ᴸ καθως) ἐπιστρέφει (ἡ) νύμφη πρὸς τὸν ἄνδρα αὐτῆς· (cf 𝔏⁹³.⁹⁴·ᵍˡ) πλὴν φυχὴν ἑνὸς ἀνδρός, 𝔖 ʾjk dhpk kl ʾnš (dṣbjt), 𝔗 (kd) jtwbwn klhwn btr d(ʾ)jtqṭjl gbrʾ, 𝔙 quomodo omnis reverti sole(n)t unum enim virum (tu quaeris) || ᵇ 2 Mss כל cf 𝔖 a–a || ᶜ pc Mss וכל cf 𝔊𝔖𝔗ᴹˢˢ𝔙
+4 ᵃ > pc Mss cit cf 𝔗ᶠ || ᵇ > Ms cit cf 𝔖 15
+5 ᵃ 𝔊𝔖𝔙 pl || ᵇ > 2 Mss cf 𝔊ᴸ𝔖
+6 ᵃ > 2 Mss cf 𝔊ᴹˢˢ𝔖 || ᵇ mlt Mss ואם cf 𝔊𝔖 || ᶜ Mss om interv
+8 ᵃ 𝔖 tbrʾ cf 𝔗 et Hos 13,8 Prv 17,12 || ᵇ 𝔊⁻ᴼᴸ ad mlt vb; 𝔙 ad aliquot vb (impar) 𝔊
+9 ᵃ mlt Mss חת— || ᵇ 𝔊ᴸ τὸν λαόν
+11 ᵃ nonn Mss pr שפת cf 𝔗ᴹˢ || ^{b–b} omnes Mssᴳ ופנ֖יך הלכ֥ים || ᶜ 𝔊 ἐν μέσῳ αὐτῶν cf 𝔙, 𝔖 bmṣʿtʾ, 𝔗 brjšnʾ, 𝔗ᴹˢˢ brjš kwlnʾ
+12 ᵃ nonn Mss ut Q || ᵇ 𝔏¹¹⁵ et turbabimus eum et inruemus super eum, 𝔖 wšrjnn, 𝔗 wnšrj, 𝔙 et operiemus (eum) ex 13 || ᶜ nonn Mss על־פני || ᵈ pc Mss עד cf 𝔗ᶠ
+13 ᵃ nonn Mss ההוא cf אתו || ᵇ Ms אתה cf Vrs
+14 ᵃ mlt Mss interv || ᵇ nonn Mss על cf 𝔗
+15 ᵃ 𝔖 kl
+16 ᵃ mlt Mss בעברות cf 15,28
+17 ᵃ Ms ול׳ cf 𝔊ᴸ𝔖𝔙
+19 ᵃ nonn Mss Seb פי cf 𝔊ᴸ𝔏¹¹⁵ 𝔗𝔙 sed etiam Nu 33,8
+20 ᵃ pc Mss citt pr את; 𝔊ᴸ σπεύδοντες cf 𝔏¹¹⁵ properantes
+22 ᵃ 𝔊ᴸ𝔏¹¹⁵.⁹¹.⁹⁴ ad nonn vb
+23 ᵃ citt חמורו cf 𝔊𝔏¹¹⁵𝔖𝔙 || ᵇ pc Mss את || ᶜ mlt Mss ואל cf 𝔊ᴼᵖ𝔖𝔗ᴹˢˢ𝔙 || ᵈ 𝔊ᴼᴸ ἐν ὄικῳ
+24 ᵃ > 2 Mss cf 𝔊ᴬᴹˢ𝔖
+25 ᵃ 𝔊ᴬᴹˢˢ Ισμαη/ελιτης cf 𝔏¹¹⁵ Ps Hier, Quaest et 1 Ch 2,17 || ᵇ 𝔊ᴹˢˢ Ιεσσαι cf 𝔏¹¹⁵
+27 ᵃ pc Mss מלוא cf 𝔗ᴮᵘˣᵗ, mlt Mss מלו cf 𝔗ᶠ; cf 9,4ᵃ.5ᵃ
+28 ᵃ pc Mss ח׳ cf 𝔗ᴹˢ || ᵇ > 𝔊𝔏¹¹⁵𝔖
+29 ^{a–a} 𝔖^{C} wḥʾwtʾ dʿnʾ
+Cp 18, 2 ᵃ mlt Mss om interv
+3 ^{a–a} > 2 Mss 𝔊ᴹˢˢ𝔖 (homtel) || ᵇ 2 Mss אתה cf 𝔊⁻ᴸσ´𝔙 (𝔗 kʿn ʾt…) || ᶜ 𝔊 ἐν τῇ πόλει cf 𝔏¹¹⁵𝔙 || ᵈ mlt Mss ut Q
+4 ᵃ pc Mss על cf 15,2
+5 ᵃ 𝔔 שמֹעים
+8 ᵃ nonn Mss ut Q
+9 ᵃ 𝔔 Vrs ויתל
+10 ᵃ > 𝔔
+11 ᵃ > Ms 𝔊ᴹˢˢ𝔖 || ᵇ > 2 Mss 𝔊ᴹˢˢ𝔖
+12 ᵃ mlt Mss ut Q cf 𝔗ᴹˢˢ || ᵇ 2 Mss ולא || ᶜ Ms על cf 𝔖 sed etiam Gn 22,12ᵃ || ᵈ > 2 Mss cf 𝔖^{C}; 2 Mss לי cf 𝔊𝔖^{-C}𝔗𝔙 || ᵉ pc Mss אב׳ cf 𝔊𝔖
+13 ᵃ mlt Mss ut Q cf 𝔊ᴸ𝔖𝔗𝔙
+14 ^{a–a} 𝔊ᴸ διὰ τοῦτο || ᵇ nonn Mss אחולה cf Jer 4,19; Vrs a חלל, improbabiliter
+17 ᵃ ℭ י֨שׂרא֔ל || ᵇ mlt Mss ut Q cf 𝔗 (lqrwwhj) 𝔙 || ᶜ Mss om interv
+18 ᵃ mlt Mss ut Q
+20 ᵃ nonn Mss ut Q cf 𝔊⁻ᴸ
+21 ᵃ pc Mss וה׳ cf 𝔊ᴸ
+23 ᵃ 𝔊 pr καὶ εἶπεν (Αχιμαας), 𝔖 pr ʾmr lh, 𝔙 pr qui respondit
+26 ^{a–a} 𝔊⁻ᴸ πρὸς τῇ πύλῃ, 𝔊ᴸ ἐπὶ τὴν πύλην, 𝔙 in culmine || ᵇ 𝔊 ad ἕτερος cf 𝔖 ʾḥrnʾ, 𝔗^{ed princ} ʾwḥrn, 𝔙 alter
+28 ᵃ mlt Mss om interv
+29 ᵃ nonn Mss Seb הֲשׁ׳ cf 𝔗ᶠ𝔙 || ᵇ nonn Mss את cf 𝔊ᴹˢˢ𝔗𝔙 || ᶜ pc Mss לא cf 𝔊ᴹˢˢ𝔖𝔙
+30 ᵃ > 2 Mss 𝔖
+31 ᵃ > 𝔊⁻ᴼᵖᴸ𝔖𝔙 || ᵇ Ms טוֹ— cf 𝔖 || ᶜ 𝔖 ʿlwhj cf ᵇ.32ᵃ
+32 ᵃ 𝔊⁻ᴸ ἐπʼ αὐτόν cf 𝔙 adversum eum et 31ᶜ
+Cp 19, 1 ᵃ > Ms 𝔖; 𝔊ᴹˢˢ ἐν τῷ κλαίειν || ᵇ > Ms 𝔊ᴹˢˢ𝔙 || ᶜ > 𝔊ᴸ𝔖
+2 ᵃ 2 Mss ומת׳ cf 𝔖𝔗
+3 ᵃ pc Mss ad אבשלום
+4 ᵃ Ms מִן הַמּ׳ cf 𝔖𝔙
+5 ᵃ > 𝔊ᴼᵖᴸ𝔖^{-C}𝔙 || ᵇ nonn Mss בּק׳ cf 𝔊ᴹˢˢ𝔖𝔗⁻ᴹˢ ^{ed princ} || ᶜ > pc Mss cf 𝔊ᴼᵖᴹˢˢ || ᵈ > Ms 𝔊; 𝔖 ad ʾbšlwm
+6 ᵃ pc Mss יתה—
+7 ᵃ mlt Mss 𝔔 ut Q || ᵇ 𝔊ᴼᴸ𝔖 om cop || ᶜ > 𝔊ᴸ𝔖
+8 ᵃ Mss interv || ᵇ Ms 𝔔 Seb כי אם cf 𝔊𝔏⁹⁴𝔖ℭᴹˢˢ𝔙, 2 Mss אם || ᶜ mlt Mss ועד cf 𝔊ᴸ𝔖𝔗ᶠ
+9 ᵃ 2 Mss וכל cf 𝔊⁻ᴸ || ᵇ permlt Mss ו֙ישׂרא֔ל, nonn Mss = L || ᶜ Ms לו— cf 𝔊ᴸᴹˢˢ𝔖
+10 ᵃ 𝔊ᴸ γογγύζοντες cf Nu 17,6; 𝔖 rnjn || ᵇ Ms pr כל cf 𝔊⁻ᴹˢˢ𝔖^{-C}
+11 ^{a–a} 𝔊 (τοῦ) ἐπιστρέψαι (πρὸς) τὸν βασιλέα, 𝔖^{-C} dthpkwn ʿm mlkʾ, 𝔖^{C} dnhpwk lwt mlkʾ || ᵇ 𝔊𝔙ᴹˢˢ ad mlt vb ex 12ᵇ
+12 ^{a–a} > 𝔖, sed cf 𝔖^{C} 13ᵃ || ^{b–b} 𝔊 τοῦ ἐπιστρέψαι (πρὸς) τὸν βασιλέα, 𝔖 tw nhpkjwhj lbjth || ^{c–c} > 𝔊ᴹˢˢ; 𝔊ᴸ cf 13ᵈ || ^{d–d} > 𝔊𝔖; 𝔙ᴹˢˢ ad mlt vb
+13 ᵃ 𝔖^{C} pr wmlkʾ dwjd šlḥ lwt ṣdwq wlwt ʾbjtr khnʾ (pl) lmʾmr. mllw ʿm sbʾ (pl) djhwdʾ wʾmrw lhwn cf 12ᵃ || ᵇ pc Mss ל׳ cf 𝔊ᴮᴬᴹˢ𝔖𝔙 || ^{c–c} 𝔖 dthpkwn ʿm mlkʾ || ᵈ 𝔊 ad εἰς τὸν οἶκον αὐτοῦ, 𝔊ᴸ(𝔖^{C}) ad καὶ λόγος παντὸς Ισραηλ ἦλθεν πρὸς τὸν βασιλέα
+14 ^{a–a} 𝔖 wʾmr lʿmsʾ
+15 ᵃ pc Mss וַיֵּט, 𝔗 wʾtpnj (lbʾ) || ᵇ Ms ad לאמר cf 𝔊𝔖𝔙
+16 ᵃ nonn Mss לרדת cf 𝔊ᴸ
+18 ᵃ 𝔊ᴸ ἀποστέλλουσιν ἐπί
+19 ᵃ 𝔊 pr καὶ ἐλειτούργησαν (cf 𝔖 wʿbdw) τὴν λειτουργίαν (𝔊ᴸ αὐτῶν) τοῦ διαβιβάσαι τὸν βασιλέα ex duplice versione || ᵇ 𝔗 wʿbrw cf 𝔙(𝔖 cfa) || ᶜ mlt Mss ut Q cf 𝔊𝔖𝔗
+20 ᵃ 𝔗 glʾ cf 𝔗 25
+21 ᵃ Mss om interv
+22 ᵃ pc Mss ימות cf 𝔖 || ᵇ Mss om interv
+23 ᵃ 𝔊 εἰ σήμερον, 𝔊ᴹˢˢ σήμερον οὐ cf 𝔖 jwmnʾ lʾ, 𝔙 ergone hodie || ᵇ 𝔖 nmwt cf 22ᵃ || ᶜ Ms cit מיּשׂ׳ cf 𝔊⁻ᴸ
+25 ᵃ cf 4,4ᵇ || ᵇ 𝔊ᴹˢˢ pr υἱὸς (Ιωναθαν), 𝔖 pr br jwntn || ᶜ 2 Mss citt 𝔗ᶠ לא || ᵈ cf 20ᵃ
+26 ᵃ pc Mss כּאשר || ᵇ cf 4,4ᵇ
+27 ^{a–a} 𝔊𝔖(𝔙) imp || ᵇ mlt Mss אל, sed cf Vrs
+29 ᵃ nonn Mss בּכל
+31 ᵃ cf 4,4ᵇ || ᵇ sic L, mlt Mss Edd ךְ—
+32 ᵃ 𝔙 transduxit || ᵇ 𝔊 μετὰ (τοῦ βασ.) cf 𝔖𝔗 || ᶜ nonn Mss pr את || ᵈ > pc Mss || ᵉ mlt Mss ut Q cf 𝔊𝔗
+33 ᵃ nonn Mss בשׁבְתּוֹ cf Vrs, 2 Mss בשֵׂיבָתּוֹ
+34 ᵃ 𝔊⁻ᴬ τὸ γῆρας cf 𝔏⁹³.⁹⁴ senectutem tuam
+35 ᵃ mlt Mss אל, 2 Mss עם
+36 ᵃ mlt Mss ואם cf 𝔖^{BC}𝔗ᴹˢˢ || ᵇ 𝔊ᴼᴮ𝔖𝔙 om cop || ᶜ Ms cit ל, 𝔗 ʿl cf 𝔊 ἐπί et 15,33
+37 ᵃ 𝔊ᴸ ὅτι ὀλίγον cf 𝔖 || ᵇ pc Mss אל || ᶜ Ms לנו—
+38 ᵃ 𝔊⁻ᴸ καθίσατω, 𝔖 npwš || ᵇ 𝔊ᴸᴹˢ pr ὁ υἱός μου cf 𝔖, 𝔊ᴹˢˢ ad ὁ υἱός μου
+41 ᵃ nonn Mss הם— || ᵇ 𝔊⁻ᴸ διαβαίνοντες (μετά) cf 𝔏⁹³.⁹⁴𝔖 ʿbr(w) (ʿm); mlt Mss ut Q cf 𝔊ᴸ𝔗𝔙
+42 ᵃ sic L, mlt Mss Edd ךְ— || ᵇ Mss om interv
+43 ᵃ pc Mss cit ואם || ᵇ Vrs subst
+44 ^{a–a} 𝔊 duplex versio (πρωτοτόκος/Δαυειδ), 𝔏⁹¹.⁹³.⁹⁴ et primogenitus ego sum quam tu || ᵇ sic L, mlt Mss Edd הֲ׳
+Cp 20, 1 ᵃ > nonn Mss 𝔊ᴸᴹˢˢ𝔖𝔗ᴹˢ𝔙 cf 1 R 12,16
+3 ᵃ nonn Mss הן— || ᵇ 𝔊𝔗𝔙 pt
+4 ᵃ pc Mss cit ל
+5 ᵃ nonn Mss ut Q; nonn Mss ויחר cf Dt 33,21, Ms ויאחר
+6 ᵃ 𝔖 jwʾb ex 7 || ᵇ 2 Mss ואתה cf 𝔗ᶠ, nonn Mss עתה, 2 Mss ועתה cf 𝔊 καὶ νῦν σύ (> 𝔊ᴼᴸ) || ᶜ Ms ad לך cf 𝔊⁻ᴼ𝔖 || ᵈ 2 Mss ימצא || ^{e–e} permlt Mss עינינו, 𝔊⁻ᴸ καὶ σκιάσει (—σῃ) (𝔊ᴸ σκεπάσθη) τοὺς ὀφθαλμοὺς ἡμῶν, 𝔖 wnḥṭṭ ʿjnjn, 𝔗 wjʿjq Inʾ, 𝔙 et effugiat nos
+7 ᵃ 𝔊ᴹˢˢ ad Αβεσσα καί ex 6; 𝔖^{C} cf 6ᵃ
+8 ᵃ sic L, mlt Mss Edd וֹ— || ᵇ mlt Mss ut Q cf 𝔗⁻ᴹˢ || ^{b–b} 𝔊 καὶ ἡ μάχαιρα ἐξῆλθεν (ᴮᴹˢ ad καὶ αὐτὴ ἐξῆλθεν) καὶ ἔπεσεν cf 𝔏⁹³.⁹⁴ et gladius ipse exiit et cecidit, 𝔖 (w)hw npq. wnplt ʾjdh ʿl spsrh (cf 𝔖 9), 𝔗 whwʾ ʾzjl wpsʿ, 𝔙 qui fabrefactus levi motu egredi poterat et percutere
+9 ᵃ nonn Mss ותאחז, sed cf Mp
+10 ᵃ 𝔔 על || ᵇ mlt Mss om interv || ᶜ Ms 𝔔 פו— cf 𝔊ᴹˢˢ𝔖𝔗𝔙
+11 ᵃ > 𝔔
+14 ᵃ 𝔊 ἐν Χαρρει, 𝔖𝔗 brjn, 𝔖^{Bar Hebr} (explicitum:) castella, 𝔙 electi || ᵇ mlt Mss ℭ om interv || ᶜ mlt Mss ut Q cf Vrs || ᵈ > pc Mss 𝔊𝔖
+15 ᵃ pc Mss וב׳ cf 𝔊ᴹˢˢ 𝔖𝔗𝔙 || ᵇ 𝔖 bʾwlṣnʾ || ᶜ 𝔊 (ἐν) ενοοῦσαν, 𝔗 mtʿštjn
+18 ^{a–a} 𝔊 καὶ ἐν Δαν εἰ ἐξέλιπον/εν (19) ἃ ἔθεντο οἱ πιστοὶ τοῦ Ισραηλ ad mlt vb ex duplice versione, 𝔏⁹¹.⁹³.⁹⁴ et in Dan dicentes, 𝔗 (lmšʾl …) ʾm mšlmjn
+19 ᵃ ו add
+20 ᵃ > pc Mss cf 𝔊ᴹˢˢ𝔏⁹³.⁹⁴𝔖
+21 ᵃ pc Mss cit דּ׳ cf 𝔊𝔖𝔙
+22 ᵃ 𝔊 pr καὶ ἐλάλησεν πρὸς πᾶσαν τὴν πόλιν cf Ms ותאמר pro ותבוא, 𝔙 et locuta est eis || ᵇ sic L mlt Mss, permlt Mss בשפר
+23 ᵃ Msᶜᵒʳʳ על cf 𝔊ᴹˢˢ𝔖𝔗𝔙 || ᵇ > 2 Mss 𝔊ᴹˢˢ cf 8,16 || ᶜ mlt Mss ut Q cf Vrs (> 𝔊ᴸθ´)
+24 ᵃ Ms cit ואדונירם cf 𝔊⁻ᴸ𝔖 et 1 R 12,18
+25 ᵃ mlt Mss ut Q; 𝔊⁻ᴮᴬᴹˢ καὶ σούσα cf 𝔏⁹³.⁹⁴𝔗ᵉᵈ wšwšʾ, 𝔗ᶠ wšjšʾ cf 1 R 4,3, 𝔖 wšrjʾ cf 8,17
+26 ᵃ 𝔊ᴸσ´ (?) ὁ Ιεθερ cf 𝔖 jt(j)r et 23,38
+Cp 21, 1 ᵃ mlt Mss om interv || ᵇ Ms citt על cf Vrs || ᶜ 2 Mss citt ועל cf Vrs || ᵈ 𝔊 ad αὐτοῦ cf 𝔙
+4 ᵃ nonn Mss ut Q cf Vrs; nonn Mss לו
+6 ᵃ mlt Mss ut Q; 𝔔 ונתתם || ᵇ 𝔊α´σ´ ἐν Γαβαων, sed cf 1 S 11,4 15,34 || ᶜ mlt Mss om interv
+7 ᵃ cf 4,4ᵇ || ᵇ pc Mss ועל
+8 ᵃ mlt Mss מפיבשת || ᵇ 2 Mss מ(י)רב cf 𝔊ᴹˢˢ, 𝔖 ndb, 𝔗 mjrb drbjʾt mjkl ex 1 S 18,19 || ᶜ pc Mss cit לעזר׳ cf 𝔊ᴹˢˢ𝔖
+9 ᵃ nonn Mss ut Q cf Vrs || ᵇ nonn Mss ut Q || ᶜ pc Mss שׁנה—; 𝔊ᴸ ζειῶν = זו? cf 1 R 6,1.37 || ᵈ mlt Mss ut Q cf Vrs
+10 ᵃ Ms citt על cf 𝔊ᴹˢˢ𝔖𝔗𝔙 || ᵇ Ms cit בִּתְ׳ cf 𝔊⁻ᴸ
+11 ᵃ 𝔊ᴸ𝔏⁹³.⁹⁴ pr mlt vb cf 𝔊 16(?) || ᵇ 𝔊 ad mlt vb cf 𝔊 16(?)
+12 ᵃ 𝔊ᴹˢˢ ἀπὸ τοῦ τείχους cf 𝔗 ex 1 S 31,12 || ᵇ pc Mss שׁאן cf Jdc 1,27 || ᶜ nonn Mss ut Q || ^{d–d} nonn Mss ut Q
+14 ᵃ nonn Mss עצמות יה׳ ואת cf 𝔊ᴸᵖᴹˢ𝔗ᴹˢ || ᵇ > 𝔊ᴸ𝔖ᴬᴮ; 𝔊 ad καὶ (τὰ ὀστᾶ) (πάντων) τῶν ἡλιασθέντων τῶν… || ᶜ mlt Mss כּכל cf 𝔊ᴸ𝔗ᶠ
+16 ᵃ mlt Mss ut Q cf 𝔊𝔗𝔙 (Jesbidenob), 𝔖 (15 wdḥl[w] dwjd) wjwʾb wʾbjšj cf 17; 𝔊ᴸᴹˢˢ alit || ᵇ 𝔏⁹⁴ ad spata, 𝔖 ad spsrʾ, 𝔗 ad ʾspnjqj, 𝔙 ad ense
+17 ᵃ > Q^{e silentio} pc Mss citt 𝔊𝔗ᴹˢ𝔙 || ᵇ > Ms citt 𝔖𝔙ᴹˢˢ || ᶜ mlt Mss במ׳ cf 𝔗ᴹˢˢ
+18 ᵃ mlt Mss בנוב cf 16.19ᵃ, 𝔊 ἐν Γεθ cf 𝔖 et 20, 𝔊ᴹˢˢ ἐν Γαρζελ cf 𝔏⁹³.⁹⁴ et 1 Ch 20,4
+19 ᵃ mlt Mss בנוב cf 16.18ᵃ, 𝔊 Ρομ/β; > 𝔖 || ᵇ permlt Mss ר min || ᶜ 2 Mss וחץ ex 1 S 17,7
+20 ᵃ mlt Mss ut Q cf 𝔊⁻ᴸ𝔖, σ´ πρόμετρος, 𝔗 mšḥn, 𝔙 excelsus
+21 ᵃ 𝔊ᴹˢˢ Ιωναδαβ cf 𝔖 et 13,3sqq || ᵇ mlt Mss ut Q; pc Mss Qᴹˢˢ שמעא cf 𝔗ᶠ, 𝔊ᴹˢˢ Σαμα(α) cf 𝔖𝔙
+Cp 22, 1 ᵃ nonn Mss ומיד cf Ps 18,1
+2 ᵃ 𝔊ᴸ𝔖 ad aliquot vb cf Ps 18,2
+3 ᵃ 𝔊⁻ᴹˢ ὁ θεός μου cf 𝔗𝔙 et Ps 18,3
+5 ᵃ pc Mss חבלי cf 𝔖 et Ps 18,5 || ᵇ pc Mss ונ׳ cf 𝔊ᴹˢˢ𝔖
+7 ᵃ 𝔖 ad qdmwhj ʿlt cf 𝔙 veniet et Ps 18,7
+8 ᵃ mlt Mss ut Q; mlt Mss ותת׳ || ᵇ nonn Mss וּמ׳ cf 𝔊𝔖𝔗ᴹˢ et Ps 18,8 || ᶜ 2 Mss cit הרים cf 𝔖 (d)ṭwrʾ (pl), 𝔙 montium et Ps 18,8 || ᵈ 𝔊 αὐτοῖς cf 𝔖
+11 ᵃ permlt Mss וידא cf 𝔖𝔗𝔙 et Ps 18,11
+12 ᵃ 2 Mss ad סתרו cf 𝔊𝔖 et Ps 18,12 || ᵇ nonn Mss ס(ו)כו cf 𝔊𝔖 et Ps 18,12 סכתו || ᶜ 𝔊⁻ᴸ σκότος (𝔊ᴸ ἐφείσατο a חשׂך), 𝔖 ḥšwkʾ cf Ps 18,12
+14 ᵃ 𝔊ᴹˢˢ𝔖 pr cop cf Ps 18,14
+15 ᵃ 𝔊ᴸᵖᴹˢ𝔖ᴬᴮ𝔙 om cop || ᵇ mlt Mss ut Q
+16 ᵃ Ms מים cf 𝔖 et Ps 18,16 || ᵇ 𝔊𝔖𝔙 pr cop cf Ps 18,16 || ᶜ nonn Mss מִגּ׳ cf 𝔊ᴸ𝔖𝔙 et Ps 18,16 מגערתך
+17 ᵃ 𝔊𝔖^{BC}𝔙 pr cop || ᵇ 𝔊ᴸ𝔖 pr cop
+18 ᵃ mlt Mss 𝔊ᴸᴹˢ𝔖 וּמ׳
+19 ᵃ mlt Mss לְמ׳ cf Ps 18,19
+20 ᵃ 𝔊⁻ᴸ𝔖 pr cop || ᵇ mlt Mss חָפֵ֥ץ
+21 ᵃ pc Mss קי— cf Ps 18,21 || ᵇ 𝔊⁻ᴸᴮ𝔖𝔙 pr cop
+23 ᵃ mlt Mss ut Q cf Vrs et Ps 18,23; 2 Mss טי— || ^{b–b} Ms תי ולא— || ᶜ Ms אסיר cf 𝔖𝔙 et Ps 18,23 || ᵈ pc Mss ני— cf 𝔊⁻ᴮᴬᴹˢ𝔖𝔙 et Ps 18,23, nonn Mss נו—, 𝔊 ἀπʼ αὐτῶν cf 𝔗
+24 ᵃ 2 Mss ואהי cf Ps 18,24 || ᵇ 2 Mss עמו cf 𝔊ᴸᴹˢˢ𝔖𝔙 et Ps 18,24
+25 ᵃ 𝔊(𝔖𝔙) καὶ κατὰ τήν καθαριότητα τῶν χειρῶν μου cf 21 et Ps 18,25 || ᵇ mlt Mss ני— cf 𝔊ᴹˢ
+26 ᵃ mlt Mss ועם cf 𝔊𝔖𝔙 || ᵇ pc Mss גבר cf 𝔊𝔖 et Ps 18,26 גְּבַר
+27 ᵃ pc Mss ברר— cf Ps 18,27 || ᵇ pc Mss עם || ᶜ 2 Mssפתל— cf Ps 18,27
+28 ᵃ 𝔊ᴹˢˢ ὅτι σύ cf 𝔖 mṭl dʾnt et Ps 18,28 ex 29 || ^{b–b} pc Mssᵂ ועינ֥יך על־רמ֖ים || ᶜ 𝔊𝔖 om suff cf Ps 18,28 || ᵈ > 𝔊ᴸᴹˢˢ𝔖𝔙 cf Ps 18,28
+29 ᵃ mlt Mss pr תאיר cf 𝔊ᴹˢˢ𝔖 et Ps 18,29 || ᵇ Ms ad אלהי || ᶜ 𝔊ᴸ𝔙 2 sg
+30 ᵃ mlt Mss וּב׳ cf 𝔊𝔖𝔗ᴹˢˢ et Ps 18,30
+33 ᵃ 𝔔 מאזרני cf 𝔊ᴸ𝔖𝔙 et Ps 18,33 || ᵇ Ms (?) ויתן cf 𝔊ᴹˢˢ𝔖 et Ps 18,33 || ᶜ mlt Mss ut Q cf 𝔊⁻ᴹˢ𝔖𝔗𝔙 et Ps 18,33
+34 ᵃ mlt Mss ut Q cf Vrs et Ps 18,34; nonn Mss K(?) לו— || ᵇ pc Mss על || ᶜ Ms תיו—, 𝔊 τὰ ὕψη(λα), 𝔖^{C} rwmʾ (sg), 𝔖ᴬᴮ rwmj (sg)
+35 ᵃ Ms חתת— cf 𝔊ᴸ οὐκ ἠσθένησε et 1 S 2,4
+36 ᵃ 𝔊 suff 1 sg cf 𝔗ᶠ; 𝔖^{C} om suff cf 𝔖 Ps 18,36 || ᵇ nonn Mss וענוָתך ex Ps 18,36, 𝔊⁻ᴸ ἡ ὑπακοή σου, 𝔊ᴸ ἡ παιδ(ε)ία σου, 𝔖 wmwkkk, 𝔗 wbmjmrk, 𝔙 et mansuetudo mea; 𝔔 ועזרתך
+39 ^{a–a} 𝔊𝔖 om alterum verb; 𝔔 אמח]צם ut Ps 18,39 || ᵇ 𝔖 pr nškḥwn, 𝔗 pr jkjlw cf Ps 18,39 || ᶜ 2 Mss יפ׳ cf 𝔖^{C}𝔙 (?) et Ps 18,39
+40 ᵃ pc Mss ותאז׳ cf Ps 18,40; 𝔊⁻ᴸ καὶ ἐνισχύσεις με cf Jes 45,5 a אזר, 𝔗 wsʿdtnj a עזר || ᵇ 𝔔𝔊ᴹˢˢ𝔖 pr cop
+41 ^{a–a} Ms וּמ׳ אצ׳ cf 𝔊ᴹˢ 𝔖 et Ps 18,41 || ᵇ 𝔊⁻ᴸ 2 sg cf 𝔊 Hier Ps 18,41
+42 ᵃ Ms יְשַׁוְּעוּ cf Vrs et Ps 18,42
+43 ᵃ Ms pr על; 𝔔 ל[פני ארח; 𝔊ᴸ ἐπὶ πρόσωπον/υ ἀνέμου/ων cf 𝔖 ʿl ʾpj rwḥʾ et Ps 18,43 || ᵇ > pc Mss 𝔔; mlt Mss ארקם cf Ps 18,43 || ᶜ > Ms 𝔊⁻ᴹˢ𝔖 cf Ps 18,43; Ms 𝔙 (?) וא׳
+44 ᵃ Ms citt 𝔊ᴹˢˢ𝔖𝔙 תפ׳ cf Ps 18,44 || ᵇ pc Mss 𝔊ᴸ𝔖𝔗 עם cf Ps 18,44, pc Mss Seb 𝔊𝔗ᴹˢˢ עמים || ᶜ Ms cit תשׂימני cf 𝔊ᴸ𝔖𝔗 et Ps 18,44; 𝔊ᴹˢ𝔖ᴬᴮ pr cop
+45 ᵃ 𝔔 > v a, 𝔊ᴹˢˢ𝔖 v b ante v a cf Ps 18,45 || ᵇ pc Mss יכ׳ cf Ps 18,45 || ᶜ nonn Mss לְשֵׁמַע cf 𝔊𝔖𝔗⁻ᴮᵘˣᵗ; 𝔖^{ABcorrC} pr cop
+46 ^{a–a} 𝔔 לא יחגרו ממסרותם[… || ᵇ Ms יכלו cf 𝔖, 𝔗 jswpwn || ᶜ Ms ויגחרו
+47 ᵃ > nonn Mss 𝔊ᴹˢˢ𝔖 cf Ps 18,47
+48 ᵃ 𝔔 ומרדד cf 𝔊ᴸ; Ms 𝔊ᴹˢˢ𝔖^{C} מ׳; 𝔊⁻ᴸ (καὶ) παιδεύων
+49 ᵃ 2 Mss 𝔖^{C} מ׳ cf Ps 18,49 || ᵇ pc Mss מ׳; 𝔖ᴬ ad (w)ʾp (mn) cf Ps 18,49 (𝔖 alit) || ᶜ mlt Mss 𝔖⁻ᴮ* וּמ׳ || ᵈ Ms 𝔙 sg cf Ps 18,49 || ᵉ 𝔔 תנ[צרני cf Ps 140,2
+50 ^{a–a} pc Mss 𝔊ᴸᴹˢˢ𝔖 invers cf Ps 18,50
+51 ᵃ mlt Mss ut Q; Ps 18,51 Vrs ut K
+Cp 23, 1 ᵃ Ms citt 𝔊ᴸ𝔏⁹³.⁹⁴ (fidelis a אמן) 𝔖 נ׳ || ^{b–b} 𝔔 הקיֹםֹ אל
+3 ᵃ 𝔊ᴸ Ιακωβ cf 𝔏⁹³.⁹⁴ et 1 || ᵇ > 2 Mss; 𝔖 pr cop; 𝔊ᴸ ἐν ἐμοί cf 𝔏⁹³.⁹⁴ || ᶜ mlt Mss בְּי׳ cf 𝔊ᴸ𝔏⁹³.⁹⁴𝔖𝔗𝔙
+4 ᵃ 𝔊ᴸ𝔏⁹³.⁹⁴𝔖𝔙 om cop || ᵇ mlt Mss 𝔖 וּמ׳ cf 𝔊⁻ᴸ καὶ ὡς ἐξ ὑετοῦ, 𝔊ᴸ ὡς ὑετὸς (ὡς β.), 𝔏⁹³.⁹⁴ quasi pluvia, 𝔙 et sicut pluviis
+5 ᵃ pc Mss לו || ᵇ > pc Mss 𝔖𝔗(?); pc Mss בּי || ᶜ > 𝔊ᴸ𝔖
+7 ᵃ 𝔊ᴸ ἐὰν μή cf 𝔏⁹³.⁹⁴
+8 ᵃ pc Mss citt 𝔊ᴹˢˢ𝔖𝔗ᴹˢ וא׳ || ^{b–b} 𝔊⁻ᴸ Ιεβοσθε, 𝔊ᴸ Ιεσβααλ cf 𝔏⁹³.⁹⁴ || ᶜ Ms הַחַ׳ cf 𝔙 sapientissimus, 𝔊⁻ᴸ ὁ Χαναναιος, 𝔖 qdmjʾ … || ᵈ mlt Mss השלישי cf 𝔊⁻ᴸ𝔖, 𝔊ᴸ τῶν τριῶν, 𝔏⁹³.⁹⁴ de tribus, 𝔙 inter tres || ᵉ pc Mss cit וה׳ || ^{f–f} 2 Mss cit ad הוא עורר את־חניתו cf 18; 1 Ch 11,11 et 𝔊⁻ᴸᴬᴹˢ || ᵍ mlt Mss ut Q || ʰ nonn Mss ut Q
+9 ᵃ mlt Mss ut Q || ᵇ mlt Mss ut Q cf Vrs || ^{c–c} 𝔙 ahoi ex 1 Ch 11,12 || ᵈ mlt Mss ut Q || ^{e–e} 𝔊ᴹˢˢ pr οὗτος ἦν ex 1 Ch 11,13 || ^{f–f} 𝔊 (καὶ ἐν τῷ ὀνειδίσαι αὐτὸν ἐν τοῖς ἀλλοφύλοις), 𝔖 kd ḥsdw ʾnwn plštjʾ, 𝔗 kd ḥsjdw plštʾj, 𝔙 quando exprobraverunt philisthim || ᵍ 𝔊ᴹˢˢ pr καὶ οἱ ἀλλόφυλοι, 𝔖𝔗𝔙 pr cop
+10 ᵃ 𝔊ᴹˢˢ𝔖 וה׳ || ᵇ 𝔖 ad qṭjlʾ (pl) cf 𝔗𝔙 caesorum et 1 Ch 10,8
+11 ᵃ permlt Mss שׁמה cf 25.33 || ᵇ 𝔊ᴸ ἐπὶ σιάγονα cf Jdc 15,9, 𝔙 in statione cf 13sq
+13 ᵃ mlt Mss ut Q cf Vrs || ^{b–b} 𝔊 om ראשׁ; 𝔖 mn gbrʾ (pl), 𝔗 mgbrj rjšj mšrjtʾ cf 𝔗 18 || ᶜ 𝔊⁻ᴸ nom proprium, 𝔊ᴸ εἰς τὴν πέτραν || ᵈ 𝔊 καὶ τάγμα(τα), 𝔗 wmšrjt, 𝔙 castra autem cf 11
+14 ᵃ 𝔖 wrwrbnʾ (pl), 𝔗 wʾjsṭrṭjg cf 1 Ch 11,16
+15 ᵃ nonn Mss Qᴹˢˢ מבּ(ו)ר
+16 ᵃ cf 15ᵃ || ᵇ pc Mss ad דוד cf 𝔊ᴸ
+17 ᵃ permlt Mss מי׳ cf 𝔊ᴸ𝔖𝔗 || ᵇ pc Mss שות— cf 𝔊𝔗 || ᶜ 𝔊 ad πίομαι, 𝔙 ad et animarum periculum bibam
+18 ᵃ mlt Mss ut Q cf 𝔊𝔙; 2 Mss שלשים cf 𝔖 et 13ᵇ.19ᵃ, 𝔗 (rjš) gbrjʾ cf 13ᵇ.19ᵃ || ^{b–b} > 𝔖^{ABC} || ᶜ pc Mss ולא, cf 19.23
+19 ᵃ Ms השלשים cf 𝔖, 𝔗ᴹˢˢ tltʾ gbrjʾ cf 18ᵃ || ᵇ > 𝔊σ´𝔖𝔗𝔙; α´ ὅτι || ^{c–c} 𝔖 wnṣḥnʾ ʾjk tltjn ʿbd hwʾ cf 𝔖 22sq
+20 ᵃ > 2 Mss 𝔊⁻ᴸ𝔖 𝔗ᴹˢ𝔙 || ᵇ mlt Mss ut Q cf 𝔖𝔙; 𝔊⁻ᴸ αὐτός || ᶜ 𝔊 υἱοὺς Αριηλ cf 𝔏ᵍ¹, 𝔖 gnbrjn, 𝔗 rbrbj; 𝔙 leones || ᵈ nonn Mss ut Q, sed cf Thr 3,10 || ᵉ cf 15ᵃ
+21 ᵃ mlt Mss ut Q cf 𝔊𝔖^{-C}𝔗𝔙
+22 ᵃ pc Mss ולא cf 18.23 || ᵇ 𝔖 ad wnṣḥnʾ cf 19ᶜ.23ᵃ || ᶜ 𝔖 btltjn cf 18sq
+23 ^{a–a} 𝔖 wnṣḥnʾ ʾjk (d) tltjn (𝔖^{C} ad gbrjn)) ʿbd hwʾ cf 19ᶜ || ᵇ pc Mss השלשה cf 𝔊⁻ᴸ (𝔊ᴸ … τριῶν αὐτῶν) || ᶜ 𝔊ᴸ τὴν φυλακὴν αὐτοῦ cf 𝔖 1 Ch 11,25
+24 ^{a–a} permlt Mss עשהאל cf 3,27.30 || ^{b–b} > 𝔖 || ᶜ pc Mss מבית cf 𝔊ᴹˢˢ𝔗𝔙
+25 ᵃ nonn Mss 𝔗ᶠ שמא cf 11 || ᵇ pc Mss החררי cf 𝔙 arari || ^{c–c} > 𝔊⁻ᴹˢˢ𝔖 || ᵈ 2 Mss החררי, Ms החררי
+27 ᵃ 𝔊ᴹˢˢ σαβ— cf 21,18
+29 ᵃ mlt Mss חלד cf 𝔗ᶠ𝔙
+30 ᵃ nonn Mss הפ׳ || ᵇ pc Mss חדי cf 𝔖
+32 ^{a–a} 𝔊ᴹˢˢ βασαι ὁ γωυνι, 𝔊ᴸ ιασσαι ὁ γουνει || ᵇ 𝔊ᴹˢˢ ad υἱός
+33 ᵃ pc Mss שמא cf 25 || ᵇ nonn Mss שרד cf 𝔊ᴬ αραδ, 𝔖 ʾšdd, 𝔊ᴸ σαχαρω cf 1 Ch 11,35 || ᶜ pc Mss 𝔔ᴳ (ה)הררי cf 𝔗 (?), nonn Mss הארדי
+34 ᵃ > 𝔊ᴹˢˢ𝔖
+35 ᵃ mlt Mss ut Q cf Vrs || ᵇ pc Mss הארכי cf 𝔊
+37 ᵃ mlt Mss ut Q cf 𝔊⁻ᴸ𝔖𝔗⁻ᶠ𝔙
+38 ᵃ 𝔖 dmn lkjš
+Cp 24, 2 ᵃ 𝔊ᴸᴹˢ καὶ πρὸς τοὺς ἄρχοντας cf 𝔖 wlrbj (𝔖^{C} wlklhwn rbj, 𝔖ᴬ…hlkw, 𝔖^{BC}…hlk)
+3 ᵃ cit יוסף cf 𝔊ᴸᴹˢˢ𝔖𝔙 || ᵇ 2 Mss את cf Hi 42,10
+4 ᵃ pc Mss cit על cf 𝔊ᴸ𝔖𝔗 || ᵇ 𝔊ᴸ ἐκ προσώπου, 𝔖 mn qdm (cf Jdc 5,5 sed etiam Gn 4,16), 𝔙 a facie
+5 ^{a–a} 𝔊ᴸ καὶ ἔρξαντο ἀπὸ αροηρ καὶ ἀπό… || ^{b–b} pc Mss citt ואליעזר cf 𝔊⁻ᴸ (καὶ Ελιεζερ) 𝔖𝔗ᴹˢˢ, 𝔙 et per Jazer (6 transierunt …)
+6 ᵃ 𝔊𝔖 (7), 𝔗 verb, 𝔙 circumeuntesque
+9 ᵃ > pc Mss
+10 ᵃ > cit 𝔊⁻ᴸ𝔖𝔙; 𝔊ᴸ (μετὰ) ταῦτα ὅτι (ἠρίθμησε) || ᵇ mlt Mss om interv
+11 ᵃ mlt Mss om interv
+13 ᵃ > pc Mss || ᵇ 𝔊 τρία ex 1 Ch 21,12 || ᶜ permlt Mss ואם cf 𝔗ᴹˢˢ || ᵈ 𝔖 sg || ᵉ pc Mss citt וע׳ cf 𝔊ᴸ𝔖^{ACBcorr}
+14 ᵃ mlt Mss ut Q cf 𝔊𝔗𝔙
+15 ᵃ 𝔊𝔏⁹³.⁹⁴ pr mlt vb || ^{b–b} 𝔊 ἕως ὥρας ἀρίστου cf 𝔏⁹³.⁹⁴ et 1 R 13,7; 𝔖 wʿdmʾ lšt šʿjn (ad horam sextam)
+16 ᵃ pc Mss להשחיתה || ᵇ pc Mss על || ᶜ 𝔔 עומד cf 𝔊ᴹˢˢ𝔖 et 1 Ch 21,15 || ᵈ mlt Mss ut Q cf 𝔗ᶠ𝔙 || ᵉ 𝔔 ad …] [ם וחר]ב[ו שלופה בידו…[ הֹארץ וביןֹ ]… cf 1 Ch 21,16 || ᶠ Mss om interv
+17 ᵃ 𝔔 הרעה הרעתי cf 𝔊⁻ᴮ*ᴹˢ et 1 Ch 21,17
+18 ᵃ > 𝔔 || ᵇ pc Mss citt וה׳ cf 𝔊𝔏⁹³.⁹⁴ || ᵇ mlt Mss ut Q cf 𝔗𝔙
+19 ᵃ pc Mss בּד׳ cf 𝔖
+20 ^{a–a} 𝔔 בשקים וארנא דש חטֹים [… cf 1 Ch 21,20 || ᵇ 𝔊⁻ᴸ ἐπάνω αὐτοῦ, 𝔖 bʾwrḥʾ, 𝔗 ʿlwhj, 𝔙 ad se || ᶜ nonn Mss לא׳ cf 𝔗ᴹˢˢ, pc Mss על א׳ cf 𝔗ᴹˢˢ
+22 ᵃ mlt Mss ut Q cf Vrs
+23 ᵃ > pc Mss 𝔊𝔏⁹³.⁹⁴ || ᵇ mlt Mss om interv
+24 ᵃ mlt Mss קנה cf Lv 25,14 1 Ch 21,24 || ᵇ mlt Mss מאתך
+25 ᵃ 𝔊𝔏⁹³.⁹⁴ ad mlt vb
+

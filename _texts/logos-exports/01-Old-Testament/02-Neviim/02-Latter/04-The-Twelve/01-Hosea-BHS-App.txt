@@ -1,0 +1,171 @@
+BHS APPARATUS — HOSEA (complete)
+
+Converted 17 September 2026 from the Logos RTF export 01-Hosea-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:48 16 September 2026.
+
+================================================================
+
+Hosea
+Cp 1, 2 ᵃ 𝔊 λόγου cf 𝔖
+6 ^{a–a} 𝔊 ἀντιτασσόμενος ἀντιτάξομαι, prp שָׂנאֹ אֶשְׂנָא; frt l לאֹ אֶשָּׂא
+7 ^{a–a} add
+9 ^{a–a} prb l אֱלֹהֵיכֶם
+Cp 2, 4 ^{a–a} nonn add hab, sed l 𝔐 || ᵇ sic L, mlt Mss Edd ניהָ—
+5 ^{a–a} cf 4^{a–a}
+8 ᵃ add? || ᵇ l דרכָהּ cf 𝔊𝔖
+9 ᵃ 𝔊(𝔖) ad αὐτούς
+10 ^{a–a} add?
+11 ᵃ frt hemist exc
+14 ᵃ prp אתנַן
+15 ᵃ prp תְּקַטֵּר cf 4,13 11,2
+17 ᵃ sic L = וּכ׳ ad וִכ׳, mlt Mss Edd וּכ׳
+18 ᵃ prp תקרָא לִי cf 𝔊𝔖𝔙 || ᵇ prp תקרָא cf 𝔊𝔖𝔙
+19 ᵃ excipit 17?
+21 ᵃ excipit 18?
+22 ᵃ mlt Mss 𝔙 כִּי אֲנִי
+23 ᵃ > 𝔊𝔖
+25 ᵃ prp הוּ—
+Cp 3, 1 ᵃ prb l אֹהֶבֶת cf 𝔊𝔖𝔙 || ^{b–b} prp כאהבָתִי, sed cf 1,2
+2 ^{a–a} 𝔊 καὶ νεβελ οἴνου
+3 ᵃ prb ins לאֹ אָבוֹא
+5 ^{a–a} nonn add hab, sed l 𝔐
+Cp 4, 2 ᵃ 𝔊 κέχυται ἐπὶ τῆς γῆς = פרְצו בָאָרֶץ? prp וּפָרֹץ, frt l פֶּרֶץ פָּרָצוּ (hpgr)
+3 ᵃ > 𝔊* (σὺν πᾶσι), frt l בְּ(כָל) vel עִם־(כָּל) || ᵇ 𝔊* ad καὶ σὺν τοῖς ἑρπετοῖς τῆς γῆς = וּבְרֶמֶשׂ הָאֲדָמָה cf 2,20, frt ins m cs; al dl aγb
+4 ^{a–a} crrp; frt l וְעִמְּךָ אֲנִי רָב (הַ)כֹּהֵן vel וְעִמְּךָ רִיבִי (הַ)כֹּהֵן
+5 ᵃ 𝔊 ἡμέρας, prp ביום vel יוֹמָם || ^{b–b} dl gl? al aβ add hab || ^{c–c} prp ודמיתָ אֶת־עַמֶּךָ || ᵈ frt l וְדִמִּיתָ cf 𝔙
+6 ᵃ prp נדמָה || ᵇ mlt Mss ואמאסך; crrp ex ואמאסך אֲנִי (𝔊 κἀγὼ ἀπώσομαι σέ)?
+7 ᵃ Tiq soph כבודִי || ᵇ 𝔗𝔖 3 pl, prp הֵמִירוּ (Tiq soph)
+8 ᵃ nonn Mss Vrs נפשָׁם, prb l
+9 ᵃ tot v add?
+10 ᵃ prp c 2 Mss וְהזנו, al יזנו || ^{b–b} prb add || ^{c–c} frt l אֹתִי
+11 ^{a–a} prb l זְנוּנִים et cj c 10 cf 𝔊𝔖
+12 ᵃ cj c 11 cf 𝔊 || ᵇ prb l c pc Mss עָם— cf 𝔗𝔖𝔙
+13 ᵃ prp יהם—
+14 ^{a–a} add? || ᵇ cf 13ᵃ || ᶜ l יִפּרדו
+15 ᵃ tot v prb add cf Am 5,5 8,14 || ᵇ nonn Mss 𝔗ᴹˢˢ אל; 𝔊 (καὶ Ιουδα) μή
+17 ^{a–a} frt l וַיָּנַח בְּ et cj c 18
+18 ^{a–a} cj c 17 || ᵇ prb l סֹד || ^{c–c} exc vb? || ^{d–d} dl הבו, dttg (cf 𝔊) vel potius l אָהֹב אָהֲבוּ (cf σ´) || ᵉ 𝔊 ἐκ φρυάγματος αὐτῆς (vel αὐτῶν), prp מִגְּאוֹנָם; frt l (קְלון) גַּנֵּיהֶם
+19 ᵃ prb l אותם cf v b || ᵇ prb l מִמִּזְבְּחותם cf 𝔊𝔖𝔗
+Cp 5, 1 ᵃ prp שָׂרֵי
+2 ^{a–a} crrp; prp וְשַׁחַת הַשִּׁטִּים, prb l בַּשִּׁטִּים וְשַׁחַת || ᵇ prp תַּעֲמִיקוּ, sed l 𝔐 || ^{c–c} 𝔊(𝔙) παιδευτὴς ὑμῶν, prb l מְיַסֵּר לָכֶם; prp מוֹסֵר לכ(ל)ם
+3 ᵃ l הִזְנָה cf Vrs
+4 ᵃ prp יתנום (מ hpgr)
+5 ᵃ prp ענה (ו dttg) || ᵇ dl, var lect ad ואפרים || ^{c–c} prb l יכשֵׁל בעונוֹ || ^{d–d} dl m cs, gl
+7 ^{a–a} prp יאֹכַל מַשְׁחִית vel יְאֻכְּלוּ מֵחֲרִשִׁית || ᵇ 𝔊 ἡ ἐρυσίβη καί
+8 ᵃ 𝔊 ἐξέστη; prp יֶחֱרַד vel הַחֲרִדוּ, l 𝔐
+11 ^{a–a} 𝔊 κατεδυνάστευσεν Εφραιμ τὸν ἀντίδικον αὐτοῦ, κατεπάτησε κρίμα; l 𝔐 cf 𝔖𝔗𝔙 || ᵇ prb l צָרוֹ (= צו ad ו init 12?); prp שָׁוְא cf 𝔊𝔖(𝔗)
+12 ᵃ frt l אני cf 11ᵇ
+13 ᵃ prp וּבֵית יְהודה m cs || ᵇ prb ins (בֵּית) יְהוּדָה cf aβ et 14aβ || ^{c–c} prb l מַלְכִּי רָב vel רָב מלך cf 10,6^{b–b} || ᵈ aut dl aut l להם et מֵהם || ᵉ prb l יַגהה
+15 ᵃ tot v add? || ᵇ 𝔊𝔙 hinc incip cp 6
+Cp 6, 1 ᵃ frt l וַיַּךְ vel וְהוּא נָכָה
+3 ᵃ prb exc nonn vb; al dl || ^{b–b} prp כְּשַׁחֲרֵנוּ כֵן נִמְצָאֶנּוּ, l 𝔐 || ᶜ l יַרְוֶה cf 𝔖𝔗
+5 ᵃ prp חֲצבתיךָ || ᵇ frt l בָּאֲבָנִים cf Ex 31,18 || ᶜ prp הרגתיךָ; frt l הוֹדַעְתִּי || ᵈ exc hemist? al vix recte cj 5ᵇ c 3aγ || ^{e–e} 𝔊*(𝔖𝔗) καὶ τὸ κρίμα μου ὡς φῶς, l ומשׁפטִי כָאוֹר
+7 ᵃ prb add || ᵇ prb l באדם
+8 ^{a–a} prp עִקְּבֵיהֶם דּם
+9 ᵃ frt l כְּחֻבָּא vel כְּחֶבֶר || ᵇ 𝔊 ἔκρυψαν, frt l חֻבְּאוּ cf Hi 24,4
+10 ^{a–a} prp בבית־אֵל || ᵇ mlt Mss ut Q || ^{c–c} prb add cf 5,3ᵇ
+11 ᵃ al tot v al sol v a vel aα add hab || ᵇ prp c pc Mss 𝔊ᴸ להּ || ᶜ frt l כְּשׁובי et cj c 7,1
+Cp 7, 1 ᵃ prp ורעַת cf 𝔊𝔖𝔙 || ᵇ exc hemist? || ᶜ frt ins יִ(פְשֹׁט) הַבַּיְתָה || ᵈ prp פּשֵׁט cf 𝔊 (ἐκδιδύσκων) 𝔖
+2 ᵃ prp כִּי־
+3 ᵃ prb l יִמְשְׁחוּ
+4 ᵃ prp אֹנְפים; frt ins כַּתַּנּוּר ex 6 cf 6ᵃ || ^{b–b} prp בֹּעֵר הֵם֑ || ^{c–c} gl ad 6?
+5 ^{a–a} frt l בְּיום מלכָּם cf 𝔗 || ᵇ pc Mss 𝔊𝔖𝔙 הֵחֵלּוּ || ^{c–c} frt l חֲמָתָם י׳ || ᵈ var lect ad יד(ו)? cf e–e || ^{e–e} frt l יֵינוֹ (מסך = ) משׂך
+6 ᵃ frt tr post אנפים (מנאפים) 4ᵃ || ᵇ 𝔖(𝔗) rwgzhwn, l אַפְּהֶם
+10 ᵃ aut v a (cf 5,5) aut tot v add
+12 ᵃ = אאס׳ id est אֶאֶסְרֵם || ^{b–b} crrp? prp עַל־רָעָתָם מִשָּׁם || ᶜ frt l כִּשְׁמֹעַ
+14 ᵃ l יֵילִילוּ || ᵇ prp (על־)מִזְבּחוֹתָם || ᶜ l c nonn Mss 𝔊 (κατετέμνοντο) יתגודדו ut 1 R 18,28 || ᵈ 𝔗(𝔖) mrdw cf 𝔊, prb l יָסֹרוּ
+15 ᵃ > 𝔊, dl
+16 ^{a–a} 𝔊(𝔖) εἰς οὐθέν, prp לַבְּלִיַּעַל; frt l לַבַּעַל || ^{b–b} crrp? prp לַעֲגָם (et desiit) וְזָל cf 8,13ᵇ
+Cp 8, 1 ᵃ prb exc stich || ᵇ prp כַּנֹּצֵר vel כַּשֹּׁמֵר
+2 ᵃ prp אֵלַי; exc vb? || ^{b–b} frt l ידענוך אֱלֹהֵי ישׂראל; al dl ישׂראל (cf 𝔊𝔖) et l אֱלֹהִים
+3 ᵃ sic L, mlt Mss Edd ירדְּפֽוֹ
+4 ^{a–a} nonn tr ante 8 || ᵇ sic L, mlt Mss Edd המלי֙כו || ^{c–c} prb add, gl
+5 ᵃ l זָנַחְתִּי; prp זְנַח cf 𝔊 α´θ´
+6 ^{a–a} frt l בְּנֵי ישׂראל et cj c 5ᵇ || ^{b–b} gl ad 6ᵇ?
+7 ᵃ prp לָהּ || ᵇ prp תעשׂה || ᶜ prp תַּעֲשֵׂהוּ
+8 ᵃ cf 9^{a–a}
+9 ^{a–a} frt tr post 8ᵃ || ᵇ prp נָתנו
+10 ᵃ prp c nonn Mss יתּנו || ᵇ crrp? prp אֲפִיצֵם || ^{c–c} prb l וְיֶחדְּלוּ מְעַט מִמְּשֹׁחַ cf 𝔊 || ᵈ l c mlt Mss 𝔊𝔖𝔗ᴹˢˢ𝔙 וְשׂרים
+11 ^{a–a} cj לְחֵטְא היו־לו cf 𝔊 || ^{b–b} > 𝔊ᴸ, dl (dttg)
+12 ^{a–a} prb l רֹב תּוֹרֹתָי֑ cf 𝔊𝔖 || ᵇ K רִבּוֹ
+13 ^{a–a} l זֶבַח אָהֲבוּ וַיּזבחו || ^{b–b} dl, gl || ᶜ l אֶזכר cf 12 || ᵈ l ואֶפקד || ^{e–e} frt add; cf 𝔊* ad καὶ ἐν Ἀσσυρίοις ἀκάθαρτα φάγονται ex 9,3
+14 ᵃ tot v add? || ^{b–b} al aγ vel sol ויהודה add hab || ᶜ prp ארמנתָיו, sed cf Am 1,7.10.14
+Cp 9, 1 ^{a–a} l (וְ)אַל־תָּגֵל cf Vrs || ^{b–b} add?
+2 ᵃ prb l יֵדָעֵם cf 𝔊 || ᵇ l c mlt Mss Vrs בם
+3 ^{a–a} add (gl ad 2)?
+4 ᵃ prp c 2 Mss יַעַרכו || ᵇ prb l לַחְמָם || ᶜ sic L, mlt Mss Edd יטּ׳
+6 ^{a–a} prb l יֵלכו אַשּׁוּר || ^{b–b} frt l מַחְמַדֵּי כספם
+7 ᵃ sic L, mlt Mss Edd השּׁ׳ || ^{b–b} tr ante bγ? cf d || ᶜ 𝔊 καὶ κακωθήσεται, prb l וְיָרֵעוּ vel וְיֵרַע לְ(ישׂראל); prp יָרִעוּ || ᵈ prb huc tr b–b || ᵉ prb l עונָם || ^{f–f} cf 8ᵇ
+8 ^{a–a} tr ֑ et prb l נב֑יא עם־אֹהֶל || ᵇ prb dl et huc tr 7^{f–f}
+9 ᵃ prb l שַׁחֲתוֹ || ^{b–b} add ex 8,13
+10 ᵃ prb dl cf 𝔖 || ᵇ prp יהם— cf 𝔊
+12 ᵃ = בסורי? prp בשׁורי in ulciscendo meo cf 𝔖
+13 ^{a–a} prb l אַיֶּלֶת vel al bestia; cf 11 || ^{b–b} 𝔊 εἰς θήραν παρέστησαν (𝔊ᴼᴸ παρέστη) τὰ τέκνα αὐτῶν (𝔊ᴸ αὐτοῦ), prp לְצַיִד שָׁתוּ לָהֶם (שָׁת לֹה) בָּנֶיהָ; frt l לַצַיָּד שָׁתְלָה (הִשְׁפִּילָה) בָנֶיהָ vel sim || ᶜ prb exc vb; prp וְכֵן
+14 ᵃ tot v add?
+16 ᵃ exc hemist? || ᵇ K בְלִי
+17 ᵃ 𝔊 ὁ θεός, prp אֱלֹהֵיהֶם
+Cp 10, 1 ᵃ prp יַשְׂגֶּה || ᵇ prp לוֹ פריו || ᶜ frt l מזבחות || ᵈ prp לוֹ ארצו || ᵉ frt l היטיב
+2 ᵃ prp חֻלּק (cf α´σ´ 𝔖𝔗𝔙) vel לֻקַּח || ᵇ prb ins מֵיְהוָה
+3 ^{a–a} tr ad fin 2 (homark c 3ᵃ) et l יָרְאוּ pro יראנו?
+4 ᵃ l דַּבֵּר
+5 ᵃ l לְעֵגֶל cf 𝔊θ´𝔖 (cf עליו bα) || ᵇ prb l שֹׁכְנֵי cf 𝔊𝔖 || ᶜ frt l יֶאֱבַל cf σ´ πενθήσει || ᵈ huc tr ֔ || ᵉ prb l יֵילִילוּ
+6 ᵃ prb l יוֹבִלוּ cf 𝔊𝔖𝔗 || ^{b–b} l לְמַלְ֫כִּי רָב cf 5,13^{c–c} || ᶜ prp מֵעֲצַבּוֹ vel מֵעָצְבּוֹ
+7 ^{a–a} l נדמָה שׁמר֑ון מלכה
+8 ᵃ prb ins c Ms בֵּית־
+9 ᵃ 𝔊(𝔙) ἥμαρτεν = חָטָא; frt l c pc Mss חַטַּאת || ᵇ prp מָרָדוּ || ᶜ frt l הֲלאֹ || ᵈ mlt Mss עַוְלָה
+10 ᵃ 𝔊* ἦλθον = בָּאתִי, frt l וּבָאתִי || ᵇ 𝔊 παιδεῦσαι αὐτούς, prp (וַ)אֲיַסְּרֵם || ᶜ 𝔊(𝔖𝔙) ἐν τῷ παιδεύεσθαι αὐτούς = בְּהִוָּסְרָם vel בְּיֻסְּרָם, prp לְיַסְּרֵם || ᵈ mlt Mss 𝔊𝔖𝔙 ut Q, K עֵינתם
+11 ᵃ l הֶעֱבַרְתִּי עֹל || ᵇ dl
+12 ^{a–a} 𝔊 εἰς καρπὸν ζωῆς || ᵇ prp כִּי עֵת cf 𝔊ᴸ (ὡς ἔτι καιρός) 𝔖 Hier (quoniam est tempus), al לָדַעַת (cf 𝔊 γνώσεως)
+13 ᵃ 𝔊 ad ἵνα τί, frt ins לָמָּה (hpgr) || ᵇ frt l וַא׳ || ᶜ l בְרִכְבְּךָ cf 𝔊
+14 ᵃ prp בְּעָרֶיךָ || ᵇ prb l יוּשַׁדּוּ || ^{c–c} add?
+15 ᵃ 𝔊 ποιήσω; prb cf c Ms יֵעָשֶׂה || ^{b–b} prb l בית־יִשְׂרָאֵל cf 𝔊 || ^{c–c} add? || ᵈ prb l בַּשַּׂעַר = בסער
+Cp 11, 1 ᵃ 𝔊 τὰ τέκνα αὐτοῦ cf 𝔗; prp לוֹ cf 2ᵃ
+2 ᵃ 𝔊 καθὼς μετεκάλεσα, l כְּקָרְאִי cf 𝔖; prp כְּדֵי קָרְאִי || ᵇ 𝔊(𝔖) ἐκ προσώπου μου αὐτοί, l מִפָּנַי הֵם et cj הם c sq
+3 ᵃ 𝔊 ἀνέλαβον αὐτόν = לְקַחְתִּיו?; 𝔖(𝔗) wqblt ʾnwn, frt l וָאֶקָּחֵם || ᵇ l c pc Mss (𝔊)𝔖𝔙 זרועתָי
+4/5 ᵃ crrp? prp אֱמֶת vel חֶסֶד || ^{b–b} prb l כְּמֵרִים עוּל || ᶜ prb l לְחָיָיו cf 𝔊* || ^{d–d} prb l וָאֵט אליו וָאוכיל לוֹ ׃ cf 𝔊 δυνήσομαι αὐτῷ
+5 ^{e–e} add?
+6 ᵃ prp בָנָיו et huc tr ֑ . || ^{b–b} var lect ad aβ? prp ואכְלה בִמְצוּדוֹתָיו, al וַאֲכָלָתַם ממ׳
+7 ^{a–a} crrp? prp מִמְּשׁוּבָתוֹ נִלְאָה (cf 𝔊), al חוֹלְאִים למשׁובתָם, al תלואים לַעֲצַבִּים || ^{b–b} prb l (וְהוּא) ואל־בַּעַל יִקרָ֔א || ^{c–c} prp הַאֶחְדַּל אֲרַחֵם
+8 ᵃ prb l רַחֲמָי cf 𝔖𝔗
+9 ^{a–a} prb l אֲבָעֵר, prp אוֹבֶה בָעֵר
+10/11 ^{a–a} add? || ^{b–b} > pc Mss
+11 ᶜ 𝔊 καὶ ἀποκαταστήσω αὐτούς, prb l וַהֲשִׁיבֹתִים
+Cp 12, 1 ᵃ add || ᵇ prb l אֵלִים cf bβ, prp בַּעַַל || ᶜ prp קְדֵשִׁים, l 𝔐
+2 ^{a–a} add (gl)? || ᵇ l יוֹבִלוּ cf 3ᵃ
+3 ᵃ l רִיב cf 2ᵇ || ᵇ prb l יִשְׁרָאֵל; exc hemist? || ᶜ l aut לפקד (cf 𝔊) aut יִפְקֹד
+5 ᵃ prp אֶת־ cf 4ᵇ; al l אֵל et dl מלאך (gl) || ᵇ l עִמּוֹ cf 𝔊ᴸᴹˢˢ𝔖
+6 ᵃ tot v add
+7 ᵃ frt l בְּאֹהָליך
+8 ᵃ prp לְעַקֵּשׁ, al לַעֲקֹב
+9 ᵃ 𝔊 οἱ πόνοι αὐτοῦ, prb l יגיעָיו || ^{b–b} prb l לוֹ לֶעון cf 𝔊 || ᶜ 𝔊 ἥμαρτεν, prb l חָטָא
+11 ᵃ 𝔊 πρός || ᵇ exc nonn vb?
+12 ᵃ crrp; prp עם־ vel בַּ׳ || ^{b–b} crrp || ᶜ prb l לַשֵּׁדִים
+15 ᵃ 𝔊(𝔖) καὶ παρώργισε; exc nonn vb?
+Cp 13, 1 ᵃ 𝔊 δικαιώματα, prp תּוֹרוֹת vel תּוֹרָתִי || ᵇ prb l נָשִׂיא vel נִשָּׂא cf 𝔖𝔗
+2 ᵃ 𝔊(𝔙) κατʼ εἰκόνα, prb l כְּתַבְנִית || ᵇ frt l אֱלֹהִים || ᶜ prb l זבחִים vel זָבְחוּ; al l זִבְחוּ et cj c bα
+3 ^{a–a} cf 6,4 || ᵇ l יסעַר
+4 ᵃ 𝔊 ad στερεῶν οὐρανὸν καὶ κτίζων γῆν, οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατιὰν τοῦ οὐρανοῦ, καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν
+5 ᵃ 𝔊(𝔖) ἐποίμαινόν σε, frt l רְעִיתִיךָ
+6 ᵃ prp כְּמוֹ רְעִיתִים || ᵇ add (dttg)?
+7 ᵃ 𝔊 καὶ ἔσομαι, l וְאֶהְיֶה || ᵇ 𝔊(𝔖𝔙) Ἀσσυρίων = אַשּׁוּר; prp אֶשְׁקֹד
+8 ᵃ 𝔊 καὶ καταφάγονται αὐτούς = וַאֲכָלוּם || ᵇ prp כלבים || ^{c–c} prp כְּחית השׂדה אֲבקעם
+9 ᵃ l aut שִׁחַתִּיךָ (cf 𝔖) aut אֲשַׁחֶתְךָ || ^{b–b} 𝔊(𝔖) τίς, l מִי
+10 ᵃ l אַיֵּה cf Vrs et 14ᵃ || ^{b–b} prp וְכל־שָׂריך וְיִשְׁפְּט֑וּךָ || ᶜ frt l צָריך || ^{d–d} add?
+13 ᵃ prp c pc Mss וְהוא || ^{b–b} prb l כְּעִתּוֹ
+14 ᵃ 𝔊(𝔖) ποῦ, l אַיֵּה cf 10ᵃ || ᵇ mlt Mss דברך (= דַבְרְךָ?); 𝔊(𝔖) ἡ δίκη σου
+15 ^{a–a} 𝔊(𝔖𝔙) ἀνὰ μέσον ἀδελφῶν διαστελεῖ = בין אחים יפרִיד || ^{b–b} frt l כְּאָחוּ || ᶜ 𝔊(𝔖𝔙) καὶ ἀναξηρανεῖ, prb l וְיוֹבִישׁ || ᵈ 𝔊(𝔖𝔙) ἐξερημώσει (𝔊ᴸ pr καί), prb l וְיַחֲרִיב || ^{e–e} 𝔊 καταξηρανεῖ τὴν γῆν αὐτοῦ καί, frt l יַשְׁאֶה אַרְצוֹ וְ(כל)
+Cp 14, 1 ^{a–a} add?
+2 ^{a–a} alterum vb add?
+3 ^{a–a} add? cf 𝔖 4.9 𝔗 9 || ᵇ crrp (cf 𝔊𝔖𝔗)? frt nonn vb exc || ᶜ l ונִקּח cf 𝔗 || ᵈ 𝔊(𝔖) καρπόν, l פְרִי
+4 ^{a–a} add
+5 ^{a–a} add?
+6 ᵃ prp ויט vel ויֹר || ᵇ l כַּלִּבְנֶה?
+7 ᵃ sic L, mlt Mss Edd וְרֵ֥יחַ || ᵇ prp כלבֹנָה
+8 ᵃ prb l (וְ)יֵשְׁבוּ cf 𝔊𝔖 || ᵇ frt l בצלִּי || ^{c–c} frt l וְיַפְרִחוּ גֶפֶן
+9 ᵃ 𝔊 αὐτῷ, frt l לּוֹ, sed cf 𝔖 wnʾmr ʾprjm = וְיאֹמַר אפרים || ^{b–b} 𝔊 ἐταπείνωσα αὐτόν, καὶ ἐγὼ κατισχύσω αὐτόν, prp ואשִׁיבנו) vel) עֲנִיתִיו וְאַאֲשְּׁרנו || ᶜ frt l פִּרְיוֹ
+

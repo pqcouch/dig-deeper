@@ -1,0 +1,63 @@
+BHS APPARATUS — HABAKKUK (complete, Cp 1–3)
+
+Converted 16 September 2026 from the Logos RTF export 08-Habakkuk-BHS-App.rtf with tools/logos_rtf2txt.py.
+The RTF carries true Unicode (sigla such as 𝔊 𝔖 𝔗 𝔔 𝔙, Hebrew in logical order), so nothing is decoded by guesswork.
+Superscripts are shown as Unicode superscripts (ᵃ, 𝔊ᴮᵃʳᵇ) or as ^{…} where none exists (^{a–a}).
+The pop-up abbreviation notes and hyperlink targets are omitted.
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia.
+5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft. Exported from Logos Bible Study, 16:23 16 September 2026.
+
+================================================================
+
+Habakuk
+Cp 1, 3 ᵃ frt l אביט cf 𝔖𝔗 || ^{b–b} var lect an gl ad sq? || ^{c–c} frt l אֶשָּׂא an exc nonn vb?
+4 ᵃ 𝔔 המ׳
+5 ᵃ 𝔊 οἱ καταφρονηταί = בֹגְדִים cf 𝔖, l 𝔐 || ᵇ 𝔊* ad ἀφανίσθητε = וָשֹׁמּוּ? || ᶜ 𝔊 ad ἐγώ cf 𝔖, frt ins אֲנִי vel potius l אֶפְעַל m cs
+6 ^{a–a} gl, dl; 𝔊 ad τοὺς μαχητάς, l sol (הַ)גִּבֹּרִים m cs
+7 ᵃ prb dl, var lect ad ומשׁפטו
+8 ᵃ 𝔔 וקול || ᵇ 𝔊 τῆς Ἀραβίας, prb l עֲרָבָה || ^{c–c} 𝔔 פשו ופרשו פרשו || ᵈ exc vb? || ᵉ cf 9^{a–a} || ᶠ > pc Mss 𝔊𝔖ᵂ, dttg? || ᵍ > 𝔔𝔖, frt dl
+9 ^{a–a} frt tr post 8ᵃ cf 8ᵉ; 𝔊 ἀνθεστηκότας προσώποις αὐτῶν ἐξ ἐναντίας, prp מְגֹרָה (מְגֹרַת) פניהם קִדְּמָה || ᵇ 𝔔 קדים, σ´(𝔙) ἄνεμος καύσων, 𝔖 ʿšjn, 𝔗 krwḥ qdwmʾ; prp קֵדְמָה || ᶜ 𝔊(𝔙) καὶ συνάξει, l וְיֶאסף cf 𝔖
+10 ᵃ 𝔔 יקלס || ᵇ 𝔔 pc Mss 𝔊(𝔖) והוא || ᶜ 𝔊(𝔙) καὶ βαλεῖ, l וְיִ׳ || ᵈ 𝔔 וילכדהו, 𝔊 καὶ κρατήσει αὐτοῦ; l וְיִלְכְּדֵהוּ cf 𝔙
+11 ᵃ prp יַחֲלֹף cf 𝔊𝔙 || ᵇ prb l כָּרוח || ᶜ prp וְיַעבר cf 𝔊𝔙 || ᵈ 𝔔 וישם, l וְיָשִׂם et cj c v b || ᵉ prb l הָ(י)ו—
+12 ^{a–a} 𝔊* ὁ θεὸς ὁ ἅγιός μου, prb l קָדְשִׁי אלהֵי || ^{b–b} l c Tiq soph לא תמות || ᶜ prp צוּרִי || ᵈ 𝔔 למוכיחו
+13 ᵃ 𝔔 ברע || ᵇ 𝔔 תביטו || ᶜ 𝔔 ותחריש cf 𝔖𝔗 || ᵈ > 𝔊*𝔖, frt dl
+14 ᵃ 𝔔 ותעש; frt l תעשׂה (ו dttg) || ^{b–b} 𝔔 למשל
+15 ᵃ prb l c 𝔔 יַעֲלֶה || ᵇ prb l c 𝔔 וִיגרהו cf 𝔊𝔖; exc vb?
+16 ᵃ 𝔔 ברי, l בָּרִא (ה dttg)
+17 ᵃ 𝔔 Ms 𝔊𝔖(𝔙) על || ᵇ frt l c 𝔔 חַרְבּוֹ || ᶜ l c 𝔔 תמיד (ו dttg) et cj c v a cf 𝔖 || ᵈ 𝔔 pc Mss ולוא cf 𝔖𝔗ᴹˢˢ
+Cp 2, 1 ᵃ 𝔔 מצורי, prp מַצּוֹרִי || ᵇ add? || ᶜ l ישׁיב cf 𝔖
+2 ᵃ 𝔔 הקורא
+3 ᵃ 𝔔 יפיח, prb l ויפִיחַ; prp (וְ)יִפְרַח, al וּפֵתַח et apertio cf 𝔊 || ᵇ l c 𝔔 mlt Mss 𝔊𝔖𝔗𝔙 וְלא
+4 ᵃ l עֻפָּל vel עַפָּל || ᵇ 𝔊(𝔖) εὐδοκεῖ, prb l רָצְתָה; 𝔔 יושרה || ᶜ l c Ms 𝔊α´ נפשִׁי || ᵈ 𝔊* ἐκ πίστεώς μου
+5 ^{a–a} > 𝔊𝔖, prb add || ^{b–b} 𝔔 הון יבגוד || ᶜ prb l הוֹי cf 6. 9. 12. 15. 19 et 𝔔 הון; prp יָהִין || ᵈ prp לא, sed cf bβ || ᵉ frt l ירוה cf 𝔖 prp יִבָּנֶה || ᶠ 𝔔 לוא || ᵍ 𝔔 ויאספו || ʰ 𝔔 ויקבצו
+6 ^{a–a} add an ex textu crrp ortum? || ᵇ > 𝔔 || ^{c–c} 𝔔 invers || ᵈ 𝔔 ומליצי || ᵉ prp וְיָחוּדוּ || ᶠ l c 𝔔𝔊 ויאמְרוּ || ᵍ 𝔔 ולוא || ^{h–h} dl? prp עד־תֻּמּוֹ || ⁱ 𝔔 יכביד cf 𝔖𝔗
+7 ^{a–a} 𝔔 פת.אום ויקומו || ᵇ prp נֹשֶׁיך cf 𝔔 || ᶜ l c 𝔔 ויָקִיצו
+8 ᵃ exc nonn vb; frt ins שׁוֹסֵתָ אֹתָם cf stich sq || ᵇ frt l c 𝔔 וישלוכה || ^{c–c} add cf 17
+9 ᵃ 𝔔 הבוצע || ᵇ exc vb; prb ins m cs וְזֹרֵעַ (homtel)
+10 ᵃ prb l קַצּוֹתָ vel קַצּוֹת || ^{b–b} prb add || ᶜ 𝔔 וחוטי; prp בְּחֵטְא, al וחָטָאתָ vel וַחֲטֹא cf Prv 20,2
+12 ᵃ frt l c 𝔔 ויכונן; prp וּמְכונן cf 𝔊𝔖𝔗
+13 ^{a–a} add || ᵇ 𝔊(𝔖𝔙) ταῦτά ἐστι, prb l הֵנָּה || ᶜ 𝔔 מעם || ᵈ 𝔔 יגעו
+14 ᵃ add cf Jes 11,9 || ᵇ 𝔔 הים cf 𝔊* αὐτούς = עליהם
+15 ^{a–a} prb l מִסַּף חֲמָתוֹ, ח dttg et cf b || ᵇ 𝔔 חמתו cf σ´ 𝔙 || ᶜ 𝔔 אף || ^{d–d} prb dl, gl; an exc hemist? || ᵉ 𝔔 מועדיהם
+16 ᵃ l c 𝔔𝔊(α´𝔖𝔙) וְהֵרָעֵל
+17 ^{a–a} prb tr post 13(14); al tr tot v || ᵇ 𝔔 יחתה (crrp ex יחתכה?); 𝔊(𝔖𝔗) πτοήσει σε cf 𝔙, l יְחִתֶּךָ
+18 ᵃ 𝔔 פסל || ᵇ 𝔔 ומרי || ^{c–c} l יֹצרו, dttg || ᵈ 𝔔 יצריו
+19 ᵃ 𝔔 ה]אמר[ || ^{b–b} gl, dl
+20 ᵃ 𝔔 מלפניו
+Cp 3, 2 ᵃ 𝔊 textus auctus (transl dupl) || ᵇ l (וְ)רָאִיתִי cf 𝔊 || ᶜ prp בִּקְרֹב cf α´ || ᵈ prp חַוֵּהוּ || ᵉ 𝔊(𝔖) ἐπιγνωσθήσῃ, frt l תִּוָּדֵ֑עַ || ^{f–f} prb add
+3 ᵃ sic L, mlt Mss Edd הּ—
+4 ᵃ l תַּחְתָּיו || ^{b–b} prb add, gl
+6 ᵃ prp וַיַּעֲמֵד || ^{b–b} prb dl (var lect ad aδ ad לו cf 7^{a–a}), al tr ad fin 4
+7 ^{a–a} prb l תֵּחָתֶאנָה, prp תְּחִתֶּיןָ; 𝔊ᴮᵃʳᵇ αὐτοῦ ἕνεκα σεισθήσεται ἡ οἰκουμένη = לוֹ תֵחַת אֶרֶץ || ᵇ dl; huc tr a fin v b יריעות מדין || ^{c–c} cf b || ᵈ var lect ad און v a (cf a–a), dl
+8 ᵃ dl aut potius tr ad fin v a || ^{b–b} dl, var lect ad הבנהרים || ^{c–c} crrp; prp רֶכֶב ישׁועה מֶרְכַּבְתְּךָ cf 𝔊(𝔖𝔗) ἡ ἱππασία σου, 𝔊ᴮᵃʳᵇ ad ὃ προέβης
+9 ^{a–a} 𝔊 ἐντείνων ἐντενεῖς, l עָרֹה תְעָרֶה cf 𝔖𝔗𝔙 || ᵇ frt l שִׂבַּעְתָּ cf 𝔊ᴮᵃʳᵇ ἐχόρτασας 𝔖 wnsbʿwn || ᶜ 𝔊ᴮᵃʳᵇ τῆς φαρέτρας αὐτῆς, frt l יִתְרָהּ (יִתְרוֹ) vel מֵיתָרְךָ; prp תּאֹמַר (ת hpgr) || ᵈ 𝔊(𝔖) ῥαγήσεται, prb l תִּבָּקַע
+10 ^{a–a} l c Mur זֹרְמוּ מַיִם עָבוֹת cf Ps 77,18 || ^{b–b} crrp; frt l מִזְרָחֹה, prp רוֹמֵמוּת aut אוֹר מוֹעֲדוֹ || ᶜ l נשׁא = נשׁה
+11 ᵃ cj c 10bβ, huc tr ׃ || ᵇ 𝔊 ἐν τῇ τάξει αὐτῆς, l (בִּ) זְבֻלֹה
+13 ^{a–a} frt l לישׁע עַם vel potius ל(ה)וֹשִׁיעַ אֶת־עַם || ᵇ pc Mss 𝔊^{-BS} pl || ^{c–c} prb l sol בֵית, ראשׁ var lect? cf 𝔊 et 14 || ᵈ l עֵרִיתָ vel עֹרַרְתָּ || ᵉ l צוּר
+14 ᵃ prb l בְמַטֶּיךָ vel בְמַטּוֹתֶיךָ cf 𝔊ᴮᵃʳᵇ μετὰ δυνάμεώς σου; prp בַמַּטֶּה || ᵇ l ראֹשׁוֹ cf 𝔊(𝔖) κεφαλάς ᴮᵃʳᵇ ἀρχηγούς = ראשׁי || ᶜ 𝔊(𝔖) δυναστῶν 𝔗 wgjbrj (rjšj) 𝔙 bellatorum eius || ᵈ l יְסֹעֲרוּ || ᵉ prb ins כַּמֹּץ cf g || ᶠ prb l לְהָפִיץ עָנִי || ᵍ l כַּמֹּץ et tr post יסערו cf e; prp פִּימוֹ et antea לְהָפִיץ עֲלִיצוּת
+15 ^{a–a} l סוסָו בְּחמר
+16 ^{a–a} prb l יִרְגְּזוּ אֲשֻׁרָ֑י cf 𝔊 || ᵇ prb l אֲחַכֶּה
+17 ᵃ tot v prb add || ᵇ 𝔊 καρποφορήσει, l תִפְרֶה || ᶜ l מעשֶׂה vel potius מעשֵׂהוּ || ᵈ l נִגְזַר
+19 ᵃ frt exc hemist || ᵇ 𝔊 τὰ ὑψηλά, frt l (הַ)בּמות (י dttg) || ᶜ frt l בנגינות cf Ps 4,1 etc
+

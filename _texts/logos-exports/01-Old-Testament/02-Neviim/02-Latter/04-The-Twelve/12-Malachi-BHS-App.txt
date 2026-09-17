@@ -1,0 +1,51 @@
+BHS APPARATUS — MALACHI (complete)
+
+Converted 17 September 2026 from the Logos RTF export 12-Malachi-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:51 16 September 2026.
+
+================================================================
+
+Maleachi
+Cp 1, 1 ᵃ 𝔊 ἀγγέλου αὐτοῦ, ad θέσθε δὴ ἐπὶ τὰς καρδίας ὑμῶν ex Hag 2,15.18
+2 ^{a–a} dl m cs
+3 ᵃ frt l נָתַתִּי, prp נְוֹת cf 𝔖
+5 ᵃ frt l c pc Mss גּבול, dttg.
+7 ᵃ 𝔊 ἠλισγήσαμεν αὐτούς, l גאלנוהוּ
+8 ᵃ 𝔊ᴹˢˢ(𝔙) εἰ προσδέξεται αὐτό, frt l הירצֵהוּ || ^{b–b} dl m cs
+9 ᵃ sic L, mlt Mss Edd נּנו— || ^{b–b} dl
+10 ^{a–a} add
+11 ᵃ 11–13 prb add || ᵇ prp מנחה
+12 ᵃ cf 11ᵃ || ^{b–b} prb l וְנִבְזֶה (ניבו ortum ex dttg נב) cf 𝔖𝔗 || ᶜ prp כֻלּוֹ
+13 ᵃ cf 11ᵃ || ᵇ l אותִי (Tiq soph) || ᶜ add; prp אֶת־הַגּזול (sed cf d), al add hab ואת־הפסח ואת־החולה (והבאתם את־הַ) || ᵈ l c mlt Mss Edd את cf 𝔖 || ᵉ frt ins c pc Mss 𝔊𝔖ᵂ צְבָאוֹת
+14 ᵃ 14 add || ᵇ prp זָכֶה || ᶜ prp c mlt Mss לַיהוָה vel לִי
+Cp 2, 2 ᵃ 2 add. || ᵇ 𝔊 sg, l ברכַּתְכם cf ארותיהָ
+3 ᵃ prb l גֹדֵעַ cf 𝔊 ἀφορίζω = גרע || ᵇ 𝔊(α´𝔙) τὸν ὦμον, prb l הַזְּרֹעַ || ^{c–c} gl, dl || ^{d–d} add; prp ונשׂאתִי אתכם מֵעָלַי cf 𝔊𝔖
+4 ᵃ 𝔊 ad ἐγώ || ᵇ prp לְחַיּוֹת aut לְהָחֵת vel מִהְיות
+5 ᵃ frt l וְהַמּורא; exc vb? || ᵇ prp נֶחָת
+7 ᵃ 7 prb add
+9 ᵃ mlt Mss 𝔊𝔙 pl || ᵇ dl m cs?
+10 ᵃ prp נבגֹד, 𝔊 ἐγκατελίπετε
+11/12 ᵃ prp בָּגַד || ^{b–b} prp dl, var lect || ^{c–c} prb add || ᵈ prp אֲהֵבוֹ (ו hpgr), al dl אשׁר
+12 ᵉ prp עֵד cf Ms 𝔊 (ἕως = עַד) || ᶠ prp וּמִמַּגִּישֵׁי cf 𝔊
+13 ^{a–a} prb add cf 11/12^{c–c}, al dl sol שׁנית || ᵇ prp תְּכַסּוּ cf 𝔊 ἐκαλύπτετε || ᶜ prb l מֵאֵן et frt ins יְהוָה vel l pro עוד.
+15 ^{a–a} prb add || ᵇ 𝔊 ἄλλο(ς) || ᶜ exc hemist praecedens (vel compl)? || ᵈ frt l c nonn Mss 𝔊𝔗𝔙 תִּבגד
+16 ᵃ prb l שׂנאתִי || ^{b–b} add? || ᶜ frt l כְּכַסֵּה, prp וְכַסֵּה || ^{d–d} prb add cf 15bα
+17 ᵃ prp הוֹגַעְנֻהוּ cf 𝔊ᴹˢˢ𝔖𝔗𝔙
+Cp 3, 1 ^{a–a} prb add
+2 ᵃ 𝔊 ad εἰσπορεύεται = בָּא
+3/4 ᵃ prb add
+5 ᵃ mlt Mss 𝔊 ad בִּשְׁמִי || ᵇ dl, dttg? || ^{c–c} prb tr ante אלמנה et frt l (וּ)בְמטי־גר, al dl אלמנה ויתום || ᵈ 𝔊 ad κρίσιν = מִשְׁפַּט?
+7 ᵃ frt ins מִשְׁמַרְתִּי cf 14 || ^{b–b} add?
+8 ᵃ prb l הֲיַעֲקֹב cf 𝔊 εἰ πτερνιεῖ || ᵇ 𝔊 πτερνίζετε, prb l עֹקְבִים || ᶜ 𝔊 ἐπτερνίκαμέν σε, prb l עֲקַבנוך || ^{d–d} frt l בַּמּעשׂר וּבַתּרומה cf 𝔖𝔗𝔙, sed cf 9^{b–b} || ᵉ 𝔊 ad μεθʼ ὑμῶν εἰσι
+9 ᵃ 𝔊 πτερνίζετε, l עֹקְבִים || ^{b–b} add? prb l הֲגַם כלו et tr ad fin 8
+13 ᵃ prb ins צְבָאוֹת cf 𝔊ᴸ
+16 ᵃ 𝔊(𝔖) ταῦτα, frt l זֹה vel זאֹת || ^{b–b} prp לִירֵאָיו ול׳ שׁ׳ aut לי׳ י׳ וּלְחֹסֵי בשׁמו
+19 ᵃ 𝔊* ad καὶ φλέξει αὐτούς || ᵇ prp c mlt Mss Edd Vrs עשׂי || ᶜ 𝔊 ὑπολειφθῇ = יֵעָזֵב
+22 ᵃ 22 add; 𝔊* tr 22 post 24
+23/24 ᵃ 23sq add
+

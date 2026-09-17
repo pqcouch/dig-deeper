@@ -1,0 +1,41 @@
+BHS APPARATUS — HAGGAI (complete)
+
+Converted 17 September 2026 from the Logos RTF export 10-Haggai-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:51 16 September 2026.
+
+================================================================
+
+Haggai
+Cp 1, 1 ᵃ 𝔊 ad λέγων Εἶπον (ᴹˢˢ ad δή) cf 2,1.2
+2 ^{a–a} 𝔊(𝔖) ἥκει, prb l עַתָּ בָא
+4 ᵃ prp בבתִים cf 𝔊ᴹˢˢ𝔗𝔙
+6 ᵃ prp c 2 Mss ישׂתכר
+7 ^{a–a} add? cf 5
+9 ᵃ 𝔊(𝔖𝔗) καὶ ἐγένετο, prb l וְהָיָה vel וְהָיֹה
+10 ᵃ > 𝔊*, dl (dttg) || ᵇ prb l c Ms הַשּׁ׳ cf b || ᶜ l טַלָּם cf ᵇ; prp מָטָר
+11 ^{a–a} add? || ᵇ ins c mlt Mss Vrs ־כָּל־
+12 ᵃ 𝔊* πρὸς αὐτούς = אֲלֵיהֶם, pc Mss 𝔊⁻ᵂⱽ𝔖𝔗ᶠ𝔙 ad אֲלֵיהֶם
+13 ^{a–a} var lect ad vb sqq? 𝔊* ἄγγελος κυρίου
+15 ᵃ huc ins 2,15–19
+Cp 2, 1 ᵃ Mur אל
+2 ᵃ 𝔊(𝔖) ad πάντας
+4 ^{a–a} add? || ^{b–b} add? || ᶜ add?
+5 ^{a–a} > 𝔊*, add || ^{b–b} prb l הַבְּרִית זאֹת, al dl את = (צב)אות
+6 ^{a–a} 𝔊 ἔτι ἅπαξ, 𝔖 twb ḥdʾ zbn, l 𝔐 || ᵇ ℭ² pc Mss את
+7 ᵃ l חֲמֻדֹת cf 𝔊
+9 ᵃ 𝔊 ad καὶ εἰρήνην ψυχῆς εἰς περιποίησιν παντὶ τῷ κτίζοντι τοῦ ἀναστῆσαι τὸν ναὸν τοῦτον
+14 ᵃ 𝔊 ad ἕνεκεν τῶν λημμάτων αὐτῶν τῶν ὀρθρινῶν, ὀδυνηθήσονται ἀπὸ προσώπου πόνων αὐτῶν· καὶ ἐμισεῖτε ἐν πύλαις ἐλέγχοντας cf Am 5,10
+15 ᵃ tr 15–19 post 1,15ᵃ
+16 ᵃ 𝔊 τίνες ἦτε, l מַה־הֱיִיתֶם et cj c 15 || ᵇ prb l בּאֹ cf 1,6.9 || ᶜ add? cf a || ᵈ var lect ad היקב
+17 ᵃ 17 add cf Am 4,9 || ^{b–b} 𝔊(𝔖) καὶ οὐκ ἐπεστρέψατε, prb l ולאֹ שַׁבְתֶּם cf 𝔗𝔙
+18 ^{a–a} add, gl || ^{b–b} add
+19 ᵃ prb l מִגְרָע deminutio, al ins נִגְרַע || ^{b–b} add?
+21 ᵃ 𝔊⁻ⱽ ad καὶ τὴν θάλασσαν καὶ τὴν ξηράν cf 6
+22 ᵃ prb dl, var lect || ^{b–b} frt gl
+23 ^{a–a} add?
+

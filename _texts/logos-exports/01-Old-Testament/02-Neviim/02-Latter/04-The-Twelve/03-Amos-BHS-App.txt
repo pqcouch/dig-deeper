@@ -1,0 +1,109 @@
+BHS APPARATUS — AMOS (complete)
+
+Converted 17 September 2026 from the Logos RTF export 03-Amos-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:49 16 September 2026.
+
+================================================================
+
+Amos
+Cp 1, 5 ^{a–a} frt tr post מבית עדן || ᵇ cf a–a
+8 ᵃ > 𝔊*, frt dl
+9 ᵃ frt l לַאֲרָם || ᵇ exc hemist? cf 11bβγ
+11 ᵃ 𝔖(𝔙) wnt\r, l וַיִּטֹּר || ^{b–b} 𝔊(σ´θ´𝔖𝔙) ἐφύλαξεν εἰς νῖκος, l שָׁמַר לָנֶצַח
+Cp 2, 1 ᵃ exc nomen regis?
+2 ᵃ prp בְּקִיר מואב cf b–b || ^{b–b} prp ארמנותֶיהָ cf a || ᶜ l c pc Mss 𝔊𝔖 וּבקול aut וְקול
+3 ^{a–a} nonn tr post 2ᵃ cf 2ᵃ.b–b || ᵇ frt l מקרבוֹ vel מקרבֹה cf 𝔊ᴸ || ᶜ frt l שָׂרָיו cf 𝔊ᴸ
+4/5 ^{a–a} add
+7 ᵃ prp השָּׁ(א)פים cf 𝔊 τὰ πατοῦντα || ^{b–b} prb add; al על־עפר־ארץ vel sol ארץ add hab || ^{c–c} add?
+8 ᵃ frt dl על־ et l וּבְג׳ cf 𝔊 || ^{b–b} add?
+9 ᵃ frt l c mlt Mss יכם—
+14 ^{a–a} nonn add hab
+15 ^{a–a} nonn add hab || ᵇ 𝔊 διασωθῇ, prb l יִ מָּלֵט cf 𝔖𝔗𝔙
+16 ^{a–a} add?
+Cp 3, 1 ᵃ 𝔊 οἶκος = בֵּית
+4 ᵃ prb add
+5 ᵃ > 𝔊, dl
+7 ᵃ tot v add
+8 ᵃ add?
+9 ᵃ 𝔊 ἐν Ἀσσυρίοις, prp בְּאַשּׁוּר || ᵇ > 𝔊* cf 11; prb l בְּ(מצרים) || ᶜ add (an exc nonn vb)? || ᵈ 𝔊(𝔖) τὸ ὄρος, prb l הַר || ᵉ add? || ^{f–f} frt add
+10 ^{a–a} add || ᵇ frt add
+11 ᵃ > 𝔖 || ᵇ 𝔖 nḥdrjh, prb l יְסוֹבֵב || ᶜ l c pc Mss 𝔖𝔗 והוּרַד; mlt Mss והרד
+12 ^{a–a} frt l וּבְעֶרֶשׂ דַּמֶּשֶׂק cf 𝔙; add?
+13 ^{a–a} add; al l sol נאם יהוה
+14 ᵃ add? || ^{b–b} add an exc hemist? || ᶜ prp מִזְבַּח
+15 ^{a–a} prp בָּתֵי הָבְנים
+Cp 4, 1 ᵃ prb add || ᵇ prp יהן—
+2 ᵃ > 𝔊*, add? || ᵇ prp יכן— || ᶜ prp אַפְּכֶן
+3 ^{a–a} 𝔊 καὶ ἐξενεχθήσεσθε γυμναί = וַעֲרֻמּוֹת תּוּצאנה?; frt l תּוּצֶאנָה (פְּצוּרוֹת vel) פְּרוּצוֹת || ᵇ 𝔊(σ´𝔙) καὶ ἀπορριφήσεσθε, l וְהָשְׁ׳ || ᶜ 𝔊* εἰς τὸ ὄρος τὸ Ρεμμαν, α´ 𝔊^{OC} ὄρος ερμωνα, σ´(𝔖𝔗) εἰς Ἀρμενίαν; prp חֶרְמֹנָה, al הַמַּדְ מֵנָה
+4 ᵃ frt l וְה׳ cf aα
+5 ᵃ l וקטְּרוּ
+7/8 ^{a–a} prb add || ᵇ prb l c pc Mss 𝔊𝔙 אמטיר, cf 7 aδ
+9 ᵃ prb l הֶחֱרַ בְתִּי || ^{b–b} add?
+10 ᵃ prp כְּדֶבֶר; al dl || ᵇ prp צְבִי, al dl עם שׁבי סוסיכם || ^{c–c} add? al aβ add hab || ᵈ pc Mss 𝔊 בָּאֵשׁ, frt recte || ᵉ prp בְּאַ׳ cf 𝔊; al dl (cf d) et ins ובאפִּי in init 11
+11 ᵃ cf 10ᵉ || ᵇ prp בָתֵּיכם
+12 ^{a–a} prb add
+13 ᵃ 𝔊 βροντήν = רַעַם || ᵇ l c nonn Mss 𝔊 וְעֵ׳ || ^{c–c} prb dl cf 5,8 9,6
+Cp 5, 3 ᵃ > 𝔊*, add || ᵇ huc tr לבית ישׂראל ex 3ᵇ, cf 4ᵃ || ᶜ frt l וְהָעִיר הַיּוֹ׳ || ^{d–d} cf b
+6 ^{a–a} prp יְשַׁלַּח באשׁ aut יצלח באשׁ בְּ aut יצלח לְהַב אשׁ בְּ || ^{b–b} 𝔊 τῷ οἴκῳ Ισραηλ cf Hos 10,15, frt l לבית־יִשְׂרָאֵל; al add hab
+7 ᵃ frt l הֹ(ו)י (הַ)הֹ׳ cf 5,18 6,1 || ᵇ 𝔊 εἰς ὕψος = לְמַעֲלָה?
+8 ᵃ exc init || ᵇ pc Mss ad צְבָאוֹת, 𝔊* ad ὁ θεὸς ὁ παντοκράτωρ
+9 ᵃ 𝔊 ὁ διαιρῶν, prp המפליג, al הַמַּפִּיל || ^{b–b} 𝔊 συντριμμὸν ἐπʼ ἰσχύν, prp שֶׁבֶר עַל־עֹז || ᶜ prp שֹׁר taurus || ᵈ prp עֵז capella || ᵉ prp מְבַצֵּר vindemiator || ᶠ prb l יבִיא cf Vrs
+11 ᵃ prp בּוּסְכֶם || ᵇ 𝔊 καὶ δῶρα, frt l ומשׂאֹת
+12 ᵃ frt l חַטָּאֵיכֶם
+14 ^{a–a} prb add
+15 ^{a–a} prb add
+16 ᵃ > 𝔊𝔖 || ^{b–b} prb l וְאל־מספד cf 𝔖
+17 ^{a–a} nonn add hab || ᵇ 𝔊 ὁδοῖς
+18 ᵃ 𝔊 καὶ αὐτή, frt l וְהוא
+22 ^{a–a} nonn add hab || ᵇ exc fin stich || ᶜ prp וְשַׁלְמֵי
+23 ᵃ prp הָסִירוּ || ᵇ prb l שִׁירֵיכֶם et נִבְלֵיכֶם
+25 ᵃ tot v add? || ᵇ > Ms, add? || ᶜ > 𝔊*
+26 ᵃ prp וְנִשּׂאתם || ᵇ 𝔊σ´(𝔖𝔙) τὴν σκηνήν, frt l סֻכַּת; prp סַכּוּת aut מַסֵּכוֹת || ᶜ frt add; prp כֵּיוָן aut כִּיּוֹן || ^{d–d} add, gl
+27 ^{a–a} add?
+Cp 6, 1 ᵃ prp בִּגְאוֹנָם || ^{b–b} prb l וְכֵאלֹהִים בְּבית
+2 ᵃ add? al tr post ורדו || ᵇ sic L, mlt Mss Edd תִּים— || ᶜ prb l הַיְטַבְתֶּם, al ins אַתֶּם || ^{d–d} l מִגְּבוּלָם גְּבוּלְכֶם vel גבוּלכם מִגּבולם
+3 ᵃ prb l שְׁנַת; prp שֶׁבֶר וְ vel שֹׁד וְ
+5 ᵃ add (gl)? prp הֵידָד || ᵇ prp כְּ, al כָּל־
+6 ^{a–a} nonn cj c 13ᵃ || ᵇ exc fin v?
+8 ᵃ > Ms 𝔊 || ^{b–b} > Ms 𝔊*, add || ᶜ = מתעב cf Vrs
+10 ^{a–a} 𝔊 καὶ λήμψονται οἱ οἰκεῖοι αὐτῶν καὶ παραβιῶνται, prp וְנִשְׁאֲרוּ מְתֵי מִסְפָּר
+11 ᵃ exc nonn vb?
+12 ᵃ prp יֵחָרֵשׁ || ᵇ l בַּבָּקָר יָם
+13 ᵃ frt ins הוֹי || ᵇ exc hemist?
+14 ^{a–a} > 𝔊*, add; al tr ad fin v
+Cp 7, 1 ᵃ > pc Mss 𝔊* cf 4ᵃ.6ᵃ.7ᵇ 8,1ᵃ || ᵇ prp יֵצֶר (cf 𝔊) aut יוֹצֵא || ^{c–c} nonn add hab (gl) || ᵈ 𝔊 βροῦχος = יֶלֶק?
+2 ^{a–a} prb l וַיְהִי הֻא מְכַלֶּה
+3 ᵃ pc Mss ad אֲדֹנָי
+4 ᵃ > 𝔊* || ^{b–b} prb l לַהֶבֶת אֵשׁ || ^{c–c} dl, gl
+6 ᵃ > Ms 𝔊*
+7 ^{a–a} prp אנך נצב על־חומָה || ᵇ l c mlt Mss 𝔊* יהוה et tr c 𝔊 post הראני cf 𝔙 || ^{c–c} l חוֹמָה
+8 ᵃ l c mlt Mss יהוה
+14 ᵃ 𝔊 αἰπόλος, frt l נוֹקֵד
+Cp 8, 1 ᵃ > 2 Mss 𝔊*
+3 ᵃ prb l שָׁרות || ^{b–b} nonn add hab || ᶜ > 𝔊*, frt recte || ^{d–d} crrp; 𝔊 ἐπιρρίψω σιωπήν, prp אַשְׁלִיכֵם vel השׁליכָם; exc nonn vb?
+4 ᵃ prp השָׁאפִים cf 2,7 || ᵇ frt dl ו et l לְהַשׁבית; prp לשׁחית || ᶜ K עַנְוֵי
+5 ᵃ add || ᵇ > 𝔊, dl
+6 ^{a–a} > Ms, prb dl cf 2,6 || ^{b–b} prb dl, gl; al cj c 5ᵃ
+8 ᵃ l c nonn Mss 𝔊𝔖𝔗 כַיְאר cf 9,5 || ᵇ > Ms 𝔊, dl || ᶜ mlt Mss ut Q cf Vrs et 9,5
+9 ^{a–a} 𝔊*(𝔖) κύριος
+11 ^{a–a} 𝔊*(𝔖𝔙) λέγει κύριος; nonn add hab || ^{b–b} nonn add hab || ᶜ l c pc Mss 𝔊𝔖𝔙 דְּבַר cf 12; al dl יהוה et l דְּבָרִי
+12 ᵃ frt l c pc Mss עד || ^{b–b} prp דְּבָרִי
+13 ^{a–a} nonn add hab || ᵇ prb add; prp הָאַמִּצִים
+14 ᵃ prb huc tr v b || ᵇ prp בַּאֲשֵׁרַת || ᶜ 𝔊 ὁ θεός (= θεῖος)) σου; prb l דֹּדְךָ || ^{d–d} prb tr ante v a
+Cp 9, 1 ᵃ prb tr post הספים || ᵇ prb l וַיַּךְ aut (וּ)מַכֵּה || ᶜ l וַיּרעשו || ^{d–d} prp אֶבְצַע ראשׁ || ᵉ prb l אֶבְצָעֵם || ᶠ prp בְּרַעַשׁ
+3 ^{a–a} add || ᵇ prb dl; prp שׁם
+4 ᵃ frt gl || ᵇ sic L, mlt Mss Edd אֹֽיְבֵ׳ || ᶜ cf 3ᵇ
+5 ^{a–a} add? cf 6ᵇ || ^{b–b} Mur ואבל כל יושב בה
+6 ᵃ l עֲלִיָּתוֹ || ᵇ 𝔊 ad ὁ θεὸς ὁ παντοκράτωρ 𝔖 ad ḥjltnʾ = צְבָאוֹת
+7 ^{a–a} add? al tr ad fin
+8 ^{a–a} prp עֵינַי || ^{b–b} prb add
+9 ^{a–a} add
+10 ^{a–a} prb l לא־תִגַּשׁ וּתְקַדֵּם עָדינו cf Vrs
+11 ^{a–a} l פְרָצֶיהָ cf 𝔊*𝔙 || ᵇ l תֶיהָ— cf 𝔊
+13 ᵃ prp הַח׳ || ^{b–b} 𝔊 ἐν τῷ σπόρῳ, prp sol בַּמּשׁך aut בַּזֹּרֵעַ
+

@@ -1,0 +1,54 @@
+BHS APPARATUS — NAHUM (complete)
+
+Converted 17 September 2026 from the Logos RTF export 07-Nahum-BHS-App.rtf with tools/logos_rtf2txt.py.
+Sigla are true Unicode (𝔪 = majority text; 𝔈 = Ethiopic); Hebrew is in logical order; superscripts are
+Unicode superscripts or ^{…}; the pop-up abbreviation notes and hyperlink targets are omitted.
+The RTF is the copy of record. 
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+Exported from Logos Bible Study, 16:50 16 September 2026.
+
+================================================================
+
+Nahum
+Cp 1, 2 ᵃ tr post יהוה? || ^{b–b} > 𝔊ᴹˢˢ || ^{c–c} add
+3 ^{a–a} add || ᵇ prp חֶסֶד || ᶜ huc tr ֑ cf 𝔊
+4 ᵃ frt l וַיֹּבִשֵׁהוּ || ᵇ ד-stropha, prp דָּלְלוּ (cf parallelismum et Vrs)
+5 ᵃ l c Mur הֶהרים cf 𝔊𝔗 || ᵇ l ותשׁא cf 𝔖(om cop)𝔙 || ^{c–c} prp ואָבְלוּ כל vel וַיַּאַבְלוּ כל
+6 ᵃ l לְפָנָיו et tr post יעמוד (ז-stropha) || ᵇ prp c Ms נצְּתו
+7 ᵃ exc vb; l exempli cs לִמְחַכֵּי־לוֹ מָעוֹז || ᵇ י-stropha, l יְהוָה ידע
+8 ᵃ exc vb; prb יַעֲבִירֵם || ᵇ 𝔊 τοὺς ἐπεγειρομένους α´ ἀπὸ ἀνισταμένων θ´ sec Hier consurgentibus ei ε´ sec Hier a consurgentibus illi, l בְקָמָיו || ᶜ prp יֶהְדֹּף
+9 ᵃ 𝔊 ἐκδικήσει = יִקּוֹם; prp יקומוּ || ᵇ prp צָרָיו cf a
+10/11 ᵃ cj c 2,2.4sqq? || ^{b–b} frt l הוֹי עִיר cf 3,1, al יִבְעֲרוּ כְ || ^{c–c} aut secundum aut utrumque vb dttg; al prp וּ לְבִיאִים … et cj c מלא (cf d), al dl || ᵈ al tr ante c–c מָלְא(וּ לביאים), al l הֲלאֹ et cj c 11
+11 ᵉ unum vb (כִּי?) aut plur exc?
+12 ^{a–a} 𝔊 κατάρχων ὑδάτων πολλῶν = מֹשֵׁל מַיִם רבים, 𝔖 ʿl rjšj mjʾ sgjʾʾ = רבים אֶל מֹשְׁלֵי מַיִם; prp רבים (inundationes, imbres) אם שַׁלֻּמִים || ᵇ frt l מֹשְׁלים cf 𝔊𝔖 || ᶜ frt l הֵם וְ, al וְאִם || ^{d–d} l ועברוּ עניתך || ᵉ > 𝔊
+13 ᵃ prp מַטּהו cf 𝔊𝔙, al מֹטָה
+14 ^{a–a} frt l לא יִזָּכֵר עוד שְׁמֶ֑ך cf 𝔗 || ᵇ exc hemist? || ^{c–c} prp קִיקָלוֹת stercilinium vel (קִי)קָלוֹן
+Cp 2, 1 ᵃ hic ins 3? || ᵇ prp בֶּן־ || ᶜ 𝔊 συντετέλεσται, frt l כָּלָה
+2 ᵃ tr 2 ante 4 || ᵇ prp מַפֵּץ || ᶜ prp מַצָּרָה custodia
+3 ᵃ tr post 1aα? cf 1ᵃ || ᵇ prp גֶּפֶן || ᶜ prp כְּגֶפֶן (cf זמריהם)
+4 ^{a–a} prp l כְּאֵשׁ לַפִּדוֹת cf σ´𝔖 (blmpjdʾ dnwrʾ), pc Mss כְּא׳; sed cf ug pld tegimen, frt l כְּאֵשׁ פִּלְדות || ^{b–b} prb dl, gl? || ᶜ 𝔊(𝔖) καὶ οἱ ἱππεῖς, l וְהַפָּרָשִׁים || ᵈ frt l הִרְעִלוּ
+5 ᵃ prb dl || ᵇ l יהם—
+6 ᵃ 𝔊(𝔙) καὶ μνησθήσονται, prb l יִזָּכְרוּ || ᵇ frt l לאֹ יִכְשְׁלוּ || ᶜ l c pc Mss 𝔖𝔗 חוֹמָ֔תָה
+8 ^{a–a} prb crrp; prp וְהֻצְאָה גָלְתָה בַעֲלָתֹה, al הוּצְאָה בְגָלוּת הַבַּעֲלָה || ᵇ l מנֹהגות cf 𝔊𝔗𝔙 || ᶜ pr הֹגוֹת cf 𝔗𝔙
+9 ^{a–a} 𝔊(𝔙) τὰ ὕδατα αὐτῆς, l מֵימֶיהָ || ᵇ prb dl
+10 ᵃ 𝔊(𝔖) βεβάρυνται, prb l כבֵד
+12 ᵃ prp וּמְעָרָה || ᵇ add? || ᶜ 𝔊(𝔖𝔙) τοῦ εἰσελθεῖν; l לָבוֹא? sed frt var lect ad אריה
+14 ᵃ 𝔊(𝔖) πλῆθός σου = רֻבֵּךְ? prp רִכְבֵּךְ (cf 𝔗𝔙) vel רִבְצֵךְ, sed frt l סִבְכֵּךְ cf 1,10 || ᵇ 𝔊 τὰ ἔργα σου, prp מלאכַיִךְ cf 𝔗𝔙, sed frt l לְבִיאָיִךְ
+Cp 3, 3 ᵃ exc hemist || ᵇ K יִכְשְׁלוּ; ℭ² pc Mss ut Q || ᶜ l בַּגְּוִיֹּת
+4 ᵃ frt l הַכֹּמֶרֶת (cf מִכְמֶרֶת)
+5 ᵃ frt dl m cs
+7 ᵃ add? || ᵇ 𝔊 αὐτῇ, l לָהּ
+8 ^{a–a} prb gl ad v b sq || ᵇ l חילָהּ cf Vrs || ᶜ > Mur || ᵈ 𝔙(𝔊𝔖 pr cop) aquae, l מַיִם
+9 ᵃ 𝔊(𝔖𝔗ᴹˢˢ𝔙) ἡ ἰσχὺς αὐτῆς, l עָצְמָהּ || ᵇ 𝔊(𝔖) βοηθοὶ αὐτῆς, l תָהּ—
+10 ᵃ l רֻטְּשׁוּ cf 𝔖𝔙 || ᵇ 𝔊 ad πάντα, ins כָּל־
+11 ᵃ prp תִּשָּׁבְרִי || ᵇ prp נֶעֱלָפָה; 𝔗 mslʿmʾ, frt l נִלְעָמָה pessum data
+12 ᵃ prb l עָרַיִךְ vel עַמֵּךְ
+13 ᵃ frt l נָשִׂים ( = נָסִים) vel כְּנָשִׁים cf 𝔊(𝔖𝔗) ὡς γυναῖκες || ^{b–b} l בִּקְרֹב (כֹּל) איביך || ^{c–c} gl? an exc hemist? || ᵈ sic L, mlt Mss Edd יךְ—
+14 ᵃ prp בּוּסִי || ᵇ exc hemist; שׁם 15 superesse vid
+15 ᵃ cf 14ᵇ || ^{b–b} prb dl || ᶜ l הִתְכַּבְּדִי
+16 ᵃ l הַרְבִּי vel וְהרבית || ^{b–b} add
+17 ^{a–a} dttg; l כְּגוֹבָ֑י || ^{b–b} l ונודְדוּ לא, sed frt (cf metrum) ונודד(ו) add || ᶜ l מקומָֽם׃ || ᵈ prb l אֵיכָה et cj c 18, al prp אוֹי מַה נָּמוּ
+18 ᵃ prp יִךְ—ַ cf 𝔖 || ^{b–b} add? || ᶜ prb l יָשְׁנוּ || ᵈ l נָפֹצוּ || ᵉ prp ךְ—ֵ cf 𝔖
+19 ᵃ 𝔊 ἴασις = גֵּהה? || ᵇ cf 18ᵉ || ᶜ cf 18ᵃ
+

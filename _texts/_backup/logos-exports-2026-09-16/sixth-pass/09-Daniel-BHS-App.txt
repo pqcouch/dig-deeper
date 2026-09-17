@@ -1,0 +1,821 @@
+﻿
+
+
+
+DANIEL
+
+Designat in sq 𝔊 = versio libri Danielis iuxta LXX interpretes, 𝔊 = iuxta Theodotionem.
+
+
+Cp 1, 1 a nonn Mss semper נצר— in hoc libro
+
+
+2 a nonn Mss יהוה, sed inusitatum in hoc libro excepto cp 9 || b–b prb add cf 𝔊*
+
+
+3 a 𝔊 Αβιεσδρι = אֲבִיעֶזֶר cf 11a || b nonn Mss Edd מ׳
+
+
+4 a 𝔅 מאוּם, mlt Mss ut Q מוּם
+
+
+5 a–a l c ℭ𝔅 mlt Mss (מ)פתבג, it sim 11,26b–b || b–b prb tr ante וימן
+
+
+6 a Seb וַיִּהְיוּ || b ℭ2 hic et passim דָּנִיאֵל, it Ez 14,14.20
+
+
+7 a > 𝔊𝔙 || b pc Mss שׁצר—, Ms אשׁצר—, Ms שׁצאר— || c prb pro נבו
+
+
+11 a 𝔊 Αβιεσδρι cf 3a, 𝔖 mnṣr = מְנַצַּר, 𝔄 manāṣar, 𝔙 Malassar
+
+
+12 a l c pc Mss הזרְעֹנִים? cf 16
+
+
+13 a l c pc Mss ה—ֶ
+
+
+15 a > pc Mss 𝔊; 𝔊 ἄλλων cf 13 𝔊
+
+
+16 a 𝔔 זרעים cf 12
+
+
+20 a–a l חכמָה וּבִ׳ cf 𝔊𝔙 || b l prb c nonn Mss 𝔊 וְה׳
+
+
+Cp 2, 1 a prp שְׁתֵּים עֶשְׂרֵה cf 1,3.5.18 || b cf 8,27; prp נָדְדְה cf 6,19
+
+
+2 a 𝔔 דיים—
+
+
+4 a prb add; prp וַיּאֹמְרוּ || b ℭ חִ׳, id 5,12b 7,1c || c K דַיִךְ— ut Esr 4,11, Q דָךְ— || d pc Mss רה—, 2 Mss רֵהּ—; sim 6.7.9 et cet
+
+
+5 a prp hic et passim עֲנָה cf 7.10 3,9, at vide 3,24 || b K ℭ יֵא—, id 10a 4,4b; Q אֵי— || c id 3,29, sed Esr 6,11 נולוּ
+
+
+6 a Ms ונבַ׳ cf 5,17a
+
+
+7 a Ms V הּ—ֵ
+
+
+8 a–a l hic et passim כלקבל || b sic L, mlt Mss Edd תוּן—
+
+
+9 a ℭV כַ׳ || b K הַזְמִ׳ vel הִזַּמִּ׳ cf ℭ, mlt Mss Edd הִזְדַּמּ׳; Q הִזְדְּמִ׳
+
+
+10 a cf 5b || b ℭ 2 Mss קְדם, id  passim || c sic L, mlt Mss Edd אֱ׳ || d l c Ms יִכֻּל ut 3,29 cf 5,16 Q
+
+
+11 a ℭ ואֻחְרן || b mlt Mss נָּה—, sim saepe || c V מדוֹר׳ ut cet loci
+
+
+15 a cod Hillel פּה—ַ, id 3,22a
+
+
+16 a–a > 𝔊*𝔖, prb add || b pc Mss V זמַן ut 7,12
+
+
+19 a ℭ2 בחִ׳, id passim || b ℭ גֻלי
+
+
+20 a ℭ2 לִהְוה, id passim || b 𝔅V תָּא—, id 23
+
+
+22 a mlt Mss עֲמִי׳ || b K הִי׳—, Q הוֹ׳—
+
+
+23 a cf 20b || b ℭ תָּ—
+
+
+24 a > nonn Mss, prb dl || b > Ms 𝔊𝔙, prb dl || c ℭV ד—ַ
+
+
+25 a ℭ כִחְתְּ—, V חית— || b mlt Mss Edd ad דִּי
+
+
+26 a K תַיִךְ—, Q תָךְ—
+
+
+29 a v 29 dupl ad 28? sed cf 47 || b K ℭ2 ה—ָ, id passim; Q אַנְתְּ || c id 5,10; l c  L*K נַיִךְ— cf 4,16 et cet; ℭ2 רִ׳,  id passim
+
+
+31 a huc tr ֔? || b ℭ צִ׳
+
+
+32 a ℭ וְיִ׳
+
+
+33 a ℭ2 רִ׳, id passim || b K הוֹן— Q הֵין—; nonn Mss הֵן—, id 41b.42b
+
+
+34 a prb ins מטורא cf 45 || b pc Mss ת—ַ, id 35b || c mlt Mss דֶּ׳— ut 45
+
+
+35 a V דָּקּוּ, Ms דַּקּו || b cf 34b || c 2 Mss ת—ַ, mlt Mss ומלָאת, pc Mss ומלַאת
+
+
+37 a ℭ חֻ׳, id 4,27c
+
+
+38 a K דָאֲ׳ id 3,31c 4,32a 6,26a, Q דָיְ׳
+
+
+39 a K אַרְעָא, Q אֲרַע || b K יָא—, Q אָה—
+
+
+40 a nonn Mss ut Q אָה—, id 3,25b 7,7a 7,23b || b–b >  𝔊*𝔊𝔙, add
+
+
+41 a > 𝔊*, add cf 33 || b cf 33b
+
+
+42 a v 42 prb add || b cf 33b
+
+
+43 a mlt Mss Edd 𝔊𝔙 ut Q וְדִי || b–b l דִּי (הֵיךְ =) הֵאךְ
+
+
+45 a pc Mss הת׳ ut 34 || b–b l ח׳ פ׳ נ׳ cf 𝔊 vel פ׳ ח׳ נ׳ ut 35, al dl ח׳ (> Ms)
+
+
+48 a nonn Mss סג׳
+
+
+Cp 3, 1 a 𝔊 pr ἔτους ὀκτωκαιδεκάτου
+
+
+2 a Q תאֵי—
+
+
+3 a ut 2a || b K אֲ׳—, Q יְ׳— || c–c >  𝔊*𝔊*, add?
+
+
+4 a id Esr 4,10, sed cet loci מ sine dages ̌
+
+
+5 a K קִיתָ׳ vel קִיתְ׳, mlt Mss V ut Q קַתְרֹס; sim 7a.10b.15a || b ℭ שׂ׳ ut 7.10.15 (Or etiam alias) ס׳) || c id 10.15, sed 7 נטר׳— || d id 15, sed cf 10; 7 om; mlt Mss יא— || e V לִצְלֵם, id 7c.10d.12c.14b.18c
+
+
+6 a 2 Mss ן—ָ, id 11a 4,22c et in Esr 5,9 || b V שָׁ׳, id passim || c ℭ mlt Mss V לגו, it passim לגו et בגו ut papyri aram || d ℭV יָקֵ׳
+
+
+7 a cf 5a || b ins c mlt Mss 𝔊𝔙 וְסומפניא cf 5.10.15 || c cf 5e
+
+
+8 a–a > 𝔊, add; 𝔊 cj c 7 || b ℭV גַּ׳, id passim || c ℭ2V קִ׳, id 6,25a
+
+
+9 a–a > 𝔊* || b 𝔊 pr κύριε
+
+
+10 a sic L, mlt Mss Edd  טְ׳ || b cf 5a || c K וסִיפּ׳, Q וסוּפּ׳; ℭ וסימפ׳, cf 5.15 || d cf 5e
+
+
+11 a cf 6a
+
+
+12 a K עֲלַיִךְ, Q עֲלָךְ, id 4,22b.24b || b K הַיִךְ—, Q הָךְ—, id 18a || c cf 5e
+
+
+13 a l c 2 Mss תַ׳— cf 5,3
+
+
+14 a it in inscriptionibus aram || b cf 5e
+
+
+15 a cf 5a || b–b V דְעַבַדִית || c sic L, mlt Mss Edd דִּי || d l c pc Mss 𝔊 ידִי cf 17
+
+
+16 a–a l צ֑ר— למ׳ vel inverte לנבוכדנצ֑ר מ׳ || b l c pc Mss V חָֽ׳
+
+
+17 a cj c sq neglecto rebiaʿ || b sic L, mlt Mss Edd הָנָא—
+
+
+18 a cf 12b || b K תַיְ׳—, ℭ ut Q אִיתַנָה || c cf 3,5e
+
+
+19 a Q נִּי— (sg)
+
+
+20 a prp וּל׳
+
+
+21 a–a 𝔊*𝔊* 3 sol vestimentorum nom || b K פַּטִּי׳ vel פְּטִי׳, pc Mss V ut Q פַּטְּשֵׁי׳, V פַּטְ׳
+
+
+22 a ℭ nonn Mss V מְהַחְ׳; cf 2,15a
+
+
+23 a 𝔊 ins hic orationem Azariae et canticum 3 iuvenum c v introducentibus
+
+
+24 a 𝔊 pr nonn et 𝔊 pc vb propter 23a || b 𝔔 באת]ב׳[ || c 𝔔 ]ל[גו || d prp עֲנוֹ cf 2,5a
+
+
+25 a l c ℭV מְהַלְּ׳, id 4,34b || b cf 2,40a || c 𝔔 ]ד[מא
+
+
+26 a K עִלָּיָא, Q עִלָּאָה, id passim
+
+
+27 a ℭ mlt Mss מֵיהון—, cf 28 || b 𝔔 ]ע[דה
+
+
+29 a K שְׁלָה vel שָׁלָה vel שֵׁלָה (pro שְׁאֵלָה), 6,5 ut Q שָׁלוּ; frt l שִׂלָּה (akk sillatu audacia) || b ℭ נגו || c sic L, mlt Mss Edd אלהּ
+
+
+31 a inde ad 4,34  𝔊* valde differt; 31–33 > 𝔊 || b pc Mss ad שְׁלַח, pc Mss 𝔖 ad כְּתַב || c cf 2,38a
+
+
+32 a V ותַ׳, id 33a 6,28a
+
+
+33 a cf 32a
+
+
+Cp 4, 1 a–a 𝔊 ἔτους ὀκτωκαιδεκάτου τῆς βασιλείας Ναβουχοδονοδορ εἰ̓͂πεν || b ℭV שָׁ׳ || c l c pc Mss V בבַיְתי
+
+
+2 a id 7,1; Ms חֲלֵם || b–b ℭ הוּר׳— || c–c add? cf 7
+
+
+3 a v 3–6 >  𝔊 cf 𝔊
+
+
+4 a K עָלֲלִין, ℭ ut Q עָלִּין; id 5,8b || b cf 2,5b
+
+
+5 a Q ℭ mlt Mss אחרֵן, papyri aram אחרן (oppositum קדמ]י[ן); l frt c K אַחֲרַיִן vel אַחֲרֵין || b ℭ pc Mss בּשׁם
+
+
+6 a 𝔊 ἄκουσον = שְׁמַע? prp אֲחַוֵּה; l  חֲזִי
+
+
+7 a–a > 𝔊, prb dl; prp בְּח׳ ר׳ cf 10
+
+
+8 a ℭV זוּ׳—; 𝔊  καὶ ἡ ὅρασις αὐτοῦ, 𝔊 καὶ τὸ κύτος αὐτοῦ, id 17a
+
+
+9 a K יְדֻרוּן, Q יְדוּרָן || b ℭV hab Q יתזָן
+
+
+10 a ℭ ח׳ cf 7
+
+
+11 a ℭ pc Mss תחות׳ ut 18
+
+
+12 a l עִקָּר cf jdaram עִקָּרָא, syr ʿeqqārā || b–b prb aut dl aut l יְטַעֲמֻנֵּהּ דּ׳ דּי ב׳, id 20b–b || c prp חיות ברא ut 20 || d–d > 20, add?
+
+
+13 a K אֱוֹשָׁא (sic saepe inscriptiones Nabataeenses), 22 ut Q אֲנָשָׁא; id 14c || b ℭ2 ושַׁ׳, id 22a.29b
+
+
+14 a l c pc Mss וּבְמ׳? || b prb l c ℭ nonn Mss על ut 2,30, sed papyrus aram עדבר (assimilatum) || c cf 13a || d l אנשָׁא || e K עליַּהּ, 2 Mss עלָהּ cf 5,21b; Q עֲלַהּ
+
+
+15 a K mlt Mss Edd א—ָ, Q mlt Mss פשׁרֵהּ id 16b 5,8d
+
+
+16 a–a > 𝔊 || b cf 15a || c K מָרְאִי, Q מָרִי id 21b || d K יִךְ—ַ, Q ךְ—ָ
+
+
+17 a cf 8a || b prb l c mlt Mss לסוף כל ut 8
+
+
+19 a l c K רבִיתָ; Q male רְבַת || b V תָּ— || c pc Mss רבַת || d mlt Mss ת—ַ
+
+
+20 a–a add ex 12? cf 𝔊 et 23 || b–b cf 12b–b
+
+
+21 a pc Mss ת—ַ cf 19d, 2 Mss מטית (id papyri aram) = מְטָיַת vel potius מִטְיַת cf 6,18a || b cf 16c
+
+
+22 a cf 13b || b cf 3,12a || c cf 3,6a
+
+
+24 a ℭ מַ׳ || b cf 3,12a || c ℭ וחטאיך || d l ענַין?
+
+
+25 a sic L, mlt Mss Edd מְ׳
+
+
+27 a insolite; mlt Mss בֶ׳, 2 Mss בְ׳, pc Mss הּ—ָ || b ℭV בִּתְקֹף || c cf 2,37a
+
+
+28 a ℭV בּפֹם, sim 6,18c.23a 7,8e
+
+
+29 a prp וְע׳ ut 30 || b cf 13b
+
+
+30 a V וטוּפ׳, id 7,19c
+
+
+31 a ℭ נַ׳ || b 𝔖 om sq usque ad עלי 1° 33, prb add (sed cf ad 33) || c–c V שׁבַּחִת והדַּרִת
+
+
+32 a cf 2,38a || b ℭ mlt Mss כלא || c–c add || d V תָּ(א)—
+
+
+33 a–a.b–b alterutrum prb add, sed cf 31b || c l c ℭV ר—ָ ut 27 || d prb l c Raschi 𝔊 (ἦλθον) הדרֵת (vel חדרֵת) redii cf dupl in 𝔙 decoremque perveni || e V יבָ׳ || f.g l aut וַעֲלַי aut נֵת—
+
+
+34 a Ed וְאָ׳ cf 5,23c || b cf 3,25a
+
+
+Cp 5, 1 a 𝔊 aliter et brevius in cp 5 cf 6,2a || b 2 Mss בלאשׁצר ut 7,1 8,1, pc Mss בלשׁצר
+
+
+3 a 𝔊 ἠνέχθησαν = הֵיתַיוּ cf 3,13 || b 𝔊 (𝔙) ad καὶ τὰ ἀργυρᾶ, prb ins וכספא cf 2 || c 𝔊 𝔖𝔙 sg || d–d > 𝔙 || e > 𝔊 𝔖
+
+
+4 a ℭ בִּ׳—
+
+
+5 a K נפקוּ, Q נפקָה || b ℭV כֹ׳
+
+
+6 a prp שׁנו (שׁנין) עלוהי cf 9 || b sic L, mlt Mss Edd עְ׳—
+
+
+7 a K והמּוֹנְכא, id 16c.29a || b l c Ms V תָּא— ut 16.29; ℭ וְתִלְתָּא
+
+
+8 a–a prb aut dl aut tr ante 7b || b cf 4,4a || c nonn Mss בָבֶל, prp מַלְכוּתָא || d cf 4,15a
+
+
+10 a K עַלֲלַת, Q עַלַּת || b pc Mss ענַת || c K יִךְ—ַ, Q וָךְ—
+
+
+11 a prb ins די שׁמה בלטשׁאצר cf 12 || b–b > 𝔊 || c–c > 𝔊*𝔖, dl
+
+
+12 a l מִפְשַׁר cf 𝔙 || b cf 2,4b || c sic L, mlt Mss Edd וְ׳ || d l c V𝔙 וּמִשְׁרא
+
+
+13 a V אֲ׳
+
+
+14 a pc Mss Edd 𝔖𝔄 ad קַדִּישִׁין
+
+
+16 a pc Mss ut Q תִּכּוּל cf 2,10d || b Ms חֶלְמִין, prb l || c cf 7a
+
+
+17 a pc Mss V ונבַ׳ cf 2,6a; 𝔊 καὶ τὴν δωρεὰν τῆς οἰκίας σου, prp ונבִזְבָּת בַּיְתך
+
+
+19 a K זָאֲעִין, Q זָיְעִין id 6,27a
+
+
+20 a prp הּ—ֵ cf 𝔊𝔖𝔙 || b ℭ Mss ut L, al יו—ִ
+
+
+21 a K שְׁוִי vel שֱׁוִי, pc Mss Edd ut Q || b pc Mss pc Mss עלָהּ cf 4,14e
+
+
+22 a ℭV תָּ—
+
+
+23 a K יִךְ—ַ, id 6,23b || b K יִךְ—ַ, Q נָךְ— || c pc Mss אָ׳ cf 4,34a || d prb cj c sq cf 𝔊
+
+
+24 a sic L, mlt Mss Edd שׁלִיחַ
+
+
+25 a > 𝔊 (it 𝔊 in summario ante l cf 17) 𝔙  JosAnt X 11,3, add? cf 26 || b 𝔊 (𝔊 ibidem) 𝔙 Hier JosAnt φαρες, prb l פְּרֵס
+
+
+27 a sic regulariter in aram, sed mlt Mss זְנַיָּא—
+
+
+29 a cf 7a
+
+
+30 a K יָא—
+
+
+Cp 6, 1 a 𝔊 καὶ Ἀρταξέρξης || b K מדיָא || c–c 𝔊 πλήρης τῶν ἡμερῶν καὶ ἔνδοξος ἐν γήρει
+
+
+2 a 𝔊 in cp 6 iterum valde differt cf 5,1a || b–b 𝔊 127 cf Est 1,1 8,9
+
+
+4 a V עָ׳
+
+
+5 a–a > 𝔊*, add?
+
+
+7 a inc; 𝔊 προσήλθοσαν, 𝔊 παρέστησαν, 𝔖 qrbw, 𝔙 subripuerunt; 𝔐 = tumultuose vel ex conventu venerunt? cf 12.16
+
+
+9 a–a prb add cf 13.16
+
+
+11 a l c nonn Mss Ed הֲוָה
+
+
+12 a 𝔊 ἐτήρησαν, 𝔊 παρετήρησαν, 𝔖 nṭrw, 𝔙 curiosius inquirentes cf 7a
+
+
+13 a l c mlt Mss קרִבו (ℭ2 קרַבו) cf 3,8 || b–b > 𝔊𝔖, dl || c = vocativus || d sic L, mlt Mss Edd וָ׳—
+
+
+15 a pc Mss מֵ׳, Ms מַעֲ׳
+
+
+16 a–a > 𝔊 || b 𝔊 παρετήρησαν (-τηρήσαντο) cf 12a, 𝔊 παρέστησαν cf 7a, 𝔖 ʾrjbw = tumultuati sunt
+
+
+18 a l c nonn Mss תַ׳— ℭ והֵתֵיתְ, ℭ2V יַּת—ִ cf 4,21a || b prp ושִׂ׳ cf Esr 5,17 || c cf 4,28a || d sic Lℭ pc Mss 𝔊, ℭ mlt Mss 𝔊 𝔖𝔙 ִיַּת
+
+
+19 a sic Occ, 𝔔V ודהון; 𝔊 ἐδέσματα (𝔊 aliter); l לְחֵנָן? cf 5,2
+
+
+20 a ℭ2V בּנַ׳; gl?
+
+
+22 a sic L, mlt Mss Edd יֵּ׳—
+
+
+23 a cf 4,28a || b cf 5,23a
+
+
+25 a cf 3,8c
+
+
+26 a cf 2,38a
+
+
+27 a cf 5,19a
+
+
+28 a cf 3,32a
+
+
+29 a sic L, mlt Mss Edd פַּ׳; K יָא—
+
+
+Cp 7, 1 a 𝔊txt τρίτῳ || b–b aut ins vb (יְבַהֲלֻנֵּהּ vel יְדַחֲלֻנֵּהּ ) aut dl || c cf 2,4b || d–d > 𝔊, add? cf 28a–a || e > 𝔊*, dl (al dl 2a–a)
+
+
+2 a–a 𝔊 ἐγὼ Δανιηλ; > 𝔊𝔙 cf 1e || b–b > 𝔊*, prb add
+
+
+4 a K גפיַהּ, id 6b
+
+
+5 a 𝔅 male הֱ׳ || b–b > 𝔊*, add? || c K שׁניַּהּ, id 19b
+
+
+6 a 𝔊 (𝔖) ad θηρίον, ins חֵיוָה? || b cf 4a
+
+
+7 a cf 2,40a || b Hippolyt ad καὶ οἱ ὄνυχες αὐτοῦ χαλκοῖ, ins די נחשׁ וטפריה ut 19? || c K יַּהּ— || d K יַּהּ—, id 8d.20b
+
+
+8 a forma mixta ex ת—ַ et סָלְקָה? l c pc Mss ת—ַ ut 20 || b K הוֹן— || c K רוּ— || d cf 7d || e cf 4,28a
+
+
+9 a 𝔅 male ג—ָ
+
+
+10 a nonn Mss ut Q אַלְפִין || b K רַבְּון vel רַבְון, Q רִבְבָן
+
+
+11 a–a add ex contextu non  conservato? || b–b > 𝔊*𝔊*, ex insertis a–a repetita sunt?
+
+
+12 a nonn Mss V זמָן ut 2,16
+
+
+13 a 𝔊 ἐπί = Mt 24,30 26,64, 𝔊 μετά = Mc 14,62 Apc 1,7
+
+
+14 a prb pr מַלְכוּ
+
+
+15 a–a inc; 𝔊 (𝔙) ἐν τούτοις, prb l בגו דנָה (vel בְּגֵין ]בְּגִין[ דְּנָה propterea) || b–b 𝔊 ἐν τῷ ὁράματι τῆς νυκτός
+
+
+17 a prb l c Ms 𝔊 (βασιλεῖαι) 𝔙 (regna) מלכְוָן (vel מָלְכִין* cf ug et pun) || b 𝔊 αἳ ἀπολοῦνται || c 𝔊 ad αἳ ἀρθήσονται
+
+
+18 a Vrs sg, id 22c.25a.27a || b–b > 𝔊*
+
+
+19 a K הוֹן— || b cf 5c || c cf 4,30a; K יַּהּ— || d mlt Mss 𝔊 וּמ׳ cf 7
+
+
+20 a K לוּ— || b cf 7d || c–c prp קרנַיִן cf 21 || d Vrs om cop, prb dl || e sic L, mlt Mss Edd וּפם
+
+
+22 a ins יְתִ(י)ב וְשָׁלְטָנָא cf 10.26 et 14.27 || b V 𝔊𝔖𝔙 יהַב || c cf 18a
+
+
+23 a 𝔊 καί || b cf 2,40a
+
+
+25 a cf 18a || b pl (cf 4,13 et cet)  hic = du
+
+
+26 a prp הּ—ַ cf מִנַּהּ 24
+
+
+27 a cf 18a || b 2 Mss 𝔊 וּמ׳
+
+
+28 a–a 𝔊 cj c 27, prb add
+
+
+Cp 8, 2 a–a > 𝔊*, prb add cf 7,1d–d || b–b > 𝔊*𝔊*, add || c–c 𝔊 πρὸς τῇ πύλῃ Ωλαμ (Ουλαμ, Αιλαμ), prp על־אבול אולם* (=porta urbis, aram ex akk), sed cf אולי 16; 𝔊 ἐπὶ τοῦ Ουβαλ cf 16
+
+
+3 a > 𝔊*𝔊* 𝔙,  add? || b 𝔊 μετὰ δὲ ταῦτα cj c 4
+
+
+5 a 𝔊 om ה, dl; al dl tot vb et l צָפִיר || b prp ואינֶנּוּ, sed cf 27 || c > 𝔊*, prp אַחַת cf 𝔊
+
+
+8 a ℭ pc Mss ובע׳ || b > 𝔊 𝔙, add ex 5? 𝔊 ἕτερα, prp אֲחֵרוֹת
+
+
+9 a nonn Mss Edd מהן || b Seb Edd יָצְאָה || c l אַחֶרֶת? cf 7,8 || d 𝔊 ἰσχυρόν, l צְ׳ || e prb ins אֶרֶץ cf 11,16.41; al dl
+
+
+11 a 11sq crrp, 𝔊 aliter || b–b prp נָּה— לָה— || c K הֵרִים, mlt Mss ut Q הוּרַם || d Ms Edd מְקוֹם; prp מְקוֹמָם cf 𝔊 ὁ τόπος αὐτῶν || e prp הַמּקדשׁ (cj c 12)
+
+
+12 a–a prp וּצְבָאָהּ  נִתַּן vel ת׳ (a צדה) יִצָּדֶא (cf 𝔊 ἐρημωθήσεται fin 11) et cj c 11 || b prp וַיִּנּתן vel נִּתַּן cf a–a || c prb l הַפּשׁע cf 𝔊 αἱ ἁμαρτίαι, 𝔊 ἁμαρτία || d prb l c 2 Mss 𝔊 וַתֻּשְׁלַךְ
+
+
+13 a–a inc || b 𝔊 ad ἡ ἀρθεῖσα, ins מוּרָם? cf 11 || c–c prb l הַשּׁ׳ נִתַּן || d l וּצְבִי (gl ad קדשׁ) vel יִצָּדֶה? cf 𝔊 ἐρημωθήσεται et 12a–a
+
+
+14 a l אֵלָיו cf 𝔊𝔖
+
+
+19 a 𝔊 ad ἡ ὅρασις, prb ins הֶחָזוֹן
+
+
+20 a 𝔊𝔖𝔙 sg
+
+
+21 a 𝔊(𝔙) τῶν αἰγῶν = העזים cf 5; prb dl
+
+
+22 a sic L, mlt Mss Edd כֻיּוֹת— || b l יוֹ— cf 𝔊𝔙
+
+
+23 a 𝔊 πληρουμένων = כְּתֹם? || b 𝔊 τῶν ἁμαρτιῶν αὐτῶν, 𝔙(𝔖) iniquitates, l הַפְּשָׁעִים
+
+
+24 a–a > 𝔊**, dl (ex 22) || b l יָשִׂיחַ vel ישׂוֹחֵחַ? cf 11,36 || c–c tr עם־ק׳ (dl ו) post ועל־ 25
+
+
+25 a cf 24c–c
+
+
+27 a cf 2,1; > 𝔊, dttg? || b Ms ה—ָ
+
+
+Cp 9, 1 a cf קבל מלכותא 6,1; prp הִמְלִךְ (intransitivum ut syr Afʿel)
+
+
+2 a–a > 𝔊* || b in hoc cp sol exstat || c sic L, mlt Mss Edd מְ׳—
+
+
+3 a nonn Mss יהוה, it 15a.16a.17b.19a; א׳ = Q, quod in textum irrepsit
+
+
+4 a 4–22 add?
+
+
+5 a K וְ׳, 𝔊𝔙 ut Q cf 1 R 8,47
+
+
+7 a Or כְּהַיום cf Esr 9,7.15
+
+
+10 a 𝔊𝔙 sg
+
+
+11 a nonn Mss לָךְ
+
+
+12 a K Vrs רָיו—
+
+
+13 a nequaquam dl || b nonn Mss הַבּ׳
+
+
+15 a cf 3a
+
+
+16 a cf 3a
+
+
+17 a 𝔊 ἕνεκέν σου, prb l נְךָ— ut 19 || b cf 3a
+
+
+18 a K פִּקְחָה, ℭ ut Q פְּקַח
+
+
+19 a cf 3a || b 𝔅 הַקְ׳ || c sic L, mlt Mss Edd עַ׳—
+
+
+21 a 𝔊(𝔙) καὶ ἰδοὺ (ὁ) ἀνήρ = וְהִנֵּה ה׳ || b–b inc; ℭ mlt Mss מוּעָף pro מ׳; 𝔊 τάχει φερόμενος (sim 𝔖𝔙), 𝔊 sol πετόμενος; a עוף vel יעף (scilicet Daniel?) || c ℭ לְעת, mlt Mss Edd 𝔊 𝔖𝔙 בְּעת
+
+
+22 a 𝔊 καὶ συνέτισέ με, 𝔙 et docuit me = וַיְבִינֵנִי; 𝔊 (𝔖) καὶ προσῆλθε, l ויבאֹ
+
+
+23 a ins c 2 Mss Vrs לְךָ? || b pr אִישׁ? cf 10,11.19
+
+
+24 a 24–27 inc || b K a כלא (melius qal) cf K ad d, Q mlt Mss a כלה cf Q ad d || c 𝔊 ἁμαρτίαν, l פֶ׳? || d K 𝔊 וְלַחְתֹּם, Q mlt Mss Edd וּלְהָתֵם cf 𝔊 α´𝔖𝔙; cf b || e K Ms 𝔊𝔖 וֹת—, ℭ mlt Mss Edd ut Q חַטָּאת
+
+
+25 a nonn Mss כִּיל— || b prp לָשׁוּב || c cf חרץ in inscriptionibus  aram = fossa et akk ḫarīṣu; prp חוּץ cf Jer 5,1 9,20 || d–d 𝔖 lšwlm zbnʾ, prp ובקֵץ ה׳ et cj c 26
+
+
+26 a–a prb add; al om וְ et cj c 25d–d || b–b exc vb (דִּין [cf 𝔊] vel אָוֶן)? || c Ms 𝔖 יִשָּׁחֵת, prb l || d Ms Vrs עִם, prb l || e–e 𝔊 καὶ ἥξει ἡ συντέλεια, prb l וּבָא הַקֵּץ || f ℭ pl || g–g dub cf 27 fin
+
+
+27 a σ´ παύσεται, 𝔙 deficiet, prp יִשְׁבֹּת || b–b 𝔊 in dupl καὶ (ἕως) πτερυγίου cf c, 𝔊 in dupl καὶ ἐπὶ πτερύγιον cf Mt 4,5; 𝔊 καὶ ἐπὶ τὸ ἱερόν = ועל הַקֹּדֶשׁ? prp ועל כַּנּוֹ vel בַּעַל הַכָּנָף (= בַּעַל שָׁמַיִם) || c Seb nonn Mss ועד || d l c 𝔊 sg cf 11,31 12,11
+
+
+Cp 10, 1 a 𝔊 τῷ πρώτῳ || b 𝔊 διανοηθήσεται, α´ συνήσει = יָבִין; l בִּין
+
+
+4 a–a prb add
+
+
+5 a cf Jer 10,9; prp c pc Mss אוֹפִיר; l וּפַז cf Cant 5,11
+
+
+6 a–a cf Ez 1,7
+
+
+7 a ℭ ה—ֶ ut 1 8,27, id 8a.16c || b 𝔊 ἐν σπουδῇ, 𝔊 (𝔖) ἐν φόβῳ; prp לְה׳
+
+
+8 a cf 7a || b–b et d–d var lect, dl? (d–d cf 16) || c sic L, mlt Mss Edd כֹּחַ
+
+
+9 a–a > 𝔊 𝔖, add? || b > 𝔊 𝔖𝔙 || c–c et d–d var lect, alterum add?
+
+
+10 a–a > 𝔊 || b Ms Edd 𝔊 רַגְלָי
+
+
+13 a–a = supervacaneus fui; 𝔊 καὶ αὐτὸν (…) κατέλιπον, prp וְאֹתוֹ הוֹת׳ || b ins שַׂר? cf 𝔊
+
+
+14 a l c K Ms ה—ֶ, || b 𝔊 εἰς ἡμέρας = לְיָ׳
+
+
+16 a 𝔊 ad χειρός, prb ins יַד sed cf 18 || b l c Ms 𝔊𝔙 בֵּן || c cf 7a
+
+
+19 a prp c pc Mss 𝔊 וֶאֱמַץ vel וְהִתְחַזַּק
+
+
+21 a–a tr post 11,1
+
+
+Cp 11, 1 a–a add cf 10,1 || b 𝔊(𝔄) Κύρου = לְכֹרֶשׁ || c l עֹמֵד cf 𝔖 || d l c Ms 𝔖 לִי; cf 10,21a–a
+
+
+2 a–a add cf 10,21 || b–b dub; 𝔊 pro יעיר ἐπαναστήσεται = יֵעוֹר; 2 Mss om את, 2 Mss pro eodem אֶל (sic vel עַל prb l); l יעיר שַׂר הכל?
+
+
+4 a prp וכעצמו ut 8,8 || b 𝔊 κατὰ τὴν ἀλκὴν αὐτοῦ = כְּכֹחוֹ? cf 8,22.24 || c–c prb tr post לאחריתו
+
+
+5 a huc tr ֑ || b 𝔊 om cop, prb dl || c prp ל—ַ || d prpמִמֶּ׳
+
+
+6 a add? || b 2 Mss ז׳; l זַרְעוֹ vel הוּא וְזַרְעוֹ? al יַעַמְדוּ זְרֹעָיו (= copiae) || c mlt Mss Edd אָהּ— || d Ms 𝔊 וְהַיַּלְדָּה, 𝔖(𝔙) wʿljmth = וִילָדֶיהָ; prb l וְיַלְדָּהּ || e prb cj c 7 cf 7a
+
+
+7 a prb l יַעֲמֹד cf 𝔊 et 6e || b–b מִן partitivum (unus ex  …); prp נ׳ מִשּׁ || c acc adverbialis? prb pr עַל־ || d prp חֵיל cf במעוז
+
+
+8 a ℭ יבוא || b prp הַנֶּגֶב
+
+
+10 a 𝔊 𝔖𝔙 ut Q וּבָנָיו; l c K 𝔊 וּבְנוֹ || b–b 𝔊 sg, l רֶה ואסַף— || c l c ℭ nonn Mss Edd 𝔊 𝔖 בּוֹ? id 13c || d K 𝔖 רוּ—, mlt Mss 𝔊𝔙 ut Q רֶה— || e ℭ עַל
+
+
+11 a–a prb add; al dl עמו (> Ms Vrs)
+
+
+12 a K יָרוּם, ℭ mlt Mss Vrs ut Q וְרָם || b contaminatum ex רִבּאֹת et רִבּוֹת (cf 41a), quod l
+
+
+13 a.b alterum add || c cf 10c
+
+
+14 a = hit; pc Mss יִנָּשְׂאוּ
+
+
+15 a 𝔊 ad (τοῦ) βασιλέως
+
+
+16 a 𝔊 (𝔊 σ´ 𝔙) καὶ συντελεσθήσεται = וכֻלּה, prp וכֻלָּהּ
+
+
+17 a a sg יֹשֶׁר cf מישׁרים 6 || b l c Ms Vrs יַעֲשֶׂה || c 𝔖 ʾnšʾ, prp אֲנָשִׁים || d > 𝔊, dl?
+
+
+18 a 𝔊 (καὶ δώσει) ut Q וְיָשֵׂם, ℭ וישׂים cf 19a || b l c pc Mss לָ׳ || c–c crrp
+
+
+19 a ℭ pc Mss 𝔖 וישׂם cf 18a
+
+
+20 a ℭ מַעְמִיד || b ℭ הֲדַר || c pc Mss 𝔖𝔙 לא
+
+
+22 a prb l הִשָּׁטֹף || b–b l גּם (sic c ℭ) בר—
+
+
+24 a–a prb l וּבש׳ ב׳; al cj בשׁ׳ c 23 || b–b dub; dttg ex ויער 25?
+
+
+26 a–a prb dl וְ et cj c 25 || b–b cf 1,5a–a || c mlt Mss ישׁטף, 𝔖(𝔙) ntbdr, l יִשָּׁטֵף?
+
+
+27 a–a l עֵד חָזוֹן למ׳ וְיָפִיחַ לַקֵּץ ut Hab 2,3?
+
+
+31 a l הַמ׳ vel הַשּׁ׳ cf 12,11
+
+
+32 a prp פוּ— cf 𝔊𝔙 || b 2 Mss קוֹת—ָ; prp c 2 Mss בחלקלקות ut 21.34 cf 𝔊
+
+
+35 a ex וּלְהַלְבֵּן*; prp וּלְלַבֵּן
+
+
+36 a ℭ אֱלֹהַּ
+
+
+37 a–a > 2 Mss 𝔊, add?
+
+
+38 a–a 𝔊 (ο εβρ´ 𝔙) καὶ θεὸν μαωζιν, 𝔊 sec Hier (et) deum fortissimum cf α´, 𝔖 ʾlhʾ ʿšjnʾ
+
+
+39 a 𝔊 μετά = 𝔐, sed l עַם (עַם … ועשׂה = et collocabit … copias)? || b K הִכִּיר, ℭ ut Q יַכִּיר
+
+
+41 a σ´ sec Hier et multa millia, l ורִ׳ cf 12b || b 𝔖 wšrkʾ, l וּשְׁאֵרִית?
+
+
+42 a pc Mss בָּ׳
+
+
+45 a prp ויטֶּה || b sic L, mlt Mss Edd לֵי— || c 𝔖 jmʾ = הַיָּם
+
+
+Cp 12, 2 a–a 𝔊 ἐν τῷ πλάτει τῆς γῆς, 𝔊 (𝔙) ἐν γῆς χώματι = 𝔐 cf akk bīt epri || b gl ad vb sq, dl
+
+
+4 a prp ישֹׂ׳ vel יָסוּטוּ deficient || b prp הָרָעֹת vel הָרָעָה
+
+
+6 a 𝔊𝔙 1 sg, prp וָאֹמַר, sed cf ואשׁמע 7
+
+
+7 a l וְכִכְלוֹת? || b–b l יד נֹפֵץ
+
+
+10 a ℭ ויתצ׳
+
+
+11 a 11.12 add || b 𝔊 καὶ δοθήσεται, prp וְנִתַּן
+
+
+13 a > 𝔊, dl
+
+
+Weil, G.E., Elliger, K. and Rudolph, W., Deutsche Bibelgesellschaft (1997) Biblia Hebraica Stuttgartensia. 5. Aufl., rev. Stuttgart: Deutsche Bibelgesellschaft.
+
+
+Exported from Logos Bible Study, 12:53 15 September 2026.
+
