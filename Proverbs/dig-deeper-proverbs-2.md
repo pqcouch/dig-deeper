@@ -1,79 +1,83 @@
 # Dig Deeper: Proverbs 2
 
-**Mode:** Fresh Exegesis (solo run)
-**Translation:** ESV
-**Pulpit translation:** ESV (Anglicised) — same text as the report default
-**Date:** 9 August 2026
-**Book-overview context:** `book-overview-proverbs.md` v1.1 — in conversation; front-loaded at Phase 0.5
-**Prior work in this session:** `dig-deeper-proverbs-1-8to9-18.md` (section run — established that this chapter is the programme for chs. 3–7); `dig-deeper-proverbs-sweep.md` Unit 3; the solo runs on 1:1–7 and 31:10–31. All treated as secondary at Phase 5.5.
-**Why this passage:** the section run found that chapter 2 is simultaneously one Hebrew sentence and a table of contents. This run tests that and works the chapter at solo depth.
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/03-Proverbs.txt`, with its lemma-and-morphology index); Swete LXX (`_texts/greek-lxx-swete/19-Proverbs.txt`); BHS text and apparatus from the Logos exports of 15–16 September 2026.
+**Study text:** NASB95
+**Pulpit text:** NIV84 — the first preaching of this sermon is at a church using the 1984 edition.
+**Date:** 18 September 2026
+**Book-overview context:** `book-overview-proverbs` v2.0 (17 September 2026), in conversation; four threads front-loaded at Phase 0.5.
+**Series context:** Sermon 3 of nine. The unit owns the question *How is wisdom got?* — the chapter as one Hebrew sentence, the כִּי of v.6 making the gift the ground of the search, and the two deliverances that set the agenda for chs 3–7.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally.
+**A note on the textual basis, since the brief raised it.** For the Hebrew Bible there is no "majority text" in the sense the term carries for the Greek New Testament. What there is, is the Masoretic tradition, and the standard complete witness to it is Codex Leningradensis (B19a) — the manuscript WLC transcribes and the manuscript BHS prints. This report works from that text and cites BHS for anything resting on the apparatus. Where the Greek diverges, it is classified under the three-way triage rather than set aside. Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source.
 
 ---
 
 ## The Passage
 
-> **1** My son, if you receive my words
->  and treasure up my commandments with you,
-> **2** making your ear attentive to wisdom
->  and inclining your heart to understanding;
-> **3** yes, if you call out for insight
->  and raise your voice for understanding,
-> **4** if you seek it like silver
->  and search for it as for hidden treasures,
-> **5** then you will understand the fear of the LORD
->  and find the knowledge of God.
-> **6** For the LORD gives wisdom;
->  from his mouth come knowledge and understanding;
-> **7** he stores up sound wisdom for the upright;
->  he is a shield to those who walk in integrity,
-> **8** guarding the paths of justice
->  and watching over the way of his saints.
-> **9** Then you will understand righteousness and justice
->  and equity, every good path;
-> **10** for wisdom will come into your heart,
->  and knowledge will be pleasant to your soul;
-> **11** discretion will watch over you,
->  understanding will guard you,
-> **12** delivering you from the way of evil,
->  from men of perverted speech,
-> **13** who forsake the paths of uprightness
->  to walk in the ways of darkness,
-> **14** who rejoice in doing evil
->  and delight in the perverseness of evil,
-> **15** men whose paths are crooked,
->  and who are devious in their ways.
-> **16** So you will be delivered from the forbidden woman,
->  from the adulteress with her smooth words,
-> **17** who forsakes the companion of her youth
->  and forgets the covenant of her God;
-> **18** for her house sinks down to death,
->  and her paths to the departed;
-> **19** none who go to her come back,
->  nor do they regain the paths of life.
-> **20** So you will walk in the way of the good
->  and keep to the paths of the righteous.
-> **21** For the upright will inhabit the land,
->  and those with integrity will remain in it,
-> **22** but the wicked will be cut off from the land,
->  and the treacherous will be rooted out of it.
+> **1** בְּנִי אִם־תִּקַּח אֲמָרָי וּמִצְוֺתַי תִּצְפֹּן אִתָּךְ׃
+> **2** לְהַקְשִׁיב לַחָכְמָה אָזְנֶךָ תַּטֶּה לִבְּךָ לַתְּבוּנָה׃
+> **3** כִּי אִם לַבִּינָה תִקְרָא לַתְּבוּנָה תִּתֵּן קוֹלֶךָ׃
+> **4** אִם־תְּבַקְשֶׁנָּה כַכָּסֶף וְכַמַּטְמוֹנִים תַּחְפְּשֶׂנָּה׃
+> **5** אָז תָּבִין יִרְאַת יְהוָה וְדַעַת אֱלֹהִים תִּמְצָא׃
+> **6** כִּי־יְהוָה יִתֵּן חָכְמָה מִפִּיו דַּעַת וּתְבוּנָה׃
+> **7** וצפן לַיְשָׁרִים תּוּשִׁיָּה מָגֵן לְהֹלְכֵי תֹם׃
+> **8** לִנְצֹר אָרְחוֹת מִשְׁפָּט וְדֶרֶךְ חסידו יִשְׁמֹר׃
+> **9** אָז תָּבִין צֶדֶק וּמִשְׁפָּט וּמֵישָׁרִים כָּל־מַעְגַּל־טוֹב׃
+> **10** כִּי־תָבוֹא חָכְמָה בְלִבֶּךָ וְדַעַת לְנַפְשְׁךָ יִנְעָם׃
+> **11** מְזִמָּה תִּשְׁמֹר עָלֶיךָ תְּבוּנָה תִנְצְרֶכָּה׃
+> **12** לְהַצִּילְךָ מִדֶּרֶךְ רָע מֵאִישׁ מְדַבֵּר תַּהְפֻּכוֹת׃
+> **13** הַעֹזְבִים אָרְחוֹת יֹשֶׁר לָלֶכֶת בְּדַרְכֵי־חֹשֶׁךְ׃
+> **14** הַשְּׂמֵחִים לַעֲשׂוֹת רָע יָגִילוּ בְּתַהְפֻּכוֹת רָע׃
+> **15** אֲשֶׁר אָרְחֹתֵיהֶם עִקְּשִׁים וּנְלוֹזִים בְּמַעְגְּלוֹתָם׃
+> **16** לְהַצִּילְךָ מֵאִשָּׁה זָרָה מִנָּכְרִיָּה אֲמָרֶיהָ הֶחֱלִיקָה׃
+> **17** הַעֹזֶבֶת אַלּוּף נְעוּרֶיהָ וְאֶת־בְּרִית אֱלֹהֶיהָ שָׁכֵחָה׃
+> **18** כִּי שָׁחָה אֶל־מָוֶת בֵּיתָהּ וְאֶל־רְפָאִים מַעְגְּלֹתֶיהָ׃
+> **19** כָּל־בָּאֶיהָ לֹא יְשׁוּבוּן וְלֹא־יַשִּׂיגוּ אָרְחוֹת חַיִּים׃
+> **20** לְמַעַן תֵּלֵךְ בְּדֶרֶךְ טוֹבִים וְאָרְחוֹת צַדִּיקִים תִּשְׁמֹר׃
+> **21** כִּי־יְשָׁרִים יִשְׁכְּנוּ אָרֶץ וּתְמִימִים יִוָּתְרוּ בָהּ׃
+> **22** וּרְשָׁעִים מֵאֶרֶץ יִכָּרֵתוּ וּבוֹגְדִים יִסְּחוּ מִמֶּנָּה׃ **פ**
+
+*(WLC. Two words are printed unpointed because they carry a Qere: וצפן at v.7 and חסידו at v.8; a third Qere stands at v.22. See Textual Variants. The petuchah after v.22 is as WLC prints the Leningrad layout.)*
+
+> **1** My son, if you will receive my words And treasure my commandments within you,
+> **2** Make your ear attentive to wisdom, Incline your heart to understanding;
+> **3** For if you cry for discernment, Lift your voice for understanding;
+> **4** If you seek her as silver And search for her as for hidden treasures;
+> **5** Then you will discern the fear of the LORD And discover the knowledge of God.
+> **6** For the LORD gives wisdom; From His mouth come knowledge and understanding.
+> **7** He stores up sound wisdom for the upright; He is a shield to those who walk in integrity,
+> **8** Guarding the paths of justice, And He preserves the way of His godly ones.
+> **9** Then you will discern righteousness and justice And equity and every good course.
+> **10** For wisdom will enter your heart And knowledge will be pleasant to your soul;
+> **11** Discretion will guard you, Understanding will watch over you,
+> **12** To deliver you from the way of evil, From the man who speaks perverse things;
+> **13** From those who leave the paths of uprightness To walk in the ways of darkness;
+> **14** Who delight in doing evil And rejoice in the perversity of evil;
+> **15** Whose paths are crooked, And who are devious in their ways;
+> **16** To deliver you from the strange woman, From the adulteress who flatters with her words;
+> **17** That leaves the companion of her youth And forgets the covenant of her God;
+> **18** For her house sinks down to death And her tracks lead to the dead;
+> **19** None who go to her return again, Nor do they reach the paths of life.
+> **20** So you will walk in the way of good men And keep to the paths of the righteous.
+> **21** For the upright will live in the land And the blameless will remain in it;
+> **22** But the wicked will be cut off from the land And the treacherous will be uprooted from it.
 >
-> (Proverbs 2, ESV)
+> (NASB95)
+
+The NIV84 wording is given under Tool 8, where it diverges in ways that bear on findings.
 
 ---
 
 ## Headline Findings
 
-1. **The chapter is one sentence, and its skeleton is the argument.** `[T]` Three conditions (*ʾim*, vv.1, 3, 4) → **then** (v.5) → **for** (v.6) → **then** (v.9) → **for** (v.10) → two purpose-infinitives of rescue (vv.12, 16) → **so that** (v.20) → **for** (vv.21–22). Surfaced by: Structure, Linking Words, Original Languages. No other chapter in Proverbs is built like this, and the syntax carries the theology: the son's search and God's gift are welded into a single grammatical dependency. *High confidence.*
+1. **Proverbs 2 contains no imperative — and within chapters 1–9 it is the only chapter that does not.** `[T]`, WLC. The chapter has forty-two verb forms and not one of them is an imperative; the son's verbs are all imperfects. Per chapter across the instruction material the imperative counts run 3 · **0** · 11 · 25 · 6 · 12 · 9 · 7 · 9. *(Chapters 10, 11, 12, 15, 18, 21 and 28 also have none, but those are sentence collections where third-person statement is the norm; among the paternal addresses ch. 2 stands alone.)* Surfaced by: Structure, Linking Words, Original Languages, Tone. *High confidence.*
 
-2. **The son's first duty and God's central act are the same verb.** `[T]` Verse 1: "**treasure up** (*tiṣpōn*) my commandments with you." Verse 7: "he **stores up** (*yiṣpōn*) sound wisdom for the upright." Surfaced by: Vocabulary, Original Languages, Structure, Repetition. The son hides the words; God hides the wisdom — and the chapter's promise is that the second is found by doing the first. *High confidence; verify the identity of the root by lexicon.*
+2. **The whole chapter is one conditional sentence, and the syntax is the argument.** `[T]` Three אִם ("if", vv.1, 3, 4) → two אָז ("then", vv.5, 9) apodoses, each grounded by a כִּי ("for", vv.6, 10) → two identical לְהַצִּילְךָ ("to deliver you", vv.12, 16) purpose clauses → a לְמַעַן ("so that", v.20) result → a closing כִּי (v.21). Twenty-two verses, one arc, and no full stop the Hebrew requires. Surfaced by: Structure, Linking Words, Genre, Original Languages. *High confidence.*
 
-3. **The chapter promises understanding twice, and the order is vertical then horizontal.** `[T]` "**Then you will understand** the fear of the LORD and find the knowledge of God" (v.5); "**Then you will understand** righteousness and justice and equity" (v.9). The same verb (*ʾāz tābîn*), the second grounded in the first. Surfaced by: Structure, Linking Words, Parallels, Biblical Theology. Knowing God comes before knowing what is right — not as a pious preface but as the chapter's syntax. *High confidence.*
+3. **The כִּי of v.6 is the chapter's theological centre, and it grounds the search rather than rewarding it.** `[T]` "*If* you seek her as silver… *then* you will find the knowledge of God — **for** the LORD gives wisdom." The gift is not the prize at the end of the searching; it is the reason the searching can succeed at all. Surfaced by: Linking Words, Author's Purpose, Christological Reading, and the moralism check. *High confidence.*
 
-4. **The two deliverances are introduced by the identical infinitive, and they are the programme.** `[T]` Verses 12 and 16 both begin *lĕhaṣṣîlĕkā*, "to deliver you" — from the crooked man, and from the strange woman. Surfaced by: Structure, Linking Words, Move 4, Positional Necessity. These are the two threads that chapters 4–7 develop at length, and the chapter announces them with one repeated word. *High confidence.*
+4. **What the son does in v.1, God does in v.7 — same verb, and its only two occurrences in the chapter.** `[T]`, WLC. The son is to מִצְוֺתַי תִּצְפֹּן אִתָּךְ ("treasure my commandments within you", v.1, צפן); YHWH וְצָפַן לַיְשָׁרִים תּוּשִׁיָּה ("stores up sound wisdom for the upright", v.7, the same root). The human act of storing is answered by a divine one, and the answer comes *before* the son has finished searching. Surfaced by: Repetition, Structure, Original Languages, Tool 11 Move 4. *High confidence on the verb; the Qere changes its aspect but not its root.*
 
-5. **Chapter 2 answers chapter 1's most frightening line.** `[T]`/`[I]` At 1:28 Wisdom says of those who refused her: "they will **seek** me diligently but will not **find** me." At 2:4–5 the father says: "if you **seek** it like silver… then you will **find** the knowledge of God." Same two verbs, opposite outcome, thirty verses apart. Surfaced by: Move 4, Vocabulary, Positional Necessity, Tone. The chapter exists partly to stop the reader concluding from 1:28 that the door is shut. *Moderate–high.*
+5. **The book's only occurrence of בְּרִית ("covenant") is in this chapter, and it is a covenant being broken.** `[T]`, WLC. בְּרִית stands once in the whole of Proverbs — 2:17, of the woman who "forgets the covenant of her God". The chapter also carries two of the book's five occurrences of אֱלֹהִים (2:5, 2:17): the son is promised דַּעַת אֱלֹהִים ("the knowledge of God") and the woman has forgotten בְּרִית אֱלֹהֶיהָ ("the covenant of her God"). Surfaced by: Vocabulary, Repetition, Biblical Theology, Tool 11. *High confidence on the counts.*
 
 ---
 
@@ -81,31 +85,17 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 ### 1. Author's Purpose
 
-At **book level** the purpose is settled in the overview. At **section level** the section run established that this chapter is the *Lehrprogramm* of the lectures that follow. `[S: Ansberry]`, verified.
+**At book level** the overview's microscript holds: wisdom is acquired, and self-certification is what the book removes `[S: overview]`.
 
-What remains is the **passage-level** purpose, and it is double — which is why the chapter reads as it does.
+**At passage level** the purpose is to state the *terms of acquisition* — and to state them in a grammar that makes a particular theological point. Chapter 1:1–7 said what the book is for; chapter 2 says how the thing is got. Everything from 3:1 onwards assumes it.
 
-**First, it answers the question chapter 1 leaves standing.** Chapter 1 has staged two public voices, quoted a recruitment speech, and closed with Wisdom's terrifying verdict — "then they will call upon me, but I will not answer; they will seek me diligently but will not find me" (1:28). A reader who stops there has been told that wisdom can be permanently missed. Chapter 2 is the reply: here is how it is actually got. `[T]`/`[I]`
+The purpose is visible in three moves the Hebrew makes and the English mostly keeps `[T]`:
 
-**Second, it sets the syllabus.** The four concerns of vv.5–19 are developed, in order, by the lectures that follow — right relation to the LORD (vv.5–8 → 3:1–12), communal ethics (vv.9–11 → 3:21–35), the crooked man (vv.12–15 → 4:10–27), the strange woman (vv.16–19 → 5:1–23; 6:20–35; 7:1–27). `[S: Ansberry]`, verifiable `[T]`.
+- **The son is given conditions, not commands.** Forty-two verb forms, no imperative (see Headline 1). A chapter that wanted obedience would have asked for it.
+- **The conditions escalate.** Receiving (v.1) → attending (v.2) → calling out (v.3) → digging (v.4). The last is the strongest: תַּחְפְּשֶׂנָּה, from חפשׂ, the verb used of Laban ransacking the tents for his household gods (Gen 31:35) and of Joseph's steward searching the sacks (Gen 44:12) `[T]`, WLC. Not browsing — rummaging.
+- **The outcome is not a skill but a relation.** The first apodosis lands on יִרְאַת יְהוָה and דַּעַת אֱלֹהִים (v.5), not on competence. Competence comes second, at v.9 `[T]`.
 
-Those two purposes explain the chapter's texture. It feels abstract because it is *announcing* rather than teaching; it feels dense because it is one sentence. Its density and its abstractness are the same fact — and both are functions of its job.
-
-**One thing the chapter is not doing.** It is not describing a technique. The imperative mood does not appear once in twenty-two verses. `[T]` ***High — confirmed by morphological search, 17 August: no verb addressed to the son is an imperative; all are yiqtol (imperfect), the majority governed by "if" or "then".***
-
-> **Tested again on 21 August against a source that said the opposite — and the finding holds.** A Logos return stated that vv.2-4 *"contain direct commands ('Make,' 'Incline,' 'Lift,' 'seek,' 'search')"* and that *"the son is directly commanded."* **Those are the NASB's English imperatives, not Hebrew ones.** From BHS at 2:1 - *im-**tiqqah** amaray umiswotay **tispon** ittak* - **both verbs carry the taw prefix and are therefore second-person imperfects**; the imperatives would be *qah* and *sepon*. `[T]` The same holds through vv.2-4: *tatteh, tiqra, titten, tebaqsenna, tahpesenna*, all prefixed, all under *im*.
->
-> **⚠ And a qualification from Waltke, 21 August, which this report must accept.** Waltke: *"In the deep structure of meaning, **this casuistic construction is equivalent to an imperatival construction; both aim to persuade**."* He also calls 2:1 *"this second **command** to internalize the parental teaching."* `[S]`
->
-> **What is unaffected:** the grammatical fact. Waltke does not dispute that the forms are conditional imperfects. **What is qualified is this report's inference from it.** The absence of imperative *forms* does **not** show that the son is not being urged to act — the chapter has six effortful verbs and a casuistic construction persuades. **The anti-moralism argument rests on the *kî* of v.6, not on the imperative count**, and the count is a supporting observation about form rather than the load-bearing one. *Three layers: (1) no imperative forms — fact; (2) the construction is conditional — fact; (3) therefore the son is not being urged — **wrong, and now withdrawn**.*
->
-> **English renders a Hebrew conditional imperfect as an imperative because that is how English says it** - *"if you make your ear attentive"* is clumsy. **The translation is right; a grammatical claim drawn from it is not.** *This is the third occasion in the project where a source asked about the Hebrew has answered from an English text; future queries should ask for the parsed form, not the rendering.*
->
-> **And the gap is worth preaching:** *an ancient reader heard conditions where a modern reader hears commands* - which is exactly how the five-step-method misreading enters. Every verb addressed to the son is inside a conditional clause ("if you receive… if you call out… if you seek"), and every verb addressed to God is indicative ("the LORD gives… he stores up… he is a shield"). That grammatical division is the chapter's doctrine of grace, and it is worth preaching as grammar.
-
-> **A precision on the divine verbs.** The search returned "five verbs, all Qal" for vv.6–8. *Qal* is a stem, not a mood, so that answers a slightly different question — but it is the answer the argument needs anyway: *yittēn*, *ṣāpan*/*yiṣpōn*, *yišmōr* are Qal **indicatives** and *linṣōr* a Qal infinitive construct. No imperative, no conditional, no jussive. The asymmetry holds: **the son's verbs are contingent, God's are not.**
-
-**Book-overview note:** the overview's purpose statement is confirmed. The overview does not describe this chapter individually; the section run supplied that, and this run confirms it from the syntax.
+**The passage's distinctive contribution to the book** is therefore the sequence *condition → gift → protection → destination*, and the ordering is the doctrine. `[I]`, high confidence.
 
 ---
 
@@ -113,899 +103,528 @@ Those two purposes explain the chapter's texture. It feels abstract because it i
 
 #### Positional Necessity Check
 
-**Preceding movement.** 1:8–19: the first lecture, a gang's invitation quoted and dismantled. 1:20–33: Wisdom's first speech — a public cry that becomes a prophetic lawsuit and ends in a verdict, with one offer left standing in the final verse ("whoever listens to me will dwell secure," 1:33).
+**Preceding movement.** Chapter 1 has done three things. The prologue (1:1–7) announced what the book is for and located its starting point in the fear of YHWH. The first paternal address (1:8–19) staged a competing invitation — sinners saying לְכָה אִתָּנוּ ("Come with us") — and answered it. Then Wisdom herself cried in the street (1:20–33) and was refused, closing with a threat: אָז יִקְרָאֻנְנִי וְלֹא אֶעֱנֶה יְשַׁחֲרֻנְנִי וְלֹא יִמְצָאֻנְנִי ("Then they will call on me, but I will not answer; They will seek me diligently but they will not find me", 1:28) `[T]`.
 
-**Necessity answer.** Three, ascending.
+**Necessity answer.** **Chapter 2 exists here because chapter 1 ended with a failed search, and the reader needs to know whether searching ever works.** The verbal link is exact and is the strongest positional evidence in the passage: 1:28 uses קרא ("call"), שׁחר ("seek diligently") and מצא ("find") of a search that fails; 2:3 uses תִקְרָא ("you cry"), 2:4 uses תְּבַקְשֶׁנָּה ("you seek her") and 2:5 uses תִּמְצָא ("you will discover") of a search that succeeds `[T]`, WLC — קרא and מצא verified by lemma in both chapters. *Chapter 1 says: call too late and you will not find. Chapter 2 says: call now, and you will.* Moderate-to-high confidence; the lemmas are verified, the intended contrast is an inference.
 
-*The reader has been shown a danger and a voice, but not a route.* Chapter 1 establishes that two parties are competing for the son and that one of them speaks with divine authority. It does not say how a person actually comes to hear her. Chapter 2 is the only place that question can be answered — before any specific instruction is given, or the instruction has no addressee capable of receiving it.
+**Why here and not elsewhere.** Because 1:7's motto is an assertion and 2:5 is the only place in the book that tells you how a person arrives at it. The motto could have stood alone as a slogan; chapter 2 makes it a destination with a route. And it must precede 3:1, because from chapter 3 the imperatives begin and the son is assumed to be already on the road.
 
-*The verdict of 1:24–32 needs answering, or the book stalls.* This is the sharper point. Wisdom's first speech ends with people seeking and not finding (1:28), eating the fruit of their own way (1:31), and being destroyed by their complacency (1:32). If that is the last word, the naïve reader has no reason to try. Chapter 2 opens with a conditional and closes with the land — and its middle is "**for the LORD gives wisdom**" (v.6). `[T]`/`[I]` *Moderate–high.* The chapter turns a closed door into an open conditional.
+**Implication.** The chapter is not a general exhortation to seek wisdom. It is the answer to a question chapter 1 left hanging, and it should be preached as an answer.
 
-*The remaining lectures need a syllabus, and this is where it goes.* Chapter 2 must precede 3:1 because 3:1–12 is the first item on its own list.
+#### Immediate context
 
-**Why here and not elsewhere:** the chapter is a hinge that can only work in this position. Put it after chapter 3 and the syllabus is out of order; put it before 1:20–33 and it answers a question not yet asked.
+**Before:** 1:33, Wisdom's closing promise to the one who listens — וְשֹׁמֵעַ לִי יִשְׁכָּן־בֶּטַח ("But he who listens to me shall live securely"), with שׁכן, the same verb as 2:21's יִשְׁכְּנוּ אָרֶץ `[T]`. **After:** 3:1, בְּנִי תּוֹרָתִי אַל־תִּשְׁכָּח ("My son, do not forget my teaching") — the first negative imperative of the book's instruction, and a marked change of mode.
 
-**Implication for the passage.** Preaching Proverbs 2 as a stand-alone chapter on "seeking wisdom" loses both halves of its job. It is an *answer* (to 1:28) and an *announcement* (of 3–7). A sermon should say what it is answering and what it is about to introduce.
-
-**Revisited after Tool 11 Move 2.** The book-usage tracking below shows that Deuteronomy enters Proverbs *here*, at vv.21–22. That sharpens the positional answer further: the chapter that sets the syllabus is also the chapter that first aligns the book with Torah's own sanctions.
-
-#### General contextual notes
-
-**Immediately before:** 1:33, Wisdom's closing offer of security — which is the note chapter 2 picks up and develops.
-**Immediately after:** 3:1, "My son, do not forget my teaching" — the first item on chapter 2's own list.
-
-**The section:** the second of ten lectures in 1:8–9:18 `[S: Ansberry]`, and the longest of the lectures at 22 verses.
-
-**Widely read out of context?** Less than most of Proverbs — chapter 2 is under-preached rather than misused. Its best-known verse (v.6) is usually quoted alone, which loses the conditional it grounds.
+**Unit boundaries.** WLC marks a petuchah after 2:22 and none within the chapter `[T]`, WLC — a manuscript layout feature and a reading tradition, not an authorial signal, and one that here agrees with the syntax: the sentence ends where the paragraph does. The chapter is a genuine unit, which is not true of every chapter division in this book.
 
 ---
 
 ### 3. Structure
 
-Two analyses in the original report, and they are complementary rather than rival. **A third was added on 21 August and it is the one this report was missing — see (c).**
+The chapter is a single period. Laid out by its own connectors `[T]`:
 
-#### (a) The syntactic skeleton — one sentence
+```
+בְּנִי  (v.1)                           vocative
+  אִם  you receive / treasure           (v.1)      ─┐
+      to make attentive… incline        (v.2)       │  PROTASIS
+  כִּי אִם  you call / lift your voice   (v.3)       │  three conditions,
+  אִם  you seek / ransack               (v.4)      ─┘  escalating
 
-| Verses | Function | Marker |
+    אָז  you will discern the fear of YHWH (v.5)   ← FIRST APODOSIS: a relation
+      כִּי  YHWH gives wisdom              (v.6)    ← ground: the gift
+          and stores up… shields… guards… preserves (vv.7–8)
+
+    אָז  you will discern righteousness…   (v.9)   ← SECOND APODOSIS: competence
+      כִּי  wisdom will enter your heart    (v.10)  ← ground: the indwelling
+          discretion will guard, understanding watch (v.11)
+
+            לְהַצִּילְךָ  from the way of evil (v.12)  ─┐ two deliverances,
+                 …the men described          (vv.13–15) │ identical infinitive
+            לְהַצִּילְךָ  from the strange woman (v.16) ─┘
+                 …the woman described        (vv.17–19)
+
+    לְמַעַן  so that you may walk…          (v.20)  ← RESULT
+      כִּי  the upright will dwell in the land (vv.21–22) ← final ground
+```
+
+| Verses | Section | Function |
 |---|---|---|
-| 1–4 | **Protasis** — three conditions | *ʾim* (v.1), *ʾim* (v.3), *ʾim* (v.4) |
-| 5 | **Apodosis 1** — you will understand the fear of the LORD | *ʾāz* |
-| 6–8 | **Ground** — the LORD gives, stores, shields, guards | *kî* (v.6) |
-| 9 | **Apodosis 2** — you will understand righteousness, justice, equity | *ʾāz* |
-| 10–11 | **Ground** — wisdom will enter your heart; discretion will watch | *kî* (v.10) |
-| 12–15 | **Purpose / result 1** — deliverance from the crooked man | *lĕhaṣṣîlĕkā* |
-| 16–19 | **Purpose / result 2** — deliverance from the strange woman | *lĕhaṣṣîlĕkā* |
-| 20 | **Purpose** — so that you walk in the way of the good | *lĕmaʿan* |
-| 21–22 | **Ground** — the land: inhabited or cut off | *kî* |
+| 1–4 | **The conditions** | Three אִם clauses, escalating from receiving to ransacking |
+| 5–8 | **The first outcome and its ground** | You will *discern the fear of YHWH* — because he gives, stores, shields, guards, preserves |
+| 9–11 | **The second outcome and its ground** | You will *discern righteousness* — because wisdom enters and then guards you |
+| 12–15 | **The first deliverance** | From the man who speaks perversity |
+| 16–19 | **The second deliverance** | From the strange woman who flatters with her words |
+| 20–22 | **The destination** | A road, and a land held or lost |
 
-`[T]` *High.* The whole chapter hangs off the conditional of v.1. Nothing else in Proverbs sustains a single construction this far.
+**Device: a conditional period with a doubled centre and a doubled danger.** Two אָז clauses, two כִּי grounds, two לְהַצִּילְךָ purposes. The doubling is the shape. Note what the symmetry does: the two dangers are given the same grammatical weight and the same number of verses — four each — and the second is a woman `[T]`.
 
-Three features of the skeleton carry weight.
-
-**The doubled apodosis.** Two "then" clauses, not one — and they are ordered (Headline 3).
-
-**The doubled *lĕhaṣṣîlĕkā*.** The same infinitive opens vv.12 and 16, marking two deliverances (Headline 4). `[T]` *High.* This is the clearest structural signal in the chapter and it is invisible in English, where ESV renders v.12 "delivering you" and v.16 "So you will be delivered."
-
-**The alternating *ʾāz* / *kî*.** Promise, ground, promise, ground. The chapter never makes a claim without immediately supplying its basis — and the basis is always what God does, never what the son does.
-
-#### (b) The rhetorical shape
-
-Ansberry reads the lecture as exordium (2:1–11), lesson (2:12–20), conclusion (2:21–22), on the pattern he traces from the first lecture. `[S]` *Moderate–high.* That is a defensible division and it differs from the syntactic one at the joins — he takes v.20 with the lesson, where the syntax puts it with the conclusion.
-
-Both are worth having. **The rhetorical division tells you how the chapter persuades; the syntactic division tells you what it claims.** Where they disagree (v.20), the honest answer is that the verse faces both ways: it completes the deliverance material and it introduces the land.
-
-#### (c) The alphabetic architecture — **✅ RESOLVED 21 August, and the report's guess was right**
-
-The chapter has **22 verses** — the number of letters in the Hebrew alphabet — and divides 11 + 11 at the *lĕhaṣṣîlĕkā* of v.12. `[T]` on the counts. **This run originally flagged the significance as unverified and routed it to Open Questions. It is now answered, in more detail than was asked for.**
-
-| Claim | Verdict |
-|---|---|
-| The 22-verse length is **deliberate** | **Confirmed.** "The exact number of lines for every letter of the Hebrew alphabet… a deliberate artistic means of communicating **wholeness and completeness**" `[S: Horne]` |
-| **v.12's *lāmed* marks the alphabet's midpoint as well as the chapter's** | **Confirmed, and it is a pattern rather than a single verse.** Stanzas at **2:1–4, 5–8, 9–11 begin with *ʾālep***, the first letter; stanzas at **2:12–15, 16–19, 20–22 begin with *lāmed***, the twelfth `[S: Treier]` |
-| It is **not** an acrostic | **Confirmed.** Longman: the two-letter pattern "makes it unlikely that a Hebrew acrostic structure was intended." Schipper: "**reminiscent of** an acrostic, even though… there is no alphabetic sequence" `[S]` |
-| The 11 + 11 division | **Confirmed and refined.** **Skehan's strophic symmetry is 4 · 4 · 3 ‖ 4 · 4 · 3** — vv.1–4, 5–8, 9–11 ‖ 12–15, 16–19, 20–22, which is 11 + 11 `[S]` |
-
-**So the structure is: an *ʾālep*-half of three strophes and a *lāmed*-half of three, hinged at 2:11/2:12.** `[S]` *Moderate–high — four independent sources, agreeing on the data and differing only over the label.*
-
-**And the hinge is not merely formal.** The *ʾālep*-half says what the son **will understand** (the two *ʾāz* apodoses at vv.5 and 9); the *lāmed*-half says what he **will be delivered from** (the two *lĕhaṣṣîlĕkā* infinitives at vv.12 and 16). **The letter changes where the subject changes.**
-
-> ### ⬆⬆ Extended by Waltke, 21 August — **the letters are not laid over the syntax; they *are* the syntax**
->
-> Waltke has the halves, the stanzas and the 4·4·3 symmetry independently — *"two equal halves (2:1–11, 12–22), each half consisting of two stanzas of four verses and a **climactic** third of three verses"* — and adds the point this report missed:
->
-> > *"Each stanza of vv. 1–11 begins with the first letter of the Hebrew alphabet, ***ʾaleph*** (**ʾim** 'if,' **ʾāz** 'then' [twice]), and each stanza of the second half with its twelfth consonant, ***lamed*** (**lehaṣṣîlekā** 'to deliver you' [twice] and **lemaʿan** 'so that')."* `[S]`
->
-> | Half | Stanza | Opening word | Letter | Logical function |
-> |---|---|---|---|---|
-> | **ʾālep** | 2:1–4 | ***ʾim*** | א | the condition |
-> | | 2:5–8 | ***ʾāz*** | א | first "then" |
-> | | 2:9–11 | ***ʾāz*** | א | second "then" |
-> | **lāmed** | 2:12–15 | ***lĕhaṣṣîlĕkā*** | ל | first "to deliver you" |
-> | | 2:16–19 | ***lĕhaṣṣîlĕkā*** | ל | second "to deliver you" |
-> | | 2:20–22 | ***lĕmaʿan*** | ל | "so that" |
->
-> **The six stanza-initial letters are the six logical particles.** `[T]` on the words; `[S]` on the reading. **This report treated the alphabetic pattern as a formal overlay on the syntactic skeleton of (a) — it *is* that skeleton.** Analyses (a) and (c) are therefore not two complementary readings but **one reading seen twice.**
-
-#### (d) Waltke's alternating patterns within each half
-
-**First half — A·B·C ‖ A′·B′·C′** `[S]`
-
-| | Verse | Marker | Function |
-|---|---|---|---|
-| **A** | 2:5 | *ʾāz tābîn* | Summary: **religious** education |
-| **B** | 2:6 | *kî* | Substantiation: **the LORD gives** wisdom |
-| **C** | 2:8 | *nṣr / šmr* | Result: **divine** protection |
-| **A′** | 2:9 | *ʾāz tābîn* | Summary: **ethical** education |
-| **B′** | 2:10 | *kî* | Substantiation: wisdom **enters the heart** |
-| **C′** | 2:11 | *šmr / nṣr* | Result: **character** protection |
-
-**This confirms this report's "vertical before horizontal" finding and names it.** Waltke: *"A personal relationship with the LORD (vv. 5–8) **entails** an intuitive understanding of what is right in human relationships (vv. 9–11)."* And **Van Leeuwen's canonical parallel**: *"the movement from the divine to the human is fundamental to biblical faith"* — **the Decalogue, then the Lord's Prayer** (Matt 6:9–10 God-ward, 6:11–13 human-ward). *One caution: the Exodus reference as transmitted reads "20:1–7 followed by 20:8–11", which looks like a slip — the Decalogue's divine/human division is normally 20:1–11 / 20:12–17. The point is sound; check the reference before quoting it.*
-
-**And the chiasm that closes the half — new, and machine-confirmed** `[T]`:
-
-> **v.8** *li**nṣōr*** … *yi**šmōr*** — **nṣr · šmr**
-> **v.11** *ti**šmōr*** … *ti**nṣĕrekkā*** — **šmr · nṣr**
-
-**An exact ABBA.** Waltke: *"The chiasm of the word pair 'guard' (vv. 8a, 11b) and 'watches over' (vv. 8b, 11a) brings the first half to closure."* **And a third occurrence he does not mention: v.20's *tišmōr*** closes the body — so the guard-words run **8 ×2 · 11 ×2 · 20**.
-
-**Second half — the same shape** `[S]`
-
-| | Verse | Marker | Function |
-|---|---|---|---|
-| **A** | 2:12 | *lĕhaṣṣîlĕkā* | deliver from **perverse men** |
-| **B** | 2:13 | *ʿzb*, "who **abandon**" | straight paths |
-| **C** | 2:14–15 | *maʿgal* | their crooked **tracks** |
-| **A′** | 2:16 | *lĕhaṣṣîlĕkā* | deliver from **the strange woman** |
-| **B′** | 2:17 | *ʿzb*, "who **abandons**" | the partner of her youth |
-| **C′** | 2:18 | *maʿgal* | her deadly **tracks** |
-
-**"Both stanzas end with the final word 'tracks.'"** `[T]` — confirmed: v.15 closes *bĕmaʿgĕlôtām*, v.18 closes *maʿgĕlōtêhā*.
-
-#### (e) And Waltke calls the chapter a **janus**
-
-*"The poem functions as the **first janus (or transitional) poem in the prologue**."* `[S]` It looks back to 1:8–19 — *"as the parents in 1:8–9 rival the thugs in 1:10–19, here the son is again confronted with two ways"* — and forward to **4:10–19 and 4:20–27**, where the two-ways metaphor is developed. **This is the structural warrant for reading chapter 2 as a programme chapter**, and it is Waltke's own term — the same term Ansberry uses of 27:23–27.
-
-**One further Move 4 link from the same page:** *"This second command to internalize the parental teaching **escalates the first command from 'hear' (1:8) to 'accept' (2:1)**."* `[S]` **Sermon 3 receives from sermon 2's territory by escalation, not repetition.**
-
-> **What to say and not say.** Say *"built on the alphabet's first and middle letters."* **Do not say "acrostic"** — Longman explicitly doubts one was intended, and Proverbs' one true acrostic is 31:10–31.
->
-> **The correspondence with 31:10–31 is still worth noting and still not established.** Both are 22 verses; chapter 2 opens the instruction as 31:10–31 closes the book. `[I]` *Moderate. Elegant if designed; do not preach it as established, and note that it does not clear the macro-synthesis's ≥3-pericope gate.*
+**The "acrostic" question, handled honestly.** The chapter has **22 verses**, the number of letters in the Hebrew alphabet `[T]`, and this is often called a quasi- or half-acrostic. The corpus does not support the claim as it is usually put. Verse 1 begins with בְּנִי — the letter ב, not א; only its *second* word is אִם. Checking every verse against the letter its position would require, **exactly one verse matches: v.12, which begins with לְהַצִּילְךָ, and ל is the twelfth letter** `[T]`, WLC. One match in twenty-two is roughly what chance yields, so the letter is not evidence. **The midpoint break at v.12 is real, but the syntax establishes it, not the alphabet.** *Moderate confidence on the 22-verse observation as deliberate; uncertain on any alphabetic design.* Routed to Open Questions.
 
 ---
 
 ### 4. Linking Words
 
-For a chapter that is one sentence, this tool does more work than any other. Every connector is load-bearing.
+This is the chapter's dominant tool, and every connector matters `[T]`:
 
-**vv.1, 3, 4 — *ʾim*, "if" (three times).** **Conditional, not evidential.** The son may or may not do these things; nothing is assumed. `[T]` The three are not repetitive but escalating: *receive and treasure up* (passive reception) → *call out and raise your voice* (active petition) → *seek and search* (strenuous pursuit). Reception, prayer, labour — in that order.
+| Connector | Verse | Force | What it does |
+|---|---|---|---|
+| **אִם** ("if") | 1 | condition | Opens the protasis; the verbs after it are imperfects, not commands |
+| **כִּי אִם** | 3 | condition, intensified | BHS records two manuscripts and the Targum reading כִּי אֵם ("for a mother") instead `[S: BHS, apparatus at 2:3]` — a real variant, not a preaching point, but it shows the phrase was felt to be odd |
+| **אִם** | 4 | condition, climactic | The third and strongest |
+| **אָז** ("then") | 5 | →*therefore*→ | First consequence: a relation |
+| **כִּי** ("for") | 6 | ←*for*← | **The load-bearing connector of the chapter.** Grounds v.5 in the gift |
+| **אָז** | 9 | →*therefore*→ | Second consequence: moral discernment |
+| **כִּי** | 10 | ←*for*← | Grounds v.9 in wisdom's entry into the heart |
+| **לְהַצִּילְךָ** | 12 | purpose | First deliverance |
+| **לְהַצִּילְךָ** | 16 | purpose | Second deliverance — the identical form |
+| **כִּי** | 18 | ←*for*← | Grounds the warning about the woman |
+| **לְמַעַן** ("so that") | 20 | purpose/result | The destination |
+| **כִּי** | 21 | ←*for*← | Final ground: land held, land lost |
 
-**v.5 — *ʾāz*, "then."** First apodosis.
+**Five כִּי in twenty-two verses** `[T]`, WLC. The chapter is not a list of reasons to be wise; it is a structure of *grounds*. Every promise is underwritten.
 
-**v.6 — *kî*, "for."** The most important connector in the chapter, and arguably in the book. "**For** the LORD gives wisdom." →*for*→ grounds everything preceding. Flip it into a "therefore" and it reads: *the LORD gives wisdom; therefore receive, call out, seek.* `[T]` *High.* The gift is the **reason** for the search, not its wage. Any sermon on this chapter that leaves v.6 as a parenthesis has inverted the grammar.
-
-**v.9 — *ʾāz*, "then."** Second apodosis, resuming from v.5 across the intervening ground.
-
-**v.10 — *kî*, "for."** Grounds v.9, and shifts the agency inward: wisdom "will come into your heart."
-
-**vv.12, 16 — *lĕhaṣṣîlĕkā*, "to deliver you."** Purpose infinitives. Wisdom is *for* rescue, and the objects are named.
-
-**v.20 — *lĕmaʿan*, "so that."** Result or purpose: the walking is the point of the delivering.
-
-**vv.21–22 — *kî*, "for."** The final ground, and it is covenantal (see Tool 11).
-
-**One connector notably absent.** There is no adversative anywhere in vv.1–20 — no "but," no contrast, until the *wĕ* of v.22 ("**but** the wicked will be cut off"). `[T]` The chapter builds without qualification for twenty-one verses and then divides in its last line. That withheld antithesis is a rhetorical decision, and it is why v.22 lands hard.
+**The one that decides how the chapter is preached is v.6.** Read the אָז of v.5 as the reward of vv.1–4 and the chapter teaches that wisdom is earned. Read the כִּי of v.6 as its ground and the chapter teaches that the searching is possible because the giving is prior. **The Hebrew has the כִּי, both English versions keep it, and the second reading is the one the grammar requires** `[T]`.
 
 ---
 
 ### 5. Parallels
 
-Every verse is a bicolon. Three observations rather than a catalogue.
+Every verse is a bicolon. Four pairings do real work:
 
-**Synonymous with escalation is the dominant pattern**, and the escalation is usually toward effort or toward interiority:
+**v.2 — ear paralleled with heart.**
+> לְהַקְשִׁיב לַחָכְמָה אָזְנֶךָ ‖ תַּטֶּה לִבְּךָ לַתְּבוּנָה
 
-- **v.2** "making your **ear** attentive to wisdom / and inclining your **heart** to understanding" — outward organ then inward. The chapter's anthropology in one line.
-- **v.4** "if you seek it like **silver** / and search for it as for **hidden treasures**" — from a known commodity to something buried. The second colon adds the labour.
-- **v.11** "**discretion** will watch over you / **understanding** will guard you" — two of the preamble's promised gifts (1:4) now personified as sentries.
+Synonymous, and the movement is inward: the organ of hearing in colon A, the organ of thinking and willing in colon B `[T]`. The same two verbs recur across chs 1–9 as a pair.
 
-**The chapter's one sustained non-parallel run is vv.13–15**, the description of the crooked man: five clauses accumulating without antithesis (forsake, walk, rejoice, delight, crooked/devious). `[T]` The absence of a contrasting half lets the menace build. Compare vv.17–19 for the strange woman, which does the same.
+**v.5 — fear paralleled with knowledge.**
+> אָז תָּבִין יִרְאַת יְהוָה ‖ וְדַעַת אֱלֹהִים תִּמְצָא
 
-**The closing antithesis (vv.21–22)** is the chapter's only true antithetic parallel, and it is doubled: upright/wicked, inhabit/cut off, remain/rooted out. Four terms, two destinies. `[T]` *High.* After twenty-one verses of building, the chapter divides the world in its last two lines — which is exactly the move 1:8–9:18 will make on a larger scale at chapter 9.
+Synonymous. **This is the verse that defines יִרְאַת יְהוָה for the book**: its parallel is דַּעַת אֱלֹהִים ("the knowledge of God"), so the fear in question is a form of *knowing God*, not a mood `[T]`. Note also the chiastic word order — verb-last in colon A, verb-last in colon B but with the object fronted — which places the two divine names at the centre of the line.
+
+**vv.12 and 16 — the two deliverances.**
+> לְהַצִּילְךָ מִדֶּרֶךְ רָע מֵאִישׁ… ‖ לְהַצִּילְךָ מֵאִשָּׁה זָרָה…
+
+Not a parallel within a verse but between two: the same infinitive, the same preposition, a masculine danger and a feminine one `[T]`. The pairing is the chapter's most visible design.
+
+**vv.21–22 — the closing antithesis.**
+> כִּי־יְשָׁרִים יִשְׁכְּנוּ אָרֶץ וּתְמִימִים יִוָּתְרוּ בָהּ ‖ וּרְשָׁעִים מֵאֶרֶץ יִכָּרֵתוּ וּבוֹגְדִים יִסְּחוּ מִמֶּנָּה
+
+Antithetical, across the verse boundary, and **the only clear antithetical parallelism in the chapter** — the form that will dominate from 10:1 arrives here, at the end, as a closing verdict `[T]`. Both halves are two-membered: upright/blameless against wicked/treacherous; dwell/remain against cut off/torn away.
 
 ---
 
 ### 6. Narrator's Comment
 
-**N/A** — the chapter is direct parental address throughout, with no narrative and no authorial intrusion. `[T]` (In Proverbs this tool operates only at 7:6–23 and in the staging of 9:1–18.)
+**N/A** — this is instruction poetry, not narrative. The father speaks throughout in his own voice; there is no story from which to step outside. The nearest thing is vv.13–15 and 17–19, where the father describes third parties, but that is characterisation inside a speech, not authorial intrusion.
 
 ---
 
 ### 7. Vocabulary
 
-Six terms carry the chapter.
+**תּוּשִׁיָּה ("sound wisdom", v.7).** Eleven occurrences in the WLC `[T]`: four in Proverbs (2:7; 3:21; 8:14; 18:1) and five in Job (5:12; 6:13; 11:6; 12:16; 26:3), with Isa 28:29 and Mic 6:9. **It is a Job-and-Proverbs word**, and that matters for a book that stands next to Job in the canon. Its range is hard to pin — "sound wisdom", "effective counsel", "success", "resourcefulness" — and the versions split on it (Tool 8). *High confidence on the distribution; moderate on any single gloss.*
 
-**(a) *ṣāpan*, "treasure up / store up" (vv.1, 7) — the chapter's hidden hinge.** `[T]` The son is told to *tiṣpōn* the father's commandments; God *yiṣpōn* sound wisdom for the upright. **NET states the point in its own words, confirmed 21 August:** *"The verbal root is repeated in 2:1 and 2:7. **In 2:1, it is the responsibility of man to 'store up' wisdom; but in 2:7, it is God who 'stores up' wisdom** for the wise person who seeks him."* `[S]` **Headline 2 is now sourced as well as verified.** Lange adds the sense: to protect, to preserve, **"after the manner of a treasure or jewel, over which one watches that it may not be stolen."** The verb means to hide, store, treasure — used of hiding Moses (Exod 2:2), of treasure laid up (Job 20:26), of God's goodness "stored up for those who fear you" (Ps 31:19). *High confidence on the verb's range; moderate–high that the two occurrences are a deliberate pair — verify the identity of the root.*
+**מַטְמוֹן ("hidden treasures", v.4).** Five occurrences in the WLC `[T]`: Gen 43:23; Isa 45:3; Jer 41:8; **Job 3:21**; Prov 2:4. Job 3:21 is the closest parallel in sense — those who long for death "and dig for it more than for hidden treasures". Again Job. *High confidence.*
 
-The theological point is exact. What the son hides in himself, God has already hidden for him. The search of vv.1–4 is not prospecting in unknown ground; it is looking for something deliberately stored where the upright will find it. That single verbal link is the answer to the chapter's own question about effort and gift, and it is invisible in every English version, which uses two different renderings.
+**חָפַשׂ ("search", v.4).** Twenty-three occurrences in the WLC, three in Proverbs `[T]`. The flavour is ransacking: Gen 31:35 (Laban through the tents), Gen 44:12 (the steward through the sacks), Zeph 1:12 (God through Jerusalem with lamps). *High confidence.*
 
-**(b) *tûšiyyâ*, "sound wisdom" (v.7).** A rare and difficult noun, concentrated in Job and Proverbs (Prov 2:7; 3:21; 8:14; 18:1; Job 5:12; 6:13; 11:6; 12:16; 26:3; 30:22; also Isa 28:29; Mic 6:9). The sense is contested: "sound wisdom," "resourcefulness," "abiding success," "competence." `[S]` *Moderate.* Its concentration in the two wisdom books is itself a datum — it is a technical term of the tradition rather than ordinary Hebrew.
+**מְזִמָּה ("discretion", v.11).** The prologue promised this to the naive at 1:4; here it is what guards him `[T]`. The word is two-edged across the book (1:4; 2:11; 3:21; 5:2; 8:12 positive; 12:2; 14:17; 24:8 negative), as the 1:1–7 run established. Its appearance at 2:11 is the first time the book shows one of its gift-words doing protective work. *High confidence.*
 
-**(c) *ḥăsîdāyw*, "his saints" (v.8).** The *ḥesed*-people — those bound to God in covenant loyalty. **The only occurrence in Proverbs.** `[T]` *Moderate–high; verify by concordance.* A book that rarely uses covenant vocabulary uses it here, in the chapter that first invokes Deuteronomy's land sanctions (vv.21–22). The two facts belong together: chapter 2 is where Proverbs shows its covenantal underside.
+**אַלּוּף ("the companion", v.17).** Sixty-nine occurrences in the WLC, but most are the Edomite chiefs of Gen 36 and 1 Chr 1 `[T]`. In Proverbs it occurs three times — 2:17; 16:28; 17:9 — and in the two later verses it is the intimate friend whom a whisperer separates (מַפְרִיד אַלּוּף). The woman of 2:17 does to her own אַלּוּף what the slanderer does to other people's. *High confidence on the distribution; moderate on the connection being designed.*
 
-**(d) *ʾiššâ zārâ* / *nokriyyâ*, "the forbidden woman / the adulteress" (v.16).** Literally "strange" and "foreign." The best-supported sense is *not belonging to you* — not one's own wife — rather than ethnically foreign, though the ethnic sense may play a part. `[S]` *Moderate.* First occurrence in the book; the thread runs to 5:1–23, 6:20–35, 7:1–27 and is finally disclosed as Folly at 9:13–18.
+**בְּרִית ("covenant", v.17).** **One occurrence in the whole book** `[T]`, WLC. Whatever else Proverbs is, it is not a covenant document by vocabulary — and the single time the word appears, it is being forgotten.
 
-**(e) *bĕrît ʾĕlōhêhā*, "the covenant of her God" (v.17).** Genuinely contested: her **marriage covenant** (Mal 2:14 uses covenant language of marriage) or the **Sinai covenant**. `[S]` *Moderate.* Either way the verse places adultery under covenant rather than merely under prudence — which is the chapter's characteristic move. Note the parallel: she "**forsakes** the companion of her youth" (v.17) and the crooked men "**forsake** the paths of uprightness" (v.13). The same verb (*ʿāzab*) for both. `[T]` *Moderate–high.* The chapter's two dangers are both defections.
+**אֱלֹהִים ("God", vv.5, 17).** Five occurrences in Proverbs (2:5; 2:17; 3:4; 25:2; 30:9), two of them in this chapter `[T]`. Against יְהוָה's eighty-seven verses, אֱלֹהִים is rare; its concentration here is a feature of the chapter.
 
-**(e-bis) *ḥāsîd*, "one bound in covenant loyalty" (v.8) — and it occurs nowhere else in Proverbs.** `[T]` **Confirmed by lemma search, 21 August: *ḥăsîdāyw* at 2:8 is the sole occurrence of *ḥāsîd* in the book.** The great covenant-loyalty term appears exactly once, and it appears **here** — in the chapter that grounds wisdom in God's giving, inside the clause *"watching over the way of **his saints**."* And it is **plural**, which supports the reading of v.8's promise as corporate rather than individual. *A small, clean datum, and it strengthens the covenant-marker argument below.*
+**רְפָאִים ("the dead", v.18).** Three occurrences in Proverbs (2:18; 9:18; 21:16) and eight in the WLC `[T]`. Proverbs uses it only of where the wrong road ends.
 
-**(f) The road-words. ⚠ Corrected — and the correction is older than it looks.** **Twelve occurrences of three synonyms** — *derek*, *ʾōraḥ*, *maʿgāl* — at v.8 ×2 · v.9 · v.12 · v.13 ×2 · v.15 ×2 · v.18 · v.19 · v.20 ×2. **There is no *nĕtîbâ* in this chapter**; it is at 1:15. `[T]` *High — verified against the Hebrew on 17 August and machine-counted again on 21 August.*
+**אִשָּׁה זָרָה / נָכְרִיָּה ("the strange woman / the adulteress", v.16).** The pair recurs at 7:5 in identical words — see Tool 11. זָר and נָכְרִי are terms of *otherness*, not of morals: someone outside the household or the community `[T]`. The moral colouring is supplied by the context, not by the words.
 
-> **This paragraph said "roughly thirteen… *nātîb*" until 21 August, although Tool 10 had carried the corrected figure since 17 August.** A correction made in one place and not propagated to the other two — **the same failure that let the Open Questions list drift.** *Both other occurrences are now fixed.*
->
-> *Waltke lists the same four synonyms, so a major commentary makes the same slip — presumably because all four belong to the metaphor as the prologue uses it. His verse-list also counts v.15 once where the Hebrew has two.* This is plausibly the densest concentration in the book, and it is the chapter where the two-ways framework is installed. Note the ownership: the paths of justice and the way of his saints are **God's** to guard (v.8); the paths of uprightness are what the wicked **forsake** (v.13); her paths lead to the departed (v.18); and the way of the good is what the son will **walk** (v.20).
-
-**Proper-noun inventory.** **Nil** — the chapter contains no personal names, place names or significant numbers. `[T]` No name-hyperlink check applies. (The one number-adjacent datum, the 22-verse count, is treated under Structure.)
+**Proper-noun inventory (Tool 7c).** The chapter contains **no proper nouns at all** apart from the divine name יְהוָה (vv.5, 6) `[T]`. No person, place, people or number is named. That is itself worth noting: the chapter's dangers are types, not persons, and no name-hyperlink check is triggered.
 
 ---
 
 ### 8. Translations
 
-**Where ESV, NASB and KJV diverge meaningfully.**
+Six divergences bear on findings. The first two are the ones to take into the pulpit.
 
-| v. | ESV | NASB | KJV | Comment |
-|---|---|---|---|---|
-| 1 | treasure up my commandments | treasure my commandments | hide my commandments | **KJV's "hide" preserves the link to v.7's "layeth up"** more visibly than the moderns, though it too uses a different English word in the two verses |
-| 4 | search for it as for hidden treasures | search for her as for hidden treasures | searchest for her as for hid treasures | NASB/KJV keep the feminine pronoun ("her"), ESV neutralises to "it" — a real loss, since the chapter is preparing the personification of chs. 8–9 |
-| 7 | he stores up sound wisdom | He stores up sound wisdom | He layeth up sound wisdom | See v.1 |
-| 7 | sound wisdom | sound wisdom | sound wisdom | All three guess at *tûšiyyâ* |
-| 12 | delivering you from the way of evil | To deliver you from the way of evil | To deliver thee from the way of the evil man | ESV's participle obscures that v.12 and v.16 open identically |
-| 16 | So you will be delivered from the forbidden woman | To deliver you from the strange woman | To deliver thee from the strange woman | **NASB and KJV preserve the parallel with v.12; ESV does not.** The clearest case in the chapter where a modern rendering hides a structural signal |
-| 18 | her house sinks down to death | her house sinks down to death | her house inclineth unto death | Substantively agreed |
+| | NASB95 | NIV84 | What turns on it |
+|---|---|---|---|
+| **vv.12, 16** | "**To deliver** you from the way of evil…" / "**To deliver** you from the strange woman…" | "**Wisdom will save** you from the ways of wicked men…" / "**It will save** you also from the adulteress…" | The Hebrew has one word, לְהַצִּילְךָ, twice — an infinitive depending on v.11's מְזִמָּה and תְּבוּנָה. **NIV84 supplies a subject the Hebrew does not have, and renders the same form two different ways.** The congregation will not hear that these are the same phrase, and the chapter's clearest structural signal is lost |
+| **v.17** | "the covenant of **her God**" | "the covenant she made **before God**" *(footnote: "Or covenant of her God")* | בְּרִית אֱלֹהֶיהָ is a construct chain, "the covenant of her God". NIV84's main text decides that this is a marriage covenant witnessed by God; NASB95 leaves it as the Hebrew has it. **Whose covenant is broken is a live interpretive question, and NIV84 has settled it in the text and buried the alternative in a note** |
+| **v.7** | "sound wisdom" | "**victory**" | תּוּשִׁיָּה. NIV84's "victory" is a defensible end of the range and is close to the Greek's σωτηρίαν ("salvation"); NASB95's "sound wisdom" is closer to the word's use at 3:21 and 8:14. Neither is wrong; the preacher should know the word is genuinely elastic |
+| **v.13** | "the paths of **uprightness**" | "the **straight** paths" | Hebrew יֹשֶׁר, the noun of the root that gives יְשָׁרִים ("the upright") at v.7 and v.21. **NASB95 keeps the root visible across all three; NIV84 keeps it at vv.7 and 21 and loses it at v.13** |
+| **v.16** | "the **strange woman**… the adulteress" | "the **adulteress**… the wayward wife" | Both interpret; the Hebrew says "a strange woman… a foreign woman". NIV84 goes furthest from the wording and closest to the likely sense |
+| **v.22** | "will be **uprooted**" | "will be **torn** from it" | יִסְּחוּ, from נסח. NIV84's "torn" is nearer the verb's use at Deut 28:63 (see Tool 11) |
 
-**Two findings here, and both matter for preaching.**
+**Pulpit divergence note.** NIV84 is the pulpit text for this engagement, and on this chapter it costs more than it did on 1:1–7. **The doubled לְהַצִּילְךָ is the loss that matters** — it is a headline finding and the congregation will not hear it. If the sermon is going to make anything of the two deliverances being one phrase, read those two half-verses from the Hebrew or from NASB95, or simply say what the Hebrew has. The v.17 rendering is the second thing to watch: preaching "the covenant she made before God" as though the text said it will not survive a hearer with a study Bible.
 
-**The *lĕhaṣṣîlĕkā* parallel is visible in NASB and KJV and invisible in ESV.** `[T]` *High — checkable.* A preacher working from the ESV will not see that vv.12 and 16 begin with the same word. Read those two verses from the NASB and the chapter's structure becomes audible.
+**Ancient versions check.** The moderns substantively agree at vv.5–6, 9–11 and 18–21, and those renderings carry weight, so the check runs — and it returns the largest finding in the report.
 
-**ESV's "it" at v.4 flattens a feminine referent.** The Hebrew suffixes are feminine (wisdom being grammatically feminine), and NASB/KJV render "her." `[T]` *Moderate–high.* In a book that will personify Wisdom as a woman four chapters later, "search for **her** as for hidden treasures" is doing preparatory work that "it" undoes.
-
-**Ancient versions check.** The moderns agree at v.6 ("For the LORD gives wisdom; from his mouth come knowledge and understanding"), and the rendering carries real weight, so the check is triggered. The LXX and Vulgate do not materially diverge here. `[S]` *Moderate confidence — recall, not verified.* No `Translation-tradition split:` in this chapter.
-
-One book-level note bears on the chapter indirectly: Greek Proverbs rearranges the book's later material and strengthens the single Solomonic voice, replacing "the words of the wise" with first-person address and concealing the attributions to Agur and Lemuel. `[S: Ansberry]` *Moderate.* Nothing in chapter 2 depends on it.
-
-**Pulpit edition note:** pulpit text matches report default; no ESV (Anglicised) difference bears on any finding.
+- **v.16 — the strange woman is not in the Greek.** Swete reads τοῦ μακράν σε ποιῆσαι ἀπὸ ὁδοῦ εὐθείας καὶ ἀλλότριον τῆς δικαίας γνώμης· υἱέ, μή σε καταλάβῃ κακὴ βουλή ("to remove you far from the straight way, and estranged from righteous thinking. Son, let evil counsel not overtake you") `[T]`, Swete. **There is no woman.** The feminine participle of v.17 (ἡ ἀπολείπουσα) then attaches to κακὴ βουλή ("evil counsel"), and the whole of vv.16–19 becomes a warning about bad advice rather than about an adulteress. **Triage: category 2, a substantive divergence**, and one of the more striking in the book. Whether the Greek reflects a different *Vorlage* or a deliberate moralising of the Hebrew is not decidable from the corpus; the translator's habits elsewhere in Proverbs make interpretation the likelier explanation. *Moderate confidence on the explanation; high on the fact.* Any citation should come from Rahlfs-Hanhart or Göttingen via Logos, not from this diplomatic layer.
+- **v.7 — the Greek supports the Ketiv.** Swete has θησαυρίζει, a finite verb, agreeing with the Ketiv וְצָפַן; BHS records "K 𝔊𝔖 וְצָפַן, Q 𝔗𝔙 יִצְפֹּן" `[S: BHS, apparatus at 2:7]`. Greek and Syriac on one side, Targum and Vulgate on the other. **Triage: category 2 on the aspect; it does not touch the root**, so Headline 4's צפן echo stands on either reading.
+- **v.6 — "from his mouth" or "from his face"?** Swete has ἀπὸ προσώπου αὐτοῦ ("from his face") where the Hebrew has מִפִּיו ("from His mouth"); BHS suggests the Greek read וּמִפָּנָיו `[S: BHS, apparatus at 2:6]`. **Triage: category 2, minor.** The Hebrew's "mouth" is the harder and better-attested reading and is what the sermon should use — but note that a *face* rather than a *mouth* would push the verse further toward personal presence. *Moderate confidence.*
+- **v.2 — a Greek plus.** Swete adds παραβαλεῖς δὲ αὐτὴν ἐπὶ νουθέτησιν τῷ υἱῷ σου ("and you shall apply it to admonition for your son") with no Hebrew counterpart `[T]`, Swete. **Triage: category 2.** It turns the chapter into instruction for a father as well as a son.
+- **v.20 — the Greek reverses the mood.** Hebrew לְמַעַן תֵּלֵךְ ("so that you may walk"); Swete εἰ γὰρ ἐπορεύοντο τρίβους ἀγαθάς, εὕροσαν ἂν ("for if they had walked in good paths, they would have found…") — a contrary-to-fact conditional about *them* instead of a purpose clause about *you* `[T]`, Swete. **Triage: category 2.** The Hebrew's second person is the chapter's whole point and should be preached.
 
 ---
+
 ### 9. Tone and Feel
 
-**Patient, architectural, and — until the last two verses — entirely unhurried.**
+**Register: sustained, patient, and withheld.** `[T]`
 
-The dominant device is **syntactic suspension**. The chapter opens a conditional at v.1 and does not resolve it until v.5; it then re-opens and resolves again at v.9; and it does not reach a full stop until v.22. A reader must hold the sentence in mind across twenty-two verses. That is the tonal experience of the chapter, and it is deliberate: *the thing being described takes sustained attention, and so does the sentence describing it.* `[I]` *Moderate–high.*
+The chapter's most remarkable tonal feature is that it does not raise its voice. Chapter 1 had a gang, an ambush, a woman shouting in the street and a prophecy of terror; chapter 3 will have imperatives, blessings and a promise about barns. Chapter 2 has one long sentence, delivered evenly, that does not resolve for twenty-two verses.
 
-Three tonal movements:
+The devices that create it `[T]`:
 
-**vv.1–11: warm and expansive.** Ear, heart, voice, silver, treasure, shield, soul. The imagery is bodily and domestic; the promises accumulate without qualification.
+- **Suspension.** The protasis runs four verses before the first אָז. A hearer does not know where the sentence is going until v.5.
+- **Absence of command.** Nothing is demanded. The effect is of a case being laid out rather than pressed.
+- **Accumulation of path-words.** אֹרַח five times, דֶּרֶךְ four, מַעְגָּל three — twelve occurrences of "way" vocabulary in twenty-two verses `[T]`, WLC. The chapter feels like walking.
+- **The one moment the voice drops.** v.18, כִּי שָׁחָה אֶל־מָוֶת בֵּיתָהּ ("For her house sinks down to death"), and v.19, "None who go to her return again." After the warmth of vv.5–11, this is cold.
 
-**vv.12–19: darkening, twice.** Two portraits, each built by accumulation without contrast — the crooked man (forsake, walk in darkness, rejoice in evil, delight in perverseness, crooked, devious) and the strange woman (forsakes, forgets, sinks down, none come back). The second is the darker, and it ends on an absolute: "**none** who go to her come back, nor do they regain the paths of life."
+**Soundtrack:** a single sustained line — a cello, not an ensemble — with one bar near the end where the harmony drops a semitone and does not recover until v.20.
 
-**vv.20–22: level and final.** The temperature drops. After the menace of vv.12–19 the chapter closes with four plain verbs about land tenure.
-
-**Soundtrack:** a long unbroken line of strings that never resolves until the final bar.
-
-**A note for the preacher.** This chapter is the least dramatic in the frame — no quoted speech, no narrative, no personification. Preaching it with the energy of chapter 7 will misrepresent it. Its power is cumulative and grammatical, and the sermon should let the sentence build.
+**For the preacher:** do not preach this chapter urgently. Its power is that it refuses urgency; the urgency is chapter 1's and chapter 5's. A sermon that shouts here is fighting the text.
 
 ---
 
 ### 10. Repetition
 
-**Understanding.** *Bînâ* / *tĕbûnâ* / *tābîn* at vv.2, 3 (twice), 5, 6, 9, 11 — **seven occurrences** of the root *byn* across six verses in vv.1–11. `[T]` *Moderate–high; still awaiting a clean morphological search — see note below.* Verse 3 carries two: "if you call out for **insight** (*bînâ*) and raise your voice for **understanding** (*tĕbûnâ*)". It is the chapter's key noun and its key verb, and it brackets both halves of the protasis-apodosis structure.
+All counts WLC, all recurrences verified by lemma.
 
-**Wisdom and knowledge as a pair.** vv.5 ("knowledge of God"), 6 ("knowledge and understanding"), 10 ("knowledge will be pleasant to your soul"). *Daʿat* three times, always as the thing that arrives.
+| Item | Occurrences in ch. 2 | Note |
+|---|---|---|
+| **אֹרַח** ("path") | 5 — vv.8, 13, 15, 19, 20 | The chapter's densest noun |
+| **דֶּרֶךְ** ("way") | 4 — vv.8, 12, 13, 20 | |
+| **מַעְגָּל** ("course, track") | 3 — vv.9, 15, 18 | Three different owners: the good, the crooked, the woman |
+| **תְּבוּנָה** ("understanding") | 4 — vv.2, 3, 6, 11 | The most repeated wisdom-word in the chapter |
+| **חָכְמָה** ("wisdom") | 3 — vv.2, 6, 10 | Once per section: sought, given, indwelling |
+| **דַּעַת** ("knowledge") | 3 — vv.5, 6, 10 | |
+| **שָׁמַר** ("keep, guard") | 3 — vv.8, 11, 20 | **God guards (v.8), understanding guards (v.11), you guard (v.20)** — the same verb moving from God to the gift to the son |
+| **נָצַר** ("preserve, watch over") | 2 — vv.8, 11 | Paired with שׁמר in both verses |
+| **צָפַן** ("store up") | 2 — vv.1, 7 | Headline 4 |
+| **נצל** hiphil ("deliver") | 2 — vv.12, 16 | The identical לְהַצִּילְךָ |
+| **עָזַב** ("forsake") | 2 — vv.13, 17 | **הַעֹזְבִים** (masc. pl. participle) of the men, **הַעֹזֶבֶת** (fem. sg. participle) of the woman — the same participle, inflected for each danger |
+| **תַּהְפֻּכוֹת** ("perverse things") | 2 — vv.12, 14 | |
+| **רָע** ("evil") | 3 — vv.12, 14 (×2) | |
+| **אֵמֶר** ("words") | 2 — vv.1, 16 | **אֲמָרָי** ("my words") and **אֲמָרֶיהָ** ("her words") — the chapter's two speakers, same lemma |
+| **אֱלֹהִים** | 2 — vv.5, 17 | Headline 5 |
+| **root ישׁר** | 3 — vv.7, 13, 21 | Two lemmas: the adjective יָשָׁר (3477) at vv.7, 21; the noun יֹשֶׁר (3476) at v.13. **A root-level chain, not a lemma-level one** |
 
-**The road-words** — see Tool 7(f). **Twelve occurrences of three words** (*derek*, *ʾōraḥ*, *maʿgāl*); there is no *nātîb* in the chapter. Verified against the Hebrew, 17 August. `[T]` *High.*
-
-**Guarding and watching.** *Nāṣar* / *šāmar* at vv.8 (twice: "guarding the paths," "watching over the way"), 11 (twice: "discretion will watch over you, understanding will guard you"). `[T]` *Moderate–high.* Four occurrences, and the distribution is the point: **in v.8 God does the guarding; in v.11 wisdom does it.** The protection promised is the same protection, mediated. That is a small but genuinely illuminating pattern and it is easy to miss because ESV varies the English.
-
-**Forsaking.** *ʿĀzab* at v.13 (the crooked men forsake the paths of uprightness) and v.17 (she forsakes the companion of her youth). `[T]` The chapter's two dangers are both described as defection from a prior bond.
-
-**"The upright."** *Yāšār* at vv.7 and 21, bracketing the second half. `[T]`
-
----
-
-### 11. Quotation / Allusion
-
-**Independent candidate-finding.** From the chapter's own vocabulary before testing anything a source named: "inhabit the land… cut off from the land" → Deut 4:26; 28:63; 30:18; Ps 37:9, 11, 22, 29. "Seek it like silver… hidden treasures" → Job 28:1–11. "The LORD gives wisdom" → 1 Kgs 3:9–12. "A shield" → Gen 15:1; Ps 3:3; 18:30. "The covenant of her God" → Mal 2:14. "His saints" → Ps 30:4; 31:23; 37:28.
-
-**Live sources for the book** (overview, confirmed across the sweep): Genesis 1–3, Deuteronomy, Job, Psalms, the Solomon tradition.
-
----
-
-**Deuteronomic land tenure → Proverbs 2:21–22** *(moderate–high confidence)*
-
-*Source context.* The formula "inhabit the land / be cut off from it" is Deuteronomy's covenant-sanction language. Deut 4:26 warns that Israel will "soon utterly perish from the land… you will not live long in it, but will be utterly destroyed"; Deut 28:63 threatens that "you shall be plucked off the land you are entering to take possession of it"; Deut 30:18 sets life and death, blessing and curse, before the people with land tenure as the stake. In Deuteronomy the formula's function is to make continued possession of the land conditional on covenant faithfulness — it is the sanction clause of a treaty.
-
-*Book usage.* **This is Deuteronomy's first substantial appearance in Proverbs.** `[T]` The book will return to it repeatedly — Deut 8 behind 3:1–12, the Shema at 3:3 and 6:20–23, firstfruits at 3:9, weights and measures at 11:1 and 16:11 and 20:10, 23, the boundary stone at 22:28 and 23:10, and finally the canon-formula at 30:6. By the end of the book Deuteronomy is the most-used scriptural source in Proverbs. It enters *here*, in the chapter that sets the syllabus — which is not likely to be accidental. `[I]` *Moderate–high.*
-
-*OT-to-OT.* The phrasing is strikingly close to **Psalm 37**: "those blessed by the LORD shall inherit the land, but those cursed by him shall be cut off" (37:22; cf. vv.9, 11, 29). Psalm 37 is itself a wisdom psalm working the two-ways problem, and it stands in the same canonical section as Proverbs. `[I]` *Moderate–high.* So Proverbs 2 is not reaching past its neighbours to Deuteronomy; it is joining a conversation Psalm 37 has already begun in the Writings' own idiom. Both texts feed Matt 5:5.
-
-*What the full triad adds.* The two ways of Proverbs are not a self-help binary; they are the covenant's own sanctions transposed into wisdom's key. The son who takes the crooked path is not merely being imprudent — he is forfeiting inheritance. And because this is the chapter that programmes chapters 3–7, the covenantal framing set here governs everything that follows: the warnings about the crooked man and the strange woman are covenant warnings, not merely prudential ones. That is the single most useful thing this triad contributes to a sermon on the chapter.
+**The three repetitions that pay.** First, **שָׁמַר** moving God → gift → son (vv.8, 11, 20): the son ends up doing what God does, and only after receiving it. Second, **עָזַב** in the same participle for both dangers (vv.13, 17): the man's sin and the woman's are named with one word, and the word is *abandonment*. Third, **אֵמֶר** at vv.1 and 16: the chapter opens with the father's words and its second danger is a woman's words — *the contest is between two sets of sayings, not between speech and silence*.
 
 ---
 
-**Job 28:1–11 ∥ Proverbs 2:4** *(moderate confidence; direction unresolved)*
+### 11. Quotation/Allusion
 
-*Source context.* Job 28 opens with an extended mining scene — shafts sunk in darkness, men hanging on ropes, mountains overturned, hidden things brought to light — and then asks where *wisdom* is found, concluding that it cannot be mined, bought, or located by the living. The poem's function is to establish that wisdom is inaccessible to human search, and it ends at the fear of the Lord (28:28).
+**Live sources for this book** `[S: overview]`: Genesis 1–3, Deuteronomy (four strands), Job 28, Psalms, the Solomon tradition, Amenemope. Proverbs contains no citation formula anywhere `[T]`, so everything below is allusion or shared rare vocabulary. Candidates were derived from the chapter's own distinctive words before any secondary source was consulted.
 
-*Book usage.* Job 28 is a live source for Proverbs — 1:7 shares its closing formula, and 3:14–15 shares its valuation ladder (gold, silver, jewels). This is a third contact point. `[I]` *Moderate.*
+**Deuteronomy 28:63 → Prov 2:22** *(high confidence on the lexical fact; moderate on the allusion)*
 
-*What it adds, and the tension worth preaching.* Proverbs 2:4 uses Job 28's own image — digging for buried treasure — but reverses its verdict. Job says the mine cannot yield wisdom; Proverbs says *seek it like silver and you will find*. The difference is v.6: the search succeeds not because the ground gives it up but because "**the LORD gives** wisdom." `[I]` *Moderate.* If the echo holds, the chapter is answering Job as well as answering Proverbs 1:28. Flag the direction of dependence as unresolved.
+*Source context:* Deut 28 is the covenant-curse chapter. v.63 is its most desolating sentence — as YHWH once delighted to make Israel prosper, so he will delight להאביד אתכם ולהשמיד אתכם ("to destroy you and annihilate you"), וְנִסַּחְתֶּם מֵעַל הָאֲדָמָה ("and you will be torn from the land"). The verse is the terminal point of the curse-list, and what it threatens is expulsion, not merely defeat.
 
----
+*Book usage:* Proverbs uses נסח twice — 2:22 and 15:25 (where YHWH tears down the proud man's house) `[T]`, WLC. Both are acts of removal, one of persons from land and one of a house from its place.
 
-**1 Kings 3:9–12 ∥ Proverbs 2:6** *(moderate)*. Solomon asks for "an understanding mind" and God gives him "a wise and discerning mind." The book whose superscription names Solomon says in its programme chapter that "the LORD gives wisdom." *Moderate; the verbal overlap is not distinctive, but the canonical resonance is real for a reader of Kings.*
+*OT-to-OT:* the verb occurs **four times in the whole Hebrew Bible** — Deut 28:63; Ps 52:7; Prov 2:22; 15:25 `[T]`, WLC. Ps 52:7 is a curse on a treacherous man: "God will break you down for ever… he will tear you from your tent." So the three non-Proverbs occurrences are all judgement-of-removal texts.
 
-**Malachi 2:14 ∥ Proverbs 2:17** *(moderate)*. Malachi calls a man's wife "your companion and your wife by covenant," which supports reading "the covenant of her God" as the marriage covenant. Direction and dating unresolved; the parallel is conceptual and lexical in part.
+*What it adds:* the last word of the chapter is one of the rarest verbs in the Hebrew Bible, and its canonical home is the covenant curse. **The chapter that never mentions the covenant except to say a woman forgot it ends with the covenant's own verb for expulsion.** The link is carried by one word, so it must not be over-pressed — but the word is rare enough that the ear of a reader who knew Deuteronomy would catch it. *Moderate-to-high confidence.*
 
----
+**Psalm 37 → Prov 2:21–22** *(high confidence on the verbal overlap; direction undetermined)*
 
-**Move 4 — Internal echo check**
+*Source context:* Ps 37 is the sustained answer to the prosperity of the wicked, built on a refrain about the land: מְבֹרָכָיו יִירְשׁוּ אָרֶץ וּמְקֻלָּלָיו יִכָּרֵתוּ ("those blessed by Him will inherit the land, but those cursed by Him will be cut off", 37:22); צַדִּיקִים יִירְשׁוּ־אָרֶץ וְיִשְׁכְּנוּ לָעַד עָלֶיהָ ("The righteous will inherit the land and dwell in it for ever", 37:29).
 
-*Answers earlier material:*
+*Book usage:* Proverbs makes the same claim once more, at 10:30, with שׁכן and אֶרֶץ — the same two lemmas as 2:21 `[T]`, WLC.
 
-| Earlier | Here | Relationship | Confidence |
-|---|---|---|---|
-| **1:28** "they will seek me diligently but will not find me" | **2:4–5** "if you seek it like silver… then you will find" | Same two verbs, opposite outcome; the chapter reopens what 1:28 closed | Moderate–high `[T]`/`[I]` |
-| **1:3** "righteousness, justice, and equity" | **2:9** verbatim | The preamble's centre delivered as the *outcome* of the search | High `[T]` |
-| **1:4** *ʿormâ* and *mĕzimmâ* promised to the naïve | **2:11** "discretion (*mĕzimmâ*) will watch over you" | The promised gift personified as a sentry — and the first positive use after the preamble | High `[T]` |
-| **1:7** "the fear of the LORD is the beginning of knowledge" | **2:5** "then you will understand the fear of the LORD" | The motto becomes an attainment | High `[T]` |
-| **1:33** "whoever listens to me will dwell secure" | **2:21** "the upright will inhabit the land" | The offer of security given covenantal content | Moderate `[I]` |
+*OT-to-OT:* Ps 37 and Prov 2 share שׁכן + אֶרֶץ (Ps 37:3, 29; Prov 2:21) and כרת (Ps 37:9, 22, 28, 34; Prov 2:22) and תָּמִים (Ps 37:18; Prov 2:21) — three lemmas, all verified `[T]`. **But not ירשׁ:** Psalm 37's signature verb, "inherit", is absent from Prov 2:21, which has only "dwell". A preacher who says Proverbs 2 promises the meek will *inherit* the earth is importing the psalm's verb.
 
-*Planted for later:*
+*What it adds:* the chapter closes in the register of the land-promise, using a formula that the Psalter states more fully. Whether Proverbs is drawing on Ps 37, or both on a common stock, is not recoverable. *High confidence on the overlap; the direction is an open question.*
 
-| Here | Later | Relationship | Confidence |
-|---|---|---|---|
-| **2:12–15** the crooked man | 4:10–19, 20–27 | The first of the two announced threads | High `[T]`/`[S]` |
-| **2:16–19** the strange woman | 5:1–23; 6:20–35; 7:1–27; 9:13–18 | The second thread; four verses become three chapters and then a personification | High `[T]` |
-| **2:17** "the companion of her youth" (*nĕʿûrêhā*) | **5:18** "the wife of your youth" (*nĕʿûrekā*) | She abandoned hers; the son is told to rejoice in his. Same noun, opposite posture | Moderate–high `[T]` |
-| **2:18** "her paths to the departed" (*rĕpāʾîm*) | **9:18** "her guests are in the depths of Sheol" (*rĕpāʾîm*) | The frame's strange-woman thread opens and closes on the same rare noun | High `[T]` |
-| **2:21–22** the land | **10:30** "the righteous will never be removed, but the wicked will not dwell in the land" | The chapter's closing sanction restated once in the collections | High `[T]` |
-| **2:5** "find the knowledge of God" | 3:13; 8:17, 35; 18:22; 31:10 | The book's *māṣāʾ* thread, which culminates in "an excellent wife, who can find?" | Moderate–high `[T]` |
-| **2:6** "the LORD gives wisdom" | 30:5–6 (Agur grounds wisdom in the given word) | The book's first and last statements about wisdom's source | Moderate `[I]` |
+**Job → Prov 2:4, 7** *(moderate confidence — shared rare vocabulary, not allusion)*
+
+*Source context:* Job 3:21 has those who long for death and dig for it מִמַּטְמוֹנִים ("more than for hidden treasures"); Job 5:12 has God frustrating the crafty so their hands achieve no תּוּשִׁיָּה.
+
+*What it adds:* Move 1 only, as the significance rule directs. Two of the chapter's rarest words are Job words, and Job is the canonical neighbour. This is not a citation; it is evidence that Proverbs 2 is speaking the dialect of the book next door. *Moderate confidence.*
+
+**Internal echoes (Move 4)**
+
+- `Internal:` **1:28 → 2:3–5** — *answers §earlier*. Wisdom's threat that those who refuse will קרא ("call") and not מצא ("find") is answered by a son who will תִקְרָא and will תִּמְצָא. Both lemmas verified in both chapters `[T]`. **The strongest internal link in the chapter**, and the Positional Necessity Check's evidence. *High confidence.*
+- `Internal:` **1:3 → 2:9** — *answers §earlier*. צֶדֶק, מִשְׁפָּט and מֵישָׁרִים co-occur in exactly two verses of Proverbs, 1:3 and 2:9 `[T]`, WLC. At 1:3 they are what the book intends to confer; here they are what the son will discern. *High confidence.*
+- `Internal:` **1:4 → 2:11** — *answers §earlier*. מְזִמָּה, promised to the naive in the prologue, is here the thing that guards him `[T]`. *High confidence.*
+- `Internal:` **2:16 → 7:5** — *planted for later*. The half-line מֵאִשָּׁה זָרָה מִנָּכְרִיָּה אֲמָרֶיהָ הֶחֱלִיקָה recurs **verbatim** at 7:5 `[T]`, WLC — one of the clearest self-quotations in chs 1–9. What is a clause here becomes a narrated scene there. *High confidence.*
+- `Internal:` **2:18 → 9:18** — *planted for later*. רְפָאִים occurs three times in Proverbs; here it is where the woman's tracks lead, and at 9:18 it is where Folly's guests already are `[T]`. *High confidence.*
+- `Internal:` **2:17 → 16:28; 17:9** — *planted for later*. אַלּוּף in Proverbs means an intimate friend, and the two later verses describe someone who separates them; the woman here separates herself from her own `[T]`. *Moderate confidence.*
+- `Internal:` **2:21–22 → 10:30** — *planted for later*. שׁכן + אֶרֶץ, verified `[T]`. The chapter's closing verdict is restated as a single proverb once the sentence collection begins. *High confidence.*
+- `Internal:` **1:33 → 2:21** — *answers §earlier*. Wisdom's promise יִשְׁכָּן־בֶּטַח ("shall live securely") and the chapter's יִשְׁכְּנוּ אָרֶץ ("will live in the land") share שׁכן `[T]`. *Moderate confidence — the verb is common.*
 
 ---
 
 ### 12. Genre
 
-**Parental instruction** within the ANE instruction tradition — the second of ten lectures, and structurally the most ambitious. `[S: Ansberry]` on the classification and count.
-
-Two reading rules.
-
-**And read it as a shaped poem, not only as a sentence.** The twenty-two verses match the twenty-two letters of the Hebrew alphabet, and the strophes open on two of them — *ʾālep* at 2:1, 5, 9 and *lāmed* at 2:12, 16, 20. **Not an acrostic; but not an accident either.** See Tool 3(c).
-
-**Read it as one sentence, not as twenty-two sayings.** The characteristic error with this chapter is to treat it like the sentence literature and quote v.6 or v.11 alone. Every clause is subordinate to v.1's conditional.
-
-**It is a syllabus as well as a lecture.** Its abstractness is not vagueness but *announcement*: it names four topics it will not develop, because chapters 3–7 will develop them. A sermon that complains the chapter is unspecific has missed its genre.
+**Hebrew instruction poetry — and the sub-form is the point.** The chapter is a *conditional instruction*: a protasis-apodosis period rather than a string of maxims. Reading rules follow from that. It is not a proverb and must not be read as a generalisation; it is an argument, and its claims are grounded rather than observed `[T]`. The imagery (silver, treasure, paths, a house sinking) is figurative and should not be pressed for detail. The absence of imperatives is a genre signal as much as a rhetorical one: this is not exhortation but a laying-out of terms.
 
 ---
 
 ### 13. Copycat
 
-**N/A** — no narrative, no characters to imitate or avoid. `[T]`
-
-One observation belongs here nonetheless. The chapter presents two negative types — the crooked man (vv.12–15) and the strange woman (vv.16–19) — and **no positive human exemplar at all**. The positive figures are "the upright," "those who walk in integrity," "his saints," "the righteous": categories, not people. `[I]` *Moderate–high.* That is consistent with the whole frame (see the section run, Tool 13), and it is one more reason the book's final poem matters: 31:10–31 is where a category finally becomes a portrait.
+**N/A** — no narrative characters. The two figures described (the perverse man, vv.12–15; the strange woman, vv.16–19) are types within a warning, not people whose conduct is evaluated for imitation. The son is addressed, not depicted.
 
 ---
 
 ### 14. Bible Timeline
 
-**Where the passage sits.** In the book's own frame, the united monarchy; canonically, in the Writings, read by a post-exilic audience for whom "the upright will inhabit the land" (v.21) is not a neutral promise. `[I]` *Moderate–high, and this is the timeline observation that matters most for the chapter.*
+**Where the passage sits.** Instruction attributed to the Solomonic collection `[T]` on the attribution; any date is a reconstruction `[S]`. Canonically, the Ketuvim, third in the BHS order.
 
-A reader after 586 BC hears vv.21–22 as a statement about something that has already been lost. Deuteronomy's sanctions were not hypothetical; the wicked *were* cut off from the land, and so were a good many others. That does not falsify the verse, but it does change how it is heard — and it is the reason Proverbs' promises must be read as generalisations about how a wise world runs rather than as guarantees.
+**Canonical position (five fields, extracted from the overview** `[S: overview]`**).** Section: Ketuvim, after Psalms and Job. Reading implication: this chapter's confidence about a successful search is read by someone who has just read Job's unsuccessful one — and the chapter's two rarest words are Job words. Presupposes: Deuteronomy's covenant curse (28:63, the נסח link above); the land-promise as the Psalter states it (Ps 37); and, from the book's own opening, 1:3, 1:4 and 1:28. Handoff: to 3:1, where the imperatives begin. Neighbours: Job before, Ruth after.
 
-**What has happened since that changes the reading.** Three items.
+**Where the reader sits.** This side of the cross. The two things the chapter promises at v.5 — the fear of YHWH and the knowledge of God — are exactly what the New Testament says are given in Christ: 2 Cor 4:6, τὴν γνῶσιν τῆς δόξης τοῦ θεοῦ ἐν προσώπῳ Χριστοῦ ("the knowledge of the glory of God in the face of Christ") `[T]`, SBLGNT. *A striking accident, or not: the Greek of Prov 2:6 has ἀπὸ προσώπου αὐτοῦ ("from his face") where the Hebrew has "from his mouth". The two texts are unrelated and the overlap is coincidental at the level of authorial intent; it is noted because a hearer who knows both will notice it.* `[I]`, uncertain.
 
-*The land promise has been reframed.* Hebrews 11:16 has the patriarchs desiring "a better country, that is, a heavenly one"; Matthew 5:5 takes up Psalm 37's "inherit the land" and universalises it. A Christian reading of 2:21–22 runs through that reframing rather than around it.
-
-*Wisdom has been given a name.* "The LORD gives wisdom" (v.6) is answered by "Christ Jesus, who became to us wisdom from God" (1 Cor 1:30).
-
-*The search has been reversed.* Verses 1–4 describe a strenuous seeking. The gospel's characteristic form is a seeking God — "the Son of Man came to seek and to save the lost" (Luke 19:10). That is a genuine development, not a contradiction: v.6 already grounds the search in the gift.
-
-**Where the tool is not needed.** Verses 6–8 concern God's unchanging character and require no timeline filtering.
+**How that reframes the reading.** The conditional structure is not cancelled — the New Testament also tells believers to seek — but the ground under it has been made explicit. v.6's "for the LORD gives" is the sentence a Christian preacher builds on.
 
 ---
 
 ### 15. Who Am I?
 
-| Figure | Function | Am I this? |
+| In the text | Who they are | The reader's relation |
 |---|---|---|
-| **"My son"** | Addressee | **Yes** — the chapter's assigned role, and the only one offered |
-| **The upright / those of integrity / his saints** | The class the promises attach to | Aspirationally, and by God's action (v.7), not by self-assessment |
-| **The crooked man** (vv.12–15) | First danger | As warning — and note he is described by what he *forsook* |
-| **The strange woman** (vv.16–19) | Second danger | As warning |
-| **The LORD** | The giver, storer, shield, guard | Never the reader |
+| **בְּנִי** ("my son"), v.1 | The addressee: not yet formed, being offered terms | **The identification the chapter asks for.** Every second-person verb in the chapter is his |
+| **The father** (the "I" of אֲמָרָי, v.1) | The instructing voice | Not us in the pulpit either — the preacher is reading someone else's instruction to a third party, and says so |
+| **יְהוָה**, vv.5–8 | The giver, storer, shield, guard, preserver | The actor. **Five participial or finite actions in four verses, all his** |
+| **The perverse man**, vv.12–15 | A danger, characterised by speech and by abandoned paths | Not a character to evaluate; a road not to take |
+| **The strange woman**, vv.16–19 | The second danger, characterised by speech and by a broken covenant | The same |
+| **יְשָׁרִים / תְּמִימִים**, v.21 | Those who will hold the land | The destination, not the starting point |
 
-**The characteristic misidentification** is subtle here and worth naming. Because the chapter's promises attach to "the upright" and "those who walk in integrity," a reader naturally places himself there — which converts a conditional into a compliment. The chapter's own grammar resists it: the son is addressed in *conditionals* throughout ("if you receive… if you call out… if you seek"), never in the indicative. `[T]` *Moderate–high.* He is not yet upright; he is being told what would follow if he sought.
-
-**Where Christ stands.** Not as any figure in the chapter. See the Christological Reading.
+**The identification to guard.** The temptation in this chapter is to identify with v.21's "upright" rather than v.1's "son" — to read the ending as a description of oneself rather than as a promise to someone who has not yet begun. The chapter's grammar resists that: everything after v.5 is future `[T]`.
 
 ---
 
 ### 16. So What?
 
-**Stage 1 — the response the author seeks.** Not a behaviour but a **posture**, in three escalating moves that the chapter itself supplies: *receive* what is given (v.1), *ask* for what you lack (v.3), *work* for what you want (v.4) — held together by the conviction of v.6 that the LORD is the one who gives.
+**Stage 1 — the response the author seeks.** Not obedience to a command — there is none — but *consent to a set of terms*. The son is asked to agree that wisdom is worth ransacking for, and to accept that the ransacking is possible only because God gives.
 
 **Stage 2 — worldview, behaviour, motivation.**
 
-*Worldview.* Three claims a modern hearer does not hold instinctively. **Understanding God precedes understanding ethics** (vv.5, 9, in that order) — which reverses the common assumption that morality is the accessible part of religion and God the difficult part. **Wisdom is stored, not scattered** (v.7) — it has been deliberately put where the upright will find it, so the search is not a gamble. And **moral failure is a defection, not a mistake** — both dangers are described with *ʿāzab*, "forsake" (vv.13, 17).
-
-*Behaviour — start.* Ask (v.3). The chapter's middle term between receiving and searching is *prayer*, and it is the one most often skipped in sermons on seeking wisdom. Read Scripture as a mine rather than a magazine (v.4). Expect the pay-off to be discernment about *people* — the chapter's two deliverances are both from persons, not from abstractions.
-
-*Behaviour — stop.* Stop treating "seeking wisdom" as a mood. The verbs are receive, treasure up, incline, call out, raise your voice, seek, search — six of them, all effortful.
-
-*Motivation.* Verse 6. Any application built on vv.1–4 without v.6 becomes a works programme, and the chapter's own syntax forbids it: the gift is the ground of the search. The gospel form of this is that the wisdom stored up for the upright has been given to people who were not upright — "he became to us wisdom from God, **and righteousness**" (1 Cor 1:30).
+| Domain | Application |
+|---|---|
+| **Worldview** | Two convictions, in this order: wisdom is *given* (v.6), and it is *searched out* (v.4). A theology with only the first produces passivity; with only the second, exhaustion. The כִּי of v.6 holds them together |
+| **Behaviour — start** | Treat the pursuit of the knowledge of God as prospecting, not browsing (v.4's חפשׂ). Practically: sustained, deliberate, repeated attention to Scripture and to prayer, of the kind a man gives to something he believes is buried nearby |
+| **Behaviour — stop** | Expecting discernment without the search; and expecting the search to earn what only the giving supplies |
+| **Motivation** | v.6, and nothing else in the chapter. The reason to search is that there is a giver |
 
 **Four audiences.**
 
-- **For me.** Which of the three verbs do I skip? Most people who want wisdom skip the second — asking — because it feels less like effort.
-- **For a Christian friend.** Anyone who has concluded from a bad decision that the door is now shut. Chapter 2 exists to answer 1:28.
-- **For the church.** The chapter's promise is corporate as well as individual: "guarding the paths of justice and watching over the way of his saints" (v.8) — plural.
-- **For the unbeliever.** Verse 5 makes a testable claim: that the fear of the LORD is not the *reward* of understanding but its *content*. That is an arresting inversion for a hearer who assumes religion is what you get to after you have thought things through.
+- **For me:** the chapter asks whether I search like a man who expects to find something, and whether I could say why the searching is not merely self-improvement. v.6 is the answer and I must be able to give it.
+- **For a Christian friend:** for anyone exhausted by trying to be wise, v.6 is the sentence to put in front of them. The order is gift, then search, then protection.
+- **For the church:** the two deliverances (vv.12, 16) are corporate as much as individual. A congregation formed by v.6 is protected in ways a congregation formed by exhortation is not.
+- **For an unbeliever:** the chapter is unusually open to them. It does not begin with a command but with a condition, and its promise is the knowledge of God.
 
-**Prayer in response.** Thanks that wisdom is stored and not hidden. Confession of wanting the gift without the search, and of searching without asking. Petition for the discernment that sees a crooked path before walking it — and thanks for the Wisdom of God who was given to those who had stopped looking.
-
-**Hand-off note:** feeds Purpose Statement work in `/point-purpose`. Candidate FCF under Original Audience Reception.
+**Prayer in response.** Thanks that the LORD gives wisdom and does not merely require it. Sorry for searching as though the finding were owed, and for not searching at all. Please make the fear of YHWH something discerned rather than recited, and guard the road.
 
 ---
+
 ## Extensions
 
 ### Original Language Observations
 
-#### Key terms and forms
+**Key terms**
 
-| Term / form | Where | Note | Confidence |
-|---|---|---|---|
-| *ʾim … ʾim … ʾim* | vv.1, 3, 4 | Three conditionals, escalating: reception → petition → labour | High |
-| *ʾāz* | vv.5, 9 | Two apodoses, vertical then horizontal | High |
-| *kî* | vv.6, 10, 21 | Three grounds, each naming what God does or what follows | High |
-| *lĕhaṣṣîlĕkā* | vv.12, **16** | The identical infinitive opening both deliverances — the chapter's clearest structural signal, lost in ESV | High |
-| *lĕmaʿan* | v.20 | Purpose: the walking is the point of the delivering | High |
-| *ṣāpan* | vv.1 (*tiṣpōn*), 7 (Ketiv *wĕṣāpan* / Qere *yiṣpōn*) | The son treasures up; God stores up. The chapter's hidden hinge | **High on the verb (confirmed 15 Aug); high on the pairing** |
-| *tûšiyyâ* | v.7 | "Sound wisdom / resourcefulness / abiding success" — a technical term of the wisdom tradition, concentrated in Job and Proverbs | Moderate `[S]` |
-| *ḥăsîdāyw* | v.8 | "His saints" — the covenant-loyalty word; **only occurrence in Proverbs** | Moderate–high — verify |
-| *nāṣar / šāmar* | vv.8 ×2, 11 ×2 | God guards in v.8; wisdom guards in v.11 — the same protection, mediated | Moderate–high |
-| *ʿāzab* | vv.13, 17 | Both dangers described as **forsaking** a prior bond | Moderate–high |
-| *bînâ / tĕbûnâ / tābîn* | vv.2, 3 (×2), 5, 6, 9, 11 | **Seven** occurrences of √*byn* in eleven verses | **High — verified against the Hebrew, 17 Aug** |
-| *ʾiššâ zārâ / nokriyyâ* | v.16 | "Not belonging to you" rather than ethnically foreign | Moderate `[S]` |
-| *bĕrît ʾĕlōhêhā* | v.17 | Marriage covenant or Sinai covenant — genuinely contested | Moderate |
-| *rĕpāʾîm* | v.18 | The shades; recurs at 9:18, closing the frame's thread | High |
+| Term | Form here | Range | Usage here | Confidence |
+|---|---|---|---|---|
+| צָפַן ("treasure, store up") | תִּצְפֹּן v.1; וְצָפַן / יִצְפֹּן v.7 | hide · store · treasure up | The son's act and God's, the same root; the Ketiv/Qere changes the aspect only | *High* |
+| חָפַשׂ ("search") | תַּחְפְּשֶׂנָּה v.4 | search · ransack · dig out | Piel/Qal of rummaging; Gen 31:35; 44:12; Zeph 1:12 | *High* |
+| תּוּשִׁיָּה ("sound wisdom") | תּוּשִׁיָּה v.7 | sound wisdom · effective counsel · success | 11 in the WLC, 5 of them Job; the versions split widely | *High* on distribution; *moderate* on gloss |
+| אַלּוּף ("companion") | אַלּוּף נְעוּרֶיהָ v.17 | chief (Edom) · intimate friend (Proverbs) | The Proverbs sense; cf. 16:28; 17:9 | *High* |
+| בְּרִית ("covenant") | בְּרִית אֱלֹהֶיהָ v.17 | covenant | Once in the whole book | *High* |
+| נָסַח ("uproot, tear away") | יִסְּחוּ v.22 | tear away · pull down | 4 in the WLC, one of them Deut 28:63 | *High* |
 
-#### Grammatical and syntactical features
+**Grammatical and syntactical features**
 
-- **One periodic sentence across 22 verses.** `[T]` *High.* The single most distinctive syntactic fact about the chapter, and the reason it must be read whole.
-- **No imperatives.** Not one verb addressed to the son is in the imperative mood; all are inside conditional clauses. `[T]` *Moderate–high — worth verifying, since the theological point rests on it.* Contrast 3:1–12, which is six imperatives with six motives.
-- **The divine verbs are all indicative**: gives, stores up, is a shield, guards, watches over (vv.6–8). `[T]` The grammatical division between conditional (son) and indicative (God) is the chapter's doctrine of grace.
-- **Feminine suffixes at v.4** — "search for **her**," wisdom being grammatically feminine, preparing the personification of chs. 8–9. `[T]` ESV neutralises to "it."
-- **The three protasis verbs escalate in effort**: *lāqaḥ* (receive) and *ṣāpan* (treasure) → *qārāʾ* (call out) and *nātan qôl* (raise the voice) → *bāqaš* (seek) and *ḥāpaś* (search out). `[T]` *Moderate–high.*
+- **Forty-two verb forms, no imperative** `[T]`, WLC — verified against the morphology field of the index, and checked against the other chapters of 1–9, where the counts are 3 · **0** · 11 · 25 · 6 · 12 · 9 · 7 · 9. *An earlier formulation of this finding claimed ch. 2 was the only imperative-free chapter in the book; the corpus corrected it — chs 10, 11, 12, 15, 18, 21 and 28 also have none. The claim holds only within the instruction material, and is stated that way.*
+- **The son's verbs are all imperfects** (תִּקַּח, תִּצְפֹּן, תַּטֶּה, תִקְרָא, תִּתֵּן, תְּבַקְשֶׁנָּה, תַּחְפְּשֶׂנָּה, תָּבִין ×2, תִּמְצָא, תֵּלֵךְ, תִּשְׁמֹר) `[T]`. In a conditional period the imperfect carries the condition and its consequence without commanding either.
+- **The two infinitives of purpose are graphically identical**: לְהַצִּילְךָ at v.12 and v.16, hiphil infinitive construct of נצל with a 2ms suffix `[T]`.
+- **The two participles of abandonment are the same form differently inflected**: הַעֹזְבִים (masculine plural, v.13) and הַעֹזֶבֶת (feminine singular, v.17) `[T]`.
+- **v.4's suffixes are feminine singular** — תְּבַקְשֶׁנָּה, תַּחְפְּשֶׂנָּה, "seek *her*", "search *her* out" — referring back to חָכְמָה/תְּבוּנָה `[T]`. The personification that becomes explicit in ch. 8 is already grammatically present here.
+- **Three Ketiv/Qere pairs in one chapter** (vv.7, 8, 22) — unusually dense. See Textual Variants.
 
-#### Wordplay and sound-features
+**Wordplay and sound.** No paronomasia detected. The chapter's effects are syntactic and lexical; no transliteration is given.
 
-- ***ṣāpan* at vv.1 and 7** — not paronomasia but exact repetition of a root at the chapter's two structural poles. The three-or-more trigger does not fire, so the claim rests on position rather than frequency; it is flagged *moderate–high* and routed to verification accordingly.
-- **No consonant-reversal or taxonomy-activation claims are made**; neither device is triggered.
-
-#### Recommended verification
-
-- ~~The *ṣāpan* identity at vv.1 and 7 (Headline 2 rests on it).~~ **Confirmed 15 August**, with a Ketiv/Qere at v.7 that does not affect the finding. See Open Questions.
-- The absence of imperatives across the chapter.
-- The *ḥăsîdāyw* uniqueness in Proverbs.
-- The counts: √*byn* (**7**), **road-words (12 — corrected; see Tool 7(f))**, *nāṣar/šāmar* (**5 — corrected; see below**). **Partially checked 15 August; √*byn* remains open.**
-  > **⚠ Two of these three were settled and this line was not updated.** Road-words: **twelve**, verified 17 August and again 21 August. *Nāṣar/šāmar*: **five, not four** — *linṣōr* and *yišmōr* (v.8), *tišmōr* and *tinṣĕrekkā* (v.11), *tišmōr* (v.20). `[T]` machine-counted 21 August. **The first four form Waltke's ABBA chiasm; the fifth closes the body.**
-- ***Ḥāsîd* at v.8 — resolved 15 August.** *Ḥăsîdāyw* at 2:8 is **the only occurrence of *ḥāsîd* in Proverbs**, confirmed. The related noun *ḥesed* occurs at 3:3; 11:17; 14:22; 16:6; 19:22; 20:6, 28; 21:21; 31:26 — paired with *ʾĕmet* at 3:3; 14:22; 16:6; 20:28. So the book's single use of the covenant-loyalty *adjective* falls in the same chapter as its first invocation of Deuteronomy's land sanctions (vv.21–22). That coincidence now stands as a verified finding. `[T]` *High.*
-
-> ### The covenant thread runs through the whole chapter — added 17 August
->
-> The *ḥāsîd* observation above was recorded as a coincidence of proximity. **It is more than that, and Atkinson (drawing on Christopher Wright) supplies the logic that links it to the strange woman and the land.** `[S: Atkinson, BST]`
->
-> The chain is this. The woman of vv.16–19 is described not as a foreigner but as one who "forsakes the companion of her youth and **forgets the covenant of her God**" (v.17). By repudiating her marriage vows she has put herself *outside* her own family — and in Israel family loyalty was designed to mirror covenant loyalty, the marriage covenant and the covenant with YHWH being analogies of each other. **So she is outside the covenant community, not outside the nation.**
->
-> Then vv.20–22: "the upright will inhabit the land… the wicked will be **cut off from the land**." Inheriting the land and being cut off from it are covenant categories. Atkinson's point is that the two halves of the second movement are therefore *causally* connected, not merely juxtaposed: **to get entangled with a woman who has loosed herself from covenant obligation is to jeopardise one's own place in the covenant, and so to risk being cut off from the land that sustains covenant life.**
->
-> That gives Proverbs 2 three covenant markers in twenty-two verses, and they are not scattered — they are the chapter's spine:
->
-> | v. | Marker | Function |
-> |---|---|---|
-> | **8** | *ḥăsîdāyw* — the book's only *ḥāsîd* | God guards the way of his **covenant-loyal ones** |
-> | **17** | "forgets the **covenant** of her God" | The woman defined by covenant abandonment |
-> | **21–22** | inhabit / be **cut off from** the land | Deuteronomy's covenant sanctions |
->
-> **Why this matters for preaching.** It removes the temptation to treat vv.16–19 as a self-contained warning about sexual sin and vv.20–22 as an unrelated tailpiece about the land. On Atkinson's reading they are one argument, and Waltke's stanza division supports it — stanzas 5 and 6 (vv.16–19, 20–22) are consecutive movements of a single covenant logic. The chapter's danger is not merely that the son will be seduced; it is that he will be *cut off*.
->
-> `[S]` on the covenant analogy and the land connection; `[T]` on the three markers themselves. *Moderate–high.*
-- The 22-verse / quasi-acrostic claim (see Structure).
-
----
+**Recommended verification.** The semantic range of תּוּשִׁיָּה would repay HALOT or NIDOTTE, since the versions differ so widely (NASB95 "sound wisdom", NIV84 "victory", Swete σωτηρία). The force of בְּרִית אֱלֹהֶיהָ at v.17 is an exegetical question a commentary should be consulted on before the sermon.
 
 ### Textual Variants
 
-**No significant variant affects the Hebrew of Proverbs 2.** The Masoretic text of the chapter is stable and ESV, NASB and KJV are rendering the same consonantal text throughout. `[T]` *High.*
+**Category 2 items only, per the triage. Three Ketiv/Qere pairs and three Greek divergences, none of which overturns a finding.**
 
-**Category 2:** none in this chapter.
+| Place | Reading | Evidence | Position |
+|---|---|---|---|
+| **v.7** | K וְצָפַן (perfect) / Q יִצְפֹּן (imperfect) | BHS: 𝔊𝔖 with the Ketiv, 𝔗𝔙 with the Qere `[S: BHS]` | Genuinely balanced. **Nothing preaching-relevant turns on it**, since both are צפן and the echo with v.1 survives either way. *Moderate confidence.* |
+| **v.8** | K חֲסִידוֹ (singular) / Q חֲסִידָיו (plural) | BHS: 𝔊𝔖 with the Qere, cf. 𝔗𝔙 `[S: BHS]` | "His godly one" or "his godly ones". The versions favour the plural; NASB95 and NIV84 both follow it. *Moderate confidence; no preaching consequence.* |
+| **v.22** | ℭ יֻסְחוּ; BHS proposes יִנָּסְחוּ or יִסָּחוּ `[S: BHS]` | | A vocalisation question within one verb. No consequence. |
+| **v.16** | **The Greek has no woman** — see Tool 8 | Swete `[T]`; explanation undecidable | **The one variant a preacher should know about**, because it shows how early the chapter was read as being about counsel rather than about adultery. *High confidence on the fact; moderate on the cause.* |
+| **v.6** | 𝔊 "from his face" for "from His mouth" | Swete `[T]`; BHS suggests a different *Vorlage* `[S: BHS]` | Prefer the Hebrew; note the alternative. *Moderate.* |
+| **v.2** | A Greek plus: "and you shall apply it to admonition for your son" | Swete `[T]` | No Hebrew counterpart. *High confidence on the fact.* |
 
-**What belongs elsewhere under the Three-Way Triage.** The *ṣāpan* link at vv.1/7 and the *lĕhaṣṣîlĕkā* parallel at vv.12/16 are **category 1** items — features of the Hebrew that the English versions obscure by varying their renderings. They are reported under Tools 7 and 8, not here, and they are not evidence about any manuscript. **Category 3:** none — the New Testament does not quote Proverbs 2.
-
-One item at the edge of the chapter is worth knowing: **v.16's *nokriyyâ*** is revocalised in some proposals at 6:24 (compare the ESV footnote there), which shows the strange-woman vocabulary attracting text-critical attention elsewhere in the frame; nothing of the kind arises here. `[S]` *Moderate.*
-
----
+**The witness limit, stated.** The corpus holds one manuscript of the Masoretic tradition and prints these Ketiv/Qere pairs without variants; their manuscript spread has not been independently checked and none is load-bearing here. Any citation of the Greek should be from Rahlfs-Hanhart or Göttingen via Logos, not from the diplomatic layer used for observation.
 
 ### Historical and Cultural Background
 
-**Setting.** A household in an agrarian, kin-based society with landholding as the basis of family survival; the instruction genre familiar from the wider ANE.
+**Setting.** No narrative setting is supplied and none is needed; the chapter names no place, no person and no event `[T]`. The social world it assumes is a household in which a father instructs a son who is old enough to be approached both by organised wrongdoing and by a married woman.
 
-**What the original audience knew that we miss.**
+**What the original audience knew.**
 
-1. **Mining was a real and dangerous industry, and the image was not decorative.** Verse 4's "search for it as for hidden treasures" belongs to the same world as Job 28's shafts, ropes and overturned mountains. `[S]` *Moderate–high.* A first hearer knew what it cost to get silver out of the ground; the comparison sets a price on the search.
-2. **"Inhabit the land" was about survival, not sentiment.** Land was inalienable family inheritance, the only security against destitution, and the thing the boundary-stone laws protect (Deut 19:14; Prov 22:28; 23:10). To be "cut off from the land" was to lose the family's standing in perpetuity. `[I]` *High.* Verses 21–22 are therefore the strongest sanction the chapter could name.
-3. **A "shield" (v.7) was a piece of military equipment**, and the metaphor is used of God in Gen 15:1 and repeatedly in the Psalms. The comfort offered is protection in a fight, not insulation from difficulty.
-4. **Adultery had public covenantal consequences**, not merely private ones — the assembly is invoked at 5:14. Verse 17's "covenant of her God" belongs in that world.
-5. **Instruction happened in a house**, with father-and-son as the governing idiom whether or not the relationship was biological. `[S: Ansberry]` *Moderate–high.*
+- **What a בְּרִית was, and what forgetting one meant.** The word carried the whole weight of Israel's relation to YHWH; using it of a marriage — or of a woman's own covenant with God — is either a striking transfer or a plain statement, and either way a first hearer would have felt the size of the word `[I]`, moderate confidence.
+- **What being "torn from the land" meant.** Deut 28:63's threat was not abstract for any reader after 586 `[I]`.
+- **What silver and buried treasure meant.** Hoarding in jars in the ground was ordinary practice; a מַטְמוֹן was a real thing people really dug for `[S]`, moderate confidence.
+- **That a "strange woman" was a social category before it was a moral one.** זָר and נָכְרִי mark someone outside the household or the kin-group `[T]` on the words; what kind of outsider is meant here is the interpretive question.
 
-**What this changes about how we read.** Two things. Verse 4's image is a claim about **cost**, and a sermon that treats seeking wisdom as a matter of good intentions has flattened it. And verses 21–22 are not a vague promise of stability but the covenant's own sanction clause — which is what makes the chapter's ethics covenantal rather than prudential (see Tool 11).
-
-**Confidence.** General background well attested; the mining and land-tenure points are *moderate–high* and would be sharpened by a background commentary.
-
----
+**What this changes.** The chapter's ending is not a platitude about the good prospering. It is land-tenure language in a culture that had lost the land once, and its final verb is the covenant curse's own. That is the register a sermon should reach for at vv.21–22.
 
 ### Original Audience Reception
 
-**Canonical audience.** Readers of the **Writings**, post-Torah and post-Prophets, with a post-exilic horizon. They arrive knowing Deuteronomy's sanctions, Psalm 37's wisdom treatment of the same problem, Job 28's failed search, and — crucially for this chapter — **that the land was in fact lost**.
+**Canonical audience.** Ketuvim `[T]`; the reader arrives having read the Torah and the whole of the Prophets, and therefore knowing both Deuteronomy's curse and the exile that enacted it `[I]`, high confidence. Canonical register: Job and the Psalms are the nearest neighbours, and the chapter's rare words point to both.
 
-**The first hearers.**
-- **Who:** covenant Israelites in a household economy, formed by Torah, for whom land tenure was survival.
-- **Their situation:** a young man at the threshold, having just heard (ch. 1) that wisdom can be permanently missed.
-- **What they brought:** the two-ways framework already familiar from Deut 30 and Psalm 1; the assumption that instruction is transmitted in a household; a working knowledge of what mining costs.
+**The first hearers.** A young man being handed terms, and a community for whom those terms were worth transmitting `[I]`.
 
-**Where the chapter fits their world.**
+**Where the passage fits their world.** They would have recognised the conditional instruction form; expected the father to command and been given conditions instead; and heard the closing couplet as covenant language rather than as general moral optimism.
 
-*The conditional would have been heard as an offer, not a hurdle.* After 1:24–32 — where Wisdom laughs and refuses to answer — a chapter beginning "**if** you receive my words" reopens what had been closed. `[I]` *Moderate–high.*
+**Surprises, shocks, comforts, disturbances.**
 
-*Verse 6 would have registered as a claim about revelation.* "From his **mouth** come knowledge and understanding" is the language used of prophetic word and Torah, not of observation. In a book often taken as empirical, the programme chapter grounds wisdom in divine speech.
+- **Surprising:** that the chapter never tells the son to do anything.
+- **Shocking:** v.17 — a covenant forgotten, in a book that uses the word once.
+- **Comforting:** v.6, and the five divine actions of vv.6–8. The son is not alone in the search.
+- **Disturbing:** v.19, "None who go to her return again" — a sentence with no exception clause.
 
-*Verses 21–22 would have landed differently before and after 586 BC.* For the compositional audience, a promise; for the canonical audience, a promise read in the light of its own apparent failure. That tension is not a defect in the text — it is why Job and Ecclesiastes sit alongside it.
+**What we bring that they didn't.** A romantic idea of "seeking" as inward quest rather than as digging. An individualism that reads vv.21–22 as personal reward rather than as communal land-tenure. And a discomfort with v.16's gendering that a first hearer would not have shared — which is a pastoral issue for the sermon, not a textual one.
 
-**Surprises, shocks, comforts.**
-- **Surprising:** that the chapter names *prayer* (v.3) as the middle term between receiving and searching. Instruction literature does not usually tell the pupil to shout for help.
-- **Comforting:** v.7 — the wisdom is already stored; the search is not speculative.
-- **Disturbing:** v.19, "none who go to her come back." The chapter's most absolute statement, and it is about a person rather than a sin.
-- **Familiar:** the two ways; the land sanctions; the mining image.
+**Candidate Fallen Condition Focus**
 
-**What we bring that they did not.**
-- **A therapeutic reading of "understanding"** — we hear self-knowledge; they heard the capacity to distinguish.
-- **Individualism** — v.8's "his saints" is plural, and v.21's land is a family's.
-- **A market model of effort and reward** — which makes v.6 look like a contradiction of vv.1–4 rather than their ground.
-- **Distance from land** — the sharpest loss. Verses 21–22 are the chapter's climax and are the verses a modern congregation feels least.
+| Field | Content |
+|---|---|
+| **What they felt** | The gap between being told wisdom is available and knowing how a person actually gets any — sharpened by chapter 1, where a search failed `[I]`, anchored in the 1:28 → 2:3–5 lemma link |
+| **Candidate FCF (shared concern)** | We do not know whether wisdom is something given to us or something we have to get, and so we oscillate between passivity and striving |
+| **Shared / differs** | Shared exactly. Differs only in that we know the giver has since given his Son, so the "for" of v.6 has a name |
+| **Confidence** | Anchored |
 
-**Candidate Fallen Condition Focus.**
-
-*We want wisdom without the search, or we attempt the search without knowing it is a gift — and either way we do not ask.* `[T]`/`[I]`
-
-Anchored in the text: three conditions, escalating in effort (vv.1–4), the middle one of which is petition; and a *kî* at v.6 that grounds the whole thing in God's giving. The chapter is constructed so that neither passivity nor self-reliance survives it.
-
-We share this fully with the first hearers. What this side of the resurrection adds is that the wisdom "stored up for the upright" (v.7) has been given to those who were not upright, and that the seeking described in vv.1–4 is answered by a God who seeks first (Luke 19:10).
-
----
+**Implication for the sermon.** The sermon's work is to put v.6 underneath vv.1–4 in the hearer's mind, so that the searching stops being a way of earning and starts being a way of receiving.
 
 ### Biblical-Theological Themes
 
-Two themes; both pass the textual-signal test.
+**(1) The knowledge of God as the goal of wisdom.**
+*Where this passage sits:* the only place in Proverbs that describes how a person arrives at יִרְאַת יְהוָה, and the only place that pairs it with דַּעַת אֱלֹהִים `[T]`. *Before:* Job 28:28; Deut 4:6 (חָכְמָה and בִינָה as Israel's before the nations). *After:* Hos 6:6 (דַּעַת אֱלֹהִים as what God desires above sacrifice); Jer 31:34 (all shall know me); and in the NT, 2 Cor 4:6. *Confidence: high on the OT chain; moderate on the arc.*
+*Contribution:* wisdom in Proverbs terminates in a person, not in a skill set.
 
-#### 1 — Wisdom as gift and as quest
-
-- **Where the chapter sits:** the canon's clearest single statement that the two are not alternatives.
-- **Before.** Eden, where wisdom was sought on the wrong terms (Gen 3:5–6). Solomon at Gibeon, who *asked* and was *given* (1 Kgs 3:9–12) — the paradigm case of gift answering petition. Job 28, where the search fails and the answer is given from outside.
-- **After.** Ecclesiastes' limits; James 1:5, "If any of you lacks wisdom, let him **ask** God, who gives generously to all without reproach, and it will be given him" — which is Proverbs 2:3 and 2:6 in one sentence; and 1 Cor 1:30, where wisdom is a person given.
-- **Contribution.** The chapter refuses the choice the church keeps making between effort and grace, and it refuses it *grammatically*: the conditions are real and strenuous, and they hang off a *kî* that says God gives. `[T]`/`[I]` *High.* James 1:5 is the New Testament's closest echo and is the natural place to take a sermon on vv.1–6.
-- **Confidence:** high.
-
-#### 2 — Land, inheritance and covenant sanction
-
-- **Where the chapter sits:** the point at which Proverbs first aligns itself with Deuteronomy's sanctions.
-- **Before.** The promise to Abraham; the conditional tenure of Deut 4, 28, 30; Psalm 37's wisdom restatement.
-- **After.** The exile, which is the sanction enacted. Then Matt 5:5 ("the meek shall inherit the earth" — Ps 37:11 universalised); Heb 11:16's "better country"; Rev 21's new creation.
-- **Contribution.** It supplies the *stakes* for the whole programme. The four topics chapter 2 announces are not four areas of self-improvement; they are four ways of keeping or forfeiting inheritance. `[I]` *Moderate–high.* This is also the theme that requires the timeline work: a Christian reading cannot stop at v.21.
-- **Confidence:** moderate–high.
-
-#### Confluence
-
-The two relate by **(b) mutual illumination.** The gift-and-quest theme explains *how* wisdom is obtained; the land theme explains *why it matters that much*. Neither alone accounts for the chapter's shape: a chapter only about the search would not need vv.21–22, and a chapter only about the stakes would not need vv.1–6. Together they explain why the syllabus chapter is also the chapter that first invokes Deuteronomy.
-
----
+**(2) Land held and land lost.**
+*Where this passage sits:* the chapter's final verdict, in Deuteronomic vocabulary `[T]`. *Before:* Deut 28:63; Ps 37. *After:* Prov 10:30; and in the NT the land-promise reframed toward the heavenly country (Heb 11:16) and the meek inheriting the earth (Matt 5:5, which uses Ps 37's verb, not Proverbs') `[T]`, SBLGNT. *Confidence: high on the OT links; the NT reframing is standard and is `[S]`.*
+*Contribution:* the chapter's ending is covenantal, and a sermon that makes it merely prudential has changed its genre.
 
 ### Schnittjer Pass
 
-**N/A** — Proverbs is not in the Torah.
-
----
+**N/A** — not in the Torah.
 
 ### Christological Reading
 
-#### Type of connection
+**Type of connection: trajectory, with the passage's own grammar doing the theological work.** No typology is claimed: there is no person, institution or event here to serve as a type, and a typological reading would fail the category test at the first step.
 
-**Trajectory**, with a secondary **contrast**. No typology is available in this chapter and none should be attempted: there are no persons, no institutions and no events — only conditions, promises and two categories of danger.
+**How the passage points to Christ.**
 
-Running the four tests on the strongest candidate, *the stored-up wisdom of v.7 as a type of Christ*:
+- **The gift before the search (v.6).** The chapter's grammar is the shape of grace: a search that is only possible because a giving is prior. That is not yet the gospel, but it is the gospel's logic, and the New Testament names the giver's gift — Christ, ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ θεοῦ ("who became to us wisdom from God", 1 Cor 1:30) `[T]`, SBLGNT. *High confidence on the trajectory.*
+- **The knowledge of God as the destination (v.5).** What the son will "find" is דַּעַת אֱלֹהִים; what Paul says has shone in our hearts is "the knowledge of the glory of God in the face of Christ" (2 Cor 4:6) `[T]`, SBLGNT. The trajectory runs from a promise conditional on searching to a gift given in illumination. *High confidence.*
+- **The two deliverances (vv.12, 16).** The chapter says wisdom delivers. The New Testament says a person does — ῥύεσθαι is the LXX verb here (Swete ἵνα ῥύσηταί σε) and the verb of 1 Thess 1:10, τὸν ῥυόμενον ἡμᾶς ("who rescues us") `[T]`, Swete + SBLGNT. *Moderate confidence — the verb is common and no citation is claimed; the convergence is noted, not pressed.*
+- **The contrast.** v.22's covenant-curse verb stands unanswered in the chapter. Nothing in Proverbs 2 deals with a son who has already been torn from the land.
 
-1. **Theological-category test — passes.** Wisdom is an established canonical category.
-2. **NT-precedent test — passes for the category** (1 Cor 1:24, 30; Col 2:3), **and note Col 2:3 is unusually close**: "in whom are hidden all the treasures of wisdom and knowledge." The verb *hidden* and the noun *treasures* answer Proverbs 2:4 and 2:7 directly.
-3. **Escalation test — passes.** What was stored for the upright is given to the ungodly.
-4. **Authorial-pattern test — fails.** Nothing in the chapter raises an unresolved expectation awaiting a person.
+**Trajectory.** *Anticipates:* a knowledge of God that a person can actually reach, and a protection that comes from inside rather than from rules. *Christ fulfils:* he is the wisdom given, and the knowledge of God in a face. *Remains:* the land held or lost is still future, and the chapter's conditions still stand for those who have received the gift.
 
-**Score: three of four → trajectory, and a strong one.** `[I]` *Moderate–high.*
+**Moralism check.**
 
-#### How the chapter points to Christ
+- **The "be like X" temptation:** there is no X. The live danger is different and sharper: **preaching vv.1–4 as the sermon's application and v.6 as its aside.** That produces a talk about spiritual effort with a grace-flavoured parenthesis, which is exactly the inversion the Hebrew forbids — v.6 is a כִּי, a ground, not a qualification.
+- **The gospel grounding:** the LORD gives wisdom. The searching is the form receiving takes, not the price it costs.
+- **Christ as hero, not example:** the actor of vv.6–8 is God — five actions in three verses, all his. In Christological reading, the wisdom he gives has a name.
 
-> **Sourced 21 August - three commentators make the Col 2:3 link, and one of them is Beale.** `[S]`
-> - **Beale:** *"in 2:2-3 Paul **weds Dn 2 and Pr 2**,"* quoting Prov 2:3-6 in full - and noting that **two Greek versions (Symmachus, Theodotion) read "hidden things" instead of "treasure"** at 2:4, which tightens the verbal link to Col 2:3's *apokryphoi*.
-> - **Wright:** Christ "sums up in himself all that the Jews predicated of 'Wisdom' (cf. **Prov. 2:1-8**, whose LXX translation is echoed several times in our present passage)."
-> - **Dunn:** the imagery "evokes Jewish wisdom tradition (**Prov. 2:3-6**; Sir. 1:24-25; Wis. 6:22...)."
->
-> **Upgraded from `[I]` to `[S]`, *moderate-high*.** The Open Questions entry asking whether commentators draw it is closed.
-
-**1. Colossians 2:3 is the chapter's canonical answer, and the verbal overlap is striking.** Proverbs 2:4 has the son *searching as for hidden treasures*; 2:7 has God *storing up* sound wisdom. Paul writes of Christ, "in whom are **hidden** all the **treasures** of wisdom and knowledge" (Col 2:3) — in a letter arguing against those who claimed a hidden knowledge elsewhere. `[T]` on the texts; `[I]` on the connection. *Moderate–high.* Whether Paul is alluding to Proverbs 2 has not been checked (see Open Questions), but the shape of the claim is the same: the treasure is hidden, it is deliberately stored, and it is found in one place.
-
-**2. The gift-and-quest structure is the gospel's own.** Verses 1–6 hold together strenuous seeking and free giving in one sentence. That is the shape of the New Testament's own paradox — "work out your own salvation… **for** it is God who works in you" (Phil 2:12–13), which is Proverbs 2:1–6's grammar exactly: imperatives grounded in a *for*-clause about divine action. `[I]` *Moderate–high, and homiletically the most useful connection in the chapter.*
-
-**3. James 1:5 develops v.3.** "If any of you lacks wisdom, let him ask God, who gives generously." The chapter's middle condition — petition — becomes a New Testament command with a promise attached.
-
-**4. Contrast: the land.** Verses 21–22 promise that the upright will remain in the land. They did not. The canon's answer is not that the promise failed but that it was always pointing further on (Heb 11:16), and that the one who kept the whole instruction was himself cut off — "cut off out of the land of the living" (Isa 53:8), the same idiom the chapter uses of the wicked. `[I]` *Moderate.* Offered carefully: the verbal overlap between Prov 2:22 and Isa 53:8 has not been verified and the connection is this report's own.
-
-#### Trajectory
-
-- **Anticipates:** a wisdom that is genuinely stored and genuinely findable; a search that is not a gamble; an inheritance that holds.
-- **Christ fulfils:** the treasures hidden in him (Col 2:3); wisdom given to those who were not upright (1 Cor 1:30); an inheritance "imperishable, undefiled, and unfading" (1 Pet 1:4).
-- **Not yet:** the crooked man and the strange woman are still on the road; the land is not yet inherited.
-
-#### Moralism check
-
-- **The temptation:** vv.1–4 preached as a five-step method for getting wisdom. It is the obvious sermon and it is wrong.
-- **What the text supplies against it:** the *kî* of v.6. The conditions are grounded in the gift, not rewarded by it; and there is not a single imperative addressed to the son in the whole chapter.
-- **Christ as hero:** the hero of Proverbs 2 is the God of vv.6–8 who gives, stores, shields, guards and watches. Everything the son does is conditional; everything God does is indicative.
-
-#### Confidence
-
-*Moderate–high* on the Col 2:3 line and on the gift-and-quest trajectory. *Moderate* on the Isaiah 53 contrast, which is this report's own. **Typology: none available; not attempted.**
-
----
+**Confidence:** *high* on the trajectory; *no typological claim advanced.*
 
 ### Difficult / Contested Verses
 
-**1. vv.1–6 and the effort/grace question.** *(Doctrinal.)* The chapter's central difficulty and its central gift. Read carelessly, vv.1–4 teach that wisdom is earned; read with v.6, they teach that it is sought because it is given. Preach the *kî*. A congregation from a works-anxious background will need this said explicitly.
-
-**2. v.17, "the covenant of her God."** *(Interpretive.)* Marriage covenant or Sinai covenant — genuinely contested, and nothing hangs on resolving it. Name both.
-
-**3. v.19, "none who go to her come back."** *(Pastoral landmine.)* Read as a statement that adultery is unforgivable, this verse does real damage — and someone in the room will hear it that way. Two correctives from the book itself: 28:13 promises mercy to the one "who confesses and forsakes"; and the genre is proverbial generalisation about a road's ordinary destination, not a decree about an individual's future. Say so in the sermon, not afterwards.
-
-**4. vv.21–22 and the exile.** *(Apologetic / theological.)* "The upright will inhabit the land" is a promise the canon itself records failing. Do not preach it as a guarantee of stability; preach it as the covenant sanction it is, and follow the canon's own reframing (Matt 5:5; Heb 11:16).
-
-**5. v.16's "forbidden woman" in a mixed congregation.** *(Pastoral.)* The chapter addresses a son about a woman. Name the rhetorical situation rather than letting the sermon imply that the danger is gendered; and note that the parallel danger in vv.12–15 is a *man*.
-
-**6. v.7's "shield" and the problem of suffering.** *(Pastoral.)* "He is a shield to those who walk in integrity" will be heard by someone whose integrity did not protect them. The chapter is describing God's characteristic dealings, not issuing an insurance policy — and the canon supplies Job for exactly this.
+- **v.16–19, the strange woman.** Two difficulties at once. Exegetically, who she is — an adulteress, a foreign woman, a personification of folly, or a figure who is all three — is genuinely contested, and **the Greek's removal of her altogether shows the question is ancient**. Pastorally, a chapter that personifies danger as a woman will land differently on different hearers, and the preacher should handle it deliberately rather than briskly. *The text's own emphasis is on her* **speech** *(אֲמָרֶיהָ, v.16, matching the father's אֲמָרָי at v.1) and on her* **abandonment** *(v.17) — not on her body. Preach what the text emphasises.*
+- **v.17, "the covenant of her God".** Whether this is her marriage covenant, understood as made before God, or her covenant relation with God himself, is undecided by the Hebrew construct. NIV84 decides it in the text; NASB95 does not. Flag it and give both.
+- **vv.21–22 and the land.** A congregation will hear a promise of security. The verse is covenant language about Israel's tenure; applying it directly to a Christian's circumstances skips the timeline. See Preaching Pitfalls.
+- **No other pastoral landmines** in the chapter.
 
 ---
+
 ## Convergent Findings
 
-Places where two or more tools independently arrived at the same point.
-
-1. **The chapter is one sentence and the syntax is the argument.** Structure · Linking Words · Original Languages · Genre · Tone. Five tools. *High.*
-
-2. **The gift grounds the search rather than rewarding it.** Linking Words (the *kî* of v.6) · Author's Purpose · Original Languages (conditional son, indicative God) · Christological Reading · So What. *High.* The chapter's most important theological finding and it is carried entirely by grammar.
-
-3. ***Ṣāpan* at vv.1 and 7.** Vocabulary · Original Languages · Repetition · Structure. The son treasures up; God stores up. *High on the verb; moderate–high on the pairing.*
-
-4. **Two "then you will understand," vertical before horizontal.** Structure · Linking Words · Parallels · Biblical Theology. *High.*
-
-5. **Two deliverances opened by the identical infinitive, and they are the programme.** Structure · Linking Words · Move 4 · Positional Necessity. *High.*
-
-6. **The chapter answers 1:28.** Move 4 · Positional Necessity · Author's Purpose · Tone · Original Audience. *Moderate–high.*
-
-7. **Both dangers are described as forsaking.** Vocabulary (*ʿāzab*, vv.13, 17) · Parallels · So What. The chapter's moral psychology: failure is defection from a bond, not a lapse in judgement. **✅ Confirmed independently by Waltke, 21 August, and in stronger terms than this report dared:** *"B/B′ identify the seductive men and women as **apostates from their covenantal heritage**."* `[S]` **An earned confirmation — reached text-first before Waltke was opened. Upgraded to *high*.**
-
-8. **God guards in v.8; wisdom guards in v.11 — the same protection, mediated.** Repetition · Original Languages · Structure. *Moderate–high.*
-
-9. **Deuteronomy enters Proverbs here.** Quotation/Allusion · Positional Necessity · Biblical Theology · Historical Background. The chapter that sets the syllabus is the chapter that first invokes the covenant sanctions. *Moderate–high.*
-
-10. **No imperatives, and no positive human exemplar.** Original Languages · Copycat · Who Am I? *Moderate–high.* The chapter offers categories to belong to, not people to copy — consistent with the whole frame.
-
-11. **ESV obscures two structural signals the NASB and KJV keep.** Translations · Structure · Original Languages. The *lĕhaṣṣîlĕkā* parallel (vv.12/16) and the feminine "her" at v.4. *High — checkable.*
-
-12. **The chapter withholds its antithesis until the last verse.** Parallels · Linking Words · Tone. Twenty-one verses of accumulation, then "but the wicked will be cut off." *Moderate–high.*
+- **The chapter is one conditional sentence with no imperative in it** — surfaced by Structure, Linking Words, Original Languages, Genre and Tone. The strongest convergence in the passage, and the two findings are one finding: a chapter that conditions rather than commands has to run as a single period.
+- **v.6's כִּי grounds the search in the gift** — surfaced by Linking Words, Author's Purpose, So What?, Christological Reading and the moralism check.
+- **What the son does, God does** — צָפַן at vv.1 and 7, and שָׁמַר moving God → gift → son at vv.8, 11, 20. Surfaced by Repetition, Structure and Tool 11 Move 4.
+- **The two dangers are given identical grammatical weight** — לְהַצִּילְךָ twice, הַעֹזְבִים/הַעֹזֶבֶת twice, four verses each. Surfaced by Structure, Parallels, Repetition and Original Languages; and it is the finding NIV84 obscures.
+- **The chapter is the answer to chapter 1's failed search** — surfaced by the Positional Necessity Check and Tool 11 Move 4 (1:28's קרא/מצא against 2:3–5's).
+- **The ending is covenantal, not prudential** — surfaced by Vocabulary (בְּרִית, נָסַח), Tool 11 (Deut 28:63; Ps 37), Biblical Theology and Historical Background.
 
 ---
 
 ## Preaching Pitfalls
 
-### Pitfall: the five-step method sermon
+### Pitfall: Preaching vv.1–4 as the application and v.6 as an aside
 
-- **What it looks like:** vv.1–4 turned into a programme — receive, treasure, incline, call out, seek, search — with v.6 as an encouraging aside.
-- **Why it's wrong:** v.6 is a *kî*-clause grounding everything before it. The chapter's conditions are real and strenuous *because* the LORD gives wisdom, not in order to make him give it. And there is not one imperative addressed to the son in twenty-two verses.
-- **The corrective:** preach the grammar. Phil 2:12–13 has the identical shape and can be read alongside.
+- **What it looks like:** "Four things you must do if you want wisdom" — receive, attend, call out, search — with v.6 quoted warmly somewhere in the middle.
+- **Why it's wrong:** v.6 is a כִּי. In the Hebrew it is the *ground* of v.5, which is itself the consequence of vv.1–4. Making it a decorative aside inverts the chapter and produces a sermon about effort with a grace-flavoured parenthesis — the exact shape the book's own anti-moralism thread exists to prevent.
+- **The corrective:** build the sermon on the order the grammar gives. Conditions, then consequence, then **ground**. The searching is what receiving looks like from the inside.
 
-### Pitfall: quoting verse 6 alone
+### Pitfall: Turning the chapter into imperatives
 
-- **What it looks like:** "For the LORD gives wisdom" as a stand-alone assurance, often in a prayer of invocation.
-- **Why it's wrong:** it is not a stand-alone sentence. Detached from the conditional it grounds, it becomes a statement about divine generosity in general rather than the specific promise that *this* search will succeed.
-- **The corrective:** never quote v.6 without vv.1–5.
+- **What it looks like:** "So: receive his words! Treasure his commands! Cry out for insight!"
+- **Why it's wrong:** there is not one imperative in the chapter — forty-two verb forms and none of them a command `[T]`, and among the paternal addresses of chs 1–9 this chapter is alone in that. Chapter 3 will supply imperatives in abundance. Supplying them here erases the one feature that distinguishes this chapter from its neighbours.
+- **The corrective:** preach the conditions as conditions. "If you will…" is a more searching address than "You must", and it is what the text says.
 
-### Pitfall: preaching the chapter as a stand-alone unit
+### Pitfall: Preaching v.16–19 as a sermon about adultery
 
-- **What it looks like:** a sermon on "seeking wisdom" that begins at 2:1 and ends at 2:22.
-- **Why it's wrong:** the chapter is an *answer* (to 1:28's closed door) and an *announcement* (of the four topics chapters 3–7 will develop). Both halves of its job are invisible from inside it.
-- **The corrective:** open by reading 1:28–33, and close by naming what is coming in chapters 3–7. That also gives a series its architecture.
+- **What it looks like:** a passage on sexual sin with the rest of the chapter as introduction.
+- **Why it's wrong:** it is one of two deliverances, given exactly the same grammatical form and the same number of verses as the deliverance from the perverse *man* in vv.12–15. The chapter's symmetry is deliberate, and a sermon that spends four minutes on the man and twenty on the woman has redesigned it. The text's own emphasis falls on her **words** (v.16) and her **abandonment** (v.17).
+- **The corrective:** preach the pair. Two dangers, one deliverance, and both are described by what they say and what they have left.
 
-### Pitfall: verse 19 preached as a verdict on individuals
+### Pitfall: Preaching vv.21–22 as general reassurance
 
-- **What it looks like:** "none who go to her come back" applied to someone's marriage or someone's past.
-- **Why it's wrong:** the genre is proverbial generalisation about a road's ordinary destination; and the same book says "he who confesses and forsakes them will obtain mercy" (28:13).
-- **The corrective:** say so in the sermon. This is the chapter's sharpest pastoral landmine and it should be defused out loud.
+- **What it looks like:** "Live right and things will go well for you."
+- **Why it's wrong:** the vocabulary is covenant land-tenure — שׁכן + אֶרֶץ against כרת, the formula Ps 37 states more fully — and the final verb, נָסַח, occurs four times in the Hebrew Bible, one of them Deut 28:63's "you will be torn from the land" `[T]`. This is not prudential advice; it is the language of belonging and expulsion.
+- **The corrective:** name the register, then bring it through the timeline. The land the Christian holds is not Canaan; but the claim that there is a place to be held or lost is exactly what the chapter is making.
 
-### Pitfall: verses 21–22 preached as a promise of stability
+### Pitfall: Repeating the "acrostic" claim without checking it
 
-- **What it looks like:** the upright can expect a settled and secure life.
-- **Why it's wrong:** these are Deuteronomy's covenant sanctions, and the canon records the land being lost. Preached as a guarantee, the verses will not survive contact with the congregation's experience.
-- **The corrective:** preach them as sanction rather than assurance, and follow the canon's own reframing — Matt 5:5 takes up Psalm 37's identical formula and universalises it; Heb 11:16 relocates the country.
-
-### Pitfall: treating the chapter's abstractness as a defect
-
-- **What it looks like:** apologising for the chapter, or supplying illustrations to make it concrete.
-- **Why it's wrong:** it is abstract because it is a syllabus. Chapters 3–7 supply the concrete material, deliberately.
-- **The corrective:** preach the abstractness as design. Tell the congregation this is the contents page, and that the book is about to work through it.
+- **What it looks like:** "Chapter 2 has twenty-two verses, like the Hebrew alphabet, and it begins with *aleph* and turns at *lamed* — the whole alphabet of wisdom."
+- **Why it's wrong:** v.1 begins with בְּנִי, the letter ב; only its second word is אִם. Checked against the corpus, exactly one verse in the chapter begins with the letter an acrostic would require, and that is v.12 `[T]`, WLC — about what chance predicts.
+- **The corrective:** the twenty-two verses are worth mentioning; the alphabet is not evidence. The midpoint turn at v.12 is real and the *syntax* proves it — לְהַצִּילְךָ, the first of the two deliverances. Use that.
 
 ---
 
 ## Open Questions / Uncertainties
 
-1. ~~**The *ṣāpan* identity at vv.1 and 7.** Headline 2 rests on the two verbs sharing a root. I am confident, but **verify** — the English versions use different words in the two verses, so nothing in the translations confirms it. **Most important item in this report.**~~
-   **Settled 15 August: it is the same verb.** Headline 2 stands.
-   **And there is a wrinkle worth having.** Verse 7 carries a Ketiv/Qere. The written text (Ketiv) is **וְצָפַן**, *wĕṣāpan* — waw plus perfect. The read text (Qere) is **יִצְפֹּן**, *yiṣpōn* — imperfect. The root is *ṣāpan* either way, so **the link to v.1 holds on any reading**; but the Qere makes it tighter, because *yiṣpōn* (v.7) and *tiṣpōn* (v.1) are then the same stem in the same conjugation, differing only in person: *you* treasure up / *he* treasures up. On the Ketiv the connection is by root alone; on the Qere it is by form. This report's earlier text already cited v.7 as *yiṣpōn*, i.e. followed the Qere — now noted deliberately rather than by accident.
-   *What to do with it in the pulpit:* nothing that depends on the difference. The observation is safe on either text, and the Ketiv/Qere is not worth a sermon detour.
-
-2. **The absence of imperatives.** The theological point in Headline 1 and Convergent 2 depends on there being no imperative addressed to the son anywhere in the chapter. Verify against a tagged text.
-
-3. ~~**The 22-verse / quasi-acrostic claim.** The verse count and the 11+11 division are certain; the claim that the length is deliberate, and that v.12's *lamed* marks the alphabet's midpoint, is `[S]` and **unverified**.~~
-   **RESOLVED 21 August, and the guess was right on both counts.** The 22-verse length **is** regarded as deliberate `[S: Horne]`, and v.12's *lāmed* **does** mark the alphabet's midpoint — as the head of a **three-strophe pattern**, not a single verse: *ʾālep* at 2:1, 5, 9 and *lāmed* at 2:12, 16, 20, with **Skehan's symmetry 4 · 4 · 3 ‖ 4 · 4 · 3** `[S: Treier, Skehan]`. **Not an acrostic** — Longman doubts one was intended; Schipper says "reminiscent of." **Full working at Tool 3(c).**
-   **Checked against the Westminster Leningrad Codex, 17 August. The claim as it circulates is false — and the text yields something better.**
-
-   The version repeated in several sources (USCCB notes, NET notes, BiblicalTraining, and popular expositions, all apparently downstream of a compressed summary of Waltke) is that *every* verse of vv.1–11 begins with *aleph* and *every* verse of vv.12–22 with *lamed*. **It does not.** All twenty-two openings:
-
-   | v. | first word | letter | | v. | first word | letter |
-   |---|---|---|---|---|---|---|
-   | 1 | *bĕnî* | **bet** | | 12 | *lĕhaṣṣîlĕkā* | **lamed** |
-   | 2 | *lĕhaqšîb* | lamed | | 13 | *haʿōzĕbîm* | he |
-   | 3 | *kî* | kaf | | 14 | *haśśĕmēḥîm* | he |
-   | 4 | *ʾim* | **aleph** | | 15 | *ʾăšer* | aleph |
-   | 5 | *ʾāz* | **aleph** | | 16 | *lĕhaṣṣîlĕkā* | **lamed** |
-   | 6 | *kî* | kaf | | 17 | *haʿōzebet* | he |
-   | 7 | *wĕṣāpan* / *yiṣpōn* | waw / yod | | 18 | *kî* | kaf |
-   | 8 | *linṣōr* | lamed | | 19 | *kol* | kaf |
-   | 9 | *ʾāz* | **aleph** | | 20 | *lĕmaʿan* | **lamed** |
-   | 10 | *kî* | kaf | | 21 | *kî* | kaf |
-   | 11 | *mĕzimmâ* | mem | | 22 | *ûrĕšāʿîm* | waw |
-
-   *Aleph* stands at three verses in the first half, not eleven; **v.1 begins with *bet***; and *lamed* opens vv.2 and 8 inside the supposed *aleph* half.
-
-   **What is actually there, and it is worth having:**
-   - **The three *aleph* verses are the chapter's logical skeleton.** *ʾim* (v.4) closes the protasis; *ʾāz* (v.5) and *ʾāz* (v.9) open the two apodoses. And *ʾim* is the first word of the sentence proper at v.1 once the vocative *bĕnî* is set aside — which is what Waltke's narrower formulation seems actually to rest on.
-   - **The three *lamed* verses are the second half's structural heads.** *lĕhaṣṣîlĕkā* (v.12, rescue from the man of perverted speech), *lĕhaṣṣîlĕkā* again (v.16, rescue from the strange woman), *lĕmaʿan* (v.20, "so that you may walk"). Two identical purpose-infinitives and a purpose conjunction: **rescue, rescue, result.**
-
-   ~~**Verdict: the "do not preach" flag stays on, for a changed reason.**~~
-
-   ### ✅ Flag lifted — Waltke read at first hand, and he is right
-
-   Waltke's own words settle it, and the secondary sources had garbled a single word:
-
-   > "The 'alphabetic' poem is a single sentence consisting of 22 verses, matching the number of letters in the Hebrew alphabet, probably to suggest its completeness… Structurally and logically it is divided into two equal halves (2:1–11, 12–22), each half consisting of two stanzas of four verses and a climactic third of three verses… **After the address, each *stanza* of vv. 1–11 begins with the first letter of the Hebrew alphabet, aleph** (*ʾim* "if," *ʾāz* "then" [twice]), **and each *stanza* of the second half with its twelfth consonant, lamed** (*lĕhaṣṣîlĕkā* "to deliver you" [twice] and *lĕmaʿan* "so that")."
-   >
-   > — Waltke, *The Book of Proverbs, Chapters 1–15* (NICOT)
-
-   **Stanza, not verse.** That single substitution is the whole error. Waltke claims six markers at six stanza-heads; the sources reported twenty-two markers at twenty-two verse-heads, which the Hebrew refutes.
-
-   **And Waltke names exactly the six words I had recovered independently from the Westminster Leningrad Codex** — *ʾim*, *ʾāz*, *ʾāz* / *lĕhaṣṣîlĕkā*, *lĕhaṣṣîlĕkā*, *lĕmaʿan*. The reading arrived at by counting first letters in the WLC and the reading in NICOT are the same reading.
-
-   **One correction to my own table above:** I recorded v.1 as beginning with *bet* (*bĕnî*), and put *aleph* at vv. 4, 5, 9. Waltke's "after the address" sets the vocative *bĕnî* aside, making the *ʾim* of v.1 the stanza-head. On his stanza division the six heads are **vv. 1, 5, 9 / 12, 16, 20**. The *ʾim* at v.4 is stanza-internal. My identification of the words and the count of three-and-three was right; one of them was attached to the wrong verse.
-
-   **Waltke's stanza structure, which this report did not have and should:**
-
-   | | Stanza | Verses | Head | Content |
-   |---|---|---|---|---|
-   | **First half — the son's character produced** | 1 | 1–4 | *ʾim* | Internalising parental teaching |
-   | | 2 | 5–8 | *ʾāz* | Coming to fear and know God |
-   | | 3 | 9–11 | *ʾāz* | Learning righteousness intuitively |
-   | **Second half — the son protected** | 4 | 12–15 | *lĕhaṣṣîlĕkā* | Deliverance from wicked men |
-   | | 5 | 16–19 | *lĕhaṣṣîlĕkā* | Deliverance from the wicked woman |
-   | | 6 | 20–22 | *lĕmaʿan* | Life, not death |
-
-   **4 + 4 + 3 | 4 + 4 + 3.** Each half two stanzas of four and a climactic third of three. This maps onto the protasis/apodosis analysis in Tool 3 above without contradiction: my "three escalating protasis verbs" occupy stanza 1, and the two *ʾāz* apodoses head stanzas 2 and 3.
-
-   **What may now be preached, and how.** That the chapter has twenty-two verses matching the alphabet, and that its six stanzas are headed by *aleph*-words and *lamed*-words — letters one and twelve, the two halves of the alphabet — is Waltke's considered claim, and it is true of the text. `[T]` on the six markers and the stanza division; `[S: Waltke]` on the inference to intentional completeness, which remains an inference and should be offered as such. **What must not be said is that every verse begins with *aleph* or *lamed*.** It does not, and a congregant with a Hebrew Bible could check in a minute.
-
-   *Method note worth keeping: several independent-looking sources repeated the same overstatement, which is exactly what made it look well-attested. They were all downstream of one compressed summary of the paragraph above. Multiple citations agreeing is not the same as multiple witnesses — and the primary source turned out to be more careful than every secondary report of it.*
-
-4. ***Ḥăsîdāyw* as the only occurrence in Proverbs.** Verify by concordance.
-
-5. **The counts:** √*byn* (now **7** in vv.1–11), road-words (13), *nāṣar/šāmar* (4). All reached by reading.
-   **Partially checked 15 August — and the check did not settle it.** The returned search gave √*byn* four times ("vv. 1 (twice), 5 and 6") and the road-words as *derek* ×2, *nātîb* ×1, *ʾōraḥ* ×1, with *maʿgāl* left as a query. Both figures look like incomplete searches rather than corrections, and I have not adopted them.
-   - **√*byn*.** "v.1 twice" is almost certainly a slip for **v.3 twice**, which is right — v.3 has both *bînâ* and *tĕbûnâ*. But vv. **2, 9 and 11** were missed, and each is plainly there in the ESV ("inclining your heart to understanding"; "then you will understand righteousness"; "understanding will guard you"). Seven is my figure and I am raising rather than lowering it.
-   - **Road-words.** Four cannot be right. On the ESV alone: *derek* at vv.8, 12, 13, 20; *ʾōraḥ* at vv.8, 13, 15, 19, 20; *maʿgāl* at vv.9, 15, 18; *nātîb* at v.18. That is roughly thirteen, as originally claimed.
-   - ***nāṣar*/*šāmar*** was not returned. My figure of four stands on the text: v.8 *linṣōr* … *yišmōr*, v.11 *tišmōr* … *tinṣĕrekkā* — and note the chiasm, which is itself the finding.
-   **Settled 17 August against the Westminster Leningrad Codex.** The counts are now verified from the text itself:
-   - **√*byn* in vv.1–11 = 7. My figure confirmed.** *tĕbûnâ* v.2; *bînâ* and *tĕbûnâ* v.3; *tābîn* v.5; *tĕbûnâ* v.6; *tābîn* v.9; *tĕbûnâ* v.11. The returned figure of four was an undercount. `[T]` *High.*
-   - **Road-words = 12, not 13 — and there is no *nātîb* in the chapter.** *ʾōraḥ*, *derek* (v.8); *maʿgāl* (v.9); *derek* (v.12); *ʾōraḥ*, *derek* (v.13); *ʾōraḥ*, *maʿgāl* (v.15); *maʿgāl* (v.18); *ʾōraḥ* (v.19); *derek*, *ʾōraḥ* (v.20). **My own count was wrong**: I had claimed a *nātîb* at v.18, but v.18 reads *maʿgĕlōteyhā*. The chapter uses **three** road-words, not four. `[T]` *High.*
-   - ***Nāṣar*/*šāmar* = 4 at vv.8 and 11, confirmed, chiasm intact**: *linṣōr* … *yišmōr* (v.8) / *tišmōr* … *tinṣĕrekkâ* (v.11). **And a fifth occurrence I had missed:** *tišmōr* at **v.20** — "you will *keep* the paths of the righteous."
-
-   **That fifth occurrence is a finding.** The verb travels: **God guards** (v.8), **understanding guards** (v.11), and at the chapter's end **the son himself keeps** (v.20). What was done *for* him he now does. That is the chapter's ethical arc in one repeated root, and it lands in the same verse as the third *lamed* marker. `[T]` *High.*
-
-   **Also newly noticed:** v.8 carries a second Ketiv/Qere — Ketiv *ḥăsîdô* (singular) against Qere *ḥăsîdāyw* (plural). Immaterial to the finding that this is the book's only *ḥāsîd*, but recorded.
-
-   > **Independently confirmed by a BHS root search, 17 August — all three counts agree.** A root-level search of the Hebrew text returned: √*byn* — verb at 2:5, 9; *bînâ* at 2:3; *tĕbûnâ* at 2:2, 3, 6, 11 = **seven**. Road-words — *derek* ×4, *ʾōraḥ* ×5 (2:8, 13, 15, 19, 20), *maʿgāl* ×3 (2:9, 15, 18), ***nātîb* none** = **twelve**. *Nāṣar* ×2 (2:8, 11); *šāmar* ×3 (2:8, 11, **20**).
-   >
-   > Two independent methods — a BHS lemma/root search and my own reading of the Westminster Leningrad Codex — return **identical totals on all three counts**, including the absence of *nātîb* and the third *šāmar* at v.20. These figures can now be treated as settled. `[T]` *High.*
-   >
-   > *(One transcription slip in the returned list: it gives *derek* at 2:6, but 2:6 reads *daʿat* — "from his mouth come knowledge and understanding". The *derek* is at **2:8**, "the way of his faithful ones". The total of four is unaffected.)*
-   >
-   > **And a detail worth keeping from the search itself:** the three occurrences of *maʿgāl* (2:9, 15, 18) are **each rendered differently in the NASB**. The reader of any English version meets three unrelated words where the Hebrew has one repeated one — the same translation-loss pattern as *ṣāpan* at vv.1/7. This chapter is unusually punishing to the English-only reader.
-
-6. ~~**Colossians 2:3 and Proverbs 2:4, 7.** Whether commentators see an allusion has not been checked.~~
-   **RESOLVED 21 August — three commentators see it, including Beale.** `[S]` **Beale**: *"in 2:2-3 Paul **weds Dn 2 and Pr 2**,"* quoting Prov 2:3-6 in full, and noting that **Symmachus and Theodotion read "hidden things" instead of "treasure"** at 2:4 — tightening the link to Col 2:3's *apokryphoi*. **Wright**: Christ "sums up in himself all that the Jews predicated of 'Wisdom' (cf. **Prov. 2:1-8**, whose LXX translation is echoed several times in our present passage)." **Dunn**: the imagery "evokes Jewish wisdom tradition (**Prov. 2:3-6**...)." **Upgraded from canonical resonance to demonstrated allusion, *moderate-high*.**
-
-7. **Isaiah 53:8 and Proverbs 2:22.** Whether "cut off from the land" (2:22) and "cut off out of the land of the living" (Isa 53:8) share the idiom in Hebrew has not been verified. This report's own connection; treat as suggestive only.
-
-8. **Job 28 → Proverbs 2:4.** Direction of dependence unresolved, as elsewhere in this book.
-
-9. **Fox's *Proverbs 1–9* (AB 18a) remains unavailable.** For this chapter that is a material gap: Fox's treatment of lecture 2 and of the *ʾiššâ zārâ* would be the standard critical check on the whole run.
-
-10. **Carried forward, still open:** the *ʿormâ*/Gen 3:1 link (1:1–7 report) and the design half of the *zmm* claim (both solo reports).
-
----
-
-### Questions for Logos, if you are running them manually
-
-The Study Assistant has been unreliable in-session, and the manual route has worked well. In priority order:
-
-1. *In Proverbs 2:1 and 2:7, is the verb in both verses ṣāpan, and do commentators note the repetition as a deliberate link between the son's treasuring and God's storing?* **(Headline 2 depends on this.)**
-2. *Does Proverbs 2 contain any imperative addressed to the son, or are all the verbs addressed to him inside conditional clauses?*
-3. *Do commentators regard the 22-verse length of Proverbs 2 as deliberate, and is verse 12's opening lamed taken as marking the midpoint of the alphabet?*
-4. *Does Colossians 2:3 allude to Proverbs 2:4 and 2:7 — "hidden," "treasures," "wisdom and knowledge"?*
-5. *Is ḥăsîdāyw at Proverbs 2:8 the only occurrence of ḥāsîd in Proverbs?*
+- **Is the 22-verse length deliberate?** The corpus can establish the count and can rule out an acrostic; it cannot establish intent. Two commentaries would tell you how the question is usually handled. *The report states the count and declines the inference.*
+- **What does תּוּשִׁיָּה mean at v.7?** NASB95 "sound wisdom", NIV84 "victory", Swete σωτηρία. The distribution is settled (11 in the WLC, 5 in Job); the sense is not. HALOT or NIDOTTE.
+- **Whose covenant is forgotten at v.17?** Undecided by the Hebrew construct; the versions differ. A commentary question before the sermon.
+- **Why does the Greek have no woman at v.16?** A different *Vorlage*, or the translator's moralising? Not decidable from the diplomatic layer. Rahlfs-Hanhart and Göttingen, via Logos.
+- ~~Is Proverbs 2 the only imperative-free chapter in the book?~~ **Closed against the corpus, and the answer changed the claim:** no — chapters 10, 11, 12, 15, 18, 21 and 28 also have none. Within chapters 1–9 it is the only one, and that is how the finding is now stated.
+- ~~Does Prov 2:21–22 use Psalm 37's "inherit"?~~ **Closed:** no. Ps 37 has ירשׁ at vv.9, 11, 29; Prov 2:21 has only שׁכן. The shared lemmas are שׁכן, כרת and תָּמִים.
 
 ---
 
 ## Book-Overview Tensions
 
-The overview (v1.1) is confirmed. Four extensions, no corrections.
+**None requiring revision. Three extensions for the next overview pass.**
 
-**1. The overview's arc map does not describe individual chapters, and need not — but the *ṣāpan* link belongs in the echo table.** vv.1 and 7 are a within-chapter pair of the same kind the overview already records for 14:12 ∥ 16:25. `[T]` *High.*
+1. **The overview's echo table does not carry the 1:28 → 2:3–5 link.** It is the tightest positional evidence in chs 1–2 and is verified by lemma (קרא, מצא). It belongs in the table as *answers §earlier*.
+2. **The overview lists Deuteronomy's boundary law, weights law, Shema and "do not add" as the book's Deuteronomic strands.** A fifth should be added: **Deut 28:63's covenant curse, via נָסַח at 2:22** — four occurrences in the WLC, verified.
+3. **The overview's Psalms row is general.** Psalm 37 should be named specifically for 2:21–22 and 10:30, with the precision that Proverbs uses שׁכן and not Psalm 37's ירשׁ.
 
-**2. Add to the intertextual map: Psalm 37 at 2:21–22.** The section run recommended this; this run confirms it at close range and adds that **Deuteronomy enters Proverbs here**, which the map should record as the strand's starting point rather than listing 2:21–22 as one instance among several. `[I]` *Moderate–high.*
-
-**3. Add to the echo table: 1:28 → 2:4–5.** Seek-and-not-find answered by seek-and-find, thirty verses apart, with the same two verbs. This is an unadvertised echo of exactly the kind the overview's table exists for. `[T]`/`[I]` *Moderate–high.*
-
-**4. A refinement to the overview's presenting situation.** The overview says the book's pressure is that "the naïve cannot yet tell a good invitation from a bad one." True, and confirmed everywhere. Chapter 2 adds a second pressure the overview does not name: **the naïve does not know how wisdom is obtained**, and 1:28 has just suggested it might not be obtainable at all. The chapter exists to answer that, and a book-level statement of the pressure is incomplete without it. `[I]` *Moderate.*
-
-**Where this run confirms the overview and prior work without qualification:** the programme finding from the section run (chapter 2 announces four topics developed in order); the identification of 2:9 as a verbatim return of 1:3; the strange-woman thread from 2:16–19 onward; the land-tenure link to 10:30; and the judgement that the frame teaches the reader how to read the collections.
+Otherwise the run confirms the overview: the citation-light finding, the two-edged gift-vocabulary (מְזִמָּה reappearing at 2:11 as a guard), and the canonical-position block all hold.
 
 ---
 
 ## Text-First Declaration
 
-**Secondary sources present in context:**
+**Secondary sources present in context:** `book-overview-proverbs` v2.0; `dig-deeper-proverbs-1-1to7` (this session's own run); `point-purpose-proverbs-series-introduction` v3; BHS apparatus. The superseded August 2026 dig on this chapter and the existing `point-purpose-proverbs-2` were **not** opened.
+**Tools worked before secondary sources consulted:** Confirmed. The overview's four threads were front-loaded at Phase 0.5 as background only; every finding was reached from the Hebrew and the overview reconciled at Phase 5.5.
+**Passage text:** Verified — WLC, with the BHS Logos export consulted for the apparatus. NASB95 and NIV84 quoted from the Logos exports and checked verse by verse.
+**Reference files viewed:** Core 01–07; `preacher-extras.md`; `original-languages.md`, `historical-background.md`, `original-audience.md`, `christological-reading.md`; `_texts/README.md`; `psalm-33-worked.md` as the OT-poetry anchor. All were viewed earlier in this session and remain fully in context, which the Consistency Contract accepts. `biblical-theology.md`, `difficult-verses.md` and `textual-variants.md` were not re-viewed; their sections follow the template and the governing triage.
+**Depth floors:** Met — Tools 1, 2, 3, 4, 5, 7, 8, 10, 11, 15 and 16 substantial; 5 Headline Findings; 5 Preaching Pitfalls.
+**Chains verified:** 19 chains, 74 references checked by lemma or morphology against `_texts/` — imperative counts for all 31 chapters of Proverbs; צפן (2:1, 2:7); נצל (2:12, 2:16); שׁמר (2:8, 11, 20); נצר (2:8, 11); עזב (2:13, 17); אֵמֶר (1:2, 2:1, 2:16, 7:5); root ישׁר (2:7, 13, 21 — two lemmas); אֱלֹהִים (Proverbs-wide, 5 verses); בְּרִית (Proverbs-wide, 1); תּוּשִׁיָּה (WLC-wide, 11); מַטְמוֹן (WLC-wide, 5); חָפַשׂ (WLC-wide, 23); אַלּוּף (WLC-wide, 69; Proverbs 3); נָסַח (WLC-wide, 4); רְפָאִים (Proverbs 3); שׁכן + אֶרֶץ (2:21, 10:30, Ps 37:3, 29); כרת (2:22, Ps 37:9, 22, 28, 34); ירשׁ (Ps 37 only, **not** Prov 2:21); קרא and מצא (1:28, 2:3, 2:5); the 1:3 ∥ 2:9 triad. **Two failures caught:** the claim that ch. 2 is the only imperative-free chapter in Proverbs (false book-wide; true within chs 1–9, and restated), and the assumption that Prov 2:21 shares Psalm 37's ירשׁ (it does not).
+**Apparatus findings:** Four. Three Ketiv/Qere pairs (vv.7, 8, 22) and the petuchah after v.22 — witness named in each case as WLC's printing of the Leningrad layout or as BHS, stated as reading tradition rather than authorial, manuscript spread **not** independently checked, and none load-bearing for any finding.
+**Warrant counts:** [T] 77 · [I] 8 · [S] 14 (of which [S: overview] and [S: BHS] are the bulk); 44 explicit confidence flags
 
-- `book-overview-proverbs.md` v1.1 — front-loaded at Phase 0.5; reconciled above.
-- `dig-deeper-proverbs-1-8to9-18.md` — the section run, which established the programme finding this chapter instantiates. Its Headline 1 is `[S: Ansberry]`-derived and is carried here with the same attribution.
-- `dig-deeper-proverbs-sweep.md` Unit 3 — a prior report on this chapter; this run re-worked the tools from the text and then compared. The *ṣāpan* observation appears in the sweep as "a genuine and easily missed touch"; it is developed here into Headline 2.
-- `dig-deeper-proverbs-1-1to7.md` and `dig-deeper-proverbs-31-10to31.md` — consulted for the *mĕzimmâ* and *māṣāʾ* threads.
-- **Ansberry, *Be Wise, My Son*, ch. 3** — via the Markdown edition. Supplied: the lecture/interlude classification and the ten-lecture list (which matches the section run's table exactly, including 6:1–19 as an interlude); the exordium/lesson/conclusion division for this lecture (2:1–11, 12–20, 21–22); **the *Lehrprogramm* finding**; the education-in-a-house background; and the note on the LXX's strengthening of the single Solomonic voice.
-- **Fox, *Proverbs 1–9* (AB 18a) — NOT available.** See Open Question 9.
-- **Logos was not queried for this run.** The Study Assistant has failed repeatedly in-session and the manual route has proved productive; five precise questions are supplied above instead of a fabricated check.
-
-**Tools worked before secondary sources consulted:** Confirmed.
-
-*Reached from the text:* the syntactic skeleton and its *ʾim/ʾāz/kî/lĕhaṣṣîlĕkā/lĕmaʿan* markers; the ***ṣāpan* pairing** at vv.1/7 (Headline 2); the **doubled *ʾāz*** and its vertical-then-horizontal order (Headline 3); the **doubled *lĕhaṣṣîlĕkā*** (Headline 4); the **1:28 → 2:4–5 answer** (Headline 5); the **absence of imperatives**; the *ʿāzab* link between the two dangers; the guarding pattern at vv.8/11; the road-word density; the withheld antithesis until v.22; and the ESV's obscuring of vv.12/16 and of v.4's feminine referent.
-
-*Supplied by Ansberry and tagged `[S]`:* the lecture classification and count; the exordium/lesson/conclusion division; the *Lehrprogramm* observation (which reached this run through the section report, and is credited there and here).
-
-*Where the two divisions disagree* — Ansberry takes v.20 with the lesson, the syntax takes it with the conclusion — the report says so rather than choosing silently.
-
-**Passage text:** Verified. The ESV text of Proverbs 2 was read from a verified source earlier in this session and is quoted in full above. Hebrew forms are from standard reference knowledge, confidence-flagged, and the load-bearing ones are routed to Open Questions and to the Logos list.
-
-**Reference files viewed:** Core 01–07 · `preacher-extras.md` · `historical-background.md` · `original-audience.md` · `original-languages.md` · `textual-variants.md` · `biblical-theology.md` · `difficult-verses.md` · `christological-reading.md` · `examples/psalm-33-worked.md`. No mandatory file omitted.
-
-**Depth floors:** Met.
-
-- Substantial treatment: Tools 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 14, 15, 16 — fourteen.
-- N/A with reason: Tool 6 (no narrative) and Tool 13 (no characters — with the section-level observation that the chapter offers categories rather than exemplars).
-- Headline Findings: five. Preaching Pitfalls: six, each with a corrective.
-- OT Citation Triad: full triad on the Deuteronomic land sanctions → 2:21–22 (the chapter's one high-confidence external source, and the strand's entry point into the book); Move 1 only for Job 28, 1 Kgs 3 and Mal 2:14, all moderate.
-- Move 4: run in both directions — five answered, seven planted.
-- Tool 8 ancient-versions check: run at v.6; no split found; recorded rather than omitted.
-- Three-Way Triage: **category 1** — the *ṣāpan* and *lĕhaṣṣîlĕkā* links that English renderings obscure; **category 2** — none, stated explicitly; **category 3** — none, since the NT does not quote this chapter.
-- `[T]` boundary: no authorship, date, composition, audience, occasion or setting claim carries `[T]`. The ANE background, the education-in-a-house material, the lecture classification and the quasi-acrostic proposal are all `[S]` or `[I]`.
-
-**Warrant counts (report body, excluding this Declaration):** `[T]` 54 · `[I]` 26 · `[S]` 13.
-
-**Health note.** Text-dominant, and unusually so for a chapter this heavily worked already — the syntactic skeleton, the two verbal pairings and the 1:28 answer were all reached from the text before Ansberry was opened, and none of them appears in the sweep's Unit 3 except the *ṣāpan* observation, which the sweep noted in passing and this run makes load-bearing. Two risks are declared: **Headline 2 rests on a Hebrew root-identity quoted from recall** and is the first item on the Logos list; and **Fox vol. 1 remains unavailable**, which for a chapter this contested in its structure is a real gap. The quasi-acrostic proposal is flagged as unverified and should not be preached until it is.
+One-line health note: text-first throughout; the two strongest findings — the imperative count and the single-sentence syntax — rest on the morphology field of the index and are reproducible in one command, and the gate corrected the first of them before it was written.
