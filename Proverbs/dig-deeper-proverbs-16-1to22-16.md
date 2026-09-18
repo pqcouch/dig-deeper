@@ -1,82 +1,66 @@
 # Dig Deeper: Proverbs 16:1–22:16
 
-**Translation:** ESV · **Hebrew:** BHS (Elliger–Rudolph–Weil), supplied verified
-**Pulpit translation:** ESV (Anglicised) — same text as the report default
-**Date:** 20 August 2026
-**Book-overview context:** `book-overview-proverbs` (v1.1, upgraded 17 August) — in project
-**Series context:** Solomon 1B. The fourth of five section runs completing Proverbs, and the longest — 191 verses. Read against the 1A run's finding that the divine-name gradient crests at 16:1–15.
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/03-Proverbs.txt` and its lemma index) · Swete LXX (`_texts/greek-lxx-swete/19-Proverbs.txt`) · SBLGNT
+**Study text:** NASB95 (Logos export)
+**Pulpit text:** NIV84 (first engagement)
+**Date:** 18 September 2026
+**Book-overview context:** `book-overview-proverbs` v2.0, in conversation; its four threads front-loaded at Phase 0.5
+**Series context:** Sermon 5 of nine, *Solomon's sentences*. **Second of two runs on the collection**; `dig-deeper-proverbs-10-1to15-33` (18 September) covers the first half and is consumed here at Phase 5.5 rather than re-worked. A short umbrella pass over both halves follows.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference from the text · `[S]` supplied by a secondary source.
-
-> **Method, as with 1A.** Text-first derivation: the Hebrew was parsed and the structure worked out from the words before any secondary source was opened. **Not a blind test** — Heim's map for these chapters (§8.14–10.9) is in the project and was available to me. I did not consult it while deriving, but agreements are **corroborations, not controls.**
-
----
-
-## Headline Findings
-
-1. **All four sub-collections are now counted on one scheme, and they alternate rather than progress.** `[T]`
-
-   | Section | Sayings | Antithetical | % |
-   |---|---:|---:|---:|
-   | **Solomon 1A** 10:1–15:33 | 184 | 149 | **81.0%** |
-   | **Solomon 1B** 16:1–22:16 | 191 | **39** | **20.4%** |
-   | **Solomon 2A** 25:1–27:27 | 82 | 6 | 7.3% |
-   | **Solomon 2B** 28:1–29:27 | 55 | 33 | 60.0% |
-
-   **High · low · lowest · high.** Surfaced by: Parallels, Structure, Author's Purpose. *High confidence — countable, and the ESV proxy independently returns 35 for chapters 16–21 against this scheme's 35.* **The sentence literature does not develop in one direction; it oscillates**, and every sub-collection is formally distinct from the one beside it. That is strong support for Ansberry's four-fold scheme — reached from a measure he did not use.
-
-2. **The hinge is settled from 1B's side: 16:1–9 is a summit, not a plateau.** `[T]` **Eight of the first nine verses name YHWH** — 16:1, 2, 3, 4, 5, 6, 7, 9, with only 16:8 omitting him. The density then collapses: chapter 17 has two in twenty-eight verses, chapter 18 two in twenty-four. Surfaced by: Repetition, Structure, Positional Necessity. *High confidence.* **The 1A run found the divine-name gradient climbing across six chapters; this run finds where it stops.** 16:1–9 is the crest of a movement that began at chapter 13, and 16:10–15 is the descent from it.
-
-3. **The collection frames itself on a single sentence about self-knowledge.** `[T]`
-   > **16:2** *All a man's **ways** are pure **in his own eyes**, but YHWH **weighs** the **spirits**.*
-   > **21:2** *Every **way** of a man is upright **in his own eyes**, but YHWH **weighs** the **hearts**.*
-
-   Near-verbatim, differing only in *zak/yāšār* and *rûḥôt/libbôt*, and standing at the head and near the close of the section. **17:3 supplies the middle term** — *"and YHWH tests **hearts**"* — sharing two words with 21:2. Surfaced by: Repetition, Structure, Vocabulary, Move 4. *High on the data; moderate–high on the frame.* **A collection that opens by saying a man cannot assess himself closes by saying it again.**
-
-4. **The abomination-formula changes between the collections, and the change is total.** `[T]` The full two-part *tôʿăbat YHWH … rəṣônô* ("an abomination to YHWH … his delight") occurs **four times in 1A** — 11:1, 11:20, 12:22, 15:8 — and **not once in the 191 verses of 1B**. In its place stands a different formula: ***tôʿăbat YHWH gam-šənêhem***, "an abomination to YHWH, **both of them alike**", at 17:15 and 20:10 — four words verbatim — with 20:12 inverting it: *"the hearing ear and the seeing eye — YHWH made **both of them**."* Surfaced by: Repetition, Vocabulary, Structure. *High confidence — countable.*
-
-5. **The teaching voice returns.** `[T]` Solomon 1A contains **one imperative in 184 verses** and no vocative. Solomon 1B contains **eleven imperatives** — 16:3, 17:14, 19:18, 19:20, 19:27, 20:13, 20:16, 20:19, 20:22, 22:6, 22:10 — and **one vocative**, *"Cease, **my son**, to hear instruction"* (19:27). Surfaced by: Tone, Genre, Copycat, Who Am I. *High confidence.* **The book stops describing the reader and starts addressing him again** — for the first time since chapter 9.
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from it · `[S]` supplied by a secondary source.
 
 ---
 
 ## The Passage
 
-**A note on quotation.** At 191 verses this unit is too long to quote entire. The ESV was read in full and the Hebrew parsed verse by verse; what follows are the structural anchors, and every other verse is quoted at the point of use.
+**The same quoting decision as the first half, stated again.** The unit is **191 verses** `[T]`, WLC — 33 · 28 · 24 · 29 · 30 · 31 · 16 across chapters 16 to 22:16. The report quotes **the opening block in full**, because it is where the findings concentrate, and gives every other verse a finding rests on at the point of use.
 
-> **16:1** The plans of the heart belong to man, but the answer of the tongue is from the LORD.
-> **16:2** All the ways of a man are pure in his own eyes, but the LORD weighs the spirit.
-> **16:3** Commit your work to the LORD, and your plans will be established.
-> **16:9** The heart of man plans his way, but the LORD establishes his steps.
-> **16:11** A just balance and scales are the LORD's; all the weights in the bag are his work.
-> **16:18** Pride goes before destruction, and a haughty spirit before a fall.
-> **16:33** The lot is cast into the lap, but its every decision is from the LORD.
->
-> **17:3** The crucible is for silver, and the furnace is for gold, and the LORD tests hearts.
-> **17:15** He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD.
->
-> **18:10** The name of the LORD is a strong tower; the righteous man runs into it and is safe.
-> **18:11** A rich man's wealth is his strong city, and like a high wall in his imagination.
-> **18:12** Before destruction a man's heart is haughty, but humility comes before honour.
->
-> **19:5** A false witness will not go unpunished, and he who breathes out lies will not escape.
-> **19:9** A false witness will not go unpunished, and he who breathes out lies will perish. **פ**
-> **19:21** Many are the plans in the mind of a man, but it is the purpose of the LORD that will stand.
-> **19:27** Cease to hear instruction, my son, and you will stray from the words of knowledge.
->
-> **20:9** Who can say, "I have made my heart pure; I am clean from my sin"?
-> **20:10** Unequal weights and unequal measures are both alike an abomination to the LORD.
-> **20:12** The hearing ear and the seeing eye, the LORD has made them both.
-> **20:24** A man's steps are from the LORD; how then can man understand his way?
-> **20:27** The spirit of man is the lamp of the LORD, searching all his innermost parts.
->
-> **21:2** Every way of a man is right in his own eyes, but the LORD weighs the heart.
-> **21:30** No wisdom, no understanding, no counsel can avail against the LORD. **פ**
-> **21:31** The horse is made ready for the day of battle, but the victory belongs to the LORD.
->
-> **22:4** The reward for humility and fear of the LORD is riches and honour and life.
-> **22:16** Whoever oppresses the poor to increase his own wealth, or gives to the rich, will only come to poverty.
+**The opening — 16:1–15, and it is the densest theological block in the book**
 
-*(ESV. **פ** marks the two* petuchah *markers falling inside this range; they are not part of the ESV.)*
+> **1** לְאָדָם מַעַרְכֵי־לֵב וּמֵיהוָה מַעֲנֵה לָשׁוֹן׃
+> **2** כָּל־דַּרְכֵי־אִישׁ זַךְ בְּעֵינָיו וְתֹכֵן רוּחוֹת יְהוָה׃
+> **9** לֵב אָדָם יְחַשֵּׁב דַּרְכּוֹ וַיהוָה יָכִין צַעֲדוֹ׃
+> **10** קֶסֶם עַל־שִׂפְתֵי־מֶלֶךְ בְּמִשְׁפָּט לֹא יִמְעַל־פִּיו׃
+> **33** בַּחֵיק יוּטַל אֶת־הַגּוֹרָל וּמֵיהוָה כָּל־מִשְׁפָּטוֹ׃
+
+> **1** The plans of the heart belong to man, / But the answer of the tongue is from the LORD.
+> **2** All the ways of a man are clean in his own sight, / But the LORD weighs the motives.
+> **3** Commit your works to the LORD / And your plans will be established.
+> **4** The LORD has made everything for its own purpose, / Even the wicked for the day of evil.
+> **5** Everyone who is proud in heart is an abomination to the LORD; / Assuredly, he will not be unpunished.
+> **6** By lovingkindness and truth iniquity is atoned for, / And by the fear of the LORD one keeps away from evil.
+> **7** When a man's ways are pleasing to the LORD, / He makes even his enemies to be at peace with him.
+> **8** Better is a little with righteousness / Than great income with injustice.
+> **9** The mind of man plans his way, / But the LORD directs his steps.
+> **10** A divine decision is in the lips of the king; / His mouth should not err in judgment.
+> **11** A just balance and scales belong to the LORD; / All the weights of the bag are His concern.
+> **12** It is an abomination for kings to commit wicked acts, / For a throne is established on righteousness.
+> **13** Righteous lips are the delight of kings, / And he who speaks right is loved.
+> **14** The fury of a king is like messengers of death, / But a wise man will appease it.
+> **15** In the light of a king's face is life, / And his favor is like a cloud with the spring rain.
+>
+> (NASB95)
+
+**And the unit's last verse, because it decides where the sermon stops**
+
+> **22:16** עֹשֵׁק דָּל לְהַרְבּוֹת לוֹ נֹתֵן לְעָשִׁיר אַךְ־לְמַחְסוֹר׃
+> "He who oppresses the poor to make more for himself / Or who gives to the rich, will only come to poverty." (NASB95)
+
+*22:17 begins דִּבְרֵי חֲכָמִים ("the words of the wise") and a new collection* `[T]`.
+
+---
+
+## Headline Findings
+
+1. **The seam at 15:33/16:1 is real by form and stitched by the divine name — and the stitch is the longest of its kind in the book.** `[T]`, WLC. Two counted measures collapse across it: lexical opposition falls from **33.2% to 5.2%** and waw at the caesura from **86.9% to 55.6%**. And in exactly the same place stands **the longest consecutive run of verses naming יְהוָה anywhere in Proverbs — eight, 15:33 through 16:7.** The run-length distribution for the whole book is 57 runs of one, eight of two, two of three, and **one of eight** `[T]`. **The collections change register at the seam, and the name runs straight across it.** Surfaced by: Structure, Repetition, Context, Linking Words. *High confidence on all figures.*
+
+2. **This half gives the divine name and the king the same chapter, in that order.** `[T]`, WLC. יְהוָה stands in **35 of 191 verses (18.3%)**, against 10.9% in the first half — and **eleven of the thirty-five are in chapter 16**. The name occupies 16:1–7; then **מֶלֶךְ ("king") occupies 16:10–15**, five verses of the twelve the word gets in the whole of 10:1–22:16 `[T]`. **At 21:1 the two are put in one sentence**: פַּלְגֵי־מַיִם לֶב־מֶלֶךְ בְּיַד־יְהוָה ("the king's heart is like channels of water in the hand of the LORD"). Surfaced by: Structure, Vocabulary, Repetition, Historical Background. *High confidence on the counts.*
+
+3. **The recurring shape is a man's plan meeting a verdict he did not make, and it is carried by two nouns and one preposition.** `[T]`, WLC. לֵב ("heart") stands with the divine name at **16:1; 16:9; 19:21; 21:1**, and דֶּרֶךְ ("way") with it at **16:2; 16:9; 20:24; 21:2**. The preposition does the rest: **מִן + יְהוָה ("from the LORD") stands in eight verses of Proverbs and five of them are here** — 16:1; 16:33; 18:22; 19:14; 20:24 `[T]`. **The collection's characteristic sentence puts the man in the first colon and YHWH in the second**, and the second colon is where the verb of deciding sits. Surfaced by: Linking Words, Parallels, Repetition, Vocabulary, So What?. *High confidence.*
+
+4. **The book's own unanswered question stands in this half, and it is asked in the vocabulary of the self-assessment saying twelve verses earlier in the same chapter's neighbourhood.** `[T]`, WLC. **16:2** כָּל־דַּרְכֵי־אִישׁ **זַךְ** בְּעֵינָיו ("all a man's ways are **clean** in his own eyes") and **21:2** כָּל־דֶּרֶךְ־אִישׁ יָשָׁר בְּעֵינָיו ("every man's way is right in his own eyes") are a near-doublet — **two words changed** (זַךְ/יָשָׁר and רוּחוֹת/לִבּוֹת) and the frame identical. Between them stands **20:9** מִי־יֹאמַר **זִכִּיתִי** לִבִּי טָהַרְתִּי מֵחַטָּאתִי ("who can say, 'I have **cleansed** my heart, I am pure from my sin'?"). **The root of 16:2's adjective is the root of 20:9's verb**, and all four occurrences of that root in Proverbs — 16:2; 20:9; 20:11; 21:8 — fall inside this unit `[T]`. *(Two lemmas, one root: the adjective 2134 and the verb 2135. Stated at root level, as it must be.)* Surfaced by: Repetition, Vocabulary, Tool 11 Move 4, Christological Reading. *High confidence.*
+
+5. **The New Testament's best-known stewardship line comes from a Greek plus in this unit that the Hebrew does not contain.** `[T]`, Swete + SBLGNT. Swete's **Prov 22:8** carries, after the Hebrew's close, ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός ("God blesses a cheerful man and giver"); **2 Cor 9:7** reads ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός ("for God loves a cheerful giver"). **There is no Hebrew behind it at all.** And in the same register: **every whole-verse doublet the Hezekiah collection shares with Solomon I comes from this half — four of them — and none from the first half** `[T]`. Surfaced by: Translations, Tool 11, Repetition, Biblical Theology. *High confidence on the wordings; the doublet count is measure-specific and stated as such.*
 
 ---
 
@@ -84,17 +68,15 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 ### 1. Author's Purpose
 
-**Book level:** worked once in the sweep and assumed.
+**At book level** the overview's microscript stands, and this half is where it turns: 10–15 supplies the categories by which a man is graded; **16:1–22:16 removes the grader's own authority** `[S: overview]`. The counts below are what that claim looks like measured.
 
-**Passage level.** The sweep named this section's thematic centre correctly: *the collection that most commends human prudence most insists that God determines the outcome.* `[S: sweep]` That stands, and this run can now say what the section is *doing* with that insistence.
+**At passage level the purpose has changed from the first half, and the change is the finding.** Chapters 10–15 taught a reader to sort cases into two classes. **This half tells him that the sorting is done by someone else.** The evidence is formal as much as lexical:
 
-**It is dismantling self-assessment — and the frame says so.** 16:2 and 21:2 are the same sentence twice: *a man's ways are right in his own eyes, but YHWH weighs* — spirits at the head, hearts at the close. `[T]` Between them stand 17:3 (*"YHWH tests hearts"*), 20:9 (*"who can say, 'I have made my heart pure'?"*), 20:24 (*"how then can man understand his way?"*), 20:27 (*"the spirit of man is the lamp of the LORD, searching all his innermost parts"*), and 21:30 (*"no wisdom, no understanding, no counsel can avail against the LORD"*).
+- **The antithesis engine is switched off.** Lexical opposition falls to **10 of 191 (5.2%)**, and **three whole chapters — 16, 19 and 20 — score zero** `[T]`, WLC. The verse-shape that carried the first half is no longer the default.
+- **What replaces it is a different two-part sentence**: not *the righteous … but the wicked*, but *a man … but YHWH*. Headline 3 counts it.
+- **The king appears.** מֶלֶךְ stands in 12 of these verses against 2 in the first half `[T]`. **A collection that has just denied a man authority over his own verdict now introduces the one human being who has authority over other people's** — and immediately puts his heart in someone else's hand (21:1).
 
-**That is a sustained argument, not a heap.** `[I]` *Moderate–high.* Solomon 1A taught the reader to sort the world and admitted, four times, that he might be wrong about himself. **Solomon 1B takes the admission and builds on it**: the man cannot weigh his own spirit, cannot cleanse his own heart, cannot understand his own steps, and cannot out-counsel God.
-
-**And the purpose has a pastoral shape, which is why the imperatives return.** A reader who has been shown that self-assessment fails needs something to *do*. Eleven imperatives follow (Headline 5), and the first of them is the answer: *"Commit your work to the LORD"* (16:3).
-
-**Book-overview note:** extends rather than contradicts. The overview has the LORD-spine; what is new is that the spine is *about the limits of self-knowledge* and that the section frames itself on it.
+**So the purpose at passage level is to relocate the seat of judgement.** *The first half hands over the categories; the second half says who applies them.* `[I]`, high confidence — every element of the inference is a counted feature.
 
 ---
 
@@ -102,465 +84,298 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 #### Positional Necessity Check
 
-**Preceding movement.** Solomon 1A has done two things: given the reader the righteous/wicked sort in its crispest form, and — in four *yēš*-sayings culminating at 14:12 — admitted that he may not be able to place himself. Its divine-name density climbed steadily from a trough of zero in chapter 13 to nine verses in chapter 15.
+**Preceding movement.** The first half has spent 184 verses installing two categories by saturation, without argument and without addressing anybody `[S: first-half dig]`. **It has also, twice, admitted that the categories cannot always be applied**: 13:23, where a poor man's harvest is swept away for lack of justice, and **14:12, where a road looks right and its end is death** `[T]`.
 
-**Necessity answer.** `[I]` *Moderate–high.* **1B exists here because 14:12 needs an answer and 1A cannot give one.** *"There is a way that seems right to a man, but its end is the way to death"* leaves the reader without a way to check himself — and the very next collection opens with eight consecutive verses on what YHWH does that a man cannot: he answers the tongue (16:1), weighs the spirit (16:2), establishes the plan (16:3), makes everything for its purpose (16:4), and directs the step (16:9).
+**Necessity answer.** This half exists *here* because **14:12 left a question the first half could not answer: if a man cannot read his own road, who can?** The answer arrives in the opening seven verses of chapter 16 and is repeated in every characteristic sentence afterwards — **YHWH weighs, directs, establishes, decides.** And the collection makes the join explicit by **repeating 14:12 verbatim at 16:25** `[T]`, inside the new material, as though re-posing the question in the place where the answer now stands.
 
-**And the connection is made explicit at 16:25**, where **14:12 is repeated verbatim** in the new collection. `[T]` *High.* The saying that broke 1A's confidence is planted again in 1B — this time surrounded by fifteen chapters of divine sovereignty rather than six chapters of moral contrast.
+**That is the strongest positional evidence in the run**, and it is the reason the two halves belong to one sermon even though their forms differ: *the first half raises a problem it states twice and solves neither time; the second names the one who is not subject to it.*
 
-**Why here and not elsewhere.** The four-section form-profile (Headline 1) gives the answer. `[I]` The reader receives the sort at maximum strength (1A, 81%), then a collection that mostly declines to sort (1B, 20%) and talks about God instead; then 22:17–24:34 teaches observation; then 25–27 withdraws the sort almost entirely (7%) and requires judgement; then 28–29 restores it (60%) with *tôrāh*. **1B cannot precede 1A, because it answers a question 1A raises. It cannot follow 2A, because 2A presupposes a reader already weaned off the rule.**
+**Implication.** A sermon on Solomon I that stops at 15:33 has preached the diagnosis without the relief; one that starts at 16:1 has the relief without the problem. **The unit's own hinge verse, 16:25, is a quotation of the first half, and the preacher should let it do the joining.**
 
-**Implication.** Preach the frame. A series on these chapters that does not put 16:2 and 21:2 side by side has missed the collection's own architecture.
+**Immediate context.** Before: 15:33, the motto, and a divine-name run that does not stop at the boundary. After: 22:17's דִּבְרֵי חֲכָמִים ("the words of the wise"), a new superscription, a returning vocative and the instruction form `[T]`.
 
-#### Immediate context
+**Widely read out of context:** **22:6** above all — "train up a child in the way he should go" — which stands nine verses from the end of the collection, in a run of sayings about wealth and poverty, with no context of child-rearing around it at all `[T]`. See Preaching Pitfalls.
 
-**Before:** 15:33, *"the fear of the LORD is instruction in wisdom, and humility comes before honour."* **After:** 22:17, *"Incline your ear and hear the words of the wise"* — a superscription and a change of genre.
+#### Canonical position
 
-**Neither boundary is marked in the received text.** The Masoretic paragraphing runs **14:1 → 19:9**, straight across 15:33/16:1; and **21:31 → 22:21**, straight across 22:16/22:17. `[T]` See Tool 3.
+Ketuvim, third in the BHS order `[T]`; the overview's five-field block stands `[S: overview]`.
 
 ---
 
 ### 3. Structure
 
-#### (a) The transmission structure — and it answers a question the 1A run left open
+**The manuscript again marks almost nothing, and what it marks is odd.** WLC, printing the Leningrad layout, gives these 191 verses **two** markers `[T]`: **19:9** and **21:30**. *A reading tradition, not authorial; spread unchecked* `[unchecked — apparatus spread]`.
 
-BHS carries **two** *petuchah* markers inside 16:1–22:16: at **19:9** and **21:30**. `[T]`
+**And 19:9 is the second member of a near-doublet.** 19:5 עֵד שְׁקָרִים לֹא יִנָּקֶה וְיָפִיחַ כְּזָבִים לֹא יִמָּלֵט ("a false witness will not go unpunished, and he who tells lies will not escape") and 19:9, four verses later, identical but for its last word — יֹאבֵד ("will perish") for לֹא יִמָּלֵט `[T]`. **The break falls where the collection has just said the same thing twice.** *Whether the scribe heard the repetition as a closing signal is not recoverable; the adjacency is.* `[I]`, *moderate.*
 
-**The 1A report asked where the paragraph beginning at 14:1 closes, and recorded the answer as unknown because the marker lay outside the loaded range.** `[T]` **It closes at 19:9.**
+**What the wording marks.** Three things, all at the chapter-16 end.
 
-| Paragraph | Verses | |
+| Where | What | Warrant |
 |---|---|---|
-| … | 10:1b – 13:25 | *(1A)* |
-| | **14:1 – 19:9** | **162 verses, crossing 15:33/16:1** ⚠ *corrected 26 August from "91"* |
-| | 19:10 – 21:30 | 52 verses |
-| | **21:31 – 22:21** | **crossing 22:16/22:17, the collection boundary** |
-| | 22:22 – 22:29 | |
+| **15:33–16:7** | **Eight consecutive verses naming יְהוָה** — the longest such run in the book, by a factor of nearly three | `[T]`, WLC |
+| **16:10–15** | **Six consecutive verses on the king**, five of them naming him — the densest royal block in Proverbs | `[T]` |
+| **16:25** | **14:12 repeated word for word**, at the mid-point of chapter 16 and inside the new collection-half | `[T]` |
 
-**Two results, and both matter.**
+**So the collection's second half opens with a deliberate-looking sequence: God, then the king, then a quotation of the problem.** *Moderate confidence that the sequence is designed; high on the three observations.*
 
-**First: the received Hebrew places no break at 15:33/16:1.** A single paragraph runs from 14:1 to 19:9. **The traditional division between the first and second parts of the Solomonic collection has no transmission-level support whatever** — which is exactly what the 2A run found at 27:27/28:1, where the paragraph ran 27:23 → 28:4.
+**The counted measures, reproduced independently.**
 
-**Second: the paragraph running 21:31 → 22:21 crosses the boundary between the Solomonic collection and the Words of the Wise** — a boundary marked in the text itself by a superscription at 22:17. The Masoretes broke *after* the Words of the Wise prologue (22:17–21), not before it. `[T]` *That aligns with the internal structure of 22:17–24:22, where 22:17–21 is prologue and the sayings proper begin at 22:22 — but it means the paragraphing ignores the superscription.*
-
-> **The pattern across the project is now consistent.** At 15:33/16:1, at 22:16/22:17 and at 27:27/28:1, the Masoretic paragraphing runs straight through a boundary that modern scholarship marks. **The one place where paragraphing and composition agree is 27:22/27:23**, which is not a boundary modern scholarship marks at all. `[T]` **Whatever the *petuchot* record, it is not the collection structure.**
-
-#### (b) The marker at 19:9 lands on a verbatim inclusio
-
-**This is the exception that proves the rule.** `[T]`
-
-> **19:5** *ʿēd šəqārîm lōʾ yinnāqeh wəyāpîaḥ kəzābîm* **lōʾ yimmālēṭ**
-> **19:9** *ʿēd šəqārîm lōʾ yinnāqeh wəyāpîaḥ kəzābîm* **yōʾbēd**
-
-**Five words identical; only the last differs** — *"will not escape"* / *"will perish"*. And the *petuchah* falls **at the close of 19:9**, precisely where the repetition closes.
-
-**Everywhere else in this project the markers cut across linking devices** — 26:21 severed the *nirgān* pair; 29:17 fell inside the *naʿar* inclusio. **Here the marker and the composition agree exactly**, and 19:5–9 is a five-verse unit framed by a near-doublet. *A single agreement is not a pattern, but it is worth recording as the one clean case.*
-
-#### (c) The compositional structure — frames
-
-| Unit | Frame evidence | Warrant |
+| | 10:1–15:33 | **16:1–22:16** |
 |---|---|---|
-| **16:1–9** | ***YHWH in eight of nine verses*** — the densest divine-name cluster in the book; *derek/ṣaʿad* at 16:2, 16:9 | `[T]` |
-| **16:10–15** | **King-vocabulary in five of six** (10, 12, 13, 14, 15) — with **16:11 planting YHWH and the weights inside the block** | `[T]` |
-| **16:16–33** | *yōsîp leqaḥ* verbatim at 16:21 and 16:23; *ləpānîm* pairs at 18; the *ʾîš*-run at 27–29 | `[T]` |
-| **17:1–28** | Loosely bound; *mapərîd ʾallûp* at 16:28 and 17:9 chains it to the previous chapter | `[T]`/`[I]` |
-| **18:1–24** | The section's **densest comparative run** — six of the twelve CMP sayings in 191 verses fall here (18:4, 8, 9, 10, 11, 19) | `[T]` |
-| **19:1–9** | ***ʿēd šəqārîm lōʾ yinnāqeh…* at 19:5 and 19:9** — five words verbatim; ***petuchah* closes at 19:9** | `[T]` |
-| **19:10–29** | *lōʾ nāʾweh* at 17:7 and 19:10; the imperative cluster at 19:18, 19:20, 19:27 with the section's only vocative | `[T]` |
-| **20:1–30** | ***gam-šənêhem*** at 20:10 and 20:12; *ḥadrê-bāṭen* at 20:27 and 20:30; the imperative cluster at 20:13, 16, 19, 22 | `[T]` |
-| **21:1–30** | *libbôt YHWH* at 21:2 (← 17:3); *ʾîš rāšāʿ*/*yāšār* pairs; ***petuchah* closes at 21:30** | `[T]` |
-| **21:31–22:16** | Opens after the marker; closes at the collection boundary; *ʾak-ləmaḥsôr* at 21:5 and 22:16 | `[T]` |
+| Verses | 184 | **191** |
+| Lexical opposition across the atnach | 33.2% | **5.2%** (10 verses) |
+| Colon B begins with waw | 86.9% | **55.6%** |
+| Verses carrying a character word | 60.3% | **44.5%** |
+| צַדִּיק and רָשָׁע inside one verse | 41 | **8** |
+| Verses naming a speech organ | 20.7% | **19.4%** |
+| Verses naming יְהוָה | 10.9% | **18.3%** |
+| Verses naming מֶלֶךְ | 2 | **12** |
 
-#### (d) The section-wide frame
+`[T]`, WLC. **Six of the seven measures move; speech alone holds steady.** *The collection does not stop being interested in what people say; it stops sorting them by it.*
 
-**16:2 ∥ 21:2** — near-verbatim, and the strongest single structural datum in the unit. See Headline 3 and Tool 10.
+**Chapter by chapter, and the half is not uniform either** `[T]`:
+
+| | ch16 | ch17 | ch18 | ch19 | ch20 | ch21 | 22:1–16 |
+|---|---|---|---|---|---|---|---|
+| **Opposition** | **0%** | 14% | 8% | **0%** | **0%** | 10% | 6% |
+| **YHWH verses** | **11** | 2 | 2 | 5 | 6 | 5 | 4 |
+| **Speech verses** | 10 | 6 | 7 | 5 | 3 | **2** | 4 |
+
+**Chapters 17 and 18 are the quiet centre** — two divine-name verses each, the highest opposition rates in the half, and the densest speech material. **The theological weight sits at the two ends.** *Moderate confidence on reading the distribution as shape; high on the figures.*
+
+**Device: a deposit again, but a differently weighted one.** No chiasm sought or claimed. **The overview's trap 4 still applies** — a sermon that divides this material into themed sections is supplying what the text withholds `[S: overview]` — but the opening fifteen verses of chapter 16 are an exception the preacher may use, because the wording itself groups them.
 
 ---
 
 ### 4. Linking Words
 
-**The connector profile changes completely from 1A, and it is the clearest sign that a new collection has begun.** `[T]`
+**The waw still carries almost everything, but it is doing a different job.** Colon B opens with a waw in **105 of the 189 verses where an atnach can be found (55.6%)**, against 86.9% in the first half `[T]`. **And because lexical opposition has collapsed to 5.2%, the waw here is far more often simply *and*.**
 
-| | Solomon 1A (184 vv) | **Solomon 1B (191 vv)** |
-|---|---:|---:|
-| Imperatives / prohibitions | **1** | **11** |
-| Vocatives (*bənî*) | 0 | **1** (19:27) |
-| Motive *kî* | rare | 16:12, 16:26, 19:18, 21:7, 21:25, 22:9, 22:22, 22:23 — and more |
-| *ʾap kî* (*a fortiori*) | 11:31, 15:11 | 17:7, 19:7, 19:10, 21:27 |
+| Marker | Where | Function |
+|---|---|---|
+| **וְ** opening colon B | 105 verses | Now mostly additive or consequential rather than adversative |
+| **מִן + יְהוָה** ("from the LORD") | 16:1; 16:33; 18:22; 19:14; 20:24 — five of the book's eight `[T]` | **A preposition doing theological work**: the second colon names a source, not a contrast |
+| **כִּי** ("for") | 16:12 and scattered | Grounds a royal maxim; still rare |
+| **טוֹב … מִן** ("better … than") | **Eight verses open with טוֹב here** — 16:8; 16:19; 16:32; 17:1; 19:1; 21:9; 21:19; 22:9 — against five in the first half and two in 25–29 `[T]`. *Seven of the eight are comparatives; 22:9's טוֹב־עַיִן ("generous of eye") is not* | **The comparative saying is this half's second form**, and it is a *ranking* device rather than a contrasting one |
 
-**Three things follow.**
-
-**The *kî*-clause returns as a working connector.** 16:12 grounds a claim about kings — *"for by righteousness a throne is established"*; 22:9 grounds generosity — *"for he shares his bread with the poor"*; 22:22–23 grounds a prohibition with a threat — *"do not rob the poor… **for** the LORD will plead their cause."* **The section argues where 1A stated.**
-
-***ʾap kî* — "how much more" — appears four times** (17:7, 19:7, 19:10, 21:27), against twice in 1A. `[T]` It is the *a fortiori* connector, and it does something the antithesis cannot: it reasons from a lesser case to a greater. **A collection that has largely given up the two-column sort needs a different logical tool, and this is one of them.**
-
-**And the eleven imperatives cluster.** 19:18, 19:20, 19:27 fall within ten verses; 20:13, 20:16, 20:19, 20:22 within ten more. `[T]` **The two clusters are the closest thing this collection has to instruction**, and they sit either side of the *petuchah* at 19:9.
+**That last row is a finding in its own right.** Where the first half set two classes against each other, this half repeatedly **ranks two goods**: a little with righteousness above great income with injustice (16:8); wisdom above gold (16:16); a dry morsel with quiet above a house full of feasting with strife (17:1). **A comparison is not an antithesis** — it concedes that both terms are real and tells you which to prefer, which is a different operation from sorting people into two classes, and a gentler one.
 
 ---
 
 ### 5. Parallels
 
-#### The census, on the scheme used for 1A, 2A and 2B
+Antithesis is no longer the default, so the parallelism worth reporting is of three other kinds.
 
-| | ANT | CMP | BET | SYN | SYNTH | ADM | total | ANT % |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ch. 16 | 6 | 2 | 4 | 11 | 9 | 1 | 33 | 18.2% |
-| ch. 17 | 3 | 2 | 3 | 12 | 7 | 1 | 28 | **10.7%** |
-| ch. 18 | 6 | 6 | 0 | 9 | 3 | 0 | 24 | 25.0% |
-| ch. 19 | 5 | 0 | 1 | 11 | 9 | 3 | 29 | 17.2% |
-| ch. 20 | 6 | 1 | 0 | 7 | 12 | 4 | 30 | 20.0% |
-| ch. 21 | 9 | 1 | 3 | 7 | 11 | 0 | 31 | **29.0%** |
-| ch. 22:1–16 | 4 | 0 | 1 | 1 | 8 | 2 | 16 | 25.0% |
-| **total** | **39** | **12** | **12** | **58** | **59** | **11** | **191** | **20.4%** |
+**The man/YHWH couplet — the half's signature.**
+> לְאָדָם מַעַרְכֵי־לֵב וּמֵיהוָה מַעֲנֵה לָשׁוֹן (16:1)
+> "The plans of the heart belong to man, / But the answer of the tongue is from the LORD."
 
-**Antithetical: 39 of 191 — 20.4%.**
+**Not antithetical and not synonymous.** The two cola name two agents and assign each a share of one process: **the man gets the planning, YHWH gets the outcome.** The same shape at 16:9 (he plans his way / YHWH directs his steps), 16:33 (the lot is cast / the decision is from YHWH), 19:21 (many plans in a man's heart / YHWH's counsel stands), 20:24 (a man's steps are from YHWH / how then can a man understand his way?) `[T]`. **Four of the five put the human verb first**; the exception is 20:24, which inverts it and then asks a question.
 
-**And the method checks out for the third time.** `[T]` The collections assessment's independent ESV "but"-count returned **35** for chapters 16–21; this Hebrew classification returns **35** for the same chapters (with offsetting one-verse differences at ch. 18 and ch. 20). **Two methods built on different principles, same total.**
+**The near-doublet — and the second colon is where they differ most.**
+> כָּל־דַּרְכֵי־אִישׁ זַךְ בְּעֵינָיו וְתֹכֵן רוּחוֹת יְהוָה (16:2)
+> כָּל־דֶּרֶךְ־אִישׁ יָשָׁר בְּעֵינָיו וְתֹכֵן לִבּוֹת יְהוָה (21:2)
 
-#### What replaces the antithesis
+Two words differ: **זַךְ ("clean") / יָשָׁר ("right")** in the first colon, **רוּחוֹת ("spirits") / לִבּוֹת ("hearts")** in the second `[T]`. **תֹכֵן ("weighing") stands in both, and in the whole book only at 16:2, 21:2 and 24:12** `[T]`. *And the two adjectives that the doublet swaps stand together elsewhere in this same half:* **20:11** אִם־זַךְ וְאִם־יָשָׁר פָּעֳלוֹ ("whether his conduct is **pure** and **right**") *and* **21:8** וְזַךְ יָשָׁר פָּעֳלוֹ `[T]`. **The pair is the collection's own word-set for a clean record**, and 20:9 sits between the two verses that use it. *The pairing gives the preacher the lexical range in one stroke: what a man is sure of may be his cleanness or his rightness, and what is weighed may be his spirit or his heart.*
 
-**Synonymous and synthetic parallelism together account for 117 of 191 sayings — 61%.** `[T]` In 1A the same two categories accounted for 29 of 184 — 16%. **The dominant form has changed from opposition to accumulation.**
+**The comparative — and one of them is the collection's sharpest.**
+> טוֹב־מְעַט בִּצְדָקָה מֵרֹב תְּבוּאוֹת בְּלֹא מִשְׁפָּט (16:8)
+> "Better is a little with righteousness / Than great income with injustice."
 
-That is why these chapters feel harder to preach. An antithesis hands the preacher his two points; a synonymous bicolon says one thing twice and a synthetic one runs on. **The homiletical unit here is the cluster, not the verse** — and this is the section where that matters most.
-
-#### The comparative sayings, and where they fall
-
-Twelve in 191 — and **six of the twelve are in chapter 18**: 18:4 (deep waters, a bubbling brook), 18:8 (delicious morsels), 18:9 (brother to the destroyer), 18:10 (a strong tower), 18:11 (a strong city), 18:19 (bars of a castle). `[T]`
-
-**Chapter 18 is the section's image-chapter**, and it contains the collection's sharpest juxtaposition:
-
-> **18:10** The name of the LORD is a **strong tower**; the righteous runs into it and is safe.
-> **18:11** A rich man's wealth is his **strong city**, and like a high wall **in his imagination**.
-
-**Two fortresses in consecutive verses, one of them imaginary.** `[T]` *High.* The sweep called this the best single proof that these chapters are arranged rather than heaped, and the comparative census now shows *why* it lands: in a collection with twelve images in 191 verses, two in consecutive verses is a deliberate pairing.
+**The comparison concedes that the great income is real.** A collection that had only antithesis could not say this; it would have to make the unjust income fail. **16:8 lets it succeed and still ranks it second** — which is the honest form of the same claim 13:23 made in the first half, and it is the form a congregation can actually use.
 
 ---
 
 ### 6. Narrator's Comment
 
-**N/A** — a sentence collection, not narrative.
+**N/A** — a sentence collection, not narrative; the same reason as the first half, and the same one-line observation: the commenting voice stopped at 10:1 and does not return `[T]`.
 
 ---
 
 ### 7. Vocabulary
 
-#### The formula that changes
+**Proper-noun inventory.** Again **none** — no place, no people, no person, no significant number in 191 verses; only יְהוָה in thirty-five `[T]`. **The collection's one human office, the king, is never given a name.** *Inventory complete; no name-hyperlink findings.*
 
-***tôʿēbâ* in 1B:** 16:5, 16:12 (of *kings*), 17:15, 20:10, 20:23, 21:27. `[T]`
+Six words carry this half, and four of them are new since 15:33.
 
-**The full 1A formula — *tôʿăbat YHWH* … *rəṣônô*, abomination paired with delight — is absent from all 191 verses.** `[T]` *High.* In its place:
+| Term | Where | Range | Usage here | Confidence |
+|---|---|---|---|---|
+| **מֶלֶךְ** ("king") | 12 verses here; 2 in the first half; 31 in the book `[T]` | king · sovereign | **An office, not a person.** His lips carry קֶסֶם (16:10), his fury is like messengers of death (16:14), his face gives life (16:15) — and his heart is water in another hand (21:1) | *High* on the count |
+| **קֶסֶם** ("divination, oracular decision") | 16:10 `[T]` | divination · the practice Deuteronomy forbids | **The startling word of the unit.** On the WLC lemma index it stands in four verses — **Num 22:7** (Balaam's fee), **Num 23:23** ("there is no divination against Israel"), **Deut 18:10** (the prohibition) and **Prov 16:10** `[T]`. *See Open Questions: the index's coverage of the prophets looks thin and the canon-wide count should be checked in Logos. What is not in doubt is the Torah company the word keeps, and that Proverbs puts it on a king's lips* | *High* locally; *the canon-wide count is flagged* |
+| **תכן** ("to weigh, measure out") | 16:2; 21:2; 24:12 — **three in the book** `[T]` | to gauge · to regulate · to measure | The verb of the near-doublet, and its subject is always YHWH. **A mercantile word used of a person's interior** | *High* |
+| **זַךְ / זכה** ("clean, pure" / "to be clean") | 16:2; 20:9; 20:11; 21:8 — **all four in this unit** `[T]` | transparent · unmixed · clear of a charge | Two lemmas, one root. **16:2 says every man's ways are זַךְ in his own eyes; 20:9 asks who can say he has made his heart so** | *High* on the distribution |
+| **גּוֹרָל** ("lot") | 16:33; 18:18 `[T]` | the cast lot; the portion it assigns | **A decision procedure with no human reasoning in it at all** — which is exactly why 16:33 uses it: the one method that removes human judgement is said to be YHWH's | *High* |
+| **מִשְׁפָּט** ("judgement") | 16:8, 10, 11, 33; 17:23; 18:5; 19:28; 21:3, 7, 15 `[T]` | a verdict · justice · what is due | **Ten of the book's twenty occurrences are here** `[T]`. The word belongs to the register this half has moved into | *High* |
 
-> **17:15** *maṣdîq rāšāʿ ûmaršîaʿ ṣaddîq —* **tôʿăbat YHWH gam-šənêhem**
-> **20:10** *ʾeben wāʾeben ʾêpâ wəʾêpâ —* **tôʿăbat YHWH gam-šənêhem**
-> **20:12** *ʾōzen šōmaʿat wəʿayin rōʾâ —* **YHWH ʿāśâ gam-šənêhem**
+**What has gone quiet.** The first half's char.acter vocabulary thins: צַדִּיק from 39 verses to 10, רָשָׁע 39 to 14, and the two meet in one verse 8 times against 41 `[T]`. **The speech cluster alone holds** — 37 verses of 191 (19.4%) against 20.7% `[T]`. *A collection that has stopped sorting people has not stopped listening to them.*
 
-**Four words verbatim at 17:15 and 20:10, and 20:12 turns the formula inside out.** `[T]` Two pairs God abominates; one pair God made. **The same God who cannot abide a doubled weight made the ear and the eye** — and 20:10 and 20:12 stand two verses apart with the child-proverb (20:11) between them.
-
-*The theological point is available without forcing: what God rejects is the doubling that deceives, and what he made is the doubling that perceives.* `[I]` *Moderate.*
-
-#### The self-knowledge vocabulary
-
-| Term | Verses | Note |
-|---|---|---|
-| *bəʿênāyw* ("in his own eyes") | 16:2, 21:2 | The frame — see Headline 3 |
-| *tōkēn* ("weighs, measures") | 16:2, 21:2 | Only two occurrences; both with YHWH |
-| *libbôt* ("hearts", plural) | 17:3, 21:2 | Only two; both with YHWH |
-| *bōḥēn* ("tests") | 17:3 | The refiner's word |
-| *ḥadrê-bāṭen* ("inner chambers") | 18:8, 20:27, 20:30 | **Penetrated by gossip, by God, and by discipline** |
-
-***ḥadrê-bāṭen* deserves the preacher's attention.** `[T]` Three occurrences, and each names something that gets *inside* a man: a whisperer's words go down into them (18:8); the lamp of the LORD searches them (20:27); wounding blows reach them (20:30). **The section's anthropology is that the interior is not private** — which is exactly what 16:2 and 21:2 assert.
-
-#### Proper-noun inventory
-
-**None in 191 verses.** `[T]` No place names, no personal names, no gentilics — and unlike 1A there is not even a superscription. The section is wholly unlocated. *The one quasi-name is the divine name itself, thirty-five times.*
-
-#### Other terms
-
-- ***melek*** — 12 verses (16:10, 12, 13, 14, 15; 19:12; 20:2, 8, 26, 28; 21:1; 22:11). `[T]` Against **two** in the whole of 1A. **The king is a 1B subject.**
-- ***ḥesed*** — 16:6, 19:22, 20:6, 20:28, 21:21. Five occurrences, and note 20:6: *"many a man proclaims his own ḥesed, but a faithful man who can find?"* — covenant loyalty as something men *claim*. `[T]`
-- ***gôrāl*** (the lot) — 16:33, 18:18. Both about decisions taken out of human hands. `[T]`
-- ***ʾādām*** — 11 verses, against *ʾîš* far more often. 20:27 (*"the breath of *ʾādām* is the lamp of YHWH"*) reaches back to the creation vocabulary.
+**Paronomasia check** on the words recurring three or more times: nothing sounds. *No finding, as in the first half.*
 
 ---
 
 ### 8. Translations
 
-#### 21:6 — where the versions diverge on the text
+Five divergences bear on findings.
 
-| | |
-|---|---|
-| **MT (most manuscripts)** | *hebel niddāp **məbaqšê-māwet*** — "a driven vapour, **seekers of death**" |
-| **ESV** | "a fleeting vapour **and a snare of death**" — footnoted: *"Some Hebrew manuscripts, Septuagint, Latin; most Hebrew manuscripts* vapor for those who seek death" |
+| | NASB95 | NIV84 | What turns on it |
+|---|---|---|---|
+| **16:2 ‖ 21:2** | "are **clean** in his own sight… weighs the **motives**" / "is **right** in his own eyes… weighs the **hearts**" | "seem **innocent** to him… **motives** are weighed" / "seem **right** to him… weighs the **heart**" | The Hebrew pair swaps **זַךְ/יָשָׁר** and **רוּחוֹת/לִבּוֹת**. **Both versions keep the doublet recognisable**, and both render רוּחוֹת ("spirits") as "motives", which is a reasonable gloss that **hides the spirit/heart pairing**. *If the sermon makes anything of the pair, say the Hebrew has "spirits" at 16:2 and "hearts" at 21:2* |
+| **16:2** | "**are** clean in his own sight" | "**seem** innocent to him" | The Hebrew is a nominal clause with no verb of seeming. **NASB95 is closer**: the ways *are* clean — in his eyes. NIV84's "seem" supplies the scepticism the Hebrew leaves the second colon to deliver |
+| **16:10** | "A **divine decision** is in the lips of the king" | "The lips of a king speak as an **oracle**" | Hebrew **קֶסֶם**, the word Deuteronomy forbids. **Both versions neutralise it**, and neither is wrong — but the congregation will not hear that the verse uses a banned word. *One sentence recovers it* |
+| **20:24** | "**Man's steps are ordained by the LORD**, How then can man understand his way?" | "A man's steps are **directed by** the LORD. **How then can anyone understand his own way?**" | Both keep the question. **The verse is the half's thesis in one line and neither version obscures it** |
+| **22:6** | "**Train up** a child in the way he should go, Even when he is old he will not depart from it" | "**Train** a child in the way he should go, and when he is old he will not turn from it" *(footnote: "Or Start")* | **NIV84 footnotes the harder reading.** The Hebrew חֲנֹךְ לַנַּעַר עַל־פִּי דַרְכּוֹ is literally "according to **his** way", which some read as *his own bent* rather than *the right way* `[I]`. **The footnote is where the exegetical question lives, and the main text of both versions settles it** |
 
-**A category-2 substantive variant**, and the ESV follows the minority Hebrew with the versions. `[S]` *Moderate.* Nothing doctrinal turns on it, but the sense differs: on the MT the treasures *are* those who seek death; on the ESV reading they *are* a snare. **Read the footnote if the verse is preached.**
+**Pulpit divergence note.** NIV84 costs this half little: it keeps the near-doublet, the planning sentences and the 20:24 question, and it footnotes the 22:6 crux. **Its one loss of substance is 16:10's קֶסֶם**, and its one addition is the "seem" at 16:2. *Neither is a translation verdict; both are places where the congregation will hear a decision already made.*
 
-#### 19:7c — an acknowledged difficulty
+**Ancient versions check.**
 
-The ESV footnotes 19:7's third colon: *"The meaning of the Hebrew sentence is uncertain."* The verse is a tricolon in a collection of bicola — itself a formal anomaly — and its last clause resists construal. **Do not build on it.** `[T]` on the anomaly; `[S]` on the difficulty.
-
-#### 20:30 and 22:11 — two more footnoted cruxes
-
-20:30 (*tamrîq*, hapax-adjacent) and 22:11 (whose syntax the ESV smooths to *"will have the king as his friend"*) both carry uncertainty. Neither bears on any finding here.
-
-#### Ancient versions check
-
-**Trigger met at 16:33**: ESV, NASB and KJV agree — *"The lot is cast into the lap, but its every decision is from the LORD"* — and the rendering carries weight, since it is the section's sharpest statement of divine determination.
-
-**Result: no split.** The versions concur. `[S]` *Moderate — LXX not independently verified.* **The verse is quoted in substance at Acts 1:26**, where the apostles cast lots for Matthias; the connection is one of practice rather than citation.
-
-#### Category 1 — translation loss
-
-Three findings here are features of the Hebrew that no translation carries: **the near-identity of 16:2 and 21:2** (English must vary *"pure"/"right"* and *"spirit"/"heart"*, obscuring that the frame is one sentence twice); **the four-word *tôʿăbat YHWH gam-šənêhem***, which the ESV renders *"both alike an abomination to the LORD"* at 17:15 and 20:10 but *"has made them both"* at 20:12, hiding the formula; and **the five-word identity of 19:5 and 19:9**.
-
-**Pulpit edition note:** pulpit text matches report default.
+- **22:8 — the Greek has a plus and the New Testament quotes it.** After rendering the Hebrew's זוֹרֵעַ עַוְלָה יִקְצוֹר־אָוֶן ("he who sows iniquity will reap trouble"), Swete adds **ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός** ("God blesses a cheerful man and a giver") — with **no Hebrew counterpart** `[T]`, Swete. **2 Cor 9:7** has ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός `[T]`, SBLGNT. **Triage: category 2 for the plus, and category 3 for Paul's use of it.** *The most quoted sentence about Christian giving has its nearest Old Testament ancestor in a Greek expansion of this collection.* See Tool 11. *High confidence on all three wordings.*
+- **16:1–9 — the Greek is not in the Hebrew's order here at all.** Swete's 16:1 carries MT 16:9; Swete's 16:2–4 carry MT 15:30, 15:32 and 15:33; and the material MT places at 16:6–8 stands at Swete 15:27–29 `[T]`, Swete; BHS records the reordering at 16:6ᵃ `[S: BHS]`. **Triage: category 2.** **The block this report calls the densest theological passage in the book is a Masoretic arrangement**, and the Greek distributes the same sentences differently. *High confidence on the placements.*
+- **16:10 — the Greek keeps the oracle.** Swete has μαντεῖον ἐπὶ χείλεσιν βασιλέως ("an oracle on the lips of a king") for קֶסֶם `[T]`, Swete — **the ancient version preserves the divinatory force that both moderns soften.** *A split between the ancient and the modern tradition, and it supports the pulpit note above.* *Moderate-to-high confidence.*
+- **14:12 ‖ 16:25 — as in the first half, the Greek does not repeat itself.** Swete's two renderings differ from each other `[T]`, Swete. **Triage: category 1.** *The doublet is a Hebrew-side feature.*
 
 ---
 
 ### 9. Tone and Feel
 
-**Warmer, more argued, and more directly spoken than 1A.**
+**Calmer, slower, and more spacious than the first half — and the change is audible even in English.**
 
-**The register changes on three measures at once** — imperatives (1 → 11), vocatives (0 → 1), and the return of motive *kî*. `[T]` A reader coming from chapters 10–15, where he has been talked *about* for 184 verses, is addressed in the second person eleven times.
+The metronome of chapters 10–15 stops. What replaces it is a voice that **ranks rather than sorts** (seven "better … than" sayings), **concedes rather than asserts** (16:8 lets the unjust income be great), and **asks questions**, which the first half almost never did: **20:6** אִישׁ אֱמוּנִים מִי יִמְצָא ("a trustworthy man, who can find?"); **20:9** מִי־יֹאמַר זִכִּיתִי לִבִּי ("who can say, 'I have cleansed my heart'?"); **20:24** וְאָדָם מַה־יָּבִין דַּרְכּוֹ ("how then can a man understand his way?") `[T]`.
 
-**And the section can be tender.** 17:17 — *"a friend loves at all times, and a brother is born for adversity."* 18:24 — *"there is a friend who sticks closer than a brother."* 17:6 — *"grandchildren are the crown of the aged, and the glory of children is their fathers."* 18:14 — *"a man's spirit will endure sickness, but a crushed spirit, who can bear?"*
+**Three questions, all in chapter 20, none of them answered.** That is the tonal centre of the half, and it sits four chapters after the divine-name block. **The collection has said who weighs; it now asks who could pass.**
 
-**It can also be very dry.** 18:9 (*"whoever is slack in his work is brother to him who destroys"*); 19:24 and its bowl; 20:14 (*"'Bad, bad,' says the buyer, but when he goes away, then he boasts"*) — a piece of market observation that has not dated at all; 22:13 (*"there is a lion outside!"*).
+The register elsewhere is court and market: a king's face like spring rain (16:15), a lot in the lap (16:33), scales and weights in a bag (16:11), a name better than great riches (22:1). **Where the first half watched a household, this half watches a city.**
 
-**Tonal shift at 16:16.** Chapters 16:1–15 are elevated and formal — God, then the king. From 16:16 the register drops to ordinary life and stays there. `[T]`/`[I]`
-
-**Soundtrack:** an organ voluntary for 16:1–15; then something for strings, conversational, with a wry viola.
+**Soundtrack:** not a metronome. Something with rests in it.
 
 ---
 
 ### 10. Repetition
 
-#### Verbatim repetition
+**(a) Repeated words.** The counts stand in Tool 7 and are not repeated. The most telling single ratio: **מִשְׁפָּט ("judgement") in ten verses here against ten in the whole of the rest of the book** `[T]`.
 
-| Repeated | Verses | Words | Note |
-|---|---|---:|---|
-| *ʿēd šəqārîm lōʾ yinnāqeh wəyāpîaḥ kəzābîm* | 19:5, 19:9 | 5 | **Only the last word differs; *petuchah* at 19:9** |
-| *tôʿăbat YHWH gam-šənêhem* | 17:15, 20:10 | 4 | The 1B formula |
-| *ləʾābîw bēn kəsîl* | 17:25, 19:13 | 3 | The foolish son |
-| *bəʿênāyw wətōkēn* | 16:2, 21:2 | 2 | **The section frame** |
-| *libbôt YHWH* | 17:3, 21:2 | 2 | The middle term |
-| *lipnê šeber* | 16:18, 18:12 | 2 | See below |
-| *yōsîp leqaḥ* | 16:21, 16:23 | 2 | Binds 16:21–23 |
-| *mapərîd ʾallûp* | 16:28, 17:9 | 2 | Chains across the chapter |
-| *nāham kakəpîr* | 19:12, 20:2 | 2 | The king as lion |
-| *mayim ʿămuqqîm* | 18:4, 20:5 | 2 | Deep waters |
-| *ʾak-ləmaḥsôr* | 21:5, 22:16 | 2 | **Closes the collection** |
-| *gam-šənêhem* | 17:15, 20:10, 20:12 | 2 | Three-fold |
-| *ḥadrê-bāṭen* | 18:8, 20:27, 20:30 | 2 | Three-fold |
+**(b) Repeated shapes.** Two, and between them they define the half.
 
-#### 18:12 is a splice, and it is worth seeing
+- **The man/YHWH couplet** — 16:1; 16:9; 16:33; 19:21; 20:24; 21:1; 21:30–31 `[T]`. *Seven sentences, one shape.*
+- **The comparative** — eight verses opening טוֹב `[T]`.
 
-> **15:33b** *(1A, the last verse of the preceding collection)* — **wəlipnê kābôd ʿănāwâ**
-> **16:18a** — **lipnê šeber** gāʾôn
-> **18:12** — **lipnê šeber** yigbah lēb-ʾîš **wəlipnê kābôd ʿănāwâ**
+**(c) Repeated sentences.** All verified consonantally against the WLC with maqqef, paseq and sof pasuq normalised.
 
-**18:12's first colon takes 16:18's opening verbatim; its second colon takes 15:33's closing verbatim.** `[T]` *High on the data; moderate–high that the splice is deliberate.* One verse, assembled from the last line of the previous collection and the eighteenth verse of this one.
+| Repeat | What recurs | Note |
+|---|---|---|
+| **16:25 = 14:12** | The whole verse, exactly | **Across the seam**, and it re-poses the first half's problem inside the second half's answer |
+| **19:5 ‖ 19:9** | עֵד שְׁקָרִים לֹא יִנָּקֶה וְיָפִיחַ כְּזָבִים… | **Four verses apart**, identical but for the last word; and **the scribe's paragraph break falls at 19:9** |
+| **16:2 ‖ 21:2** | כָּל־דַּרְכֵי־אִישׁ … בְּעֵינָיו וְתֹכֵן … יְהוָה | Two words changed; see Parallels |
+| **16:5 ‖ 11:21** | יָד לְיָד לֹא יִנָּקֶה ("assuredly, he will not go unpunished") | Across the seam |
+| **17:15 ‖ 20:10** | תּוֹעֲבַת יְהוָה גַּם־שְׁנֵיהֶם ("both alike are an abomination to the LORD") | Within the half |
+| **18:8 = 26:22** | דִּבְרֵי נִרְגָּן כְּמִתְלַהֲמִים ("the words of a whisperer are like dainty morsels") | **Exact**, and with 25–29 |
+| **19:1 ‖ 28:6** · **20:16 ‖ 27:13** · **21:9 ‖ 25:24** · **17:3 ‖ 27:21** · **19:24 ‖ 26:15** | Whole verses or long strings | **All with 25–29** |
 
-**And 22:4 completes the chain**: *"the reward for **humility** and the **fear of the LORD** is riches and **honour** and life."* All three of 15:33's terms — *ʿănāwâ*, *yirʾat YHWH*, *kābôd* — reappear together, near the close of the section. `[T]`
-
-**So the pride/humility complex runs 15:33 → 16:18 → 18:12 → 22:4**, spanning the whole of 1B and reaching back into 1A. *This is not in the sweep or the overview.*
-
-#### Ideas repeated
-
-- **Divine determination** — 16:1, 2, 3, 4, 9, 33; 19:21; 20:24; 21:1, 2, 30, 31. **Twelve verses**, and the sweep is right that this is the section's strongest thematic finding. `[T]` *High.* What this run adds is that they are **framed**: 16:1–9 opens the sequence and 21:30–31 closes it, and both closing verses stand at or beside the *petuchah*.
-- **The king** — 12 verses, against 2 in the whole of 1A.
-- **Weights and measures** — 16:11, 20:10, 20:23. Three of the book's four; the fourth is 11:1 in 1A. `[T]`
-- **Speech** — still constant, but no longer dominant as it was in 1A.
+**And here is the countable result.** Taking whole-verse doublets at a threshold of 70% shared vocabulary across the book `[T]`, WLC: **the Hezekiah collection shares four with this half — 18:8/26:22, 19:1/28:6, 20:16/27:13, 21:9/25:24 — and none at all with the first half.** *The measure is threshold-dependent and at phrase level the first half does touch 25–29 (12:11 ‖ 28:19; 19:24 is in this half). Stated as what it is: on this measure, four against zero.* **Whatever relation 25–29 has to Solomon I, it runs through the second half.** *Moderate-to-high confidence; the figure is reproducible in one command.*
 
 ---
 
 ### 11. Quotation/Allusion
 
-**Live sources**, from the sweep: Genesis 1–3, Deuteronomy, Job, Psalms, the Solomon tradition, the Egyptian instruction tradition. **Standing negative finding:** no formula citations; the argument runs on internal repetition.
+**Live sources** `[S: overview]` as before; **Proverbs contains no citation formula** `[T]`, so Move 4 again carries most of the weight. **But this half has the book's clearest outward link, and it runs through the Greek.**
 
----
+**Proverbs 22:8 (Greek plus) → 2 Corinthians 9:7** *(high confidence on the wordings; the relation is the finding)*
 
-**Deuteronomy 25:13–16 / Leviticus 19:35–36 → Proverbs 20:10, 20:23 (with 16:11)** *(high confidence — verdict-word transfer, sustained)* `[T]`/`[S: sweep]`
+*Source context:* Prov 22:8's Hebrew is a harvest saying — **זוֹרֵעַ עַוְלָה יִקְצוֹר־אָוֶן** ("he who sows iniquity will reap trouble") — nine verses from the end of the collection, in a run about wealth, poverty and the poor (22:2, 7, 9, 16). **Swete renders that and then adds a second sentence with no Hebrew behind it**: ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός ("God blesses a cheerful man and giver") `[T]`, Swete. *In the Greek the verse's second half is about generosity; in the Hebrew it is not.*
 
-*Source context.* Deuteronomy's last case-law before the firstfruits liturgy: *"You shall not have in your bag two kinds of weights, a large and a small… A full and fair weight you shall have… For all who do such things, all who act dishonestly, are an **abomination** to the LORD your God."* Leviticus 19:35–36 legislates the same in the Holiness Code, grounding it in the exodus: *"I am the LORD your God, who brought you out of the land of Egypt."*
+*Book usage:* Paul quotes Proverbs rarely and by sense — Rom 12:20 takes Prov 25:21–22 `[S]`. **2 Cor 9:7's ἱλαρὸν … δότην … ὁ θεός is the closest verbal match to Proverbs anywhere in his letters**, and the verb differs (ἀγαπᾷ for εὐλογεῖ) while the three nouns do not.
 
-*Book usage — and this is where 1B contributes.* The weights-sayings are the most frequently revisited legal text in Proverbs, and **three of the four are in this section**: 16:11 (*"a just balance and scales are the LORD's; all the weights in the bag are his work"*), 20:10, 20:23. The fourth, 11:1, opened the *tôʿēbâ* spine in 1A. `[T]` **16:11 does something the others do not: it makes the weights God's *property and work*, not merely his concern.** *"A just balance and scales are the LORD's"* — and it stands, deliberately, in the middle of the king-block (16:10–15).
+*OT-to-OT:* the surrounding Hebrew verses are themselves Deuteronomic in register — 22:9's giving of bread to the poor, 22:16's oppression of the poor `[T]` — so the Greek's addition extends a theme the Hebrew context already carries. **The plus is not foreign to its neighbourhood; it is an expansion of it.** *Moderate confidence on that reading.*
 
-*OT-to-OT.* Deut 25, Lev 19 and Amos 8:5 (*"making the ephah small and the shekel great"*) are already in canonical conversation — the prophets prosecuting what the law legislates. Proverbs joins them.
+*What it adds:* **a preacher's fact worth knowing and worth saying.** The sentence congregations hear every stewardship Sunday has, behind it, a Greek expansion of a Hebrew harvest proverb — and **the Hebrew of 22:8 says nothing about cheerfulness or giving at all.** *Triage: category 2 for the plus, category 3 for Paul's use. The apostolic sentence stands; the claim "Proverbs says God loves a cheerful giver" does not.*
 
-*What it adds.* **The placement of 16:11 is the finding.** In a six-verse block otherwise entirely about the king, one verse says the scales belong to the LORD. `[I]` *Moderate–high.* The king judges (16:10), abominates evil (16:12), delights in righteous lips (16:13), kills and spares (16:14–15) — **and the standard by which trade is measured is not his.** That is a limit on royal authority placed inside the royal block, and it is the same argument 16:1–9 makes at cosmic scale.
+**Deuteronomy 25:13–16 → Prov 16:11; 20:10; 20:23** *(high confidence)*
 
----
+*Source context:* as in the first half — the covenant's case law on weights, closing with the תּוֹעֵבָה category `[T]`.
 
-**Genesis 2:7 → Proverbs 20:27** *(moderate confidence — conceptual, carried by *nišmat ʾādām*)* `[I]`
+*Book usage:* **Proverbs returns to the weights four times, and three of the four are in this half**: 11:1 in the first, then **16:11** (a just balance and scales **belong to YHWH**), **20:10** and **20:23** (differing weights, תּוֹעֲבַת יְהוָה) `[T]`. **20:10 carries Deuteronomy's doubled-noun idiom outright** — אֶבֶן וָאֶבֶן אֵיפָה וְאֵיפָה `[S: overview, confirmed]`.
 
-*Source context.* Genesis 2:7: *"the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life (**nišmat ḥayyîm**), and the man became a living creature."* The *nəšāmâ* is what God puts into the man at creation.
+*What it adds:* the first half said a false balance *is* an abomination; **16:11 goes further and says the true one belongs to YHWH — פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט לַיהוָה, "a just balance and scales are the LORD's"** `[T]`. *The instrument of measurement is assigned to him, which is the same move the half makes with weighing at 16:2 and 21:2. A merchant's scales and a man's spirit are weighed by the same person.* **That convergence is this half's own contribution to the theme.**
 
-*What it adds.* Proverbs 20:27 reads *nēr YHWH nišmat ʾādām* — *"the lamp of the LORD is the breath of man, searching all the inner chambers."* **The thing God breathed in is the thing by which he now searches.** `[I]` *Moderate — the lexical link is real (*nəšāmâ* + *ʾādām*), the conceptual move is mine.* It fits the section's self-knowledge frame exactly: a man cannot weigh his own spirit (16:2, 21:2) because the searching light is not his own.
+**Numbers 22–23 / Deuteronomy 18 → Prov 16:10** *(moderate confidence — one word)*
 
-*Move 2.* *nəšāmâ* appears nowhere else in Proverbs. `[T]` A single occurrence, at the theological centre of the section's anthropology.
+*Source context:* **Num 22:7**, the elders of Moab and Midian go to Balaam with קְסָמִים ("fees for divination") in their hand; **Num 23:23**, Balaam declares there is no קֶסֶם against Israel; **Deut 18:10**, no one in Israel is to be found practising it `[T]`.
 
----
+*What it adds:* **Proverbs puts the word on the lips of Israel's king, positively** — קֶסֶם עַל־שִׂפְתֵי־מֶלֶךְ ("a divine decision is on the lips of a king") `[T]`. *The link is carried by one word and must not be over-pressed; but the word's Torah company is a foreign seer's fee and a capital prohibition, and 16:10's second colon immediately constrains it — בְּמִשְׁפָּט לֹא יִמְעַל־פִּיו ("his mouth must not act treacherously in judgement").* **The verse grants the king an oracular authority and fences it in the same breath.** *Moderate confidence; routed to Open Questions for the canon-wide count.*
 
-#### Forward: the New Testament's use of this unit
+**Internal echoes (Move 4)** — the book's opening material held open throughout.
 
-- **Proverbs 16:33 → Acts 1:26** *(moderate)*. The apostles cast lots for Matthias — the last recorded use of the practice in Scripture, and the verse that explains it.
-- **Proverbs 17:15 → Romans 4:5** *(high on the tension; the NT does not cite it)*. *"He who justifies the wicked… is an abomination to the LORD"* against *"him who justifies the ungodly."* **The sharpest doctrinal tension in the book.** See Christological Reading.
-- **Proverbs 20:9 → 1 Kings 8:46, Romans 3:23** *(moderate)*. *"Who can say, 'I have made my heart pure'?"* — the question the New Testament answers in the negative and then re-answers in Christ.
-- **Proverbs 22:8–8a (LXX) → 2 Corinthians 9:6–7** *(high — ✅ verified 20 August)*. **The Greek carries an entire additional line the Hebrew does not have, and Paul uses it.** See the dedicated entry below.
-
----
-
----
-
-**Proverbs 22:8–8a (LXX) → 2 Corinthians 9:6–7** *(high; verified 20 August)* `[S]` on the Greek; `[T]` on the Hebrew's silence
-
-**This is the clearest category-3 case in the whole project — a New Testament argument resting on a line that is not in the Hebrew Bible at all.**
-
-*The Greek.* LXX Proverbs 22:8 runs to **two** verses where the Hebrew has one:
-
-> **22:8** ὁ **σπείρων** φαῦλα **θερίσει** κακά, πληγὴν **δὲ ἔργων αὐτοῦ συντελέσει**.
-> *He who sows worthless things will reap evils, and he will complete the blow of his works.*
->
-> **22:8a** ἄνδρα **ἱλαρὸν** καὶ **δότην** εὐλογεῖ **ὁ θεός**, ματαιότητα **δὲ ἔργων αὐτοῦ συντελέσει**.
-> *God blesses a cheerful man and a giver, and he will complete the vanity of his works.*
-
-*Paul.* **2 Corinthians 9:6–7** takes both cola, in order:
-
-> **9:6** ὁ **σπείρων** φειδομένως φειδομένως καὶ **θερίσει**… *He who sows sparingly will also reap sparingly…*
-> **9:7** **ἱλαρὸν** γὰρ **δότην** ἀγαπᾷ **ὁ θεός**. *For God loves a cheerful giver.*
-
-*What is Hebrew and what is not — the distinction that matters.* `[T]`
-
-- **The sowing-and-reaping half is in the Hebrew.** MT 22:8 reads *zôrēaʿ ʿawlâ yiqṣôr-ʾāwen*, "he who sows injustice reaps trouble." So 2 Cor 9:6 has a Hebrew home — *though the sowing/reaping topos is widespread (Gal 6:7–8; Job 4:8; Hos 8:7), so the specific link is* moderate*, and it is the **adjacency** that is suggestive: Paul has the two motifs in consecutive verses and Greek Proverbs has them in consecutive lines.*
-- **The cheerful giver is not in the Hebrew.** `[T]` There is no *ʾîš*, no cheerfulness, no giver and no blessing anywhere in MT 22:8. **2 Corinthians 9:7 has no Hebrew source.**
-
-*One precision the commentaries mostly pass over.* **Paul changes the verb.** The LXX has **εὐλογεῖ**, "blesses"; Paul has **ἀγαπᾷ**, "loves". `[T]` Three words are shared verbatim — ἱλαρόν, δότην, ὁ θεός — and the fourth is altered. **So this is close adaptation, not formula quotation**, and a sermon should say "Paul is drawing on" rather than "Paul quotes".
-
-*And the Greek line is built by symmetry.* Both 22:8 and 22:8a close with the identical four-word colon, **δὲ ἔργων αὐτοῦ συντελέσει**. `[T]` **22:8a is a mirror-verse, constructed on 22:8's own B-colon frame** — which is how the Greek edition of Proverbs characteristically expands. `[S: the book-level note on Tov and Cook.]` *Whether any of the Greek pluses reflect a lost Hebrew* Vorlage *is a live scholarly question and is not settled here.*
-
-*Attestation.* `[S]` **Kruse** (TNTC, 217): Paul "draws upon a rendering of Proverbs 22:8a found in the LXX (but not in the MT upon which English translations are based)." **Keener** (IVP Background, 514): the line is "from an addition to Proverbs 22:8 in the Septuagint," and notes that ἱλαρός "often applied in Jewish texts to gifts for the poor." **Martin** (Cornerstone, 339) adds **Proverbs 11:25 LXX** as the positive counterpart — *"every generous soul receives blessing"* — and **Sirach 35:11**, *"with every gift put on a cheerful face."*
-
-*What it adds for the preacher.* **The most quoted verse in Christian teaching on giving is a verse of Greek Proverbs.** That is worth saying plainly rather than concealing: it shows the apostles reading their Bible in Greek and reasoning from it, and it is a clean, non-threatening example of how the New Testament uses the Septuagint. **And it sharpens the exegesis of 22:8 itself**: the Hebrew verse is a warning about sowing injustice, and the Greek edition has supplied its positive twin.
-
----
-
-#### Move 4 — Internal echo check
-
-**Within the section** (all `[T]`):
-
-| Echo | Direction |
-|---|---|
-| **16:2 ∥ 21:2** — *bəʿênāyw wətōkēn* | **section frame** |
-| 17:3 ∥ 21:2 — *libbôt YHWH* | middle term |
-| 19:5 ∥ 19:9 — five words | unit frame, on the *petuchah* |
-| 17:15 ∥ 20:10 ∥ 20:12 — *gam-šənêhem* | the 1B formula |
-| 16:18 ∥ 18:12 — *lipnê šeber* | pride complex |
-| 16:28 ∥ 17:9 — *mapərîd ʾallûp* | chains the chapters |
-| 21:5 ∥ 22:16 — *ʾak-ləmaḥsôr* | closes the collection |
-| 18:10 ∥ 18:11 — two fortresses | deliberate juxtaposition |
-
-**Answers, backward into the book:**
-
-- **14:12 → 16:25, verbatim.** `[T]` *High.* **The verse that broke 1A's confidence is replanted in 1B**, now surrounded by divine sovereignty rather than moral contrast. This is the single clearest link between the two collections and it is the answer to the Positional Necessity question.
-- **15:33 → 18:12, verbatim colon; and → 22:4, all three terms.** `[T]` See Tool 10.
-- **10:15 → 18:11.** *"A rich man's wealth is his strong city"* — completed here *"and like a high wall **in his imagination**."* `[T]` *High.* **The second occurrence corrects the first**, and 18:10 supplies the true fortress one verse earlier.
-- **11:1 → 16:11; 20:10; 20:23.** The weights thread. `[T]`
-- **1:7 / 9:10 / 15:33 → 22:4.** The motto restated in the section's last movement. `[T]`
-- **6:1–5; 11:15 → 17:18; 20:16; 22:26–27.** Surety, four times. `[T]`
-- **20:16 ∥ 27:13** — the same saying, forward into Solomon 2A. `[T]`
-
-**Planted, forward:**
-
-- **21:9 and 21:19 → 25:24.** The quarrelsome wife; 25:24 repeats 21:9 nearly verbatim. `[T]`
-- **22:3 → 27:12**, verbatim. `[T]`
-- **19:24 → 26:15.** The sluggard's bowl. `[T]`
-- **17:3 → 27:21.** The crucible saying, with the subject changed — *"the LORD tests hearts"* becomes *"a man is tested by his praise."* `[T]` *High, and one of the project's better cross-collection findings — see the 2A report.*
+- `Internal:` **14:12 → 16:25** — *answers §earlier*, and it is the hinge of the whole sermon unit. The verse the first half could not resolve is reprinted inside the half that names the one who weighs `[T]`. *High confidence.*
+- `Internal:` **3:7 → 16:2; 21:2** — *answers §earlier*. The frame's prohibition (*do not be wise in your own eyes*) is answered by two near-identical descriptions of a man who is, **and both give the second colon to YHWH** `[T]`. **The series' spine reaches its densest point here.** *High confidence.*
+- `Internal:` **16:2 → 20:9** — *within the half*, and by root. זַךְ ("clean") at 16:2, 20:11 and 21:8; זִכִּיתִי ("I have cleansed") at 20:9 — **two lemmas, one root, all four occurrences inside this unit** `[T]`. **The question at 20:9 is asked in the vocabulary of the claim at 16:2.** *High confidence on the distribution; the connection is stated at root level, not lemma level.*
+- `Internal:` **1:7 / 9:10 / 15:33 → 22:4** — *answers §earlier*. יִרְאַת יְהוָה stands at 22:4, the last of the motto's occurrences before the collection ends `[T]`. *Moderate-to-high.*
+- `Internal:` **10:11; 13:14; 14:27 → 16:22** — *answers §earlier*. מְקוֹר חַיִּים ("a fountain of life") arrives at its fourth and last Proverbs subject: **שֵׂכֶל ("understanding")** `[T]`. *High confidence.*
+- `Internal:` **9:1; 14:1 → 24:3** — *planted for later*. בנה + בַּיִת continues past this collection `[T]`. *Noted, not developed here.*
+- `Internal:` **1:8 and the vocative → 19:27** — *answers §earlier*, and it is a genuine oddity. בְּנִי ("my son") occurs **once in the whole of 10:1–22:16, at 19:27** — and the verse is an imperative: חֲדַל־בְּנִי לִשְׁמֹעַ מוּסָר ("cease listening to instruction, my son…") `[T]`. **The collection's only address to a son tells him to stop listening** — ironically, the sense being that to stop is to stray. *Moderate confidence on the irony; high on the distribution.*
+- `Internal:` **20:6 → 31:10** — *planted for later*. אִישׁ אֱמוּנִים **מִי יִמְצָא** ("a faithful man, who can find?") and אֵשֶׁת־חַיִל **מִי יִמְצָא** ("an excellent wife, who can find?") — **the same interrogative shape, of a man here and of a woman at the book's end** `[T]`. *High confidence on the wording; the pairing is the overview's* `[S: overview]` *and is confirmed here.*
 
 ---
 
 ### 12. Genre
 
-Hebrew wisdom literature; the **sentence collection** — but a markedly different specimen from 1A.
+**Wisdom — the sentence collection, as in the first half, but the dominant sub-form has changed.** Antithetical parallelism gives way to **two other shapes**: the man/YHWH couplet and the comparative "better … than". The reading rules of the first half all still apply — the unit of meaning is the verse; a מָשָׁל is a generalisation; consecutive proverbs are not consecutive steps `[S: first-half dig]` — and **one rule needs adding**:
 
-**Two features change the reading rules.**
-
-**First, the dominant form is accumulation rather than opposition.** Synonymous and synthetic parallelism account for 61% of sayings here against 16% in 1A. `[T]` **A synonymous bicolon does not hand the preacher two points**; it says one thing twice for weight. The unit of preaching is therefore the cluster.
-
-**Second, the collection contains admonition.** Eleven imperatives and a vocative mean this is not purely a sentence collection: it has patches of *instruction* embedded in it. `[T]` The clusters at 19:18–27 and 20:13–22 read like the frame material of chapters 1–9 shrunk to single verses.
-
-**And 16:25 repeats 14:12 verbatim**, which is the book teaching its own genre from a second angle: a proverb bears repeating in a new setting, and the setting changes what it does.
+**A comparative is not a promise and not an antithesis.** *"Better a little with righteousness than great income with injustice"* (16:8) **does not say the unjust income will fail.** It says it is worth less. **Preaching a comparative as though it were an antithesis is the genre error specific to this half**, and it produces sermons that promise outcomes the verse deliberately declined to promise.
 
 ---
 
 ### 13. Copycat
 
-**Largely N/A** for the sentence material — character-types, not narrative characters.
-
-**But less N/A than in 1A**, because eleven verses issue direct commands. These *are* prescriptive, and they are prescriptive as proverbs — generally, with judgement. **The one that most needs the qualification is 19:18** (*"discipline your son, for there is hope"*), and the text supplies the limit in the same verse: *"do not set your heart on putting him to death."* `[T]` See Difficult Verses.
-
-**The copycat question specific to this section:** the imperatives invite a reader to treat the collection as a rule-book, and the frame (16:2, 21:2) forbids exactly that confidence. **Do what it says; do not conclude that doing it has settled your case.**
+**Largely N/A** — no narrative characters. **One addition to the first half's note.** This half introduces a figure who *is* a person and not a type: **the king** `[T]`. He is nevertheless not offered for imitation — the reader is not a king — and **the verses about him are addressed to someone who has to live near him** (16:14, appeasing his fury; 22:11, the one he befriends). *The posture the collection teaches toward the king is caution and the posture it teaches toward YHWH is trust, and 21:1 is where the two meet.*
 
 ---
 
 ### 14. Bible Timeline
 
-**Where the passage sits.** Within the Solomonic collection; no superscription of its own. `[T]` on the absence; the reconstruction behind the collection's attribution is `[S]`.
+**Where the passage sits:** the Solomon tradition, under the superscription at 10:1 `[T]`; who compiled it and when the book does not say `[S]`.
 
-**Where the reader sits.** This side of cross, resurrection and ascension.
+**Canonical position:** Ketuvim, after Psalms and Job `[T]`. **The Job neighbourhood matters here more than in the first half**, because this half's thesis — a man's steps are from YHWH and he cannot understand his own way (20:24) — is the proposition Job's whirlwind makes at length `[I]`, *moderate-to-high*.
 
-**What has happened in between.**
+**Where the reader sits:** this side of the cross. Two things have happened since that bear directly.
 
-1. **17:15 has been answered — and the answer is scandalous.** *"He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD."* Romans 4:5: God *"justifies the ungodly."* **The one thing this verse calls an abomination is the thing the gospel says God does.** The resolution is not that Proverbs was wrong but that the cross is how God does it without ceasing to be just (Rom 3:25–26) — and Romans says so in almost these terms. **This is the section's road to the gospel and it should not be smoothed.**
-2. **20:9 has been answered twice.** *"Who can say, 'I have made my heart pure'?"* — nobody (Rom 3:23); and yet *"you were washed, you were sanctified, you were justified"* (1 Cor 6:11).
-3. **The searching lamp has a name.** 20:27 and Hebrews 4:12–13: *"no creature is hidden from his sight."*
+- **20:9's question has an answer.** *Who can say, "I have cleansed my heart, I am pure from my sin"?* — and the New Testament's reply uses the vocabulary of cleansing: **τὸ αἷμα Ἰησοῦ … καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας** ("the blood of Jesus … cleanses us from all sin", 1 Jn 1:7) `[T]`, SBLGNT. **The question stands in Proverbs unanswered and is answered elsewhere in the same terms.** *High confidence on the verbal register; the link is thematic, not a citation.*
+- **The king's heart in another's hand (21:1) becomes a statement about all authority** (Jn 19:11; Rom 13:1) `[S]`.
 
-**And one guard.** The section's material on wealth (16:8, 19:1, 22:1–2, 22:16) is easily flattened into either prosperity or asceticism. **The controls are internal**: 16:8 and 16:19 are "better-than" sayings, not promises.
+**How that reframes the reading:** the half's central claim — that the verdict is not the man's to give — is not softened by the gospel but **relocated**: the one who weighs is the one who cleanses. *Neither half of that may be dropped.*
 
 ---
 
 ### 15. Who Am I?
 
-**The default identification is the addressee — and for the first time since chapter 9 the text says so.** 19:27's *bənî* places the reader as a son under instruction. `[T]`
+**Still no one to be** — and the first half's observation holds: the reader is invited to find himself described `[T]`. **Two things this half adds.**
 
-| Figure | Function |
-|---|---|
-| The man whose ways are pure **in his own eyes** (16:2, 21:2) | **The reader** — and the frame's whole point is that this is his default condition |
-| The king (12 verses) | **Not the reader.** The environment he must navigate — and himself under a higher standard (16:11) |
-| The scoffer, the sluggard, the whisperer, the quarrelsome wife | Warnings, as elsewhere |
-| The friend who sticks closer than a brother (18:24) | A relationship to *seek*, and — see Christological Reading — one the NT names |
-| **The LORD** | The section's true subject: he weighs (16:2), tests (17:3), establishes (16:9), determines the lot (16:33), searches (20:27) and cannot be out-counselled (21:30) |
+**The reader is now explicitly the one who cannot know.** 20:24's question — *how then can a man understand his own way?* — is the only place in the collection where the reader's own incapacity is stated as a question rather than implied `[T]`. **That is an identification, and it is unflattering.**
 
-**Where "Moses-is-me" error enters:** through the imperatives. A reader who takes the eleven commands as a programme has read 1B as a manual and skipped its frame.
+**And the preacher, again, is not the voice.** The one figure with authority to pronounce is the king, and the collection tells the reader how to live *near* him, not how to be him. *The sermon's posture follows: this is a text preached from underneath, not from the bench.*
 
 ---
 
 ### 16. So What?
 
-**Stage 1 — the response the author seeks.** To act wisely *and* to stop trying to certify the action. The section commends prudence relentlessly and then says the verdict is not the actor's to give.
+**Stage 1 — the response the author seeks.** Not a decision and not a technique. **The sought response is a relocation of confidence**: from the reader's own reading of his road to the one who weighs spirits and directs steps. The collection does not argue for it; it says it seven times in one shape and asks three unanswerable questions.
 
-**Stage 2 — worldview, behaviour, motive.**
+**Stage 2 — worldview, behaviour, motivation.**
 
-| Domain | Content |
+| Domain | Application |
 |---|---|
-| **Worldview** | I cannot see myself accurately (16:2, 21:2), cannot cleanse my own heart (20:9), cannot understand my own steps (20:24), and cannot bring counsel that prevails against God (21:30). **And none of that is an excuse for inaction** — the same section issues eleven commands. |
-| **Behaviour — stop** | Repaying evil (20:22). Associating with a babbler (20:19). Loving sleep (20:13). Answering before hearing (18:13). Meddling in a quarrel (17:14 — quit before it breaks out). Proclaiming your own *ḥesed* (20:6). |
-| **Behaviour — start** | **Commit your work to the LORD** (16:3) — the first imperative and the section's answer to its own frame. Discipline your son, within the limit (19:18). Listen to counsel (19:20). Train the child (22:6). Drive out the scoffer (22:10). |
-| **Motive** | The *kî*-clauses: *because* a throne is established by righteousness (16:12); *because* he shares his bread with the poor (22:9); *because* the LORD will plead their cause (22:23). **And beneath them, the frame:** what you cannot weigh, he weighs. |
+| **Worldview** | **Planning is right and its outcome is not mine.** 16:1, 16:9 and 19:21 all leave the planning in place — none says "do not plan" — and all move the verdict. *A theology with only the first colon produces anxiety; with only the second, passivity* |
+| **Behaviour — start** | Committing work rather than only doing it (16:3); ranking goods rather than only sorting people (the eight "better" sayings); and the specific discipline of 20:24 — asking, of a settled judgement about one's own life, *how would I know?* |
+| **Behaviour — stop** | Treating one's own sense of being in the right as evidence. **16:2 and 21:2 say it is not**, and 20:9 asks the question that closes the exit |
+| **Motivation** | Not fear of being caught out but **the fact that the weighing is done by someone competent to do it**. 21:1 is the pastoral form of this: even the king's heart is water in that hand |
 
 **Four audiences.**
 
-| Audience | What this section says |
-|---|---|
-| **For me** | 16:2 and 21:2 are about me, twice. The right response to a collection that commends prudence is not confidence in my prudence. |
-| **For a Christian friend** | 17:17 and 18:24 — the friend who loves at all times and sticks closer than a brother. And 18:13: hear before you answer. |
-| **For the church** | 18:10–11. The congregation that has quietly relocated its security from the name of the LORD to its resources has moved from v.10 to v.11 without noticing, and v.11 says the wall is imaginary. |
-| **For an unbeliever** | 20:9. The question has never been answered in the affirmative by anyone, and the gospel's claim is that it does not have to be. |
+- **For me:** 16:2 describes my default state accurately, and 20:9 is the question I cannot answer about myself.
+- **For a Christian friend:** for anyone paralysed about a decision, the man/YHWH couplet is the shape to show them — **the planning is theirs and the outcome is not**, and both halves of that are relief.
+- **For the church:** a congregation formed by this half will be slower to pronounce on each other, because the collection has just removed the bench from under everybody.
+- **For an unbeliever:** 20:24's question is one anyone can feel — *how would you know your own road?* — and the collection asks it without the least suggestion that the questioner is being got at.
 
-**Prayer in response.**
-
-- *Sorry* that my ways are pure in my own eyes, and that I had not noticed.
-- *Thank you* that the one who weighs the heart is the one who justifies the ungodly.
-- *Please* let me commit this work to you rather than certify it myself (16:3).
-- *Mercy* on those who have built on the wall of 18:11.
+**Prayer in response.** Thanks that the weighing is done by someone who can do it. Sorry for the verdicts I have passed, on myself and others, on the evidence of my own eyes. Please make 16:3 a habit and 20:9 a question I let stand until it is answered from outside.
 
 ---
 
@@ -568,389 +383,212 @@ Hebrew wisdom literature; the **sentence collection** — but a markedly differe
 
 ### Original Language Observations
 
-#### Key terms
+**Key terms** — the six in Tool 7 stand. Three further observations.
 
-| Term | Form | Range | Usage here | Confidence |
-|---|---|---|---|---|
-| *tōkēn* | Qal ptc., 16:2; 21:2 | measure, weigh, gauge | Only two occurrences; both of YHWH assessing a man | *High* |
-| *bōḥēn* | Qal ptc., 17:3 | test, assay (metallurgical) | The refiner's word applied to hearts | *High* |
-| *gam-šənêhem* | 17:15; 20:10; 20:12 | "both of them alike" | The 1B abomination-formula, inverted at 20:12 | *High* |
-| *ḥadrê-bāṭen* | 18:8; 20:27; 20:30 | "chambers of the belly" — the interior | Penetrated by gossip, God, and discipline | *High* |
-| *nəšāmâ* | 20:27 | breath (of life) | **Only occurrence in Proverbs**; Gen 2:7's word | *Moderate–high* |
-| *ʿănāwâ / kābôd / gāʾôn* | 15:33; 16:18, 19; 18:12; 22:4 | humility / honour / pride | The complex spanning 1A's close and 1B | *High* |
-| *ʾak-ləmaḥsôr* | 21:5; 22:16 | "only to want" | Closes the collection | *High* |
-| *ʾap kî* | 17:7; 19:7, 10; 21:27 | "how much more" | The *a fortiori* connector, four times | *High* |
+| Feature | Where | What it does | Confidence |
+|---|---|---|---|
+| **מִן + יְהוָה** ("from the LORD") | 16:1; 16:33; 18:22; 19:14; 20:24 — **five of the book's eight** `[T]` | **A preposition carrying the theology.** The second colon does not say YHWH *acts*; it says the thing *comes from him*. Source rather than agency, and the difference is audible in Hebrew | *High* |
+| **עֹשֵׂהוּ** ("his Maker") | 14:31; 17:5 — with **22:2**'s עֹשֵׂה כֻלָּם יְהוָה ("the LORD is the Maker of them all") `[T]` | **A participle used as a title**, and the only one the collection gives God besides the name itself | *High* |
+| **The nominal clause again** | 16:2; 16:11; 21:2; 22:1 | As in the first half: **identity asserted without a verb.** פֶּלֶס וּמֹאזְנֵי מִשְׁפָּט לַיהוָה — "a just balance and scales *are* the LORD's" — has no verb in the Hebrew at all | *High* |
 
-#### Grammatical and syntactical features
+**Grammatical and syntactical features.**
 
-- **Eleven imperatives and one vocative** in 191 verses, against one and none in 1A. `[T]` The single most significant syntactic difference between the collections.
-- ***ʾap kî* as a reasoning device.** In a collection with few antitheses, the *a fortiori* carries argumentative weight the two-column form used to carry. `[I]` *Moderate–high.*
-- **19:7 is a tricolon** in a collection of bicola — a formal anomaly, and its third colon is the verse the ESV footnotes as uncertain. `[T]`
-- **21:30's threefold negation** — *ʾên ḥokmâ wəʾên təbûnâ wəʾên ʿēṣâ* — is the section's most emphatic construction, and it stands immediately before a *petuchah*. `[T]`
+- **The interrogative returns.** Three questions in chapter 20 — 20:6, 20:9, 20:24 — where the first half had almost none `[T]`. **A question is a different speech-act from a maxim**, and this collection uses it at exactly the point where its own claim about weighing becomes personal.
+- **One imperative is worth noting**: 16:3 גֹּל אֶל־יְהוָה מַעֲשֶׂיךָ ("commit your works to the LORD") `[T]` — an addressed command inside a collection with no addressee, and it stands in the divine-name block.
+- **19:27's vocative** is the only בְּנִי in the whole of 10:1–22:16 `[T]`, and it carries an imperative too.
 
-#### Wordplay
+**Wordplay and sound.** The paronomasia check returns nothing, as in the first half. **The collection's device is again formulaic rather than phonetic** — a fixed sentence-shape reused with new content, which is what the man/YHWH couplet is.
 
-No paronomasia claims are made; none clears the corroboration test. The *tōkēn*/*bōḥēn* pairing (16:2, 21:2 / 17:3) is semantic, not phonetic.
-
-#### Recommended verification
-
-BDB/HALOT on *tamrîq* (20:30) and the syntax of 22:11. NETS for the LXX at 21:6 and — importantly — at **22:8**, where the Greek plus is quoted at 2 Cor 9:7.
-
----
+**Recommended verification:** the canon-wide distribution of קֶסֶם (Tool 7 and Open Questions), and the semantic weight of תכן ("to weigh") — whether the mercantile sense is live at 16:2 or has become a dead metaphor. HALOT or NIDOTTE.
 
 ### Textual Variants
 
-Category 2 only.
+**Category 2 items only.**
 
-**21:6 — *məbaqšê-māwet* ("seekers of death") or *môqšê-māwet* ("snares of death")?** The ESV follows some Hebrew manuscripts with LXX and Vulgate against the majority Hebrew, and footnotes it. `[S]` *Moderate — consider verifying.* Preaching implication small; read the footnote.
+| Place | The divergence | Witness | Assessment |
+|---|---|---|---|
+| **16:1–9** | The Greek does not carry the Hebrew's order: Swete 16:1 = MT 16:9; Swete 16:2–4 = MT 15:30, 15:32, 15:33; MT 16:6–8 stands at Swete 15:27–29 | `[T]`, Swete; `[S: BHS, apparatus at 16:6ᵃ]` | **Load-bearing.** The chapter-16 block this report treats as a designed opening is a Masoretic arrangement. *High confidence on the placements; the explanation is open* |
+| **22:8** | Swete adds ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός with no Hebrew counterpart | `[T]`, Swete | **The plus 2 Cor 9:7 stands nearest to.** See Tool 11. *High confidence* |
+| **16:10** | Swete has μαντεῖον ("an oracle") for קֶסֶם, keeping the divinatory force both modern versions soften | `[T]`, Swete | Supports reading the Hebrew word at full strength. *Moderate-to-high* |
 
-**22:8a — the LXX plus. ✅ Verified 20 August.** The Greek carries a whole additional verse: **ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός**, *"God blesses a cheerful man and a giver."* `[S]` **There is no Hebrew equivalent** — MT 22:8 has no cheerfulness, no giver and no blessing. `[T]`
-
-Under the triage this is **category 3** — the Greek as the New Testament's own text — and it is the cleanest instance in the project, because the material is not a divergent rendering of a Hebrew line but a line the Hebrew does not contain. **2 Corinthians 9:7 stands on it, and it stands whichever edition is prior.** *One precision: Paul reads* **ἀγαπᾷ** *where the LXX has* **εὐλογεῖ** *— close adaptation, not formula quotation.* Full working at Tool 11.
-
-**19:7c** — an internal Hebrew difficulty, not a version split; treated under Tool 8.
-
-No other variants worth the preacher's time.
-
----
+**The witness limit, stated.** One Hebrew manuscript tradition and one diplomatic Greek edition. **The paragraph markers at 19:9 and 21:30 rest on that single Hebrew witness and their spread is unchecked** `[unchecked — apparatus spread]`. Any citation of the Greek belongs to Rahlfs-Hanhart or Göttingen via Logos.
 
 ### Historical and Cultural Background
 
-#### Setting
+**Setting.** As in the first half, nothing is dated or placed `[T]`. **But this half has a court in it**, and the court is the background that matters.
 
-- **Time period and location.** Presented as Solomonic; wholly unlocated — **no place name in 191 verses.** `[T]`
-- **Social world.** A court is now visibly in view. Twelve verses name the king; the material assumes access to royal favour (16:15, 22:11), royal wrath (16:14, 19:12, 20:2), and royal justice (16:10, 20:8, 20:26). `[I]` *Moderate–high.* **This is the most courtly stretch of the sentence literature outside 25:2–7.**
+**What the original audience knew that we do not.**
 
-#### What the original audience knew
+- **A king's word was a legal instrument, not an opinion.** 16:10's "his mouth must not act treacherously in judgement" assumes a monarch who is also the final court. **The verse constrains a power the hearer could not appeal against.**
+- **קֶסֶם was a live and forbidden practice**, not an archaism. A hearer who knew Deut 18 would feel the word land on the king's lips `[I]`, *moderate-to-high*.
+- **The lot was a real procedure** — Achan, the land allotment, Jonathan, Jonah's sailors. 16:33's "the lot is cast into the lap" describes something people did when a decision had to be made and no one could be blamed for it `[I]`.
+- **Weights lived in a bag** (16:11, אַבְנֵי־כִיס, "the weights of the bag"), which is why they could be swapped. **The verse assigns the bag's contents to YHWH.**
+- **A king's face was an audience.** 16:15's "in the light of a king's face is life" is court protocol before it is metaphor, and 16:14's "messengers of death" is not hyperbole in a monarchy.
 
-- **A king's face was a real instrument of government.** 16:15's *"in the light of a king's face there is life"* is not metaphor for a good mood; audience and access were how business was done, and to be un-received was a material danger. `[I]` *High.*
-- **The lot was a recognised legal and cultic procedure**, not a gamble — used for land allocation (Josh 14–19), priestly duties (1 Chr 24) and the Day of Atonement goats (Lev 16:8). `[T]`/`[I]` *High.* **16:33 and 18:18 assume a settled institution**, which is why 16:33 can make the theological point it does.
-- **Weights were carried in a bag** and were the ordinary point of commercial fraud, legislated in Deuteronomy and Leviticus and prosecuted by Amos. **16:11 says the bag's contents are God's handiwork.** `[T]`/`[I]` *High.*
-- **Surety was ruinous** in a way modern guarantees are not — the surety's person and household could be seized, which is why the section returns to it three times (17:18; 20:16; 22:26–27). `[I]` *High.*
-- **A "strong tower" was a real refuge.** 18:10 names an architectural fact before it names a theological one.
-
-#### What this changes about how we read
-
-**16:10–15 stops being flattery.** Placed among sayings about a king who kills (16:14) and whose favour is life (16:15), verse 11's claim that *the scales are the LORD's* is a limit on the man being described. **The block is not praise of monarchy; it is monarchy under audit.**
-
-**18:11 stops being a platitude about money.** *"A rich man's wealth is his strong city"* is a real claim in a walled-city economy — and the second colon says the wall is *bəmaśkîtô*, in his imagination.
-
----
+**What this changes.** It stops the royal verses being read as general maxims about leadership. **They are survival instructions for people who lived near power, and the collection gives them alongside the claim that the same power's heart is water in another hand.**
 
 ### Original Audience Reception
 
-#### Canonical audience
+**Canonical audience.** Ketuvim, after Psalms and Job `[T]`; the reader arrives knowing Job's whirlwind `[I]`, high confidence.
 
-- **Canonical section:** the Writings. The reader arrives post-exilic, holding unresolved promises, knowing the monarchy's rise and collapse and how Solomon's own story ended.
-- **What that reader knows, and it bites here:** twelve verses commend the king's justice and discernment. **The canonical reader has read 1 Kings 11 and 2 Kings 25.** He receives the royal sayings knowing that the institution failed. `[I]` *Moderate–high.* **That is not an objection to the sayings; it is why the collection subordinates the king to the LORD at 16:11 and 21:1.**
-- **Canonical register:** Job and Psalms are the neighbours. 20:9's *"who can say, 'I have made my heart pure'?"* stands beside Job 9:2 and Psalm 130:3.
+**The first hearers.** Young men being prepared for public responsibility, near a court `[I]`.
 
-#### The first hearers
+**Where the passage fits their world.** They would have recognised the comparative form, expected royal maxims in a wisdom collection, and heard 16:33 as a statement about a procedure they used.
 
-- **Who they were:** men with access to power, property and a share in public life — closer to the court than 1A's audience, further from it than 25:2–7's. `[I]` *Moderate.*
-- **Their situation:** a world in which competence was necessary and insufficient. The section commends planning (16:3, 20:18), counsel (19:20, 20:5), diligence (21:5) and restraint (17:27) — and says at every turn that the outcome is not theirs.
+**Surprises, shocks, comforts, disturbances.**
 
-#### Surprises, shocks, comforts, disturbances
+- **Surprising:** the antithesis stopping. A reader who has done 184 verses of *the righteous … but the wicked* meets 16:1 and finds the second colon occupied by God instead.
+- **Shocking:** **16:4** — "the LORD has made everything for its own purpose, even the wicked for the day of evil" `[T]`. And **16:10's** forbidden word on a king's lips.
+- **Comforting:** 21:1, and 16:7.
+- **Disturbing:** 20:9, which has no answer in the book, and 20:24's question.
 
-- **Comforting:** 18:10, the name as a strong tower. 19:17, generosity to the poor as a loan to the LORD — an astonishing formulation. 17:17 and 18:24.
-- **Disturbing:** 16:4, *"the LORD has made everything for its purpose, even the wicked for the day of trouble."* The hardest verse in the section and the one that will provoke questions.
-- **Surprising:** 16:33 — the lot, the most obviously random procedure available, assigned wholly to God.
-- **Deflating:** 18:11 and 20:6. A rich man's wall is imaginary; a man's proclaimed *ḥesed* is common and a faithful man is not.
-- **Funny:** 20:14, the buyer who disparages and then boasts. 22:13, the lion in the street.
+**What we bring that they didn't.** A suspicion of monarchy that makes the royal verses hard to hear as anything but politics. A reading of 22:6 as a parenting promise, which the verse's neighbours make unlikely. And an expectation that a question in Scripture will be answered in Scripture nearby — **20:9's is not.**
 
-#### What we bring that they didn't
-
-- **A suspicion of monarchy.** We hear the royal sayings as flattery of power. They heard them as description of the environment — and heard 16:11 and 21:1 as the constraint on it.
-- **A therapeutic reading of self-knowledge.** We hear *"pure in his own eyes"* as a psychological observation about bias. **It is a judicial claim**: the man's assessment does not count, because someone else is weighing.
-- **Individualism**, which turns 18:10 into private comfort when it is a civic image.
-
-#### Candidate Fallen Condition Focus
+**Candidate Fallen Condition Focus**
 
 | Field | Content |
 |---|---|
-| **What they felt** | The strain of being responsible for outcomes they could not control, in a system where favour was arbitrary and self-assessment was all they had. `[I]` anchored to 16:1–9, 16:14–15, 20:6, 20:9, 20:24, 21:30 |
-| **Candidate FCF (shared concern)** | *We must act, and we cannot certify that we have acted rightly — so we quietly appoint ourselves the judge of our own case.* |
-| **Shared / differs** | **Shared:** the need to act under uncertainty; the reflex of self-justification; the relief of a verdict. **Differs:** they had the frame and the fear of the LORD; we have a verdict already pronounced in Christ — and 17:15's problem solved rather than endured. |
-| **Confidence** | *Anchored* — derived from the 16:2 ∥ 21:2 frame and the sayings between them, not imported. |
+| **What they felt** | That their own sense of being in the right was the best evidence they had, and that it was not enough — sharpened by a first half that taught them to sort cases and by 14:12, which told them the sorting fails on their own road `[I]` |
+| **Candidate FCF (shared concern)** | Every road we are on looks clean to us from inside it, and we have no instrument for weighing our own spirit |
+| **Shared / differs** | Shared exactly; 16:2 and 21:2 describe the condition without argument. Differs in that we have been told who does the weighing and, since, what he has done about the verdict |
+| **Confidence** | Anchored |
 
-#### Implication for the sermon
-
-**Preach the frame, and preach it as good news.** *"All a man's ways are pure in his own eyes, but the LORD weighs the spirits"* sounds like an accusation and is in fact a relief: the assessment was never going to be mine to make. **The section's own answer to its frame is its first imperative — commit the work to the LORD (16:3) — and the New Testament's answer is that the weigher has become the justifier.**
-
----
+**Implication for the sermon.** The work is not to make the congregation doubt themselves — the collection does not moralise about self-deception. **It is to move the weighing off their desk**, which is relief before it is rebuke, and which 21:1 extends even to the one person in the book who could not be appealed against.
 
 ### Biblical-Theological Themes
 
-#### (1) Divine sovereignty and human agency
+**(1) Human planning under divine government.** *Where this passage sits:* the fullest concentration of the theme in the canon's wisdom literature — seven sentences in one shape `[T]`. *Before:* Gen 50:20 ("you meant evil against me, but God meant it for good"); the Joseph narrative entire. *After:* Jer 10:23 ("it is not in a man who walks to direct his steps"), which restates 20:24 almost exactly; and in the NT, Jas 4:13–16 on "we will go to such a city" — **the only NT passage that argues the Proverbs 16 shape at length** `[S]`. *Confidence: high on the OT links; the James link is thematic.*
+*Contribution:* Proverbs gives the pattern its compact form, and gives it without fatalism — **the planning is never withdrawn.**
 
-- **Where this passage sits.** The densest concentration in Scripture outside Isaiah 40–48: 16:1, 2, 3, 4, 9, 33; 19:21; 20:24; 21:1, 2, 30, 31.
-- **Before.** Genesis 50:20 (*"you meant evil against me, but God meant it for good"*); Deuteronomy 8:17–18; the whole Joseph narrative.
-- **After.** Romans 8:28; Ephesians 1:11; James 4:13–15 (*"you do not know what tomorrow will bring… instead you ought to say, 'If the Lord wills'"*) — **which is Proverbs 16:9 turned into a rebuke of merchants**, and sits beside James's use of 27:1.
-- **What it contributes.** The section refuses the two available errors. It does not say planning is futile — it commends counsel, diligence and forethought throughout. It does not say planning secures the outcome. **21:31 is the formulation: *the horse is made ready for the day of battle, but the victory belongs to the LORD.* Make the horse ready.**
-- **Confidence:** *high.*
+**(2) Who weighs.** *Where this passage sits:* 16:2; 21:2; and 24:12 just beyond `[T]`. *Before:* 1 Sam 16:7 ("man looks at the outward appearance, but the LORD looks at the heart"); Ps 139:23. *After:* Jer 17:10; and in the NT, 1 Cor 4:3–5 — *"I do not even judge myself… the one who judges me is the Lord"*, **which is 16:2 in Paul's own words** `[S]`. *Confidence: high on the OT chain; the 1 Cor 4 parallel is close and is stated as parallel, not citation.*
+*Contribution:* this is the half's own theme and the place where the book's spine — *wise in his own eyes* — meets its answer.
 
-#### (2) The heart weighed
-
-- **Where this passage sits.** 16:2, 17:3, 20:9, 20:27, 21:2 — five sayings on divine inspection of the interior, framing the collection.
-- **Before.** 1 Samuel 16:7 (*"the LORD looks on the heart"*); Jeremiah 17:9–10 (*"the heart is deceitful… I the LORD search the heart, I test the mind"*) — **which uses both of Proverbs' verbs**; Psalm 139.
-- **After.** Hebrews 4:12–13; 1 Corinthians 4:4–5 (*"I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me"*) — **Paul restating Proverbs 16:2 in the first person**; Revelation 2:23.
-- **What it contributes.** It is the ground of the section's realism about self-assessment, and the reason the collection can commend prudence without producing self-satisfaction.
-- **Confidence:** *high on the OT trajectory; moderate–high on the 1 Cor 4:4 connection.*
-
-#### Confluence
-
-**Climactic convergence.** The two themes are one claim seen from two sides. *God determines the outcome* and *God weighs the heart* together mean that neither the result nor the motive is in the actor's jurisdiction. **What is left to him is the act — which is why the collection that most insists on divine sovereignty is also the one that starts issuing commands again.**
-
----
+**(3) The poor and their Maker.** *Where this passage sits:* a chain that crosses the seam and lands on the collection's last verse `[T]`, WLC. **14:31** עֹשֵׁק דָּל חֵרֵף עֹשֵׂהוּ ("he who oppresses the poor taunts his Maker") → **17:5** לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ ("he who mocks the poor taunts his Maker") — **חֵרֵף עֹשֵׂהוּ identical in both** → **22:2** עֹשֵׂה כֻלָּם יְהוָה ("the LORD is the Maker of them all") → **22:16** עֹשֵׁק דָּל ("he who oppresses the poor"), **the collection's final verse, reusing 14:31's phrase**. עשׁק stands in four verses of the book and two of them are these `[T]`. *Before:* Exod 22:21–27; Deut 24:14–15. *After:* Amos 4:1; Jas 5:4. *Confidence: high on the chain; the arc is standard.*
+*Contribution:* **the collection ends where it does for a reason.** Its last verse is about oppressing the poor, and its second-to-last theological statement has just said who made them.
 
 ### Schnittjer Pass
 
 **N/A** — not in the Torah.
 
----
-
 ### Christological Reading
 
-**Type of connection: contrast (primary), with two trajectories.**
+**Type of connection: trajectory and contrast. No typology is claimed.** The king is the only candidate and he fails the tests: the collection gives him no narrative, no name and no escalation — **it gives him a warning and a hand over his heart.** *A Davidic-king typology read into 16:10–15 would be imported, not found.*
 
-#### 1. The contrast — 17:15 and the justification of the ungodly
+**How the half points to Christ.**
 
-> **Proverbs 17:15** *He who justifies the wicked and he who condemns the righteous are **both alike an abomination to the LORD**.*
-> **Romans 4:5** *…to the one who does not work but believes in him who **justifies the ungodly**, his faith is counted as righteousness.*
+- **20:9, and it is the strongest doorway in the book.** מִי־יֹאמַר זִכִּיתִי לִבִּי טָהַרְתִּי מֵחַטָּאתִי ("who can say, 'I have cleansed my heart, I am pure from my sin'?") `[T]`. **The question is rhetorical and its expected answer is nobody** — in a collection that has just said all a man's ways are clean **in his own eyes** (16:2), using the same root. **The New Testament answers in the same vocabulary**: τὸ αἷμα Ἰησοῦ … καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας (1 Jn 1:7) `[T]`, SBLGNT. *High confidence on the trajectory; the verbal register matches and no citation is claimed.*
+- **The weighing, relocated not removed.** 16:2 and 21:2 say YHWH weighs spirits and hearts; **1 Cor 4:3–5 says the same of the Lord and adds that the verdict is deferred** `[S]`. *The Christian is not exempted from the weighing; he is told when it happens and by whom.* *Moderate-to-high.*
+- **The king whose heart is held (21:1), and the King who says οὐχ ὡς ἐγὼ θέλω ἀλλ᾽ ὡς σύ** ("not as I will, but as You will", Matt 26:39) `[T]`, SBLGNT. **The collection's most striking royal sentence describes from outside what the Gospels show from inside.** *Moderate confidence — a resonance, stated as one, not an allusion.*
+- **The contrast.** 16:4's "even the wicked for the day of evil" is not resolved anywhere in Proverbs `[T]`. **The collection states it and moves on.** *Name it; do not solve it from this book.*
 
-**The gospel does the thing this verse calls an abomination.** `[T]` on the tension; *high.*
+**Trajectory.** *Anticipates:* a cleansing no one in the book can perform, and a verdict from someone competent to give it. *Christ fulfils:* the first directly, in the question's own vocabulary; the second by being the one to whom the judgement is given. *Remains:* 16:4, and 20:24's question about one's own road, which is still asked on this side of the cross.
 
-**And Paul knows it.** Romans 3:25–26 exists to answer precisely this: God set forth Christ as a propitiation *"to show his righteousness… so that he might be just **and** the justifier of the one who has faith in Jesus."* **The whole point of that sentence is that justifying the ungodly would otherwise be exactly what Proverbs 17:15 says it is.**
+**Moralism check.**
 
-**Tests:** *theological category* (justification) ✔ · *NT precedent* (Romans 3–4 addresses the problem directly) ✔ · *escalation* (the resolution is greater than the problem) ✔ · *authorial pattern* (Proverbs raises the problem itself and cannot solve it) ✔. **All four — and this is contrast resolved, not typology.**
+- **The "be like X" temptation:** weaker here than in the first half, because the collection has fewer behaviours to catalogue and more sentences about God. **The live danger is different: preaching the man/YHWH couplet as a technique** — *plan, then trust, and it will come out right* — **which 16:4 and 20:24 both forbid.**
+- **The gospel grounding:** the weighing is God's, and 20:9's question has an answer that is not the hearer's doing.
+- **Christ as hero, not example:** the actor throughout is YHWH — weighing, directing, establishing, deciding. **Seven sentences give him the second colon and the reader the first.**
 
-**The sermon move:** do not soften 17:15. Preach it as true, feel its weight, and then let Romans 3:26 land. **The cross is the answer to a question this verse asks.**
-
-#### 2. The trajectory — the weigher who justifies
-
-16:2, 17:3, 20:9, 21:2: the LORD weighs spirits, tests hearts, and no one can claim a clean one. **1 Corinthians 4:4–5 restates it exactly** — *"I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me."* And then the gospel adds what Proverbs cannot: **the one who weighs has also justified.** `[I]` *Moderate–high.*
-
-#### 3. The trajectory — the friend closer than a brother
-
-18:24: *"there is a friend who sticks closer than a brother."* `[T]` The NT does not cite it; but 17:17 (*"a brother is born for adversity"*) and 18:24 together describe a relationship the Gospels name — *"no longer do I call you servants… but I have called you friends"* (John 15:15); *"not ashamed to call them brothers"* (Heb 2:11). `[I]` *Moderate.* **Offer as resonance, not as the proverb's claim.** *It is a fine sermon and a poor exegetical argument; keep the two apart.*
-
-#### 4. The strong tower
-
-18:10 — *"the name of the LORD is a strong tower; the righteous runs into it and is safe."* With 18:11's imaginary wall beside it. `[I]` *Moderate–high.* The trajectory runs to Philippians 2:9–11 and Acts 4:12: **the name has become a person.**
-
-#### Moralism check
-
-**The temptation here is subtler than in 1A.** 1A tempts the preacher to "be the righteous man." **1B tempts him to "commit it to the LORD" as a technique** — a spiritual method for securing outcomes, which is 16:3 turned into 16:9's opposite.
-
-**Where the gospel grounding sits.** In the frame. `[T]`
-
-- The section says a man's self-assessment does not count (16:2, 21:2).
-- It says no one can claim a clean heart (20:9).
-- It says the one thing the gospel does is an abomination (17:15).
-
-**Put together, 1B is the collection that makes justification necessary and impossible in the same breath.** The preacher's move is not "trust God with your plans" but **"the God who weighs your heart has found a way to acquit you that does not make him an abomination to himself."**
-
-**Christ as hero, not example.** The section has no human exemplar — no righteous man held up, no vocative until 19:27. **Its protagonist is the LORD who weighs, establishes, tests and determines**, and the gospel's news is what that LORD has done about the verdict.
-
-**Confidence:** *high* on the 17:15 contrast; *moderate–high* on the weighing trajectory; *moderate* on the friend and the tower.
-
----
+**Confidence:** *high* on the trajectory; *no typological claim advanced*; the Matt 26:39 resonance is labelled as resonance.
 
 ### Difficult / Contested Verses
 
-#### 16:4 — "even the wicked for the day of trouble"
-
-- **Category:** doctrinal, and the hardest verse in the section.
-- **The difficulty:** *"The LORD has made everything for its purpose, even the wicked for the day of trouble."* Read one way it makes God the author of the wicked man's wickedness.
-- **Rhetorical function:** it sits fourth in the eight-verse YHWH block, between "he establishes your plans" (16:3) and "he makes even his enemies at peace" (16:7). **Its function is to complete the claim that nothing falls outside God's purpose**, not to explain the origin of evil.
-- **The main options:** *(a)* God made all things *for their own answer/purpose* (*lammaʿănēhû*), the wicked included, so that even wickedness serves an end it did not intend; *(b)* God has appointed a day of reckoning for the wicked — a statement about destiny rather than creation.
-- **Handling:** name the difficulty rather than skating it. **Do not preach 16:4 without 16:7 and 21:1**, and do not use it to answer questions about the origin of evil that the verse is not asking.
-
-#### 17:15 — the abomination the gospel commits
-
-- **Category:** doctrinal; the most productive tension in the book.
-- **Handling:** preach it straight, then Romans 3:26. See Christological Reading. *Do not resolve it early.*
-
-#### 19:18 — "discipline your son, for there is hope"
-
-- **Category:** pastoral landmine, as 13:24 is in 1A.
-- **What the text supplies, in the same verse:** *"and do not set your heart on putting him to death."* `[T]` **This is the limit, and it is in the sentence.** The verse that commands discipline forbids the parent's anger from running to its end.
-- **Handling:** if 13:24 is preached anywhere in a series, **19:18 must be preached with it.** Sustained from the 1A run.
-
-#### 18:22 — "he who finds a wife finds a good thing"
-
-- **Category:** pastoral.
-- **The difficulty:** it will be heard by the unmarried, the widowed, and people in hard marriages as a statement about their standing before God.
-- **Rhetorical function:** it is a saying about *favour received*, not merit earned — the second colon is *"and obtains favour from the LORD."*
-- **Handling:** name the room. And note 21:9 and 21:19 in the same collection, which decline to romanticise.
-
-#### 21:6 and 19:7c — textual
-
-Both footnoted in the ESV; neither bears weight. **Read the footnote; do not build.**
-
-#### 16:33 — the lot
-
-- **Category:** apologetic / practical.
-- **The difficulty:** hearers ask whether Christians should cast lots.
-- **Handling:** Acts 1:26 is the last instance in Scripture and precedes Pentecost. The verse's claim is about God's determination, not a recommended procedure.
+- **16:4 — "the LORD has made everything for its own purpose, even the wicked for the day of evil."** The hardest verse in the collection, and it arrives in the middle of the divine-name block. **The Hebrew is not softer than the English** `[T]`. *Name it, say the book does not develop it, and do not build a doctrine of reprobation on a proverb — or explain it away.*
+- **16:10 — קֶסֶם on a king's lips.** A word the Torah forbids, used positively, with a constraint attached in the same verse. *A genuine crux and a good one; see Tool 11.*
+- **20:9 — the unanswered question.** *Not a difficulty to be resolved but the book's own doorway. Preach it as a question.*
+- **22:6 — "train up a child in the way he should go."** **The book's most misused verse**, and it is nine verses from the end of this collection, surrounded by sayings about wealth, borrowing and the poor `[T]`. Two problems at once: the genre (a מָשָׁל is not a covenant undertaking) and the wording (עַל־פִּי דַרְכּוֹ, "according to *his* way", which some read as the child's own bent) `[I]`. **NIV84 footnotes "Or Start"; neither version's main text carries the ambiguity.** *The pastoral cost of preaching this as a promise is measured in parents who conclude God broke it.*
+- **22:7 — "the borrower is servant to the lender."** Frequently made into financial doctrine. **It is an observation about how debt works, in a collection that also says the rich and the poor have the same Maker (22:2)** `[T]`.
+- **16:33 — the lot.** *A description of a practice, not a prescription for decision-making.*
 
 ---
 
 ## Convergent Findings
 
-- **The four-section form profile** — Parallels (the counts), Structure, Author's Purpose, Positional Necessity, Genre. **Five tools**, and it is the run's most consequential output because it settles a question about the whole collection rather than this section.
-
-- **The 16:2 ∥ 21:2 frame and what it holds** — Repetition (the near-verbatim pair), Structure, Vocabulary (*tōkēn*, *libbôt*), Move 4, Author's Purpose, Original Audience (it anchors the FCF), Christological Reading (it is where moralism is blocked). **Seven tools.** The strongest convergence in the report.
-
-- **The hinge settled** — Repetition (8 of 9 verses in 16:1–9), Structure (the density collapses at 17:1), Positional Necessity, Context. **Four tools**, and it completes what the 1A run began.
-
-- **The abomination-formula changes** — Repetition (*gam-šənêhem* ×3), Vocabulary, Structure, Tool 11 (the Deuteronomy transfer continues but the formula does not). **Four tools.**
-
-- **The voice returns** — Linking Words (11 imperatives, 4 *ʾap kî*), Tone, Genre, Copycat, Who Am I. **Five tools.**
-
-- **The Masoretic paragraphing ignores the collection boundaries** — Structure (14:1→19:9 and 21:31→22:21), and consistent with the 2A run's 27:23→28:4. **A cross-report convergence**, and the 19:9 marker landing on a five-word inclusio is the one clean exception.
-
-- **18:10 ∥ 18:11, the two fortresses** — Parallels (six of twelve comparatives in this chapter), Structure, Repetition, Move 4 (10:15 corrected at 18:11), So What. **Five tools.**
+- **The half relocates the seat of judgement** — surfaced by Author's Purpose, Linking Words (the מִן+יְהוָה construction), Parallels (the man/YHWH couplet ×7), Repetition, Vocabulary (תכן, מִשְׁפָּט) and So What?. **The strongest convergence in the run.**
+- **The seam is real by form and stitched by the name** — surfaced by Structure (two measures collapsing), Repetition (the eight-verse run, unique in the book), Context and Translations.
+- **The antithesis engine is switched off and two other forms take over** — surfaced by Structure (5.2% opposition; three chapters at zero), Linking Words (the waw at 55.6%, the eight טוֹב-comparatives), Parallels and Genre.
+- **The self-assessment thread reaches its densest point and its question** — surfaced by Repetition (16:2 ‖ 21:2), Vocabulary (the זכך root, all four occurrences here), Tool 11 Move 4, Tone (three questions in ch. 20) and Christological Reading.
+- **The collection's outward links run through the Greek** — surfaced by Translations (the 22:8 plus; μαντεῖον at 16:10), Tool 11, Textual Variants and Biblical Theology.
+- **The poor-and-Maker chain crosses the seam and lands on the last verse** — surfaced by Tool 11 Move 4, Vocabulary (עֹשֵׂהוּ), Biblical Theology and Historical Background.
 
 ---
 
 ## Preaching Pitfalls
 
-### Pitfall: preaching 1B as though it were 1A
+### Pitfall: Preaching the man/YHWH couplet as a technique
 
-- **What it looks like:** a series that treats these chapters as more of the same — two-column contrasts, verse by verse.
-- **Why it's wrong:** **20% of the sayings here are antithetical against 81% in 10–15.** Sixty-one per cent are synonymous or synthetic. The form has changed and with it the homiletical unit.
-- **The corrective:** preach by cluster, and preach the frame (16:2, 21:2) as the spine.
+- **What it looks like:** "Make your plans, then commit them to God, and he will make them work" — 16:3 and 16:9 preached as a method with a guaranteed output.
+- **Why it's wrong:** **the couplet never says the plan succeeds.** 16:9 says he directs the steps; 16:1 says the answer is from the LORD; **20:24 asks how a man can understand his own way at all**, and **16:4 says something no technique survives.** The shape relocates the verdict; it does not promise the outcome.
+- **The corrective:** preach both cola with their agents intact. **The planning stays with the man and the weighing does not** — and that is relief, not a lever.
 
-### Pitfall: "commit your work to the LORD" as a technique
+### Pitfall: 22:6 as a promise
 
-- **What it looks like:** 16:3 preached as a method for securing outcomes — pray about your plans and they will succeed.
-- **Why it's wrong:** the verse sits six lines from 16:9 (*"the heart of man plans his way, but the LORD establishes his steps"*) and fifteen chapters from 21:31 (*"the horse is made ready… but the victory belongs to the LORD"*). **The section commits the work precisely because the outcome is not purchasable.**
-- **The corrective:** preach 16:3 with 16:9 and 21:31. Make the horse ready; do not imagine you have bought the battle.
+- **What it looks like:** "Train up a child… and he will not depart from it" — preached to anxious parents as an undertaking, or to grieving ones as an accusation.
+- **Why it's wrong:** a מָשָׁל is a generalisation; **the verse stands nine verses from the end of a collection, among sayings about lending, wealth and the poor, with nothing about child-rearing around it** `[T]`; and the Hebrew עַל־פִּי דַרְכּוֹ ("according to his way") is genuinely ambiguous — NIV84 footnotes "Or Start" `[T]`.
+- **The corrective:** teach the genre from this verse, because it is the verse that most needs it. **The overview's trap 1 names this as the book's commonest misuse** `[S: overview]`, and a preacher who handles it honestly here has protected the whole series.
 
-### Pitfall: softening 17:15
+### Pitfall: Preaching the royal verses as leadership principles
 
-- **What it looks like:** hurrying past *"he who justifies the wicked… is an abomination to the LORD"*, or explaining that it means judicial corruption only.
-- **Why it's wrong:** it does mean judicial corruption — and Romans 4:5 says God justifies the ungodly. **The tension is real, and Romans 3:26 exists to answer it.** Removing the tension removes the reason the cross had to be what it was.
-- **The corrective:** preach the verse at full strength. Let the congregation feel the problem before you give them Romans.
+- **What it looks like:** 16:10–15 as a template for good governance, or for being a good boss.
+- **Why it's wrong:** **the reader is not the king.** These verses tell someone who lives near power how to survive and read it — appease his fury (16:14), value his favour (16:15) — and the collection's own theological statement about kingship is that **his heart is water in another hand (21:1)** `[T]`.
+- **The corrective:** preach the pair. **What the verses do for the congregation is relativise every authority they live under**, which is more use than a leadership lesson.
 
-### Pitfall: 18:10 without 18:11
+### Pitfall: Tidying 16:4
 
-- **What it looks like:** a comforting sermon on the strong tower.
-- **Why it's wrong:** the next verse is the same image applied to money **and says the wall is imaginary**. In a collection with twelve comparative sayings, two in consecutive verses is deliberate.
-- **The corrective:** preach them as a pair, and ask the congregation which tower they actually run to.
+- **What it looks like:** a quick gloss — "God uses even evil for good" — and a move on.
+- **Why it's wrong:** the verse says the LORD **made** everything for its purpose, **even the wicked for the day of evil**, and the Hebrew is not softer `[T]`. **The collection states it and does not develop it.**
+- **The corrective:** say what it says, say the book does not explain it, and say where the reader's confidence is being put instead — which the eight verses around it supply.
 
-### Pitfall: 16:4 as a doctrine of reprobation
+### Pitfall: Quoting "God loves a cheerful giver" as Proverbs
 
-- **What it looks like:** *"even the wicked for the day of trouble"* used as a proof-text on election.
-- **Why it's wrong:** the verse is fourth in a block about the comprehensiveness of God's purpose, and it is not asking about the origin of evil.
-- **The corrective:** state the options, preach it with 16:7 and 21:1, and be honest that the verse does not settle what it is often made to settle.
+- **What it looks like:** an offertory sentence attributed to the Old Testament.
+- **Why it's wrong:** **the Hebrew of 22:8 says nothing about cheerfulness or giving.** The line stands in the Greek as a plus with no Hebrew behind it, and 2 Cor 9:7 is where it is Scripture `[T]`.
+- **The corrective:** quote it from Paul, where it belongs — **and, if the sermon can carry it, say where he found it.** It is a good moment to show a congregation how the apostles read.
 
-### Pitfall: 19:18 without its second colon
+### Pitfall: Letting 20:9 be answered too quickly
 
-- **What it looks like:** *"discipline your son, for there is hope"* — full stop.
-- **Why it's wrong:** the limit is in the same verse: *"do not set your heart on putting him to death."*
-- **The corrective:** the whole verse, always. And with 13:24 if that is preached.
-
-### Pitfall: the royal sayings as flattery
-
-- **What it looks like:** twelve verses about the king preached as a theology of authority.
-- **Why it's wrong:** 16:11 plants *"the scales are the LORD's"* inside the king-block, and 21:1 says the king's heart is a channel of water in God's hand. **The section puts the monarchy under audit.** And the canonical reader knows how the monarchy ended.
-- **The corrective:** preach 16:10–15 as a unit and let verse 11 do its work.
+- **What it looks like:** "Who can say 'I have cleansed my heart'? — nobody, but Jesus has!" delivered in one breath.
+- **Why it's wrong:** not that the answer is wrong, but that **the question is the collection's own and it is left standing** — in a book that answers almost everything. **The force of the answer depends on the question having been allowed to land.**
+- **The corrective:** ask it, leave a silence, and let 16:2 and 21:2 do their work first. *The gospel does not need the question rushed.*
 
 ---
 
 ## Open Questions / Uncertainties
 
-1. **The LXX plus at 22:8 — ✅ CLOSED 20 August, and it is stronger than flagged.** The Greek carries an entire additional verse (22:8a) with no Hebrew equivalent, and **Paul takes both of its cola across 2 Cor 9:6–7**. Three words are shared verbatim with 9:7 (ἱλαρόν, δότην, ὁ θεός) and one is changed (εὐλογεῖ → ἀγαπᾷ), so it is close adaptation rather than formula quotation. Attested by Kruse, Keener and Martin. **The most quoted verse in Christian teaching on giving is a verse of Greek Proverbs.** See Tool 11.
-   - *Residual, and not pressed:* whether 22:8a translates a lost Hebrew *Vorlage* or is a Greek expansion. The line is built on 22:8's own B-colon (**δὲ ἔργων αὐτοῦ συντελέσει**, identical in both), which looks like construction by symmetry — but the general question about the Greek pluses is a live one in the field and this run does not settle it.
-
-2. **21:6 — what exactly do the LXX and Vulgate read?** The ESV follows some Hebrew manuscripts with the versions against the majority text and footnotes it. Not verified here.
-
-3. **Does anyone treat 16:2 ∥ 21:2 as a section frame?** The near-verbatim pair is countable and secure; the claim that it *frames* 16:1–22:16 is my inference. **The same question as the 2A run's √*ṣrp* inclusio**, and it should go to the library alongside it.
-
-4. **The *petuchah* pattern across the whole book.** Three collection boundaries (15:33/16:1, 22:16/17, 27:27/28:1) have paragraphs running straight through them; one non-boundary (27:22/23) is marked. **If that holds across editions it is a systematic finding about the transmission**, and it is now supported from three separate runs. *Worth a single check against a second edition or facsimile before it is pressed.*
-
-5. **Where does the paragraph beginning at 22:22 close?** Outside the loaded range. Recorded as unknown, per the standing window rule.
+- **How many verses of the Hebrew Bible carry קֶסֶם?** The WLC lemma index returns four — Num 22:7; Num 23:23; Deut 18:10; Prov 16:10 — and **its coverage of the prophets' divination vocabulary looks thin**, which would be an undercount rather than a finding. **The Torah company the word keeps is not in doubt and the report rests only on that.** Logos, and a lexicon.
+- **Why does the Greek not have the Hebrew's order at 16:1–9?** A different *Vorlage*, or the translator's arrangement? A diplomatic text cannot decide. Rahlfs-Hanhart and Göttingen. **This is the same question the first half raised at 10:1, and the two should be answered together.**
+- **Is the 22:8 Greek plus pre-Christian, and did Paul know it as Scripture or as a proverb?** Beyond the corpus entirely; a commentary on 2 Corinthians and the Göttingen apparatus.
+- **Does עַל־פִּי דַרְכּוֹ at 22:6 mean "the way he should go" or "his own bent"?** The Hebrew permits both and the versions choose. A lexicon and two commentaries — **and the sermon should probably name the ambiguity either way.**
+- **Is the paragraph break at 19:9 related to the 19:5 ‖ 19:9 near-doublet?** The adjacency is verified; the intention is not recoverable from one manuscript `[unchecked — apparatus spread]`.
+- ~~Does the opposition measure really collapse at the seam, or was the first half's figure an artefact?~~ **Closed against the corpus.** Reproduced independently on both halves: **33.2% against 5.2%**, with **three whole chapters here scoring zero**.
+- ~~Is the divine-name run at 15:33–16:7 the longest in the book?~~ **Closed:** it is, and by a factor of nearly three. The run-length distribution is 57 ones, eight twos, two threes and **one eight** `[T]`.
 
 ---
 
 ## Book-Overview Tensions
 
-### 1. Ansberry's four-fold scheme is strongly supported — from a measure he did not use
+**None requiring revision. Five extensions for the next overview pass — and they should be taken together with the first half's four.**
 
-The collections assessment records his grounds: 1A "characterized by antithetical parallelism" against 1B's "rich variety of poetic forms"; 2A's emblems and images against 2B's "preponderance of antithetical sayings." `[S]`
+1. **The overview names the 15:33/16:1 seam and its two counted measures; it does not record that the book's longest divine-name run straddles it.** Eight consecutive verses, 15:33–16:7, unique in the book. **That belongs beside the seam note, because it complicates it in a way a preacher needs.**
+2. **The overview's movement table describes 16:1–22:16 as "YHWH, the King, and the Limits of Planning".** The run supplies the measures: **the man/YHWH couplet in seven sentences; מִן+יְהוָה in five of its eight book-wide occurrences; eight verses opening טוֹב; and three chapters at zero on the opposition measure.**
+3. **The overview's intertextual map does not carry 2 Cor 9:7 ← the Greek plus at 22:8.** It is the book's clearest case of the New Testament resting on a reading with no Hebrew behind it, and it pairs with the first half's 1 Pet 4:18.
+4. **The overview's echo table should carry the poor-and-Maker chain** — 14:31 → 17:5 → 22:2 → 22:16, with חֵרֵף עֹשֵׂהוּ identical at 14:31 and 17:5 and עֹשֵׁק דָּל at 14:31 and 22:16 `[T]`. **It crosses the seam and it lands on the collection's last verse.**
+5. **The overview treats 10:1–22:16 as one preaching unit.** The two runs together suggest it is one unit with **two distinct methods**, and that the join is made by the text itself at **16:25**, which reprints 14:12. *That is a fact about the material rather than a criticism of the plan, and the umbrella pass should state it.*
 
-**All four sections are now counted on one scheme:**
-
-| Section | Antithetical |
-|---|---:|
-| Solomon 1A | **81.0%** |
-| Solomon 1B | **20.4%** |
-| Solomon 2A | **7.3%** |
-| Solomon 2B | **60.0%** |
-
-**Every sub-collection is formally distinct from the one beside it, and the differences are large.** `[T]` **That is as strong a vindication of the four-fold scheme as a formal measure can give** — and it comes from a count nobody had done.
-
-**But it also corrects the shape of the claim.** The scheme is often described as a progression — elementary, intermediate, advanced. **The numbers show oscillation, not progression:** high, low, lowest, high. **Recommended: record the four-way figure in the assessment and describe the sequence as alternating.**
-
-### 2. The 15:33/16:1 division has no transmission-level support, and now we know how much
-
-The 1A run found four verbatim links crossing the seam. **This run finds that the Masoretic paragraph runs 14:1 → 19:9** — **162 verses** straight across it. *(⚠ corrected 26 August from "ninety-one".)* `[T]`
-
-**And the same is true at 22:16/22:17**, where the paragraph runs 21:31 → 22:21, across a boundary marked by a superscription in the text itself.
-
-**Recommended:** the assessment's Seam A section should record that the received paragraphing gives no support at 15:33/16:1, exactly as Seam B now records for 27:27/28:1. **The pattern is consistent across three runs and should be stated as such.**
-
-### 3. A correction to the sweep
-
-The sweep's Headline 2 for Passage 12 reads: *"16:1–9 names YHWH in seven of nine verses; 16:10–15 names the king in all six."*
-
-**Both figures are slightly off.** `[T]` **16:1–9 names YHWH in eight of nine** (16:1, 2, 3, 4, 5, 6, 7, 9 — only 16:8 omits him). **16:10–15 names the king in five of six** — 16:11 names YHWH and the weights instead.
-
-**And the second error is the interesting one.** The sweep's point was that the juxtaposition is the argument: the king rules, and the LORD rules the king. **That argument is stronger than the sweep knew, because 16:11 makes it *inside* the king-block rather than only beside it.**
-
-### 4. Findings neither document has
-
-- The **16:2 ∥ 21:2 frame** and the self-knowledge complex it holds.
-- The **change of abomination-formula** between the collections.
-- The **imperative census** (1 → 11) and the return of the vocative.
-- The **pride/humility chain** 15:33 → 16:18 → 18:12 → 22:4, with 18:12 as a splice.
-- **Recommended for the overview's arc map.**
-
-### 5. What the sweep got right and this run confirms
-
-- The LORD-spine as the section's strongest thematic finding — **confirmed**, and now framed at both ends.
-- 18:10–11 as the best proof of deliberate arrangement — **confirmed**, and strengthened by the comparative census.
-- 17:15 as a problem only the cross resolves — **confirmed**, and now the section's primary Christological route.
-- 16:1–9 / 16:10–15 as a deliberate two-part opening — **confirmed with two corrections** (see above).
+Otherwise the run confirms the overview throughout: the YHWH gradient, the king cluster at 16:10–15, the *man plans, YHWH disposes* list, the citation-light finding, and traps 1 and 4 all hold.
 
 ---
 
 ## Text-First Declaration
 
-**Method.** Text-first, not blind. Heim's map for these chapters (§8.14–10.9) is in the project and was available; I did not consult it while deriving. **Agreements are corroborations, not controls.**
+**Secondary sources present in context:** `book-overview-proverbs` v2.0; `dig-deeper-proverbs-10-1to15-33` (18 September, this session's own first-half run); the 1:1–7, chapter 2 and chapters 1–9 digs; BHS apparatus as reported in the overview. **The superseded August 2026 dig on this passage was archived before this run began and was not opened**, so this is an independent working rather than a revision of it.
+**Tools worked before secondary sources consulted:** Confirmed. The overview's four threads and the first half's headline counts were front-loaded as background; every figure in this report was re-derived from the corpus, and the overview was reconciled at Phase 5.5.
+**Passage text:** Verified — WLC for the Hebrew, Swete for the Greek, SBLGNT for the New Testament; NASB95 and NIV84 from the Logos exports, checked verse by verse. Hebrew quoted here was copied from the corpus, not reconstructed.
+**Reference files viewed:** Core 01–07 (re-viewed in full earlier in this session and fully in context, which the Consistency Contract accepts); `preacher-extras.md`; `original-languages.md`, `historical-background.md`, `original-audience.md`, `christological-reading.md`; `_texts/README.md`; `_skill-examples/psalm-33-worked.md` as the OT-poetry calibration anchor. `biblical-theology.md`, `difficult-verses.md` and `textual-variants.md` were not re-viewed; their sections follow the template and the governing triage.
+**Depth floors:** Met — Tools 1, 2, 3, 4, 5, 7, 8, 10, 11, 14 and 16 substantial; 5 Headline Findings; 6 Preaching Pitfalls.
+**Chains verified:** 15 chains, 104 references checked by lemma or by normalised consonantal text against `_texts/` — יְהוָה verse by verse across chs 16–22 and its run-lengths book-wide; מֶלֶךְ; מִן+יְהוָה (book-wide, 8); לֵב and דֶּרֶךְ with the divine name; תכן (book-wide, 3); the זכך/זכה root (Proverbs, 4 — two lemmas, stated at root level); קֶסֶם (index-wide, 4, **flagged as a possible undercount**); גּוֹרָל (3); מִשְׁפָּט (20); verses opening טוֹב across all six segments; the weights chain (11:1; 16:11; 20:10; 20:23) against Deut 25:13–16; עשׁק (4) and חרף (3) for the poor-and-Maker chain; the opposition and waw rates on both halves; whole-verse doublets book-wide at a 70% threshold. **Prov 22:8 checked in Swete against 2 Cor 9:7 in SBLGNT**, and 16:10's μαντεῖον in Swete.
+**One claim corrected before it reached the page:** a list of ten "better … than" verses was written from recall and reduced to **eight** by a corpus check — 16:16, 19:22 and 22:1 do not open with טוֹב, and 22:9 does but is not a comparative. *The correct figure is eight verses opening טוֹב, seven of them comparatives.*
+**Apparatus findings:** Two. The paragraph markers at 19:9 and 21:30, witness named as WLC printing the Leningrad layout, stated as a reading tradition rather than authorial, spread not independently checked and the finding tagged and capped accordingly.
+**Warrant counts:** [T] 107 · [I] 11 · [S] 18 (recomputed from the file, not estimated); 34 explicit confidence flags
 
-**Secondary sources present in context:** `book-overview-proverbs`; `dig-deeper-proverbs-sweep` (Passage 12 and Book-Level Foundations); `proverbs-collections-assessment`; `heim-cluster-map`; the three completed section runs; the ESV cross-reference apparatus, visible in the supplied text.
-
-**Tools worked before secondary sources consulted:** **Confirmed.** The *petuchah* census (including the discovery that the 14:1 paragraph closes at 19:9), the four-section antithesis comparison, the 16:2 ∥ 21:2 frame, the *gam-šənêhem* formula, the imperative and vocative counts, the 19:5/19:9 inclusio, the 18:12 splice, the *ḥadrê-bāṭen* triad, the comparative census and the divine-name distribution were **all derived from the Hebrew before the sweep or any commentary was opened.**
-
-**One exception, declared:** the ESV cross-reference apparatus was visible in the supplied text and supplied the 22:8 → 2 Cor 9:7 link. Tagged `[S]` and routed to Open Questions unverified.
-
-**Passage text:** **Verified** — BHS and ESV supplied from Logos; 204 verses parsed, chapter counts checked (33·28·24·29·30·31·29), and 16:1–22:16 isolated as 191 sayings. Every wording-dependent finding computed from the supplied Hebrew.
-
-**Quotation adaptation, declared:** structural anchors quoted; every other verse quoted at the point of use. The whole read in ESV and parsed in Hebrew.
-
-**Reference files viewed:** core 01–07 · `preacher-extras.md` · `historical-background.md` · `original-audience.md` · `original-languages.md` · `textual-variants.md` · `biblical-theology.md` · `christological-reading.md` · `difficult-verses.md` · `examples/psalm-33-worked.md`. All viewed earlier in this session and still in context. `schnittjer-pass.md` N/A, declared.
-
-**Depth floors:** **Met.** Substantial treatment: Tools 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16 (eleven, against a floor of five). Headline Findings: 5. Preaching Pitfalls: 7. Confidence flags: 35+.
-
-**Pre-output audit:** (a) full triad on both significant OT allusions ✔ · (b) both N/As reasoned ✔ · (c) confidence flags throughout ✔ · (d) `[S]` findings checked ✔ · (e) ancient-versions check ran at 16:33 ✔ · (e1) every Hebrew/Greek divergence triaged — category 1 (the three verbatim repetitions English cannot carry), category 2 (21:6), category 3 (22:8 → 2 Cor 9:7) ✔; counts stated in the Hebrew ✔ · (e2) proper-noun inventory ran — **none in 191 verses**; no absence-argument made beyond the *petuchah* pattern, which cites its comparison set ✔ · (f) depth floors met ✔ · (g) sits beside the Psalm 33 worked example ✔ · (h) all mandatory files viewed ✔ · (i) no `[T]` on authorship/date/setting claims ✔.
-
-**Warrant counts:** `[T]` 54 · `[I]` 22 · `[S]` 14
-
-**Health note.** Strongly text-dominant, and every load-bearing finding is countable and re-checkable: the four-section table, the 16:2 ∥ 21:2 frame, the eight-of-nine divine-name opening, the *gam-šənêhem* formula, the imperative census, the paragraph running 14:1 → 19:9. **The run's most consequential output is Headline 1**, which completes a comparison begun three runs ago and settles the shape of Ansberry's scheme. **Its most satisfying is the 19:9 *petuchah* landing exactly on a five-word inclusio** — the one place in four runs where the transmission and the composition have been found to agree.
-
----
-
-*Solomon 1B. Two section runs remain to complete Proverbs: the Words of the Wise (22:17–24:34) and Agur and Lemuel (30:1–31:9).*
+One-line health note: text-first throughout; the three strongest findings — the eight-verse divine-name run across the seam, the man/YHWH couplet counted in seven sentences, and the 22:8 plus behind 2 Cor 9:7 — each name their edition at the point of use and are reproducible in one command.
