@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Toolkit Amendments — Round 5</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#toolkit-amendments-round-5">Toolkit Amendments — Round 5</a></li>
+    <li><a href="#a-correction-to-the-record-first">A correction to the record, first</a></li>
+    <li><a href="#why-this-round-exists">Why this round exists</a></li>
+    <li><a href="#amendment-w-the-ketiv-rule">Amendment W — the ketiv rule</a></li>
+    <li><a href="#amendment-x-use-the-supplied-tool-and-prove-any-replacement">Amendment X — use the supplied tool, and prove any replacement</a></li>
+    <li><a href="#amendment-y-the-silent-zero-principle-and-a-positive-control">Amendment Y — the silent-zero principle, and a positive control</a></li>
+    <li><a href="#what-can-and-cannot-be-delivered-by-a-proposal-card">What can and cannot be delivered by a proposal card</a></li>
+    <li><a href="#proposed-order-of-work">Proposed order of work</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="toolkit-amendments-round-5">Toolkit Amendments — Round 5</h1>
+<p><strong>Three amendments, lettered W–Y</strong>, arising from the Ezra–Nehemiah clean-room book-overview rebuild of 19 September 2026. <strong>Status: drafted, not applied.</strong> <strong>Target files:</strong> <code>dig-deeper/SKILL.md</code>, <code>dig-deeper/references/04-words-and-translations.md</code>, <code>book-overview/SKILL.md</code>, and <code>_texts/README.md</code> in the prep folder.</p>
+<hr />
+<h2 id="a-correction-to-the-record-first">A correction to the record, first</h2>
+<p>Two status notes in circulation are wrong, and both were caught by checking the installed files rather than the previous document — which is Round 1’s own lesson doing its work.</p>
+<ol type="1">
+<li><strong>Round 3 (K–N) <em>is</em> installed.</strong> The note that it was “drafted, NOT yet applied” is stale. The installed <code>dig-deeper/SKILL.md</code> (711 lines) carries the real-file-plus-pointer filing rule, the two-pass skeletal diff, the set-the-extent-at-each-book’s-own-seams rule and the run-Move-4-once-per-book rule, and the “adopted on trial” marker on Synoptic Mode has been retired. Nothing in Round 3 is outstanding.</li>
+<li><strong>The installed <code>references/CHANGELOG.md</code> still stops at Round 2.</strong> That is expected and was recorded at the close of Round 4: a proposal card replaces <code>SKILL.md</code> and nothing else, so the full record lives in <code>_skill-examples/CHANGELOG.md</code> in the prep folder. <strong>This round’s changelog entry belongs in the prep-folder copy</strong>, and the lettering continues from V.</li>
+</ol>
+<hr />
+<h2 id="why-this-round-exists">Why this round exists</h2>
+<p>The Ezra–Nehemiah run produced two near-misses, and they are the same failure with two different causes.</p>
+<p><strong>The first.</strong> A whole-Bible search for the Exodus 34:6 formula וְרַב־חֶסֶד (“and abounding in covenant-love”) returned seven verses — Exod 34:6; Num 14:18; Joel 2:13; Jonah 4:2; Pss 86:5, 86:15, 103:8 — and <strong>did not return Nehemiah 9:17</strong>, which is the book’s clearest citation of that formula and was about to become a row in the intertextual map. The search was not at fault in any way the existing gate could see: accents were NFD-stripped, maqqef and paseq were normalised to spaces per amendment J, and a skeletal pass had been run. It missed because Codex L reads וְרַב־<strong>וחסד</strong> — a <em>ketiv</em> with an intruding waw, standing <strong>unpointed</strong> in the WLC reading text as ketiv forms do, and therefore unmatchable by any pattern spelling the qere. The lemma index had it right all along: its entry for that word is <code>c/2617 a</code>. The chain was caught, but only because the finding was cross-checked by lemma for another reason.</p>
+<p><strong>The second.</strong> The run’s first pass at the lemma index was written as a bespoke script that split the lemma field on <code>/</code> and compared for equality. It returned <strong>zero occurrences of חֶסֶד and zero of קוּם in Ezra–Nehemiah</strong> — a book that contains both, eight times and many times respectively. The cause is that the WLC lemma field carries homograph suffixes and markers: <code>2617 a</code>, <code>6965 b</code>, <code>1121 a</code>, <code>1035+</code>. An equality test on <code>2617</code> matches none of them. <strong><code>_texts/tools/find.py</code> has always handled this correctly</strong> — its pattern is <code>(^|/)&lt;n&gt;( |$|/)</code> — so the corpus was sound and the hand-rolled script was not.</p>
+<p>Both produced a <strong>nil return that is indistinguishable from a real absence</strong>. The skill already names that phrase, twice. What it has not yet done is treat the family as a family.</p>
+<h3 id="the-evidence-measured">The evidence, measured</h3>
+<p>This is not an inference from one awkward verse. The ketiv exposure was measured across the whole corpus.</p>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: right;">Hebrew/Aramaic words</th>
+<th style="text-align: right;">Unpointed (ketiv)</th>
+<th style="text-align: right;">% of words</th>
+<th style="text-align: right;">% of verses carrying one</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>WLC, whole OT</strong></td>
+<td style="text-align: right;">266,100</td>
+<td style="text-align: right;">4,197</td>
+<td style="text-align: right;"><strong>1.58 %</strong></td>
+<td style="text-align: right;"><strong>16.8 %</strong> (3,911 of 23,213)</td>
+</tr>
+<tr class="even">
+<td><strong>Ezra</strong></td>
+<td style="text-align: right;">3,452</td>
+<td style="text-align: right;">168</td>
+<td style="text-align: right;"><strong>4.87 %</strong></td>
+<td style="text-align: right;"><strong>52.9 %</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Nehemiah</strong></td>
+<td style="text-align: right;">4,738</td>
+<td style="text-align: right;">138</td>
+<td style="text-align: right;">2.91 %</td>
+<td style="text-align: right;">31.6 %</td>
+</tr>
+<tr class="even">
+<td><strong>Ezra–Nehemiah</strong></td>
+<td style="text-align: right;">8,190</td>
+<td style="text-align: right;">306</td>
+<td style="text-align: right;">3.74 %</td>
+<td style="text-align: right;"><strong>40.3 %</strong> (276 of 685)</td>
+</tr>
+</tbody>
+</table>
+<p><code>[T — counted from the WLC reading text: a word containing Hebrew consonants and no combining marks at all]</code></p>
+<p><strong>Ezra is the densest book in the Hebrew Bible for ketiv forms</strong>, ahead of 1 Chronicles (3.07 %), Nehemiah, Daniel (2.45 %), 2 Samuel and Jeremiah. <strong>More than half of Ezra’s verses contain at least one word a qere-spelled pattern cannot match</strong>, against an OT average of one verse in six. A surface or phrase search run anywhere in this book is more likely than not to be looking at a verse it cannot fully see — and the same is true, at lower odds, of every sixth verse in the canon.</p>
+<hr />
+<h2 id="amendment-w-the-ketiv-rule">Amendment W — the ketiv rule</h2>
+<p><strong>Files:</strong> <code>dig-deeper/SKILL.md</code> (gate item e3), <code>book-overview/SKILL.md</code> (Phase 10.5 item a), <code>dig-deeper/references/04-words-and-translations.md</code> (Tool 7, “Verify before you report”), <code>_texts/README.md</code>.</p>
+<h3 id="w1-dig-deeperskill.md-phase-10.5-gate-item-e3">W1 — <code>dig-deeper/SKILL.md</code>, Phase 10.5 gate item (e3)</h3>
+<p>Item (e3) currently carries the phrase-search rule in two clauses: the maqqef/paseq normalisation (amendment J) and the skeletal plene/defective pass. <strong>Insert a third clause after the skeletal-pass clause</strong>, before “a reference that fails is removed from the chain”:</p>
+<blockquote>
+<p><strong>and where any word in the search window stands <em>unpointed</em>, the search has met a ketiv and cannot match it:</strong> the WLC prints the ketiv consonants without vowels and the qere only in the Masorah, so a pattern spelling the qere silently skips the verse — <strong>a word carrying Hebrew consonants and no combining marks at all is the mechanical signal</strong>, and the chain must then be confirmed against the lemma index, which carries the correct lemma for the ketiv form regardless of its spelling. <strong>This is not a rare case: 16.8 % of the Hebrew Bible’s verses carry at least one unpointed form, and in Ezra it is 52.9 %.</strong> The Neh 9:17 ketiv וְרַב־<strong>וחסד</strong> hid that verse’s citation of Exod 34:6 from a phrase search that was otherwise correctly normalised;</p>
+</blockquote>
+<h3 id="w2-book-overviewskill.md-phase-10.5-item-a">W2 — <code>book-overview/SKILL.md</code>, Phase 10.5 item (a)</h3>
+<p>The book-overview gate carries the shorter form of the same rule. <strong>Current text:</strong></p>
+<blockquote>
+<p>Where a phrase search is unavoidable, normalise maqqef, paseq and sof pasuq to spaces as well as NFD-stripping combining marks, and run a second <em>skeletal</em> pass with waw, yod and word-final <em>he</em> deleted, since a defective spelling drops a verse silently and an undercount is indistinguishable from a count.</p>
+</blockquote>
+<p><strong>Replace with:</strong></p>
+<blockquote>
+<p>Where a phrase search is unavoidable, normalise maqqef, paseq and sof pasuq to spaces as well as NFD-stripping combining marks; run a second <em>skeletal</em> pass with waw, yod and word-final <em>he</em> deleted, since a defective spelling drops a verse silently and an undercount is indistinguishable from a count; and <strong>treat any unpointed word in the window as a ketiv the pattern cannot match — confirm the chain by lemma before trusting the result.</strong> One verse in six of the Hebrew Bible carries an unpointed form, and in some books more than half do.</p>
+</blockquote>
+<h3 id="w3-dig-deeperreferences04-words-and-translations.md-tool-7-verify-before-you-report">W3 — <code>dig-deeper/references/04-words-and-translations.md</code>, Tool 7, “Verify before you report”</h3>
+<p>The bullet ends: <em>“Two searches in the Decalogue run returned nil on texts that contained the phrase for exactly this reason, and <strong>a nil return is indistinguishable from a real absence.</strong>”</em></p>
+<p><strong>Append:</strong></p>
+<blockquote>
+<p><strong>The third cause is the ketiv.</strong> Where the Masoretes read a word other than the one the consonants spell, the WLC prints the ketiv <strong>unpointed</strong> and leaves the qere to the Masorah — so a pattern spelling the qere, however carefully normalised, does not see the verse. The signal is mechanical: <strong>a word with Hebrew consonants and no combining marks at all</strong>. The lemma index is unaffected and carries the right lemma either way, so <strong>any nil or short return from a phrase search is confirmed by lemma before it is reported as an absence</strong>. Neh 9:17’s וְרַב־<strong>וחסד</strong> cost a correctly-normalised whole-Bible search the book’s clearest citation of Exod 34:6.</p>
+</blockquote>
+<h3 id="w4-_textsreadme.md">W4 — <code>_texts/README.md</code></h3>
+<p>Under <strong>File formats</strong>, after the sentence <em>“Search the lemma column, not the pointed surface form — pointing, prefixes and suffixes make surface search unreliable, which is exactly how a chain gets claimed at a verse that does not contain the word”</em>, add:</p>
+<blockquote>
+<p><strong>The ketiv is the sharpest form of this.</strong> The reading text prints a ketiv with its consonants and <strong>no pointing</strong>; the qere is not in the file. So an unpointed word is the corpus telling you that what the Masoretes read is not what you are looking at. Measured across the WLC: <strong>4,197 unpointed words, 1.58 % of the text, in 3,911 verses — 16.8 % of the canon.</strong> The densest books are Ezra (4.87 % of words, 52.9 % of verses), 1 Chronicles (3.07 %), Nehemiah (2.91 %), Daniel (2.45 %), 2 Samuel (2.31 %) and Jeremiah (2.29 %). The <code>_index/</code> lemma files are unaffected — they carry the correct lemma for the ketiv form — so <strong>lemma searches survive the ketiv and surface searches do not</strong>.</p>
+</blockquote>
+<hr />
+<h2 id="amendment-x-use-the-supplied-tool-and-prove-any-replacement">Amendment X — use the supplied tool, and prove any replacement</h2>
+<p><strong>Files:</strong> <code>dig-deeper/references/04-words-and-translations.md</code>, <code>book-overview/SKILL.md</code> Phase 10.5(a), <code>_texts/README.md</code>.</p>
+<h3 id="x1-_textsreadme.md-under-using-it">X1 — <code>_texts/README.md</code>, under <strong>Using it</strong></h3>
+<p>After the command block, add:</p>
+<blockquote>
+<p><strong>The lemma field is not a plain number.</strong> It carries homograph letters and markers — <code>2617 a</code>, <code>6965 b</code>, <code>1121 a</code>, <code>1035+</code> — and morphemes separated by <code>/</code> (<code>c/1961</code>). <code>find.py</code> accounts for all of this; its matcher is <code>(^|/)&lt;number&gt;( |$|/)</code>. <strong>An equality test on the split field returns a silent zero for many of the commonest words in the Bible</strong>, and a silent zero from a lemma search is the one result this corpus exists to make impossible. So: <strong>run chain checks with <code>find.py</code>.</strong> If a run needs something <code>find.py</code> does not do, the bespoke script is checked against <code>find.py</code> on one lemma known to be present <em>before</em> any of its output is believed.</p>
+</blockquote>
+<h3 id="x2-04-words-and-translations.md-tool-7-new-bullet-after-verify-before-you-report">X2 — <code>04-words-and-translations.md</code>, Tool 7, new bullet after “Verify before you report”</h3>
+<blockquote>
+<ul>
+<li><strong>Verify with the corpus’s own tool.</strong> <code>python3 tools/find.py lemma &lt;strongs&gt; [Book]</code> lists every occurrence; <code>python3 tools/find.py verify &lt;strongs&gt; &lt;Ref&gt; &lt;Ref&gt; …</code> tests a claimed chain and <strong>exits non-zero if any reference fails</strong>, so it can gate a script. Use them. A hand-written lemma matcher is a known failure mode, not a hypothetical one: in the Ezra–Nehemiah run of 19 September one returned <strong>zero</strong> occurrences of חֶסֶד (“covenant-love”) and <strong>zero</strong> of קוּם (“to arise”) in a book that contains both, because the WLC lemma field carries homograph suffixes (<code>2617 a</code>, <code>6965 b</code>) that an equality test does not match. <code>find.py</code> had the right answer in one line.</li>
+</ul>
+</blockquote>
+<h3 id="x3-book-overviewskill.md-phase-10.5-item-a">X3 — <code>book-overview/SKILL.md</code>, Phase 10.5 item (a)</h3>
+<p>Append to the item, after the W2 sentence:</p>
+<blockquote>
+<p>Chains are checked with <code>_texts/tools/find.py</code> (<code>lemma</code> to list, <code>verify</code> to gate); a bespoke matcher is validated against it on a known-positive lemma before its output is used, since the lemma field’s homograph suffixes make a naive equality test return a silent zero.</p>
+</blockquote>
+<hr />
+<h2 id="amendment-y-the-silent-zero-principle-and-a-positive-control">Amendment Y — the silent-zero principle, and a positive control</h2>
+<p><strong>File:</strong> <code>dig-deeper/SKILL.md</code>, Phase 10.5 gate item (e3); <code>book-overview/SKILL.md</code>, Phase 10.5 item (a).</p>
+<p>W and X are the third and fourth members of a family the toolkit has been extending one patch at a time:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Cause</th>
+<th>Added</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Maqqef and paseq survive accent-stripping</td>
+<td>Round 2 (J)</td>
+<td>Phrase pattern returns nil on a text containing the phrase</td>
+</tr>
+<tr class="even">
+<td>Plene / defective spelling</td>
+<td>Round 2 (e3, skeletal pass)</td>
+<td>Verse silently dropped; an undercount looks like a count</td>
+</tr>
+<tr class="odd">
+<td><strong>Ketiv stands unpointed</strong></td>
+<td><strong>Round 5 (W)</strong></td>
+<td>Verse invisible to any qere-spelled pattern</td>
+</tr>
+<tr class="even">
+<td><strong>Hand-rolled lemma matcher</strong></td>
+<td><strong>Round 5 (X)</strong></td>
+<td>Zero occurrences of a word the book uses repeatedly</td>
+</tr>
+</tbody>
+</table>
+<p>Four causes, one effect. A fifth will arrive, and the gate should not have to wait for it. <strong>Add to gate item (e3) in <code>dig-deeper/SKILL.md</code>, and to Phase 10.5(a) in <code>book-overview/SKILL.md</code>, as the item’s closing sentence:</strong></p>
+<blockquote>
+<p><strong>A nil or surprisingly short return is never reported as an absence until a positive control has passed.</strong> Run the identical search against one reference the item is <em>known</em> to contain — a lexicon entry, a concordance line, a verse already read — and see it returned. If the control fails, the search is broken and the text is innocent; if the control passes, the absence is evidence. This costs one command and catches every member of the family at once, including the causes not yet met: maqqef and paseq, plene and defective spelling, the ketiv, a mis-written matcher, a wrong book filter, a versification offset. <strong>An unverified absence is a claim like any other, and it is the one kind this corpus makes easiest to get wrong.</strong></p>
+</blockquote>
+<p><strong>Honest note on Y’s warrant.</strong> W and X are data-driven: each rests on a measured failure in a live run, and W’s scope is quantified canon-wide. Y is a <strong>generalisation from four data points</strong>, in the same position amendment G occupied in Round 2 — a design inferred from a pattern rather than demonstrated by a run. It should go in on the same terms G did, <strong>marked in the file as adopted on trial</strong>, and be withdrawn if the positive control proves to be friction without yield after three runs. The test is simple: does any run in the next three report a control that failed? If none does, the control is ceremony and should go.</p>
+<hr />
+<h2 id="what-can-and-cannot-be-delivered-by-a-proposal-card">What can and cannot be delivered by a proposal card</h2>
+<p>Learned in Rounds 3 and 4 and still true:</p>
+<ul>
+<li><strong><code>SKILL.md</code> only.</strong> A proposal card replaces the whole of one skill’s <code>SKILL.md</code> and touches nothing else. <strong>W1, W2, X3 and Y can be delivered that way</strong> — two cards, one per skill.</li>
+<li><strong>The reference tree cannot.</strong> <strong>W3, X2</strong> live in <code>dig-deeper/references/04-words-and-translations.md</code> and need either a <code>.skill</code> package (<code>skill-creator</code>’s <code>scripts/package_skill.py</code>) or a mirrored copy in <code>_skill-examples/</code>. Round 4’s package built cleanly but its install card never became visible, so the prep-folder mirror is the reliable route until that is fixed.</li>
+<li><strong><code>_texts/README.md</code> (W4, X1) is not part of any skill</strong> — it is a file in the prep folder and can simply be edited.</li>
+<li><strong>Two standing checks apply after any card is saved.</strong> Diff the installed <code>SKILL.md</code> against the intended text (Round 3 lost a paragraph silently). And check every Hebrew word the card touched against the WLC (Round 4’s card damaged three in transmission, one of them inside the sentence teaching the paronomasia exception). Note that a card’s transmission applies <strong>NFC</strong> while the corpus is not NFC, so compare after NFD-stripping, never byte for byte.</li>
+</ul>
+<hr />
+<h2 id="proposed-order-of-work">Proposed order of work</h2>
+<ol type="1">
+<li>Edit <code>_texts/README.md</code> directly — <strong>W4, X1</strong>. No card, no package, immediate.</li>
+<li>Card 1: <code>book-overview/SKILL.md</code> — <strong>W2, X3, Y</strong>. Diff and Hebrew-check after saving.</li>
+<li>Card 2: <code>dig-deeper/SKILL.md</code> — <strong>W1, Y</strong>. Diff and Hebrew-check after saving.</li>
+<li>Mirror <strong>W3, X2</strong> into <code>_skill-examples/</code> and add the pointer, or build the <code>.skill</code> package if the install card is working again.</li>
+<li>Add the Round 5 entry to <code>_skill-examples/CHANGELOG.md</code> — <strong>not</strong> the installed <code>references/CHANGELOG.md</code>, which is superseded.</li>
+</ol>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Round</strong> 5 · <strong>Amendments</strong> W, X, Y · <strong>Date</strong> 19 September 2026 · <strong>Status</strong> drafted, not applied</p>
+<p><strong>Source run.</strong> The Ezra–Nehemiah clean-room book-overview rebuild and its import claim audit, both of 19 September 2026, filed in <code>Ezra-Nehemiah/</code>.</p>
+<p><strong>Evidence base.</strong> W: one live near-miss (Neh 9:17) plus a canon-wide measurement of ketiv density over all 266,100 Hebrew and Aramaic words of the WLC. X: one live failure in the same run, plus inspection of <code>_texts/tools/find.py</code>, which was found to be correct — the fault was in a replacement for it, not in the corpus. Y: inferred from the four-member pattern tabulated above; <strong>marked for trial, not settled</strong>.</p>
+<p><strong>Installed files checked before drafting, not assumed.</strong> <code>dig-deeper/SKILL.md</code> (711 lines; Rounds 1–4 present, Round 3’s K–N confirmed installed and the Synoptic Mode trial marker retired); <code>dig-deeper/references/04-words-and-translations.md</code> (Tool 7’s “Verify before you report” carries amendment J); <code>dig-deeper/references/CHANGELOG.md</code> (stops at Round 2, as Round 4 recorded); <code>book-overview/SKILL.md</code> (v0.2.0 shape, Phase 10.5 present); <code>_texts/tools/find.py</code>; <code>_texts/README.md</code>.</p>
+<p><strong>Health note.</strong> Two amendments that close measured holes and one that tries to stop the next one being a fifth patch. Nothing here changes what the toolkit looks for — only what it is willing to believe when it finds nothing.</p>
+
+</main>
+</div>
+</body>
+</html>

@@ -211,18 +211,6 @@ Hebrew lemmas are Strong's numbers, prefixed morphemes separated by `/`
 and suffixes make surface search unreliable, which is exactly how a chain gets
 claimed at a verse that does not contain the word.
 
-**The ketiv is the sharpest form of this.** The reading text prints a ketiv with its
-consonants and **no pointing**; the qere is not in the file. So an unpointed word is the
-corpus telling you that what the Masoretes read is not what you are looking at — and no
-pattern spelling the qere can match it, however carefully accents, maqqef and paseq have
-been normalised. Measured across the WLC: **4,197 unpointed words, 1.58 % of the text, in
-3,911 verses — 16.8 % of the canon.** The densest books are **Ezra (4.87 % of words,
-52.9 % of verses)**, 1 Chronicles (3.07 %), Nehemiah (2.91 %), Daniel (2.45 %),
-2 Samuel (2.31 %) and Jeremiah (2.29 %). The `_index/` lemma files are unaffected — they
-carry the correct lemma for the ketiv form whatever its spelling — so **lemma searches
-survive the ketiv and surface searches do not.** A whole-Bible search for וְרַב־חֶסֶד in
-September 2026 returned seven verses and missed Neh 9:17, whose ketiv is וְרַב־וחסד.
-
 ### Chapter markers in the Logos exports — seven conventions, no two alike
 
 `logos-exports/` is not one format. Each version exports chapter and verse
@@ -261,17 +249,6 @@ python3 tools/find.py show "Gen 1:1"          the verse in every layer
 script. It is the mechanical form of the discipline the Jonah and Exodus claim
 audits arrived at independently: **re-verify every claimed chain against the
 text before it reaches an overview.**
-
-**The lemma field is not a plain number, and `find.py` is why that does not matter.**
-It carries homograph letters and markers — `2617 a`, `6965 b`, `1121 a`, `1035+` — as
-well as the prefixed morphemes separated by `/`. `find.py` accounts for all of it; its
-matcher is `(^|/)<number>( |$|/)`. **An equality test on the split field returns a silent
-zero for many of the commonest words in the Bible**, and a silent zero from a lemma search
-is the one result this corpus exists to make impossible. So: **run chain checks with
-`find.py`.** If a run needs something `find.py` does not do, check the bespoke script
-against `find.py` on one lemma known to be present *before* believing any of its output.
-In the Ezra–Nehemiah run of 19 September 2026 a hand-written matcher reported **zero**
-occurrences of חֶסֶד and **zero** of קוּם in a book that contains both.
 
 Worked example — the error the Exodus audit found by hand:
 
