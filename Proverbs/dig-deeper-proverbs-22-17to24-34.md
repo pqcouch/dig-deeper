@@ -1,95 +1,63 @@
 # Dig Deeper: Proverbs 22:17–24:34
 
-**Translation:** ESV · **Hebrew:** BHS (Elliger–Rudolph–Weil), supplied verified
-**Pulpit translation:** ESV (Anglicised) — same text as the report default
-**Date:** 20 August 2026
-**Book-overview context:** `book-overview-proverbs` (v1.1, upgraded 17 August) — in project
-**Series context:** The Words of the Wise. The fifth of five section runs completing the sentence literature, and **the only one that is not a sentence collection.**
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/03-Proverbs.txt` and its lemma index) · Swete LXX (`_texts/greek-lxx-swete/19-Proverbs.txt`, `18-Psalms.txt`) · SBLGNT
+**Study text:** NASB95 (Logos export)
+**Pulpit text:** NIV84 (first engagement)
+**Date:** 23 September 2026
+**Book-overview context:** `book-overview-proverbs` v2.0, in conversation; its four threads front-loaded at Phase 0.5
+**Series context:** Sermon 6 of nine, *The words of the wise*. The five completed Proverbs runs of 17–18 September are consumed at Phase 5.5, not re-worked.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference from the text · `[S]` supplied by a secondary source.
+**A note on "the majority text".** The request asks the run to rest on the original rather than on any English version, and names the majority text. **The Hebrew Bible has no majority text in the sense the phrase carries in New Testament criticism** — there is no large family of late manuscripts standing against an eclectic edition. What there is, is the **Masoretic tradition**, whose standard complete witness is Codex Leningradensis (B19a); the WLC transcribes it and BHS prints it. **That is the substrate here**, and where a finding turns on a reading rather than on the wording generally it is taken from BHS or from Logos, not from the transcription.
 
-> **Method, as with the previous runs.** Text-first: the Hebrew was parsed and the structure worked out before any secondary source was opened. Heim's map stops at 22:16, so **for this passage there is no map to be corroborated by** — the structural findings below stand on the text alone.
-
----
-
-## Headline Findings
-
-1. **The Masoretic paragraphing is fifteen times denser here than in Solomon 1A — and that is the explanation the project has been missing.** `[T]` Seven markers in 82 verses, one per twelve, against **one internal marker in the 184 verses of 10:1–15:33.**
-
-   | Section | Verses | Internal markers | One per |
-   |---|---:|---:|---:|
-   | **22:17–24:34** — Words of the Wise | 82 | **7** | **12** |
-   | 28:1–29:27 — Solomon 2B | 55 | 4 | 14 |
-   | 25:1–27:27 — Solomon 2A | 83 | 4 | 21 |
-   | 16:1–22:16 — Solomon 1B | 191 | 2 | 96 |
-   | 10:1–15:33 — Solomon 1A | 184 | **1** | **184** |
-
-   Surfaced by: Structure, Genre. *High confidence — countable.* **The markers track genre, not collection.** Instruction material has visible units; a sentence heap does not. That is why the paragraphing has ignored every collection boundary the project has tested — it was never marking collections.
-
-2. **And the one boundary it does mark, it marks correctly — with the lesser of the two markers.** `[T]` **24:22 carries a *setumah* (ס), the only one in the whole project**, and it falls exactly at the seam between the Words of the Wise (22:17–24:22) and *"These also are sayings of the wise"* (24:23–34). Surfaced by: Structure. *High confidence.* **The Masoretes used *petuchah* for units of reading and reserved *setumah* for the join between two closely related collections** — which is precisely the right instrument for that seam, and it means their silence elsewhere was deliberate rather than careless.
-
-   > **▶ Added 26 August 2026 — and the Greek agrees, twice.** `[T]` From the whole-book survey (`proverbs-lxx-pluses-survey`), which this report predates. **Three independent witnesses now converge on 24:22:**
-   >
-   > 1. **The Hebrew marks it** — the *setumah* above, the only one in the project.
-   > 2. **The Greek breaks its arrangement there.** The Septuagint interposes **30:1–14 immediately after 24:22**, and the source's own block heading reads `CHAPTER 24 (VS 1-22E)`.
-   > 3. **The Greek expands there.** **24:22a–e** — five verses on the king's tongue as a sword — is **the longest continuous plus anywhere in Greek Proverbs**, and it sits at the same join.
-   >
-   > **Two traditions that order this book differently both treat 24:22 as a hinge.** `[I]` *Moderate–high.* Whether the expansion motivated the transposition, marks it, or merely accompanies it, the survey could not say; but the coincidence is exact. **This considerably strengthens Headline 2** — the seam is no longer attested by one witness but by three.
-
-3. **The collection frames itself on the LORD: trust at the opening, fear at the close.** `[T]`
-   > **22:19** — *that your **trust** may be in **YHWH**, I have made them known to you today, even to you.*
-   > **24:21** — ***Fear YHWH***, my son, **and the king**.
-
-   Only **five** verses in 82 name YHWH (22:19, 22:23, 23:17, 24:18, 24:21), and two of them are the stated purpose of the instruction and its final vocative. Surfaced by: Repetition, Structure, Author's Purpose, Move 4. *High on the data; moderate–high on the frame.* **A collection borrowed in large part from Egypt announces at its head that its object is trust in YHWH.**
-
-4. **Two four-word verbatim frames, and one closes exactly on a paragraph marker.** `[T]`
-   - ***ʾal-tassēg gəbûl ʿôlām*** — *"do not move the ancient boundary"* — at **22:28 and 23:10**, with the second colon changed from *"which your fathers set"* to *"do not enter the fields of the fatherless."*
-   - ***ʾaḥărît wətiqwātəkā lōʾ tikkārēt*** — *"there is a future, and your hope will not be cut off"* — at **23:18 and 24:14**, and **24:14 carries a *petuchah***. Then **24:20 negates it**: *"the evil man has no future."*
-
-   Surfaced by: Repetition, Structure, Move 4. *High confidence.* **The second is the collection's theological spine** — the promise stated, repeated, then withheld from the wicked.
-
-5. **This is the most directly spoken material in the sentence literature, and by a wide margin.** `[T]` **Five vocatives** (23:15, 19, 26; 24:13, 21), **twenty-two *ʾal*-prohibitions**, **twenty-two motive *kî*-clauses**, and **thirty-eight of eighty-two verses carrying a second-person suffix.** Set against Solomon 1A's one imperative and no vocative in 184 verses. Surfaced by: Tone, Linking Words, Genre, Who Am I. *High confidence.* **The voice of chapters 1–9 returns almost in full.**
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from it · `[S]` supplied by a secondary source.
 
 ---
 
 ## The Passage
 
-**A note on quotation.** At 82 verses this could be quoted whole, but the report is better served by anchors; the ESV was read in full and the Hebrew parsed verse by verse.
+**82 verses** `[T]`, WLC — 13 in chapter 22, 35 in chapter 23, 34 in chapter 24. The prologue is quoted in full because the findings concentrate there; every other verse a finding rests on is given at the point of use.
 
-> **22:17** Incline your ear, and hear the words of the wise, and apply your heart to my knowledge,
-> **22:19** that your trust may be in the LORD, I have made them known to you today, even to you.
-> **22:20** Have I not written for you thirty sayings of counsel and knowledge?
-> **22:21** …that you may give a true answer to those who sent you? **פ**
->
-> **22:22** Do not rob the poor, because he is poor, or crush the afflicted at the gate,
-> **22:23** for the LORD will plead their cause and rob of life those who rob them.
-> **22:28** Do not move the ancient landmark that your fathers have set.
-> **22:29** Do you see a man skilful in his work? He will stand before kings. **פ**
->
-> **23:4** Do not toil to acquire wealth; be discerning enough to desist.
-> **23:5** When your eyes light on it, it is gone, for suddenly it sprouts wings, flying like an eagle toward heaven. **פ**
->
-> **23:10** Do not move an ancient landmark or enter the fields of the fatherless,
-> **23:11** for their Redeemer is strong; he will plead their cause against you.
-> **23:15** My son, if your heart is wise, my heart too will be glad.
-> **23:18** Surely there is a future, and your hope will not be cut off.
-> **23:26** My son, give me your heart, and let your eyes observe my ways.
-> **23:29** Who has woe? Who has sorrow? Who has strife? Who has complaining?
-> **23:35** "They struck me," you will say, "but I was not hurt… When shall I awake? I must have another drink."
->
-> **24:11** Rescue those who are being taken away to death; hold back those who are stumbling to the slaughter.
-> **24:12** If you say, "Behold, we did not know this," does not he who weighs the heart perceive it?
-> **24:13** My son, eat honey, for it is good…
-> **24:14** …if you find it, there will be a future, and your hope will not be cut off. **פ**
-> **24:20** for the evil man has no future; the lamp of the wicked will be put out.
-> **24:21** My son, fear the LORD and the king, and do not join with those who do otherwise. **ס** *(after v.22)*
->
-> **24:23** These also are sayings of the wise. Partiality in judging is not good.
-> **24:30** I passed by the field of a sluggard, by the vineyard of a man lacking sense…
-> **24:32** Then I saw and considered it; I looked and received instruction.
-> **24:33–34** A little sleep, a little slumber… and poverty will come upon you like a robber. **פ**
+**The prologue — 22:17–21**
 
-*(ESV. **פ** and **ס** mark the paragraph markers carried in BHS; they are not part of the ESV.)*
+> **17** הַט אָזְנְךָ וּשְׁמַע דִּבְרֵי חֲכָמִים וְלִבְּךָ תָּשִׁית לְדַעְתִּי׃
+> **18** כִּי־נָעִים כִּי־תִשְׁמְרֵם בְּבִטְנֶךָ יִכֹּנוּ יַחְדָּו עַל־שְׂפָתֶיךָ׃
+> **19** לִהְיוֹת בַּיהוָה מִבְטַחֶךָ הוֹדַעְתִּיךָ הַיּוֹם אַף־אָתָּה׃
+> **20** הֲלֹא כָתַבְתִּי לְךָ **שלשום** בְּמוֹעֵצֹת וָדָעַת׃
+> **21** לְהוֹדִיעֲךָ קֹשְׁטְ אִמְרֵי אֱמֶת לְהָשִׁיב אֲמָרִים אֱמֶת לְשֹׁלְחֶיךָ׃ **פ**
+
+> **17** Incline your ear and hear the words of the wise, / And apply your mind to my knowledge;
+> **18** For it will be pleasant if you keep them within you, / That they may be ready on your lips.
+> **19** So that your trust may be in the LORD, / I have taught you today, even you.
+> **20** Have I not written to you excellent things / Of counsels and knowledge,
+> **21** To make you know the certainty of the words of truth / That you may correctly answer him who sent you?
+>
+> (NASB95)
+
+*The unpointed* **שלשום** *at v.20 is not a typographical accident: the WLC prints the ketiv without vowels and leaves the qere to the Masorah. See Tool 8 and Textual Variants — it is the most consequential word in the unit.*
+
+**The second collection opens at 24:23**
+
+> **23** גַּם־אֵלֶּה לַחֲכָמִים הַכֵּר־פָּנִים בְּמִשְׁפָּט בַּל־טוֹב׃
+> "These also are sayings of the wise. / To show partiality in judgment is not good." (NASB95)
+
+**And the unit closes where chapter 6 already closed**
+
+> **33** מְעַט שֵׁנוֹת מְעַט תְּנוּמוֹת מְעַט חִבֻּק יָדַיִם לִשְׁכָּב׃
+> **34** וּבָא־מִתְהַלֵּךְ רֵישֶׁךָ וּמַחְסֹרֶיךָ כְּאִישׁ מָגֵן׃ **פ**
+
+---
+
+## Headline Findings
+
+1. **This is the most directly addressed and most prohibitive material in the book — more so than the long address of chapters 1–9.** `[T]`, WLC. **אַל ("do not") stands in 22 of the 82 verses — 26.8%** — against 12.5% in chapters 1–9, **0.5%** in 10:1–15:33, 2.1% in 16:1–22:16, 6.5% in 25–29 and 9.4% in 30–31. **And 48.8% of these verses carry a second-person verb or suffix**, against 36.3% in the frame and 0.5% in the first Solomonic collection. Five בְּנִי ("my son") vocatives return — 23:15, 19, 26; 24:13, 21 `[T]`. **The wise do not speak more gently than the father; they speak more bluntly, and almost entirely in the negative.** Surfaced by: Author's Purpose, Structure, Linking Words, Genre, Tone. *High confidence on the counts.*
+
+2. **Both text traditions mark 24:22/23 as a major join, and they do it by entirely different means.** `[T]`, WLC and Swete. In the Leningrad layout the unit carries **seven paragraph markers in 82 verses** — one every twelve verses, against one every ninety-four in 10:1–22:16 — **and the marker at 24:22 is a setumah (ס), the only one in the whole book** `[T]`. In the Greek, **fourteen verses of Agur (MT 30:1–14) stand between MT 24:22 and MT 24:23**: Swete 24:24–37 carries Agur's material and **MT 24:23 resumes only at Swete 24:38** `[T]`, Swete. **Two independent witnesses, one seam.** Surfaced by: Structure, Translations, Textual Variants, Context. *High confidence on both observations; the relation between them is an open question.*
+
+3. **The verse that would give this collection its shape is the one no tradition agrees on — and the pulpit text prints an emendation.** `[T]`. At **22:20** the WLC prints the ketiv **שלשום** unpointed; the qere is **שָׁלִישִׁים**; Swete has **τρισσῶς** ("threefold") `[T]`, Swete; and BHS proposes **שְׁלֹשִׁים** ("thirty"), comparing the thirty chapters of Amenemope `[S: BHS, apparatus at 22:20ᵇ]`. **NASB95 renders the qere — "excellent things". NIV84's main text reads "thirty sayings", with the other options in a footnote.** *A preacher who counts thirty sayings is counting on a conjecture.* Surfaced by: Translations, Textual Variants, Vocabulary, Structure. *High confidence on the four readings; the emendation is `[S]` and stays there.*
+
+4. **At 24:12 the Greek creates a formula the Hebrew does not have, and Romans 2:6 is a blend of it with a psalm.** `[T]`, WLC + Swete + SBLGNT. Prov 24:12 ends **וְהֵשִׁיב לְאָדָם כְּפָעֳלוֹ**; Ps 62:13 ends **תְשַׁלֵּם לְאִישׁ כְּמַעֲשֵׂהוּ** — **different verb, different noun for "man", different noun for "work"; the two share no lexeme** `[T]`. In Greek they converge: Swete Prov 24:12 ὃς **ἀποδίδωσιν ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ**, Swete Ps 61:13 σὺ **ἀποδώσεις ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ** — **four words identical** `[T]`. **Rom 2:6 reads ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ — the relative pronoun of Proverbs with the future tense of the Psalm.** Surfaced by: Translations, Tool 11, Biblical Theology, Christological Reading. *High confidence on every wording; the blend is stated as observation.*
+
+5. **24:21 gives one verb two objects, and the New Testament separates them.** `[T]`. The Hebrew is **יְרָא־אֶת־יְהוָה בְּנִי וָמֶלֶךְ** — a single imperative governing both YHWH and the king — and Swete keeps it: φοβοῦ τὸν θεόν, υἱέ, καὶ βασιλέα `[T]`, Swete. **1 Pet 2:17 splits the verb**: τὸν θεὸν **φοβεῖσθε**, τὸν βασιλέα **τιμᾶτε** ("fear God, honour the king") `[T]`, SBLGNT. **The proverb asks one thing of a son toward two authorities; the apostle asks two different things.** Surfaced by: Tool 11, Vocabulary, Historical Background, Biblical Theology. *High confidence on the wordings; the reading of the difference is `[I]`, moderate-to-high.*
 
 ---
 
@@ -97,17 +65,13 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 ### 1. Author's Purpose
 
-**This is the only section of the sentence literature that states its own purpose**, and it does so three times in five verses. `[T]`
+**At book level** the overview's microscript holds: wisdom is acquired and self-certification is what the book removes `[S: overview]`.
 
-> **22:19** — *"**that your trust may be in the LORD**, I have made them known to you today, even to you."*
-> **22:21** — *"**to make you know what is right and true**, that you may give a true answer to those who sent you."*
-> **22:20** — *"Have I not written for you [thirty sayings] **of counsel and knowledge**?"*
+**At passage level the purpose is stated outright, which is unusual in this book.** 22:19 gives a purpose clause — **לִהְיוֹת בַּיהוָה מִבְטַחֶךָ** ("so that your trust may be in the LORD") — and 22:21 gives a second: **לְהָשִׁיב אֲמָרִים אֱמֶת לְשֹׁלְחֶיךָ** ("that you may correctly answer him who sent you") `[T]`. **No other collection in Proverbs says what it is for.** The prologue of 1:2–6 does it for the whole book; this unit does it for itself.
 
-**Three purposes, and they are not the same.** `[I]` *Moderate–high.* The first is **theological** (trust in YHWH); the second is **vocational** (a true answer to those who sent you — a messenger, an envoy, someone answerable to a superior); the third is **formal** (a written collection of a stated size). **A section that will borrow heavily from a foreign wisdom tradition begins by naming the God to whom the borrowing is directed.**
+**And the two purposes are of different kinds.** The first is **theological** — the material exists to relocate a young man's trust. The second is **vocational** — it exists so that he can give a straight answer to whoever sent him. `[T]` **A collection that names both is addressing someone who will be answerable to a superior**, and the material that follows fits: how to behave at a ruler's table (23:1–3), how not to wear yourself out for wealth (23:4–5), how to stand before kings (22:29) `[T]`.
 
-**And the vocational purpose is unique in the book.** `[T]` *"That you may give a true answer to those who sent you"* (*ləšōləḥekā*) assumes a reader who is *sent* — who carries a message and must report back. Nothing else in Proverbs addresses that situation directly, and it matches the courtly-formation reading the project has held at `[I]`/`[S]`.
-
-**Book-overview note:** this confirms the overview's reconstruction of the addressee more directly than any other passage. 22:21 is the closest thing in the book to a statement of the reader's job.
+**The form matches the purpose.** This is the book's most prohibitive stretch (Headline 1), and prohibitions are what you give someone who is about to be in a position to do damage. *The register is not the classroom but the briefing.* `[I]`, *moderate-to-high*.
 
 ---
 
@@ -115,407 +79,297 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 #### Positional Necessity Check
 
-**Preceding movement.** Solomon 1B has spent 191 verses on divine sovereignty and the limits of self-assessment, framed by *"all a man's ways are pure in his own eyes, but the LORD weighs the spirit"* (16:2 ∥ 21:2). Its last verse before the seam is 22:16, on oppressing the poor to enrich oneself.
+**Preceding movement.** Solomon I has just finished, and it finished badly for the reader. **Its second half told him that the weighing is not his** (16:2; 21:2), asked **who can say "I have cleansed my heart"** (20:9) and left it unanswered, and closed at 22:16 on a man oppressing the poor to enrich himself `[S: Solomon I runs]`. **375 verses of description, no addressee, and a question the collection would not answer.**
 
-**Necessity answer.** `[I]` *Moderate–high.* **1B ends by telling the reader he cannot assess himself; the Words of the Wise begins by telling him how to learn.** The transition is from *what a man cannot know* to *how instruction is received* — "incline your ear, hear, apply your heart" (22:17), "keep them within you… ready on your lips" (22:18). **A collection that has demolished self-assessment must be followed by one that supplies an external authority**, and 22:17–21 does exactly that: words of the wise, written down, learned by heart, aimed at trust in YHWH.
+**Necessity answer.** This unit exists *here* because **description has run out and someone has to be told what to do.** The move is visible in one line of measurement: the second-person rate goes from **0.5% in 10:1–15:33 and 4.2% in 16:1–22:16 to 48.8% here** `[T]`. **And the first thing the new voice does is name the point of the exercise** — 22:19's "so that your trust may be in the LORD" — which is precisely what Solomon I never said in 375 verses, because it never addressed anyone.
 
-**And there is a formal answer too.** The four sentence collections alternate between antithetical and non-antithetical registers (81% · 20% · 7% · 60%). **The Words of the Wise sits between 1B and 2A — the two least antithetical — and is not a sentence collection at all.** `[I]` It supplies, at the centre of the sentence literature, the one thing the sentence form cannot: sustained, second-person, motivated instruction. *The book puts a teacher in the middle of the anthology.*
+**There is a second, sharper answer.** Solomon I ended on the oppression of the poor (22:16), and **this unit opens on it**: 22:22–23, *do not rob the poor because he is poor… for the LORD will plead their case* `[T]`. **The seam is not a change of subject. The last verse of one collection and the first command of the next are about the same person.**
 
-**Why here and not elsewhere.** 22:16 closes with the poor; 22:22 opens with the poor. `[T]` The seam is bridged by subject before it is bridged by anything else.
+**Implication.** The sermon's entry is given to it: **the reader has just been disqualified as his own judge, and the first thing he is told is to act on behalf of someone who cannot plead for himself.** *That sequence is the unit's own, and it is the guard against the moralism this material invites.*
 
-#### Immediate context
+**Immediate context.** Before: 22:16, the last verse of Solomon I. After: 25:1, גַּם־אֵלֶּה מִשְׁלֵי שְׁלֹמֹה ("these also are proverbs of Solomon"), the Hezekiah transcription `[T]`.
 
-**Before:** 22:16, *"whoever oppresses the poor to increase his own wealth… will only come to poverty."* **After:** 25:1, the Hezekiah superscription.
+**Widely read out of context:** **23:13–14** (the rod) and **24:11–12** (those being taken to death) — the first because it is lifted into debates about child discipline, the second because it is lifted into campaigning. *Both have specific correctives; see Preaching Pitfalls.*
 
-**And the received paragraphing runs across the front boundary.** `[T]` The *petuchah* falls at **22:21**, not at 22:16/17 — so the Masoretic paragraph runs **21:31 → 22:21**, taking the superscription and prologue of the Words of the Wise into the *preceding* paragraph. This was found from the 1B side and is confirmed here. **The markers break after the prologue, where the instruction proper begins.**
+#### Canonical position
+
+Ketuvim, third in the BHS order `[T]`; the overview's five-field block stands and is not re-derived `[S: overview]`.
 
 ---
 
 ### 3. Structure
 
-#### (a) The paragraphing — the densest in the book, and it explains the pattern
+**For once the manuscript divides the material generously, and the divisions are the structure.**
 
-Seven markers in 82 verses. `[T]`
+**Seven paragraph markers in 82 verses** `[T]`, WLC printing the Leningrad layout — **22:21, 22:29, 23:5, 24:14, 24:22 (ס), 24:27, 24:34**. *A reading tradition rather than an authorial signal, and the spread is unchecked* `[unchecked — apparatus spread]` — **but the density is the finding**: one marker every 11.7 verses here, against one every 94 verses across 10:1–22:16 `[T]`.
 
-| Paragraph | Marker | Content |
-|---|---|---|
-| *(from 21:31)* → **22:21** | פ | **The prologue** — 22:17–21 |
-| 22:22 → **22:29** | פ | The poor, the hot-tempered, surety, the boundary, the skilled man |
-| 23:1 → **23:5** | פ | The ruler's table; toiling for wealth |
-| 23:6 → **24:14** | פ | *The long middle* — 45 verses |
-| 24:15 → **24:22** | **ס** | **Setumah — the collection seam** |
-| 24:23 → **24:27** | פ | *"These also are sayings of the wise"* |
-| 24:28 → **24:34** | פ | The false witness, retaliation, the sluggard's vineyard |
+| Paragraph | Verses | What holds it together |
+|---|---:|---|
+| **22:17–21** | 5 | **The prologue** — an address, two purpose clauses, and the disputed word at v.20 |
+| 22:22–29 | 8 | Four prohibitions (poor, hot-tempered man, surety, boundary) and a closing observation about standing before kings |
+| 23:1–5 | 5 | The ruler's table and the wealth that flies away |
+| **23:6–24:14** | 44 | **The long stretch**, and the only one the layout does not subdivide — from the stingy host to the drunkard's poem to the honey of wisdom |
+| **24:15–22** | 8 | Closes with **the only setumah in Proverbs** |
+| 24:23–27 | 5 | **"These also are of the wise"** — partiality in judgement, and the field before the house |
+| 24:28–34 | 7 | False witness, revenge, and the sluggard's vineyard |
 
-**Two observations, and the first settles a question this project has carried for three runs.**
+**Two structural facts carry more weight than the rest.**
 
-**The markers are dense where the material is in short discrete units and sparse where it runs on.** `[T]` The first 24 verses carry three markers; the last 21 carry four; **the middle 45 verses carry none.** And the middle is exactly where the long thematic runs sit — the parental appeal (23:15–28), the drunkard poem (23:29–35), the wisdom-and-strength block (24:3–12).
+**First, the marker at 24:22 is different in kind.** Every other marker in Proverbs is a petuchah (פ); **24:22 carries the book's only setumah (ס)** `[T]`. *What a scribe meant by choosing one over the other at a particular place is not recoverable from one manuscript — but the choice is there, and it is unique in this book.* *Moderate confidence on any reading of it; high on the fact.*
 
-**So the *petuchot* mark units of reading, not collections** — which is why they have ignored 15:33/16:1, 22:16/22:17 and 27:27/28:1 in the previous runs. **They were never marking what the project was testing them against.** `[I]` *Moderate–high, and it is consistent across all five runs.*
+**Second, the Greek marks the same seam by inserting a collection into it.** Swete 24:24–37 carries **MT 30:1–14 — Agur's oracle, his confession of ignorance, his "who has ascended into heaven and come down", and his "do not add to his words"** — and **MT 24:23 resumes at Swete 24:38** `[T]`, Swete. **The two traditions disagree about what belongs at 24:22/23 and agree that something belongs there.** *High confidence on both arrangements; the relation is an open question.*
 
-#### (b) The *setumah* at 24:22 — the exception, and it proves the rule
-
-**This is the only *setumah* in any passage the project has parsed.** `[T]` BHS was checked for chapters 27–28 and returned none; none appears in 10–22:16 or 25–29. **It occurs once, at 24:22 — and 24:23 opens *"These also are sayings of the wise."***
-
-**The Masoretes marked that seam, and marked it with the *lesser* marker.** A *petuchah* opens a new paragraph at the margin; a *setumah* is a closed space within the line. **For a join between two collections that share a title, the smaller marker is exactly right** — it says *related but distinct*, which is what 24:23's *"these also"* says.
-
-**That reframes the project's paragraphing finding.** `[I]` *Moderate–high.* The Masoretes were not indifferent to collection boundaries. **They marked the one boundary where two collections carry the same designation, and used the weaker sign to do it.** Their silence at 15:33/16:1, 22:16/17 and 27:27/28:1 is therefore evidence about those boundaries rather than evidence about the convention.
-
-#### (c) The compositional structure — frames
-
-| Unit | Frame evidence | Warrant |
-|---|---|---|
-| **22:17–21** | Prologue: three purpose statements; closes at the *petuchah* | `[T]` |
-| **22:22–23:11** | ***ʾal-tassēg gəbûl ʿôlām*** verbatim at **22:28** and **23:10** (four words); and ***yārîb rîbām*** — *"he will plead their cause"* — at **22:23** and **23:11**, the only two occurrences, both *kî*-motives protecting the vulnerable | `[T]` |
-| **23:12–28** | The parental block: *bənî* at 23:15, 23:19, 23:26; *šəmaʿ* at 23:19, 23:22; father-and-mother at 23:22 and 23:25 | `[T]` |
-| **23:29–35** | The drunkard poem — a self-contained composition with a six-fold *ləmî* opening and closing in direct speech | `[T]` |
-| **24:1–12** | *ʾal-təqannēʾ* at **24:1** and **24:19** *(frames beyond this unit — see below)*; wisdom-and-strength 24:3–7; the rescue-and-reckoning climax 24:11–12 | `[T]` |
-| **23:18 ∥ 24:14** | ***ʾaḥărît wətiqwātəkā lōʾ tikkārēt*** verbatim (four words), **closing on a *petuchah*** | `[T]` |
-| **24:15–22** | *ʾal-təqannēʾ* at 24:19 answering 24:1; the *melek* at 24:21 answering 22:29; closes at the **setumah** | `[T]` |
-| **24:23–34** | Second collection: superscription 24:23; the example story 24:30–34 closing on a *petuchah* | `[T]` |
-
-#### (d) The two large frames
-
-**Envy, at 24:1 and 24:19.** *ʾal-təqannēʾ* — "do not be envious" — occurs twice, at 24:1 (*of evil men*) and 24:19 (*of the wicked*), with 23:17 supplying a third (*let not your heart envy sinners*). `[T]` **Three prohibitions of envy, and the outer two frame 24:1–19.**
-
-**The future, at 23:18 and 24:14, negated at 24:20.** `[T]` *ʾaḥărît* — "a latter end, a future" — occurs four times: 23:18 and 24:14 in the identical four-word promise; **24:20 denying it to the wicked**; and 23:32 of wine (*"in the end it bites like a serpent"*). **Promise · promise · denial — with the mirror-image at 23:32 warning what another kind of *ʾaḥărît* looks like.**
+**Device: an instruction collection with a stated prologue and a second, shorter appendix.** The shape is the shape of chapters 1–9 in miniature — address, purpose, prohibitions — and **not** the shape of the deposits either side of it.
 
 ---
 
 ### 4. Linking Words
 
-**This is the section where connectors do the most work in the whole sentence literature**, because it is the only one that argues.
+**The connective profile is the reverse of Solomon I's, and it is the clearest formal evidence that a different kind of text has begun.**
 
-| Connector | Count | Note |
-|---|---:|---|
-| ***ʾal*** — prohibition | **22** | 22:22, 24, 26, 28; 23:3, 4, 6, 9, 10, 13, 17, 20, 22, 23, 31; 24:1, 15, 17, 19, 21, 28, 29 |
-| ***kî*** — motive | **22** | Nearly every prohibition carries one |
-| ***pen*** — "lest" | 2 | 22:25, 24:18 |
-| Vocative *bənî* | 5 | 23:15, 19, 26; 24:13, 21 |
-| 2ms suffix | **38 of 82 verses** | |
+| Marker | Where | Function |
+|---|---|---|
+| **אַל** ("do not") | **22 of 82 verses (26.8%)** `[T]` | The unit's governing mood. Twenty-two prohibitions in eighty-two verses |
+| **כִּי** ("for, because") | **22 of 82 verses (26.8%)** — the identical count `[T]` | **Grounds are given, and they are given exactly as often as commands.** Book-wide כִּי stands in 96 of 915 verses (10.5%); here the rate is two and a half times that. *Do not rob the poor,* **for** *the LORD will plead their case* (22:22–23) |
+| **לְ + infinitive** (purpose) | 22:19 לִהְיוֹת; 22:21 לְהוֹדִיעֲךָ, לְהָשִׁיב | The prologue's two purpose clauses |
+| **פֶּן** ("lest") | 22:25; 24:18 `[T]` | Consequence-avoidance, the prohibition's natural partner |
+| **אִם** ("if") | 22:27; 23:2, 15, 17, 18; 24:11, 14 — seven verses `[T]` | Conditions return, as they have not since chapter 2 |
 
-**The characteristic unit is prohibition-plus-motive**, and the motive is what makes this instruction rather than aphorism. `[T]`
-
-> *Do not rob the poor… **for** the LORD will plead their cause* (22:22–23)
-> *Do not move the ancient boundary… **for** their Redeemer is strong* (23:10–11)
-> *Do not eat the bread of a stingy man… **for** he is like one inwardly calculating* (23:6–7)
-> *Do not rejoice when your enemy falls… **lest** the LORD see it and be displeased* (24:17–18)
-
-**Two of the motive-clauses are theological and they are placed at the two ends of the protection material** (22:23, 23:11) — see Tool 3. **And 24:18 is the only *pen* in the book that makes God the thing to be feared in the apodosis:** *lest the LORD see it and be displeased, and turn away his anger from him.* `[T]` *A genuinely disconcerting motive, and worth preaching as such.*
+**Twenty-two prohibitions and twenty-two grounds, in eighty-two verses.** `[T]` **The pattern: prohibition plus reason.** *Do not… for…* **That is a teaching form, and it is the form of Deuteronomy's paraenesis rather than of a sentence collection** `[I]`, *moderate*. **The reader is not being handed observations to sort; he is being told what not to do and why not.**
 
 ---
 
 ### 5. Parallels
 
-**The parallelism scheme used for the four sentence collections does not transfer**, and saying so is the honest result. `[T]`
+Antithesis has almost vanished — the opposition measure returns **1 of 82 verses (1.2%), the lowest of any section of the book** `[T]`, WLC. What replaces it is worth three examples.
 
-**Why.** That scheme classifies *bicola* — antithetical, comparative, synonymous, synthetic. **This material is not built of independent bicola.** Its unit is the admonition, which regularly runs to two, three or four verses (22:22–23; 22:26–27; 23:1–3; 23:4–5; 23:6–8; 23:10–11; 23:13–14; 23:20–21; 24:11–12; 24:17–18; 24:30–34), and its governing relation is *prohibition → motive*, which is a relation between verses rather than between cola.
+**The command-and-ground pair, which is the unit's basic sentence.**
+> אַל־תִּגְזָל־דָּל כִּי דַל־הוּא וְאַל־תְּדַכֵּא עָנִי בַשָּׁעַר׃ כִּי־יְהוָה יָרִיב רִיבָם (22:22–23)
+> "Do not rob the poor because he is poor, / Or crush the afflicted at the gate; / **For** the LORD will plead their case / And take the life of those who rob them."
 
-**So no antithesis percentage is offered for this section**, and none should be quoted alongside the four-section table. **A count would be measuring the wrong thing.** *This is itself a finding: the formal measure that discriminates so sharply among the four sentence collections cannot be applied to the material sitting between them, because the material is a different kind of thing.*
+**Two prohibitions, then one ground occupying a whole verse.** *The asymmetry is the point: the reason is given more room than the command.*
 
-**What can be said about the parallelism:**
+**The three-fold "a little", where the sound is the argument.**
+> מְעַט שֵׁנוֹת מְעַט תְּנוּמוֹת מְעַט חִבֻּק יָדַיִם לִשְׁכָּב (24:33)
+> *mĕʿaṭ šēnôt, mĕʿaṭ tĕnûmôt, mĕʿaṭ ḥibbuq yādayim liškāb*
+> "A little sleep, a little slumber, / A little folding of the hands to rest."
 
-- **Antithesis is nearly absent**, and where it appears it is between *people* rather than within a saying — 24:16 (*the righteous falls seven times and rises; the wicked stumble*), 24:24–25 (*whoever says to the wicked "you are in the right" will be cursed; those who rebuke will have delight*).
-- **The simile is used sparingly and to great effect**: wealth sprouting wings *"like an eagle toward heaven"* (23:5); wine that *"bites like a serpent and stings like an adder"* (23:32); the drunk man *"like one who lies down in the midst of the sea, like one who lies on the top of a mast"* (23:34); poverty coming *"like a robber… like an armed man"* (24:34). `[T]`
-- **23:29's six-fold *ləmî*** — *"Who has woe? Who has sorrow? Who has strife? Who has complaining? Who has wounds without cause? Who has redness of eyes?"* — is the most sustained anaphora in the book, and it is a riddle: six questions with one answer, withheld until v.30. `[T]`
+**Here transliteration earns its place**: the line is three beats of the same word, and the drowsiness is in the rhythm `[T]`. *And the line is verbatim 6:10 — see Tool 11.*
+
+**The question-parallel at 24:12, three clauses deep.**
+> הֲלֹא־תֹכֵן לִבּוֹת הוּא־יָבִין וְנֹצֵר נַפְשְׁךָ הוּא יֵדָע וְהֵשִׁיב לְאָדָם כְּפָעֳלוֹ
+> "Does He not consider it who weighs the hearts? / And does He not know it who keeps your soul? / And will He not render to man according to his work?"
+
+**Three rhetorical questions in one verse, each naming God by a participle** — *the one who weighs*, *the one who keeps*, *the one who renders `[T]`. **It is the most theologically loaded verse in the unit and it is entirely interrogative.**
 
 ---
 
 ### 6. Narrator's Comment
 
-**Live — and this is one of only two places in Proverbs where it is.** `[T]`
-
-**24:30–34 is the book's second example story**, matching 7:6–23. Its structure is first-person observation followed by explicit authorial reflection:
-
-> **24:30** *I passed by* the field of a sluggard…
-> **24:31** *and behold*, it was all overgrown with thorns…
-> **24:32** ***Then I saw and considered it; I looked and received instruction.***
-> **24:33–34** A little sleep, a little slumber… and poverty will come upon you like a robber.
-
-**24:32 is the clearest authorial intrusion in the book.** `[T]` *High.* The sage steps out of the scene to say what he did with it: *ʾāšît libbî* — "I set my heart" — and *lāqaḥtî mûsār* — "I took instruction."
-
-**Two things follow.**
-
-**First, the verse is a method statement.** The collection that opened by telling the reader to *"apply your heart"* (22:17, *libbəkā tāšît*) closes with the teacher doing exactly that: *ʾāšît libbî*. `[T]` **The same verb and the same object, at the two ends of the collection** — *"apply your heart to my knowledge" … "I applied my heart."* **The teacher models the thing he commanded.** *Moderate–high that this is deliberate.*
-
-**Second, 24:33–34 is a verbatim quotation of 6:10–11.** `[T]` The collection ends by repeating the frame material word for word. See Move 4.
+**N/A** — instruction, not narrative. **One observation earns the line:** the unit contains a first-person narrative *within* an instruction — 24:30–34, *"I passed by the field of a sluggard… I looked, I received instruction"* `[T]`. **That is a teacher reporting an observation, not a narrator commenting on a story**, and it is the only sustained first-person report in the book outside 7:6–23 `[T]`.
 
 ---
 
 ### 7. Vocabulary
 
-#### 22:20 — *šālîšîm* / *šilšôm* / *šəlôšîm*, and what the ESV has done
+**Proper-noun inventory.** **None** in 82 verses — no place, no person, no people, no significant number, and **no superscription naming anyone** `[T]`. The divine name stands in five verses. **This is the only collection in Proverbs with no attribution to a named individual at all**: 22:17 calls the material דִּבְרֵי חֲכָמִים ("the words of the wise") and 24:23 calls it לַחֲכָמִים ("of the wise"), and that is the whole of what the text says about its source `[T]`. *Inventory complete; no name-hyperlink findings.*
 
-**The consonants are שלשום.** `[T]`
+Six words carry the unit.
 
-| Reading | Vocalisation | Sense |
-|---|---|---|
-| **Ketiv** (as written) | *šilšôm* | "formerly, the day before yesterday" |
-| **Qere** (as read) | *šālîšîm* | "officers, adjutants" — or "excellent things" |
-| **Modern conjecture** | *šəlôšîm* | **"thirty"** |
+| Term | Where | Range | Usage here | Confidence |
+|---|---|---|---|---|
+| **חֲכָמִים** ("the wise", plural) | 22:17; 24:23 `[T]` | sages · skilled men | **A collective source rather than a person.** The two occurrences bracket the unit and are its only self-description | *High* |
+| **שלשום** *(ketiv)* / **שָׁלִישִׁים** *(qere)* | 22:20 `[T]` | *ketiv:* "the day before yesterday, formerly" · *qere:* "officers, adjutants" → "excellent, noble things" | **The unit's crux.** See Headline 3 and Textual Variants | *High* on the readings; *the sense is unresolved* |
+| **מִבְטָח** ("trust, confidence") | 22:19 `[T]` | that in which one puts confidence | **The stated purpose of the collection.** The noun stands in four verses of Proverbs — 14:26; 21:22; **22:19**; 25:19 `[T]` — and this is the only one where it is what the teaching is *for* | *High* on the count |
+| **גֹּאֵל** ("redeemer, kinsman-avenger") | 23:11 `[T]` | the kinsman who takes up a relative's cause | **The only occurrence in Proverbs** `[T]`. At 23:11 it is God, standing for the fatherless whose boundary has been moved: כִּי־גֹאֲלָם חָזָק הוּא־יָרִיב אֶת־רִיבָם אִתָּךְ ("for their Redeemer is strong; He will plead their case against you") | *High* |
+| **תֹּכֵן** ("one who weighs, gauges") | 24:12 `[T]` | to measure, regulate, gauge | The third and last of the book's three — 16:2, 21:2, **24:12** `[T]` — **and the only one that is a question put to the reader** | *High* |
+| **אַחֲרִית** ("a future, an end") | **four times in the unit** — 23:18; **23:32**; 24:14; 24:20 `[T]` (thirteen in the book) | the after-part · outcome · posterity | **Twice promised, once denied, and once poured out of a cup.** 23:18 and 24:14 carry the identical clause וְתִקְוָתְךָ לֹא תִכָּרֵת ("and your hope will not be cut off"); 24:20 says of the evil man לֹא־תִהְיֶה אַחֲרִית ("there will be no future"); **and 23:32 says of the wine אַחֲרִיתוֹ כְּנָחָשׁ יִשָּׁךְ ("at the last it bites like a serpent")** — the same noun, in the same unit, for the son's future and for what is at the bottom of the glass | *High* |
 
-**The ESV's "thirty sayings" follows neither the Ketiv nor the Qere.** `[T]` It adopts the third reading, on the strength of the Egyptian parallel (below), and does not footnote the fact.
+**A note on the verb at 22:23 and 23:11.** Both use **רִיב** ("to plead a case, contend at law"), and in both God is the subject taking up the case of someone who cannot `[T]`. **The two verses are twenty-six apart and they are the unit's theological spine** — see Move 4.
 
-**That is worth the preacher's attention** — not because the emendation is unreasonable, but because *"Have I not written for you thirty sayings"* reads in English as a plain statement about the collection's size, when the Hebrew as transmitted says something else and the number is supplied by a scholarly reconstruction. `[I]` *Moderate–high.* **If a sermon counts thirty sayings, it is counting on a conjecture.**
-
-*And the count itself is contested: proposals for where the thirty units fall differ, and 22:17–24:22 contains between roughly twenty-eight and thirty-three discrete admonitions depending on how the multi-verse units are divided.* `[S]`
-
-#### Other terms
-
-- ***gōʾēl*** (23:11) — **"their Redeemer is strong; he will plead their cause against you."** `[T]` *High.* The kinsman-redeemer word, and **its only occurrence in Proverbs.** In the Torah the *gōʾēl* buys back land and person (Lev 25:25–55) and avenges blood (Num 35); in Job 19:25 it becomes a confession. **Here God takes the role for the fatherless who have no kinsman to take it.** See Tool 11.
-- ***ʾaḥărît*** — 23:18, 23:32, 24:14, 24:20. "Latter end," "future," "outcome." The collection's key theological noun. `[T]`
-- ***bənî*** — five occurrences, the densest outside chapters 1–9. `[T]`
-- ***lēb*** — 14 verses in 82 (17%), against 34 in 184 (18%) in 1A. Comparable density, but here it is almost always the *reader's* heart being addressed rather than described. `[T]`
-- ***tôkēn libbôt*** (24:12) — *"he who **weighs hearts**"* — **the same participle and object as 21:2** (*wətōkēn libbôt YHWH*). `[T]` See Move 4.
-
-#### Proper-noun inventory
-
-**None.** `[T]` No place names, no personal names, no gentilics in 82 verses. *The Egyptian background is entirely unnamed — which is itself a datum: the collection borrows without attributing.*
+**Paronomasia check.** Run on the repeated words. **One hit, and it is in 24:33**: the triple מְעַט (*mĕʿaṭ*) with its chiming שֵׁנוֹת / תְּנוּמוֹת. *The sound carries the argument there, which is why the transliteration stands under Tool 5.* Elsewhere nothing sounds.
 
 ---
 
 ### 8. Translations
 
-#### 22:20 — see Tool 7. **The most consequential translation decision in the section**, and unfootnoted in the ESV.
+Six divergences bear on findings; the first is the one to settle before the sermon is written.
 
-#### 23:7 — a genuinely hard verse
+| | NASB95 | NIV84 | What turns on it |
+|---|---|---|---|
+| **22:20** | "Have I not written to you **excellent things** / Of counsels and knowledge" — **the qere** | "Have I not written **thirty sayings** for you…" *(footnote: "Or not formerly written; or not written excellent")* — **an emendation** | **The most consequential divergence in the unit.** The WLC prints the ketiv שלשום unpointed; the qere is שָׁלִישִׁים; Swete has τρισσῶς ("threefold"); BHS proposes שְׁלֹשִׁים, "thirty" `[S: BHS]`. **NIV84 puts the conjecture in the text and the manuscript readings in the note.** *A congregation hearing "thirty sayings" will suppose the collection has a counted shape. It may; the Hebrew in front of us does not say so* |
+| **22:17** | "Incline your ear and hear **the words of the wise**" — the phrase is the **object** of the imperative | "Pay attention and listen to **the sayings of the wise**" — likewise | **Both are right and neither is a title.** *Do not call 22:17 a superscription: the book's real headings are 24:23, 25:1 and 30:1, and they look different* `[T]` |
+| **23:14** | "You shall strike him with the rod / And rescue his soul from **Sheol**" | "Punish him with the rod and save his soul from **death**" *(footnote: "Hebrew: Sheol")* | The Hebrew is **שְׁאוֹל**. **NIV84 decides it as "death" in the text.** *The verse is the unit's sharpest pastoral landmine either way; see Preaching Pitfalls* |
+| **24:11** | "Deliver those who are being taken away to death, / And those who are staggering to slaughter, **Oh hold them back**" | "Rescue those being led away to death; **hold back** those staggering towards slaughter" | The Hebrew אִם־תַּחְשׂוֹךְ is elliptical — literally *"if you hold back"* — and both versions resolve it into a command. **NASB95's "Oh" marks that it is supplying something; NIV84 does not.** *The ellipsis is real and a sermon can use it* |
+| **24:34** | "Then your poverty will come as a robber / And your want like an armed man" | "…poverty will come on you like a **bandit** and scarcity like an **armed man**" *(footnote: "Or like a vagrant and scarcity like a beggar")* | The verse differs from its twin at 6:11 in three places (see Tool 10). **Neither version marks that 24:33–34 is a quotation of 6:10–11** — no English can |
+| **24:21** | "My son, **fear the LORD and the king**" | "**Fear the LORD and the king**, my son" | **Both keep the single verb governing both objects**, which is what 1 Pet 2:17 later divides. *The finding survives in the pulpit* |
 
-| | |
-|---|---|
-| **Hebrew** | *kî kəmô šāʿar bənapšô ken-hûʾ* — "for as he **?** in his soul, so is he" |
-| **ESV** | "for he is like one who is **inwardly calculating**" — footnoted: *"Or for as he calculates in his soul, so is he"* |
+**Pulpit divergence note.** NIV84 serves most of this unit well and **costs it once, decisively, at 22:20**. If the sermon says anything about the shape or number of the sayings, the preacher must know that his congregation's Bible has adopted a conjecture and that the manuscripts read otherwise. *One sentence handles it: "your Bible says thirty; the Hebrew we have says something else, and the footnote tells you so."*
 
-**The verb *šāʿar* is the problem.** `[S]` It may relate to *šaʿar* "gate" (hence "as one who reckons/opens accounts"), or to a root meaning "estimate." **The verse has had a long afterlife in English devotional literature as "as a man thinketh in his heart, so is he" (KJV)** — a rendering that has been detached from its context and made into a maxim about self-image.
+**Ancient versions check.**
 
-**The context forbids that use.** `[T]` The verse is the *kî*-motive for a prohibition about accepting hospitality from a stingy host (23:6): *do not eat his bread, **for** he is inwardly reckoning the cost.* **It is about a mean man doing sums, not about the power of positive thinking.** See Preaching Pitfalls.
-
-#### 24:11 — the conditional
-
-| | |
-|---|---|
-| **Hebrew** | *hāṣṣēl ləquḥîm lammāwet ûmāṭîm lahereg **ʾim-taḥśôk*** |
-| **ESV** | "Rescue those who are being taken away to death; hold back those who are stumbling to the slaughter." |
-
-**The last two words are the difficulty.** *ʾim-taḥśôk* is literally *"if you hold back"* — so the line may be read as *"and those stumbling to slaughter — **oh that you would** hold back!"* or as a conditional whose apodosis is v.12. **The ESV renders it as a second imperative and does not footnote the construction.** `[S]` *Moderate.* Nothing in the verse's force is lost, but the syntax is harder than the English suggests.
-
-#### Ancient versions check
-
-**Trigger met at 22:20**, where ESV, NASB and KJV *disagree* — NASB and KJV render "excellent things" (following the Qere), ESV "thirty sayings." **The moderns do not agree, so the check's trigger condition is not met in the usual way**; but the LXX is worth noting: it reads **τρισσῶς**, "threefold, in three ways," which reflects the *š-l-š* consonants read as "three" rather than "thirty." `[S]` *Moderate — not independently verified.* **So the ancient reading is "three," the Qere is "officers/excellent," and "thirty" is modern.** Routed to Open Questions.
-
-#### Category 1 — translation loss
-
-**Two of the section's frames cannot be carried into English.** The four-word identity of 22:28 and 23:10 survives (both render "do not move the ancient landmark"), but **the identity of 23:18 and 24:14 does not** — the ESV varies "surely there is a future" and "there will be a future." And **the *tāšît libbəkā* / *ʾāšît libbî* link between 22:17 and 24:32** is invisible: "apply your heart" and "considered it."
-
-**Pulpit edition note:** pulpit text matches report default.
+- **22:20 — the Greek is a third reading, not a vote for either.** Swete has ἀπόγραψαι αὐτὰ σεαυτῷ **τρισσῶς** ("write them for yourself threefold") `[T]`, Swete — neither "formerly" nor "officers" nor "thirty". **Triage: category 2, a substantive divergence**, and the Greek's own solution looks like an attempt on the same difficulty. *High confidence on the wording; the relation between the four readings is an open question.*
+- **24:22/23 — the Greek inserts a collection.** Swete 24:24–37 carries MT 30:1–14 and MT 24:23 resumes at Swete 24:38 `[T]`, Swete. **Triage: category 2**, and it is Headline 2. *High confidence.*
+- **24:12 — the Greek supplies the New Testament's wording.** Swete: ὃς ἀποδίδωσιν ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ `[T]`. **Triage: category 3 — the Greek is the New Testament's own text**, and it stands whichever is prior. See Tool 11. *High confidence.*
+- **24:21 — the Greek keeps the single verb.** φοβοῦ τὸν θεόν, υἱέ, καὶ βασιλέα `[T]`, Swete, with θεός for the divine name as Swete's Proverbs regularly has. **Triage: category 1 on the divine name; the syntax is unchanged.** *The splitting of the verb is the New Testament's move, not the Greek translator's* — which makes it a better finding, not a worse one.
 
 ---
 
 ### 9. Tone and Feel
 
-**Urgent, warm and argumentative — the register of chapters 1–9 returning after twelve chapters of aphorism.**
+**Urgent, personal, and — in two places — frightening.** The flat register of Solomon I is gone. This voice knows its hearer, addresses him forty times in eighty-two verses, and keeps telling him what *not* to do.
 
-**The measures are in Tool 4** — five vocatives, twenty-two prohibitions, twenty-two motives, thirty-eight verses in direct address. What they produce is a **teacher's voice**, and it has three notes.
+**Three tonal registers, and the shifts are structurally placed.**
 
-**Affection.** 23:15–16: *"My son, if your heart is wise, my heart too will be glad. My **inmost being** will exult when your lips speak what is right."* `[T]` The word is *kilyôtay*, "my kidneys" — the seat of the deepest feeling. **This is the most emotionally exposed sentence in the book.** And 23:26: *"My son, give me your heart."*
+**The briefing** dominates: short prohibitions with reasons attached, the manner of someone with limited time and a specific charge. *Do not… do not… for…*
 
-**Alarm.** 23:29–35, the drunkard poem, is the longest sustained composition in the sentence literature and its technique is cumulative dread: six questions, then the answer, then the prohibition, then the physiology, then — the masterstroke — **the drunk man's own voice** (23:35), waking to look for another drink. `[T]` *A closing line that needs no comment from the preacher.*
+**The set-piece.** At **23:29–35** the unit stops issuing commands and paints — six questions in a row (*Who has woe? Who has sorrow?…*), then the wine that is red in the cup, then the serpent's bite, then the drunk man's own voice: **מָתַי אָקִיץ אוֹסִיף אֲבַקְשֶׁנּוּ עוֹד** ("when shall I awake? I will seek another drink") `[T]`. **Seven verses opening with six לְמִי ("who has…?") in a single line (23:29)** `[T]` — **the longest sustained portrait in the book after chapter 7 — and it ends with the man speaking.** *A picture, not an argument, and placed where the commands have been densest.*
 
-**Moral pressure.** 24:11–12 is the sharpest thing in the book: *"Rescue those being taken away to death… If you say, 'Behold, we did not know this,' does not he who weighs the heart perceive it?"* **The verse anticipates the excuse and refuses it in advance.** `[T]`
+**The plea.** At **24:11–12** the tone changes again and becomes something close to pleading: *deliver those being taken away to death* — and then three questions that will not let the hearer say he did not know `[T]`. **It is the only place in Proverbs where the reader is confronted with an excuse he might make and it is taken away from him in advance.**
 
-**Soundtrack:** a single voice, close-miked. Something unaccompanied.
+**Soundtrack:** an older man talking quickly, across a table, to someone leaving in the morning — and twice stopping to make him look at something.
 
 ---
 
 ### 10. Repetition
 
-#### Verbatim
+**(a) Repeated words.** אַל 22 verses, כִּי 22 verses, בְּנִי five, אַחֲרִית three `[T]`, WLC — counts and distributions are in Tools 4 and 7 and are not repeated.
 
-| Repeated | Verses | Words | Note |
-|---|---|---:|---|
-| *ʾal-tassēg gəbûl ʿôlām* | 22:28, 23:10 | 4 | Second colon changed: fathers → fatherless |
-| *ʾaḥărît wətiqwātəkā lōʾ tikkārēt* | 23:18, 24:14 | 4 | **24:14 closes on a *petuchah*** |
-| *ʾal-tithî* | 22:26, 23:20, 24:28 | 2 | The prohibition formula |
-| *wəʾal-titʾāw* | 23:6, 24:1 | 2 | "and do not desire" |
-| *ʾal-təqannēʾ* | 24:1, 24:19 | 2 | Frames 24:1–19 |
-| *yārîb rîbām* | 22:23, 23:11 | 2 | Both *kî*-motives for the vulnerable |
-| *kəpoʿŏlô* ("according to his work") | 24:12, 24:29 | 1 | See below |
+**(b) The unit quotes itself twice, and the book once.** All verified consonantally with maqqef, paseq and sof pasuq normalised.
 
-#### *kəpoʿŏlô* — the same phrase used twice, and inverted
+| Repeat | What recurs | Note |
+|---|---|---|
+| **22:28 ‖ 23:10** | אַל־תַּסֵּג גְּבוּל עוֹלָם ("do not move the ancient boundary") | **Twice in twenty-four verses.** 22:28 gives the fathers as the reason; **23:10 gives the fatherless, and 23:11 gives their Redeemer** |
+| **23:18 ‖ 24:14** | וְתִקְוָתְךָ לֹא תִכָּרֵת ("and your hope will not be cut off"), with יֵשׁ אַחֲרִית before it | **And 24:14 is a paragraph-closing verse.** The promise brackets the long central stretch |
+| **24:33–34 ‖ 6:10–11** | **24:33 = 6:10 word for word** `[T]` | And **24:34 differs from 6:11 in three places**: מִתְהַלֵּךְ for כִמְהַלֵּךְ, רֵישֶׁךָ for רֵאשֶׁךָ (spelling), and the plural מַחְסֹרֶיךָ for מַחְסֹרְךָ. **The first line is identical, the second varied** — the same shape of self-quotation the Solomonic collections use |
 
-> **24:12** — *and will he not repay man **according to his work**?*
-> **24:29** — *Do not say, "I will do to him as he has done to me; **I will pay the man back according to his work**."*
+**What the third row shows.** The unit's last two verses are a quotation of the frame's sluggard couplet, **placed at the end of a first-person report of walking past a field** (24:30–34). **The wise man tells a story and finishes it with somebody else's line** `[I]`, *moderate-to-high*. *That is a small but real piece of evidence about how this collection regards the book it sits in.*
 
-**The identical phrase, first of God and then of the reader — and the second use is forbidden.** `[T]` *High on the data; moderate–high on the deliberateness.* **What God does is exactly what the reader may not do.** *That is one of the cleanest statements of the non-retaliation principle anywhere in the Old Testament, and it is made by repetition rather than by argument.*
-
-#### The father-and-mother pair
-
-23:22 (*"listen to your father… do not despise your mother when she is old"*) and 23:25 (*"let your father and mother be glad; let her who bore you rejoice"*). `[T]` Both parties, twice, four verses apart — and 23:24 between them names *"the father of the righteous."* **The parental frame of 1:8 and 10:1 reappears here in its fullest form.**
+**(c) A repeated idea, three times, and it is the unit's own.** **Someone who cannot plead for himself, and God taking the case up**: 22:22–23 (the poor at the gate, יְהוָה יָרִיב רִיבָם), 23:10–11 (the fatherless, גֹּאֲלָם חָזָק הוּא־יָרִיב אֶת־רִיבָם), 24:11–12 (those being taken to death, and the God who weighs hearts) `[T]`. **Three passages, evenly spaced, the same shape: a vulnerable person, a prohibition or a command, and a God who takes up the case.**
 
 ---
 
 ### 11. Quotation/Allusion
 
-**Live sources**, from the sweep: Genesis 1–3, Deuteronomy, Job, Psalms, the Solomon tradition, and — uniquely load-bearing here — **the Egyptian instruction tradition.**
+**Live sources** `[S: overview]` as before; **Proverbs contains no citation formula** `[T]`. **This unit is nevertheless the most externally connected in the book** — two New Testament texts rest on it, and its most famous crux turns on a proposed Egyptian parallel.
 
----
+**Proverbs 24:12 (and Psalm 62:13) → Romans 2:6** *(high confidence on the wordings)*
 
-**The Instruction of Amenemope → Proverbs 22:17–23:11** *(the strongest non-biblical source-claim in the book)* `[S]` throughout
+*Source context:* 24:11–12 stands in the long central paragraph, immediately after a saying about failing in the day of distress. **The command is to rescue people being taken to death; the excuse anticipated is "we did not know"; and the answer is three participial descriptions of God** — he who weighs hearts, he who keeps your soul, he who renders to a man according to his work `[T]`. **The verse's function in its own passage is to close an escape route**, not to teach a doctrine of judgement.
 
-*Source context.* *Amenemope* is an Egyptian instruction text in **thirty numbered chapters**, addressed by a father to his son, teaching the "silent man" against the "heated man." Its date is disputed (proposals range across roughly 1300–1000 BC). `[S]` *High on its existence and shape; moderate on the date.*
+*Book usage:* **the weighing-participle is the book's own**: תֹּכֵן at 16:2, 21:2 and 24:12, always with YHWH as subject `[T]`. **This is its third and last occurrence and its only interrogative one** — the earlier two describe what God does, and this one asks the reader whether he supposes God does not.
 
-*The parallels most often cited.* `[S]` *Moderate–high on the general dependence; individual correspondences flagged.*
+*OT-to-OT — and this is where the finding is:* **Ps 62:13 makes the same claim in entirely different Hebrew.** Proverbs: וְהֵשִׁיב לְאָדָם כְּפָעֳלוֹ. The psalm: תְשַׁלֵּם לְאִישׁ כְּמַעֲשֵׂהוּ. **Different verb (שׁוב hiphil / שׁלם piel), different noun for "man" (אָדָם / אִישׁ), different noun for "work" (פֹּעַל / מַעֲשֶׂה)** `[T]`, WLC. **In Hebrew these are two sentences, not a formula.** In Greek they converge on one: Swete Prov 24:12 ὃς **ἀποδίδωσιν ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ**; Swete Ps 61:13 σὺ **ἀποδώσεις ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ** `[T]`, Swete — **four words identical.**
 
-| Proverbs | Amenemope | Content |
-|---|---|---|
-| 22:17–18 | ch. 1 | *"Give your ears, hear what is said, give your heart to understand"* |
-| 22:22 | ch. 2 | Beware of robbing the poor |
-| 22:24–25 | ch. 9 | Do not befriend the hot-tempered man |
-| **22:28 / 23:10** | **ch. 6** | **Do not move the boundary marker of the field** |
-| **23:4–5** | **ch. 7** | **Riches make wings and fly to heaven like geese** |
-| 23:1–3 | ch. 23 | Conduct at a great man's table |
-| 22:29 | ch. 30 | The skilled scribe will stand before officials |
+*What it adds:* **Rom 2:6 reads ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ** `[T]`, SBLGNT — **the relative construction of Proverbs with the future verb of the Psalm.** Neither source alone accounts for the wording. **The formula the New Testament uses (and reuses at 2 Tim 4:14 and Rev 22:12) exists in Greek and not in Hebrew**, and it was two independent Hebrew sentences before the translators made them one. *Triage: category 3 — the Greek is the New Testament's own text.* **For the preacher the payoff is small and precise: Romans 2:6 is not a quotation of one verse, and this unit is one of its two parents.** *High confidence on every wording; the blend is stated as observation, not as a theory of Paul's method.*
 
-**The two in bold are the strongest**, because the image is specific rather than proverbial: a boundary marker moved, and wealth growing wings. `[S]` *Moderate–high.*
+**Proverbs 24:21 → 1 Peter 2:17** *(high confidence on the wordings; the reading is `[I]`)*
 
-*What it adds — and this is the point for preaching.* **The collection announces its purpose before it borrows.** 22:19 states that the object is *"that your trust may be in the LORD"*; 23:11 supplies a motive Amenemope cannot — *"their **Redeemer** is strong"* — and 24:21 closes on the fear of YHWH. **The material is taken and re-founded.** `[I]` *Moderate–high.*
+*Source context:* 24:21–22 closes the first collection, immediately before the unique setumah. **One imperative, two objects**: יְרָא־אֶת־יְהוָה בְּנִי וָמֶלֶךְ ("fear the LORD, my son, and the king"), with a prohibition attached — do not associate with שׁוֹנִים ("those given to change") — and a reason: their calamity rises suddenly `[T]`. *The verse is a political instruction with a theological head.*
 
-**Two things the preacher should not do with this.** Do not conceal it: the borrowing is widely known and concealment looks like fear. And do not treat it as a problem: Proverbs itself says wisdom is available to observation (24:30–34) and the book's own claim is not that its content is unique but that it is *rightly founded* (1:7). **What is distinctive is 22:19 and 23:11, not 22:28.**
+*Book usage:* the book pairs YHWH and the king elsewhere — most sharply at 21:1, where the king's heart is in YHWH's hand `[S: Solomon I run]` — **but 24:21 is the only verse that makes them joint objects of one verb** `[T]`.
 
-*Recommended verification: a text of Amenemope (Lichtheim, ANET) would let each correspondence be checked rather than reported. **I have not had one in hand**, and the table above is from general knowledge — see Open Questions.*
+*What it adds:* **1 Pet 2:17 keeps the pair and splits the verb**: πάντας τιμήσατε, τὴν ἀδελφότητα ἀγαπᾶτε, **τὸν θεὸν φοβεῖσθε, τὸν βασιλέα τιμᾶτε** `[T]`, SBLGNT. **Fear is reserved for God; the king gets the same verb as "everyone" at the head of the list.** *Swete did not make this move — it keeps the single verb* `[T]` — **so the distinction is the apostle's.** *The proverb asks a son for one posture toward two authorities; 1 Peter asks for two, and grades them.* **Preaching 24:21 without that is preaching a verse the New Testament has already qualified.** *Moderate-to-high confidence on the reading; high on the three wordings.*
 
----
+**Deuteronomy 19:14; 27:17 → Prov 22:28; 23:10** *(high confidence on the lexical fact)*
 
-**Deuteronomy 19:14 / 27:17 → Proverbs 22:28 and 23:10** *(high confidence)* `[T]`/`[S]`
+*Source context:* Deut 19:14 forbids moving a neighbour's boundary "which the ancestors have set"; Deut 27:17 makes it one of the Shechem curses `[T]`. **The law protects a holding that cannot defend itself.**
 
-*Source context.* Deut 19:14: *"You shall not move your neighbour's landmark, which the men of old have set, in the inheritance that you will hold in the land."* Deut 27:17 places it under a curse at Ebal: *"Cursed be anyone who moves his neighbour's landmark."*
+*Book usage:* Proverbs carries the idiom twice, **both in this unit** — נסג hiphil + גְּבוּל at 22:28 and 23:10 `[T]`, WLC, as the overview records `[S: overview, confirmed]`. **22:28 keeps Deuteronomy's "fathers"; 23:10 replaces them with יְתוֹמִים ("the fatherless") and adds the Redeemer.**
 
-*What it adds.* **The prohibition has two homes and Proverbs uses both.** 22:28's *"which your fathers have set"* is Deuteronomy 19:14's *"which the men of old have set"* almost exactly. `[T]` **But 23:10 supplies the Torah's other concern — the fatherless** — and grounds it in the *gōʾēl*.
+*OT-to-OT:* the same protection runs through Exod 22:22–24 and Deut 24:17 in the language of the widow and orphan rather than the boundary `[T]`.
 
-*OT-to-OT.* Deut 19:14, Deut 27:17, Hos 5:10 (*"the princes of Judah have become like those who move the landmark"*) and Job 24:2 are already in conversation on this exact offence. Proverbs joins them.
+*What it adds:* **the unit does not merely repeat the law; it re-motivates it.** *The first time, the boundary is ancient. The second time, the boundary belongs to a child with no father, and God is the kinsman.* **That is the clearest instance in Proverbs of a legal text being taken over and given a new ground.** *High confidence on the vocabulary; moderate on the intended development.*
 
-*And this is where the Amenemope question resolves itself.* **The boundary-marker prohibition is in Amenemope and in Deuteronomy.** `[I]` *Moderate–high.* Proverbs 22:28 could be sourced from either; **23:10–11's turn to the fatherless and the Redeemer is unmistakably Israelite** and has no Egyptian counterpart. **So the doublet shows the collection doing exactly what 22:19 said it would: taking common wisdom and grounding it in YHWH.**
+**The Instruction of Amenemope — reported, not adopted** `[S: BHS]`
 
----
+BHS cross-references Amenemope at 22:18ᵃ ("cf doctrinam Amenemope cp 1") and at 22:20ᵇ, where the qere שָׁלִישִׁים and Swete's τρισσῶς are set beside a proposed שְׁלֹשִׁים with "cf doctrinam Amenemope cp 30" `[S: BHS, via the overview]`. **The corpus can establish the ketiv, the qere and the Greek; it cannot establish a relationship with an Egyptian text, and nothing in this report rests on one.** *Routed to Open Questions. The honest pulpit position is that the resemblance is real enough to be discussed in every commentary and that the direction and nature of the relation are not settled* `[S]`, *moderate confidence at best.*
 
-#### Move 4 — Internal echo check
+**Internal echoes (Move 4)** — the book's opening material held open throughout.
 
-**Within the section** (all `[T]`):
-
-| Echo | Direction |
-|---|---|
-| 22:28 ∥ 23:10 — four words | frames 22:22–23:11 |
-| 22:23 ∥ 23:11 — *yārîb rîbām* | the same frame, inner |
-| 23:18 ∥ 24:14 — four words; **negated at 24:20** | the theological spine |
-| 24:1 ∥ 24:19 — *ʾal-təqannēʾ* | frames the envy material |
-| 24:12 ∥ 24:29 — *kəpoʿŏlô* | **God's prerogative, forbidden to the reader** |
-| 22:17 ∥ 24:32 — *tāšît libbəkā* / *ʾāšît libbî* | **the teacher models the command** |
-| 22:29 ∥ 24:21 — *melek* | the only two royal references |
-| 22:19 ∥ 24:21 — trust / fear YHWH | **the collection's frame** |
-
-**Answers, backward into the book:**
-
-- **1:8; 10:1; 15:20 → 23:22–25.** Father and mother, twice in four verses. `[T]` *High.*
-- **21:2 → 24:12.** *wətōkēn libbôt YHWH* → *hălōʾ tōkēn libbôt hûʾ yābîn*. **The same participle and object.** `[T]` *High.* **Solomon 1B's frame-verse is picked up as the ground of the rescue command** — *he who weighs hearts* is why "we did not know" will not serve.
-- **6:1–5; 11:15; 17:18; 20:16; 22:26–27 → the surety thread.** `[T]`
-- **3:1–2; 4:10 → 23:18 and 24:14's *ʾaḥărît*.** The promise of a future, now given its own formula.
-
-**Planted, forward — and one is verbatim:**
-
-- **24:33–34 = 6:10–11, verbatim.** `[T]` *High.* *"A little sleep, a little slumber, a little folding of the hands to rest, and poverty will come upon you like a robber, and want like an armed man."* **The Words of the Wise closes by quoting the frame word for word** — one of only two doublets in the book that cross a collection boundary, and the more striking because it is the collection's *last line*.
-- **24:23b → 28:21.** *hakkēr-pānîm… lōʾ ṭôb*, partiality in judging. `[T]`
-- **23:27 → 22:14.** The *šûḥâ ʿămuqqâ*, "deep pit," of the forbidden woman. `[T]`
+- `Internal:` **6:10–11 → 24:33–34** — *answers §earlier*, and the closing gesture of the unit. **24:33 is 6:10 word for word; 24:34 varies 6:11 in three places** `[T]`. *High confidence.*
+- `Internal:` **16:2; 21:2 → 24:12** — *answers §earlier*. The book's three תֹּכֵן verses, and **this one turns the description into a question** `[T]`. *High confidence.*
+- `Internal:` **22:16 → 22:22** — *answers §immediately earlier*. Solomon I ends on עֹשֵׁק דָּל ("oppressing the poor"); **this unit's first prohibition is אַל־תִּגְזָל־דָּל ("do not rob the poor")** `[T]`. **The seam between the collections is not a change of subject.** *High confidence.*
+- `Internal:` **1:8; 4:1 etc. → the five בְּנִי** — *answers §earlier*. **The vocative returns after a single occurrence in 375 verses** (19:27) `[T]`. *High confidence.*
+- `Internal:` **22:28 ‖ 23:10; 23:18 ‖ 24:14** — *within the unit*. Two self-quotations `[T]`. *High confidence.*
+- `Internal:` **7:6–23 → 24:30–34** — *answers §earlier*. **The book's only two sustained first-person reports**: the father at his window watching a young man, and the wise man at a wall watching a field `[T]`. *Moderate-to-high confidence; the form is shared, the content is not.*
+- `Internal:` **30:1–14 — not an echo but an arrangement.** In the Greek, Agur's oracle stands inside this unit `[T]`, Swete. *Recorded here because Move 4 is where a reader would look for it; it is a structural fact, not an internal echo.*
 
 ---
 
 ### 12. Genre
 
-**Instruction, not sentence collection — and it is the only such material between chapters 9 and 30.** `[T]`
+**Wisdom — instruction (the same form as chapters 1–9), not sentence literature.** The reading rules change with it, and the change is the single most important genre fact for the sermon.
 
-**The markers of the genre, all present:** a titled prologue with stated purpose (22:17–21); sustained second-person address; prohibition-plus-motive as the unit; direct vocatives; a numbered claim about the collection's extent (22:20); an example story with authorial reflection (24:30–34); and a closing that quotes the book's own frame material.
-
-**Two sub-genres embedded:**
-
-- **The riddle** at 23:29–30 — six questions, answer withheld one verse. `[T]`
-- **The example story** at 24:30–34, matching 7:6–23. `[T]`
-
-**Reading rules that follow.** An admonition with a motive is not a proverb: **it is not a generally-true observation awaiting judgement but a command with a reason attached.** `[I]` *Moderate–high.* That changes the homiletics considerably — the material here can be preached more directly than a sentence collection can, and the motives supply the sermon's grounds ready-made.
+1. **These are commands with reasons, not generalisations about how the world runs.** The מָשָׁל rules that govern 10:1–22:16 — *a generalisation, not a promise* — **do not straightforwardly apply here**, because a prohibition is not an observation. *Do not rob the poor* is not a claim about what usually happens.
+2. **But the reasons attached to the commands are still proverbial.** 22:23's "the LORD will plead their case" and 23:11's "their Redeemer is strong" are grounds, not guarantees of timing. **The genre error specific to this unit is to read the grounds as a mechanism.**
+3. **The unit contains embedded sub-genres**: a numerical-style portrait (23:29–35), a first-person observation report (24:30–34), and a two-verse heading-plus-maxim (24:23). *Identify which is in play before preaching a verse from it.*
 
 ---
 
 ### 13. Copycat
 
-**Live, and more so than anywhere else in the sentence literature** — because the section issues twenty-two prohibitions and five direct appeals.
+**Applicable here in a way it was not for Solomon I**, because this unit has commands and a narrator.
 
-**These are prescriptive.** `[T]` They are not observations to be weighed but commands with stated grounds, and the grounds are what make them transferable: *do not rob the poor* **because** the LORD pleads their cause; *do not move the boundary* **because** their Redeemer is strong; *do not gloat* **lest** the LORD see it.
-
-**Two cautions.**
-
-**23:13–14** — *"if you strike him with the rod, he will not die… you will save his soul from Sheol"* — is the book's strongest rod-saying and needs the same handling as 13:24 and 19:18. See Difficult Verses.
-
-**24:11** — *"rescue those who are being taken away to death"* — **is the one command in Proverbs that has been read as a warrant for direct social and political action**, and the reading is not strained: the verse addresses a bystander who *could* intervene and forecloses the plea of ignorance. `[I]` *Moderate–high.* The copycat question here is not whether to obey but how far the obligation extends, and the text does not say.
+| Element | Category | Note |
+|---|---|---|
+| The **twenty-two prohibitions** | **Direct command** `[T]` | Addressed to a son by a teacher; the New Testament nowhere withdraws them |
+| **22:29** (standing before kings) | **Descriptive** | An observation about competence, not an instruction to seek office |
+| **23:13–14** (the rod) | **Command, culturally embedded** | See Difficult Verses — the form is imperative, the setting is a society of corporal discipline, and the verse must not be transplanted unexamined |
+| **23:29–35** (the drunkard) | **Negative example** | The one place the unit shows rather than tells |
+| **24:30–34** (the sluggard's field) | **Negative example, reported** | And the teacher says what he did with it: **וָאֶחֱזֶה אָנֹכִי אָשִׁית לִבִּי רָאִיתִי לָקַחְתִּי מוּסָר** ("I looked, I reflected; I saw, I received instruction", 24:32) `[T]` — *the modelled action is the looking, not the field* |
 
 ---
 
 ### 14. Bible Timeline
 
-**Where the passage sits.** Undated in the text; the material's relationship to Egyptian instruction places at least part of it in conversation with a tradition older than the monarchy. `[S]`
+**Where the passage sits:** attributed to no one. **The unit is the only collection in Proverbs whose material is credited to a group rather than a person** `[T]`; when and by whom it was gathered the book does not say, and any answer is reconstruction `[S]`.
 
-**Where the reader sits.** This side of cross and resurrection.
+**Canonical position:** Ketuvim, after Psalms and Job `[T]`.
 
-**What has happened in between.**
+**Where the reader sits:** this side of the cross, and three things have happened that bear on this unit specifically.
 
-1. **The *gōʾēl* has a name.** 23:11's *"their Redeemer is strong"* uses the kinsman-redeemer word; Job 19:25 confesses it; the New Testament identifies the redeemer as Christ (Gal 3:13; 1 Pet 1:18–19). **In Proverbs the *gōʾēl* acts for the fatherless who have no kinsman** — which is precisely the logic the gospel extends.
-2. **24:11–12 has been answered by an example.** *"Rescue those being taken away to death"* — and the one who weighs hearts came and did so.
-3. **The *ʾaḥărît* has been specified.** 23:18 and 24:14 promise "a future" without saying what it is. The resurrection says.
+- **24:12's formula has become a New Testament refrain** — Rom 2:6, 2 Tim 4:14, Rev 22:12 `[T]`. **What was an argument against an excuse is now a statement about the last judgement.**
+- **24:21's single fear has been divided** — 1 Pet 2:17 `[T]`. **The Christian's posture toward the state is now explicitly not the posture toward God.**
+- **24:11's "deliver those being taken to death" is read in a canon that contains Matt 25:31–46** `[S]`. *The connection is thematic and is not a citation; say so if it is used.*
 
-**And one guard.** The Egyptian background does not make the material less Scripture. **Wisdom by observation is the book's own account of how wisdom is got** (24:30–34), and 22:19 states the foundation on which the observed material is placed.
+**How that reframes the reading:** **the unit's commands stand, and two of them have been given a specific Christian shape by the apostles.** *Neither the standing nor the shaping may be dropped.*
 
 ---
 
 ### 15. Who Am I?
 
-**The addressee, and the text says so five times.** `[T]` This is the least ambiguous Who-Am-I in the whole sentence literature.
+**The son — and for once the identification is unambiguous, because the text says so five times** `[T]`.
 
-| Figure | Function |
-|---|---|
-| **"My son"** (5×) | **The reader**, directly. No inference required. |
-| **The teacher** ("my knowledge", 22:17; "my heart", 23:15; "my ways", 23:26; "I passed by", 24:30) | **Not the reader** — and the preacher must be careful here. See below. |
-| The poor, the afflicted, the fatherless (22:22; 23:10; 24:11) | **Those the reader is answerable for** |
-| The drunkard (23:29–35), the sluggard (24:30–34) | Warnings, and the second is examined rather than denounced |
-| **YHWH** | The one who pleads their cause (22:23), is the Redeemer (23:11), weighs hearts (24:12), sees and is displeased (24:18) |
+**Two complications worth the preacher's attention.**
 
-**Where "Moses-is-me" error enters:** through the teacher. **The "I" of 22:17, 23:15, 23:26 and 24:32 is not the preacher's "I".** A sermon that occupies the teacher's chair — *"give me your heart"* — has taken a position the text assigns to someone else, and there is only one figure in the canon who can say it without blasphemy.
+**First, the son is being prepared to answer to someone.** 22:21's לְשֹׁלְחֶיךָ ("to him who sent you") assumes a superior `[T]`. **The reader is not the top of any hierarchy in this unit** — there is a king above him (24:21), someone who sent him (22:21), and a ruler at whose table he may sit (23:1). *That is a different self-image from the one the two-column world of Solomon I invites.*
+
+**Second, God is the only actor with power to intervene, and he acts for other people.** In all three of the vulnerable-person passages the reader is **the one warned off**, not the one rescued `[T]`. **The identification the unit presses is not with the poor but with the man who might exploit them.** *That is uncomfortable and it is the text's own arrangement.*
 
 ---
 
 ### 16. So What?
 
-**Stage 1 — the response the author seeks.** The text states it: *that your trust may be in the LORD* (22:19), and *that you may give a true answer to those who sent you* (22:21). **Trust, and competence in the service of others.**
+**Stage 1 — the response the author seeks.** The unit says it in its own words, and no other collection does: **לִהְיוֹת בַּיהוָה מִבְטַחֶךָ** ("so that your trust may be in the LORD", 22:19) and **לְהָשִׁיב אֲמָרִים אֱמֶת לְשֹׁלְחֶיךָ** ("that you may give a true answer to him who sent you", 22:21) `[T]`. **Relocated trust, and a straight answer under authority.**
 
-**Stage 2 — worldview, behaviour, motive.**
+**Stage 2 — worldview, behaviour, motivation.**
 
-| Domain | Content |
+| Domain | Application |
 |---|---|
-| **Worldview** | The vulnerable have an advocate with standing (22:23; 23:11). Ignorance is not a defence, because hearts are weighed (24:12). There *is* a future (23:18; 24:14) — and the wicked have none (24:20). |
-| **Behaviour — stop** | Robbing the poor (22:22). Befriending the hot-tempered (22:24). Standing surety (22:26). Moving the boundary (22:28; 23:10). Wearing yourself out to get rich (23:4). Eating a grudging man's food (23:6). Envying sinners (23:17; 24:1, 19). Gloating over a fallen enemy (24:17). Paying back (24:29). |
-| **Behaviour — start** | Listening (22:17; 23:12, 19, 22). **Rescuing those taken away to death (24:11).** Buying truth and not selling it (23:23). Preparing the work outside before building the house (24:27). |
-| **Motive** | Twenty-two *kî*-clauses. And the two that matter most are theological: **the LORD pleads their cause; their Redeemer is strong.** |
+| **Worldview** | **The people with no advocate have one** — 22:23; 23:11; 24:12. *That is the unit's theology and it is stated three times in three different registers: a court, a kinsman, a weigher of hearts* |
+| **Behaviour — start** | Giving reasons, as the unit does: twenty-two commands and twenty-two grounds `[T]`. And **looking** — 24:30–34 models a man who walked past a field and let it teach him: four first-person verbs in 24:32 `[T]` |
+| **Behaviour — stop** | Twenty-two named things, and the three that carry the unit's weight: **robbing the poor because he is poor** (22:22), **moving a boundary that belongs to the fatherless** (23:10), and **saying "we did not know"** (24:12) |
+| **Motivation** | Not consequence, though consequences are given. **The motive is the identity of the one who takes up the case** — יְהוָה יָרִיב רִיבָם, גֹּאֲלָם חָזָק, תֹּכֵן לִבּוֹת |
 
 **Four audiences.**
 
-| Audience | What this section says |
-|---|---|
-| **For me** | 24:12. I have used "I did not know" and it will not serve. |
-| **For a Christian friend** | 23:17–18 — *do not let your heart envy sinners, but continue in the fear of the LORD all the day; surely there is a future.* The precise medicine for watching the wrong people prosper. |
-| **For the church** | 24:11. A congregation that has never asked what this verse requires of it has not read it. |
-| **For an unbeliever** | 23:29–35. The drunkard's closing line — *"When shall I awake? I must have another drink"* — describes addiction with more accuracy and less contempt than most modern writing. |
+- **For me:** 24:12 removes the excuse I would actually use, which is not refusal but ignorance.
+- **For a Christian friend:** for anyone exhausted by trying to be wise, 22:19 is the sentence — **the teaching exists so that your trust may be in the LORD**, which is what the whole collection is for.
+- **For the church:** the three vulnerable-person passages are corporate before they are private. **A congregation that reads them as personal ethics has halved them** — the gate at 22:22 is a court.
+- **For an unbeliever:** the unit makes a claim that can be weighed — that there is someone who takes up the case of people who cannot take up their own — and it makes it without asking for assent to anything else first.
 
-**Prayer in response.**
-
-- *Sorry* for "we did not know this" (24:12).
-- *Thank you* that the fatherless have a Redeemer who is strong, and that he turned out to be strong enough for me.
-- *Please* give me an ear that inclines (22:17) and a heart set on what I have seen (24:32).
-- *Mercy* on those taken away to death, and show me what you require of me about them.
+**Prayer in response.** Thanks for a God who pleads other people's cases. Sorry for the excuse at 24:12, and for the boundaries I have moved without calling it that. Please make 22:19 true of me — that the point of all this teaching should be trust and not competence.
 
 ---
 
@@ -523,367 +377,209 @@ Seven markers in 82 verses. `[T]`
 
 ### Original Language Observations
 
-#### Key terms
+**Key terms** — the six in Tool 7 stand. Three further observations.
 
-| Term | Form | Range | Usage here | Confidence |
-|---|---|---|---|---|
-| שלשום | 22:20, Ketiv | *šilšôm* "formerly" / Qere *šālîšîm* "officers" | ESV reads a third option, *šəlôšîm* "thirty" | *High on the consonants; moderate on the reading* |
-| *gōʾēl* | 23:11 | kinsman-redeemer | **Only occurrence in Proverbs** | *High* |
-| *ʾaḥărît* | 23:18, 32; 24:14, 20 | latter end, future, outcome | The collection's key noun | *High* |
-| *tōkēn libbôt* | 24:12 | "weigher of hearts" | **Identical to 21:2** | *High* |
-| *kilyôtay* | 23:16 | "my kidneys" — the deepest seat of feeling | The book's most exposed line | *High* |
-| *šāʿar* | 23:7 | disputed — "reckon"? "estimate"? | The KJV's "as he thinketh in his heart" | *Uncertain — consider a lexicon* |
-| *kəpoʿŏlô* | 24:12, 24:29 | "according to his work" | God's prerogative, then forbidden | *High* |
+| Feature | Where | What it does | Confidence |
+|---|---|---|---|
+| **The unpointed ketiv** | 22:20 שלשום, and **nine other verses in this unit** — 22:25; 23:5, 6, 24, 26, 29, 31; 24:1, 17 `[T]` | **Ten of the unit's 82 verses (12.2%) carry a ketiv, against 6.9% across Proverbs** `[T]`, WLC. *A mechanical consequence for any search run in this unit: the WLC prints these forms without vowels, so a pattern spelling the qere will silently miss the verse* | *High* on the counts |
+| **רִיב** ("to plead a case") | 22:23; 23:11 `[T]` (five verses in the book) | **God as the party who takes the case to court.** Not a metaphor the unit explains — it assumes the hearer knows what a gate-court is | *High* |
+| **אִם־תַּחְשׂוֹךְ** (24:11) | | **An ellipsis, and the versions all fill it.** Literally "if you hold back…" with the apodosis unstated. **The Hebrew breaks off**; NASB95 supplies "Oh", NIV84 supplies a second imperative | *High* on the form; *the sense is a judgement* |
 
-#### Grammatical and syntactical features
+**Grammatical and syntactical features.**
 
-- **Prohibition + *kî*-motive is the governing syntax** — twenty-two of each. `[T]`
-- **The infinitive-construct purpose chain at 22:19–21**: *lihyôt* ("that your trust may be"), *ləhôdîʿăkā* ("to make you know"), *ləhāšîb* ("that you may give an answer"). `[T]` **Three purpose clauses in three verses** — the densest statement of aim in the book.
-- **23:29's six-fold *ləmî*** — anaphora sustained across six cola, unique in Proverbs. `[T]`
-- **24:11's *ʾim-taḥśôk*** — a conditional the ESV renders as an imperative. See Tool 8.
+- **The imperative-plus-prohibition mood.** Thirteen imperative forms and **twenty-two אַל-prohibitions** in 82 verses `[T]`. *A prohibition in Hebrew uses the jussive, not the imperative, so the count of imperatives understates how commanding the unit is.*
+- **Two purpose clauses in the prologue**, both לְ + infinitive construct — לִהְיוֹת (22:19), לְהוֹדִיעֲךָ and לְהָשִׁיב (22:21) `[T]`. **No other collection in the book opens this way.**
+- **The interrogative cluster.** Six לְמִי in 23:29 and three הֲלֹא-type questions inside 24:12 `[T]`. **The unit asks more questions per verse than any other part of Proverbs except 30:4** `[I]`, *moderate — the comparison has not been counted book-wide.*
 
-#### Wordplay
+**Wordplay and sound.** **One finding, and it is in the closing quotation**: מְעַט שֵׁנוֹת מְעַט תְּנוּמוֹת מְעַט חִבֻּק יָדַיִם (*mĕʿaṭ šēnôt, mĕʿaṭ tĕnûmôt, mĕʿaṭ ḥibbuq yādayim*, 24:33) — **three beats of the same word with the two near-rhyming nouns between them.** *Here the sound is the argument, and the transliteration earns its place.* `[T]`
 
-**23:31–32 works by delayed reversal rather than sound:** the wine "goes down smoothly" (*yithallēk bəmêšārîm*, literally "goes straight") and then *"in the end it bites like a serpent."* `[T]` **The straightness is the trap.** *Moderate–high.*
-
-#### Recommended verification
-
-BDB/HALOT on *šāʿar* (23:7) and the syntax of 24:11. **A text of Amenemope** (Lichtheim or ANET) for the parallels in Tool 11.
-
----
+**Recommended verification:** the sense of שָׁלִישִׁים at 22:20 (HALOT, and a commentary that works the crux rather than adopting an emendation); and whether the ellipsis at 24:11 is idiomatic or defective. Both are lexicon-and-commentary questions the corpus cannot settle.
 
 ### Textual Variants
 
-**22:20 — the Ketiv/Qere, and a third reading.** `[T]` on the consonants; `[S]` on the readings. Ketiv *šilšôm*, Qere *šālîšîm*, ESV *šəlôšîm* ("thirty"). **The LXX reads τρισσῶς, "threefold"** — reflecting the same consonants read as "three." `[S]` *Moderate; not independently verified.* **The only place in the section where the English gives a number the Hebrew does not, unfootnoted.** See Tool 7 and Open Questions.
+**Category 2 items only, per the triage. Two, and the first is the unit's crux.**
 
-**23:7 — *šāʿar*.** An internal lexical difficulty rather than a version split. The ESV footnotes an alternative.
+| Place | The divergence | Witness | Assessment |
+|---|---|---|---|
+| **22:20** | **Four readings.** Ketiv **שלשום** (printed unpointed); qere **שָׁלִישִׁים**; Swete **τρισσῶς** ("threefold"); and a proposed **שְׁלֹשִׁים** ("thirty") | `[T]`, WLC and Swete; the emendation `[S: BHS, apparatus at 22:20ᵇ]` | **Load-bearing, because the emendation is what a preacher would build a structure on.** The ketiv and qere are both in the manuscript tradition; τρισσῶς is a third solution; "thirty" is in none of them. **NIV84 prints "thirty sayings" in its main text.** *High confidence on the three attested readings; the conjecture stays `[S]` and out of the findings* |
+| **24:22/23** | The Greek carries **MT 30:1–14 between MT 24:22 and MT 24:23** (Swete 24:24–37; MT 24:23 = Swete 24:38) | `[T]`, Swete; the arrangement noted at `[S: BHS, apparatus at 30:1ᵃ]` | **Load-bearing for the unit's shape.** Whether the Greek preserves an older arrangement or rearranged is not decidable from a diplomatic text. *High confidence on the placement* |
 
-**24:11 — *ʾim-taḥśôk*.** Syntactic, not textual; the ESV smooths.
-
-No category-2 variants of preaching consequence.
-
----
+**The witness limit, stated.** One Hebrew manuscript tradition and one diplomatic Greek edition. **The seven paragraph markers — and especially the unique setumah at 24:22 — rest on that single Hebrew witness and their spread is unchecked** `[unchecked — apparatus spread]`. Any citation of the Greek belongs to Rahlfs-Hanhart or Göttingen via Logos.
 
 ### Historical and Cultural Background
 
-#### Setting
+**Setting.** Undated and unplaced, as everywhere in Proverbs `[T]` — **but this unit assumes more social furniture than any other**, and the furniture is what the preacher needs.
 
-- **The Egyptian instruction tradition is the live background here**, more than for any other passage in the book. `[S]` Egyptian and Mesopotamian courts produced father-to-son instruction texts for centuries; the audience would not have found the *form* strange. **What is distinctive is 22:19.**
-- **The reader is *sent*.** 22:21's *ləšōləḥekā* — "those who sent you" — assumes a messenger or envoy answerable to a superior. `[T]` **The only place in Proverbs that names the reader's employment.**
+**What the original audience knew that we do not.**
 
-#### What the original audience knew
+- **The gate was a court.** 22:22's "do not crush the afflicted **בַשָּׁעַר** (in the gate)" is not about a doorway; it is the place where cases were heard, and the verse forbids using it to finish someone off `[I]`, *high confidence — the usage is standard OT*.
+- **A moved boundary stone was a slow theft that left no evidence.** 22:28 and 23:10 assume a world of unfenced holdings marked by stones, where a field could be reduced by a few feet a year `[I]`.
+- **The גֹּאֵל was a legal office, not a sentiment.** The kinsman who bought back land, redeemed a relative from slavery and avenged blood. **23:11 says the fatherless have one, and that he is strong** — which in a real court is a statement about who will turn up `[I]`, *moderate-to-high*.
+- **A ruler's table was a test.** 23:1–3's "when you sit down to dine with a ruler, consider carefully what is before you" assumes patronage, obligation and the danger of appearing greedy in front of a man who can advance or ruin you `[I]`.
+- **"Him who sent you" (22:21) implies a messenger or an envoy** — someone despatched with a question and expected back with an answer `[I]`, *moderate*. **The collection is training somebody who will be sent.**
 
-- **Boundary stones were the only land registry.** `[T]`/`[I]` *High.* Moving one stole an inheritance from a family with no other title, which is why Deuteronomy curses it at Ebal and why 23:10 pairs it with the fatherless — **the people least able to prove where the stone had been.**
-- **The *gōʾēl* was a legal role, not a metaphor.** `[T]` *High.* A kinsman with the duty and standing to buy back land, redeem a relative from slavery, and avenge blood. **An orphan had no *gōʾēl*** — which is the whole point of 23:11.
-- **Standing surety was ruinous** — the surety's own bed could be taken (22:27). `[I]` *High.*
-- **A great man's table was a test.** 23:1–3's *"put a knife to your throat"* assumes a setting where appetite in front of a patron could end a career. `[I]` *Moderate–high.*
-- **Mixed wine** (23:30) was wine prepared with spices for the connoisseur — the verse describes the drinker who *seeks out* the good stuff, not merely one who drinks. `[S]` *Moderate.*
-
-#### What this changes about how we read
-
-**23:10–11 stops being a property regulation.** It is a provision for people who cannot enforce their own claim, and it names God as the enforcer of last resort. **That is why the Redeemer language is there and not elsewhere.**
-
-**22:29 stops being career advice.** *"A man skilful in his work will stand before kings"* is the closing chapter of Amenemope's promise to the trained scribe — **it is the collection telling its reader what the training is for.**
-
----
+**What this changes.** It moves the unit out of the register of private morality. **Three of its commands are about legal process, one is about court patronage, and its stated purpose is a straight answer under authority.** *This is instruction for public life, and preaching it as personal piety loses most of it.*
 
 ### Original Audience Reception
 
-#### Canonical audience
+**Canonical audience.** Ketuvim `[T]`; the reader arrives after the Torah, the Prophets, the Psalter and Job, and — inside this book — after 375 verses that told him he cannot grade himself `[I]`, high confidence.
 
-- **Canonical section:** the Writings; the reader arrives post-exilic, knowing Torah, the monarchy's failure, and the prophets.
-- **What that reader knows and brings:** Deuteronomy 19:14 and 27:17 stand behind 22:28 and 23:10, and the second of those is a *curse at Ebal*. **The canonical reader hears a covenant curse behind a proverb.** `[I]` *Moderate–high.*
-- **Canonical register:** Job is the nearest neighbour — and Job 24:2 names moving landmarks among the crimes of the wicked, while Job 19:25 confesses a *gōʾēl*. **Both of this section's distinctive terms are Job's.**
+**The first hearers.** A young man on the edge of responsibility, attached to a household or a court, expected to represent someone `[I]`.
 
-#### The first hearers
+**Where the passage fits their world.** They would have recognised the instruction form from chapters 1–9, expected prohibitions, and heard 22:22 and 23:10 as legal instruction rather than as general kindness.
 
-- **Who they were:** young men in training for service — sent, answerable, seated occasionally at a great man's table, and expected to give a true report. `[I]` *Moderate–high; 22:21 and 22:29 are the evidence.*
-- **What they brought:** familiarity with instruction literature as a form, and with the international character of its content.
+**Surprises, shocks, comforts, disturbances.**
 
-#### Surprises, shocks, comforts, disturbances
+- **Surprising:** the return of direct address after so long a silence. **The book has not said "my son" in 375 verses but once.**
+- **Shocking:** **24:11–12.** A command to intervene for people being led to death, and then the pre-emptive removal of the only excuse anyone would offer.
+- **Comforting:** 23:11's גֹּאֵל חָזָק — *their Redeemer is strong* — and the twice-repeated *your hope will not be cut off*.
+- **Disturbing:** 23:29–35, which is funny until 23:35, where the man wakes and reaches for another drink; and **23:13–14**, which a modern hearer meets differently from an ancient one.
 
-- **Comforting:** 22:23 and 23:11 — the poor and the fatherless have an advocate with legal standing. And 23:18: *there is a future.*
-- **Disturbing:** 24:11–12. And 24:18 — *do not gloat, **lest the LORD see it and turn away his anger from your enemy***. **The motive is not that gloating harms you but that it may get your enemy off.** `[T]` *A genuinely uncomfortable reason, and it should be preached as one.*
-- **Shocking:** 23:2, *"put a knife to your throat if you are given to appetite."*
-- **Familiar:** the Egyptian material — recognised, and unremarked.
-- **Funny, and then not:** the drunkard poem, which is comic until 23:35.
+**What we bring that they didn't.** A reflex that reads commands about the poor as charity rather than as court procedure. A discomfort with 23:13–14 that a first hearer would not have shared — **which is a pastoral fact for the sermon, not a reason to skip the verse or to defend it briskly.** And a habit of hunting for structure, which 22:20 will oblige if the preacher lets a conjecture supply one.
 
-#### What we bring that they didn't
-
-- **A suspicion of borrowed material.** They would have expected an instruction to look like an instruction. **We ask whether Scripture may borrow; they asked whether the borrowing was rightly founded** — and 22:19 answers that question before it is asked.
-- **A private reading of 24:11.** We hear "rescue those taken away to death" as a matter for individual conscience; the original setting is public and judicial.
-- **"As a man thinketh."** Four centuries of English devotional use have made 23:7 mean something the context excludes.
-
-#### Candidate Fallen Condition Focus
+**Candidate Fallen Condition Focus**
 
 | Field | Content |
 |---|---|
-| **What they felt** | The pull to advance at the expense of people who could not answer back — and the availability of the excuse that one did not know. `[I]` anchored to 22:22–23, 23:10–11, 24:11–12 |
-| **Candidate FCF (shared concern)** | *We can profit quietly from people who have no advocate, and we can always say we did not realise.* |
-| **Shared / differs** | **Shared:** the temptation, the plausible deniability, and the fact that both are invisible to everyone but God. **Differs:** they had the *gōʾēl* as a legal institution and God as its last resort; we have a Redeemer who took the role in person. |
-| **Confidence** | *Anchored* — derived from the 22:22–23:11 frame and 24:11–12, not imported. |
+| **What they felt** | The pull to let competence and advancement be the point of wisdom, and to treat the people with no standing as beneath the scope of it `[I]`, anchored in the prologue's two purposes and the three vulnerable-person passages |
+| **Candidate FCF (shared concern)** | We want wisdom to make us effective, and we discover that the teaching exists to move our trust and to make us answerable for people who cannot make us answerable |
+| **Shared / differs** | Shared closely. Differs in that our version of "we did not know" has more information behind it than theirs did |
+| **Confidence** | Anchored |
 
-#### Implication for the sermon
-
-**The collection's two theological motives are both about advocacy for people who cannot advocate for themselves** — *the LORD will plead their cause* (22:23), *their Redeemer is strong* (23:11). **Preach them together with 24:12, and the section's moral centre appears**: what you do quietly to the defenceless is done in front of the one who weighs hearts, and the plea of ignorance is refused in advance.
-
----
+**Implication for the sermon.** The work is to let 22:19 and 24:12 stand together: **the collection exists so that your trust may be in the LORD, and the same collection will not let you say you did not know.** *Neither half is bearable alone, and the unit gives both.*
 
 ### Biblical-Theological Themes
 
-#### (1) The Redeemer of those with no redeemer
+**(1) God as the advocate of those without one.** *Where this passage sits:* three statements in three registers — the court (22:23, יְהוָה יָרִיב רִיבָם), the family (23:11, גֹּאֲלָם חָזָק), and the assize (24:12) `[T]`. *Before:* Exod 22:21–24; Deut 10:18; 24:17. *After:* Isa 1:17; Jer 22:16; and in the NT, Jas 1:27 and 5:4. *Confidence: high on the OT chain; the NT links are thematic.*
+*Contribution:* **Proverbs, which almost never speaks of God acting in history, here says three times that he will act in a specific kind of case.**
 
-- **Where this passage sits.** 23:11 — *"their **Redeemer** is strong; he will plead their cause against you"* — of the fatherless whose field has been encroached on.
-- **Before.** Leviticus 25:25–55 (the *gōʾēl* redeems land and person); Numbers 35 (the avenger of blood); Ruth (the *gōʾēl* who marries); **and the exodus, where God himself becomes *gōʾēl* to a people with no kinsman** (Exod 6:6, *wəgāʾaltî*).
-- **After.** Job 19:25; Isaiah 41:14; 43:14; 44:6 — *"your Redeemer, the Holy One of Israel"* — where the title becomes one of God's standard names; then Galatians 3:13 and 1 Peter 1:18–19.
-- **What it contributes.** **The logic is that the orphan's case is God's case because there is nobody else to take it.** That is the same logic the gospel runs on: *"while we were still weak… Christ died for the ungodly."*
-- **Confidence:** *high.*
+**(2) Rendering according to works.** *Where this passage sits:* 24:12, and its Greek is the New Testament's wording `[T]`. *Before:* Ps 62:13. *After:* Rom 2:6; 2 Tim 4:14; Rev 2:23; Rev 22:12. *Confidence: high — NT-authorised.*
+*Contribution:* **the unit supplies half the parentage of a formula the New Testament uses four times.**
 
-#### (2) The *ʾaḥărît* — is there a future?
-
-- **Where this passage sits.** 23:18 and 24:14, identically: *"there is a future, and your hope will not be cut off."* And 24:20: *"the evil man has no future."*
-- **Before.** Deuteronomy 32:29 (*"that they would discern their latter end"*); the promise-structure of Proverbs 3:1–2.
-- **After.** The question the wisdom books press — Job 14:14, Ecclesiastes 3:11 — and the answer at 1 Corinthians 15.
-- **What it contributes.** **The collection promises a future twice and never says what it is.** `[T]` That is not evasion; it is the limit of what the sage can say. **And it is why the promise needs the resurrection to become specific.**
-- **Confidence:** *high on the OT trajectory.*
-
-#### Confluence
-
-**Mutual illumination.** The two themes are the same claim in two registers. **The fatherless has an advocate because God takes cases nobody else will; the reader has a future because his hope rests on someone who will not let it be cut off.** In both, what makes the difference is *someone else's* standing.
-
----
+**(3) The fear of God and the honour of the king.** *Where this passage sits:* 24:21, one verb and two objects `[T]`. *Before:* Deut 17:14–20, which subordinates the king to the law. *After:* 1 Pet 2:17, which splits the verb; Rom 13:1–7; Mark 12:17. *Confidence: high on the wordings; moderate on the arc.*
+*Contribution:* **the Old Testament's tightest formulation of the joint claim, and the one the apostles found they had to take apart.**
 
 ### Schnittjer Pass
 
 **N/A** — not in the Torah.
 
----
-
 ### Christological Reading
 
-**Type of connection: trajectory (primary), with one strong typological candidate.**
+**Type of connection: trajectory and contrast, with one New Testament-authorised link.** No typology is claimed: the unit has no person, institution or event to serve as a type, and the גֹּאֵל of 23:11 **is God himself, not a human redeemer figure who could be a type** `[T]` — *which is worth saying, because that is exactly the verse a preacher would reach for.*
 
-#### 1. The Redeemer — trajectory arriving
+**How the unit points to Christ.**
 
-23:11's *gōʾēl* runs through Job 19:25 and Isaiah's Redeemer-title to Galatians 3:13. **Tests:** *theological category* (redemption) ✔ · *NT precedent* (the NT uses the redemption vocabulary explicitly) ✔ · *escalation* (from field to person to soul) ✔ · *authorial pattern* — Proverbs uses the word once, at the point where the powerless need it ✔. **All four; classify as trajectory rather than typology, since the *gōʾēl* here is God rather than a human figure prefiguring Christ.** *High.*
+- **The advocate, and the direction of the trajectory.** Three times the unit says God takes up the case of someone who cannot plead — and **the New Testament's word for that office is παράκλητος** ("advocate"), used of Christ at 1 Jn 2:1, ἔχομεν πρὸς τὸν πατέρα ("we have an advocate with the Father") `[T]`, SBLGNT. **The trajectory runs from God pleading for the poor at the gate to Christ pleading for the guilty before the Father.** *The two are not the same case, and the sermon should say so: the unit's advocate defends the wronged, and the New Testament's defends the wrongdoer.* **That is a development, not a repetition.** *Moderate-to-high confidence; stated as trajectory.*
+- **The formula at 24:12, NT-authorised.** Rom 2:6 `[T]`. **The unit's argument against an excuse becomes the New Testament's statement about the judgement**, and it keeps the same shape: *what you knew is not the issue; what he knows is.* *High confidence — the wording is quoted.*
+- **The contrast at 24:11.** "Deliver those being taken away to death" is a command the hearer can only partly obey, given to someone with no power over the sentence `[I]`. **The unit does not say what to do when you cannot deliver them.** *That silence is where the gospel speaks, and it should be left as silence until it is answered.*
 
-#### 2. "We did not know this" — 24:11–12 and the sheep and the goats
+**Trajectory.** *Anticipates:* an advocate strong enough to make the case, and a judgement no excuse survives. *Christ fulfils:* the first as παράκλητος; the second as the one to whom the rendering is given (Rev 22:12). *Remains:* the commands, all twenty-two of them, and the people at 24:11 who are still being led away.
 
-> **24:11–12** *Rescue those who are being taken away to death… If you say, "Behold, **we did not know this**," does not he who weighs the heart perceive it?*
-> **Matthew 25:44** *"Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?"*
+**Moralism check.**
 
-**The same excuse, in the same setting, refused the same way.** `[I]` *Moderate–high.* The NT does not cite Proverbs here, so this is not a quotation — but **the structure is identical: an obligation to the perishing, a plea of ignorance, and a judge who is not deceived.** *Offer it as resonance and as a preaching pairing; do not claim it as citation.*
+- **The "be like X" temptation: this is the highest-risk unit in the book for it**, and the reason is structural — **twenty-two prohibitions and no narrative** `[T]`. A sermon can be assembled from this material that is nothing but instructions.
+- **The guard is the unit's own.** **22:19 says what the teaching is for — לִהְיוֹת בַּיהוָה מִבְטַחֶךָ, "so that your trust may be in the LORD"** — and it says it *before* the first prohibition `[T]`. **The collection puts its own gospel-ground in front of its own commands.** *A sermon that preaches the commands without 22:19 has dropped the verse the collection supplied to stop exactly that.*
+- **Christ as hero, not example:** the actor in all three vulnerable-person passages is God — pleading, redeeming, weighing `[T]`. **The hearer's role in each is to stop doing something.**
 
-#### 3. The teacher who says "give me your heart"
-
-23:26 — *"My son, give me your heart, and let your eyes observe my ways."* `[T]`
-
-**In the mouth of any human teacher this is close to intolerable.** `[I]` *Moderate.* The book has personified Wisdom saying comparable things (8:32–36, where hearing her is finding life and missing her is loving death), and the New Testament puts them in the mouth of Christ (*"come to me… learn from me"*, Matt 11:28–29; *"follow me"*). **The trajectory is real. But the verse is spoken by a father to a son and should be preached as such first**, with the resonance offered rather than asserted.
-
-#### 4. Contrast — *kəpoʿŏlô*
-
-24:12 says God repays *"according to his work"*; 24:29 forbids the reader to do the same. `[T]` **Romans 12:19 makes the same move with the same logic** — *"never avenge yourselves… 'Vengeance is mine, I will repay,' says the Lord"* — and lands, three verses later, on Proverbs 25:21–22. **So Paul's non-retaliation argument draws on Proverbs twice, from two different collections.** `[I]` *Moderate–high.*
-
-#### Moralism check
-
-**This section is more exposed to moralism than any other in the book**, because it is a list of commands with reasons and can be preached as one without any distortion of its surface.
-
-**Where the gospel grounding sits.** `[T]`
-
-- **The motives are theological before they are prudential.** The two load-bearing ones are *the LORD will plead their cause* and *their Redeemer is strong.*
-- **The excuse is foreclosed by the character of God**, not by the reader's conscience (24:12).
-- **The promise is unspecified** (23:18; 24:14) and therefore points beyond itself.
-
-**Christ as hero, not example.** The collection's protagonist is not the son who obeys but **the advocate who takes the case of those who have none** — and the moment the *gōʾēl* is named, the sermon has somewhere to go that is not exhortation.
-
-**Confidence:** *high* on the Redeemer trajectory; *moderate–high* on the Matthew 25 resonance and the Romans 12 pairing; *moderate* on 23:26.
-
----
+**Confidence:** *high* on the Rom 2:6 link and on 22:19's function; *moderate-to-high* on the advocate trajectory; *no typological claim advanced.*
 
 ### Difficult / Contested Verses
 
-#### 23:13–14 — "if you strike him with the rod, he will not die"
-
-- **Category:** pastoral landmine, and the sharpest form of it in the book.
-- **The difficulty:** *"Do not withhold discipline from a child; if you strike him with a rod, he will not die. If you strike him with the rod, you will save his soul from Sheol."* **Two verses, two strikings, and a claim about survival.**
-- **Rhetorical function:** the pair is the motive-structure of the section applied to parenting — prohibition (do not withhold), then two *kî*-grounded assurances.
-- **What the text supplies:** the aim is stated — *"you will save his soul from Sheol"*, i.e. the child's life, not the parent's satisfaction. And **19:18's limit stands over it**: *"do not set your heart on putting him to death."*
-- **Handling:** **do not preach 23:13–14 without 19:18**, and name the abuse question aloud. Sustained from the 1A and 1B runs; this is the third and hardest of the three rod-passages, and the project's standing advice applies with most force here.
-
-#### 24:11–12 — "rescue those who are being taken away to death"
-
-- **Category:** ethical, and the most demanding verse in Proverbs.
-- **The difficulty is not obscurity but scope.** The text forecloses the plea of ignorance and does not say how far the obligation runs.
-- **Handling:** preach it and let it be uncomfortable. Pair with Matthew 25:31–46. **Do not domesticate it into "be generous"**, and do not turn it into a programme the text does not authorise.
-
-#### 23:7 — "as he thinketh in his heart, so is he"
-
-- **Category:** weaponised by long misuse.
-- **The difficulty:** the KJV rendering has become a maxim about self-image and the power of thought, quoted far outside any Christian setting.
-- **Why it's wrong:** the verse is the *kî*-motive for *"do not eat the bread of a stingy man"* (23:6). **It is about a mean host doing sums while he tells you to help yourself.**
-- **Handling:** if the phrase comes up, correct it kindly and show the context. The verse is also genuinely hard in Hebrew, which is worth admitting.
-
-#### 22:20 — "thirty sayings"
-
-- **Category:** translation, with apologetic edge.
-- **The English gives a number the Hebrew as transmitted does not**, and the ESV does not footnote it.
-- **Handling:** if the collection's structure is preached, say that the number is a reconstruction. **Do not build a sermon outline on thirty units.**
-
-#### The Egyptian background
-
-- **Category:** apologetic.
-- **The difficulty:** a hearer who learns that Proverbs 22–23 parallels an Egyptian text may feel the ground move.
-- **Handling:** get there first. **The collection states its own foundation at 22:19 before it borrows anything**, and 23:11 supplies a motive Egypt could not. Proverbs' claim was never that its observations were unique.
+- **22:20 — the disputed word.** Not a difficulty about meaning but about text. *The honest pulpit line is that the manuscripts read one thing, the Greek another, and the modern versions a third; and that nothing in the collection depends on it.*
+- **23:13–14 — the rod, and Sheol.** *"You shall strike him with the rod and rescue his soul from Sheol."* **Two difficulties at once.** The genre is proverbial instruction in a society where corporal discipline was assumed, and **the congregation will include people for whom it was not proverbial** `[S: overview, trap 6]`. And NIV84 renders שְׁאוֹל as "death" in the text with the Hebrew in a footnote `[T]`. *Handle deliberately or leave it; do not let it arrive by accident.*
+- **24:11–12 — the command to deliver.** Frequently lifted for campaigning, in whichever direction. **The verse is a command with an ellipsis (24:11) followed by the removal of an excuse (24:12)** `[T]`; it does not specify the case, and a sermon that specifies it is adding. *Preach the excuse; it is what the text presses.*
+- **24:17–18 — do not rejoice when your enemy falls, "or the LORD will see it and be displeased, and turn His anger away from him."** **A genuinely hard verse**: the stated reason for not gloating is that gloating may get the enemy off `[T]`. *Name the difficulty rather than smoothing it; the motive the verse gives is not the motive a modern sermon would supply.*
+- **24:16 — "a righteous man falls seven times and rises again."** Commonly preached as perseverance through personal setbacks; **the context is the wicked lying in wait against his dwelling (24:15)**, so the falling is more likely calamity than sin `[I]`, *moderate*.
 
 ---
 
 ## Convergent Findings
 
-- **The paragraphing tracks genre, and the *setumah* at 24:22 proves it** — Structure, Genre, and the cross-report comparison with four previous runs. **The single most consequential finding**, because it retrospectively explains a pattern the project had recorded four times without an explanation.
-
-- **The collection frames itself on YHWH** — Repetition (five occurrences, two of them at the frame), Structure, Author's Purpose, Move 4, Tool 11 (it is what re-founds the borrowed material). **Five tools.**
-
-- **22:22–23:11 as a unit protecting the vulnerable** — Structure (two four-word frames), Repetition (*yārîb rîbām*), Vocabulary (*gōʾēl*), Tool 11 (Deuteronomy and Amenemope), Original Audience (the FCF), Christological Reading. **Six tools.**
-
-- **The *ʾaḥărît* spine** — Repetition (verbatim at 23:18 ∥ 24:14, negated at 24:20), Structure (24:14 closes on a marker), Biblical Theology, Bible Timeline. **Four tools.**
-
-- **The voice returns** — Linking Words, Tone, Genre, Copycat, Who Am I. **Five tools.**
-
-- ***kəpoʿŏlô* at 24:12 and 24:29** — Repetition, Move 4, Christological Reading (the Romans 12 pairing), So What. **Four tools**, and it is the section's cleanest single argument.
-
-- **The teacher models the command** — 22:17's *tāšît libbəkā* answered by 24:32's *ʾāšît libbî*. Tool 6 (the only live Narrator's Comment outside chapter 7), Repetition, Move 4. **Three tools.**
+- **A different kind of text has begun, and four measures say so** — surfaced by Author's Purpose, Structure, Linking Words, Genre and Tone: **22 אַל-prohibitions and 22 כִּי-grounds in 82 verses**, 48.8% of verses carrying a second-person form, five vocatives returning, and the opposition measure at its book-low of 1.2%.
+- **The unit states its own purpose, which no other collection does** — surfaced by Author's Purpose, Vocabulary (מִבְטָח), Christological Reading and So What?. **22:19 is the collection's own guard against being preached as a list of rules.**
+- **Both traditions mark 24:22/23** — surfaced by Structure (the only setumah in the book), Translations, Textual Variants and Context.
+- **The crux at 22:20 is unresolved in every witness and settled in the pulpit text** — surfaced by Vocabulary, Translations, Textual Variants and Original Languages.
+- **Three vulnerable-person passages carry the unit's theology** — surfaced by Repetition, Vocabulary (רִיב, גֹּאֵל), Historical Background, Biblical Theology, Who Am I? and the moralism check. **The reader is always the one warned off, never the one rescued.**
+- **The unit's outward links run through the Greek, and both are New Testament-authorised** — surfaced by Translations, Tool 11 and Biblical Theology: **Rom 2:6 ← the Greek of 24:12 blended with the Greek of Ps 61:13**, and **1 Pet 2:17 splitting the single verb of 24:21**.
 
 ---
 
 ## Preaching Pitfalls
 
-### Pitfall: preaching this as though it were a sentence collection
+### Pitfall: Preaching "thirty sayings" because the pew Bible says so
 
-- **What it looks like:** verse-by-verse treatment, one proverb per point, weighing each as a generally-true observation.
-- **Why it's wrong:** **the unit here is the admonition, not the verse**, and it regularly runs to two or four verses. 22:22–23, 23:1–3, 23:4–5, 23:10–11, 23:13–14, 24:11–12 and 24:30–34 are all single units. **And these are commands with reasons, not observations awaiting judgement.**
-- **The corrective:** preach the admonition whole, and preach the motive as the sermon's grounds. This material can be applied more directly than the rest of the sentence literature.
+- **What it looks like:** a sermon organised around the thirty sayings of the wise, or an aside explaining that this collection has thirty units.
+- **Why it's wrong:** **the Hebrew in front of us does not say thirty.** The ketiv is שלשום, the qere is שָׁלִישִׁים, Swete has τρισσῶς, and "thirty" is a conjecture BHS proposes on the strength of an Egyptian parallel `[T]` + `[S: BHS]`. **NIV84 prints the conjecture and footnotes the manuscripts.**
+- **The corrective:** one sentence from the pulpit — *your Bible says thirty; the Hebrew says something the translators could not settle, and the footnote tells you so* — and then preach the unit's actual shape, which the paragraph markers supply.
 
-### Pitfall: hiding the Egyptian background
+### Pitfall: Preaching the commands without 22:19
 
-- **What it looks like:** a series on Proverbs 22–23 that never mentions *Amenemope*.
-- **Why it's wrong:** the parallels are widely known and a hearer will meet them eventually. **Concealment looks like fear, and the text gives no reason for fear**: 22:19 states the foundation before the borrowing begins, and 23:11's Redeemer is not available in Egypt.
-- **The corrective:** get there first, briefly and cheerfully. **Proverbs never claimed its observations were unique — it claimed they were rightly founded.**
+- **What it looks like:** the obvious sermon on this unit — twenty-two things not to do, delivered with energy.
+- **Why it's wrong:** **the collection states its own purpose before it issues a single prohibition**: *"so that your trust may be in the LORD, I have taught you today"* (22:19) `[T]`. **A sermon that reaches the commands without that sentence has removed the collection's own safeguard**, and this is the unit of the book where that matters most, because it has more commands and fewer stories than any other.
+- **The corrective:** preach 22:17–21 first and let it govern. *The prologue is short, it is the only one of its kind in the book, and it exists for this.*
 
-### Pitfall: "as a man thinketh in his heart, so is he"
+### Pitfall: Reading the poor-and-fatherless passages as charity
 
-- **What it looks like:** 23:7 quoted as a maxim about self-image, positive thinking, or the power of belief.
-- **Why it's wrong:** it is the reason not to accept dinner from a grudging host. **The verse is about a man doing sums while he presses food on you.**
-- **The corrective:** read 23:6–8 whole. The picture — the food you will vomit up, the pleasant words wasted — is worth more than the misquotation.
+- **What it looks like:** 22:22, 23:10 and 24:11 as encouragements to generosity.
+- **Why it's wrong:** **22:22's בַשָּׁעַר is a court**, 23:10's boundary stone is a property fraud, and 23:11's גֹּאֵל is a legal office `[T]` + `[I]`. **All three are about process, not benevolence** — and in all three **the reader is the potential offender**, not the potential donor.
+- **The corrective:** preach them as the text arranges them. *The question is not "will you help?" but "are you the one they will need protecting from?"* — and the answer the unit gives is that God will be in court.
 
-### Pitfall: 23:13–14 without 19:18
+### Pitfall: Letting 24:12 be about other people
 
-- **What it looks like:** *"strike him with the rod and he will not die"* preached as licence.
-- **Why it's wrong:** the stated aim is the child's life, and the same book sets a limit at 19:18: *do not set your heart on putting him to death.*
-- **The corrective:** the three rod-passages together (13:24; 19:18; 23:13–14), the abuse question named aloud, and the aim kept in view.
+- **What it looks like:** using *"if you say, 'we did not know'"* to indict a class of people — a government, an age, an institution.
+- **Why it's wrong:** **the excuse is put in the hearer's mouth in the second person singular** — כִּי־תֹאמַר ("if *you* say") `[T]` — and it is followed by three questions about what God knows of *him*. **The verse is a mirror, not a placard.**
+- **The corrective:** let it land where it is aimed. *And note that it is a question, not an accusation: the unit asks whether the hearer supposes the one who weighs hearts is unaware.*
 
-### Pitfall: domesticating 24:11
+### Pitfall: Preaching 24:21 as it stands, after 1 Peter
 
-- **What it looks like:** *"rescue those who are being taken away to death"* softened into general kindness or church giving.
-- **Why it's wrong:** the verse addresses a bystander who could act, and v.12 forecloses the excuse he would use. **It is the most demanding sentence in the book and it means to be.**
-- **The corrective:** preach it as it stands, pair it with Matthew 25, and resist inventing a programme the text does not authorise. **Discomfort is the right outcome.**
+- **What it looks like:** "Fear the LORD and the king" applied directly to the Christian's duty to the state.
+- **Why it's wrong:** **1 Pet 2:17 has already taken the verse apart** — φοβεῖσθε for God, τιμᾶτε for the king `[T]`. **The apostle keeps the pair and refuses the single verb.** Preaching the proverb unqualified gives the state a word the New Testament withholds from it.
+- **The corrective:** preach the proverb, then the apostle's refinement. *It is a two-minute move and it is one of the clearest examples in the series of the canon developing its own material.*
 
-### Pitfall: counting thirty sayings
+### Pitfall: Skipping 23:13–14 or defending it briskly
 
-- **What it looks like:** a series structured on "the thirty sayings of the wise."
-- **Why it's wrong:** the Hebrew as transmitted does not say thirty; the ESV follows a modern conjecture and does not footnote it, and proposals for where the thirty units fall differ.
-- **The corrective:** if you use the number, say where it comes from.
-
-### Pitfall: standing in the teacher's chair
-
-- **What it looks like:** preaching 23:26 — *"My son, give me your heart"* — in the preacher's own voice.
-- **Why it's wrong:** the "I" of this collection is a father addressing his son and, at a further remove, Wisdom herself. **There is one figure who can say "give me your heart" without blasphemy, and the preacher is not him.**
-- **The corrective:** preach the verse as the father's, and let the trajectory to Christ be heard rather than assumed.
+- **What it looks like:** either an outline that steps round the rod verses, or a confident application of them to modern child-rearing.
+- **Why it's wrong:** **the verse is there, the congregation can read it, and both evasions are worse than the difficulty** `[S: overview, trap 6]`. The genre is proverbial instruction in a culture of corporal discipline; the second colon's claim is about rescue from שְׁאוֹל, not about a method `[T]`; and NIV84 renders it "death" in the text.
+- **The corrective:** name the setting, name the translation decision, name the pastoral fact that some hearers did not meet this proverbially — and move on without a verdict. *That is more honest than either the skip or the defence.*
 
 ---
 
 ## Open Questions / Uncertainties
 
-1. **The Amenemope parallels have not been checked against a text.** The table at Tool 11 is from general knowledge, and while the general dependence is very widely held, **the individual chapter-correspondences should be verified before any of them is quoted from the pulpit.** **Lichtheim's *Ancient Egyptian Literature* vol. 2, or ANET, would settle the whole table in an hour.** *This is the most useful outstanding item from this run.*
-
-2. **22:20 — what exactly does the LXX read, and what do the major commentators do with the Ketiv/Qere?** I have τρισσῶς ("threefold") at moderate confidence and unverified. **The question matters because the ESV supplies an unfootnoted number.** Fox and Waltke would both have full discussions.
-
-3. **23:7's *šāʿar*.** Genuinely disputed. A lexicon entry would establish the range and say whether "calculate" is defensible or a guess.
-
-4. **Does anyone note the *kəpoʿŏlô* pairing at 24:12 and 24:29?** The identical phrase used of God and then forbidden to the reader is countable and secure; the claim that it is a deliberate pairing is my inference. *Same class of question as the 2A run's √*ṣrp* inclusio and the 1B run's 16:2 ∥ 21:2 frame — three of these are now waiting on one library session.*
-
-5. **Where does the paragraph beginning at 24:28 close?** At 24:34, which is also the end of the collection — but whether the next marker falls at 25:1 or later is outside the loaded range. *Recorded as unknown, per the standing window rule. The 2A run's text began at 25:1 and showed no marker before 25:13, which suggests 24:34's* petuchah *is followed by the superscription without an intervening break — but the two windows do not quite meet and I have not assumed.*
+- **What does שָׁלִישִׁים mean at 22:20, and what did the ketiv שלשום mean?** Four readings, no agreement, and a conjecture in the pulpit text. HALOT, and a commentary that works the crux rather than adopting the emendation. **This is the unit's one genuine crux.**
+- **What is the relation between this collection and the Instruction of Amenemope?** BHS cross-references it twice `[S: BHS]`. The corpus can establish the Hebrew and the Greek and nothing about an Egyptian text; **nothing in this report rests on the parallel.** A commentary, and the overview's own handling.
+- **Why does the Greek place MT 30:1–14 between MT 24:22 and 24:23?** The same question the first Solomonic collection raised at 10:1 and 16:1–9 — **a different arrangement, three times, in the same book.** Rahlfs-Hanhart and Göttingen via Logos, and they should be answered together.
+- **Is the setumah at 24:22 significant, or a scribal accident?** The corpus shows it is the only one in Proverbs; **one manuscript cannot show whether that is characteristic** `[unchecked — apparatus spread]`.
+- **Is the ellipsis at 24:11 idiomatic or defective?** Every version supplies something different. A grammar and a commentary.
+- ~~Does 24:33–34 really repeat 6:10–11?~~ **Closed against the corpus:** **24:33 = 6:10 consonantally exactly; 24:34 differs from 6:11 in three places** `[T]`.
+- ~~Is אַחֲרִית three times in the unit?~~ **Closed, and the answer changed the finding: four** — 23:18; **23:32**; 24:14; 24:20 `[T]`. *The wine's "end" belongs to the same chain as the son's "future".*
 
 ---
 
 ## Book-Overview Tensions
 
-### 1. The paragraphing pattern now has an explanation, and the assessment should record it
+**None requiring revision. Four extensions for the next overview pass.**
 
-Three runs recorded that the Masoretic paragraphing ignores the collection boundaries at 15:33/16:1, 22:16/22:17 and 27:27/28:1, and the project stated the pattern without accounting for it.
+1. **The overview describes this unit as "two short collections in the instruction form of chs 1–9, with the vocative returning five times".** That is right, and the measures now stand behind it: **22 אַל-prohibitions (26.8%, the book's highest by a factor of two), 22 כִּי-grounds, and 48.8% of verses carrying a second-person form — higher than chapters 1–9 themselves.**
+2. **The overview's intertextual map does not carry this unit's two New Testament links.** **Rom 2:6 ← Swete Prov 24:12 blended with Swete Ps 61:13** (the Hebrew of the two shares no lexeme), and **1 Pet 2:17 ← Prov 24:21 with the single verb divided.** They belong beside the Solomon I links (1 Pet 4:8, 1 Pet 4:18, 2 Cor 9:7), and **together the five make a pattern: every New Testament use of Proverbs this project has verified runs through the Greek.**
+3. **The overview records the Greek's displacement of 30:1–14 in its arc note.** It does not record that **the displacement lands exactly on the Hebrew's only setumah.** That convergence is the strongest structural evidence in this unit.
+4. **The overview's echo table should carry 22:16 → 22:22** — Solomon I ends on oppressing the poor and this unit's first prohibition is robbing the poor `[T]`. **The collections are joined at the seam by their subject.**
 
-**This run supplies the account.** `[T]`/`[I]`
-
-- **The markers track genre.** One per 12 verses in instruction material; one per 184 in the most heap-like sentence collection.
-- **And they do mark one collection boundary — 24:22 — using the *setumah*, the lesser marker**, for the join between two collections that share a title.
-
-**So the silence elsewhere is meaningful rather than careless.** The Masoretes had a weaker sign available and did not use it at 15:33/16:1, 22:16/17 or 27:27/28:1. **Recommended: the assessment's paragraphing table should be extended with this run's figures and the genre explanation added.**
-
-### 2. The four-section antithesis table should carry a note about this section
-
-The table now reads 81% · 20% · 7% · 60% for the four sentence collections. **The Words of the Wise sits between 1B and 2A and has no figure**, because the scheme classifies bicola and this material's unit is the multi-verse admonition.
-
-**Recommended: state that explicitly in the assessment rather than leaving a gap**, and record it as a finding — *the formal measure that discriminates so sharply among the four sentence collections cannot be applied to the material between them, because that material is a different genre.*
-
-### 3. The overview's reconstruction of the addressee is confirmed more directly here than anywhere
-
-22:21 — *"that you may give a true answer to those who sent you"* — **is the only verse in Proverbs that names the reader's employment.** `[T]` The overview's courtly-formation reading has been held at `[I]`/`[S]` throughout the project; this verse is the closest thing to direct textual warrant it has. **Recommended for the overview's presenting-situation section.**
-
-### 4. Findings neither document has
-
-- The ***setumah* at 24:22** and what it implies.
-- The **22:19 ∥ 24:21 YHWH frame** (trust / fear).
-- The **two four-word frames** and the ***ʾaḥărît* spine** negated at 24:20.
-- ***kəpoʿŏlô*** at 24:12 and 24:29.
-- **22:17 *tāšît libbəkā* ∥ 24:32 *ʾāšît libbî*** — the teacher modelling the command.
-- The ***gōʾēl*** as the only occurrence in Proverbs.
-
-### 5. What the sweep got right and this run confirms
-
-- The Words of the Wise as instruction rather than sentence collection — **confirmed and quantified**.
-- 24:30–34 as the book's second example story with live Narrator's Comment — **confirmed**, and 24:32's link back to 22:17 is new.
-- The Egyptian background as genuinely present — **confirmed**, and the theological re-founding at 22:19 and 23:11 is the point to preach.
-- 6:10–11 ∥ 24:33–34 as a boundary-crossing doublet — **confirmed**, and it is the collection's closing line.
+Otherwise the run confirms the overview throughout: the five vocatives, the five YHWH verses, the 1.2% opposition rate, the Amenemope cross-references held at `[S]`, and trap 6 on the rod verses.
 
 ---
 
 ## Text-First Declaration
 
-**Method.** Text-first. **Heim's map stops at 22:16, so for this passage there was no map available to be corroborated by** — the structural findings stand on the Hebrew alone, which makes this the one run in the series where the derivation was unavoidably independent.
+**Secondary sources present in context:** `book-overview-proverbs` v2.0; the five completed Proverbs runs of 17–18 September (1:1–7, ch. 2, chs 1–9, 10:1–15:33, 16:1–22:16) and the Solomon I umbrella; BHS apparatus as reported in the overview. **The superseded August 2026 dig on this passage was archived before the run began and was not opened.**
+**Tools worked before secondary sources consulted:** Confirmed. The overview's four threads were front-loaded at Phase 0.5 as background; every count and chain here was reached from the corpus, and the overview and the neighbouring runs were reconciled at Phase 5.5.
+**Passage text:** Verified — WLC for the Hebrew, Swete for the Greek OT, SBLGNT for the New Testament; NASB95 and NIV84 from the Logos exports, checked verse by verse. Hebrew quoted here was copied from the corpus, not reconstructed.
+**Reference files viewed:** Core 01–07 (viewed in full earlier in this session and fully in context, which the Consistency Contract accepts); `preacher-extras.md`; `original-languages.md`, `historical-background.md`, `original-audience.md`, `christological-reading.md`; `_texts/README.md`; `_skill-examples/psalm-33-worked.md` as the OT-poetry calibration anchor; `macro-synthesis-format.md` was viewed for the umbrella pass earlier in this session and is not relevant here. `biblical-theology.md`, `difficult-verses.md` and `textual-variants.md` were not re-viewed; their sections follow the template and the governing triage.
+**Depth floors:** Met — Tools 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 15 and 16 substantial; 5 Headline Findings; 6 Preaching Pitfalls.
+**Chains verified:** 13 chains, 88 references checked by lemma or by normalised consonantal text against `_texts/` — אַל, כִּי, פֶּן and אִם across all six segments of the book; second-person forms and imperatives by morphology across all six; בְּנִי in the unit; יְהוָה in the unit; מִבְטָח (book-wide, 4 — **correcting a stated 3**); גאל (book-wide, 1); רִיב (book-wide, 5); תֹּכֵן (book-wide, 3); אַחֲרִית (book-wide, 13; **four in the unit, correcting a stated three**); the paragraph markers including mid-verse forms; the ketiv forms by the unpointed-token test; 24:33–34 against 6:10–11 consonantally; and Prov 24:12 and Ps 62:13 in Hebrew against Swete Prov 24:12 and Swete Ps 61:13 and against Rom 2:6, 2 Tim 4:14 and Rev 22:12.
+**The positive-control rule earned its place on its first use in this run.** A search for Swete's Psalm 61:13 returned **nil**. Under the rule the absence was not reported: a control was run — `grep -c "^Psa\? 61:"` returned **13** — which proved the search was broken and the text present. **The Swete Psalms file uses `Psa`, not `Ps`.** *The finding that the Greek of Prov 24:12 and of Ps 61:13 share four words, on which Headline 4 rests, would have been lost.*
+**Two further corrections made at the gate:** מִבְטָח was written as three occurrences and is four (14:26 was missing), and אַחֲרִית was written as three occurrences in the unit and is four — **23:32, the wine's "end", belongs to the same chain as the son's "future", which strengthens the finding rather than weakening it.**
+**Apparatus findings:** Two families. The seven paragraph markers — **including the book's only setumah, at 24:22** — witness named as WLC printing the Leningrad layout, stated as a reading tradition rather than authorial, spread not independently checked, tagged and capped. And **ten ketiv forms in the unit (12.2% of its verses against 6.9% across Proverbs)**, of which one — 22:20 — is load-bearing and is treated in full.
+**Warrant counts:** [T] 123 · [I] 18 · [S] 23 (recomputed from the file, not estimated); 38 explicit confidence flags
 
-**Secondary sources present in context:** `book-overview-proverbs`; `dig-deeper-proverbs-sweep` (Passage 13 and Book-Level Foundations); `proverbs-collections-assessment`; the four completed section runs; the ESV cross-reference apparatus, visible in the supplied text.
-
-**Tools worked before secondary sources consulted:** **Confirmed.** The paragraph census (including the *setumah* at 24:22), the cross-run density comparison, the 22:19 ∥ 24:21 frame, both four-word verbatim frames, the *ʾaḥărît* chain, the *kəpoʿŏlô* pairing, the *yārîb rîbām* pair, the vocative and prohibition counts, and the 22:17 ∥ 24:32 link were **all derived from the Hebrew before any source was opened.**
-
-**Declared limitations:**
-
-1. **The Amenemope table is `[S]` from general knowledge, not from a text.** Flagged at the point of use and routed to Open Questions. **No preaching claim should rest on an individual correspondence until it is checked.**
-2. The ESV cross-reference apparatus was visible and supplied several NT links.
-3. **The LXX reading at 22:20 (τρισσῶς) is `[S]` at moderate confidence and unverified.**
-
-**Passage text:** **Verified** — BHS and ESV supplied from Logos; 82 verses parsed and chapter counts checked (13 + 35 + 34). Every wording-dependent finding computed from the supplied Hebrew.
-
-**A methodological note, declared:** **no antithesis percentage is given for this section**, because the scheme used for the four sentence collections classifies bicola and this material's unit is the multi-verse admonition. **Applying it would have produced a number that looked comparable and was not.** See Tool 5.
-
-**Reference files viewed:** core 01–07 · `preacher-extras.md` · `historical-background.md` · `original-audience.md` · `original-languages.md` · `textual-variants.md` · `biblical-theology.md` · `christological-reading.md` · `difficult-verses.md` · `examples/psalm-33-worked.md`. All viewed earlier in this session and still in context. `schnittjer-pass.md` N/A, declared.
-
-**Depth floors:** **Met.** Substantial treatment: Tools 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16 (twelve — and Tool 6 is live here for only the second time in the book). Headline Findings: 5. Preaching Pitfalls: 7. Confidence flags: 35+.
-
-**Pre-output audit:** (a) full triad on both significant source-claims ✔ · (b) one N/A reasoned (Schnittjer) ✔ · (c) confidence flags throughout ✔ · (d) `[S]` findings checked or explicitly declared unchecked ✔ · (e) ancient-versions check ran at 22:20, with the trigger condition's failure noted ✔ · (e1) divergences triaged — category 1 (the two frames English cannot carry; the 22:17/24:32 link), the 22:20 reading treated as a vocalisation question rather than a version split ✔ · (e2) proper-noun inventory ran — **none in 82 verses** ✔ · (f) depth floors met ✔ · (g) sits beside the Psalm 33 worked example ✔ · (h) all mandatory files viewed ✔ · (i) no `[T]` on authorship/date/setting claims — the Egyptian background is `[S]` throughout ✔.
-
-**Warrant counts:** `[T]` 46 · `[I]` 20 · `[S]` 18
-
-**Health note.** Text-dominant, with one honest exception: **the Amenemope material is the largest `[S]` block in any report in this series and it has not been verified against a source text.** It is flagged at every point of use. **The run's most consequential finding is Headline 1** — the paragraphing tracks genre — because it retrospectively explains four runs' worth of recorded data. **Its most satisfying is the *setumah* at 24:22**, which turns out to be the exception that establishes the rule, and which no amount of work on the four sentence collections could have surfaced.
-
----
-
-*The Words of the Wise. **One section run remains to complete Proverbs: Agur and Lemuel (30:1–31:9).***
+One-line health note: text-first throughout; the two strongest findings — the prohibition-and-ground profile, and the Greek parentage of Romans 2:6 — each name their edition at the point of use and are reproducible in one command, and **the run's single most important finding survived only because a nil return was controlled instead of believed.**
