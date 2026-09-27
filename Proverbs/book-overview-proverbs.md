@@ -219,7 +219,7 @@ Rebuilt at v3.0. Every wording below was read from its own edition in the run na
 | 3:4 | Rom 12:17 | Greek `[T]` | §7 |
 | **10:12** | **Jas 5:20; 1 Pet 4:8** | **The Hebrew.** ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν answers וְעַל כָּל־פְּשָׁעִים תְּכַסֶּה אַהֲבָה; **Swete's 10:12 has friendship covering the non-contentious, with no sins in it** `[T]` | §4 |
 | 11:31 | **1 Pet 4:18** | **Greek**, word for word; the Hebrew has the righteous recompensed **בָּאָרֶץ**, "on the earth" `[T]` | §4, §9 |
-| **22:8** | **2 Cor 9:7** | **A Greek plus with no Hebrew behind it at all** — ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός `[T]` | §5 |
+| **22:8** | **2 Cor 9:7** | **A Greek plus with no Hebrew behind it at all** — ἄνδρα ἱλαρὸν καὶ δότην **εὐλογεῖ** ὁ θεός against Paul's ἱλαρὸν γὰρ δότην **ἀγαπᾷ** ὁ θεός `[T]`. *Three of the four significant words shared, the verb not: a close adaptation, not a verbatim quotation* | §5 |
 | 24:12 | **Rom 2:6** | **Greek, blended with Swete Ps 61:13.** In Hebrew the two verses **share no lexeme**; in Greek four words are identical `[T]` | §6 |
 | 24:21 | **1 Pet 2:17** | **Greek — and then divided.** One Hebrew imperative governing YHWH and the king becomes φοβεῖσθε / τιμᾶτε `[T]` | §6 |
 | 25:21–22 | Rom 12:20 | Greek `[T]` | §7 |

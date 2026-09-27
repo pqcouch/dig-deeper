@@ -36,7 +36,7 @@ Each section below is a **macro-argument**: a pattern that no single passage est
 
 ## 1. The New Testament reaches Proverbs through the Greek — and the three exceptions are what make the rule worth stating
 
-**Claim.** Every New Testament **quotation** of Proverbs that this project has verified depends on the Septuagint's wording, and in four cases on a Greek reading the Hebrew does not support. Three uses do not fit that shape, and each fails it differently — which is why the generalisation has to be stated with its exceptions rather than without them.
+**Claim.** Every New Testament **quotation** of Proverbs that this project has verified depends on the Septuagint's wording, and in four cases on a Greek reading the Hebrew does not support. *(2 Cor 9:7 is the one adaptation rather than a verbatim quotation in that group, and it is the strongest case of the four, since the Hebrew does not contain the saying at all.)* Three uses do not fit that shape, and each fails it differently — which is why the generalisation has to be stated with its exceptions rather than without them.
 
 **Converging evidence.**
 
@@ -45,7 +45,7 @@ Each section below is a **macro-argument**: a pattern that no single passage est
 | **Heb 12:5–6** | 3:11–12 | **Greek only.** Swete: μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται ("and scourges every son whom he receives"); Hebrews has it verbatim. **The Hebrew has no scourging in it**: וּכְאָב אֶת־בֵּן יִרְצֶה ("and as a father the son in whom he delights") `[T]`, WLC + Swete + SBLGNT | §3 |
 | **Jas 4:6 ‖ 1 Pet 5:5** | 3:34 | **Greek.** ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν, verbatim in both (with ὁ θεός for Swete's Κύριος). **The Hebrew's first colon is אִם־לַלֵּצִים הוּא־יָלִיץ — he scoffs at the scoffers, not resists the proud** `[T]` | §3 |
 | **1 Pet 4:18** | 11:31 | **Greek**, word for word. The Hebrew says the righteous is recompensed **בָּאָרֶץ**, "on the earth" `[T]` | §4, §9 |
-| **2 Cor 9:7** | 22:8 | **Greek plus with no Hebrew behind it at all** — Swete's ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ θεός `[T]` | §5 |
+| **2 Cor 9:7** | 22:8 | **A Greek plus with no Hebrew behind it at all** — Swete's ἄνδρα ἱλαρὸν καὶ δότην **εὐλογεῖ** ὁ θεός against Paul's ἱλαρὸν γὰρ δότην **ἀγαπᾷ** ὁ θεός `[T]`. *A close adaptation rather than a verbatim quotation: three of the four significant words are shared and the verb is not* | §5 |
 | **Rom 2:6** | 24:12 | **Greek**, blended with Swete Ps 61:13. In Hebrew the two verses **share no lexeme**; in Greek four words are identical `[T]` | §6 |
 | **1 Pet 2:17** | 24:21 | **Greek**, and then divided: one Hebrew imperative governing YHWH and the king becomes φοβεῖσθε / τιμᾶτε `[T]` | §6 |
 | **Rom 12:20** | 25:21–22 | **Greek** `[T]` | §7 |
