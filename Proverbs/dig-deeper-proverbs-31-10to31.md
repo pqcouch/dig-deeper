@@ -1,66 +1,113 @@
 # Dig Deeper: Proverbs 31:10–31
 
-**Mode:** Fresh Exegesis (solo run)
-**Translation:** ESV
-**Pulpit translation:** ESV (Anglicised) — same text as the report default; wording transfers directly to `/sermon-creator`
-**Date:** 8 August 2026
-**Book-overview context:** `book-overview-proverbs.md` v1.0 — in conversation; front-loaded at Phase 0.5
-**Prior work on this passage:** `dig-deeper-proverbs-sweep.md` Unit 18 (this session) — treated as a secondary source at Phase 5.5 and extended, not repeated
-**Series context:** Unit 18 of an eighteen-unit series; ⭐ HIGH weight; the book's final passage
+**Primary texts:** Westminster Leningrad Codex (Hebrew, `_texts/hebrew-wlc/`) · Swete, *The Old Testament in Greek* (Greek OT, `_texts/greek-lxx-swete/`) · SBLGNT (Greek NT, `_texts/greek-nt-sblgnt/`). Readings of record from the Logos exports: *BHS* and its apparatus, NASB95, NIV84 (`_texts/logos-exports/`).
+**Study text:** NASB95
+**Pulpit text:** NIV84 (1984 edition) — declared for the first preaching of this sermon
+**Date:** 27 September 2026
+**Book-overview context:** `book-overview-proverbs.md` v2.0 (17 September 2026), four threads front-loaded at Phase 0.5
+**Series context:** Sermon 9 of nine — **the last unit, and the last of the eight fresh solo digs run across this book.** Preceded by 30:1–31:9 (sermon 8, dug fresh 27 September).
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally.
+**A note on the brief.** As in every previous run: **the Hebrew Bible has no majority text in the sense the term carries in New Testament criticism.** There is no competing family of Hebrew manuscripts against which a numerical majority could be counted. What exists is the *Masoretic tradition*, whose standard complete witness is Codex Leningradensis (B19a, 1008/9), which the Westminster Leningrad Codex transcribes and which *BHS* prints diplomatically. That manuscript is the substrate throughout.
+
+It matters in a particular way here. **This is an acrostic**, and an acrostic is a claim about the *consonantal sequence* of a particular Hebrew text. The alphabet cannot survive translation into any language, and it cannot survive a different verse-order either — and the Greek tradition has one (Tool 8). **Everything this report says about the poem's form is a statement about the Hebrew, and is said as such.**
 
 ---
 
 ## The Passage
 
-> **10** An excellent wife who can find?
->  She is far more precious than jewels.
-> **11** The heart of her husband trusts in her,
->  and he will have no lack of gain.
-> **12** She does him good, and not harm,
->  all the days of her life.
-> **13** She seeks wool and flax,
->  and works with willing hands.
-> **14** She is like the ships of the merchant;
->  she brings her food from afar.
-> **15** She rises while it is yet night
->  and provides food for her household
->  and portions for her maidens.
-> **16** She considers a field and buys it;
->  with the fruit of her hands she plants a vineyard.
-> **17** She dresses herself with strength
->  and makes her arms strong.
-> **18** She perceives that her merchandise is profitable.
->  Her lamp does not go out at night.
-> **19** She puts her hands to the distaff,
->  and her hands hold the spindle.
-> **20** She opens her hand to the poor
->  and reaches out her hands to the needy.
-> **21** She is not afraid of snow for her household,
->  for all her household are clothed in scarlet.
-> **22** She makes bed coverings for herself;
->  her clothing is fine linen and purple.
-> **23** Her husband is known in the gates
->  when he sits among the elders of the land.
-> **24** She makes linen garments and sells them;
->  she delivers sashes to the merchant.
-> **25** Strength and dignity are her clothing,
->  and she laughs at the time to come.
-> **26** She opens her mouth with wisdom,
->  and the teaching of kindness is on her tongue.
-> **27** She looks well to the ways of her household
->  and does not eat the bread of idleness.
-> **28** Her children rise up and call her blessed;
->  her husband also, and he praises her:
-> **29** "Many women have done excellently,
->  but you surpass them all."
-> **30** Charm is deceitful, and beauty is vain,
->  but a woman who fears the LORD is to be praised.
-> **31** Give her of the fruit of her hands,
->  and let her works praise her in the gates.
->
-> (Proverbs 31:10–31, ESV)
+The Hebrew is the WLC; the English beneath it is the NASB95. Both were extracted mechanically from the corpus. The acrostic letter is printed with each verse and was verified by machine, not by eye (Tool 3). **The Leningrad layout places no paragraph marker anywhere in these twenty-two verses** — see Tool 3.
+
+### 31:10–31 — the acrostic
+
+*The Hebrew letter opening each verse is given in the margin; the sequence runs א to ת without a gap (verified mechanically — Tool 3).*
+
+**10** · **א** *aleph*  
+אֵֽשֶׁת־חַ֭יִל מִ֣י יִמְצָ֑א וְרָחֹ֖ק מִפְּנִינִ֣ים מִכְרָֽהּ׃  
+An excellent wife, who can find? For her worth is far above jewels.
+
+**11** · **ב** *beth*  
+בָּ֣טַח בָּ֭הּ לֵ֣ב בַּעְלָ֑הּ וְ֝שָׁלָ֗ל לֹ֣א יֶחְסָֽר׃  
+The heart of her husband trusts in her, And he will have no lack of gain.
+
+**12** · **ג** *gimel*  
+גְּמָלַ֣תְהוּ ט֣וֹב וְלֹא־רָ֑ע כֹּ֝֗ל יְמֵ֣י חַיֶּֽיה׃  
+She does him good and not evil All the days of her life.
+
+**13** · **ד** *daleth*  
+דָּ֭רְשָׁה צֶ֣מֶר וּפִשְׁתִּ֑ים וַ֝תַּ֗עַשׂ בְּחֵ֣פֶץ כַּפֶּֽיהָ׃  
+She looks for wool and flax And works with her hands in delight.
+
+**14** · **ה** *he*  
+הָ֭יְתָה כָּאֳנִיּ֣וֹת סוֹחֵ֑ר מִ֝מֶּרְחָ֗ק תָּבִ֥יא לַחְמָֽהּ׃  
+She is like merchant ships; She brings her food from afar.
+
+**15** · **ו** *waw*  
+וַתָּ֤קָם ׀ בְּע֬וֹד לַ֗יְלָה וַתִּתֵּ֣ן טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃  
+She rises also while it is still night And gives food to her household And portions to her maidens.
+
+**16** · **ז** *zayin*  
+זָמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ נטע כָּֽרֶם׃  
+She considers a field and buys it; From her earnings she plants a vineyard.
+
+**17** · **ח** *heth*  
+חָֽגְרָ֣ה בְע֣וֹז מָתְנֶ֑יהָ וַ֝תְּאַמֵּ֗ץ זְרֹעוֹתֶֽיהָ׃  
+She girds herself with strength And makes her arms strong.
+
+**18** · **ט** *teth*  
+טָ֭עֲמָה כִּי־ט֣וֹב סַחְרָ֑הּ לֹֽא־יִכְבֶּ֖ה בליל נֵרָֽהּ׃  
+She senses that her gain is good; Her lamp does not go out at night.
+
+**19** · **י** *yod*  
+יָ֭דֶיהָ שִׁלְּחָ֣ה בַכִּישׁ֑וֹר וְ֝כַפֶּ֗יהָ תָּ֣מְכוּ פָֽלֶךְ׃  
+She stretches out her hands to the distaff, And her hands grasp the spindle.
+
+**20** · **כ** *kaph*  
+כַּ֭פָּהּ פָּרְשָׂ֣ה לֶעָנִ֑י וְ֝יָדֶ֗יהָ שִׁלְּחָ֥ה לָֽאֶבְיֽוֹן׃  
+She extends her hand to the poor, And she stretches out her hands to the needy.
+
+**21** · **ל** *lamed*  
+לֹא־תִירָ֣א לְבֵיתָ֣הּ מִשָּׁ֑לֶג כִּ֥י כָל־בֵּ֝יתָ֗הּ לָבֻ֥שׁ שָׁנִֽים׃  
+She is not afraid of the snow for her household, For all her household are clothed with scarlet.
+
+**22** · **מ** *mem*  
+מַרְבַדִּ֥ים עָֽשְׂתָה־לָּ֑הּ שֵׁ֖שׁ וְאַרְגָּמָ֣ן לְבוּשָֽׁהּ׃  
+She makes coverings for herself; Her clothing is fine linen and purple.
+
+**23** · **נ** *nun*  
+נוֹדָ֣ע בַּשְּׁעָרִ֣ים בַּעְלָ֑הּ בְּ֝שִׁבְתּ֗וֹ עִם־זִקְנֵי־אָֽרֶץ׃  
+Her husband is known in the gates, When he sits among the elders of the land.
+
+**24** · **ס** *samekh*  
+סָדִ֣ין עָ֭שְׂתָה וַתִּמְכֹּ֑ר וַ֝חֲג֗וֹר נָתְנָ֥ה לַֽכְּנַעֲנִֽי׃  
+She makes linen garments and sells them, And supplies belts to the tradesmen.
+
+**25** · **ע** *ayin*  
+עֹז־וְהָדָ֥ר לְבוּשָׁ֑הּ וַ֝תִּשְׂחַ֗ק לְי֣וֹם אַחֲרֽוֹן׃  
+Strength and dignity are her clothing, And she smiles at the future.
+
+**26** · **פ** *pe*  
+פִּ֭יהָ פָּתְחָ֣ה בְחָכְמָ֑ה וְתֽוֹרַת־חֶ֝֗סֶד עַל־לְשׁוֹנָֽהּ׃  
+She opens her mouth in wisdom, And the teaching of kindness is on her tongue.
+
+**27** · **צ** *tsade*  
+צ֭וֹפִיָּה הֲלִיכ֣וֹת בֵּיתָ֑הּ וְלֶ֥חֶם עַ֝צְל֗וּת לֹ֣א תֹאכֵֽל׃  
+She looks well to the ways of her household, And does not eat the bread of idleness.
+
+**28** · **ק** *qoph*  
+קָ֣מוּ בָ֭נֶיהָ וַֽיְאַשְּׁר֑וּהָ בַּ֝עְלָ֗הּ וַֽיְהַֽלְלָהּ׃  
+Her children rise up and bless her; Her husband also, and he praises her, saying:
+
+**29** · **ר** *resh*  
+רַבּ֣וֹת בָּ֭נוֹת עָ֣שׂוּ חָ֑יִל וְ֝אַ֗תְּ עָלִ֥ית עַל־כֻּלָּֽנָה׃  
+“Many daughters have done nobly, But you excel them all.”
+
+**30** · **ש** *shin*  
+שֶׁ֣קֶר הַ֭חֵן וְהֶ֣בֶל הַיֹּ֑פִי אִשָּׁ֥ה יִרְאַת־יְ֝הוָ֗ה הִ֣יא תִתְהַלָּֽל׃  
+Charm is deceitful and beauty is vain, But a woman who fears the LORD, she shall be praised.
+
+**31** · **ת** *taw*  
+תְּנוּ־לָ֭הּ מִפְּרִ֣י יָדֶ֑יהָ וִֽיהַלְל֖וּהָ בַשְּׁעָרִ֣ים מַעֲשֶֽׂיהָ׃  
+Give her the product of her hands, And let her works praise her in the gates.
 
 ---
 
@@ -68,15 +115,25 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` reasonable inference
 
 The exegetically strongest claims that emerged across multiple tools:
 
-1. **Proverbs says the same thing, in the same words, about finding Wisdom and finding a wife — and this poem asks that question one last time.** `[T]` 8:35, of Wisdom: "whoever finds me finds life **and obtains favour from the LORD**." 18:22, of a wife: "He who finds a wife finds a good thing **and obtains favour from the LORD**" — the identical clause. Then 31:10: "An excellent wife **who can find**?" Surfaced by: Vocabulary, Quotation/Allusion (Move 4), Structure, Christological Reading. This is the book's own warrant for reading the poem as wisdom embodied, and it does not require a single allegorical move. **Verified against the Hebrew, 9 August 2026: both verses read וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה, identical to the accents.** *High confidence — confirmed.*
+1. **The poem is built out of the vocabulary of personified Wisdom, and the overlap is countable.** Surfaced by: Vocabulary, Repetition, Quotation/Allusion (Move 4), Structure, Christological Reading. Five distinct items, each lemma-verified against the whole book `[T]`, WLC:
 
-2. **The verb the book promised to the naïve in its fourth verse is the verb this woman performs in the acrostic's seventh line.** `[T]`/`[I]` 1:4 offers *mĕzimmâ* to the simple — a noun rendered "evil devices" at 12:2, 14:17 and 24:8. 31:16 opens with *zāmĕmâ*, from the same root *zmm*: "she **schemes** a field and takes it." Surfaced by: Vocabulary, Original Languages, Move 4, Biblical Theology. The capacity the book promised at the start is shown being exercised at the end, by a woman, on a property deal. **Lexically grounded at the checking stage, 9 August 2026** — the noun's dual range ("wicked plan, scheme" / "discretion, prudence") is lexicographically established `[S: Lexham Research Lexicon; Swanson, DBL]`, and *within Proverbs* the two senses split along the book's own seam: positive at 1:4; 2:11; 3:21; 5:2; 8:12 — **all in the frame** — and negative at 12:2; 14:17; 24:8 — **all in the sentence literature.** *Moderate–high on the distribution; the design remains inferred — framed by Fox's account of editorial intentionality and his explicit tie of this poem's audience to 1:4 `[S: AB 18b:905, 967–968]`, but confirmed by no commentator.*
+   | Item | Wisdom in chs 1–9 | The woman in 31:10–31 | Book total |
+   |---|---|---|---|
+   | מִפְּנִינִים ("than jewels") | 3:15 (ketiv מפניים); 8:11 | 31:10 | 4 verses in Proverbs |
+   | שַׁעַר ("gate") | 1:21; 8:3 | 31:23, 31 | 7 verses |
+   | שׂחק ("to laugh, to play") | 1:26; 8:30, 31 | 31:25 | 6 verses |
+   | אשׁר piel ("to call blessed") + תמך ("to grasp") | 3:18 — both in one verse, of Wisdom | 31:28 (אשׁר), 31:19 (תמך) | 5 and 8 verses |
+   | מצא ("to find") | 3:13; 8:17, 35 — finding wisdom is possible | 31:10 — מִי יִמְצָא | 25 verses |
 
-3. **There is exactly one imperative in twenty-two verses, it is the last word of the book, and it is not "be like her."** `[T]` Every verb from v.11 to v.30 is indicative or participial description. Verse 31 alone commands: *tĕnû*, "**Give** her of the fruit of her hands." Surfaced by: Structure, Linking Words, Genre, So What. The poem's own instruction to the reader is to *praise*, not to imitate — which settles the most common misuse of the passage from the grammar rather than from taste. *High confidence.*
+   **The book does not end by describing a housewife. It ends by describing, in the words it has used of Wisdom herself, what wisdom looks like when it is a life rather than a lecture.** *High confidence — five independent chains, each verified, each drawing the poem toward chs 1–9 rather than toward the sentence-collections.*
 
-4. **The poem sits here because it completes a command given four verses earlier.** `[T]` The mother tells the king twice, "**Open your mouth** (*pĕtaḥ pîkā*)" (31:8, 9). At 31:26 the woman "**opens her mouth** (*pîhā pātĕḥâ*) with wisdom" — the same verb and the same noun, across the unit boundary. Surfaced by: Positional Necessity Check, Vocabulary, Move 4. The oracle commands the right use of speech; the poem shows it. *High confidence.*
+2. **The mouth-thread that began in sermon 8 completes here, and it is a four-verse chain across three collections.** Surfaced by: Vocabulary, Repetition, Structure, Move 4. פתח ("to open") stands in **four verses of Proverbs** — 24:7, 31:8, 31:9, 31:26 `[T]`, WLC, lemma-verified. 24:7: בַּשַּׁעַר לֹא יִפְתַּח־פִּיהוּ, *the fool does not open his mouth in the gate*. 31:8 and 31:9: פְּתַח־פִּיךָ twice, the king commanded. **31:26: פִּיהָ פָּתְחָה בְחָכְמָה, she opens hers in wisdom** — and five verses later she is praised **בַשְּׁעָרִים, in the gates** `[T]`. And what is on her tongue is **תּוֹרַת־חֶסֶד**, a phrase found nowhere else in the Hebrew Bible, carrying the book's **last** תּוֹרָה (twelve verses in all) and one of its ten חֶסֶד verses `[T]`, whole-corpus search.
 
-5. **The acrostic is complete and unbroken, and completeness is its argument.** `[T]` Twenty-two verses, one per letter, א to ת, with no line missing — unlike Psalm 145 (no nun) or the irregular acrostics of Lamentations. Surfaced by: Structure, Genre, Original Languages. The book that opened by promising a comprehensive education closes with a comprehensive form. *High. The letter mapping was confirmed against BHS by the user, 9 August 2026.*
+3. **The poem performs 27:2, and it never lets her praise herself.** Surfaced by: Repetition, Tone, Structure, Move 4. הלל ("to praise, to boast") stands in nine verses of Proverbs, and **three of them are 31:28, 30 and 31** — the poem's last four verses `[T]`. 27:2 gave the rule: יְהַלֶּלְךָ זָר וְלֹא־פִיךָ ("let another praise you, and not your own mouth") `[T]`. **In these twenty-two verses the woman never speaks about herself — she speaks once, at 31:26, and it is wisdom and covenant-kindness — and then her children, her husband and her works do all the praising** `[T]`. The one place the rule of 27:2 is kept in the book is the place the book chooses to end.
+
+4. **The Greek does not end the book the way the Hebrew does, and it also reorders the alphabet.** Surfaced by: Translations, Textual Variants, Structure, Bible Timeline. Swete's last verse of Proverbs (29:49 = MT 31:31) reads **δότε αὐτῇ ἀπὸ καρπῶν χειλέων αὐτῆς, καὶ αἰνείσθω ἐν πύλαις ὁ ἀνὴρ αὐτῆς** — "give her of the fruit of her **lips**, and let **her husband** be praised in the gates" — where the MT has מִפְּרִי יָדֶיהָ ("of the fruit of her **hands**") and וִיהַלְלוּהָ ... מַעֲשֶׂיהָ ("and let **her works praise her**") `[T]`, Swete. At 31:30 the Greek reads **γυνὴ γὰρ συνετὴ εὐλογεῖται** ("for an **understanding** woman is blessed") where the MT has אִשָּׁה יִרְאַת־יְהוָה; *BHS* records it as reflecting נְבוֹנָה (apparatus 31:30^{a–a}) `[S: BHS]`. **And it transposes 31:25 and 31:26** — putting the פ verse before the ע verse — which *BHS* notes is the acrostic order of **Lamentations 2–4** (apparatus 31:25ᵃ) `[S: BHS]`, confirmed in Swete's own numbering `[T]`. *Three divergences, and all three move the poem away from the Hebrew's close.*
+
+5. **The acrostic is intact, and the Leningrad layout leaves the poem entirely undivided — immediately after the most heavily divided unit in the book.** Surfaced by: Structure, Genre, Repetition. Twenty-two verses, א to ת, **verified mechanically rather than by eye**: every verse's first consonant matches its expected letter, with no gap and no doubling `[T]`, WLC. And **there is no paragraph marker anywhere in the twenty-two verses** `[T]` — against **nine markers in the forty-two verses of 30:1–31:9** `[T]`, one every 4.7 verses. **The book's last movement is its one unbroken block.**
 
 ---
 
@@ -84,792 +141,622 @@ The exegetically strongest claims that emerged across multiple tools:
 
 ### 1. Author's Purpose
 
-At **book level** the purpose is settled (see the overview): to make the simple wise, beginning from the fear of the LORD. What matters here is the **passage-level** purpose, and this passage has a job no other passage in Proverbs has: it is the last thing the book says.
+**Book level.** The overview's microscript: wisdom in Proverbs is something a man acquires, and the one thing he cannot do is certify that he has acquired it `[S: overview]`. Sermon 8's unit took that to its limit — a sage who says he never learned it. **This unit answers the obvious objection: if nobody can certify wisdom, how would you ever recognise it?** The poem's answer is that you recognise it the way the book said you would at 27:2 — from outside, by somebody else's verdict, and from what it produced rather than from what it claimed.
 
-Three things it is doing, in ascending order of importance.
+**Unit level, and it has no superscription.** Alone among the book's major units, 31:10–31 carries **no heading at all** — no attribution, no addressee, no genre-word `[T]`. 1:1, 10:1, 22:17, 24:23, 25:1, 30:1 and 31:1 all announce themselves; this does not. The overview notes the absence `[S: overview]`; what the corpus adds is that **the absence coincides with the absence of a paragraph marker** (Tool 3), so the poem is joined to what precedes it by the layout and separated from it by everything else.
 
-**It answers a question the book has asked three times.** *Māṣāʾ*, "find," is a Proverbs thread: "Blessed is the one who **finds** wisdom" (3:13); "whoever **finds** me finds life and obtains favour from the LORD" (8:35); "those who seek me diligently **find** me" (8:17) against "they will seek me diligently but will not **find** me" (1:28); "He who **finds** a wife finds a good thing and obtains favour from the LORD" (18:22). The poem opens *mî yimṣāʾ*, "who can find?" `[T]` *High.* This is not a rhetorical sigh about the scarcity of good wives; it is the book's own search-verb, asked for the last time.
+**What the poem is doing.** Three things, and the third is what makes it the book's ending rather than its appendix.
 
-**It converts definition into demonstration.** Thirty chapters have *described* wisdom — its value, its voice, its consequences. Nothing until now has *shown* it operating in a single life across a full range of activity. The poem's method is inventory: wool, flax, ships, a field, a vineyard, a distaff, a spindle, linen, purple, scarlet, sashes, bread. `[T]`
+- **It answers a question the book has asked twice.** מִי יִמְצָא ("who can find?") occurs in three verses of the Hebrew Bible: Prov 20:6, Prov 31:10 and Eccl 7:24 `[T]`, whole-corpus search. 20:6 asks it of a man of proclaimed חֶסֶד; 31:10 asks it of an אֵשֶׁת־חַיִל — **and 31:26 puts תּוֹרַת־חֶסֶד on her tongue** `[T]`. *The book asks twice who can be found, and supplies one answer, and the answer carries the quality the first question doubted.*
+- **It converts the book's promises into observed effects.** Every line reports something done or something said about her; **not one of the twenty-two verses gives her an instruction, and not one gives the reader one either** — until 31:31's תְּנוּ־לָהּ, the poem's single imperative, addressed to the audience and not to her `[T]`.
+- **It ends the book on a verdict spoken in public.** בַשְּׁעָרִים ("in the gates") at 31:23 and 31:31 `[T]`, and the gate is where Wisdom cried in 1:21 and 8:3 and where the fool could not open his mouth in 24:7 `[T]`.
 
-**It completes the addressee's education by giving him something to look for rather than something to do.** The book has addressed "my son" throughout; the poem gives him no instruction about himself at all. `[I]` *Moderate–high.* **Corroborated at the checking stage:** Fox holds that the editor fixed this poem's audience precisely by attaching it to a book whose stated audience is the uneducated young men of 1:4. `[S: Fox, AB 18b:905]` That is independent support for reading the poem as aimed at the naïve reader rather than at the woman it describes.
-
-**Book-overview note:** the overview's purpose statement is confirmed. Its description of the poem as "wisdom embodied" is confirmed *and given a textual warrant it lacked* — the 8:35 ∥ 18:22 ∥ 31:10 thread (Headline 1), which no source consulted supplies in that form.
-
----
+**The purpose of the whole, stated as an inference:** to close a book that has refused to let a man grade himself by showing what the grade looks like when somebody else awards it `[I]`, high confidence — every element is a counted feature of the text.
 
 ### 2. Context
 
 #### Positional Necessity Check
 
-**Preceding movement.** 31:1–9: "The words of King Lemuel. An oracle that his mother taught him." A mother addresses a reigning king in three moves — not women (v.3), not wine (vv.4–7), and then two imperatives: "**Open your mouth** for the mute, for the rights of all who are destitute. **Open your mouth**, judge righteously, defend the rights of the poor and needy" (vv.8–9).
+**Preceding movement.** 30:1–31:9 put two outsiders in the teacher's chair. Agur revoked the prologue's thesis in its own words (9:10 → 30:3) and left a question about someone who went up to heaven and came down; Lemuel's mother instructed a king, told him not to give his חַיִל to women (31:3), and closed the book's teaching with פְּתַח־פִּיךָ twice `[T]`.
 
-Behind that stands the whole book: a frame that staged two women (chs. 1–9), a sentence literature that returned to the subject in single lines (11:16; 12:4; 14:1; 18:22; 19:14; 21:9, 19; 25:24; 27:15), Agur's confession of ignorance (30:1–9), and a crowning.
+**Necessity answer.** Three, and the second is the one a sermon needs.
 
-**Necessity answer.** Four reasons this passage exists *here*, and the fourth is the strongest.
+First, **a book that has just said its own programme did not work must not end there.** 30:2–3 is a confession, not a conclusion. If the book stopped at 31:9 it would end with instructions to a king and no evidence that wisdom exists in the world at all.
 
-*First, formally: it has no superscription.* Every other discourse in the book carries one — 1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1. `[T]` If 31:10–31 were an independent composition it would be the only untitled unit in Proverbs. `[S: Ansberry]` The simplest account of the silence is that the poem is still under the heading of 31:1: the mother has not stopped speaking.
+Second — **and the seam is sharper than a chapter division makes it look** — **31:3 and 31:10 use the same word seven verses apart, in opposite directions.** חַיִל stands in five verses of Proverbs: 12:4, 13:22, **31:3, 31:10, 31:29** `[T]`, WLC. At 31:3 Lemuel's mother says אַל־תִּתֵּן לַנָּשִׁים חֵילֶךָ ("do not give your חַיִל to women"). At 31:10 the book asks who can find an אֵשֶׁת־חַיִל, and at 31:29 it says רַבּוֹת בָּנוֹת עָשׂוּ חָיִל ("many daughters have done חַיִל"). **The warning and the portrait are the same word and they are not in tension: the mother is not warning against women but against spending yourself on them, and the poem shows the one on whom it is not spent but returned.** *High confidence on the count; moderate-to-high on the reading.*
 
-*Second, thematically: the oracle warned about the wrong woman and must now show the right one.* "Do not give your strength to women, your ways to those who destroy kings" (31:3) is a warning without a positive counterpart — until v.10. `[I]` *Moderate–high.* Ansberry notes that the noun in 31:3 is *ḥayil*, the same noun as 31:10 and 31:29 `[S]`, which if correct makes the link lexical as well as thematic: the king must not squander his *ḥayil* on women, and is then shown a woman who *is* *ḥayil*.
+Third, **the book has to get back to the gate.** Wisdom cried there at 1:21 and 8:3 and got no answer the book ever records. 24:7 showed a fool who could not open his mouth there. 31:23 and 31:31 put her husband and her works there `[T]`. **The book's first scene and its last are the same location.**
 
-*Third, structurally: the book must end by showing rather than defining.* See Author's Purpose.
+**Implication.** This is not an appendix about marriage. It is the book's closing argument, and its subject is whether the thing the book has been describing for thirty chapters exists.
 
-*Fourth — and this is the positional key — the poem enacts the command the oracle has just issued.* The mother tells the king twice to **open his mouth** (*pĕtaḥ pîkā*, vv.8, 9) on behalf of the destitute. Four verses into the poem's second half the woman **opens her mouth** (*pîhā pātĕḥâ*, v.26) with wisdom; and six verses earlier she **opens her hand** (*kappāh pārĕśâ*, v.20) to the poor. `[T]` *High confidence on the verbal identity at vv.8–9/26.* The unit boundary at v.9/v.10 is a change of genre, not of subject: instruction followed immediately by illustration, with the illustration reusing the instruction's own verb.
+**Revisited after Tool 11.** The Move 4 work adds a fourth answer and it is the strongest. The poem's vocabulary is **Wisdom's own** — five verified chains (headline 1). A book that has personified Wisdom as a woman calling in the street (1:20–33), built a house (9:1), and been declared better than jewels (3:15; 8:11) **needs a last chapter in which that figure stops being a personification.** *The position is the argument: the abstraction becomes a life, and then the book stops.*
 
-**Implication for this passage.** Preaching 31:10–31 detached from 31:1–9 loses its grammar. The poem is not a free-standing hymn about domestic virtue; it is the demonstration clause of a royal charge about speech and the poor. That also explains v.20 — a verse routinely skipped in sermons on this passage — which is the poem's structural centre of gravity, not an incidental act of charity.
+#### Immediate context
 
-#### General contextual notes
+**Before.** 31:1–9, Lemuel's mother's instruction, closed by a paragraph marker at 31:9 `[T]`. The two units are joined by the חַיִל seam (above) and by the mouth-thread (headline 2) and separated by everything else: 31:1–9 has a superscription, an addressee, six imperatives and a named speaker; 31:10–31 has none of these.
 
-**Immediately before:** 31:9, the second "open your mouth." **Immediately after:** nothing. This is the last passage in the book, and in the Hebrew canonical ordering that places Proverbs among the Writings, the next book is frequently Ruth — which matters for Tool 11. `[S]` *Moderate; manuscript traditions differ on the internal order of the Writings, and no finding here depends on it.*
+**After.** Nothing — the book ends `[T]`. **In the Greek tradition it does not end here**, or rather it ends here having arrived by a different route: Swete places this poem immediately after 29:27, as its 29:28–49, with the Agur and Lemuel material back in chapter 24 (Tool 14) `[T]`, Swete. *So in both traditions the acrostic is last; only what precedes it differs.*
 
-**The section:** 31:1–31 as a whole, under one superscription.
-
-**Widely read out of context?** Yes, more than any other passage in Proverbs — routinely read as a stand-alone portrait with no reference to Lemuel, to his mother, to the book's addressee, or to the *ḥayil* and *pātaḥ pî* links that tie it to vv.1–9.
-
----
+**Section and book.** The seventh and final headed section of the book — except that it is the only one with no heading (Tool 1).
 
 ### 3. Structure
 
-Two structures operate at once, and they do not coincide. That is worth saying plainly, because most outlines of this passage silently choose one and present it as the shape of the poem.
+**The acrostic, verified mechanically.** Twenty-two verses; each verse's first consonant checked against the expected letter of the alphabet in sequence. **All twenty-two match: א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת, with no gap, no doubling and no transposition** `[T]`, WLC. *This is the kind of claim that is easy to assert and cheap to check, and it was checked rather than assumed.*
 
-**Structure A — the acrostic (formal).** Twenty-two verses, one per letter of the Hebrew alphabet, in order, complete. `[T]` *High. Letter mapping confirmed against BHS (user, 9 August 2026).*
+**What the layout gives — and here the finding is an absence with a citable pattern.** **The Leningrad layout places no paragraph marker anywhere in these twenty-two verses** `[T]`, WLC. The pattern that makes the absence visible is established and countable: the layout places 52 markers in Proverbs, including eight in the 138 verses of 25:1–29:27 and **nine in the 42 verses of 30:1–31:9** — one every 4.7 verses, the densest stretch in the book `[T]`. **Against that, twenty-two consecutive unmarked verses is the longest undivided run in Proverbs.** *Weight: moderate*, per the standing cap on absence arguments and on apparatus findings; `[unchecked — apparatus spread]`. **But the acrostic supplies the same result independently**, and that claim rests on the consonants rather than on the layout: a poem that runs the alphabet cannot be subdivided without breaking, and the scribe did not subdivide it.
 
-| v. | Letter | Opening word | v. | Letter | Opening word |
-|---|---|---|---|---|---|
-| 10 | א | *ʾēšet* | 21 | ל | *lōʾ-tîrāʾ* |
-| 11 | ב | *bāṭaḥ* | 22 | מ | *marbaddîm* |
-| 12 | ג | *gĕmālathû* | 23 | נ | *nôdāʿ* |
-| 13 | ד | *dārĕšâ* | 24 | ס | *sādîn* |
-| 14 | ה | *hāyĕtâ* | 25 | ע | *ʿōz* |
-| 15 | ו | *wattāqom* | 26 | פ | *pîhā* |
-| 16 | ז | *zāmĕmâ* | 27 | צ | *ṣôpiyyâ* |
-| 17 | ח | *ḥāgĕrâ* | 28 | ק | *qāmû* |
-| 18 | ט | *ṭāʿămâ* | 29 | ר | *rabbôt* |
-| 19 | י | *yādehā* | 30 | ש | *šeqer* |
-| 20 | כ | *kappāh* | 31 | ת | *tĕnû* |
+**The poem's own shape.** Derived from the vocabulary before the commentaries were opened:
 
-The acrostic is doing three things. It signals **completeness** — the A-to-Z of a life. It is a **mnemonic** `[S: Ansberry]`. And it **constrains** the poet, which is why the sequence of topics wanders: wool and flax (13), then ships (14), then rising at night (15), then property (16). *Do not look for a logical progression through the middle of the poem; the alphabet is the order.* `[I]` *Moderate–high, and it is the most practically useful structural observation for a preacher.*
+| Verses | Letters | Content | Marker |
+|---|---|---|---|
+| 31:10–12 | א–ג | **The question and the verdict on her worth** — who can find; her husband's heart trusts; she does him good all her days | מִי יִמְצָא · בָּטַח · כֹּל יְמֵי חַיֶּיהָ |
+| 31:13–19 | ד–י | **The work** — wool and flax, ships, rising in the dark, the field, the vineyard, girding, trading, the distaff | seven consecutive verses, **four of the poem's כַּף verses** |
+| 31:20 | כ | **The hinge** — כַּפָּהּ פָּרְשָׂה לֶעָנִי וְיָדֶיהָ שִׁלְּחָה לָאֶבְיוֹן | the same two hands, turned outward |
+| 31:21–24 | ל–ס | **The household clothed, and the husband placed** — scarlet, fine linen and purple, the gates, the elders, the merchant | בֵּיתָהּ ×2 · לְבוּשׁ ×2 |
+| 31:25–27 | ע–צ | **Her own clothing, her mouth, her watch** — strength and dignity; wisdom and covenant-kindness; the ways of her house | the poem's only speech |
+| 31:28–31 | ק–ת | **The praise** — the children rise, the husband speaks, the verdict is given, the gates | הלל ×3 |
 
-Two letters carry more weight than the rest because of where they fall. **ש (v.30)** carries the negation — *šeqer*, "deceitful" — so the poem's one dismissive line arrives at the penultimate letter. **ת (v.31)** carries the only imperative, *tĕnû*, "give."
+**The hinge at 31:20 is structural, not thematic only.** כַּף ("palm") stands in nine verses of Proverbs and **four of them are here** — 31:13, 16, 19, 20 `[T]`. The first three are the palms at work for the household. **31:20 turns the same palms outward and is the only verse in the poem where anything leaves the house without being sold** `[T]`. And the two words it turns them toward, **עָנִי ("afflicted") and אֶבְיוֹן ("needy"), stand in only eight and four verses of the book** — 31:20 among them, with 30:14 and 31:9 `[T]`. **Three occurrences of the pair in fifty-five verses, and none in the 138 verses of 25:1–29:27.**
 
-**Structure B — the movement (thematic).** Underneath the alphabet a real shape is discernible:
-
-| Verses | Section | Function |
-|---|---|---|
-| 10 | The question | *mî yimṣāʾ* — the book's search-verb, one last time |
-| 11–12 | Her husband's trust | The relational frame: he trusts, she does good |
-| 13–19 | Work: acquisition and production | Wool, ships, field, vineyard, distaff |
-| 20 | **The poor** | The one verse that faces outward from the household |
-| 21–24 | Provision, clothing, trade | Scarlet, linen, purple, sashes |
-| 25–27 | Character: strength, speech, vigilance | *ʿōz wĕhādār*; *tôrat-ḥesed* |
-| 28–29 | The household's verdict | Children and husband speak |
-| 30–31 | The narrator's verdict and the command | Fear of the LORD; "give her" |
-
-Note what this exposes: v.20 sits alone. It is the only verse in the working section whose beneficiary is outside the house, and it is placed at the midpoint of the productive material. `[T]`/`[I]` *Moderate–high.* Read with the Positional Necessity Check, that is not accidental — the king was told to defend the poor, and the poem puts the poor at the centre of its portrait of wisdom at work.
-
-**Device:** an **acrostic encomium with a chiastic weighting** — the question (10), the household's praise (28–29), and the narrator's verdict (30–31) frame a body of work whose centre is generosity.
-
----
+**The frame.** 31:10 opens with מִי יִמְצָא and מִכְרָהּ ("her price"); 31:31 closes with תְּנוּ־לָהּ ("give to her") and מַעֲשֶׂיהָ ("her works") `[T]`. **The poem opens by asking what she is worth and ends by telling the audience to pay her.** And בַשְּׁעָרִים stands at 31:23 and 31:31, bracketing the last nine verses `[T]`.
 
 ### 4. Linking Words
 
-Sparse, as expected in acrostic poetry — the alphabet does the joining that connectors would otherwise do. Four are load-bearing.
+**Almost none, and the absence is a formal feature.** The acrostic supplies the poem's connective tissue — each verse is linked to the next by the alphabet rather than by a particle — and the result is a text with **no כִּי of consequence, no פֶּן, no לָכֵן and no אִם** `[T]`. Four connectives in twenty-two verses, and three are ordinary:
 
-- **v.21, *kî*** — "She is not afraid of snow for her household, **for** all her household are clothed in scarlet." The one causal connector in the working section, and it grounds fearlessness in preparation rather than in temperament.
-- **v.30, the *wāw* of antithesis** — "Charm is deceitful, and beauty is vain, **but** a woman who fears the LORD is to be praised." The poem's only true antithesis, and it arrives at the end. Everything before v.30 is cumulative; v.30 is the first line that says what the woman is *not* being praised for.
-- **v.31, the *wāw* of result or purpose** — "Give her of the fruit of her hands, **and** let her works praise her in the gates." Whether the second clause is a further command or the consequence of the first is genuinely open; ESV's "and let" keeps both live. *Moderate.*
-- **The absence of connectors between vv.13–19 and 21–24** is itself the finding: nine verses of asyndetic accumulation. The effect is of an inventory, not an argument. `[T]`
+- **כִּי at 31:21** — לֹא־תִירָא לְבֵיתָהּ מִשָּׁלֶג **כִּי** כָל־בֵּיתָהּ לָבֻשׁ שָׁנִים ("she is not afraid of the snow for her household, **for** all her household is clothed in scarlet") `[T]`. The poem's one causal clause, and it grounds a fearlessness in a provision she made herself.
+- **וְ contrastive at 31:29** — רַבּוֹת בָּנוֹת עָשׂוּ חָיִל **וְ**אַתְּ עָלִית עַל־כֻּלָּנָה ("many daughters have done worthily, **but** you have gone up above them all") `[T]`.
+- **וְ adversative at 31:30** — שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי **אִשָּׁה** יִרְאַת־יְהוָה הִיא תִתְהַלָּל. The Hebrew has **no conjunction at all** before אִשָּׁה: two nominal clauses of dismissal, then a bare third clause `[T]`. **Both English versions supply "but".** That is the right sense and it is supplied (Tool 8).
+- **31:31's תְּנוּ־לָהּ** — the poem's only imperative and its only second-person address, and it arrives in the last verse `[T]`.
 
-**Mood-tagging (the hand-off to `/point-purpose`).** Verses 11–30 are **indicative**: statements of what is the case. Verse 31 is **imperative**. There is no second-person address to the reader anywhere in the poem until that last verse, and no command addressed to the woman at all. `[T]` *High.*
-
----
+**The one pronoun that carries weight.** 31:29's וְאַתְּ ("but *you*") is the only second-person feminine singular in the poem and the only direct address to her `[T]`. **It is spoken by the husband** — 31:28 has וַיְהַלְלָהּ ("and he praises her") and 31:29 is what he says. *The poem's single moment of direct speech is a husband quoting a verdict to his wife's face.*
 
 ### 5. Parallels
 
-The genre-dominant tool, and the parallelism is unusually regular — most verses are clean bicola, which the acrostic form encourages.
+**The dominant figure is the paired half-line, and the pairing is almost always *synthetic* rather than antithetic** — the second colon extends the first rather than opposing it `[T]`. In a book whose engine has been antithesis (29.3% of 10:1–15:33 by the ten-pair measure used across this series), **the closing poem contains no antithetic parallel at all** until 31:30, which is the only verse that sets two things against each other `[T]`. *That is a formal statement about the poem: nothing in it is being contrasted with its opposite; it is all accumulation.*
 
-**Synonymous, with intensification** is the norm:
+Three pairs repay attention.
 
-- **v.19** "She puts her hands to the distaff, / and her hands hold the spindle" — the same hands, two tools; the repetition is the point (see Repetition).
-- **v.20** "She opens her hand to the poor / and reaches out her hands to the needy." Note the escalation: singular *kap* (palm) in the first colon, plural *yādeyhā* in the second; and *ʿānî* (poor) intensified to *ʾebyôn* (needy, destitute — the stronger word, and the same term the mother used at 31:9). `[T]` *Moderate–high, and it is the verse's link back to the oracle.*
-- **v.24** "She makes linen garments and sells them; / she delivers sashes to the merchant" — production paired with distribution.
+- **31:19 — יָדֶיהָ שִׁלְּחָה בַכִּישׁוֹר וְכַפֶּיהָ תָּמְכוּ פָלֶךְ** ("she stretches out her hands to the distaff, and her palms grasp the spindle"). Two words for hand, two for the implement, one action described twice `[T]`. **And the verb of the second colon, תמך ("to grasp"), is the verb of 3:18** — וְתֹמְכֶיהָ מְאֻשָּׁר ("and those who grasp her are called blessed"), of Wisdom `[T]`, lemma-verified, 8 verses in the book. *The hands that grasp the spindle use the book's verb for grasping wisdom.*
+- **31:20 — כַּפָּהּ פָּרְשָׂה לֶעָנִי וְיָדֶיהָ שִׁלְּחָה לָאֶבְיוֹן.** The same two nouns as 31:19 and the same verb שׁלח, redeployed `[T]`. **31:19 and 31:20 are built on the identical skeleton and differ in where the hands go.** *That is the poem's finest piece of construction.* **NASB95 keeps it** — "stretches out" at 31:19 and again at 31:20b. **NIV84 destroys it**: "In her hand she holds the distaff and grasps the spindle with her fingers" (31:19) against "She opens her arms to the poor and extends her hands to the needy" (31:20) — four different verbs where the Hebrew has one repeated `[T]`. See Tool 8.
+- **31:30 — שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי.** Two nominal clauses, each *predicate-first*: "a lie — the charm; a breath — the beauty" `[T]`. The word order throws the dismissal to the front of each clause, and then the third clause reverses it: אִשָּׁה יִרְאַת־יְהוָה **הִיא** תִתְהַלָּל, subject first with a resumptive pronoun. **The syntax does the argument.**
 
-**Antithetic** appears exactly once, at **v.30**, and it is doubled: *charm* / *beauty* against *fear of the LORD*, with two dismissive predicates (*šeqer*, *hebel*) against one commendation. The asymmetry — two negatives crushed into one colon, the positive given its own — is the poem's rhetorical climax. `[T]` *High.*
-
-**Emblematic** appears once, at **v.14**: "She is like the ships of the merchant; / she brings her food from afar." The only simile in the poem, and it is commercial and long-range. In a book that has spent chapters warning a young man about the exotic and the foreign, the one thing brought "from afar" here is dinner. `[I]` *Moderate.*
-
-**A deliberate break worth noticing.** Verses 28–29 abandon description for **quoted direct speech** — the only speech in the poem, and it is the husband's: "Many women have done excellently, but you surpass them all." The poem's own model of what to do with such a woman is to say something to her. `[T]` *High, and homiletically useful.*
-
----
+**A deliberate break in the pattern.** Twenty-one verses describe her in the third person. **31:29 breaks into the second** — וְאַתְּ עָלִית עַל־כֻּלָּנָה — and then 31:30–31 returns to the third `[T]`. The break is the husband's speech, and it is one verse long.
 
 ### 6. Narrator's Comment
 
-**N/A** — the passage is not narrative and has no narrator standing outside events. `[T]`
-
-One qualification, because it is nearly this tool. Verses 30–31 function *like* an authorial intrusion: after twenty verses of description and two of reported family speech, a voice steps back to render a verdict ("Charm is deceitful…") and address the reader directly ("Give her…"). The shift of register is real and structurally significant; it is simply not narratorial comment in the Tool 6 sense, since there is no narrative for it to interrupt.
-
----
+**N/A** — Hebrew poetry with no narrative frame. **The nearest thing** is 31:30, which steps back from description to verdict: שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי ("charm is deceitful and beauty is vain"). It is not a narrator's aside but a gnomic evaluation inside the poem, and it functions as the poem's own interpretive key — which is why it is the verse that must not be detached (Preaching Pitfalls).
 
 ### 7. Vocabulary
 
-**(a) *ḥayil* (v.10, "excellent"; v.29, "excellently").** The passage's crux-word. `[T]` *High on the range.* The noun is a **comprehensive capability word**: strength, competence, efficiency, wealth, social standing, military heroism, moral substance, and mental capacity. `[S: Lau & Goswell, NSBT 41]` It is the word in *gibbôr ḥayil*, "mighty man of valour" (Judg 6:12, of Gideon), and in *ḥayil* as a military levy.
+#### 7a. The words the poem shares with personified Wisdom
 
-**A correction, entered at the checking stage.** An earlier draft of this report treated the martial strand as the term's operative sense here and said that every English rendering "under-translates" it. That over-reached. Where *ḥayil* designates a woman — Ruth 3:11; Prov 12:4; 31:10 — the lexicographical tradition renders it "virtuous" or "worthy," while noting that a woman of this calibre "may well possess all the attributes of her male counterpart." `[S: Weber, TWOT 624]` The consensus reading of the three woman-texts is **comprehensive excellence — moral, practical and relational** — not martial prowess imported wholesale. `[S: Lau & Goswell; Köstenberger & Goswell]` *High confidence in the correction.*
+Headline 1's table, with the evidence. Every count is a lemma search against the WLC; every reference was confirmed to contain the item.
 
-So: the martial sense is genuinely *in the word's range*, and the poem does carry martial colour (see *šālāl*, "girds her loins", and the LXX at Tool 8) — but that colour is carried by **Ansberry's formal argument about genre**, not by the lexeme. Ansberry classes the poem as a **heroic panegyric** that substitutes a woman's *vita activa* for the martial exploits of aristocratic men, comparing 1 Sam 18:7; 21:11; 2 Sam 1:17–27 and Judg 5. `[S]` *Moderate–high — and this is where the martial reading properly rests.*
+- **פְּנִינִים ("jewels, corals")** — six verses in the Hebrew Bible: Job 28:18; **Prov 3:15, 8:11, 20:15, 31:10**; Lam 4:7 `[T]`, whole-corpus search with a passed control. **3:15 — יְקָרָה הִיא מִפְּנִינִים ("she is more precious than jewels"), of Wisdom. 8:11 — כִּי־טוֹבָה חָכְמָה מִפְּנִינִים ("for wisdom is better than jewels"). 31:10 — וְרָחֹק מִפְּנִינִים מִכְרָהּ ("her price is far beyond jewels").** *The book says of this woman exactly what it twice said of Wisdom.* **A methodological note: 3:15 spells the word defectively and as a ketiv (מפניים), so a plene search misses it** — the count above is from a final-form-folded search with the ketiv confirmed from the lemma index (Original Languages).
+- **שַׁעַר ("gate")** — seven verses: **1:21; 8:3**; 14:19; 22:22; 24:7; **31:23, 31** `[T]`. 1:21 and 8:3 are Wisdom calling at the gates; 24:7 is the fool who cannot open his mouth there; 31:23 and 31:31 are where her husband sits and where her works praise her.
+- **שׂחק ("to laugh, to play")** — six verses: **1:26; 8:30, 31**; 26:19; 29:9; **31:25** `[T]`. **1:26 — גַּם־אֲנִי בְּאֵידְכֶם אֶשְׂחָק ("I also will laugh at your calamity"), Wisdom. 8:30–31 — מְשַׂחֶקֶת לְפָנָיו בְּכָל־עֵת ... מְשַׂחֶקֶת בְּתֵבֵל אַרְצוֹ ("playing before him always … playing in his inhabited world"). 31:25 — וַתִּשְׂחַק לְיוֹם אַחֲרוֹן ("and she laughs at the time to come").** Three of the six are Wisdom's, and the fourth is hers.
+- **אשׁר piel ("to call blessed") and תמך ("to grasp")** — the two verbs of **3:18**, עֵץ־חַיִּים הִיא לַמַּחֲזִיקִים בָּהּ **וְתֹמְכֶיהָ מְאֻשָּׁר** ("she is a tree of life to those who take hold of her, and those who **grasp** her are **called blessed**") `[T]`. The poem has **תמך at 31:19** (כַּפֶּיהָ תָּמְכוּ פָלֶךְ) and **אשׁר at 31:28** (וַיְאַשְּׁרוּהָ) `[T]`, both lemma-verified; אשׁר piel stands in five verses of Proverbs, תמך in eight. *Moderate-to-high confidence that the pairing is deliberate; the two verbs are not rare, but 3:18 is the only verse in the book that uses both, and the poem uses both.*
+- **מצא ("to find")** — twenty-five verses in Proverbs `[T]`. The relevant ones: **3:13 אַשְׁרֵי אָדָם מָצָא חָכְמָה ("blessed is the man who finds wisdom"); 8:17 וּמְשַׁחֲרַי יִמְצָאֻנְנִי ("those who seek me early will find me"); 8:35 כִּי מֹצְאִי מָצָא חַיִּים ("for he who finds me finds life"); 18:22 מָצָא אִשָּׁה מָצָא טוֹב ("he who finds a wife finds good"); 20:6 … מִי יִמְצָא; 31:10 מִי יִמְצָא.** **The book has said four times that wisdom can be found, and once that a wife is a good thing to find — and then ends by asking who can find one.** *High confidence on the chain; the reading of it as a deliberate turn is `[I]`, moderate-to-high.*
 
-Note also that two strands of the range — **wealth** and **social standing** — bear directly on Ansberry's aristocratic reading of the household, and are better attested here than the martial strand. `[S]`
+**What the convergence does and does not license.** It licenses saying that **the poem's diction is Wisdom's diction**, and that a reader who has met chs 1–9 is meant to hear it. It does **not** license saying that the woman *is* personified Wisdom, or that the poem is an allegory. The text presents a woman with a husband, children, servants, a field and a market stall `[T]`, and nothing in it is marked as figurative. *The right formulation is the one the vocabulary supports: the book has spent thirty chapters saying what wisdom is worth, and it ends by showing what it looks like when somebody has it.*
 
-What the English renderings lose is therefore not specifically the martial strand but the **breadth** — a single word covering capability, means, standing and moral substance at once. "Excellent wife" and "virtuous woman" are defensible; they are simply narrower than the Hebrew.
+#### 7b. The words that connect the poem to the rest of the book
 
-**Its distribution is a finding.** *ʾĒšet ḥayil* occurs in the Hebrew Bible only three times: Prov 12:4; Prov 31:10; and **Ruth 3:11**. `[T]` *High; confirmed by concordance, 15 August.* Within this chapter, *ḥayil* appears at v.10, v.29 and **v.3** — Ansberry's claim, now **confirmed**: at 31:3 the noun is *ḥayil* with a suffix (*ḥêlekā*, "your strength"). `[T]` *High.* So *ḥayil* stands three times in chapter 31, and the link between the mother's oracle and the acrostic poem is lexical, not merely thematic.
+- **חַיִל** — five verses: 12:4, 13:22, **31:3, 31:10, 31:29** `[T]`. See Tool 2. **12:4's אֵשֶׁת־חַיִל עֲטֶרֶת בַּעְלָהּ ("an excellent wife is the crown of her husband") is the first of the three, and it pairs with a second colon about a wife who shames** — so the phrase enters the book already in a contrast the poem does not repeat.
+- **שָׁלָל ("plunder")** — **three verses: 1:13, 16:19, 31:11** `[T]`. **1:13 is the gang's recruitment speech: נִמְצָא כָּל־הוֹן יָקָר נְמַלֵּא בָתֵּינוּ שָׁלָל ("we shall find all precious wealth, we shall fill our houses with plunder"). 31:11 is the husband: וְשָׁלָל לֹא יֶחְסָר ("and he shall not lack plunder").** And **1:13 opens with נִמְצָא, the verb of 31:10's מִי יִמְצָא** `[T]`. **The book's first temptation scene and its last poem share two words — "find" and "plunder" — in adjacent verses at both ends.** *High confidence on the counts; moderate-to-high that the echo is designed. The gang proposed to find plunder by ambush; the poem's husband has it without leaving the house.*
+- **מַרְבַדִּים ("coverings")** — **two verses in the whole Hebrew Bible: Prov 7:16 and Prov 31:22** `[T]`, whole-corpus search. **7:16 is the adulteress: מַרְבַדִּים רָבַדְתִּי עַרְשִׂי חֲטֻבוֹת אֵטוּן מִצְרָיִם ("I have spread my couch with coverings, with coloured linens of Egypt"). 31:22: מַרְבַדִּים עָשְׂתָה־לָּהּ שֵׁשׁ וְאַרְגָּמָן לְבוּשָׁהּ ("she makes coverings for herself; her clothing is fine linen and purple").** **Both verses pair the coverings with imported fine linen, and they are the only two occurrences in the Bible.** One woman *spreads* them, on a bed, with imported goods, to trap a young man; the other *makes* them, and is clothed. *High confidence on the count; moderate-to-high on the contrast being intended — but the count is the argument, and two occurrences in the canon both inside one book is hard to write off.*
+- **צפה ("to watch, keep watch")** — **two verses in Proverbs: 15:3 and 31:27** `[T]`. **15:3: בְּכָל־מָקוֹם עֵינֵי יְהוָה צֹפוֹת רָעִים וְטוֹבִים ("in every place the eyes of the LORD keep watch on the evil and the good"). 31:27: צוֹפִיָּה הֲלִיכוֹת בֵּיתָהּ ("she watches the ways of her household").** *High confidence on the count. The theological inference is not licensed and is not made here* — the verb is ordinary and two occurrences is a small base — **but a preacher should know that the book uses this participle of God's eyes and of her, and of nobody else.** `[I]`, and flagged low.
+- **כַּף ("palm")** — nine verses, **four here** (31:13, 16, 19, 20) `[T]`. The other five are the striking of hands in surety (6:1, 6:3, 17:18, 22:26) and the slack palm of 10:4. **In the rest of the book the palm is what a fool strikes in a foolish pledge; here it is what works and what gives.**
+- **עֹז ("strength")** — nine verses, two here (31:17, 25) `[T]`. Elsewhere it is chiefly God's or a city's: 18:10 שֵׁם יְהוָה מִגְדַּל־עֹז; 14:26; 10:15; 21:22. *Reported as a distribution, not as a claim.*
+- **הלל, בטח, תּוֹרָה, חֶסֶד, מַעֲשֶׂה, הֶבֶל** — each treated under Tool 10, where the "last occurrence in the book" pattern belongs.
 
-> **A caution on the returned answer.** The concordance result came back as "Proverbs 12:4; 31:3 and Ruth 3:11". The middle reference is a slip: 31:3 has *ḥayil* with a pronominal suffix, not the bound phrase *ʾēšet ḥayil*, which stands at **31:10**. The three occurrences of the phrase are 12:4, 31:10 and Ruth 3:11, as claimed. The slip is worth recording because it collides with the separate question about 31:3 — and, read carelessly, would have made the two answers contradict each other.
+#### 7c. Proper nouns — a one-line inventory, and one word that looks like a name
 
-**(b) *zāmĕmâ* (v.16, "she considers").** From *zmm*. The verb here carries the sense of **purposing or proposing to oneself** `[S: Gesenius]`; ESV's "considers" is defensible but flat. She does not muse about the field. She works it out and takes it.
+**No proper nouns at all** `[T]`. The only word in the poem with the form of a gentilic is **כְּנַעֲנִי** at 31:24 — which here means "merchant, trader", a sense the word carries in Isa 23:8, Zeph 1:11 and Job 40:30 `[T]`. NASB95 renders it "the tradesmen"; NIV84 "the merchants" `[T]`. **Neither the woman, her husband, her children nor her town is named.** *The name-hyperlink check therefore returns nil, and the nil is consistent with the poem's method: it is a portrait with no biography, which is what allows it to function as a verdict rather than as an anecdote.*
 
-The root is that of *mĕzimmâ*, which Proverbs promises to the naïve at 1:4. Two things must be kept apart here, and an earlier draft ran them together.
+#### 7d. Three phrases that occur nowhere else
 
-*What is lexically established.* The noun *mĕzimmâ* has a **genuinely dual range** — "wicked plan, scheme" and "discretion, prudence" — as a property of the word. `[S: Lexham Research Lexicon; Swanson, DBL]` Root-identity alone therefore proves nothing: a positive use at 1:4 and a calculating use at 31:16 could simply be ordinary usage.
-
-*What is a fact about this book.* The two senses are not scattered at random through Proverbs. They split along the book's own structural seam: **positive throughout the frame** (1:4; 2:11; 3:21; 5:2; 8:12) and **negative throughout the sentence literature** (12:2; 14:17; 24:8). `[T]` *Moderate–high; distribution confirmed at the checking stage.* In the frame, where the father is forming a son, *mĕzimmâ* is a gift to be given; in the collections, where the world is described as it is, it is what the schemer has. The book hands the naïve a capacity and then spends nineteen chapters showing what it looks like misused.
-
-*What remains mine and unsourced.* That 31:16's verb deliberately closes that arc. `[I]` *Moderate.* A wordplay reference work registers *zāmĕmâ* as a feature of the acrostic `[S: Parks]`, but **no commentary consulted connects it to 1:4** — including Fox, checked 9 August 2026.
-
-*What Fox does supply, which is not the same thing.* Two points, both citable and both useful. (i) He states that **the editor determined the audience of 31:10–31 by attaching the poem to a book that defines its audience, in 1:4, as uneducated boys and young men.** `[S: Fox, AB 18b:905]` (ii) He holds that Proverbs, though "far from systematic," grew through editors who "wrote and gathered proverbs that served their goals," reaching "a fair degree of ideological unity," with the Prologue's author treating Proverbs as "a single book with unified goals." `[S: Fox, AB 18b:967–968]`
-
-*And a caution about how far that carries.* A general claim about editorial unity does **not** license any particular echo; the inference "therefore thematic echoes between opening and closing would be deliberate" is a step Fox does not take, and it should not be attributed to him. What his two points do is establish the *mechanism* by which a 1:4 ↔ 31:16 link could be intended, and — more usefully — they independently tie the poem's audience to 1:4 by name. The lexical claim itself is still mine. See Headline Finding 2 and Open Question 2.
-
-**(c) *ṭerep* (v.15, "food") — withdrawn from the argument.** Ansberry identifies the noun as *ṭerep*, which elsewhere means **prey**, what a lion tears (Ps 104:21; Amos 3:4; Nah 2:12; Ezek 19:3, 6). `[S]` A library search on 9 August 2026 turned up **no source treating the word in this verse**, and the reasoning offered against a predatory sense here was inference rather than citation. *Uncertain.* The lexeme identification may well be right; the claim that its predatory colour is **active in a domestic distribution scene** is unsupported and is withdrawn. It no longer forms part of this report's case, which rests instead on *šālāl* (v.11 — properly **plunder** taken in war) and on the genre argument.
-
-**(d) *nĕʿārōtêhā* (v.15, "her maidens").** The same noun as Wisdom's *naʿărōtêhā* in 9:3 — "she has sent out her young women to call from the highest places in the town." `[T]` *Moderate–high.* Two women in this book have a staff of *nĕʿārôt*: Woman Wisdom and this woman. Folly, by contrast, "sits at the door of her house" (9:14) with nobody. This link was reached independently in the sweep's work on ch. 9 and is corroborated by Ansberry.
-
-**(e) *tôrat-ḥesed* (v.26, "the teaching of kindness").** She has a *tôrâ*. The book's first lecture said "forsake not your mother's **teaching** (*tôrat ʾimmekā*)" (1:8, repeated 6:20); the book's last portrait puts a *tôrâ* on a woman's tongue. `[T]` *High.* Note also that absolute *tôrâ* — "the law" — appears in the sentence collections only at 28:4, 7, 9 and 29:18 (see the sweep); here it is possessive again, as at the start. The book opens and closes with a woman teaching.
-
-**(f) *šeqer* and *hebel* (v.30).** *Šeqer* is the false-witness word (12:17, 19; 14:5; 19:5, 9) — charm is not merely superficial, it **bears false witness**. `[T]` *Moderate–high.* *Hebel* — "vapour, breath" — is rare in Proverbs (13:11; 21:6; 31:30) and is of course the keyword of Ecclesiastes. Its appearance in the book's penultimate verse is a canonical-neighbour touch. `[I]` *Moderate.*
-
-**(g) *marbaddîm* (v.22, "bed coverings").** A rare noun. Its only other occurrence in Proverbs is **7:16**, where the seductress says "I have spread my couch with coverings (*marbaddîm*), coloured linens from Egyptian linen." `[S: Ansberry]` *Moderate–high.* The same furnishing, the same fabrics, opposite purposes.
-
-**Proper-noun inventory.** The passage contains **no proper nouns at all** — no names, no places, no numbers with canonical freight. `[T]` In a book whose first verse is a chain of three names, the last poem names nobody, not even the woman. That absence is admissible under the pattern-break rule (the established pattern being the book's superscriptions, 1:1; 10:1; 25:1; 30:1; 31:1, all of which name), and it is worth a sentence in the pulpit: she is deliberately not a particular person. `[I]` *Moderate.*
-
----
+- **תּוֹרַת־חֶסֶד (31:26)** — "the teaching/law of covenant-kindness". **A hapax in the Hebrew Bible** `[T]`, whole-corpus search. תּוֹרָה stands in twelve verses of Proverbs and **this is the last**; חֶסֶד in ten, and **20:6 — the book's other מִי יִמְצָא verse — is one of them** `[T]`. *The quality 20:6 doubted could be found is the quality on her tongue.*
+- **מֶכֶר ("price", 31:10)** — hapax in Proverbs `[T]`.
+- **לֶחֶם עַצְלוּת ("the bread of idleness", 31:27)** — hapax in the Hebrew Bible `[T]`. עַצְלוּת is a distinct lemma from the עָצֵל of 6:6 and 26:13–16 `[T]`, so **this is not the sluggard's word but its abstract cousin, used once.**
 
 ### 8. Translations
 
-**Where ESV, NASB and KJV diverge meaningfully.**
+**Pulpit divergence note (NIV84).** Five divergences bear on findings. **Two of them will cost a sermon a finding it cannot get back.**
 
-| Verse | ESV | NASB | KJV | Comment |
-|---|---|---|---|---|
-| 10 | An excellent wife | An excellent wife | A virtuous woman | All three are defensible renderings for a woman-text (TWOT); what they lose is the word's **breadth**, not specifically its martial strand |
-| 10 | who can find? | who can find? | who can find? | Agreed — and see the ancient-versions check below |
-| 11 | he will have no lack of **gain** | will have no lack of **gain** | shall have no need of **spoil** | **KJV alone preserves *šālāl*, "plunder."** As at 1:4/Gen 3:1 in the preamble, the Authorised Version keeps a martial nuance the moderns smooth |
-| 15 | food | food | meat | No divergence of consequence; the "prey" reading is withdrawn (Tool 7c) |
-| 17 | She dresses herself with strength | She girds herself with strength | She girdeth her loins with strength | KJV is literal — "girds her loins," the idiom for preparing to work or fight (1 Kgs 18:46; 2 Kgs 4:29; Job 38:3) |
-| 18 | She perceives that her merchandise is profitable | She senses that her gain is good | She perceiveth that her merchandise is good | Minor |
-| 29 | done excellently | done nobly | done virtuously | *ʿāśû ḥāyil* — "have done *ḥayil*"; the link to v.10 is invisible in all three |
+1. **31:19–20 — NIV84 dismantles the poem's finest construction.** The Hebrew builds the two verses on one skeleton: **יָדֶיהָ שִׁלְּחָה** … וְכַפֶּיהָ (31:19) ‖ **כַּפָּהּ** … **וְיָדֶיהָ שִׁלְּחָה** (31:20) — the same two nouns and the same verb, with the hands turned first to the spindle and then to the poor `[T]`. **NASB95 keeps it**: "she stretches out her hands to the distaff" / "she stretches out her hands to the needy". **NIV84 gives four different verbs**: "In her hand she holds the distaff and grasps the spindle with her fingers" / "She opens her arms to the poor and extends her hands to the needy" `[T]`. *What the congregation will hear:* two unrelated verses about industry and charity. **The hinge at 31:20 is invisible in NIV84. Read 31:19–20 from the NASB95.**
+2. **31:26 — NIV84 loses both of the verse's load-bearing words.** Hebrew: וְתוֹרַת־חֶסֶד עַל־לְשׁוֹנָהּ. **NASB95: "the teaching of kindness is on her tongue"** — keeps both. **NIV84: "faithful instruction is on her tongue"** — carries neither תּוֹרָה nor חֶסֶד `[T]`. *What the congregation will hear:* a general commendation of good advice. **This is the book's last תּוֹרָה and a phrase found nowhere else in the Bible. Read it from the NASB95 and say the two words.**
+3. **31:31 — NIV84 drops the fruit.** Hebrew: תְּנוּ־לָהּ **מִפְּרִי יָדֶיהָ** ("give her of the **fruit of her hands**"). NASB95: "Give her the product of her hands". **NIV84: "Give her the reward she has earned"** `[T]`. *What the congregation will hear:* a wage. **The cost is the link to 31:16, מִפְּרִי כַפֶּיהָ ("from the fruit of her palms"), the poem's other פְּרִי verse** `[T]` — she planted a vineyard from the fruit of her hands, and the poem ends by telling the town to give her the fruit of her hands.
+4. **31:22 — an accidental gift.** Hebrew: מַרְבַדִּים עָשְׂתָה־לָּהּ ("she makes coverings **for herself**"). NASB95 keeps it. **NIV84 supplies a noun the Hebrew does not have: "She makes coverings for her bed"** `[T]`. *What the congregation will hear:* a bed — **which happens to be exactly where the word's only other occurrence puts it (7:16, the adulteress's couch).** The version has supplied, by a translator's decision, a pointer to the very verse the Hebrew links to. Usable; just do not present it as what the Hebrew says.
+5. **31:25 — NIV84 is closer.** Hebrew: וַתִּשְׂחַק לְיוֹם אַחֲרוֹן. **NASB95: "she smiles at the future."** **NIV84: "she can laugh at the days to come."** `[T]` שׂחק is *laugh*, and it is the verb of 1:26 and 8:30–31. **Here the pulpit text is the better witness and the study text has softened it. Use NIV84's wording and say where the verb has been before.**
 
-**A pattern worth naming, now stated more carefully:** at the two places where the Hebrew carries a martial *echo* (*šālāl* in v.11, "girds her loins" in v.17), **the KJV preserves it and the modern versions smooth it.** `[T]` *High — both renderings are checkable.* A preacher wanting that colour without a Hebrew excursus can read vv.11 and 17 from the KJV. But note the limit established at Tool 7(a): these are echoes within a poem whose governing term denotes comprehensive capability, not a martial register running through the whole.
+**Ancient versions check — and the Three-Way Triage.** This poem produces divergence of all three kinds, and the first is unusually important.
 
-**Ancient versions check.** The moderns agree at v.10 on a rendering that carries real exegetical weight ("An excellent wife who can find?"), so the check is triggered. The **LXX** renders *ʾēšet ḥayil* as *gynaika andreian* — "a **courageous** / manly woman," from *andreios*, the adjective of manly courage. The Greek reads *Γυναῖκα ἀνδρείαν τίς εὑρήσει*. `[T]` *High; confirmed 15 August.*
+*Category 1 — translation loss, and here it is total.*
+- **The acrostic cannot survive into Greek, Latin, Syriac or English.** Twenty-two verses in alphabetical sequence is a feature of the Hebrew consonantal text and of nothing else `[T]`. **Every claim in this report about the poem's form is a claim about the Hebrew**, and a congregation hearing it in English is hearing a poem with its principal formal feature removed. *Both NASB95 and NIV84 note the acrostic — NIV84 with an explicit headnote at 31:10* `[T]` — which is the right response, and a preacher should use it.
+- The 31:19/31:20 mirror (above) and the מַרְבַדִּים, צפה, שׂחק and תמך chains are all Hebrew-only.
 
-> **Hold this together with the 9 August correction.** The Greek translator reached for a courage-word. That is evidence about how the poem was *received* in the Hellenistic period, and it shows the valour construal is ancient rather than a modern corrective. It is **not** evidence that the Hebrew *ḥayil* means "valour" here — the lexica give comprehensive excellence in the three woman-texts, and that correction stands. The two facts sit side by side: the Hebrew word is broad, and the earliest translator narrowed it in one particular direction.
+*Category 2 — substantive variants (weighed; no default).* **The Greek places the poem after 29:27 as its 29:28–49** (Tool 14), and within it:
+- **MT 31:25/31:26 transposed.** Swete's 29:43 is MT 31:26 (the פ verse, the mouth) and 29:44 is MT 31:25 (the ע verse, strength) `[T]`, Swete, read from the file's own numbering. ***BHS* records the transposition and cross-references Lamentations 2–4** (apparatus 31:25ᵃ) `[S: BHS]` — the three acrostics in the Hebrew Bible that put **פ before ע**. *Assessment:* **this is a variant about the alphabet.** It may reflect a *Vorlage* in the פ–ע order, or a translator smoothing a sequence he found odd. **Genuinely undecided, and it is the most interesting variant in the poem** because it means an ancient tradition read this acrostic in the order Lamentations uses. *Moderate confidence that the MT order is original — it is the standard sequence, and the Lamentations order is the anomaly needing explanation.*
+- **MT 31:30 ‖ Swete 29:48 — "fearing the LORD" or "understanding".** MT: אִשָּׁה יִרְאַת־יְהוָה הִיא תִתְהַלָּל. Swete: **γυνὴ γὰρ συνετὴ εὐλογεῖται, φόβον δὲ Κυρίου αὕτη αἰνείτω** ("for an understanding woman is blessed; and let her praise the fear of the Lord") `[T]`; *BHS* reconstructs נְבוֹנָה (apparatus 31:30^{a–a}) `[S: BHS]`. *Assessment:* the Greek makes **understanding** her quality and **the fear of the LORD** the object of her praise; the MT makes the fear of the LORD her quality and her the object of praise. **The MT is the harder and the one that closes the book on its own motto (1:7; 9:10).** *Moderate-to-high confidence for the MT — and the divergence is worth the pulpit, because the Greek's reading is the one a modern reader finds easier.*
+- **MT 31:31 ‖ Swete 29:49 — who gets praised.** MT: וִיהַלְלוּהָ בַשְּׁעָרִים מַעֲשֶׂיהָ ("and let her works praise **her** in the gates"). Swete: **καὶ αἰνείσθω ἐν πύλαις ὁ ἀνὴρ αὐτῆς** ("and let **her husband** be praised in the gates") `[T]`. And the first colon has χειλέων ("lips") for MT's יָדֶיהָ ("her hands"). *Assessment:* the Greek's reading assimilates 31:31 to 31:23, where the husband **is** the one in the gates; the MT distinguishes them. **The MT is harder and is what the poem's whole argument requires.** *Moderate-to-high for the MT.* **But the divergence is a gift to the preacher against trap 2**: an ancient tradition already found it easier to end the book praising the husband, and the Hebrew does not.
+- **MT 31:28 ‖ Swete 29:46.** MT: קָמוּ בָנֶיהָ וַיְאַשְּׁרוּהָ ("her children rise up and call her blessed"). Swete: **ἀνέστησεν τὰ τέκνα αὐτῆς καὶ ἐπλούτησαν** ("she raised her children and they became rich") `[T]`. *Assessment:* the Greek read the consonants of וַיְאַשְּׁרוּהָ from **עשׁר ("to be rich")** rather than **אשׁר ("to call blessed")** — a real ambiguity in an unpointed text. **MT**, because אשׁר piel is the verb of 3:18 and the poem's argument is about a verdict, not an inheritance. *Moderate-to-high.*
+- **MT 31:21 — "scarlet" or "double".** MT has שָׁנִים; some manuscripts, 𝔖 and 𝔗 have the singular שָׁנִי ("scarlet"), and 𝔊 has **δισσάς ("double")**, reading שְׁנַיִם (*BHS* apparatus 31:21ᵃ) `[S: BHS]`. Both English versions say "scarlet". *Assessment:* **undecided; the sense of the verse is unaffected** (warm clothing either way). Do not preach the colour.
+- **MT 31:16 and 31:18 — two ketiv/qere.** 31:16 K נְטַע / Q נָטְעָה; 31:18 K בַלַּיִל / Q בַלַּיְלָה (*BHS* 31:16ᵃ, 31:18ᵃ) `[S: BHS]`. Neither affects sense.
 
-**`Translation-tradition split:`** the Greek tradition preserves the valour sense that the English tradition has lost. Under the Three-Way Triage this is **category 1** — translation loss in the *English*, not a manuscript variant, and not the NT's own text (the New Testament does not quote this passage). **Preaching implication:** the LXX is worth citing precisely because it cuts against the domesticated reading, and because it shows the "valour" construal is ancient rather than a modern corrective.
-
-**Pulpit edition note:** pulpit text matches report default; no ESV (Anglicised) difference bears on any finding here.
-
----
+*Category 3 — the Greek as the New Testament's own text.*
+- **Prov 31:10 → 1 Pet 3:3–4 and 1 Tim 2:9–10**, through **πολυτελής**. Reported under Tool 11.
 
 ### 9. Tone and Feel
 
-**Admiring, energetic, and — this is the surprise — unsentimental.**
+**The register is public and celebratory, and it is the only sustained stretch of either in the book.**
 
-The dominant device is the **accumulation of active verbs with a single subject**. She seeks, works, brings, rises, provides, considers, buys, plants, dresses, makes strong, perceives, puts, holds, opens, reaches, makes, sells, delivers, laughs, opens, looks. Roughly twenty finite verbs in twenty-two verses, almost all of them hers. `[T]` The cumulative effect is momentum, not serenity.
+- **Nobody is warned.** Twenty-two verses and not one פֶּן, not one אַל, not one threat `[T]`. After thirty chapters in which the dominant grammatical mood has been the warning, the poem's mood is **report**.
+- **The verbs are relentless and almost all perfect or imperfect-with-waw.** She sought, made, was, rose, gave, considered, took, planted, girded, tasted, stretched, opened, made, sells, gives, opens, watches `[T]`. **Twenty-two verses and something like thirty finite verbs with her as subject.** The effect is accumulation without climax until 31:28.
+- **The poem is domestic and it is also commercial and civic.** Wool and flax, a lamp burning at night, bread brought from afar, a field bought, a vineyard planted, linen garments sold to merchants, the husband seated at the gate with the elders `[T]`. *The tonal point: none of this is presented as remarkable. It is presented as ordinary and then declared extraordinary at 31:29.*
+- **One moment of stillness.** 31:25b — וַתִּשְׂחַק לְיוֹם אַחֲרוֹן ("and she laughs at the time to come") `[T]`. In a poem of ceaseless activity, the one thing she is said to do that is not work is laugh. **And אַחֲרוֹן ("last, latter") is a hapax in Proverbs** `[T]`.
+- **The close is a scene, not a summary.** 31:28–31: the children get up; the husband speaks; the verdict is quoted; the gates are named. **The book ends with people talking about somebody in public.**
 
-Three tonal notes are easy to miss:
-
-**There is no tenderness in it.** No affection is described, no beauty praised, no emotion attributed to her except one — she **laughs** (v.25). The poem admires her the way one admires a commander or a master of a craft — with respect for competence rather than warmth.
-
-**The husband is passive throughout.** He trusts (v.11), he sits (v.23), he praises (v.28). He is the subject of three verbs and none of them is an action. `[T]` *Moderate–high.* Whatever the poem is doing, it is not commending a division of labour.
-
-**The one laugh is at the future.** "She laughs at the time to come" (v.25) — the same verb the book gave to Wisdom in its first speech, where she "laughs at your calamity" (1:26). The book's first laugh is derision at those who refused her; its last is confidence in the face of what is coming. `[T]` *Moderate–high.*
-
-**Soundtrack:** brass, not strings. A processional, not a lullaby.
-
----
+**Soundtrack.** For 31:13–24, something with a steady pulse and no crescendo — a working rhythm. For 31:25, a single held note. For 31:28–31, voices: first one, then several, then a crowd in an open space.
 
 ### 10. Repetition
 
-**Her hands** are the poem's organising physical motif: *kappeyhā* / *yādeyhā* at vv.13 ("works with willing hands"), 16 ("the fruit of her hands"), 19 (twice — "her hands to the distaff… her hands hold the spindle"), 20 (twice — "opens her hand… reaches out her hands"), and 31 ("the fruit of her hands"). That is **seven occurrences** across five verses — *kap* four times (vv.13, 16, 19, 20) and *yād* three times (vv.19, 20, 31). `[T]` *High; verified by concordance, 15 August.*
+Every claim lemma-verified; counts are WLC.
 
-> **Correction, 15 August.** An earlier draft said eight occurrences across six verses, counting v.31 twice. It is once: "let her works praise her" uses *maʿăśeyhā*, a work-word, not a hand-word. The motif is seven-fold.
+**The "last occurrence in the book" pattern — the poem is where seven chains end.**
 
-The distribution matters. The hands *produce* (13, 16, 19), then *give away* (20), then are *rewarded* (31). The poem's last line returns to the noun of its working section: give her the fruit of the very hands you have watched.
-
-**Her household** (*bêtāh*) — vv.15, 21 (twice), 27. **Clothing** — vv.21, 22, 25, and the garments she sells at 24; note that v.25 turns the motif metaphorical ("strength and dignity are her **clothing**"), which is how the poem moves from work to character. `[T]`
-
-**Praise** — vv.28 (*wayĕʾaššĕrûhā*, "call her blessed"), 28 (*wayĕhalĕlāh*, "praises her"), 30 (*tithallāl*, "is to be praised"), 31 (*wîhalĕlûhā*, "let her works praise her"). The root *hll* appears three times in the last four verses. `[T]` *Moderate–high.* The poem ends by hammering one verb, and it is not "work."
-
-**Fear** appears twice with opposite force: she is **not afraid** (*lōʾ-tîrāʾ*, v.21) of snow, and she **fears** (*yirʾat*, v.30) the LORD. `[T]` *Moderate–high.* The same root, negated of circumstance and affirmed of God — which is a compressed statement of the whole book's doctrine of fear.
-
----
-
-### 11. Quotation / Allusion
-
-**Independent candidate-finding.** Working from the passage's own distinctive vocabulary before testing anything a source named: *ʾēšet ḥayil* → Ruth 3:11 and Prov 12:4; *mî yimṣāʾ* → Prov 3:13; 8:17, 35; 18:22; *nĕʿārôt* → Prov 9:3; *tôrat* + a woman → Prov 1:8; 6:20; *marbaddîm* → Prov 7:16; "girds her loins" → 1 Kgs 18:46; Job 38:3; *hebel* → Ecclesiastes; the acrostic form → Ps 111; 112; 119; 145; Lam 1–4.
-
-**Live sources for this book** (from the overview, confirmed across the sweep): Genesis 1–3, Deuteronomy, Job, Psalms, the Solomon tradition.
-
----
-
-**Ruth 3:11 ∥ Prov 31:10 — *ʾēšet ḥayil*** *(moderate–high confidence)*
-
-*Source context.* Ruth 3 is the threshing-floor scene. A Moabite widow, destitute and legally vulnerable, has gone at night to the man who is her *gōʾēl* and asked him to spread his garment over her — a request for redemption and marriage. Boaz's reply: "do not fear, I will do for you all that you ask, for **all my fellow townsmen know that you are a worthy woman** (*ʾēšet ḥayil*)." The phrase's function in its own passage is a **public verdict delivered in a moment of maximum social exposure**: it is what the town already says about a foreign widow who has no standing at all.
-
-*Book usage.* Within Proverbs the phrase occurs at 12:4 — "An *ʾēšet ḥayil* is the crown of her husband, but she who brings shame is like rottenness in his bones" — a single antithetic line dropped into the first Solomonic collection. Here that one line becomes twenty-two. `[T]` The book states the category early and cashes it at the end, which is its habit (compare 3:19–20 → ch. 8; 6:16–19 → 30:15–31).
-
-*OT-to-OT.* Ruth and Proverbs are canonical neighbours in the Writings, and in the Hebrew ordering Ruth follows Proverbs directly — so the reader who has just asked "an *ʾēšet ḥayil*, who can find?" turns the page and is shown one. **This is more than a curiosity of sequence:** Ruth appears designed to be read from a wisdom perspective, positioned immediately after Proverbs 31's portrait, with the phrase occurring only once elsewhere (12:4); Ruth exemplifies the piety Proverbs teaches and embodies its exemplary woman. `[S: Köstenberger & Goswell; Lau & Goswell]` *Moderate–high — upgraded at the checking stage from* moderate. Boaz's declaration of her worth falls at the turning point where he commits to marry her. `[S]` What does not depend on the ordering is the distribution: three occurrences in the Hebrew Bible, two in Proverbs and one in Ruth.
-
-*What the full triad adds.* This is the single most useful thing a preacher can bring to this passage, and it is pastoral as much as exegetical. The *ʾēšet ḥayil* is not a composite ideal assembled from twenty-two impossible competencies. The canon supplies a worked example, and she is a childless foreign widow who was gleaning in someone else's field a chapter earlier. Whatever *ḥayil* means, Ruth had it before she had a husband, a child, a field, a vineyard, or a servant.
-
----
-
-**Proverbs 8:35 and 18:22 → 31:10 (internal; the book's own search-verb)** *(high confidence)*
-
-Treated as a citation-level finding because the verbal identity is exact. 8:35, of Wisdom: "For whoever **finds** me finds life and **obtains favour from the LORD**." 18:22, of a wife: "He who **finds** a wife finds a good thing and **obtains favour from the LORD**." The predicate clause is the same in both. `[T]` *High.* 31:10 then opens with *mî yimṣāʾ*.
-
-*What it adds:* the warrant for reading this poem as wisdom embodied is supplied by Proverbs itself, in two verses that say the identical thing about Wisdom and about a wife. No allegory is required, and none should be attempted. See Christological Reading.
-
----
-
-**Deuteronomy 10:12–22; 15:7–8 → Prov 31:20** *(moderate; conceptual)* `[S: Ansberry]`
-
-*Source context.* Deut 10:12–22 asks "what does the LORD your God require of you, but to fear the LORD your God… " and grounds the command in God's own character as one "who executes justice for the fatherless and the widow, and loves the sojourner." Deut 15:7–8 commands an open hand to the poor brother: "you shall **open your hand** to him."
-
-*Book usage.* Deuteronomy is the most-used scriptural source in Proverbs (see the sweep's cross-passage finding 5), and its final appearance in the book is here — the open hand of Deut 15:8 and the fear of the LORD of Deut 10:12 arriving together in vv.20 and 30. `[I]` *Moderate.*
-
-*What it adds:* it identifies v.20 as covenantal rather than merely charitable, and it means the poem's two most theologically weighted lines are the two that are most Deuteronomic.
-
----
-
-**Judges 5; 1 Samuel 18:7; 2 Samuel 1:17–27 — the heroic-poem comparison** *(moderate)* `[S: Ansberry]`
-
-Ansberry reads the poem as a heroic panegyric that replaces the martial exploits of aristocratic men with a woman's activity in home and community. The comparison with Judges 5 (Deborah's victory song, itself a woman's heroic poem) is the most illuminating of the three.
-
----
-
-**Move 4 — Internal echo check** *(required; run against the whole book)*
-
-This passage is the densest Move 4 site in Proverbs, which is what one would expect of a book's last poem. *Answers earlier material* throughout; nothing is planted, since nothing follows.
-
-| Earlier | Here | Relationship | Confidence |
+| Word | Verses in Proverbs | Last occurrence | What it was |
 |---|---|---|---|
-| **1:7** "the fear of the LORD is the beginning of knowledge"; **9:10** | **31:30** "a woman who fears the LORD is to be praised" | The book's motto lands, in a life rather than a maxim. A literary envelope around the whole. | High `[T]` |
-| **1:8; 6:20** "your mother's *tôrâ*" | **31:26** *tôrat-ḥesed* on her tongue | The book opens and closes with a woman teaching | High `[T]` |
-| **1:4** *mĕzimmâ* promised to the naïve | **31:16** *zāmĕmâ* — she schemes a field | The promised capacity, exercised | Moderate–high `[I]` |
-| **8:35 ∥ 18:22** "finds… obtains favour from the LORD" | **31:10** *mî yimṣāʾ* | The search-verb, asked for the last time | High `[T]` |
-| **12:4** "an *ʾēšet ḥayil* is the crown of her husband" | **31:10, 29** | One line expanded to twenty-two | High `[T]` |
-| **9:3** Wisdom's *naʿărōtêhā* | **31:15** her *nĕʿārōtêhā* | Two women in the book keep a household staff; Folly sits alone (9:14) | Moderate–high `[T]` |
-| **7:16** the seductress's *marbaddîm* | **31:22** she makes *marbaddîm* | Same rare furnishing, opposite purpose | Moderate–high `[S]` |
-| **1:26** Wisdom "will laugh" at calamity | **31:25** "she laughs at the time to come" | The book's first laugh is derision; its last is confidence | Moderate–high `[T]` |
-| **13:9; 20:20; 24:20** the lamp of the wicked put out | **31:18** "her lamp does not go out at night" | The book's standing image of a life cut short, negated | Moderate–high `[T]` |
-| **3:15; 8:11** wisdom "more precious than jewels" | **31:10** "far more precious than jewels" | The valuation formula used of Wisdom, transferred | High `[T]` |
-| **31:8–9** "open your mouth" ×2 | **31:20, 26** she opens her hand and her mouth | The oracle's command, enacted | High `[T]` |
-| **9:1** "Wisdom has built her house"; **14:1** "the wisest of women builds her house" | **31:15, 21, 27** her household | The house-building thread completed | Moderate–high `[T]` |
-| **11:16; 18:22; 19:14; 21:9, 19; 25:24; 27:15** the wife sayings | **31:10–31** | The scattered lines gathered into a portrait | Moderate `[S: Ansberry]` |
-| **1:1** three proper nouns | **31:10–31** none | The book that opens by naming closes by naming nobody | Moderate `[I]` |
+| בָּטַח ("to trust") | 10 | **31:11** | 3:5 בְּטַח אֶל־יְהוָה; 28:26 trusting your own heart is folly |
+| תּוֹרָה ("teaching, law") | 12 | **31:26** | 1:8 תּוֹרַת אִמֶּךָ, a mother's |
+| חֶסֶד ("covenant-kindness") | 10 | **31:26** | 20:6, the other מִי יִמְצָא verse |
+| הלל ("to praise") | 9 | **31:31** | 27:2, the rule |
+| מַעֲשֶׂה ("work") | 3 | **31:31** | 16:3 גֹּל אֶל־יְהוָה מַעֲשֶׂיךָ |
+| הֶבֶל ("breath, vanity") | 3 | **31:30** | 13:11; 21:6 |
+| יָרֵא adj. ("fearing") | 4 | **31:30** | 13:13; 14:2; 14:16 |
 
----
+`[T]`, WLC, each lemma-verified. **Three of the seven — בטח, תורה, הלל — are chains this series has tracked across four previous runs, and all three end here.** *Synthetic claim, and its constituents are each verified.*
+
+**Two of them are tensions and should be preached as such.**
+
+- **בָּטַח.** 3:5 says trust YHWH with all your heart; 28:26 says the man who trusts his own heart is a fool; **31:11 says בָּטַח בָּהּ לֵב בַּעְלָהּ — "the heart of her husband trusts in her" — and approves it** `[T]`. **The book's last use of "trust" has a human object.** *That is not a contradiction the poem resolves; it is a tension the poem creates, and the honest reading is that a life shaped by wisdom becomes something it is safe to rely on.* `[I]`, moderate.
+- **תּוֹרָה.** 1:8 — תּוֹרַת אִמֶּךָ, "your mother's teaching"; 31:26 — תּוֹרַת־חֶסֶד, on a woman's tongue `[T]`. **The book's first תּוֹרָה and its last are both a woman's**, and the eleven in between are a father's, a sage's, or unpossessed (28:4, 7, 9; 29:18).
+
+**Word-level, within the poem.**
+
+| Item | Occurrences | Note |
+|---|---|---|
+| בֵּיתָהּ ("her house") | 31:15, 21 (×2), 27 | the poem's spatial centre |
+| כַּף ("palm") | 31:13, 16, 19, 20 | four of the book's nine |
+| יָד ("hand") | 31:19, 20, 31 | with כַּף, **hands appear in six verses of twenty-two** |
+| בַּעְלָהּ ("her husband") | 31:11, 23, 28 | trusting, seated, praising |
+| שַׁעַר ("gate") | 31:23, 31 | brackets the last nine verses |
+| לְבוּשׁ / לבשׁ ("clothing") | 31:21, 22, 25 | household, herself, and then **strength and dignity** |
+| עשׂה ("to make, do") | 31:13, 22, 24, 29 | and 31:31's מַעֲשֶׂיהָ |
+| הלל ("praise") | 31:28, 30, 31 | three in four verses |
+| פְּרִי ("fruit") | 31:16, 31 | what she plants from, and what she is paid in |
+
+`[T]`, WLC.
+
+**Idea-level: the poem says three times that she is clothed, and the third time changes category.** 31:21 her household is clothed in scarlet; 31:22 her clothing is fine linen and purple; **31:25 עֹז־וְהָדָר לְבוּשָׁהּ — "strength and dignity are her clothing"** `[T]`. *The sequence runs from what she puts on others, to what she puts on herself, to what she is wearing that cannot be woven.*
+
+### 11. Quotation/Allusion
+
+**Live sources.** Proverbs contains no citation formula and no marked quotation `[S: overview]`, and this poem contains no external OT citation `[T]`. **Move 4 is where the work is, and in this unit it is unusually rich.** The outward direction runs forward instead: this is the passage the New Testament engages, and two of its contacts run through the Greek.
+
+#### The poem as a source — two New Testament uses
+
+**Prov 31:10 (Greek) → 1 Pet 3:3–4** *(moderate-to-high)*
+
+*Source context.* 31:10 is the poem's opening question and its valuation: אֵשֶׁת־חַיִל מִי יִמְצָא וְרָחֹק מִפְּנִינִים מִכְרָהּ. **Swete's 29:28 renders it Γυναῖκα ἀνδρείαν τίς εὑρήσει; τιμιωτέρα δέ ἐστιν λίθων πολυτελῶν ἡ τοιαύτη** ("a courageous woman, who will find? she is more precious than **costly** stones") `[T]`, Swete.
+
+*Book usage.* 1 Peter cites Proverbs twice elsewhere — 3:34 at 1 Pet 5:5 and 11:31 at 1 Pet 4:18, both verbatim from the Greek `[S: overview]`, confirmed in the corpus `[T]`. **So Proverbs is a live source for this author and both prior uses run through the Greek**, which raises the prior for a further Greek-mediated contact.
+
+*OT-to-OT.* 1 Pet 3:6 cites **Sarah** (Gen 18:12) in the same paragraph, and calls her daughters those who do good μὴ φοβούμεναι μηδεμίαν πτόησιν ("not fearing any terror") `[T]`, SBLGNT. **Prov 31:21 and 31:25 both have her *not* fearing** — לֹא־תִירָא לְבֵיתָהּ מִשָּׁלֶג and וַתִּשְׂחַק לְיוֹם אַחֲרוֹן `[T]`. *Moderate confidence that the fearlessness motif is shared; the vocabulary differs in Greek.*
+
+*What it adds.* 1 Pet 3:4 says the hidden person of the heart is **ἐνώπιον τοῦ θεοῦ πολυτελές** ("of great price before God") — **the same adjective Swete uses for the stones this woman outvalues** `[T]`. **Peter takes the poem's valuation language off the external and puts it on the inner person.** *That is not a correction of Proverbs; it is the same move Prov 31:30 makes* — charm is a lie, beauty a breath, the fear of the LORD is the thing. **The New Testament and the poem's own last-but-one verse are doing the same thing with the same logic.** *Moderate-to-high on the verbal contact; high that the arguments match.*
+
+**Prov 31:30 → 1 Tim 2:9–10** *(moderate)*
+
+*Source context.* 31:30 is the poem's interpretive key (Tool 6): two dismissals and a verdict.
+
+*Book usage.* 1 Timothy cites Proverbs nowhere else `[T]`, SBLGNT — a cold source.
+
+*OT-to-OT.* None in the passage.
+
+*What it adds.* 1 Tim 2:9–10 works the identical structure: **not** πλέγμασιν, χρυσίῳ, μαργαρίταις, ἱματισμῷ **πολυτελεῖ** ("costly clothing") — **but** ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις **θεοσέβειαν** ("reverence for God"), **δι' ἔργων ἀγαθῶν** ("by good works") `[T]`, SBLGNT. **Three elements in the same order as Prov 31:30–31: the external dismissed, the fear of God substituted, and works as the evidence.** And πολυτελής appears again `[T]`. *Moderate confidence on deliberate allusion — the argument is a commonplace of Hellenistic moral writing as well — but the sequence and the shared adjective are worth the preacher's attention.* **Note what this means: the two New Testament passages most often used to constrain women are both making Prov 31:30's argument.**
+
+#### Move 4 — internal echo *(required; this is the unit's principal work)*
+
+The opening unit (1:1–9:18) was held open throughout, as was the immediately preceding unit (30:1–31:9).
+
+**`Internal:` chs 1–9's personified Wisdom → the whole poem.** *Answers §earlier. High confidence.* Five verified chains (Tool 7a). *What it adds:* headline 1 — **the book's abstraction becomes a life, in the abstraction's own vocabulary, and then the book stops.**
+
+**`Internal:` 1:13 → 31:10–11.** *Answers §earlier; inverted. Moderate-to-high.* נִמְצָא and שָׁלָל in the gang's speech; יִמְצָא and שָׁלָל in the poem's first two verses `[T]`, both lemma-verified, שָׁלָל standing in only three verses of the book. *What it adds:* **the book's first proposal was to go out and find plunder by ambush; its last picture is a man who has it and never left.**
+
+**`Internal:` 7:16 → 31:22.** *Answers §earlier; contrast. High on the count, moderate-to-high on the design.* מַרְבַדִּים in two verses of the Hebrew Bible, both in Proverbs, both paired with imported fine linen `[T]`.
+
+**`Internal:` 27:2 → 31:28–31.** *Answers §earlier; performed. High.* The rule and its only keeping (headline 3) `[T]`.
+
+**`Internal:` 24:7 and 31:8–9 → 31:26 and 31:31.** *Answers §earlier; completed. High.* The פתח chain — four verses in the book (headline 2) `[T]`.
+
+**`Internal:` 20:6 → 31:10 and 31:26.** *Answers §earlier. High.* מִי יִמְצָא in three verses of the Hebrew Bible (Prov 20:6, Prov 31:10, Eccl 7:24), and 20:6's subject is חֶסֶד, which 31:26 supplies `[T]`.
+
+**`Internal:` 1:7 and 9:10 → 31:30.** *Answers §earlier; closed. High.* The motto returns at the poem's penultimate verse in its adjectival form, יִרְאַת־יְהוָה with the adjective יָרֵא (lemma 3373, four verses in the book) rather than the noun יִרְאָה (fourteen verses, none here) `[T]`. **The book opens and closes on the fear of the LORD, and the two forms are grammatically different** — a fact no English version shows.
+
+**`Internal:` 31:3 → 31:10, 29.** *Answers §immediately earlier.* The חַיִל seam (Tool 2) `[T]`.
+
+**`Internal:` 18:22 → 31:10.** *Answers §earlier; complicated. Moderate.* 18:22, מָצָא אִשָּׁה מָצָא טוֹב וַיָּפֶק רָצוֹן מֵיְהוָה ("he who finds a wife finds a good thing and obtains favour from the LORD") `[T]`. **31:10 asks who can find — which is not a denial of 18:22 but a statement of its cost.**
+
+**Addressee differentiation.** The book opens addressing one party (בְּנִי). **The poem addresses nobody until its last verse**, where תְּנוּ־לָהּ is a plural imperative to an unnamed audience `[T]`. *The differentiated resolution is that the book's single addressee is replaced, at the very end, by a crowd.*
+
+#### Outward, forward: two further contacts reported at lower confidence
+
+- **Ruth.** אֵשֶׁת־חַיִל stands in **three verses of the Hebrew Bible: Prov 12:4, Prov 31:10, Ruth 3:11** `[T]`, whole-corpus search. And the cluster extends: **Ruth 3:11 has כָּל־שַׁעַר עַמִּי ("all the gate of my people"); Ruth 4:11 has כָּל־הָעָם אֲשֶׁר־בַּשַּׁעַר וְהַזְּקֵנִים ("all the people in the gate, and the elders") and וַעֲשֵׂה־חַיִל; Ruth 2:1 calls Boaz גִּבּוֹר חַיִל** `[T]`. **Prov 31:23 has בַּשְּׁעָרִים … זִקְנֵי־אָרֶץ and 31:29 has עָשׂוּ חָיִל.** *Four verbal contacts between two books that stand adjacent in the Tanak order — and in that order Proverbs' last question is answered by the next book's third chapter.* **The direction of dependence is not recoverable from either text and is left open.** *High confidence on the contacts; the arrangement is `[I]`, moderate — see Book-Overview Tensions.*
+- **Ecclesiastes.** מִי יִמְצָא's third occurrence is **Eccl 7:24**, and that verse also shares **רָחוֹק** with Prov 31:10 `[T]`. **Eccl 7:28 then reports the search's outcome: וְאִשָּׁה בְכָל־אֵלֶּה לֹא מָצָאתִי ("and a woman among all these I have not found")** `[T]`. And הֶבֶל — Ecclesiastes' word — stands in three verses of Proverbs and **31:30 is one of them** `[T]`. *Moderate confidence that the books are in conversation; high that the vocabulary overlaps at exactly these points.* **Proverbs asks who can find her; Ecclesiastes says he looked and did not.**
 
 ### 12. Genre
 
-An **alphabetic acrostic encomium** — a praise-poem in alphabetic form; Ansberry's "heroic panegyric" is a reasonable sub-classification `[S]`.
+**An alphabetic acrostic — Hebrew poetry in its most formally constrained shape.**
 
-Three reading rules follow, and the first two are where sermons on this passage usually go wrong.
+The Hebrew Bible has around a dozen: Pss 9–10, 25, 34, 37, 111, 112, 119, 145; Lam 1–4; Nah 1 (partial); and this `[S]`, moderate confidence on the list's completeness — the count is a commonplace and was not re-derived from the corpus here, and **the one claim that was checked is that Prov 31:10–31 runs א to ת without a break** `[T]`.
 
-**Encomium is praise, not prescription.** The poem's own closing imperative is *tĕnû* — "**give** her" praise (v.31). A form whose generic purpose is to laud a subject is being read against its genre when it is turned into a specification. `[T]` *High.*
+**Three reading rules follow, and they matter more here than the genre label usually does.**
 
-**Acrostics work by comprehensiveness, not by argument.** Do not look for a logical progression from v.13 to v.24; the sequence is alphabetical. `[I]` *Moderate–high.*
+- **An acrostic is a completeness claim.** The form says *this subject, from A to Z*. It does not say the items are ranked, and it does not say they are exhaustive in fact — it says the treatment is formally complete `[I]`, high confidence. **So the poem is not a job description and the reader is not meant to tick items off.** The alphabet is doing what the numerical sayings did in ch. 30: supplying an order that is not an argument.
+- **The letter constrains the vocabulary.** Some words are in the poem because they begin with the right letter. צוֹפִיָּה at 31:27 is a tsade-word; סָדִין at 31:24 a samekh-word; זָמְמָה at 31:16 a zayin-word `[T]`. **A finding that rests on a word the acrostic required is weaker than one that does not**, and this report flags no chain that depends on a single letter-forced word.
+- **The form cannot be preached from an English text.** See Tool 8. **Both versions footnote it; use the footnote.**
 
-**The portrait is composite, not documentary.** No proper nouns, no age, no location, no era. The poem describes a *kind* of life across a full range of activity — which is why no actual woman does all of it simultaneously, and why reading it as a daily schedule is a category error. `[I]` *Moderate.*
-
----
+**The book-level trap that bites here is trap 2** — *Proverbs 31 as a wife-template* `[S: overview]`. The genre is the first defence against it: an acrostic that runs the alphabet is making a formal claim about completeness, not issuing twenty-two requirements.
 
 ### 13. Copycat
 
-**N/A in the standard sense** — no narrative, no characters whose actions are being reported for imitation or avoidance. `[T]`
+**N/A in the ordinary sense** — Hebrew poetry with no narrative and no characters with histories. **But this unit is the one place in Proverbs where the descriptive/prescriptive question is genuinely contested in the pulpit**, so it is treated rather than dismissed.
 
-But the tool is worth running here anyway, because this passage is the most frequently *mis*-copied in the book, and the text itself supplies the answer. The poem contains one instruction to the reader and it is v.31: **give her praise**. It contains no instruction to become her, no instruction to the husband, and no instruction to the woman. `[T]` *High.*
+**The text's own grammar settles more than it is usually allowed to.**
 
-The right category is therefore **descriptive, with a single prescriptive line that prescribes praise**. Anything preached as "so this week, do what she does" is prescribing what the passage describes — the classic copycat error, committed on a text that unusually forecloses it in its final verse.
+- **The poem issues no command to her and none to a wife.** Twenty-two verses, and the only imperative is **31:31's תְּנוּ־לָהּ ("give to her")** — plural, addressed to an audience, and it commands the audience to *pay* her `[T]`. *A text whose single imperative tells other people to reward somebody is not a list of that somebody's duties.*
+- **The verbs describing her are all indicative.** She sought, made, rose, considered, planted, girded, stretched, opened, watches `[T]`. **Not one is a jussive, a cohortative or an imperative.** Compare 6:6, לֵךְ־אֶל־נְמָלָה עָצֵל ("go to the ant, sluggard"), where the book issues an instruction from an example and *says so* `[T]`. **It does not do that here.**
+- **The frame is a question and a verdict, not a syllabus.** 31:10 asks who can be found; 31:29 says many have done worthily and she has surpassed them; 31:30 tells you what actually earns the praise `[T]`.
 
----
+**So the trichotomy runs:**
+
+| Element | Category |
+|---|---|
+| Her actions (31:13–27) | **Descriptive**, in an acrostic whose form is a completeness-claim (Tool 12) |
+| The household's response (31:28–29) | **Descriptive** — and the model for the *audience*, not for her |
+| 31:30's verdict | **Prescriptive of judgement** — this is how you are to assess |
+| 31:31's imperative | **Prescriptive of action** — and it is addressed to the community |
+
+**What the poem does normatively command, it commands of the reader: *value this properly, and pay for it.*** `[I]`, high confidence — the grammar is the argument.
 
 ### 14. Bible Timeline
 
-**Where the passage sits.** At the end of a book presented as Solomonic and edited under Hezekiah, read by a post-exilic canonical audience. Its immediate horizon is a functioning agrarian and mercantile economy with household production, land purchase, textile trade, and a city gate that serves as court.
+**Where the passage sits.** Nowhere the text will say. No name, no place, no event, no institution `[T]`. Any dating rests on the vocabulary and is reconstruction `[S]`.
 
-**What has happened since that changes how a Christian reads it.** Three things.
+**Canonical position (Phase 0.55).** Extracted from the overview `[S: overview]`, with two additions this run contributes.
 
-*The economy has changed beyond recognition,* which is why the details do not transfer. Wool, flax, distaff, spindle, and a field bought with hand-earned money describe a household that is a **unit of production**. Almost nothing in a modern home is. Reading v.13–24 as a template imports an economic structure that no longer exists; reading it as a portrait of *competence exercised in whatever the economy actually is* transfers exactly.
+- **Section.** Ketuvim, third in the BHS order — Psalms, Job, **Proverbs**, Ruth, Song of Songs, Ecclesiastes, Lamentations, Esther, Daniel, Ezra–Nehemiah, Chronicles.
+- **Reading implication.** Proverbs follows the two books that press hardest on whether the world is morally legible, and answers them by handing the reader cases. **This poem is where it stops handing over cases and shows one life.**
+- **Presupposes.** Ps 18:31 ‖ 2 Sam 22:31 and Deut 4:2 (from sermon 8's unit); nothing cited here `[T]`.
+- **Handoff.** **Ruth** — and the handoff is verbal (below).
+- **Neighbours.** Job before, Ruth after.
 
-*The category "wisdom" has been personalised.* 1 Cor 1:30 and Col 2:3 make Christ the wisdom of God. The poem's own question — who can find? — receives a canonical answer the poem could not give.
+**Addition 1 — the Ruth handoff is a four-point verbal contact, and it is checkable.** The overview records the אֵשֶׁת־חַיִל link `[S: overview]`; this run verifies it on the complete corpus and adds three more:
 
-*The gates have gone.* "Her works praise her in the gates" (v.31) is public, civic vindication in the place where legal cases were heard. The nearest modern analogue is not a compliment at home but a reputation in the town.
+| Prov 31 | Ruth | Item | Occurrences in the Hebrew Bible |
+|---|---|---|---|
+| 31:10 אֵשֶׁת־חַיִל | 3:11 אֵשֶׁת חַיִל אָתְּ | the phrase | **3** — Prov 12:4; 31:10; Ruth 3:11 |
+| 31:29 עָשׂוּ חָיִל | 4:11 וַעֲשֵׂה־חַיִל | עשׂה + חיל | 7 verses |
+| 31:23, 31 בַּשְּׁעָרִים | 3:11 כָּל־שַׁעַר עַמִּי; 4:11 בַּשַּׁעַר | the gate as the place of verdict | — |
+| 31:23 זִקְנֵי־אָרֶץ | 4:11 וְהַזְּקֵנִים | the elders, in the gate | — |
 
-**One timeline correction this passage needs.** It is regularly read as though it described a first-century or a 1950s household, and then either endorsed or resented on those terms. It describes neither.
+All four verified `[T]`, whole-corpus search with passed controls. **And Ruth 2:1 introduces Boaz as אִישׁ גִּבּוֹר חַיִל** — the masculine counterpart `[T]`. *In the BHS order, Proverbs ends by asking מִי יִמְצָא and the next book answers with a named Moabite woman whom the whole gate calls אֵשֶׁת חַיִל.* **The direction of dependence is not recoverable from either text and is left open** — the arrangement may be editorial, coincidental, or the reverse of what it looks like. *High confidence on the contacts; `[I]`, moderate, on the arrangement.*
 
----
+**Addition 2 — the Greek arrives here by a different road but ends in the same place.** Swete has no chapters 30 and 31: MT 30:1–14 stands after 24:22, MT 30:15–33 with 31:1–9 after 24:34, chapters 25–29 follow, and **this poem closes the book as Swete's 29:28–49** `[T]`, Swete; *BHS* states it (apparatus 30:1ᵃ; 31:10ᵃ) `[S: BHS]`. **So both traditions end the book with the acrostic. What differs is what the reader has just been reading** — Hezekiah's collection in the Greek, Lemuel's mother in the Hebrew. *Report both; resolve neither.*
+
+**Where the reader is, and what has happened since.** The cross, and three things it changes.
+
+1. **The question of 31:10 has been answered in a way the poem could not anticipate.** מִי יִמְצָא asks who can find such a person. The New Testament's answer to the book's parallel question at 20:9 — who can say he is clean — is a person; and **Prov 31 asks its question about a life rather than about a status**, which is why the answer is not simply transferred. See the Christological Reading.
+2. **The verdict has already been spoken.** 31:28–31 is a scene in which somebody else declares the worth of a life. *A Christian reads that after Matt 25:21 and 1 Cor 4:5, where the declaring is God's and the timing is not now.*
+3. **31:30's argument has been repeated twice in the New Testament** (Tool 11), in the two passages most often used to constrain women — which is worth knowing before preaching either.
 
 ### 15. Who Am I?
 
-The passage names no one, which makes this tool unusually productive.
+The poem has one figure and a chorus.
 
-| Figure | Function | Am I this? |
+| Figure | Function | Note |
 |---|---|---|
-| **The *ʾēšet ḥayil*** | Wisdom embodied; the answer to "who can find?" | **Not primarily an identification.** She is what the reader is taught to recognise and value, not a role assigned to the reader |
-| **The husband** | Beneficiary and witness; trusts, sits, praises | **Not a role model** — he does nothing. But v.28–29 make him the one who *speaks*, which is the poem's model response |
-| **The children** | They "rise up and call her blessed" | A second model response |
-| **The addressee ("my son")** | Still the book's implied reader — and Fox holds the editor fixed the poem's audience by attaching it to the book defined in 1:4 `[S: Fox, AB 18b:905]` | **Yes.** He is being shown what to look for and what to praise |
-| **The reader of v.31** | The one commanded to give | **Yes** — this is the only direct address in the poem |
+| **The woman** | **Neither a template nor a type — a demonstration** | The book has argued for thirty chapters that wisdom is worth more than jewels (3:15; 8:11) and cannot be self-certified (3:7; 26:12). **She is what that looks like when it is true of somebody**, described in Wisdom's own vocabulary (Tool 7a). *She is not primarily a model for women, and the text never says she is.* |
+| **The husband** | **The reader's nearest position, and a warning** | He is the only one who speaks (31:29), he sits in the gate (31:23), and his heart trusts (31:11). **What he does with the verdict is what the book asks its reader — the בְּנִי of 1:8 — to do.** |
+| **The children** | The chorus | They rise and call her blessed (31:28) — the only use of אשׁר piel in the book outside 3:18, which is of Wisdom `[T]`. |
+| **The audience of 31:31** | **Us, and it is the poem's only direct address** | תְּנוּ־לָהּ, plural imperative. *The single command in the poem is given to the people reading it.* |
+| **"Many daughters" (31:29)** | Not foils | רַבּוֹת בָּנוֹת עָשׂוּ חָיִל — **the verse concedes that many have done worthily** `[T]`. It is a superlative, not a disparagement, and a sermon that treats the others as failures has misread the syntax. |
 
-**The characteristic misidentification** is for a woman in the congregation to be handed the *ʾēšet ḥayil* as a job description. Within the book's rhetoric she is not that; she is the object of a search and of praise. Ansberry sharpens this usefully: the rhetorical question "who can find?" provokes a second question — **who is looking?** `[S]` *Moderate–high.* The poem is aimed at the seeker, not at the sought.
+**The Moses-is-me check has a specific shape here and it is the sermon's main danger.** The poem is routinely read as *be her* — which puts the reader in the one position the text never invites. **The text's own invitation is at 31:31: recognise and reward.** *If a sermon leaves half the congregation measured and the other half unaddressed, it has inverted the passage's grammar.*
 
-That said, the passage is not *irrelevant* to women, and preaching it as though it were addressed exclusively past them will land badly and is not required. The honest statement is: this is a portrait of wisdom in a life, offered to a reader who is being taught to value it; anyone may aspire to the character it praises, and no one is being handed the inventory as a standard.
-
-**Where Christ stands.** Not as the woman. See the Christological Reading.
-
----
+**Where Christ stands.** Not in the poem as a figure. See the Christological Reading.
 
 ### 16. So What?
 
-**Stage 1 — the response the author is seeking.** The poem asks for exactly one thing and states it in its last verse: **give her the fruit of her hands and let her works praise her in the gates**. Recognition, publicly expressed, materially expressed. `[T]` *High.*
+**Stage 1 — the response the poem seeks.** Two, and the order matters.
 
-Behind that lies the book-level response: that the reader should have become, by the end of thirty-one chapters, the kind of person who can *recognise* wisdom when it is in front of him — which is precisely what the *pethî* of 1:4 could not do.
+**To judge rightly** — 31:30 tells you what to discount (charm, beauty) and what to credit (the fear of the LORD), and the poem's whole construction has been training the reader's eye toward the things that take years to see `[T]`.
 
-**Stage 2 — worldview, behaviour, motivation.**
+**To pay** — 31:31's תְּנוּ־לָהּ, the poem's only imperative `[T]`.
 
-*Worldview.* Three claims a modern hearer does not naturally hold. That **competence is a moral and spiritual category**, not a merely practical one — the poem's climax (v.30) grounds twenty verses of enterprise in the fear of the LORD. That **hidden work is real work and deserves public recognition** (v.31 insists on the gates). And that **charm and beauty are not neutral but actively false** — *šeqer*, the false-witness word (v.30).
+**Stage 2 — worldview, then behaviour.**
 
-*Behaviour — stop.* Stop valuing what v.30 calls deceptive. Stop leaving competence unremarked: the poem treats silent appreciation as a failure, since its one command is to *say* something.
+*How it tells us to think.*
+- That **a life is the proper unit of evidence for wisdom.** Not a saying, not a test, not a self-assessment — a life, observed over "all the days of her life" (31:12) `[T]`.
+- That **the verdict comes from outside and in public.** 27:2's rule, kept (headline 3), and the venue is the gate.
+- That **what looks ordinary is what is being praised.** Wool, flax, bread, a field, a lamp, a spindle. **The poem never says any of it is extraordinary; it says at 31:29 that she surpassed, and at 31:30 why it counts.**
+- That **charm and beauty are not condemned but *discounted*** — שֶׁקֶר and הֶבֶל are words about reliability and duration, not about wickedness `[T]`.
 
-*Behaviour — start.* Say it (vv.28–29 model the words). Pay it (v.31's "give her of the fruit of her hands" is remuneration language, not applause). Look for it — in a spouse, in colleagues, in a congregation — since the book's whole education has been training the eye that can spot it.
+*What to stop.*
+- Valuing what 31:30 says has no shelf-life.
+- Waiting for people to claim their own worth before you credit it — 27:2 forbids the claim, so somebody else has to speak.
+- Eating לֶחֶם עַצְלוּת (31:27).
 
-*Motivation.* Not "because she has earned it," though she has. The poem grounds its praise in v.30: she fears the LORD. And the reason a Christian can praise another's competence without envy is that his own standing does not depend on his own — "Christ Jesus, who became to us **wisdom** from God, righteousness and sanctification and redemption" (1 Cor 1:30). Application that stops at "notice and thank people" is good manners; the passage grounds it in the fear of the LORD.
+*What to start.*
+- **Saying it out loud, in public.** The husband speaks at 31:29 and the poem records what he said. *That is the one imitable act in the passage.*
+- **Paying people what their work is worth** (31:31) — the poem's only command, and it is economic.
+- Opening your hand to the עָנִי and the אֶבְיוֹן (31:20) — the two words absent from the whole of 25:1–29:27 and present here, at 30:14 and 31:9 `[T]`.
+
+*The motive.* The poem supplies it at 31:30 and it is the book's motto: **יִרְאַת־יְהוָה.** For a Christian congregation the motive under 31:31 is that **the verdict a life deserves has already been secured for those who could not earn it**, which is why crediting other people's work costs nothing — a hearer who knows his own standing is not competing.
 
 **Four audiences.**
+- *For me:* whose work have I been receiving without ever saying so?
+- *For a Christian friend:* 31:30 is the most useful verse in Scripture for anyone whose sense of worth is tied to appearance or to being useful.
+- *For the church together:* 31:31 is a command about money and public recognition, and a congregation can obey it this week.
+- *For an unbeliever:* the poem shows a life that is worth something and tells you what made it so — and it is not the things the culture prices.
 
-- **For me.** Whose work do I benefit from and never name? The husband in this poem does one useful thing in twenty-two verses, and it is to speak (v.28).
-- **For a Christian friend.** Anyone whose labour is invisible — and specifically anyone who has been handed this passage as a standard and found it crushing. The Ruth link is the pastoral remedy.
-- **For the church.** A congregation runs on unpaid, unseen competence. Verse 31 is a command about that, and it is addressed to the community in the gates, not to the household.
-- **For the unbeliever.** The claim of v.30 is testable against experience: charm and beauty do not hold, and something else does. Most people over forty already suspect this.
-
-**Prayer in response.** Thanks for a book that ends not with a rule but with a person. Confession of praise withheld, and of valuing what v.30 calls false. Petition for the eye to recognise wisdom, and for the courage to say so out loud — and thanks for the Wisdom of God who was found by those who were not looking.
-
-**Hand-off note:** this section feeds Purpose Statement work in `/point-purpose`. The candidate FCF is recorded under Original Audience Reception.
+**Prayer in response.** For eyes that discount what 31:30 discounts; for the courage to say out loud what the husband says at 31:29; for hands that open to the needy; and thanks that the verdict a Christian most needs has been spoken already, by someone with the right to speak it.
 
 ---
+
 ## Extensions
 
 ### Original Language Observations
 
-#### Key terms
+**The acrostic, and how it was verified.** Each verse's first consonant was extracted after NFD-stripping and compared with the expected letter; all twenty-two match in sequence `[T]`. *This is worth stating because the claim is the kind that gets repeated from commentaries without checking, and because the Greek's transposition of 31:25/26 (Tool 8) shows that the order is not beyond question in every tradition.*
 
-| Term | Form | Range | Usage here | Confidence |
-|---|---|---|---|---|
-| *ḥayil* | noun, vv.10, 29 (and v.3 per Ansberry) | strength, competence, efficiency, wealth, social standing, military heroism, moral substance, mental capacity | The crux-word; in the three woman-texts the sense is **comprehensive excellence**, not martial prowess | High on range; high on the woman-text sense `[S]` |
-| *zāmĕmâ* | Qal pf. 3fs, √*zmm*, v.16 | purpose, propose to oneself; plot, devise `[S: Gesenius]` | "She schemes a field and takes it"; root of *mĕzimmâ*, positive in the frame (1:4; 2:11; 3:21; 5:2; 8:12), negative in the collections (12:2; 14:17; 24:8) | High on root and distribution; moderate on the design |
-| *šālāl* | noun, v.11 | plunder, spoil taken in war | ESV "gain"; KJV "spoil" | Moderate–high |
-| *ṭerep* | noun, v.15 | prey, torn flesh (Ps 104:21; Amos 3:4) | ESV "food"; **predatory sense withdrawn** — no source found treating the word here | Uncertain `[S]` |
-| *nĕʿārōtêhā* | noun pl. + suff., v.15 | young women, female servants | Same noun as Wisdom's staff, 9:3 | Moderate–high |
-| *marbaddîm* | noun pl., v.22 | coverlets, bed coverings | Only other Proverbs occurrence: 7:16, the seductress's couch | Moderate–high `[S]` |
-| *ḥāgĕrâ … motneyhā* | Qal pf. + noun, v.17 | "she girds her loins" | Idiom for readiness to work or fight (1 Kgs 18:46; 2 Kgs 4:29; Job 38:3) | High |
-| *tôrat-ḥesed* | construct, v.26 | instruction of covenant-kindness | She has a *tôrâ*, as the mother did (1:8; 6:20) | High |
-| *šeqer* | noun, v.30 | falsehood, a lie; the false-witness word (12:17; 14:5; 19:5) | Charm *bears false witness* | Moderate–high |
-| *hebel* | noun, v.30 | vapour, breath, futility | Rare in Proverbs (13:11; 21:6; 31:30); the Qoheleth keyword | Moderate |
-| *pîhā pātĕḥâ* | noun + Qal pf., v.26 | "she opens her mouth" | Same verb+noun as the mother's *pĕtaḥ pîkā*, 31:8, 9 | High |
-| *tĕnû* | Qal impv. 2mp, v.31 | give | The poem's only imperative | High |
+**The word the acrostic forced, and the word it did not.** Some vocabulary is letter-driven: **צוֹפִיָּה** (31:27, tsade), **סָדִין** (31:24, samekh), **זָמְמָה** (31:16, zayin) `[T]`. *A finding resting on such a word is weaker.* **But the poem's two most important lexical links are not letter-forced**: מִפְּנִינִים at 31:10 sits in the **second** colon, and תּוֹרַת־חֶסֶד at 31:26 in the second colon of a verse whose acrostic letter is carried by פִּיהָ `[T]`. **The acrostic required *pe*; it did not require "the teaching of covenant-kindness".**
 
-#### Grammatical and syntactical features
+**A near-name.** צוֹפִיָּה (31:27) has the form of a feminine participle of צפה, and the *-iyyah* ending makes it look like a theophoric name (compare צְפַנְיָה, Zephaniah). **It is not a name** — it is the participle, and the verb stands in only one other verse of Proverbs, 15:3, of the eyes of YHWH `[T]`. *Reported because the resemblance is real and a preacher may notice it; no claim is made on it.* `[I]`, low.
 
-- **The acrostic.** Twenty-two verses, one per letter, in sequence, complete. `[T]` *High; the letter-by-letter mapping in Tool 3 is confirmed against BHS (user, 9 August 2026).* Unlike Psalm 145 (which lacks a nun line in the MT) and the variously ordered acrostics of Lamentations, this one has no gap and no transposition.
-- **Verbal aspect.** The body of the poem is dominated by **perfects and participles** — habitual, characterising description rather than sequential narrative. There are a handful of *wayyiqtol* forms (e.g. *wattāqom*, v.15; *wattiqqāḥēhû*, v.16) which give short bursts of sequence inside otherwise static description. `[I]` *Moderate; a grammar check would sharpen this.*
-- **One imperative in twenty-two verses**, at the very end (*tĕnû*, v.31), and one further volitive in the second colon (*wîhalĕlûhā*, "and let her works praise her"). `[T]` *High.*
-- **No second-person address until v.31.** The poem speaks *about* her for twenty-one verses and then turns to the reader. `[T]` *High.*
-- **The subject is overwhelmingly singular feminine.** Roughly twenty finite verbs take her as subject; the husband is subject of three (trusts, is known/sits, praises), the children of two (rise, call blessed). `[T]` *Moderate–high on the exact counts.*
+**Sound, once.** 31:2's three *bar*-phrases were sermon 8's; this poem's one place where sound carries is **31:30**: שֶׁקֶר הַחֵן וְהֶבֶל הַיֹּפִי (*šeqer haḥēn wĕhebel hayyōpî*) — two predicate-first nominal clauses with matching definite articles and a *he*-alliteration running הַחֵן / הֶבֶל / הַיֹּפִי / הִיא `[T]`. **The verse sounds like a dismissal before it means one.**
 
-#### Wordplay, repetition and sound-features in the original
+**Two ketiv forms, and one elsewhere that matters more.** In the poem: **31:16 נטע** (qere נָטְעָה) and **31:18 בליל** (qere בַלַּיְלָה) `[T]`, WLC, maqqef-split detection; *BHS* documents both (apparatus 31:16ᵃ, 31:18ᵃ) `[S: BHS]`. Neither affects sense. **But the poem's key chain runs through a ketiv elsewhere: 3:15's מפניים** — the defective, unpointed form of פְּנִינִים `[T]`. **A plene search for the chain misses 3:15, which is one of the two Wisdom verses the poem is echoing.** `[unchecked — apparatus spread]` on the ketiv distribution itself.
 
-- ***ḥayil* inclusio** — v.10 and v.29 (and v.3, per Ansberry), bracketing the poem with the valour-word. `[T]`/`[S]` *Moderate–high.*
-- ***yrʾ* used both ways** — *lōʾ-tîrāʾ* (v.21, "she is not afraid") and *yirʾat YHWH* (v.30). The same root negated of circumstance and affirmed of God. `[T]` *Moderate–high.*
-- ***hll* hammered** — three occurrences of the praise-root in the last four verses (vv.28, 30, 31), plus *ʾšr* ("call blessed," v.28). `[T]` *Moderate–high.*
-- **The *zmm* link to 1:4.** A single-occurrence root here, so the three-or-more repetition trigger does not fire; the claim rests on the book's own patterned use of *mĕzimmâ* — now confirmed to split positive/negative along the frame/collections seam `[S]` — which is exactly the kind of support the hard rules in `original-languages.md` require before flagging a root-link. Capped at *moderate–high* and routed to Recommended verification. `[I]`
-- **No consonant-reversal or taxonomy-activation claims are made.** Neither device is triggered here.
-
-#### Recommended verification
-
-- *ṭerep* at v.15 — the lexeme identification itself remains unconfirmed; the predatory-sense claim is withdrawn (see Tool 7c).
-- ~~The *ḥayil* occurrence at 31:3 — Ansberry's claim; if correct it materially strengthens the unit's link to vv.1–9.~~ **Confirmed 15 August.** It is *ḥayil*. The link to vv.1–9 is lexical, and the Positional Necessity argument is correspondingly stronger.
-- ~~**New, arising from the 15 August checks:** the construct phrase *yirʾat YHWH* was returned for fourteen verses in Proverbs, and **31:30 was not among them**… Worth re-running as a lemma search rather than a phrase search.~~
-  **Settled 17 August. The lemma search confirms it: 31:30 does contain the phrase.** A search on the lemma *yārēʾ* together with YHWH returns two verses in Proverbs — **14:2 and 31:30** — which are precisely the two the earlier bare-string search could not see. The omission was a search artefact, as suspected.
-
-> ### The 1:7 ∥ 31:30 inclusio is lexical, not merely thematic
->
-> This is the most consequential confirmation of the whole checking process, and it upgrades a finding this report has carried at *moderate* since the first draft.
->
-> Proverbs 1:7 opens *yirʾat YHWH*. Proverbs 31:30 reads *ʾiššâ yirʾat-YHWH*. **The words on the page are identical** — whether one parses *yirʾat* at 31:30 as the noun in construct ("a woman of the fear of YHWH") or as the feminine adjective in construct ("a woman fearing YHWH"), and the lexica are divided on that, the *form* is the same in both verses.
->
-> So the book does not merely end on the same *theme* as it began. **It ends on the same two words.** The motto is stated in the seventh verse of the book and lands, in its own form, in the penultimate verse of the last poem — on a named, working, particular woman who is praised in the gates for having it.
->
-> `[T]` **High.** Confirmed by lemma search, 17 August.
->
-> **What this does to the poem's reading.** The rhetorical question of v.10 — "an *ʾēšet ḥayil*, who can find?" — is answered in v.30 not by a list of competencies but by the book's own opening word. The search that Proverbs 1:7 sets going ends here. That is a considerably stronger claim than "the theme recurs", and it can now be preached as fact rather than offered as an impression.
-- Whether any commentator connects 31:16 to 1:4. Checked 9 August 2026: **none found.** The lexical foundation is now sourced; the design claim remains the report's own.
-- ~~The distribution counts: *ʾēšet ḥayil* (3× in the Hebrew Bible), "hands" (8× in this poem), *hebel* in Proverbs (3×).~~ **Resolved 15 August.** *ʾĒšet ḥayil* 3× (Prov 12:4; 31:10; Ruth 3:11) — confirmed. *Hebel* in Proverbs 3× (13:11; 21:6; 31:30) — confirmed. "Hands" **7×, not 8** — corrected above.
-- LXX *gynaika andreian* at v.10, in NETS.
-
----
+**A search failure worth recording, because it is a new one.** A whole-corpus search for סָדִין (31:24) returned **one** hit; a search for סדינ returned **three**, not including Prov 31:24. **Both controls passed and both counts were wrong.** The cause: **Hebrew final-form letters (ך ם ן ף ץ) are distinct Unicode code points from their medial forms**, so `סדין` (final nun) matches only a word-final occurrence and `סדינ` (medial nun) matches only the plural. Folding the final forms in the text gives the true count — **four: Judg 14:12, 14:13, Isa 3:23, Prov 31:24** `[T]`. **And the fold must be applied to the *pattern* as well as to the text**: a first attempt folded only the text, so a pattern ending in ם failed against a corpus in which every ם had become מ, and the control failed. *Both halves of this are new to the gate; see Open Questions.*
 
 ### Textual Variants
 
-**No significant variant affects the Hebrew of Proverbs 31:10–31.** The Masoretic text of the poem is stable, the acrostic itself acts as a control against omission or transposition (a missing line would be visible as a missing letter), and ESV, NASB and KJV are rendering the same consonantal text throughout. `[T]` *High.*
+Category 2 only. Evidence and assessments under Tool 8.
 
-**Category 2 (substantive variant): none in this passage.**
+| Verse | Variant | Witnesses | Position | Confidence |
+|---|---|---|---|---|
+| **31:25 / 31:26** | 𝔊 transposes them — **פ before ע**, the acrostic order of **Lam 2–4** | 𝔊 (Swete 29:43–44); *BHS* 31:25ᵃ | **MT**, as the standard sequence — but the variant is *about the alphabet* and is the most interesting in the poem | Moderate |
+| **31:30** | MT אִשָּׁה יִרְאַת־יְהוָה ‖ 𝔊 γυνὴ συνετή ("an understanding woman"), with "let her praise the fear of the Lord" appended | 𝔊; *BHS* 31:30^{a–a} = נְבוֹנָה | **MT**; it closes the book on its own motto and is the harder reading | Moderate-high |
+| **31:31** | MT "let **her works** praise **her** in the gates" ‖ 𝔊 "let **her husband** be praised in the gates"; and MT יָדֶיהָ ‖ 𝔊 χειλέων ("lips") | 𝔊 (Swete 29:49) | **MT**; the Greek assimilates to 31:23 and the MT's reading is what the poem's argument requires | Moderate-high |
+| **31:28** | MT וַיְאַשְּׁרוּהָ ("call her blessed") ‖ 𝔊 ἐπλούτησαν ("became rich") — reading עשׁר for אשׁר | 𝔊 | **MT**; אשׁר piel is 3:18's verb and the poem is about a verdict | Moderate-high |
+| **31:21** | MT שָׁנִים ‖ some Mss 𝔖 𝔗 שָׁנִי ("scarlet") ‖ 𝔊 δισσάς ("double") = שְׁנַיִם | *BHS* 31:21ᵃ | **Undecided**; sense unaffected. Do not preach the colour | — |
+| **31:16, 31:18** | Ketiv/qere: נטע / נָטְעָה; בליל / בַלַּיְלָה | *BHS* 31:16ᵃ, 31:18ᵃ | Orthographic | — |
+| **31:11, 31:15, 31:17** | 𝔊 pluses and a proposed gloss (*BHS* 31:11ᵃ, 15^{b–b}, 17ᵃ) | 𝔊; *BHS* | Minor | — |
 
-**What belongs elsewhere under the Three-Way Triage.** The LXX's *gynaika andreian* at v.10 is **category 1** — an interpretive rendering of an ambiguous Hebrew noun, reported under Tool 8, not a manuscript variant. The martial echoes of *šālāl* (v.11) and "girds her loins" (v.17) that the modern English versions smooth are likewise category 1 translation loss, reported under Tools 7 and 8. **No category 3 case arises**: the New Testament nowhere quotes Proverbs 31:10–31.
-
-One book-level note carries over: Greek Proverbs arranges the final collections differently from the Hebrew, and in the LXX ordering 31:10–31 still stands last. `[S]` *Moderate; verify in NETS.* Nothing in this report depends on it.
-
----
+Apparatus citations from the Logos export of *BHS* (Weil/Elliger/Rudolph, 5th rev. edn, 1997). The Greek is **Swete** — diplomatic, Vaticanus-based, **not** Rahlfs-Hanhart. **The 31:25/26 transposition is the one entry here that would most repay a Rahlfs and a Göttingen check** before it enters a sermon or the book overview.
 
 ### Historical and Cultural Background
 
-**Setting.**
+**The poem is unusually specific and the specificity is domestic-economic rather than cultic or civic.** What it assumes, with the warrant marked:
 
-- **Time period.** The book's own frame is the monarchy; the poem's economy is agrarian and mercantile, with household textile production, land transactions, and long-distance trade.
-- **Location.** A town with a gate; a household with servants and an estate.
-- **Political context.** The immediately preceding unit is addressed to a king, which colours the poem's status markers.
+- **A household that is a production unit.** Wool and flax worked at home (31:13, 19), garments made and **sold** (31:24), a field bought and a vineyard planted from her own earnings (31:16) `[T]`. **The one thing the text says about the money is that it is hers** — מִפְּרִי כַפֶּיהָ ("from the fruit of her palms") `[T]`. *That she had independent legal capacity to buy land is an inference, and a contested one* `[I]`, moderate.
+- **Trade at a distance.** כָּאֳנִיּוֹת סוֹחֵר ("like merchant ships", 31:14) and מִמֶּרְחָק ("from afar") `[T]`; and she sells to the כְּנַעֲנִי (31:24), the trader `[T]`.
+- **Imported and expensive cloth.** שֵׁשׁ ("fine linen") and אַרְגָּמָן ("purple", 31:22) `[T]` — purple being the costly dye. *Whether the household is wealthy or merely comfortable is not stated and is usually over-read* `[I]`.
+- **The gate as court and council.** 31:23's זִקְנֵי־אָרֶץ ("elders of the land") sitting in the gate `[T]`. **This is the one civic datum, and it is about the husband, not her.**
+- **Servants.** נַעֲרֹתֶיהָ ("her young women", 31:15) `[T]`.
 
-**What the original audience knew that we do not.**
-
-1. **The household was a unit of production, not of consumption.** Spinning and weaving were the principal domestic industries and a major source of household wealth. `[S]` *High.* Verses 13, 19, 22 and 24 describe an integrated operation: raw materials in, finished goods out, sold to merchants. A modern reader hears "she sews"; the first hearers heard a business.
-2. **Scarlet (*šānîm*, v.21) and purple (*ʾargāmān*, v.22) were luxury dyes.** Purple in particular was a prestige commodity associated with royalty; scarlet appears in mourning for Saul as the mark of what he had given the daughters of Israel (2 Sam 1:24) and in Jer 4:30 as a marker of finery. `[S: Ansberry]` *Moderate–high.* Verse 21's point is therefore not that the children have warm coats but that the household is wealthy.
-3. **"Fine linen" (*šēš*, v.22)** is the fabric of priestly and royal dress. Combined with purple, the two nouns are tabernacle vocabulary (Exod 26:1; 28:5–6). `[I]` *Moderate; the overlap is real, whether or not it is being invoked.*
-4. **A woman buying a field (v.16) is doing something legally notable.** Land ordinarily passed by inheritance within the male line; the boundary-stone laws Proverbs cites twice (22:28; 23:10) protect exactly that system. `[I]` *Moderate–high.* The verse does not say she does it with permission or on her husband's behalf.
-5. **The city gate (vv.23, 31)** was the court and the civic square, where legal cases were heard and reputations made. `[T]`/`[S]` *High.* "Her works praise her in the gates" is public vindication in the place where judgments are given — the same place where the mother told the king to judge righteously (31:9), and where 22:22 forbids crushing the afflicted.
-6. **"She laughs at the time to come" (v.25)** is a claim about economic security in a world without insurance, pensions, or a welfare system. Old age and widowhood were the standing terrors. `[I]` *Moderate–high.*
-
-**What this changes about how we read.** Two things. The status markers are not incidental colour — the poem is describing an aristocratic household, which is Ansberry's central point about the book as a whole `[S]`, and which explains why the inventory is so extensive. And v.16 and v.24 are commercial verses; a reading that reduces the poem to domestic diligence has quietly deleted the half of it that happens in the marketplace.
-
-**Confidence note.** General background well attested; specific claims about dye value and land law are *moderate* and would be sharpened by a background commentary or Ansberry's ch. 6.
-
----
+**What the background does *not* supply, and a sermon should not import.** The poem says nothing about her age, her education, her legal standing, whether she is one woman or a composite, or whether any reader was expected to match her. **Every one of those is reconstruction** `[S]`, and the commonest error in preaching this passage is to supply a social world and then measure a congregation against it.
 
 ### Original Audience Reception
 
-**Canonical audience.**
+**Who they were.** The book has addressed one figure for thirty chapters: בְּנִי, a young man at the point of leaving supervision `[S: overview]`, `[T]` on the vocative's twenty-two occurrences, of which **the last is 27:11** `[T]`. **He is not addressed here at all** — the poem's only address is the plural תְּנוּ־לָהּ of 31:31 `[T]`.
 
-- **Canonical section:** the **Writings**, read post-Torah and post-Prophets, with a post-exilic horizon.
-- **What the canonical reader knows** bearing on this poem: the two women of Proverbs 1–9; Ruth, called *ʾēšet ḥayil* by Boaz; Deuteronomy's open hand (15:7–8) and its "what does the LORD require… but to fear the LORD" (10:12); the acrostic tradition of Psalms 111, 112, 119, 145 and Lamentations; and Solomon's own ruin by way of women (1 Kgs 11), which the mother has just alluded to at 31:3.
-- **Canonical register.** Job, Psalms, Proverbs, Ruth and Ecclesiastes are neighbours. The *hebel* of v.30 and the *ʾēšet ḥayil* of v.10 are both reaching sideways within that neighbourhood.
+**What they brought.** A promise of wisdom (1:2–6); a motto (1:7); two women, one calling in the street and one waiting in the dark (chs 1–9); a prohibition against self-assessment (3:7) and nine case studies of men who ignored it; an unanswered question (20:9); a collection with the divine name nearly withheld (25–29); and a sage who said he never learned wisdom (30:2–3).
 
-**The first hearers.**
+**What would have surprised them.**
+- **That the book ends with a woman and no instruction to the son.** After 1:8's שְׁמַע בְּנִי, twenty-two verses in which nobody is told anything until the last line `[T]`.
+- **That the vocabulary is Wisdom's.** A reader who knows chs 1–9 by heart hears מִפְּנִינִים, שַׁעַר, שׂחק and תמך and knows where he has heard them `[T]`.
+- **That the word for the gang's plunder turns up in the second verse** (1:13 → 31:11) `[T]`.
+- **That the poem does not end on her virtue but on a bill.** תְּנוּ־לָהּ `[T]`.
 
-- **Who they were:** covenant Israelites in a household-based economy, formed by Torah, in a culture where a woman's public reputation was largely mediated through her husband and her sons.
-- **Their situation:** a book of instruction reaching its end, having promised at 1:2–6 to produce a comprehensively competent person.
-- **What they brought:** the assumption that heroic poetry celebrates men at war (Judg 5 being the notable exception), and that the "worth" of a wife was a matter of dowry, fertility, and beauty.
+**What would have comforted them.** 31:30. **In a book that has spent thirty chapters saying wisdom cannot be self-certified, the last verse but one says what the certification actually is, and it is available to anyone who fears the LORD** `[T]`.
 
-**Where the passage fits their world, and what would have struck them.**
+**What we bring that they did not.** Ruth read as the next book; Ecclesiastes' report that he looked and did not find (Eccl 7:28); and 1 Pet 3:3–4 and 1 Tim 2:9–10 making the same argument as 31:30.
 
-*The genre-substitution is the shock.* A heroic panegyric — the form in which Israel celebrated Deborah, sang "Saul has struck down his thousands," and lamented Saul and Jonathan — is here applied to a woman buying land and running a textile business. `[S: Ansberry]` *Moderate–high.* The first hearers knew the form and would have heard what it was being used for.
-
-*The valuation is the correction.* Verse 30 dismisses the two criteria by which women were conventionally valued, and it does so with *šeqer* — not "less important" but **false**. `[T]` *High.*
-
-*The commercial autonomy is the surprise.* She buys, sells, plants, imports, and profits, and no verse says she does so under instruction.
-
-*The comfort is v.31.* Her works praise her **in the gates** — the public space her husband occupies at v.23. The poem does not leave her recognition inside the house.
-
-**What we bring that they did not.**
-
-- **The productivity frame.** We read the inventory as a to-do list because we live by them; they read it as a portrait of capability.
-- **The nuclear household.** Verses 15 and 21 assume servants and an extended household; a modern reader silently transposes the work onto one woman.
-- **Suspicion of the domestic.** A modern hearer may resent the poem for confining a woman to the home — while the poem in fact has her in the field, the market, and the gate.
-- **Individualism.** We read v.31 as a compliment; they heard a civic verdict.
-
-**Candidate Fallen Condition Focus (shared concern).**
-
-*We do not recognise wisdom when we are looking at it, and we do not say so when we do.* `[T]`/`[I]`
-
-Anchored in the text: the poem opens with a question about *finding* (v.10) — the book's own search-verb, used of Wisdom at 3:13 and 8:35; it dismisses the criteria by which people actually assess worth (v.30, *šeqer*); and its single imperative is to give recognition publicly (v.31). The failure the poem addresses is not the woman's; it is the observer's.
-
-We share this fully with the first hearers. What differs this side of the resurrection is that the Wisdom of God appeared in a form that was systematically not recognised — "he had no form or majesty that we should look at him" (Isa 53:2) — and that the eye trained by this book is finally trained to see him.
-
----
+**Candidate Fallen Condition Focus** *(feeds `/point-purpose`)*. Anchored and shared: **we assess people by what can be seen quickly, and we are slow to say out loud what somebody's life is worth — including when the somebody is us, and the verdict we are waiting for is one we cannot give ourselves.** Anchors: 31:30's שֶׁקֶר/הֶבֶל; 27:2's rule and its keeping at 31:28–31; the book-long self-assessment thread ending at 30:12; 31:31's imperative. *Secondary candidate, for a sermon that takes the measuring problem head-on:* **we turn a portrait into a standard, and then use it on each other.**
 
 ### Biblical-Theological Themes
 
-Two themes are selected; both pass the textual-signal test and both change how the passage is preached.
+**1. Wisdom personified, and then embodied.** The canonical field: Prov 1:20–33; 3:13–20; 8:1–36; 9:1–6 — Wisdom as a woman who calls, builds, and was present at creation `[T]`. **This poem uses her vocabulary of a woman with a husband and a spindle** (Tool 7a). Forward: Job 28; Sir 24 `[S]`; and the New Testament's identification of **Christ** as σοφία θεοῦ (1 Cor 1:24, 30) and as the one ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι (Col 2:3) `[T]`, SBLGNT. **The trajectory runs abstraction → life → person, and the poem is the middle term.** *Moderate-to-high confidence on the trajectory; the identification of the woman with Wisdom is **not** made (Tool 7a).*
 
-#### Theme 1 — Wisdom
+**2. The fear of the LORD as the book's frame.** 1:7; 9:10; **31:30** `[T]`. **The book opens, hinges and closes on it** — and this run adds that the closing instance uses the **adjective** (יָרֵא, four verses) rather than the **noun** (יִרְאָה, fourteen verses, none in this unit) `[T]`. *The motto's last appearance is predicated of a person rather than named as a thing.* Forward to Acts 9:31; 2 Cor 7:1; Rev 14:7.
 
-- **Where this passage sits:** at the terminus of the canon's fullest wisdom collection, where wisdom stops being described and is shown.
-- **What comes before.** Eden, where wisdom was sought on the wrong terms (Gen 3:6). Deuteronomy 4:6, where wisdom is Torah-keeping visible to the nations. Solomon, who received it and lost it. Job 28, where the search fails and ends in the fear of the Lord. Then, inside Proverbs: wisdom personified and calling (1:20–33; 8; 9:1–6), valued above jewels (3:15; 8:11), and found by those who seek (8:17, 35).
-- **What comes after.** Ecclesiastes presses wisdom's limits with the very word this poem uses of beauty — *hebel*. Then the New Testament identifies wisdom with a person: "greater than Solomon" (Matt 12:42), "Christ the power of God and the **wisdom of God**" (1 Cor 1:24), "who became to us wisdom from God" (1:30), "in whom are hidden all the treasures of wisdom and knowledge" (Col 2:3).
-- **What this contributes.** The poem completes the book's argument by answering its own question in kind. Wisdom, which the book has praised as more precious than jewels (3:15; 8:11), is now *a life* more precious than jewels (31:10) — the same formula, transferred from the abstraction to the embodiment. `[T]` *High.* And the transfer is the theme's own logic: wisdom that never becomes a life has not been understood.
-- **Confidence:** high.
-
-#### Theme 2 — The image of God / vocation and dominion
-
-- **Where this passage sits:** as the Old Testament's fullest single portrait of a human being exercising competent, productive, generous dominion over a domain.
-- **What comes before.** Genesis 1:26–28: humanity made in God's image and commissioned to subdue and have dominion. Genesis 2:15: to work and keep the garden. The fall, which makes work thorny (3:17–19) but does not cancel the commission.
-- **What comes after.** The New Testament's dignifying of ordinary labour (Col 3:23; 1 Thess 4:11), and the new creation in which the nations bring their glory in (Rev 21:24–26).
-- **What this contributes.** It supplies the reason the inventory is *there*. Twenty verses of wool, ships, fields, vineyards, spindles and sashes are not filler before the theological punchline at v.30; they are the content of what fearing the LORD looks like when a competent person is let loose on a domain. `[I]` *Moderate–high.* This is also the corrective to the sermon that races to v.30 and treats vv.13–24 as scenery.
-- **Confidence:** moderate–high. Flagged as **canonical reflection** rather than textual claim: the poem does not cite Genesis 1, and the theme is being brought to it. Included because it passes the purpose test (it serves what the passage is doing) and the payoff test (it changes the sermon).
-
-#### Confluence
-
-The two themes relate by **(c) climactic convergence**. Proverbs has run two lines in parallel for thirty-one chapters — wisdom as the thing to be sought, and competent life in the world as the thing wisdom is *for*. They meet here, in one person, and the meeting is the point: the fear of the LORD (v.30) and the vineyard (v.16) are not two subjects but one. Naming the relation matters because a sermon that keeps them separate will either moralise the inventory or spiritualise the climax.
-
----
+**3. Work, worth and the open hand.** 31:13–27 is the longest sustained treatment of labour in Proverbs, and its hinge is 31:20, where the working hands turn to the עָנִי and the אֶבְיוֹן `[T]`. The field: Deut 15:7–11; Isa 58:7; and forward to Eph 4:28 — ἐργαζόμενος … ἵνα ἔχῃ μεταδιδόναι τῷ χρείαν ἔχοντι ("working … so that he may have something to share with the one in need") `[T]`, SBLGNT. **Eph 4:28 is Prov 31:13–20's argument in one sentence: work, in order to give.** *Moderate-to-high.*
 
 ### Schnittjer Pass
 
-**N/A** — Proverbs is not in the Torah.
-
----
+**N/A** — not in the Torah.
 
 ### Christological Reading
 
-#### Type of Christological connection
+**Category: trajectory and contrast. No prophecy, no typology, no Christophany — and the honest work here is mostly negative, which is why it matters.**
 
-**Trajectory**, primarily — with a legitimate secondary **contrast**, and an explicit rejection of typology.
+**1. What must not be said.** The poem is not a picture of Christ, and the woman is not a type of the church. **Both readings have a long history and neither is licensed by the text**, which presents a woman with a household and marks nothing as figurative `[T]`. *A sermon that allegorises the spindle has lost the argument before it starts.*
 
-Running the four tests on the strongest typological candidate, *the ʾēšet ḥayil as a type of Christ*:
+**2. The trajectory that is licensed, and it is the book's own.** The poem's diction is **personified Wisdom's** (Tool 7a, five verified chains). Proverbs has therefore done this: it personified wisdom as a woman (chs 1–9), spent twenty-one chapters on sentences, and then **showed the personification as a life**. **The New Testament completes the movement by identifying wisdom not as a quality or a life but as a person — ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ θεοῦ (1 Cor 1:30)** `[T]`, SBLGNT. *Moderate-to-high confidence as a canonical trajectory; the step from the poem to 1 Cor 1:30 is a reading and is not a citation.*
 
-1. **Theological-category test — fails.** There is no established canonical category ("the valiant wife") through which the connection could run. The categories available in the poem are wisdom and marriage, and neither makes *her* the type of Christ.
-2. **NT-precedent test — fails.** The New Testament never cites or alludes to this passage.
-3. **Escalation test — not applicable**, since there is no type to escalate.
-4. **Authorial-pattern test — fails.** Nothing in the poem raises an unresolved expectation that a later figure fulfils.
+**3. The contrast, and it is where the gospel enters.** The book has asked twice who can be found: **20:6** (a man of proclaimed חֶסֶד) and **31:10** (an אֵשֶׁת־חַיִל) `[T]`. It has also asked **20:9** — who can say *I have cleansed my heart* — and never answered it `[T]`. **Ecclesiastes, two books along, reports the search and its failure: "a woman among all these I have not found" (Eccl 7:28)** `[T]`. *The poem's question is therefore left open by the canon at the very point the poem seems to close it* — Proverbs shows one, Ecclesiastes says he could not find one, and the reader is between them.
 
-**Score: none of four. Typology is not available here, and any sermon that makes her a Christ-figure is allegorising.** `[I]` *High confidence in the negative verdict.* This matters, because "she is a picture of Christ's love for the church" is a not-uncommon move on this text and it has no warrant at all.
+**Where Christ stands in that gap.** Not as the woman, and not as her husband. **As the one who both answers 20:9 and does what 31:31 commands.** He is the only one in Scripture who can say what 20:9 asks and the only one with the standing to give a final verdict on a life — and **the verdict he gives is the one 31:28–31 dramatises**: εὖ, δοῦλε ἀγαθὲ καὶ πιστέ ("well done, good and faithful servant", Matt 25:21) `[T]`, SBLGNT, spoken about work, in public, by someone else. *Moderate confidence as a connection; high that the shape matches.* **And the ground of it is not her record but his: the praise of 31:31 is earned, and the verdict a Christian waits for is not** (Rom 4:5; 1 Cor 4:5).
 
-Running the same tests on the connection that *does* hold, *the poem as the embodiment of the wisdom the New Testament identifies with Christ*:
+**Moralism check — and this unit carries the book's worst trap.** Book-level trap 2, *Proverbs 31 as a wife-template* `[S: overview]`. Three defences, and all three are text-first:
 
-1. **Category — passes.** Wisdom is an established canonical category and the poem is explicitly inside it (see Headline 1).
-2. **NT precedent — passes.** 1 Cor 1:24, 30; Col 2:3; Matt 12:42 apply wisdom language to Christ directly.
-3. **Escalation — passes.** "Greater than Solomon."
-4. **Authorial pattern — passes weakly.** The poem does raise an unresolved question (*mî yimṣāʾ*, v.10) using the book's own search-verb, and Proverbs elsewhere says that whoever finds Wisdom "obtains favour from the LORD" (8:35). The expectation is real; it is simply not messianic in the poem's own terms.
+- **The genre.** An acrostic is a completeness-claim, not a checklist (Tool 12).
+- **The grammar.** The poem issues no command to her and one to the audience (Tool 13).
+- **The vocabulary.** The words are Wisdom's, which means the subject is wisdom-embodied, not wifely performance (Tool 7a).
 
-**Score: three and a half of four → trajectory, strongly grounded, not typology.**
-
-#### How the passage points to Christ
-
-**1. Through the question, not the woman.** The poem opens *mî yimṣāʾ* — "who can find?" — with the verb the book uses of finding Wisdom (3:13; 8:17, 35) and of finding a wife (18:22), in a clause that says the identical thing about both: *obtains favour from the LORD*. `[T]` *High.* The book's last question is therefore its first question again. The New Testament answers it in a way Proverbs could not: the wisdom that was sought has been given, in a person, to people who were not searching.
-
-**2. Through the valuation.** "Far more precious than jewels" (v.10) is verbatim the formula used of Wisdom herself (3:15; 8:11). `[T]` *High.* The same sentence is said of Wisdom and of a life; Colossians 2:3 says it of Christ.
-
-**3. Through the contrast — and this is the honest, under-preached line.** The poem is a portrait of a life so competent, so generous, so publicly vindicated that the household rises and calls her blessed. Set it beside the one whose wisdom was complete and who was *not* recognised: "he had no form or majesty that we should look at him, and no beauty that we should desire him… he was despised, and we esteemed him not" (Isa 53:2–3). Proverbs 31 ends with wisdom praised in the gates. The gospels end with Wisdom crucified outside them. `[I]` *Moderate–high.* That contrast is not a denial of the poem; it is what stops the poem being read as a law of how the world reliably works — the same guard Job and Ecclesiastes provide for the whole book.
-
-**4. A trajectory available with care: the bride.** Marriage is a canonical category with explicit New Testament warrant (Eph 5:25–32; Rev 19:7–8), so a line from this poem to the church made ready is legitimate. *Moderate.* But keep it general. Do not decode the wool, the flax, the scarlet, or the spindle.
-
-#### Trajectory
-
-- **What the passage anticipates or longs for:** a wisdom that can actually be found, and a life in which it is fully realised and rightly recognised.
-- **What Christ fulfils:** he is the wisdom of God, given rather than found; and in him the recognition the poem demands is finally rendered — "God has highly exalted him" (Phil 2:9), which is the *tĕnû* of v.31 answered by the Father.
-- **What remains (already / not yet):** wisdom is still routinely unrecognised; the works of God's people are not yet praised in the gates. Verse 31 remains an unfulfilled imperative.
-
-#### Moralism check
-
-- **The "be like X" temptation.** Enormous, and specific: *be this competent, this industrious, this generous*. It is the default sermon on this text.
-- **Why the text forbids it.** The poem issues no command to become her. Its one imperative is to **praise** her (v.31). A sermon whose application is "be like her" has replaced the passage's imperative with one of its own.
-- **The gospel grounding.** Verse 30 grounds the entire portrait in the fear of the LORD, not in effort — and the book has already said that the LORD *gives* wisdom (2:6) and that no one can claim a pure heart (20:9). The competence displayed here is the fruit of a relation, not its price.
-- **Christ as hero, not example.** The hero of this passage is not the woman and not the reader. It is the wisdom of God, which the book has spent thirty-one chapters commending and which has since been given a name.
-
-#### Confidence
-
-*High* on the trajectory through the wisdom category (Headline 1 supplies its textual warrant). *Moderate–high* on the Isaiah 53 contrast, which is this report's own connection. *Moderate* on the bride trajectory. **Typology of the woman: rejected outright.**
-
----
+**And the positive statement that keeps the sermon from being merely a correction:** the poem is the book's demonstration that the thing it has been commending is **liveable** — and the reason a Christian can hear that without despair is that the verdict which makes a life count has already been spoken over him by someone else, which is exactly the structure 27:2 required and 31:28–31 performs.
 
 ### Difficult / Contested Verses
 
-**1. The passage as a whole, preached to women.** *(Category: pastoral landmine — the largest in the book.)* This text has been used to set a standard that crushes, and it will be heard by women who have been on the receiving end. Four correctives, all textual: the genre is encomium and its own last verse says *praise her*, not *become her*; the governing term denotes comprehensive capability rather than domestic decorum; the household assumed has servants and an estate, so the labour is not one woman's; and Ruth 3:11 supplies a canonical example who was a destitute foreign widow when the phrase was applied to her. Name the misuse aloud before preaching the poem, or the congregation will hear the misuse.
+**31:10 — "An excellent wife, who can find?"** The rendering of חַיִל is contested and the options are not equivalent: "excellent" (NASB95), "of noble character" (NIV84), "valiant/strong" (the word's ordinary military sense, and Swete's ἀνδρεία) `[T]`. **The word is the same one used of Boaz at Ruth 2:1 (גִּבּוֹר חַיִל) and of an army.** *The sermon should say so: the poem opens by applying a strength-word to a woman, and every English version softens it.*
 
-**2. "An excellent wife who can find?" (v.10)** *(Category: interpretive.)* Three readings are live: it praises her rarity; it suggests an unattainable ideal; or — Ansberry's reframing — it provokes the question *who is looking?* `[S]` *Moderate–high.* All three are defensible. Do not preach it as a lament about the shortage of good women, which is the one reading the context excludes (the poem is addressed to a son being taught to recognise wisdom).
+**31:11's שָׁלָל.** "Gain" (NASB95), "nothing of value" (NIV84) — the word is **plunder**, and it occurs in only three verses of Proverbs, one of them the gang's recruitment speech at 1:13 `[T]`. *Not a difficulty exactly; a flattening both versions perform.*
 
-**3. The husband in the gates (v.23)** *(Category: contested; a genuine flashpoint.)* Read as an endorsement of a division of labour, the verse invites either defence or embarrassment. Two observations that lower the temperature without evading it: the verse is one line of twenty-two, and it is the only thing said about his public standing; and the poem's *last* line puts **her** works in those same gates (v.31). The poem's own movement is from his reputation there to hers.
+**31:15's טֶרֶף.** "Food" in both versions; the word ordinarily means **prey, torn flesh** (compare Ps 111:5; Job 4:11) `[T]`. *Moderate confidence that the choice is deliberate; the poem's vocabulary is unusually physical throughout.*
 
-**4. Verse 30 and the beauty question** *(Category: pastoral.)* "Charm is deceitful, and beauty is vain" is not an ascetic dismissal of appearance — the same book celebrates a wife's body frankly (5:18–19) and the canonical neighbour Song of Songs at length. *Šeqer* concerns what they promise as a basis for valuation, not whether they exist or are enjoyable.
+**31:23 — is the husband praised for her?** The verse says נוֹדָע בַּשְּׁעָרִים בַּעְלָהּ ("her husband is known in the gates") and gives no reason `[T]`. **The Greek's ending (31:31) makes him the one praised; the Hebrew does not** (Tool 8). *A sermon should not fill the gap in either direction: the Hebrew states his position and attributes it to nobody.*
 
-**5. The servants (vv.15, 21–22)** *(Category: ethical/apologetic.)* The household includes *nĕʿārôt* who are fed and clothed by her. The poem neither commends nor critiques the arrangement; it describes a wealthy ancient household. Say so rather than letting a modern hearer assume the Bible is commending domestic service as such.
+**31:30 — "charm is deceitful and beauty is vain."** The pastoral landmine of the passage, and the corrective is lexical: **שֶׁקֶר and הֶבֶל are words about unreliability and transience, not about sin** `[T]`. הֶבֶל is Ecclesiastes' word for a breath `[T]`. **The verse discounts them; it does not condemn them, and it does not say they are bad to have.**
 
-**6. "She laughs at the time to come" (v.25)** *(Category: pastoral.)* Preached as a promise that the diligent need not fear the future, it becomes another proverb-as-guarantee. The line describes a settled confidence grounded — v.30 says — in the fear of the LORD, not in the balance sheet.
+**The whole passage, on Mother's Day.** Not a textual difficulty but the real one. See Preaching Pitfalls.
 
 ---
+
 ## Convergent Findings
 
-The full list of places where two or more tools independently arrived at the same point. (Headline Findings is the top five of these.)
+Where two or more tools reached the same place independently. The Headline Findings are drawn from this list; these are the full set.
 
-1. **The book says the same thing, in the same clause, about finding Wisdom and finding a wife — and this poem asks that question last.** Vocabulary · Quotation/Allusion (Move 4) · Structure · Author's Purpose · Christological Reading · Biblical Theology. Six tools converge, and the finding supplies the textual warrant for "wisdom embodied" that the overview asserted without one. *High.*
+**1. The poem is written in personified Wisdom's vocabulary, and the book never says so.** *Tools 7a, 10, 11 (Move 4), 15; Biblical-Theological Themes; Christological Reading.* Five verified chains — פְּנִינִים, שַׁעַר, שׂחק, אשׁר piel + תמך, מצא — every one of which touches chs 1–9 `[T]`. **The strongest convergence in the unit, and the one that decides how the passage is preached.**
 
-2. **The valuation formula is transferred verbatim from Wisdom to a life.** Vocabulary · Move 4 · Biblical Theology. "More precious than jewels" — 3:15; 8:11 of Wisdom; 31:10 of her. *High.*
+**2. The poem's single imperative is addressed to the reader, not to her.** *Tools 3, 13, 15, 16.* תְּנוּ־לָהּ (31:31), plural `[T]`. **Everything said about her is indicative.** *This is the grammatical answer to the wife-template reading and it costs nothing to state from the pulpit.*
 
-3. **The poem's one imperative is to praise, and it is the book's last word.** Structure · Linking Words · Genre · Copycat · So What · Who Am I. Six tools, and together they settle the passage's most common misuse from the grammar rather than from taste. *High.*
+**3. 27:2's rule is kept, and the poem is its demonstration.** *Tools 7, 10, 11 (Move 4), 16.* אַל־יְהַלֶּלְךָ פִּיךָ ("let not your own mouth praise you", 27:2) — and הלל stands in nine verses of the book, of which **three are 31:28, 30 and 31**, all of somebody else speaking `[T]`. *The poem does not merely obey the rule; it stages it.*
 
-4. **The poem exists here because it enacts the command of 31:8–9.** Positional Necessity · Vocabulary · Move 4 · Structure. *Pĕtaḥ pîkā* (vv.8, 9) → *pîhā pātĕḥâ* (v.26); and the *ʾebyôn* of v.9 reappears in v.20. *High.*
+**4. The book's motto closes the book, and in a new grammatical form.** *Tools 7, 10, 14; Biblical-Theological Themes.* 1:7 → 9:10 → **31:30** `[T]`; and the last instance uses the **adjective** יָרֵא predicated of a person rather than the noun יִרְאָה naming a thing `[T]`. **The frame closes by attaching the motto to a life.**
 
-5. **The acrostic is complete, and completeness is its argument — while also making the middle of the poem non-sequential.** Structure · Genre · Original Languages. The second half of that is the practically useful part: it tells the preacher not to look for logical progression in vv.13–24. *High; mapping confirmed against BHS.*
+**5. Seven of the book's chains make their last appearance here.** *Tools 7, 10, 14.* בטח (31:11), תּוֹרָה (31:26), חֶסֶד (31:26), הלל (31:31), מַעֲשֶׂה (31:31), הֶבֶל (31:30), יָרֵא (31:30) `[T]`. *The poem is not an appendix; it is where several threads are tied off.*
 
-6. **The verb of 1:4's promise is performed at the acrostic's zayin line — and in Proverbs the noun's two senses split along the book's own seam.** Vocabulary · Original Languages · Move 4 · Biblical Theology. *Mĕzimmâ* positive throughout the frame (1:4; 2:11; 3:21; 5:2; 8:12), negative throughout the collections (12:2; 14:17; 24:8); *zāmĕmâ* exercised on a field at 31:16. *Moderate–high on the distribution; moderate on the design.*
+**6. The two neediness words absent from Hezekiah's collection are present here.** *Tools 7, 10, 14.* עָנִי and אֶבְיוֹן together at 31:20 `[T]` — with 30:14 and 31:9, the three places they cluster, all in the book's last two chapters `[T]`. **The book's treatment of the poor intensifies as it closes.**
 
-7. **The poem carries martial echoes, and the KJV and the LXX keep them where the modern versions smooth them — but the governing term is broader than "martial."** Vocabulary · Translations · Genre · Tone. *Šālāl* (v.11) and "girds her loins" (v.17); KJV "spoil" and "girdeth her loins"; LXX *gynaika andreian*. **Revised at the checking stage:** *ḥayil* in the woman-texts denotes comprehensive excellence rather than martial prowess `[S: TWOT; Lau & Goswell]`, and the *ṭerep* item is withdrawn. The martial reading now rests on Ansberry's genre argument, not on the lexeme. *Moderate.*
+**7. The poem's most admired construction is a single repeated verb, and the Greek and the NIV84 both lose it.** *Tools 5, 7, 8; Original Language Observations.* יָדֶיהָ שִׁלְּחָה … כַּפָּהּ פָּרְשָׂה … (31:19) ‖ כַּפָּהּ פָּרְשָׂה לֶעָנִי וְיָדֶיהָ שִׁלְּחָה לָאֶבְיוֹן (31:20) — the same two verbs, order reversed, the spindle turning into the open hand `[T]`. **NASB95 keeps it; NIV84 uses four different verbs and it disappears** `[T]`.
 
-8. **The book opens and closes with a woman teaching.** Vocabulary · Move 4 · Author's Purpose. *Tôrat ʾimmekā* (1:8; 6:20) → *tôrat-ḥesed* (31:26). *High.*
+**8. The Greek tradition found the ending harder than the Hebrew did.** *Tools 8, 14; Textual Variants.* Swete ends the book "let **her husband** be praised in the gates", reads γυνὴ συνετή at 31:30, and transposes 31:25/26 into Lamentations' פ-before-ע order `[T]`, Swete; *BHS* 31:25ᵃ, 31:30^{a–a} `[S: BHS]`. **The impulse to redirect the praise is ancient, and the Hebrew resists it.**
 
-9. **The fear of the LORD frames the whole book and lands here in a life.** Move 4 · Biblical Theology · Christological Reading · Structure. 1:7 → 9:10 → 31:30. *High.*
+**9. Ruth answers the poem's question, four words at a time.** *Tools 11, 14.* אֵשֶׁת־חַיִל (3 verses in the Bible: Prov 12:4; 31:10; Ruth 3:11); עשׂה + חיל (Ruth 4:11); the gate; the elders `[T]`. **In the BHS order the next book supplies a name.**
 
-10. **Verse 20 is the structural centre of the working section and the poem's outward-facing verse.** Structure · Parallels · Positional Necessity · Historical Background. It is also the verse most often skipped. *Moderate–high.*
+**10. Ecclesiastes says the search failed.** *Tools 11, 14; Christological Reading.* מִי יִמְצָא in three verses — Prov 20:6; 31:10; Eccl 7:24 `[T]` — and Eccl 7:28's "a woman among all these I have not found" `[T]`. *The canon does not let the poem close the question it asks.*
 
-11. **The husband is grammatically passive throughout.** Tone · Original Languages · Who Am I · Difficult Verses. Three verbs: trusts, sits, praises. *Moderate–high.*
+**11. The vocabulary of the poem's second verse comes from the gang in the book's first.** *Tools 7, 11 (Move 4).* שָׁלָל ("plunder") in three verses of Proverbs — 1:13, 16:19, **31:11** — and 1:13 has מצא beside it, as 31:10 does `[T]`. **What the thugs promised to find, the husband has.**
 
-12. **The praise-root is hammered in the last four verses.** Repetition · Structure · So What. *Hll* three times plus *ʾšr*; the poem ends on the vocabulary of commendation, not of labour. *Moderate–high.*
+**12. The poem is the book's densest patch of the ordinary, and it says so only once.** *Tools 9, 12, 16.* Wool, flax, bread, a field, a lamp, a spindle, scarlet, linen — and no verse calls any of it remarkable. **The evaluation is held back to 31:29–30 and then given twice** `[T]`.
 
-13. **Fear is used twice with opposite force.** Repetition · Original Languages · Biblical Theology. *Lōʾ-tîrāʾ* (v.21) of circumstance; *yirʾat YHWH* (v.30) of God. *Moderate–high.*
+**13. Two contacts with the book's dark side, both single-verse pairs.** *Tools 7, 11.* מַרְבַדִּים ("coverings") in two verses of the whole Bible — 7:16 (the adulteress's bed) and 31:22 `[T]`; צפה ("keep watch") in two verses of Proverbs — 15:3 (YHWH's eyes in every place) and 31:27 `[T]`. *Both are worth a sentence and neither will carry a point on its own.*
 
-14. **The poem names nobody, in a book that opens with three names.** Vocabulary (proper-noun inventory) · Genre · Who Am I. An admissible pattern-break absence. *Moderate.*
+**14. The acrostic is complete and undivided.** *Tools 3, 12; Original Language Observations.* Twenty-two verses, א to ת verified mechanically, no gap, no doubling — and **zero paragraph markers in the WLC across the whole poem**, against nine in the 42 verses that precede it `[T]`, WLC; `[unchecked — apparatus spread]` on the markers. **The form's claim is completeness and the layout does not interrupt it.**
 
 ---
 
 ## Preaching Pitfalls
 
-### Pitfall: the specification sermon
+### Pitfall: preaching the poem as a job description for wives
 
-- **What it looks like:** the poem preached as a standard for Christian womanhood, often on Mothering Sunday, with the twenty-two verses turned into headings or a checklist.
-- **Why it's wrong:** the genre is an encomium whose own final verse commands the reader to *give her praise* (v.31), not to become her; there is no imperative addressed to the woman anywhere in the poem; the household assumed includes servants and an estate, so the labour described is not one person's; and the governing term denotes comprehensive capability, not domestic virtue narrowly.
-- **The corrective:** preach the genre first, then read Ruth 3:11 aloud — the canon's one other *ʾēšet ḥayil* was a childless foreign widow gleaning in someone else's field when the phrase was applied to her. Then preach v.31 as the sermon's application: praise, publicly and materially.
+- **What it looks like:** a sermon organised as a list of her qualities, with the application "so, wives, be this" — usually on Mother's Day, usually to a room containing women who are exhausted, single, widowed, childless, or all of it.
+- **Why it's wrong:** three things in the text forbid it. **The genre** — an acrostic is a completeness-claim about a subject, not a checklist for a reader (Tool 12). **The grammar** — the poem contains no command to her and one to the audience (Tool 13). **The vocabulary** — the words are personified Wisdom's, which makes the subject wisdom-embodied rather than wifely performance (Tool 7a).
+- **The corrective:** preach 31:31 as the poem's own application — *see it, say it, pay for it* — and let 31:30 tell the congregation what to credit. **A useful pulpit sentence:** *the only person commanded to do anything in this poem is you.*
 
-### Pitfall: the apology
+### Pitfall: "charm is deceitful and beauty is vain" preached as a rebuke to women who care about appearance
 
-- **What it looks like:** the mirror-image failure — preaching the passage defensively, explaining it away, or treating it as a culturally-bound embarrassment to be handled gently.
-- **Why it's wrong:** it patronises the poem and misses what is actually in it. She buys land, runs a textile business, imports goods, trades with merchants, gives to the poor, teaches, and is publicly vindicated in the civic square. The poem is not small.
-- **The corrective:** preach vv.16 and 24 — the commercial verses — and the breadth of *ḥayil*, which covers means and standing as well as moral substance. A congregation that has heard the passage only as domestic piety has not heard it.
+- **What it looks like:** an attack on make-up, clothes, or the mirror, with 31:30 as the proof-text.
+- **Why it's wrong:** שֶׁקֶר and הֶבֶל are words about **unreliability and transience**, not about wickedness — הֶבֶל is Ecclesiastes' breath-word `[T]`. **The verse discounts charm and beauty as evidence; it does not condemn them as sins.** And its two New Testament echoes (1 Pet 3:3–4; 1 Tim 2:9–10) make the same argument about what *lasts*, not about what is forbidden.
+- **The corrective:** preach it as an evidential claim — *these will not tell you what a life is worth, and this will* — and note that it cuts hardest against the person doing the assessing.
 
-### Pitfall: racing to verse 30
+### Pitfall: treating "many daughters have done worthily" as a put-down
 
-- **What it looks like:** twenty verses of inventory treated as scenery, so that the sermon is really a short talk on the fear of the LORD with a long introduction.
-- **Why it's wrong:** it inverts the poem's own method, which is to *show* rather than define. The wool, the ships, the field, the spindle and the sashes are the content of what fearing the LORD looks like in a competent life; v.30 names the root, it does not replace the fruit.
-- **The corrective:** let the inventory carry weight, and use v.30 as the ground rather than the substitute.
+- **What it looks like:** "other women have tried, but she's the real thing."
+- **Why it's wrong:** 31:29 is a **superlative built on a concession**: רַבּוֹת בָּנוֹת עָשׂוּ חָיִל ("many daughters have done worthily") `[T]`. **The verse grants the achievement of many before naming one.**
+- **The corrective:** say the first half out loud. It is the poem's own guard against using her to shame anyone.
 
-### Pitfall: allegorising her as Christ, or as the church, in detail
+### Pitfall: the whole passage on Mother's Day, unguarded
 
-- **What it looks like:** "the scarlet is the blood," "the two hands are law and gospel," "she is the church labouring for her Lord."
-- **Why it's wrong:** the typology tests fail outright — no theological category, no NT precedent, no authorial pattern (see Christological Reading). The legitimate connections run through *wisdom* (which the New Testament does identify with Christ) and, generally, through *marriage* (Eph 5); neither licenses decoding the furnishings.
-- **The corrective:** the trajectory is available and strong without allegory — "who can find?" (v.10) is the book's own search-verb, and 8:35's answer is that whoever finds Wisdom "obtains favour from the LORD."
+- **What it looks like:** a well-meant tribute sermon that lands as an audit.
+- **Why it's wrong:** not a misreading of the words but of their direction (Tool 13). *A congregation hears a list of achievements as a standard unless the preacher tells them otherwise, and the poem's own address is to the people doing the hearing.*
+- **The corrective:** state the direction early and return to it. Preach 31:31 to husbands, children, employers and congregations; preach 31:30 to everyone whose sense of worth is tied to what can be seen in a minute.
 
-### Pitfall: the passage preached as a law of outcomes
+### Pitfall: allegorising her into the church, or into Christ
 
-- **What it looks like:** work like this and your household will prosper, your children will bless you, and you will laugh at the future.
-- **Why it's wrong:** it is the whole book's besetting error applied to its last poem — reading a proverb, or a portrait, as a guarantee. The canon supplies Job and Ecclesiastes as the counter-testimony, and this poem's own penultimate verse uses Ecclesiastes' word (*hebel*).
-- **The corrective:** name the contrast honestly. Wisdom is praised in the gates here; Wisdom incarnate was despised and crucified outside them (Isa 53:2–3). Both are true, and the second is what keeps the first from becoming a formula.
+- **What it looks like:** the spindle as ministry, the scarlet as the blood, the husband as Christ.
+- **Why it's wrong:** the text marks nothing as figurative and the reading is uncontrolled (Christological Reading).
+- **The corrective:** the licensed canonical move is the **trajectory** — personified Wisdom (chs 1–9) → this life → σοφία in person (1 Cor 1:30; Col 2:3) — and the licensed gospel move is the **verdict**: the praise here is earned, and the verdict a Christian waits for is not.
 
-### Pitfall: leaving the husband's passivity unremarked
+### Pitfall: preaching it as the book's afterthought
 
-- **What it looks like:** an application aimed entirely at wives, in a room containing husbands.
-- **Why it's wrong:** the husband is the subject of three verbs in twenty-two verses — he trusts, he sits, he praises — and only the third is something he does with his mouth. The poem's model response to a woman of *ḥayil* is his speech at vv.28–29.
-- **The corrective:** preach v.28 at the men. The poem hands them exactly one job.
+- **What it looks like:** "and the book closes with a nice poem about a good wife."
+- **Why it's wrong:** seven chains end here; the motto lands here; 27:2 is performed here; the question of 31:10 is the book's own question from 20:6 `[T]`. **This is the designed ending.**
+- **The corrective:** preach it as the last verse of a thirty-one-chapter argument, and say what the argument was.
+
+### Pitfall (pulpit-text specific): building a point on the spindle-to-open-hand mirror while reading the NIV84
+
+- **What it looks like:** "notice how the same hands that work the wool reach out to the poor" — from a pulpit Bible that has *hands/fingers* in 31:19 and *arms/hands* in 31:20.
+- **Why it's wrong:** the NIV84 uses four different verbs where the Hebrew repeats two `[T]`. **The point is true and the congregation's Bible will not show it.**
+- **The corrective:** read 31:19–20 from the NASB95 at that moment, or say plainly that the Hebrew uses the same two verbs twice. *See the pulpit-text note under Tool 8.*
 
 ---
 
-## Open Questions / Uncertainties
+## Open Questions
 
-1. ~~**The acrostic letter-mapping (Tool 3).**~~ **RESOLVED — confirmed against BHS by the user, 9 August 2026.** The letter assignments in Tool 3 stand as printed, including the two that carry weight: ש at v.30 (*šeqer*) and ת at v.31 (*tĕnû*). The table may be displayed to a congregation as it stands.
+**1. The 31:25/26 transposition needs a Rahlfs and a Göttingen check.** Swete has the פ-line before the ע-line, matching **Lam 2–4** `[T]`, Swete; *BHS* 31:25ᵃ notes it `[S: BHS]`. **This is the most interesting variant in the poem and the corpus cannot tell me how it is attested** — Swete is diplomatic and Vaticanus-based. *Until checked, the claim that the Greek preserves a genuine alternative acrostic order is `[unchecked — apparatus spread]` and capped at moderate.*
 
-2. **The *zmm* / *mĕzimmâ* connection (Headline 2) — PARTLY RESOLVED, 9 August 2026.** The library confirms the lexical foundation: *zāmam* at 31:16 means "purpose, propose to oneself" `[S: Gesenius]`, and *mĕzimmâ* has a dual range covering both "wicked scheme" and "discretion" `[S: Lexham; Swanson]`. It also confirms the distribution across Proverbs, which is the load-bearing part — positive in the frame, negative in the collections. **What it does not confirm is the design claim:** no commentary consulted connects the acrostic's zayin line to 1:4's promise, though a wordplay reference work does register *zāmĕmâ* as a feature of the acrostic `[S: Parks]`. *Fox checked, 9 August 2026 — does not confirm.* Fox does not trace the *zmm* root across these passages. He does supply two things that frame the proposal without proving it: the editor "determined the audience of 31:10–31 by attaching the poem to a book that defines its audience" in 1:4 `[S: AB 18b:905]`, and Proverbs reached "a fair degree of ideological unity" under editors with goals `[S: AB 18b:967–968]`. **Note the limit:** editorial unity in general does not establish any particular echo, and the step from one to the other is not Fox's. *Also note a gap in the check:* only Fox's second volume (chs. 10–31) was available, so his treatment of 1:4 itself — where a comment on *mĕzimmâ* would most naturally sit — has not been consulted. *Residual task:* Fox vol. 1 on 1:4, and Waltke (NICOT) *ad loc.* The design claim stays `[I]` at *moderate*: now framed rather than free-floating, but still a suggestion, not a finding.
+**2. The paragraph-marker observation is one manuscript.** Zero markers across 22 verses is a striking figure against nine in the preceding 42 `[T]`, WLC — **but the WLC is Codex Leningradensis, and the corpus holds no other Hebrew witness.** *Use it as an observation about L, not about the Masoretic tradition.*
 
-3. ~~**The 8:35 ∥ 18:22 clause identity (Headline 1).**~~ **RESOLVED — confirmed, 9 August 2026.** Both verses read וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה, identical down to the accents. The predicate is *wayyāpeq rāṣôn mē-YHWH* in both. Headline 1 and the Christological trajectory that rests on it stand at *high* confidence. Supporting material noted at the same time: Prov 3:4; 11:27; 12:2 form a wider favour-obtaining cluster.
+**3. The direction of the Ruth relationship is not recoverable.** Four verbal contacts, verified `[T]`. **Which book is drawing on which — or whether the arrangement is editorial — cannot be settled from either text**, and this run does not settle it.
 
-4. ~~***Ṭerep* at v.15.**~~ **RESOLVED AGAINST — withdrawn, 9 August 2026.** A library search found no source treating the word in this verse, and the case offered against a predatory sense here was inference rather than citation. The claim is removed from Tool 7(c) and from Convergent Finding 7. *Residual uncertainty:* the lexeme identification itself is still unconfirmed, but nothing now depends on it.
+**4. Does 31:10's מִי יִמְצָא expect the answer "nobody"?** The parallel at 20:6 does; Eccl 7:28 says it did `[T]`. **But the poem then describes one**, which either answers the question or presents an ideal. *This is the interpretive fork of the passage and the text supports both; the sermon should name it rather than resolve it silently.*
 
-5. ***Ḥayil* at 31:3.** Ansberry's claim. If correct, the noun occurs three times in the chapter and the link between the oracle and the poem is lexical as well as thematic. Worth checking, because it would strengthen the Positional Necessity argument.
+**5. Three new search failure modes, all to go to the gate.**
+   - **(a) Final-form letters are distinct code points.** A pattern spelled with ך ם ן ף ץ matches only word-final occurrences and one spelled with the medial letter matches only the rest. **Both halves pass their positive controls while returning wrong counts.** The fix is to fold final forms — and *see (b)*.
+   - **(b) The fold must be applied to the pattern as well as the text.** Folding only the text makes any pattern containing a final form fail against a folded corpus. **Caught here only because the control failed.**
+   - **(c) Corpus completeness must be asserted, not assumed** (carried from the previous run). A positive control tests the *pattern*, never the *corpus*.
 
-6. **Distribution counts.** *ʾĒšet ḥayil* (3× in the Hebrew Bible: Prov 12:4; 31:10; Ruth 3:11); "hands" in this poem (8×); *hebel* in Proverbs (3×); *marbaddîm* in Proverbs (2×). All reached by reading; verify by concordance.
+**6. The husband of 31:23.** The Hebrew states his standing in the gate and attributes it to nobody; the Greek makes him the one praised at the end (Tool 8) `[T]`. **Whether the Hebrew intends a causal link is undecidable from the verse**, and a sermon should say so rather than assert it.
 
-7. **LXX *gynaika andreian* at v.10.** Verify in NETS before citing from the pulpit, along with the claim that the LXX retains 31:10–31 in final position.
-
-8. **The Isaiah 53 contrast.** This report's own connection, offered at *moderate–high*. It is homiletically strong; check whether it is a recognised move in the literature before leaning on it as though it were.
-
-9. **The canonical order question.** Whether Ruth follows Proverbs in the ordering the reader should assume is a manuscript-tradition matter; treated here as `[S]` *moderate* and not load-bearing.
-
-10. **Logos was unavailable for this run** (see the Declaration). The queries I would have run — the semantic range of *ḥayil* against a lexicon, the acrostic's function, and the Ruth link in commentary — remain outstanding. They would principally have raised or lowered confidence on items 2, 3, 4 and 8 rather than changed the report's structure.
+**7. עֹז וְהָדָר לְבוּשָׁהּ (31:25).** עֹז ("strength") and הָדָר ("splendour") are a pairing used of **God** in the Psalter (Ps 96:6, in the sanctuary) `[T]`. *Whether that is an allusion or a stock pairing was not resolved this run; flagged for the Finalise pass, low confidence as an allusion.*
 
 ---
 
 ## Book-Overview Tensions
 
-The overview (v1.0) and the sweep's Unit 18 are confirmed throughout. Five items to surface, all extensions rather than corrections.
+**1. Extension, not contradiction: the Wisdom-vocabulary chains are stronger than the overview records.** The overview notes the inclusio between Woman Wisdom and the woman of ch. 31 `[S: overview]`. **This run verifies five distinct lexical chains** — פְּנִינִים, שַׁעַר, שׂחק, אשׁר piel + תמך, מצא — with whole-book counts and passed controls `[T]`. *Recommend the overview's intertextual map carry the list rather than the general claim.*
 
-**1. The overview's central claim about this passage now has a textual warrant it lacked.** The overview said the poem is "wisdom embodied" and cited 8:11 ∥ 31:10 ("more precious than jewels") as "the single clearest textual warrant." That is good, but the stronger warrant is the one this run found: **8:35 and 18:22 say the identical thing — "obtains favour from the LORD" — about finding Wisdom and about finding a wife**, and 31:10 asks that question again with the same verb. Add it to the overview's Christological trajectory and to its echo table. `[T]` *High.*
+**2. Extension: the overview's trap 2 now has a three-part textual defence.** *Proverbs 31 as a wife-template* is listed `[S: overview]`. **The genre argument, the grammatical argument and the vocabulary argument** (Christological Reading) give it evidence. *Recommend adding them to the trap's entry so the trap carries its own answer.*
 
-**2. Extension: the *zmm* thread — now with a sourced distribution.** Neither the overview, the sweep, nor Ansberry connects 1:4's *mĕzimmâ* to 31:16's *zāmĕmâ*. The checking stage adds a fact that stands on its own regardless of the design claim: **within Proverbs the noun is positive throughout the frame and negative throughout the sentence collections.** That belongs in the overview's echo table as a book-spanning root link, and it pairs with the *ʿormâ*/Gen 3:1 finding from the 1:1–7 run to make a single argument: the book promises the naïve two morally two-edged capacities and shows both rightly used at the end. `[I]` *Moderate–high.*
+**3. Extension: the closing motto changes grammatical form.** The overview records 1:7 / 9:10 / 31:30 as the frame `[S: overview]`. **31:30 uses the adjective יָרֵא, not the noun יִרְאָה — which occurs fourteen times and last at 23:17** `[T]`. *Worth a line in the overview: the book's motto ends predicated of a person.*
 
-**3. Extension: the positional link at 31:8–9 / 31:26.** The overview and the sweep both noted that the king is told to open his mouth and that she opens her hand and mouth. Neither noted that **31:8, 9 and 31:26 share the verb and the noun** (*pĕtaḥ pîkā* / *pîhā pātĕḥâ*). That converts a thematic observation into a lexical one and is the strongest available answer to why the poem sits where it does. `[T]` *High.*
+**4. Addition: seven chains terminate here.** Not in the overview `[S: overview]`, verified this run `[T]`. *Recommend a "chain termini" row in the overview's structural map — it makes the case that ch. 31 is the designed ending rather than an appendix.*
 
-**4. Extension to the intertextual map: three additions.** Deuteronomy 10:12–22 and 15:7–8 (the open hand and the fear of the LORD, behind vv.20 and 30) `[S: Ansberry]` — which also extends the overview's own finding that Deuteronomy is the book's principal source, since this is its final appearance. Judges 5 as the heroic-poem comparator `[S: Ansberry]`. And Isaiah 53:2–3 as the Christological contrast `[I]`, this report's own.
+**5. Addition: the עָנִי/אֶבְיוֹן distribution.** The overview does not note that both words are absent from 25:1–29:27 and present three times in 30:14, 31:9 and 31:20 `[T]`. *This is a book-shape observation and belongs in the overview.*
 
-**5. A refinement to the overview's structural note.** The overview said the poem's acrostic "imposes its own order and is not a logical outline," which is right, and then gave a movement from question through the domestic and commercial world to public praise — also right. What neither the overview nor the sweep says is that **v.20 sits alone as the only outward-facing verse in the working section, at its midpoint.** Given the Positional Necessity finding, that placement is probably deliberate and it is the verse a sermon should not skip. `[T]`/`[I]` *Moderate–high.*
+**6. Addition: the שָׁלָל link from 1:13.** Three verses in the book, and the outer two are the gang's speech and the husband's trust `[T]`. *Recommend the intertextual map carry it.*
 
-**Where this run confirms the overview and the sweep without qualification:** the 1:7 / 9:10 / 31:30 envelope; the *ʾēšet ḥayil* distribution and the Ruth link; the systematic antithesis with the strange woman and Folly; the genre as encomium and the "praise her, not become her" corrective; the acrostic's completeness; and the rejection of typology in favour of trajectory. **One item is corrected rather than confirmed:** the overview and the sweep both describe the poem's vocabulary as straightforwardly "military," which the checking stage has shown to be too strong (see Tool 7a). Both have been amended.
+**7. Method note carried forward.** The three failure modes under Open Questions 5 should be written into the toolkit's gate item (e3), together with the maqqef-splitting and corpus-assertion amendments queued from the two preceding runs.
 
 ---
 
 ## Text-First Declaration
 
-**Secondary sources present in context:**
+**Order of work.** The Hebrew of Prov 31:10–31 was read from the corpus first, in WLC, and the acrostic verified mechanically before anything else was attempted. The Greek followed, from Swete. The NASB95 was read third, from the Logos export, and the NIV84 fourth. **No commentary, prior report or overview thread was opened until the sixteen tools and the extensions had been worked from the text** — the checking stage (Phase 5.5) came afterwards, and what it changed is recorded below.
 
-- `book-overview-proverbs.md` v1.0 (this session) — front-loaded at Phase 0.5 as a four-thread background layer; reconciled above.
-- `dig-deeper-proverbs-sweep.md` Unit 18 (this session) — a prior report on this same passage, treated at Phase 5.5.
-- `dig-deeper-proverbs-1-1to7.md` (this session) — consulted for the *ʿormâ*/*mĕzimmâ* material behind Headline 2.
-- **Christopher B. Ansberry, *Be Wise, My Son* — consulted via the Markdown edition built earlier this session**, § 6.2 on the Words of Lemuel and the heroic panegyric. This is the first run in which that source was searchable rather than re-extracted, and it materially improved the checking stage: it supplied the untitled-discourse argument, the *ḥayil* occurrence at 31:3, the *marbaddîm* link to 7:16, the *ṭerep* lexeme, the heroic-poem comparators, the Deuteronomic links, the scarlet/purple status markers, and the "who is looking?" reframing. All are tagged `[S]` in situ.
-- **Logos was unavailable for this run.** The Study Assistant refused submissions repeatedly and the Exegetical Guide returned no content for this reference. Consequences are recorded in Open Questions items 2, 3, 4 and 8; no finding was fabricated to fill the gap.
+**What the corpus supplied.** Every count, chain and repetition claim in this report was made against `_texts/`, and each names its edition: **WLC** for the Hebrew (Westminster Leningrad Codex, transcribing Codex Leningradensis B19a); **Swete** for the Greek Old Testament (diplomatic, Vaticanus-based); **SBLGNT** for the New Testament. The whole-Bible Hebrew index was loaded with a recursive glob and asserted at **23,213 verses** before any search ran, with named positive controls in all three canonical sections.
 
-**Tools worked before secondary sources consulted:** Confirmed, and this run was cleaner on this point than the 1:1–7 run.
+**What the corpus could not supply, and what was cited instead.** Apparatus readings — the 31:25/26 transposition, the 31:30 and 31:31 divergences, the ketiv/qere at 31:16 and 31:18, the שָׁנִים/שָׁנִי question at 31:21 — are cited from the Logos export of **BHS** (Weil/Elliger/Rudolph, 5th rev. edn, 1997) and tagged `[S: BHS]`. Claims about how widely an apparatus feature is attested are tagged `[unchecked — apparatus spread]` and capped at moderate confidence, because the corpus holds one Hebrew manuscript tradition and cannot report spread.
 
-The text-first work was done first and is separable from Ansberry: the **8:35 ∥ 18:22 ∥ 31:10 clause identity** (Headline 1 — Ansberry lists *māṣāʾ* at 31:10; 1:28; 8:17 but not this pair, so the finding goes beyond him); the ***zmm*** thread (Headline 2 — in no source consulted); the **single imperative** (Headline 3); the ***pātaḥ pî*** link at 31:8–9/26 (Headline 4); the **acrostic map and its completeness** (Headline 5); the ***hll*** hammering in vv.28–31; the double use of ***yrʾ***; the **lamp** link to 13:9/20:20/24:20; the ***tôrat*** inclusio with 1:8; the **absence of proper nouns**; **v.20 as structural centre**; the **1:26/31:25 laugh** link; the **husband's three passive verbs**; the **KJV's retention of *šālāl* and "girdeth her loins"**; and the **Isaiah 53 contrast**. The ***nĕʿārôt*** link to 9:3 was reached in this session's work on chapter 9, before Ansberry was opened, and is corroborated by him.
+**On "the majority text".** The request specified that the dig depend on the majority text. **The Hebrew Bible has no majority text in the sense the phrase carries in New Testament criticism** — there is no large family of late manuscripts standing against a small early one. What exists is the **Masoretic tradition**, whose standard complete witness is **Codex Leningradensis (B19a, 1008/9)**; the WLC transcribes it and BHS prints it. That is the text this report has worked from, and where the Greek diverges the divergence is reported as a variant rather than resolved by defaulting to the MT.
 
-*Where a source shaped a finding, it is tagged.* The martial-genre framing is Ansberry's and is labelled `[S]` even where my own *ḥayil*, *šālāl* and "girds her loins" observations point the same way — the *classification* as heroic panegyric is his.
+**Three search failures found and fixed this run**, all recorded in Open Questions 5 because they belong in the toolkit rather than in this passage: **final-form Hebrew letters are distinct Unicode code points** (סָדִין returned 1 hit and סדינ returned 3, both with passing controls; the true count is 4); **a final-form fold applied to the text must also be applied to the pattern** (a פְּנִינִים search failed its control until the pattern was folded); and **corpus-completeness must be asserted rather than assumed**, carried from the previous run. *Each of these returned a confidently wrong number while its positive control passed.*
 
-**Passage text:** Verified. The ESV text of 31:10–31 was read from a verified source earlier in this session and is quoted in full above. All wording-dependent findings rest on it. Hebrew forms are given from standard reference knowledge, confidence-flagged, and every load-bearing one is routed to Open Questions — including the two that carry Headlines 1 and 2. The KJV renderings at vv.11 and 17, and the ESV wording at 8:35 and 18:22, are quoted from recall and marked as checkable.
+**What the checking stage changed.** The archived August report on this passage and the book overview were opened only at Phase 5.5. The overview supplied the canonical-position block, the trap list and the presenting situation, all tagged `[S: overview]`. **Nothing in the sixteen tools originated there.** The tensions and extensions are listed above. Where this run and the overview differ — the counted measures, the motto's grammatical form — the difference is stated rather than averaged.
 
-**Reference files viewed:** Core 01–07 (all seven) · `preacher-extras.md` · `historical-background.md` · `original-audience.md` · `original-languages.md` · `textual-variants.md` · `biblical-theology.md` · `difficult-verses.md` · `christological-reading.md` · `examples/psalm-33-worked.md`. **No mandatory file omitted.**
-
-**Depth floors:** Met.
-
-- Substantial treatment: Tools 1, 2 (with the Positional Necessity Check), 3, 4, 5, 7, 8, 9, 10, 11, 12, 14, 15, 16 — fourteen, against a floor of five.
-- Tools 1, 2, 7, 8, 11, 16: none dispatched in a single sentence.
-- N/A with reason: Tool 6 (not narrative, with a note on why vv.30–31 nearly qualify) and Tool 13 (no narrative characters, with a note on why the tool is still worth running here).
-- Headline Findings: five. Preaching Pitfalls: six, each with a corrective.
-- Confidence flags on every lexical, manuscript and intertextual claim.
-- OT Citation Triad: full triad on Ruth 3:11 → 31:10 (the passage's one citation-level external allusion) and on the internal 8:35/18:22 → 31:10 pair, which is treated at citation level because the verbal identity is exact; Move 1 only for the moderate-confidence Deuteronomy and Judges 5 links. Tool 7c proper-noun inventory run — it returned **nil**, and the nil return is itself reported as an admissible pattern-break absence with its established pattern cited.
-- Move 4: run, with fourteen tagged internal echoes, all *answers*-direction (nothing is planted, since nothing follows).
-- Tool 8 ancient-versions check: run, with a `Translation-tradition split:` flagged and triage-classified.
-- Three-Way Triage: every Hebrew/Greek and Hebrew/English divergence assigned. **Category 1** (translation loss) — LXX *gynaika andreian*; the modern versions' loss of *šālāl* and "girds her loins". **Category 2** — none in this passage; stated explicitly. **Category 3** — none, since the New Testament nowhere quotes this passage; stated explicitly.
-- `[T]` boundary: no authorship, date, composition, audience, occasion, setting or cultic-use claim carries a `[T]` tag. The courtly/aristocratic reading of the household, the ANE background, the canonical ordering of Ruth, and the heroic-panegyric classification are all `[I]` or `[S]`.
-
-**Post-delivery verifications (9 August 2026).** Four checks were run by the user against BHS and the Logos library, and their results are incorporated above rather than appended.
-
-1. **Acrostic letter-mapping (Tool 3, Headline 5) — confirmed** against BHS. Open Question 1 closed; confidence raised to *high*.
-2. **8:35 ∥ 18:22 predicate (Headline 1) — confirmed** from the Hebrew: וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה in both, identical to the accents. Open Question 3 closed. This was the report's most load-bearing unverified claim and it holds.
-3. ***Ḥayil* (Tool 7a, Convergent 7) — corrected.** The library's answer supports the breadth of the term but **not** the martial reading I had built on it: in the three woman-texts (Ruth 3:11; Prov 12:4; 31:10) the sense is comprehensive excellence, and "virtuous"/"worthy" is the standard rendering. `[S: Weber, TWOT 624; Lau & Goswell, NSBT 41; Köstenberger & Goswell]` My "every English rendering under-translates it" was an over-reach and has been withdrawn; the martial reading has been reassigned to Ansberry's genre argument, where it belongs. This correction has been propagated to `dig-deeper-proverbs-sweep.md` (Unit 18) and `book-overview-proverbs.md` (preaching trap 4).
-4. ***Ṭerep* (Tool 7c) — withdrawn.** No source found treating the word in this verse; the answer's reasoning was inference, not citation. Removed from the argument.
-
-5. ***Zmm* / *mĕzimmâ* (Headline 2) — partly resolved.** The lexical foundation and the intra-Proverbs distribution are now sourced `[S: Gesenius; Lexham; Swanson; Parks]`; the design claim is not. Headline 2 has been rewritten to separate the two, and its distribution half is the part that can be preached.
-
-6. **Fox consulted on the design claim (9 August 2026) — does not confirm, but frames.** Fox does not trace the root. He does state that the editor fixed this poem's audience by attaching it to the book defined in 1:4 `[S: AB 18b:905]` — which independently corroborates this report's Author's Purpose and Who Am I findings — and that Proverbs achieved "a fair degree of ideological unity" under purposeful editors `[S: AB 18b:967–968]`. **The inference from general editorial unity to this particular echo is not Fox's and is not adopted here.** Only Fox vol. 2 (chs. 10–31) was available, so his comment on 1:4 remains unchecked.
-
-**Still open:** the design half of Open Question 2 (awaiting Fox vol. 1 on 1:4, or Waltke *ad loc.*) and Open Question 8 (whether the Isaiah 53 contrast is a recognised move).
-
-**Warrant counts (report body
-
-**Warrant counts (report body, excluding this Declaration):** `[T]` 66 · `[I]` 27 · `[S]` 21.
-
-**Health note.** Text-dominant, and the report's five headline findings are all `[T]`/`[I]` and all new relative to the overview, the sweep, and Ansberry. The Ansberry material is doing exactly what a checking stage should — supplying the genre classification, the background, and three lexical links I did not have, while being resisted at one point (his aristocratic-addressee frame is used but not adopted as the passage's own claim). Two risks are declared: Headlines 1 and 2 each rest on a Hebrew detail quoted from recall and routed to verification, and Logos was unavailable to settle them. Neither is a reason to withhold the findings; both are reasons to check them before the pulpit.
+**Warrant tagging.** `[T]` marks what the passage on the page states or shows. `[I]` marks an inference from the text. `[S]` marks what a secondary source supplied, with the source named. The `[T]` boundary excludes authorship, date, audience, occasion and cultic use; claims about the poem's composition, its social world and its legal assumptions are tagged `[I]` or `[S]` throughout, including where the conclusion is one most readers would accept.

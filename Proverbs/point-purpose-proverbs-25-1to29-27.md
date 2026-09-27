@@ -1,151 +1,157 @@
 # Point & Purpose: Proverbs 25:1–29:27
 
-**Sermon 7 of 9** — *"The Proverbs of Solomon (2)"* · **Translation:** ESV (Anglicised)
-**Exegesis consumed:** `dig-deeper-proverbs-25-1to29-27` (whole-section run) · **Series backbone:** `point-purpose-proverbs-series-introduction` (v2)
-**Date:** 26 August 2026
+**Sermon 7 of nine** — *Hezekiah's transcription: wisdom with the name withheld*
+**Exegesis consumed:** `dig-deeper-proverbs-25-1to29-27` (27 September 2026) — fresh solo dig, `[T]` 144 · `[I]` 8 · `[S]` 37, 17 chains and 128 references lemma-verified against the WLC
+**Also consumed:** `book-overview-proverbs` v2.0 (Christological trajectory, preaching traps, unit-7 note)
+**Study text:** NASB95 · **Pulpit text:** NIV84 (1984 edition), declared for the first engagement
+**Version:** v2 — supersedes the August plan, which was built on the two half-digs and is archived
+**Date:** 27 September 2026
 
 ---
 
-## Phase 0 — the scope decision
+## Phase 0 — Scope Decision
 
-**A single sermon on 138 verses**, and this unit rewards preaching whole more directly than any other in the series — because **its central finding is a shape that only exists across the whole span.**
+**Single sermon**, and the decision is the series', not this document's.
 
-Three vocabularies drop out and return, and their spans are **concentric**:
+138 verses is well past the skill's own rule of thumb for a series, and on the ordinary test — *could one sermon do justice to the passage's structure without flattening it?* — the honest answer for a sentence-collection is no. But the nine-sermon plan has fixed this unit, and more importantly **the book overview has already answered the objection**: a sermon on a collection this size cannot expound it, and should not try; what it can do is teach the congregation **how the collection works** and let its shape carry the argument `[S: overview]`. The fresh dig has made that possible in a way the August plan could not, because it supplies the shape in counted form.
 
-| What falls silent | From → to | Verses |
-|---|---|---|
-| the king / ruler | 25:7 → 28:14 | **91** |
-| the divine name | 25:23 → 28:4 | **65** |
-| righteous / wicked | 25:27 → 27:27 | **57** |
+So the preaching unit is the whole collection, and the sermon's subject is **the collection's method** — not a tour of its contents. The four movements below each stand on a block the vocabulary marks, and between them they touch about thirty verses. **The other hundred are the sermon's evidence, not its outline.**
 
-**Chapters 26–27 — fifty-five consecutive verses — contain no YHWH, no *ʾĕlōhîm*, no *ṣaddîq*, no *rāšāʿ*, no *melek*, no *mōšēl*, no *šōpēṭ* and no *mišpāṭ*.** A sermon on a fragment of this section cannot show that, because a silence is only audible against the sound either side of it.
-
-**The transmitted text divides it eight times** — one marker per 17 verses, **5.4 times denser than Solomon I** — and the four movements below sit on those markers.
-
-> **A footnote for the introduction, not a point.** 25:1 dates the **copying**, not the sayings: *heʿtîqû*, "transcribed". Hezekiah's men are editors, roughly two and a half centuries after Solomon. Say it once and move on.
+*The overlap to name:* this unit also contains the four verses most likely to be preached standalone elsewhere — 25:21–22, 26:4–5, 27:17, 29:18. If any of those is wanted as a sermon in its own right, say so now; it changes what movement 2 and movement 4 can afford to spend.
 
 ---
 
-## Fallen Condition Focus
+## 1. Fallen Condition Focus
 
-> **We want a rule that will decide the case for us — and almost all of our life is lived where no rule is given and nobody with authority is watching.**
+**We can read everyone in the room except ourselves — and accumulated wisdom does not repair the blind spot, it furnishes it.**
 
-**Anchored, and the anchor is the section's own centre.** `[T]` **Proverbs 26:4–5** gives two consecutive verses of contradictory advice — *"Answer not a fool according to his folly"* / *"Answer a fool according to his folly"* — and it stands at the dead centre of the nest, in the paragraph 25:21–26:21, at the point of maximum authorial withdrawal.
+The collection describes four men who assessed themselves and were wrong, and **not one of them is a fool by the book's own definitions**: a man (26:12), a sluggard (26:16), a rich man (28:11), and a fool who might have become one (26:5). Each is competent at judging others; each is wrong about himself. And 26:12 delivers the verdict the congregation will not see coming — תִּקְוָה לִכְסִיל מִמֶּנּוּ ("there is more hope for a fool than for him").
 
-**The section removes the three figures that had been settling cases** — God, the moral categories, the magistrate — and hands the reader situations instead: a fool who must be answered and must not be, a friend whose wounds are faithful, a neighbour who blesses too loudly in the morning, a flock whose condition must be known. **This is not a gap in the material. It is the pedagogy.**
+The first hearers arrived at 25:1 having been *told* the answers for twenty-four chapters. This collection stops telling them. Seventeen of its nineteen directly addressed verses fall in chapters 25–27; the vocative בְּנִי ("my son") is used once, at 27:11, and never again in the book; the book's own wisdom vocabulary — מוּסָר ("discipline"), יִרְאָה ("fear"), בִּינָה ("understanding"), לֵץ ("scoffer") — is withdrawn entirely; and the divine name stands in six verses out of 138, with a sixty-five-verse stretch naming no one at all `[T]`, WLC. **They are handed the cases and left to mark their own paper — which is the one thing 3:7 told them not to do.**
 
----
+That is not a period problem. It is the position of anybody who has been in church long enough to have opinions.
 
-## Teaching Point
-
-> **This collection takes God, the moral categories and the king off the page for three chapters to make a man judge for himself — and then hands them back, not as a verdict from above but as a law to keep and a Lord to be sought.**
-
-**Subject:** How do you act rightly where no authority is watching?
-**Complement:** By a judgement the text trains *by withholding* — and which it then grounds in Torah (28:4) and in the LORD who is sought (28:5).
-
-**Why this is one idea and not two.** The withdrawal and the restoration are a single move, and either half alone is a different sermon and a worse one. **Withdrawal without restoration is self-reliance.** **Restoration without withdrawal is the verdict handed down that the section spent three chapters refusing to give.** The order matters as much as the content.
+*Secondary candidate, if the preacher takes the other half:* **we want the rules, and what we are given is a room full of cases and no invigilator.**
 
 ---
 
-## Purpose Statement
+## 2. Teaching Point
 
-> **To move hearers out of wanting a rule that decides for them and into the responsibility of trained judgement — and, in the same sermon, to deny them the conclusion that they are therefore on their own**, because the silence ends at 28:4 in *tôrâ* and at 28:5 in the LORD who is sought.
+> **The God whose glory is to conceal a matter withholds his name from a hundred and thirty-eight cases — not to abandon us to our own judgement but to expose the one verdict we cannot reach, our own; and the verdict we cannot give ourselves has now been spoken over us from outside, in Christ.**
 
-**Differentiated:**
+**Subject:** Why does the book withdraw God's name and its own vocabulary at exactly this point?
 
-- **For the mature believer** — most of your obedience this week will happen where no one can check it and no verse addresses it directly. That is the normal Christian life, not a failure of guidance.
-- **For the rule-seeker** — you have been asking the wrong question of this book. 26:4–5 is the answer to "just tell me what to do", and it is deliberate.
-- **For the self-assured** — 26:12 is aimed at you: *"Do you see a man wise in his own eyes? There is more hope for a fool than for him."*
-- **For the leader** — the section ends with kings, and with 29:26: justice comes from the LORD and not from the ruler's face.
+**Complement:** Because the wisdom it is after cannot be self-certified — and the verdict we cannot give ourselves has been given, from outside, in Christ.
 
----
+**Where it comes from.** Four of the dig's five headline findings converge on it:
 
-## Candidate Big Question
+- **25:2** — כְּבֹד אֱלֹהִים הַסְתֵּר דָּבָר וּכְבֹד מְלָכִים חֲקֹר דָּבָר ("it is the glory of God to conceal a matter, but the glory of kings is to search out a matter"). The collection states its own method in its first sentence, and calls the concealing **glory** `[T]`.
+- **The withholding is measurable.** Six divine-name verses in 138 (4.3%, against 9.5% across the book); the 65-verse silence from 25:23 to 28:4; and the entire wisdom vocabulary of the prologue absent — each positively controlled `[T]`, WLC.
+- **The four case studies.** 3:7's prohibition אַל־תְּהִי חָכָם בְּעֵינֶיךָ ("do not be wise in your own eyes") becomes 26:5, 26:12, 26:16 and 28:11 — four of the book's five occurrences of the formula `[T]`.
+- **28:11 is the weld.** The root חקר ("to search out") from 25:2 and the formula חָכָם בְּעֵינָיו ("wise in his own eyes") land on the same verse, and the searching that 25:2 assigned to kings is exercised there by a poor man on a rich one `[T]`.
 
-**The series question, asked in these words in every sermon:**
-
-> **"How would you know if you were actually wise?"**
-
-**This week's form, and its answer:**
-
-> **"When nobody is telling you what to do, what do you actually do?"**
-
-> *Answer:* **You would have to judge for yourself — and 25–27 withholds the verdict in order to make you. Then 28–29 hands the standard back, and it is *tôrāh*.**
-
-*Flagged as candidate: final wording belongs to the manuscript stage.*
+**Why it is not moralism.** The subject of the sentence is God, and the action is his — he conceals, he withholds, he speaks. The collection's own logic makes the payoff impossible to reach by effort: a man who *tried harder* to assess himself accurately would simply be a fifth portrait. The exit is a verdict from outside, and the collection itself supplies the rule — 27:2, יְהַלֶּלְךָ זָר וְלֹא־פִיךָ ("let another praise you, and not your own mouth"). **What the collection cannot supply is the one who says it.** That is where the sermon crosses into the gospel, and it crosses on the book's own terms, not by an allegorical move.
 
 ---
 
-## Proposed Structure
+## 3. Purpose Statement
 
-**Four movements, each landing on a transmitted paragraph boundary.**
+> **To move hearers from grading themselves to receiving a verdict** — pressing the confident to hear 26:12 as addressed to them rather than to somebody they know; assuring the anxious that the assessment they cannot make has already been made and spoken aloud over Christ, and over them in him; showing the church that the collection's own test of a wisdom is what it does with the poor (29:7, 14); and inviting the unbeliever to stop defending a self-estimate that no one else in the room shares.
 
-**1 · At court · 25:1–22**
-*Function: establish the world with authority still in it.* The glory of God and of kings (25:2), the unsearchable heart of kings (25:3), the wicked removed from the king's presence, the warning not to push yourself forward (25:6). **Then 25:21–22 — feed your enemy** — which is the Covenant Code's enemy-duty and sits four verses before the silence begins.
+**Differentiated.**
 
-**2 · The street with nobody in charge · 25:23–27:22**
-*Function: press the FCF, and let it be uncomfortable.* The authorities go quiet one by one. Chapter 26 is the fool-chapter — **eleven of the book's fourteen *kəsîl* sayings** — and at its centre **26:4–5**, which is the section explaining itself. No God, no king, no verdict. **Do not rescue the congregation here.**
-
-**3 · Know well the condition of your flocks · 27:23–28:5**
-*Function: the hinge, and it is a single transmitted paragraph that crosses the seam.* The shepherd poem turns from judging others to attending to what is actually in front of you. And then the silence ends **inside this paragraph's last verse and the one after it**: 28:4 carries *tôrâ* **twice** — the first occurrence in the whole section — a *petuchah* follows, and **28:5 names the LORD**: *"those who seek the LORD understand all."* **Law returns in the last verse before the break; God returns in the first verse after it.**
-
-**4 · The standard, and the honour that comes last · 28:6–29:27**
-*Function: land the Teaching Point and the response.* *Tôrâ* four times more (28:7, 9; 29:18), the trust-chain resolved (28:25, 26; 29:25), and then **29:23** — *"One's pride will bring him low, but he who is lowly in spirit will obtain honour."* Close on 29:27, where the abomination runs both ways and the collection simply stops.
-
----
-
-## Where Christ comes in, and how
-
-**Two routes, and the second is the strongest in the section — but it is only visible if you preach the whole.**
-
-**1 · 25:21–22, in movement 1.** `[T]` on the Hebrew, `[S]` on the links. *"If your enemy is hungry, give him bread to eat."* This is Exodus 23:5's enemy-duty — **the identical inflected form** — lifted out of courtroom law. Paul quotes it (Rom 12:20); Jesus alludes to it (Matt 5:44), answering a tradition that had added *"and hate your enemy"* to a Torah that never said it. **It answers the question a thoughtful hearer actually asks: where does the Old Testament ever say love your enemy?**
-
-**2 · The honour thread, landing at 29:23.** `[T]` on the occurrences; `[S]` on the New Testament. The section's Leitwort is *kābēd* — glory, honour, weight — and it runs the whole length:
-
-> 25:2 the glory of God and of kings → **25:27 "to seek one's own glory is not glory"** → 26:1, 26:8 honour is unfitting for a fool → 27:3, 27:18 honour earned by service → **29:23 "he who is lowly in spirit will obtain honour."**
-
-**25:27 poses the problem and 29:23 answers it**, and the two verses sit on opposite sides of the old half-run division — which is why this is a whole-section finding and why it is worth the length of the sermon.
-
-**And the New Testament says it in the same words.** *"Everyone who exalts himself will be humbled, and he who humbles himself will be exalted"* (Luke 14:11; 18:14) — and Philippians 2:8–9 narrates it: **he humbled himself… *therefore* God has highly exalted him.** The section asks how honour may be had without being sought; the gospel answers by pointing at a man who did not seek it and received it.
-
----
-
-## Keep Honest
-
-**1 · Do not preach the silence as the message without saying that it ends.** The pull of the central finding is towards "God is not mentioned, therefore live wisely by your own lights." **The text does not say that.** It restores God, Torah and the king in 28–29, and **the restoration is the point of the withdrawal**. Preach the nest whole or not at all.
-
-**2 · Do not make 26:4–5 a puzzle to be solved.** Every harmonisation removes the thing the verses are doing. **If the congregation goes home knowing which verse applies when, the sermon has replaced the text's training with the preacher's judgement.**
-
-**3 · Do not let chapter 26 become a sermon about difficult people.** Eleven fool-sayings in twenty-eight verses is a catalogue, and a catalogue preached as portraiture invites the congregation to identify others. **The chapter's own sting is 26:12** — the man wise in his own eyes, for whom there is less hope than for a fool. Turn it on the room, including the pulpit.
-
-**4 · Do not preach 28:1 as courage.** *"The righteous are bold as a lion"* is *yibṭāḥ* — from *bāṭaḥ*, to trust — and English hides that it begins a chain: misplaced trust at 25:19, then **in the LORD** (28:25), **not in your own heart** (28:26), **in the LORD** (29:25). **A sermon on boldness here has missed that the chapter goes on to say what such a man may and may not trust in.**
-
-*One further caution if the silence is pressed hard from the pulpit:* it is a feature of the **Hebrew** text. The Greek has an "abomination to the Lord" saying at 27:20a, inside the stretch. Describe the silence as Masoretic.
-
----
-
-## Anti-Moralism Gate — checked
-
-**The specific risk in this unit is not "try harder" but "trust your own judgement"** — which is self-reliance wearing wisdom's clothes, and the sermon's own first two movements could produce it.
-
-| Test | Result |
+| Audience | The change sought |
 |---|---|
-| Is the payoff "be like X" or "trust the Christ whom X points to"? | **Trust.** Movements 3 and 4 exist to close off self-reliance: judgement is trained, then re-grounded in Torah and in a Lord who is *sought*, and the honour-thread ends with honour **given** to the lowly, not achieved. |
-| Is Christ the subject or merely an example? | **Subject.** Philippians 2:9 makes God the actor — *therefore God has highly exalted him*. Christ is not offered as a model of humility to copy but as the one in whom 25:27's problem is answered. |
-| Is the good news grounded in Christ's saving work? | **Yes** — 25:21–22 lands on the cross-shaped enemy-love Paul and Jesus both draw from it, and 29:23 lands on the humbling and exaltation of Philippians 2. |
+| **The long-standing believer** | To stop using the passage's gallery on other people. The sermon's success is a room full of people who each thought of themselves at 26:12. |
+| **The anxious believer** | To hear that the verdict which cannot be self-generated has been spoken — οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός ("this is my beloved Son") — and that 28:13's confession is met by the only occurrence of רחם ("to have compassion") in the whole book. |
+| **The church together** | To accept that its wisdom is tested at 29:7 and 29:14 — what it knows about the cause of the poor — and not at the level of its opinions. |
+| **The unbeliever** | To be offered 26:12 as the sharpest evangelistic sentence in Proverbs: it does not argue that you are a fool; it says there is more hope for one than for a man who is sure he is not. |
 
-**Passes** — provided movement 2 is not the last thing the congregation hears. **The gate here is structural: it is the order of the movements that keeps the sermon honest.**
-
----
-
-## Hand-off
-
-The Big Question and the four movements feed the one-sentence-sermon and manuscript stage.
-
-**Not decided here:** whether to name all three silences from the pulpit or only the divine name (three sets of figures may be one more than a congregation can hold), and whether the *kābēd* thread is traced verse by verse in movement 4 or simply stated at 25:27 and 29:23.
+**The motive clause, and it has to be imported.** This collection supplies almost no motives — that is its method (eleven imperatives and nine prohibitions in 138 verses, and scarcely a grounding clause among them) `[T]`. **A sermon that takes its instructions without bringing their grounds will produce moralism by construction.** The grounds come from where the book puts them (1:7; 3:5–7; 20:9; 30:2–4) and, for this congregation, from Rom 12:19–21, which the dig shows is reading this very collection.
 
 ---
 
-## Change Log
+## 4. Candidate Big Question
 
-**26 August 2026 — first issue.** Sermon 7 of 9. Consumes the whole-section run `dig-deeper-proverbs-25-1to29-27` and the series backbone; adds no exegesis. Structure follows the eight transmitted paragraphs, with movement 3 deliberately sitting on the paragraph that crosses the 27:27/28:1 seam.
+> **You can see straight through everybody in this room. Who sees through you — and will you let them?**
+
+*Candidate.* Two alternatives, if the preacher wants a different entry:
+
+- *(Closer to the text's own shape)* **"If wisdom is the one thing you cannot certify in yourself, whose verdict are you living on?"**
+- *(Closer to the silence)* **"What kind of God goes quiet for sixty-five verses — and what is he doing while he does it?"**
+
+The first is the recommended one. It puts the congregation in the position 26:1–12 puts them in before the trapdoor opens, which is exactly where the sermon needs them.
+
+---
+
+## 5. Proposed Structure
+
+Four movements. Each stands on a block the collection's own vocabulary marks, and the arc runs FCF → TP → PS.
+
+### Movement 1 — The teacher leaves the room *(25:1–7, with 26:4–5)*
+
+**Function:** establish what kind of book this is, and surface the felt need.
+
+Open at the heading. 25:1 is the only verse in Proverbs that says how any of its material got there — אֲשֶׁר הֶעְתִּיקוּ אַנְשֵׁי חִזְקִיָּה ("which the men of Hezekiah transcribed") `[T]`. Then 25:2: God conceals, kings search out — and the concealing is called **glory**. Then show what follows: the imperatives thin out and stop, the vocative goes, the vocabulary is withdrawn. **Land it on 26:4–5**, which is the collection's own instruction manual: two true generalisations with incompatible applications, side by side, and the judgement handed to you. *This is what it is like to read a* מָשָׁל *("proverb"): nobody is going to tell you which one applies.*
+
+### Movement 2 — The trapdoor *(26:1–16)*
+
+**Function:** spring the FCF on the congregation rather than describing it.
+
+Preach 26:1–11 as the collection means it to be heard — eleven verses of comedy about a fool who cannot be reached by honour, a rod, an answer, silence or a message. Let the room enjoy it. **Then 26:12**, and let the turn happen in the pulpit rather than being announced: רָאִיתָ אִישׁ חָכָם בְּעֵינָיו תִּקְוָה לִכְסִיל מִמֶּנּוּ. Then do it again in four verses with the sluggard (26:13–16), because the collection does — three verses of sketch, and then 26:16, *wiser in his own eyes than seven men who answer discreetly*. **The block's design is that the confident diagnostician is the last subject.**
+
+### Movement 3 — The verdict you cannot give yourself *(27:1–2, 21; 28:11, 26)*
+
+**Function:** establish the Teaching Point's claim.
+
+The collection has a small theory of self-assessment and it is scattered across four verses. Gather them: **27:1** do not boast about tomorrow — you do not know what a day will bring; **27:2** let another praise you, and not your own mouth; **27:21** the crucible for silver, the furnace for gold, and a man by the praise he gets; **28:26** he who trusts in his own heart is a fool — which is 3:5's "trust in the LORD with all your heart" turned inside out `[T]`. Close on **28:11**, where the two chains of the whole collection meet: the rich man is wise in his own eyes, and the poor man with understanding *searches him out* — the very verb 25:2 gave to kings.
+
+**The hinge into Christ is 27:2, and it is the text's own.** The rule is that the verdict must come from outside. The collection states the rule and cannot supply the voice. **The gospel is not that Christ helps us assess ourselves accurately; it is that the verdict has been spoken from outside, over him and over us in him** — and it was spoken before anything had been achieved to justify it.
+
+### Movement 4 — The name comes back, and it comes with mercy *(28:5–29:27)*
+
+**Function:** land the Purpose Statement.
+
+Chapter 28 is where the silence ends. Walk it deliberately: the name returns at **28:5**; the trust vocabulary returns with it, four times in two chapters, three of them with the right object (**28:25; 29:25**) and one with the wrong (**28:26**); and at **28:13** the book's only occurrence of רחם ("to have compassion") — *he who conceals his transgressions will not prosper, but he who confesses and forsakes them will find mercy* `[T]`. **Concealment was God's glory at 25:2 and is our ruin at 28:13, and the same root is doing both.**
+
+Then the test. **29:7** — the one occurrence of דַּעַת ("knowledge") in 138 verses, and it is about the cause of the poor. **29:14** — the throne that stands forever is the one that judges the poor בֶּאֱמֶת ("in truth"). **29:26** — justice for a man comes from the LORD and not from the ruler whose favour everyone is chasing.
+
+Close at **29:27**, which hands over both verdicts and adjudicates neither: an unjust man is an abomination to the righteous, and the upright in the way is an abomination to the wicked. **The collection ends by making you declare which end of the sentence you are standing at.** That is the invitation.
+
+---
+
+## 6. Keep Honest
+
+**1. Do not fill the silence — and do not overclaim it either.** The temptation is to quote 1:7 six times to supply what 25–29 does not say; that removes the collection's whole method. But the qualification is real and belongs in the sermon: **the Greek Old Testament does not keep the silence.** Swete has a plus at 27:20 naming the Lord, inside the sixty-five verses, and *BHS* reconstructs a Hebrew line behind it `[S: BHS]`. Say both, in this order: *this is what the Bible in your hands does — 138 verses, six mentions, sixty-five verses in the middle with none; and the Greek Old Testament does not read it quite that way, which tells us ancient readers noticed the silence too, and one tradition found it hard to leave alone.* **The second sentence strengthens the first.**
+
+**2. Do not let this become a gallery of other people.** It is the sermon the material invites and the one it is built to expose. 26:12 and 28:11 are trapdoors under it. The test of movement 2 is whether anyone leaves thinking of somebody else.
+
+**3. Do not resolve 26:4–5, and do not preach 29:18 as leadership vision.** On 26:4–5: supplying a criterion ("verse 4 is for the sincere fool, verse 5 for the mocker") removes the reader's work, which is the point of the pair. On 29:18: חָזוֹן is prophetic revelation, not organisational foresight, and יִפָּרַע is *runs wild*, not *perishes* — the KJV is the source of the trouble and **NIV84 gets it right** ("Where there is no revelation, the people cast off restraint"). Preach it inside its cluster: 28:4, 7, 9 and 29:18 are the collection's four תּוֹרָה ("law") verses.
+
+**4. Leave 25:27b and 26:10 alone.** *BHS* marks 25:27b **corrupt** and 26:10 **doubtful**, and both English versions supply at 25:27b a negative that is not in the Hebrew `[S: BHS]`. There are 136 other verses.
+
+**5. The collection withholds its motives by design, so the sermon must bring them.** See the note under the Purpose Statement. This is the anti-moralism gate for *this* sermon, and it is not optional: every one of these 138 verses can be preached as good advice, and a sermon assembled from good advice would be 26:12 in the pulpit.
+
+---
+
+## 7. Pulpit-text Note (NIV84)
+
+Four divergences bear on the plan. Two are problems and two are gifts.
+
+**A problem — 28:26, and it is in movement 3.** The Hebrew is בּוֹטֵחַ בְּלִבּוֹ הוּא כְסִיל ("he who trusts in his own **heart** is a fool"). NASB95 keeps the heart: *"He who trusts in his own heart is a fool."* **NIV84 gives "He who trusts in himself is a fool."** The sense survives; **the echo does not.** 3:5 reads בְּטַח אֶל־יְהוָה בְּכָל־לִבֶּךָ ("trust in the LORD with all your heart"), and it is the shared word לֵב ("heart") that makes 28:26 the inversion of it. *What the congregation will hear:* a good line about self-reliance, with no line back to 3:5. **If movement 3 is to make the connection, read 28:26 from the NASB95 at that point, or say the word aloud.**
+
+**A problem — 29:7, and it is movement 4's hinge.** The Hebrew ends רָשָׁע לֹא־יָבִין דָּעַת ("the wicked does not understand knowledge"), and דַּעַת is the collection's only occurrence of the word in 138 verses. NASB95: *"The wicked does not understand such concern."* NIV84: *"the wicked have no such concern"* — which drops *understand* as well. **Neither version lets the congregation hear the word.** *What the congregation will hear:* a verse about compassion for the poor, which is true and is half the point. **Do not build the hinge on the English; tell them plainly that the word the book uses 39 times and uses once here is "knowledge", and that it is spent on the cause of the poor.**
+
+**A gift — 28:12 and 28:28.** The Hebrew uses two different verbs (יְחֻפַּשׂ at 28:12, יִסָּתֵר at 28:28); NIV84 levels both to *"go into hiding"*, exactly as NASB95 levels both to *"men hide themselves"*. **The repetition is therefore more audible in English than in Hebrew**, which helps a movement-4 aside on the chapter's frame. Just do not claim the root-play from the English.
+
+**A gift — 26:12 and 29:20.** The Hebrew opens with two different verbs of seeing (רָאִיתָ, חָזִיתָ) and closes with an identical colon. NIV84 gives *"Do you see a man…"* for both, which makes the pair audible from the pulpit. If the sermon wants the long-range echo — 107 verses apart — NIV84 hands it over.
+
+**Everything else that movements 1–4 stand on reads cleanly in NIV84**, including 25:2 (where NIV84's inverted second colon, *"to search out a matter is the glory of kings"*, is if anything sharper), 27:2, 27:21, 28:13 (*"finds mercy"* — good for the רחם point), 29:14 and 29:23.
+
+---
+
+## 8. Hand-off
+
+The Big Question above is a **candidate**; its final wording belongs to the preacher or to a one-sentence-sermon step. The four movements and their verse-ranges are ready for the manuscript stage.
+
+**One note for the manuscript.** This document takes the study order — original script first, English gloss in brackets. **A manuscript inverts it**: the English leads and the Hebrew follows, because those pages are read aloud. Given how much of this sermon turns on four Hebrew words — חקר ("to search out"), בְּעֵינָיו ("in his own eyes"), דַּעַת ("knowledge") and רחם ("to have compassion") — the manuscript will need to decide, for each one, whether the congregation hears the word or only hears about it. **My recommendation: speak two of them — "wise in his own eyes", which the English carries anyway, and דַּעַת at 29:7, which it does not.**
