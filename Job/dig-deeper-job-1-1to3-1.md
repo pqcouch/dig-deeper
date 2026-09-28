@@ -2,7 +2,7 @@
 
 **Primary texts:** WLC Hebrew with its lemma index (`_texts/hebrew-wlc/03-Ketuvim/02-Job.txt`), read before any English. Swete LXX (Vaticanus) for the whole prologue; the Rahlfs export where the Old Greek matters. BHS apparatus for chapters 1–3. SBLGNT for every New Testament check.
 **Study text:** NASB95 (Logos export)
-**Pulpit text:** None yet declared for the series. Pulpit notes for the ESV and NIV84 are given where a finding depends on them, ready for when the engagement is declared.
+**Pulpit text:** ESV, declared for the whole series on 28 September 2026. The Hebrew is the substrate; the NASB95 is the study text; the ESV and NIV84 are compared against it, and the ESV pulpit notes below say what the congregation will hear.
 **Date:** 28 September 2026
 **Mode:** Fresh Exegesis — **a consolidation run for series Unit 1**. It builds on two completed solo digs and adds the work that only the whole unit makes possible. **It supersedes** `dig-deeper-job-1-1to22` and `dig-deeper-job-2-1to13`, which are kept in the folder as the verse-level record.
 **Book-overview context:** `Job/book-overview-job.md` (v0.1.1); the sweep (Units 1–2); the structure claim audit (`dig-deeper-job-claim-audit`, 28 September 2026), whose verdicts are accepted here and tagged `[S: audit]`.
@@ -394,7 +394,7 @@ The verse-level word studies are in the two superseded digs (Job 1 dig, Tool 7; 
 | 1:6; 2:1 | בְּנֵי הָאֱלֹהִים ("the sons of God") | "the sons of God" | "the sons of God" | "the angels" |
 | 1:9 / 2:3 | חִנָּם / חִנָּם | "for nothing" / "without cause" | "for no reason" / "without reason" | "for nothing" / "without any reason" |
 | 1:5, 11; 2:5, 9 | ברך (euphemism) | "curse" | "curse" | "curse" |
-| 2:7 | שְׁחִין רָע ("evil boils") | "sore boils" (= Deut 28:35) | "loathsome sores" | "painful sores" |
+| 2:7 | שְׁחִין רָע ("evil boils") … מִכַּף רַגְלוֹ וְעַד קָדְקֳדוֹ | "sore boils from the sole of his foot to the crown of his head" (= Deut 28:35 exactly) | "loathsome sores from the sole of his foot to the crown of his head" (Deut 28:35: "grievous boils … from the sole of your foot to the crown of your head") | "painful sores from the soles of his feet to the top of his head" (Deut 28:35: "painful boils … from the soles of your feet to the top of your head") |
 | 2:10 | הָרָע ("the evil") | "adversity" | "evil" | "trouble" |
 | 2:10 | בִּשְׂפָתָיו ("with his lips") | "with his lips" | "with his lips" | "in what he said" |
 | 2:12 | הַשָּׁמָיְמָה ("toward heaven") | "toward the sky" (= Exod 9:8, 10) | "toward heaven" | — |
@@ -405,8 +405,9 @@ The verse-level word studies are in the two superseded digs (Job 1 dig, Tool 7; 
 - **3:1 is expanded in all three.** "The day of his birth" is the right sense in view of 3:3, but it loses "his day", and with it the echo of 1:4.
 - **Each version keeps a different link.**
   - ESV keeps חִנָּם audibly consistent (1:9 / 2:3) and keeps "evil" at 2:10.
-  - NASB95 keeps "sore boils" and "toward the sky", the Deut 28 and Exod 9 links.
-  - NIV84 keeps none of the four, and adds "angels" and "in what he said".
+  - **All three keep the Deut 28:35 link at 2:7** through "from the sole(s) of his foot / feet to the crown / top of his head", each matching its own Deut 28:35. NASB95 alone also matches the disease word ("sore boils"); NIV84 matches its adjective ("painful"); the ESV varies it ("loathsome sores" against "grievous boils").
+  - NASB95 alone keeps the Exod 9 link at 2:12 ("toward the sky").
+  - NIV84 adds "angels" and "in what he said".
 
 **Ancient versions (Swete).** Triaged in the solo digs; the unit-level points are these.
 - **2:3 — God's admission softened.** The Greek has no "you incited Me", and it renders חִנָּם by διὰ κενῆς ("in vain"), where 1:9 had δωρεάν. Both the admission and the link are lost. *Category 1–2*, the translator's reserve `[S]`.
@@ -420,8 +421,8 @@ The verse-level word studies are in the two superseded digs (Job 1 dig, Tool 7; 
 
 **KJV (historic witness).** "Doth Job fear God for nought?" (1:9); "cursed his day" (3:1) — the Hebrew's brevity kept. `[unverified — KJV quoted from recall]`.
 
-**Pulpit divergence note.** N/A — no pulpit text declared. Ready notes:
-- **ESV:** the congregation will hear "for no reason … without reason" (1:9; 2:3), the link made. It will hear "evil" at 2:10. It will not hear Deut 28:35 at 2:7, or Exod 9 at 2:12. At 3:1 it hears "the day of his birth".
+**Pulpit divergence note.** The pulpit text is the ESV. The NIV84 notes are kept for engagements elsewhere.
+- **ESV:** the congregation will hear "for no reason … without reason" (1:9; 2:3), the link made. It will hear "evil" at 2:10. It will hear Deut 28:35 at 2:7 through "from the sole of his foot to the crown of his head", which is word for word its Deut 28:35, though the disease word differs. It will not hear Exod 9 at 2:12 (ESV Exod 9:8 has "in the air"), nor Gen 22:12 at 1:12 (ESV Gen 22:12 has "Do not lay your hand"). It will hear 1:22 and 2:10 as a pair ("In all this Job did not sin …") and 2:9 as a verbatim echo of 2:3 ("hold fast your integrity"). At 3:1 it hears "the day of his birth".
 - **NIV84:** the congregation will hear "angels" (1:6; 2:1), "took turns" (1:4), "trouble" (2:10) and "in what he said" (2:10). It will hear nothing of "toward heaven" (2:12). The preacher will have to supply the links from the pulpit or leave them.
 
 ### 9. Tone and Feel
@@ -880,7 +881,7 @@ The solo digs treat each of these fully. The unit-level handling:
 - **One question tested twice, answered with its own word** — Structure, Repetition, Vocabulary (חִנָּם), Narrator's Comment, Move 4. *High.*
 - **The ברך thread and the single קלל** — Vocabulary, Repetition, Translations (every English version hides it), Narrator's Comment, Tool 12 (the frame arrives at 3:1). *High.*
 - **Five scenes, heaven and earth; the reader in the gallery** — Structure, Repetition (the divine names by scene; וַיְהִי הַיּוֹם ×3), Who Am I?, Genre. *High.*
-- **Deuteronomy 28 at both ends** — Tool 11 (Moves 1–3), Vocabulary, Translations (only the NASB95 lets it be heard at 2:7), Original Audience. *High on the words; moderate on design.*
+- **Deuteronomy 28 at both ends** — Tool 11 (Moves 1–3), Vocabulary, Translations (all three versions keep the sole-to-crown phrase at 2:7), Original Audience. *High on the words; moderate on design.*
 - **Abraham's test inverted** — Tool 11, Vocabulary (יְרֵא אֱלֹהִים), Copycat. *High on the phrases; moderate on design.*
 - **Three responses — worship, despair, silence** — Structure, Copycat, Who Am I?, Tone, Move 4 (13:5; 27:5–6). *High.*
 - **The יוֹם thread ending in "his day"** — Vocabulary, Repetition, Translations (lost in all English versions and in the Greek at 1:4), Move 4 (3:3–10; 38:12). *Moderate–high.*
@@ -1036,6 +1037,7 @@ All were produced or tested in this project. No commentary was opened. The `[S]`
 - 5 Headline Findings; 7 Preaching Pitfalls; confidence flags throughout.
 
 **Corrections made at the gate before output:**
+- **Deut 28:35 in the English versions** (corrected 28 September, at the point-purpose stage, after checking the ESV and NIV84 exports). The Job 2 dig and the first issue of this report said only the NASB95 lets the Deut 28:35 link be heard at 2:7, comparing the disease word alone. All three versions keep "from the sole(s) … to the crown / top of his head", matching their own Deut 28:35. Tool 8 and the Convergent Findings were corrected.
 - **YHWH.** A draft said every occurrence was in the heaven scenes except 1:21. But 2:7 (the Accuser's exit, scene 5) has the name. Restated: "in a heaven scene or at its threshold (1:12; 2:7), except 1:21".
 - **Job's words.** A draft called 1:21 and 2:10 Job's only words before 3:1. But 1:5 reports his reasoning ("for Job said"). Restated.
 - **Ps 128:2.** A draft quoted it as "the work of your hands". The NASB95 has "the fruit of your hands" (Hebrew יְגִיעַ, "labour"). Corrected, so that Ps 128 is not confused with the Deuteronomy formula.
