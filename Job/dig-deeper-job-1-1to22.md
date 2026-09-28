@@ -1,5 +1,7 @@
 # Dig Deeper: Job 1:1–22
 
+> **Superseded (28 September 2026).** This solo dig on Job 1:1–22 is kept as the verse-level record. For sermon preparation use the unit report `dig-deeper-job-1-1to3-1` (Job 1:1–3:1, series Unit 1), which consolidates this dig with its neighbour, adds the prologue-level findings, and folds in the later corrections (the Satan count; the 2 Sam 1:2 addendum).
+
 **Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/02-Job.txt`, with its lemma index), read before any English. Swete LXX (`greek-lxx-swete/22-Job.txt`) read for the whole chapter. BHS apparatus (Logos export, RTF-derived text) for Job 1 in full. SBLGNT for every New Testament check.
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** None — no sermon in view. Where the ESV or NIV84 part company with the NASB95 on something a finding depends on, the note is given anyway, so that it is ready when an engagement is declared.
