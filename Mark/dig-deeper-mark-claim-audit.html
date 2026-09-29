@@ -1,0 +1,1552 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Audit: Mark</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#claim-audit-mark">Claim Audit: Mark</a></li>
+    <li><a href="#how-this-audit-was-run">How This Audit Was Run</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#claims-audited">Claims Audited</a></li>
+    <li><a href="#confidence-change-propagation">Confidence Change Propagation</a></li>
+    <li><a href="#recommended-book-overview-revisions">Recommended Book-Overview Revisions</a></li>
+    <li><a href="#consequences-for-the-sweep">Consequences for the Sweep</a></li>
+    <li><a href="#tool-problem-found">Tool Problem Found</a></li>
+    <li><a href="#open-questions-for-logos">Open Questions for Logos</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="claim-audit-mark">Claim Audit: Mark</h1>
+<p><strong>Claims audited:</strong> 21 Old Testament allusion claims that the Mark sweep proposed to add to, or upgrade in, the book overview. They fall at Mark 1:10; 9:5–7, 14–19, 49; 10:27, 45; 11:8, 12–21; 13:2, 14–19, 24, 31; 14:3, 9, 34, 36, 52; 15:33, 40. <strong>Date:</strong> 29 September 2026 <strong>Purpose:</strong> To test these claims before any of them enters <code>Mark/book-overview-mark.md</code>. The sweep named them as synthetic and capped them at moderate confidence until audited. The three it flagged first were Hosea 9, Isaiah 63:11–14 and Amos 2:16. <strong>Texts:</strong> Mark from the SBLGNT, with the MorphGNT index, counted in 1:1–16:8. Greek OT from Swete (observation) and the Rahlfs–Hanhart exports (citation). Hebrew from the WLC, checked with <code>find.py</code>. NA28 apparatus for Mark. There is no LXX apparatus in the folder. <strong>Consumes:</strong> <code>Mark/book-overview-mark.md</code> Draft v0.1.0 and <code>Mark/dig-deeper-mark-sweep.md</code>, both from 29 September 2026.</p>
+<hr />
+<h2 id="how-this-audit-was-run">How This Audit Was Run</h2>
+<p><strong>Independence.</strong> The overview and the sweep were written by the same model in one session, so an audit by that same author could only agree with itself. To avoid that, the 21 claims went to <strong>three fresh auditors</strong>, each a separate run with no access to the sweep or its reasoning. They were grouped as the Prophets (claims 1–7), Torah and Daniel (8–15), and the passion (16–21).</p>
+<ul>
+<li>Each auditor was given the bare claim and the overview’s current rating. Nothing else was supplied.</li>
+<li>Each was told to try to <em>break</em> the claim.</li>
+<li>Each was to work only from the corpus on the device, and to report under the Hays criteria.</li>
+</ul>
+<p>The auditors could grep the overview’s Intertextual Map, and nothing else in the Mark folder. None opened a commentary.</p>
+<p><strong>Baselines.</strong> The main test was frequency, not fit. For each claim the auditors asked:</p>
+<ul>
+<li>How many verses and chapters in Swete, or in the WLC, contain the shared word?</li>
+<li>How many contain the same <em>combination</em> of words?</li>
+<li>Does Mark use the phrase anyway, in places where nobody proposes a source? This is the random-passage test.</li>
+</ul>
+<p>A claim built on common words, or on a habit of Mark’s own speech, was downgraded however well it fitted the theme.</p>
+<p><strong>Checking the checkers.</strong> The auditors’ reports were then read here, and their decisive findings were re-run on the corpus. The following all reproduced exactly:</p>
+<ul>
+<li>Rahlfs Isa 63:11 reads ἐκ τῆς γῆς (“out of the land”).</li>
+<li>Rahlfs Gen 39:12 reads καταλιπὼν … ἔφυγεν (“leaving … he fled”).</li>
+<li>Hebrew Isa 63:14 has the cattle, not the Spirit, going down.</li>
+<li>Hebrew Jonah 4:9 has חָרָה (“to be angry”, 2734).</li>
+<li>Isa 13:10 has נגה (“to shine”, 5050).</li>
+<li>Sir 37:2 has λύπη … ἕως θανάτου (“grief … to the point of death”).</li>
+<li>Swete Exod 10:22, Exod 11:6, Num 10:34 and Dan 12:11 (OG) read as the auditors reported.</li>
+<li>Theodotion Dan 7:14 has οὐ παρελεύσεται (“will not pass away”).</li>
+<li>διακονέω (“to serve”) does not occur as a verb anywhere in Swete. The only hit is the noun διάκονος (“servant”) in the Prov 10:4 addition.</li>
+<li>The NA28 apparatus at Mark 9:49 cites Lev 2:13 for D and the Majority text.</li>
+<li>Heb 12:21 quotes ἔκφοβός εἰμι (“I am terrified”).</li>
+<li>Mark’s μακρόθεν (“from a distance”) occurs in five verses, always as ἀπὸ μακρόθεν.</li>
+</ul>
+<p><strong>Warrant tags</strong> apply in the body: <code>[T]</code> for the text on the page, <code>[I]</code> for inference, and <code>[S]</code> for secondary knowledge, which here was never opened, only recalled.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verdict</th>
+<th>Count</th>
+<th>Claims</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Confirmed</td>
+<td>1</td>
+<td>12 (Lev 2:13 at 9:49)</td>
+</tr>
+<tr class="even">
+<td>Confirmed with nuance</td>
+<td>4</td>
+<td>8 (Exod 40 / Num 10 cloud), 9 (Deut 9:19 ἔκφοβος, “terrified”), 11 (Deut 32:20 and the wilderness generation), 15 (Gen 18:14 cluster)</td>
+</tr>
+<tr class="odd">
+<td>Needs reframing</td>
+<td>8</td>
+<td>1 (Hos 9 → Jer 7–8 lead), 2 (Isa 63:11–14), 5 (Joel 2:10), 13 (Dan 7:14 at 10:45), 14 (Daniel’s “order”), 16 (Isa 40:8), 17 (royal anointing), 20 (Isa 51 cup)</td>
+</tr>
+<tr class="even">
+<td>Uncertain — flag for research</td>
+<td>4</td>
+<td>3 (Amos 2:16), 6 (Hag 2:15), 7 (Jonah 4:9), 18 (2 Kgs 9:13)</td>
+</tr>
+<tr class="odd">
+<td>Discard</td>
+<td>4</td>
+<td>4 (Amos 8:10), 10 (Exod 32), 19 (Exod 12:14), 21 (Ps 38:12)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Headline.</strong> The sweep’s allusion claims fared much worse than its lexical chains did. All 74 chains within Mark had passed their gate. Of the 21 allusions, only five survive as proposed or with nuance. The three the sweep ranked highest, Hosea 9, Isaiah 63:11–14 and Amos 2:16, all fall.</p>
+<ul>
+<li><strong>Hosea 9</strong> is displaced by the Jeremiah chapter that Mark actually quotes.</li>
+<li><strong>Isaiah 63:11–14</strong> cannot deliver its match in any single text: the Hebrew lacks the Spirit coming down, and the Rahlfs Greek lacks the sea.</li>
+<li><strong>Amos 2:16</strong> has a better-matching rival in Gen 39:12, so it cannot be counted as a case of Mark standing nearer the Hebrew.</li>
+</ul>
+<p>This fits the project’s finding across three earlier books: synthetic claims made at speed fail far more often than passage-level ones.</p>
+<p>The audit also turned up <strong>seven rival or new sources</strong> that the sweep missed:</p>
+<ul>
+<li>Jer 7:15 and 8:13 at 11:12–21</li>
+<li>Gen 39:12 at 14:52</li>
+<li>Sir 37:2 at 14:34</li>
+<li>Num 10:34 at 9:7</li>
+<li>Exod 11:6 at 13:19</li>
+<li>Isa 51:6 and Theodotion Dan 7:14 at 13:31</li>
+<li>Exod 10:22 at 15:33</li>
+</ul>
+<p>Some of these are stronger than what they replace. None has been audited in its own right.</p>
+<hr />
+<h2 id="claims-audited">Claims Audited</h2>
+<h3 id="claim-1-hos-91017-behind-mark-111221">Claim 1: Hos 9:10–17 behind Mark 11:12–21</h3>
+<p><strong>Source:</strong> sweep unit 25 and Tensions 1. Proposed at moderate–high, to replace the overview’s row “Jer 8:13 (with Hos 9:10; Mic 7:1)”, currently rated uncertain.</p>
+<p><strong>Claim:</strong> One chapter of Hosea supplies the whole sequence: the fig (9:10); “I will drive them out of my house” (9:15), behind the expulsion and “my house” at 11:15–17; and “their root is dried up, they shall bear no fruit” (9:16), behind 11:14 and 11:20.</p>
+<p><strong>Evidence.</strong></p>
+<p><em>Mark 11:</em> - 11:13: ἰδὼν συκῆν … οὐδὲν εὗρεν εἰ μὴ φύλλα (“seeing a fig tree … he found nothing but leaves”) - 11:14: μηδεὶς καρπὸν φάγοι (“may no one eat fruit”) - 11:15: ἤρξατο ἐκβάλλειν (“he began to drive out”) - 11:17: Ὁ οἶκός μου … σπήλαιον λῃστῶν (“my house … a den of robbers”) - 11:20: ἐξηραμμένην ἐκ ῥιζῶν (“withered from the roots”)</p>
+<p><em>Hosea 9:</em> - <strong>9:10.</strong> WLC כְּבִכּוּרָה בִתְאֵנָה (“like first fruit on the fig tree”). This is a simile of God’s <em>delight</em> in Israel’s fathers, not a picture of a barren tree. - <strong>9:15.</strong> WLC מִבֵּיתִי אֲגָרְשֵׁם (“from my house I will drive them out”). Swete and Rahlfs both read ἐκ τοῦ οἴκου μου ἐκβαλῶ αὐτούς (“I will drive them out of my house”). - <strong>9:16.</strong> WLC שָׁרְשָׁם יָבֵשׁ פְּרִי בלי־יַעֲשׂוּן (“their root is dried up, they will bear no fruit”). The ketiv בלי stands unpointed. Swete has καρπὸν οὐκέτι μὴ ἐνέγκῃ (“it will bear fruit no more”). Mark’s verb is φάγοι (“eat”), not ἐνέγκῃ (“bear”).</p>
+<p><em>The competitor.</em> Mark 11:17 quotes Jer 7:11, μὴ σπήλαιον λῃστῶν ὁ οἶκός μου (“is my house a den of robbers?”). That makes Jeremiah’s temple sermon the passage in hand, and it already supplies “my house”.</p>
+<ul>
+<li><strong>Jer 7:15</strong> is an expulsion: καὶ ἀπορρίψω ὑμᾶς ἀπὸ προσώπου μου (“I will cast you from my presence”).</li>
+<li><strong>Jer 8:13</strong> (Swete) reads οὐκ ἔστιν σῦκα ἐν ταῖς συκαῖς, καὶ τὰ φύλλα κατερρύηκεν (“there are no figs on the fig trees, and the leaves have fallen”). That gives three words shared with Mark 11:13: συκῆ (“fig tree”), σῦκον (“fig”) and φύλλον (“leaf”). Hosea shares only συκῆ.</li>
+</ul>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li><strong>Swete, fig words:</strong> 35 verses in 29 chapters.</li>
+<li><strong>Fig + ἐκβαλ- (“drive out”):</strong> 5 chapters.</li>
+<li><strong>Fig + root, and all five elements together:</strong> Hos 9 only.</li>
+<li><strong>Fig + leaf:</strong> 3 chapters (Gen 3, Isa 34, Jer 8).</li>
+<li><strong>WLC:</strong> תְּאֵנָה (“fig”, 8384) + גרשׁ (“drive out”, 1644) occur together in 3 chapters. Fig + שֹׁרֶשׁ (“root”, 8328), and all five lemmas together, occur in Hos 9 only.</li>
+<li><strong>Random-passage test:</strong> Mark 4:6–7 already has ῥίζα (“root”) + ἐξηράνθη (“withered”) + καρπός (“fruit”). So the triad of root, withering and fruit is Mark’s own vocabulary.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>Hosea is canonical and widely read</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>Hos 9 is the only chapter with the full cluster, but each word is common, and “my house” is already accounted for by the quoted text</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Weak</td>
+<td>Hosea elsewhere in Mark only through Hos 6:6 at 12:33</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>Expulsion from God’s house and barrenness fit, but Hosea’s fig is an image of delight</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>A judgement reading of Hosea is plausible</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>No secondary sources were opened. Hos 9:10 is often listed beside Jer 8:13 <code>[S]</code></td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>Hosea adds the root and the drying; Jeremiah supplies the leaves and “my house”</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Moderate confidence for Jeremiah 7–8 as the lead source, with Hosea 9 as a secondary resonance at uncertain to moderate.</p>
+<p><strong>Reasoning:</strong> Hosea 9’s cluster really is unique in both Swete and the WLC. But Mark quotes Jeremiah 7, and Jer 7:15 and 8:13 match the fig and the leaves more closely than Hosea does. Hosea cannot displace the text Mark actually cites. The sweep’s case rested on “one chapter supplies everything”. Against the Jeremiah context, that is no longer the whole picture.</p>
+<p><strong>Book-overview action:</strong> Do not replace the row. Revise it to “Jer 7:11 (quoted), with 7:15 and 8:13 (no figs, leaves); cf. Hos 9:10–16 (fig; ‘out of my house I will drive them’; root dried, no fruit)”. Raise the Jeremiah context from uncertain to <strong>moderate</strong>, and tag Hosea at <strong>uncertain–moderate</strong>.</p>
+<hr />
+<h3 id="claim-2-isa-631114-with-6319-behind-mark-110">Claim 2: Isa 63:11–14 (with 63:19) behind Mark 1:10</h3>
+<p><strong>Source:</strong> sweep unit 1 and Tensions 2. Proposed at moderate, to widen the overview’s Isa 63:19 row, which is currently moderate.</p>
+<p><strong>Claim:</strong> The prayer that asks God to “tear the heavens and come down” (63:19, Hebrew) also speaks of one brought “up out of the sea” and of the Holy Spirit (63:11), and of the Spirit “coming down” (63:14). Together these match Mark’s “coming up out of the water … the Spirit … coming down”.</p>
+<p><strong>Evidence.</strong></p>
+<p><em>Mark 1:10:</em> ἀναβαίνων ἐκ τοῦ ὕδατος (“coming up out of the water”) … τὸ πνεῦμα … καταβαῖνον (“the Spirit … coming down”).</p>
+<p><em>Isa 63:11:</em> - WLC: הַמַּעֲלֵם מִיָּם אֵת רֹעֵי צֹאנוֹ (“who brought them up out of the sea with the shepherds of his flock”) … אֶת־רוּחַ קָדְשׁוֹ (“his Holy Spirit”). - Swete: ἐκ τῆς θαλάσσης (“out of the sea”). - <strong>Rahlfs: ἐκ τῆς γῆς (“out of the land”)</strong> <code>[T]</code>, re-verified. So the Greek text of record has no sea.</p>
+<p><em>Isa 63:14:</em> - WLC: כַּבְּהֵמָה בַּבִּקְעָה תֵרֵד רוּחַ יְהוָה תְּנִיחֶנּוּ (“as cattle go down into the valley, the Spirit of the LORD gave them rest”). In the Hebrew it is the cattle that go down. - Only the Greek has κατέβη πνεῦμα (“the Spirit came down”).</p>
+<p><em>The verbs:</em> Isaiah has the causative ἀναβιβάζω (“to bring up”); Mark has ἀναβαίνω (“to go up”).</p>
+<p><em>What survives:</em> the phrase “Holy Spirit” is rare. In canonical Swete it occurs only at Ps 50:13 and Isa 63:10, 11, and Mark 1:8 has ἐν πνεύματι ἁγίῳ (“with the Holy Spirit”) two verses earlier.</p>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li><strong>Swete:</strong> πνεῦμα (“spirit, wind”) + a καταβ- form (“to go down”) + an ἀναβ- form (“to go up”) occur together in 43 chapters.</li>
+<li><strong>WLC:</strong> עלה (“to go up”, 5927), יָם (“sea”, 3220), רוּחַ (“spirit, wind”, 7307) and ירד (“to go down”, 3381) occur together in 17 chapters.</li>
+<li><strong>Random-passage test:</strong> Mark 5:13 has spirits and the sea, and 6:51 has ἀναβαίνω (“to go up”) and the sea.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>The prayer is already in play through 63:19</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>The cluster occurs in 17–49 chapters. The sea is in Swete only, and the Spirit’s descent is in the Greek only</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>63:19 is already linked to 1:10</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>A new-exodus shepherd given the Spirit suits a baptism</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Depends on which text is imagined</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>Only “Holy Spirit” is distinctive</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Uncertain.</p>
+<p><strong>Reasoning:</strong> No single text supplies all three elements. The Hebrew has the sea and the Holy Spirit but no descending Spirit. The Greek has the descending Spirit, but its text of record reads “land”, not “sea”. The sweep’s triple match was assembled from different witnesses. The 63:19 link itself, קָרַע (“to tear”), is untouched by this audit.</p>
+<p><strong>Book-overview action:</strong> Do not widen the row. At most, add a clause to the 63:19 row: “the same prayer recalls the one who brought the shepherd up from the sea and put his Holy Spirit among them (63:11, Hebrew)”. Mark it as context, and drop the κατέβη (“came down”) argument.</p>
+<hr />
+<h3 id="claim-3-amos-216-behind-mark-1452">Claim 3: Amos 2:16 behind Mark 14:52</h3>
+<p><strong>Source:</strong> sweep unit 32, Headline Finding 4 and Tensions 3. Proposed at moderate, and as a seventh case of Mark standing nearer the Hebrew than the Greek.</p>
+<p><strong>Claim:</strong> Mark’s γυμνὸς ἔφυγεν (“naked, he fled”) follows the Hebrew עָרוֹם יָנוּס (“naked he will flee”), against Swete and Rahlfs, which both read ὁ γυμνὸς διώξεται (“the naked one will pursue”).</p>
+<p><strong>Evidence.</strong></p>
+<p><em>Mark 14:51–52:</em> περιβεβλημένος σινδόνα ἐπὶ γυμνοῦ (“wearing a linen cloth over his naked body”), κρατοῦσιν αὐτόν (“they seize him”), ὁ δὲ καταλιπὼν τὴν σινδόνα γυμνὸς ἔφυγεν (“but he, leaving the linen cloth, fled naked”).</p>
+<p><em>Amos 2:16:</em> the Hebrew and the Greek are as the claim states <code>[T]</code>.</p>
+<p><em>The competitor, Gen 39:12:</em> - Rahlfs: καταλιπὼν τὰ ἱμάτια αὐτοῦ ἐν ταῖς χερσὶν αὐτῆς ἔφυγεν (“leaving his garments in her hands, he fled”) <code>[T]</code>, re-verified. This is Mark’s participle in Mark’s order. - WLC: וַתִּתְפְּשֵׂהוּ בְּבִגְדוֹ … וַיַּעֲזֹב בִּגְדוֹ … וַיָּנָס (“she seized him by his garment … he left his garment … and fled”). - Genesis 39 matches the seizing, the garment left behind and the flight, in both languages.</p>
+<p><em>The word “naked”:</em> γυμνός (“naked”) is already present at 14:51, so its use at 14:52 is required by the story itself.</p>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li><strong>WLC:</strong> עָרוֹם (“naked”, 6174) + נוס (“to flee”, 5127) occur in the same verse only at Amos 2:16. עזב (“to leave”, 5800) + נוס occur together in 8 verses, 4 of them in Gen 39.</li>
+<li><strong>Swete:</strong> καταλ(ε)ιπ- (“to leave”) + ἔφυγ- (“fled”) occur together in 8 verses, 4 of them in Gen 39.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>Two words, one of them required by the narrative</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Amos 8:9 at 15:33</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>The collapse of the brave “in that day” fits 14:50</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Needs a reader of the Hebrew</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>Often mentioned <code>[S]</code></td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>Gen 39 accounts for more of the wording</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Uncertain — flag for research. Uncertain. <strong>Discard it as a “Mark nearer the Hebrew” case.</strong></p>
+<p><strong>Reasoning:</strong> The Hebrew pairing is unique, but “fled naked” is what any narrator would write of a man who slips out of his only garment. Genesis 39 shares the participle, the seizing and the abandoned garment. The argument for Hebrew priority depends on Amos being the source, and that has not been shown.</p>
+<p><strong>Book-overview action:</strong> Do not add Amos 2:16 to the “nearer the Hebrew” list. If a row is wanted, make it one row at uncertain: “Gen 39:12 (seized, garment left, fled); cf. Amos 2:16 Heb”.</p>
+<hr />
+<h3 id="claim-4-amos-810-with-89-behind-mark-1533">Claim 4: Amos 8:10 with 8:9 behind Mark 15:33</h3>
+<p><strong>Source:</strong> sweep unit 35. Proposed as an extension of the overview’s Amos 8:9 row, currently moderate.</p>
+<p><strong>Claim:</strong> Amos 8:10, “like mourning for an only son” (WLC יָחִיד, “only one”; Swete ἀγαπητοῦ, “beloved”), ties the darkness at 15:33 to the Voice’s ἀγαπητός (“beloved”) at 1:11, 9:7 and 12:6.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Mark 15 has neither ἀγαπητός (“beloved”) nor any mourning word.</strong> πενθέω (“to mourn”) occurs only at 16:10, in the longer ending <code>[T]</code>.</li>
+<li><strong>The same pairing is not unique to Amos.</strong> Jer 6:26 has it too: WLC אֵבֶל יָחִיד (“mourning for an only son”), Swete πένθος ἀγαπητοῦ (“mourning for a beloved one”). Zech 12:10 has ὡς ἐπ’ ἀγαπητῷ (“as for a beloved one”).</li>
+<li><strong>The overview’s 8:9 row has a rival.</strong> Swete Exod 10:22, ἐγένετο σκότος … ἐπὶ πᾶσαν γῆν Αἰγύπτου (“there came darkness … over all the land of Egypt”), is the only Swete verse pairing darkness with “the whole land”. It is verbally closer to Mark’s σκότος ἐγένετο ἐφ’ ὅλην τὴν γῆν (“darkness came over the whole land”) than Amos 8:9 is <code>[T]</code>, re-verified.</li>
+</ul>
+<p><strong>Baseline.</strong> יָחִיד (“only one”) occurs in 12 WLC verses. It is paired with אֵבֶל (“mourning”) in 2: Amos 8:10 and Jer 6:26.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>The linking word is absent from Mark 15</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>8:9 is already in the overview</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>Only through a theological reading</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Weak</td>
+<td>Needs a reader to join 1:11 and Amos across the whole book</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>Explains nothing in Mark’s wording</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Discard as a Markan allusion. Uncertain. It may stay as a biblical-theology note, outside the map.</p>
+<p><strong>Reasoning:</strong> The link runs through a word Mark does not use, and the pairing it depends on is shared with Jer 6:26.</p>
+<p><strong>Book-overview action:</strong> Keep Amos 8:9 at moderate and do not extend it to 8:10. Add Exod 10:22 as a rival for the darkness at 15:33, at moderate, for its own audit.</p>
+<hr />
+<h3 id="claim-5-joel-210-conflated-with-isa-1310-at-mark-1324">Claim 5: Joel 2:10 conflated with Isa 13:10 at Mark 13:24</h3>
+<p><strong>Source:</strong> sweep unit 29 and Tensions 3.</p>
+<p><strong>Claim:</strong> Mark’s φέγγος (“light, radiance”), where Swete’s Isa 13:10 has φῶς (“light”), comes from Joel 2:10.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Mark 13:24 is Isa 13:10 LXX word for word except for this one noun</strong> <code>[T]</code>.</li>
+<li><strong>In Joel the φέγγος belongs to the stars, not the moon.</strong> Joel 2:10 and 4:15 read τὰ ἄστρα δύσουσιν τὸ φέγγος αὐτῶν (“the stars will withdraw their light”), and the verb differs as well.</li>
+<li><strong>Isaiah’s own Hebrew offers another explanation.</strong> Isa 13:10 reads וְיָרֵחַ לֹא־יַגִּיהַ אוֹרוֹ (“the moon will not <em>cause to shine</em> its light”). The verb is נגה (“to shine”, 5050), verified. Its noun נֹגַהּ (“brightness”) is what φέγγος renders elsewhere in the LXX. So φέγγος may come from Isaiah’s own Hebrew.</li>
+</ul>
+<p><strong>Baseline.</strong> φέγγος occurs in about 22 canonical Swete verses. It never stands as <em>the moon’s</em> light.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>One noun, attached to a different subject</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Joel 4:13 at 4:29</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>Day-of-the-LORD darkening</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>Isaiah’s Hebrew explains the noun equally well</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Uncertain.</p>
+<p><strong>Reasoning:</strong> The wording is Isaiah’s throughout. The single divergent word has two possible explanations, and neither requires Joel.</p>
+<p><strong>Book-overview action:</strong> Keep the “Isa 13:10; 34:4” row at high. Add a note: “φέγγος against LXX φῶς: either Joel 2:10 / 4:15 or the Hebrew verb נגה of Isa 13:10 — unresolved.” Do not assert a conflation.</p>
+<hr />
+<h3 id="claim-6-hag-215-behind-mark-132">Claim 6: Hag 2:15 behind Mark 13:2</h3>
+<p><strong>Source:</strong> sweep unit 28. Proposed at moderate.</p>
+<p><strong>Claim:</strong> Mark’s λίθος ἐπὶ λίθον (“stone upon stone”) answers Haggai’s description of the second temple’s founding.</p>
+<p><strong>Evidence.</strong> Hag 2:15 in Swete and Rahlfs reads πρὸ τοῦ θεῖναι λίθον ἐπὶ λίθον ἐν τῷ ναῷ Κυρίου (“before stone was laid upon stone in the temple of the Lord”). The WLC reads אֶבֶן אֶל־אֶבֶן (“stone upon stone”). Both refer to the same building as Mark, but Haggai describes construction and Mark demolition <code>[T]</code>.</p>
+<p><strong>Baseline.</strong> The phrase is <strong>unique in the Old Testament</strong>: one verse in Swete and one in the WLC. But it is made of the commonest words, and it is the natural idiom for razing a building.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>Unique in the OT, but idiomatic</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Weak</td>
+<td>No other use of Haggai in Mark</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>The same temple, with the action reversed</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>Adds irony, but explains no detail</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Uncertain — flag for research. Uncertain.</p>
+<p><strong>Reasoning:</strong> The rarity and the shared building make it attractive. The idiom makes it unnecessary.</p>
+<p><strong>Book-overview action:</strong> Add at most one row at uncertain, noting that the phrase is unique to Hag 2:15 in both languages but idiomatic.</p>
+<hr />
+<h3 id="claim-7-jonah-49-behind-mark-1434-jonah-as-a-live-source">Claim 7: Jonah 4:9 behind Mark 14:34 (Jonah as a “live” source)</h3>
+<p><strong>Source:</strong> sweep unit 32 and Tensions 5 and 9.</p>
+<p><strong>Claim:</strong> Jonah 4:9 lies behind Mark’s ἕως θανάτου (“to the point of death”), and so gives Jonah a second contact in Mark.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Jonah 4:9 in the Greek.</strong> Swete and Rahlfs read Σφόδρα λελύπημαι ἐγὼ ἕως θανάτου (“I am greatly grieved, to the point of death”).</li>
+<li><strong>Jonah 4:9 in the Hebrew.</strong> The WLC reads חָרָה־לִי עַד־מָוֶת (“I am <em>angry</em>, to the point of death”). Jonah is angry in the Hebrew, not grieving (חָרָה, “to be angry”, 2734, verified). So the link of grief exists only in the Greek.</li>
+<li><strong>The first half of Mark’s saying is already explained</strong> by the psalm refrain ἵνα τί περίλυπος εἶ, ἡ ψυχή (“why are you very sorrowful, O soul?”, Swete Ps 41:6, 12; 42:5).</li>
+<li><strong>A rival for the second half.</strong> Sir 37:2 reads οὐχὶ λύπη ἔνι ἕως θανάτου ἑταῖρος καὶ φίλος τρεπόμενος εἰς ἔχθραν; (“is it not a grief to the point of death when a companion and friend turns to enmity?”). This is re-verified, and it fits a betrayal setting.</li>
+</ul>
+<p><strong>Baseline.</strong> A λυπ- word (“grief”) with ἕως θανάτου (“to the point of death”) in one verse: in Swete, only Jonah 4:9 and Sir 37:2.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>A rare pairing, but shared with Sirach</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Jonah 1:10 at 4:41 (high)</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Weak</td>
+<td>Jonah’s sulk over the plant sits oddly beside Gethsemane</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Through the Greek only</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>Two idiomatic words</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Uncertain — flag for research. Uncertain.</p>
+<p><strong>Reasoning:</strong> The psalm carries this verse. Jonah contributes two words, which are shared with Sirach, and in the Hebrew Jonah is angry, not grieving.</p>
+<p><strong>Book-overview action:</strong> Keep Ps 42–43 at high. At most, add a note: “(ἕως θανάτου: cf. Jonah 4:9 Greek; Sir 37:2)” at uncertain. <strong>Do not mark Jonah as live</strong> on this evidence.</p>
+<hr />
+<h3 id="claim-8-exod-403435-swete-4029-behind-mark-957">Claim 8: Exod 40:34–35 (Swete 40:29) behind Mark 9:5–7</h3>
+<p><strong>Source:</strong> sweep unit 18 and Tensions 4. Proposed as a row beside Exod 24:16.</p>
+<p><strong>Claim:</strong> Mark’s νεφέλη ἐπισκιάζουσα αὐτοῖς (“a cloud overshadowing them”, 9:7), together with Peter’s σκηναί (“tents”, 9:5), recalls the cloud over the tabernacle.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Exod 40.</strong> Swete Exod 40:29 reads ἐπεσκίαζεν ἐπ’ αὐτὴν ἡ νεφέλη (“the cloud overshadowed it”), with σκηνή (“tent, tabernacle”) on either side. Rahlfs 40:35 is the same. The WLC has שָׁכַן (“to dwell”), so “overshadow” is the Greek translator’s choice <code>[T]</code>.</li>
+<li><strong>The rival, Num 10:34.</strong> Swete Num 10:34 reads καὶ ἡ νεφέλη ἐγένετο σκιάζουσα ἐπ’ αὐτοῖς (“and the cloud came, shading them”) <code>[T]</code>, re-verified. This matches Mark’s syntax: ἐγένετο (“came”) + participle + αὐτοῖς (“them”), and the cloud covers people. (Rahlfs numbers the verse 10:36.)</li>
+</ul>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li>ἐπισκιάζω (“to overshadow”) occurs in 4 verses of Swete. Only one of them, Exod 40:29, pairs it with νεφέλη (“cloud”).</li>
+<li>The combination νεφελ- + σκην- + σκια- (“cloud”, “tent”, “shade”) occurs in 4 chapters: Exod 40, Num 9, Num 10 and Job 36.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>A rare compound verb with “cloud” and “tent”</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>The Exod 24 row applies to the same pericope</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>The divine presence, and Peter’s wish to build dwellings</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>The tabernacle reading is widely discussed</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>Explains why the tents and the cloud stand together</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Confirmed with nuance. Moderate.</p>
+<p><strong>Reasoning:</strong> This is a real and rare lexical anchor. But it belongs to the wilderness-cloud texts (Exod 40:34–38; Num 9:15–22; 10:34), not to a single verse.</p>
+<p><strong>Book-overview action:</strong> Add a row “Exod 40:34–35 (Swete 40:29); cf. Num 10:34 | 9:5, 7 | moderate”, labelled as the tabernacle-cloud complex.</p>
+<hr />
+<h3 id="claim-9-deut-919-behind-mark-96">Claim 9: Deut 9:19 behind Mark 9:6</h3>
+<p><strong>Claim:</strong> ἔκφοβοι (“terrified”, 9:6) is Moses’ word at Sinai: ἔκφοβός εἰμι (“I am terrified”), Deut 9:19 Swete.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The adjective is rare.</strong> ἔκφοβος (“terrified”) occurs in 2 Swete verses, Deut 9:19 and 1 Macc 13:2. In the New Testament it occurs at Mark 9:6 and Heb 12:21.</li>
+<li><strong>Hebrews applies the word to Sinai.</strong> Heb 12:21 quotes Deut 9:19 and applies it to Sinai itself: Ἔκφοβός εἰμι καὶ ἔντρομος (“I am terrified and trembling”) <code>[T]</code>, re-verified.</li>
+<li><strong>The Hebrew is a different word.</strong> Deut 9:19 has יגר (“to dread”, 3025), not the usual ירא (“to fear”). A negative control confirmed that ירא is absent from the verse.</li>
+<li><strong>The cause differs.</strong> Moses fears God’s wrath over the golden calf; the disciples fear a theophany of glory.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>One word, but a very rare one</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>The pericope has a Sinai frame</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>The theophany fits; the cause of the fear does not</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>Hebrews shows that early readers heard the word as Moses’ Sinai fear</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible</td>
+<td>Heb 12:21</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>Adds colour only</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Confirmed with nuance. Uncertain to moderate.</p>
+<p><strong>Reasoning:</strong> The rarity is real, and Hebrews offers early reception of the word as Sinai language. But this is still a single adjective used of a different fear.</p>
+<p><strong>Book-overview action:</strong> Add a brief note on 9:6: “ἔκφοβοι; cf. Deut 9:19 (Swete), Heb 12:21 — lexical only”. <strong>Do not build a sermon point on it.</strong></p>
+<hr />
+<h3 id="claim-10-exod-321524-behind-mark-91419">Claim 10: Exod 32:15–24 behind Mark 9:14–19</h3>
+<p><strong>Claim:</strong> Jesus’ descent to a failing crowd re-enacts Moses’ descent to the golden calf.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>No content word is shared</strong> between Mark 9:14–19 and Exod 32:15–24 in Swete <code>[T]</code>.</li>
+<li><strong>The descent formula points elsewhere.</strong> Mark 9:9 has καταβαινόντων αὐτῶν ἐκ τοῦ ὄρους (“as they were coming down from the mountain”). The closest form is Exod 34:29, καταβαίνοντος δὲ αὐτοῦ ἐκ τοῦ ὄρους (“as he was coming down from the mountain”), not Exod 32:15. NA28 shows ἀπό (“from”) for ἐκ in several witnesses at Mark 9:9, so the preposition cannot bear weight.</li>
+<li><strong>Deut 9:15–24 fits better.</strong> It gathers the descent, the fear (9:19) and the people’s unbelief, οὐκ ἐπιστεύσατε (“you did not believe”, 9:23).</li>
+</ul>
+<p><strong>Baseline.</strong> The descent formula κατ[ε/α]β- + ἐκ τοῦ ὄρους (“to come down from the mountain”) occurs in 8 Swete verses across 7 chapters.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>No shared content word</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>The Sinai frame</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>There is no idol in Mark</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>The shape fits a dozen texts</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Discard as proposed.</p>
+<p><strong>Reasoning:</strong> A narrative shape with three candidate sources and no lexical anchor is not an allusion.</p>
+<p><strong>Book-overview action:</strong> Add no row for Exod 32. If a pattern note is wanted: “Sinai-descent pattern (Exod 34:29–30; Deut 9:15–24) around 9:9–19 <code>[I]</code>, uncertain”.</p>
+<hr />
+<h3 id="claim-11-deut-3220-behind-mark-919">Claim 11: Deut 32:20 behind Mark 9:19</h3>
+<p><strong>Claim:</strong> Ὦ γενεὰ ἄπιστος (“O faithless generation”) recalls Swete Deut 32:20, γενεὰ ἐξεστραμμένη … υἱοὶ οἷς οὐκ ἔστιν πίστις ἐν αὐτοῖς (“a perverse generation … sons in whom is no faith”).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The source text.</strong> Deut 32:20 in the WLC reads דּוֹר תַּהְפֻּכֹת … בָּנִים לֹא־אֵמֻן בָּם (“a generation of perversities … sons with no faithfulness in them”). Rahlfs agrees with Swete.</li>
+<li><strong>Rivals:</strong>
+<ul>
+<li>Deut 32:5, γενεὰ σκολιὰ καὶ διεστραμμένη (“a crooked and perverse generation”).</li>
+<li>Ps 78:8 (Swete 77:8), where the Hebrew has the same root אמן (“to be faithful”).</li>
+<li>Num 14:11, a doubled “how long …?” with unbelief. This matches the <em>shape</em> of Mark’s doubled ἕως πότε (“how long”).</li>
+</ul></li>
+<li><strong>Early reception.</strong> Matt 17:17 and Luke 9:41 add διεστραμμένη (“perverse”), from Deut 32:5, and 𝔓⁴⁵vid, W and ƒ¹³ add it to Mark too. That is early evidence that the saying was heard against Deut 32 <code>[T]</code>.</li>
+</ul>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li>The vocative ὦ γενεά (“O generation”) occurs nowhere in Swete.</li>
+<li>The only canonical Swete verses in which a generation is said to lack faith are Deut 32:20 and Ps 77:8.</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>γενεά (“generation”) with faith negated</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Strong</td>
+<td>Mark’s “this generation” motif (8:12, 38; 13:30)</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>The Sinai frame</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Strong</td>
+<td>Matthew, Luke and the scribes</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong</td>
+<td>Explains the lament form</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Confirmed with nuance. Moderate–high for the wilderness-generation complex; moderate for Deut 32:20 alone.</p>
+<p><strong>Book-overview action:</strong> Add a row “Deut 32:20 (with 32:5); cf. Num 14:11, 27; Ps 78:8 | 9:19 | moderate–high”. Note that Matthew and Luke make the Deut 32:5 link explicit.</p>
+<hr />
+<h3 id="claim-12-lev-213-behind-mark-949">Claim 12: Lev 2:13 behind Mark 9:49</h3>
+<p><strong>Claim:</strong> Πᾶς γὰρ πυρὶ ἁλισθήσεται (“for everyone will be salted with fire”) takes its verb and its sacrificial logic from Lev 2:13.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The source text.</strong> Swete and Rahlfs Lev 2:13 read πᾶν δῶρον θυσίας ὑμῶν ἁλὶ ἁλισθήσεται … ἅλα διαθήκης (“every gift of your sacrifice shall be salted with salt … the salt of the covenant”). The WLC has בַּמֶּלַח תִּמְלָח … מֶלַח בְּרִית (“with salt you shall salt … salt of the covenant”).</li>
+<li><strong>The form is rare.</strong> ἁλισθήσεται (“will be salted”) occurs in <strong>one Swete verse</strong>, and ἁλίζω (“to salt”) in two canonical verses.</li>
+<li><strong>The NA28 apparatus.</strong> At Mark 9:49 it marks “(Lv 2,13)”. It reports D and some Latin witnesses reading πᾶσα γὰρ θυσία ἁλὶ ἁλισθήσεται (“for every sacrifice will be salted with salt”). A C K N Γ Θ Ψ and the Majority text read both clauses <code>[T]</code>, re-verified. Scribes heard Leviticus here and wrote it in.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>An identical rare form with πᾶς (“every”) in a sacrificial frame</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Salt continues in 9:50</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>Fire and salt of the offering; “be at peace”</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Strong</td>
+<td>The scribal glosses</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong</td>
+<td>Makes sense of an obscure saying</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Confirmed. Moderate–high, as proposed.</p>
+<p><strong>Book-overview action:</strong> Add a row “Lev 2:13 | 9:49–50 | moderate–high”. Add a textual note: “D and the Majority text add Lev 2:13 wording; NA28 and the SBLGNT print the short text.”</p>
+<hr />
+<h3 id="claim-13-dan-714-theodotion-behind-mark-1045">Claim 13: Dan 7:14 (Theodotion) behind Mark 10:45</h3>
+<p><strong>Claim:</strong> “Not to be served but to serve” deliberately reverses Dan 7:14 Theodotion, δουλεύουσιν αὐτῷ (“they serve him”).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The verbs differ.</strong> Mark has διακονέω (“to serve, wait on”). Theodotion has δουλεύω (“to serve as a slave”), and the Old Greek λατρεύουσα (“serving, in worship”).</li>
+<li><strong>Mark’s verb has no LXX background.</strong> διακονέω does not occur as a verb anywhere in Swete, re-verified.</li>
+<li><strong>There is a pericope-level cluster that the sweep did not use.</strong> The Old Greek of Dan 7:13–14 and Mark 10:37–45 share several terms:</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mark 10</th>
+<th>Dan 7:13–14</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ἐν τῇ δόξῃ σου (“in your glory”, 10:37)</td>
+<td>πᾶσα δόξα (“all glory”, OG)</td>
+</tr>
+<tr class="even">
+<td>τῶν ἐθνῶν (“of the nations”) and κατεξουσιάζουσιν (“exercise authority over”, 10:42)</td>
+<td>πάντα τὰ ἔθνη (“all the nations”) and ἐξουσία (“authority”, OG)</td>
+</tr>
+<tr class="odd">
+<td>πάντων δοῦλος (“slave of all”, 10:44)</td>
+<td>δουλεύουσιν (“they serve”, Theodotion)</td>
+</tr>
+<tr class="even">
+<td>ὁ υἱὸς τοῦ ἀνθρώπου … ἦλθεν (“the Son of Man … came”, 10:45)</td>
+<td>the son of man coming (7:13)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Baseline.</strong> Son of man, authority, the nations and glory occur together in one chapter in canonical Swete: Dan 7.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>Dan 7 is already live</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>The pericope cluster is distinctive; the verb is not shared</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>The reversal is the reader’s construction</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Moderate for Dan 7:13–14 behind 10:35–45 as a whole. The “deliberate reversal” at 10:45 is uncertain and should be tagged <code>[I]</code>.</p>
+<p><strong>Book-overview action:</strong> Extend the Dan 7:13–14 row to “10:35–45” at moderate. Name the cluster (δόξα “glory”, ἔθνη “nations”, ἐξουσία “authority”, δοῦλος/δουλεύω “slave/serve”, the coming Son of Man). Tag “reversal” as <code>[I]</code>, and state that διακονέω does not occur in Swete.</p>
+<hr />
+<h3 id="claim-14-mark-keeps-daniels-order-at-131419">Claim 14: “Mark keeps Daniel’s order” at 13:14–19</h3>
+<p><strong>Claim:</strong> Mark 13:14 → 13:19 follows Daniel’s sequence: first the abomination (Dan 11:31), then the unparalleled tribulation (Dan 12:1).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Daniel names the abomination on both sides of 12:1.</strong> It appears at 9:27 and 11:31, <em>before</em> 12:1, and at 12:11, <em>after</em> it. So any order can be matched.</li>
+<li><strong>Mark’s exact form comes from after 12:1.</strong> Mark’s articular τὸ βδέλυγμα τῆς ἐρημώσεως (“the abomination of desolation”) matches <strong>Old Greek Dan 12:11</strong> exactly <code>[T]</code>, re-verified. Theodotion 12:11 has no article, and 11:31 differs in both versions.</li>
+<li><strong>The tribulation clause blends two texts.</strong> Mark 13:19 is Theodotion Dan 12:1 plus “and never will be”. That phrase matches Swete Exod 11:6, ἥτις τοιαύτη οὐ γέγονεν καὶ τοιαύτη οὐκέτι προστεθήσεται (“such as has not been, and such shall not be again”), of the last plague <code>[T]</code>, re-verified.</li>
+<li><strong>Mark 13 does not follow Daniel’s order overall.</strong> Mark puts the Son of Man’s coming (13:26) after the abomination; Daniel puts it (7:13) before every abomination text.</li>
+</ul>
+<p><strong>Verdict:</strong> Needs reframing. The two individual rows stand at high. The “order” claim is uncertain and should be dropped.</p>
+<p><strong>Book-overview action:</strong> Add no “order” note. Annotate the Daniel rows as follows:</p>
+<ul>
+<li>13:14 = OG Dan 12:11, word for word.</li>
+<li>13:19 = Theodotion Dan 12:1 + “and never will be” (cf. Exod 11:6).</li>
+</ul>
+<p>Exod 11:6 is a <strong>new candidate</strong> at moderate, for its own audit.</p>
+<hr />
+<h3 id="claim-15-gen-1814-behind-mark-1027">Claim 15: Gen 18:14 behind Mark 10:27</h3>
+<p><strong>Claim:</strong> πάντα γὰρ δυνατὰ παρὰ τῷ θεῷ (“for all things are possible with God”) recalls Gen 18:14, μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; (“is anything impossible with God?”).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The exact phrase.</strong> παρὰ τῷ θεῷ (“with God”) occurs in 2 canonical Swete verses, one of them Gen 18:14.</li>
+<li><strong>Rivals:</strong>
+<ul>
+<li><strong>Job 42:2</strong>, Οἶδα ὅτι πάντα δύνασαι, ἀδυνατεῖ δέ σοι οὐθέν (“I know that you can do all things, and nothing is impossible for you”). This shares more words than Gen 18:14 does.</li>
+<li><strong>Zech 8:6.</strong> This alone has Mark’s contrast between humans and God.</li>
+<li><strong>Jer 32:17, 27.</strong> These have Genesis’s Hebrew formula, but in Swete they are rendered with κρύπτω (“to hide”), so there is no Greek contact.</li>
+</ul></li>
+<li><strong>Luke 1:37 shows what a deliberate Gen 18:14 echo looks like.</strong> It has ῥῆμα (“word”) and a birth. Mark has neither.</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>A rare phrase; Job 42:2 shares as much or more</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>9:23 and 14:36 repeat the idea</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>A birth in Genesis; salvation in Mark</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>A creedal commonplace</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Confirmed with nuance. Moderate, as a cluster.</p>
+<p><strong>Book-overview action:</strong> Add a row “Gen 18:14; cf. Job 42:2; Zech 8:6 | 10:27 (and 9:23; 14:36) | moderate”.</p>
+<hr />
+<h3 id="claim-16-isa-408-behind-mark-1331">Claim 16: Isa 40:8 behind Mark 13:31</h3>
+<p><strong>Claim:</strong> “My words will not pass away” claims for Jesus’ words what Isa 40:8 claims for God’s word, and so frames the book with Isa 40 (1:3).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Isa 40:8 shares no words with Mark 13:31.</strong> Swete reads τὸ δὲ ῥῆμα τοῦ θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα (“the word of our God remains for ever”) <code>[T]</code>. It has no heaven, no earth and no “passing away”.</li>
+<li><strong>Isa 51:6 matches the structure.</strong> Heaven and earth wear out, “but my salvation will be for ever … my righteousness will never (οὐ μή) fail”.</li>
+<li><strong>Theodotion Dan 7:14 supplies the verb.</strong> It reads ἡ ἐξουσία αὐτοῦ ἐξουσία αἰώνιος ἥτις οὐ παρελεύσεται (“his authority is an everlasting authority which will not pass away”) <code>[T]</code>, re-verified. That is Mark’s verb, used of the Son of Man’s rule five verses after Mark quotes Dan 7:13 (13:26).</li>
+</ul>
+<p><strong>Baseline.</strong> Used of something that endures, παρελευσ- (“will pass”) occurs in Swete only at Ps 148:6 and Theodotion Dan 6:12 and 7:14.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>Nothing is shared with Isa 40:8</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Dan 7 is cited at 13:26, which is stronger</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Isa 40:8 is uncertain. <strong>Theodotion Dan 7:14 is a new candidate at moderate.</strong></p>
+<p><strong>Book-overview action:</strong> Add no Isa 40:8 row. Note at the Dan 7 row: “13:31 οὐ μὴ παρελεύσονται (‘will not pass away’); cf. Dan 7:14 Th οὐ παρελεύσεται; cf. Isa 51:6”. This candidate still needs its own audit.</p>
+<hr />
+<h3 id="claim-17-1-sam-101-and-2-kgs-96-behind-mark-143">Claim 17: 1 Sam 10:1 and 2 Kgs 9:6 behind Mark 14:3</h3>
+<p><strong>Claim:</strong> The pouring on Jesus’ head recalls royal anointings.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Only κεφαλ- (“head”) is shared.</strong> Mark has καταχέω (“to pour over”), μύρον (“perfume”) and ἀλάβαστρον (“alabaster jar”). Samuel and Kings have ἐπιχέω (“to pour on”), ἔλαιον (“oil”) and φακός (“flask”). Mark never uses χρίω (“to anoint”) here, and he interprets the act himself as burial (14:8) <code>[T]</code>.</li>
+<li><strong>Pouring on the head is priestly as well as royal.</strong> It is used of priests (Exod 29:7; Lev 8:12; 21:10) as well as of kings.</li>
+<li><strong>The only Swete text with μύρον (“perfume”) on a head is Aaron’s</strong> (Ps 132:2).</li>
+<li><strong>Song 1:12 shares more than Samuel does.</strong> It has the king reclining and νάρδος (“nard”).</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>Only “head” is shared</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Weak</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>“Christ” means “anointed”, but Mark says burial</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Royal or priestly</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Needs reframing. Uncertain.</p>
+<p><strong>Book-overview action:</strong> Add no row. At most, a sentence: “anointing on the head evokes the anointed one (royal or priestly) without a specific source; Mark reads it as burial.” Flag Song 1:12 for research only.</p>
+<hr />
+<h3 id="claim-18-2-kgs-913-behind-mark-118">Claim 18: 2 Kgs 9:13 behind Mark 11:8</h3>
+<p><strong>Claim:</strong> The crowd spreading garments echoes Jehu’s officers.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Only ἱμάτιον (“garment”) is shared</strong>, and that word occurs in 288 Swete verses.</li>
+<li><strong>Everything else differs.</strong> Mark has ἔστρωσαν εἰς τὴν ὁδόν (“spread on the road”); Kings has ἔθηκαν ὑποκάτω αὐτοῦ (“put under him”) on the steps. Mark’s στιβάς (“leafy branch”) does not occur in Swete.</li>
+<li><strong>The scene has no other OT parallel.</strong> 2 Kgs 9:13 is the only OT scene in which garments are laid down at a royal acclamation.</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reasoning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>One common noun</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Weak</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>Jehu is an awkward type</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Could be custom, not a text</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>Possible <code>[S]</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>The only precedent for the act</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict:</strong> Uncertain — flag for research. Uncertain.</p>
+<p><strong>Book-overview action:</strong> Add a low-confidence row at most: “parallel act, no verbal contact”. Zech 9:9 stays the lead row for 11:1–10.</p>
+<hr />
+<h3 id="claim-19-exod-1214-behind-mark-149">Claim 19: Exod 12:14 behind Mark 14:9</h3>
+<p><strong>Claim:</strong> εἰς μνημόσυνον αὐτῆς (“as a memorial of her”) in a Passover setting recalls the Passover as μνημόσυνον (“memorial”, Exod 12:14).</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>μνημόσυνον is common.</strong> It occurs in 74 Swete verses across 61 chapters.</li>
+<li><strong>Exod 12:14 lacks εἰς (“as”).</strong> And its memorial is a feast day, not a deed told about someone.</li>
+<li><strong>Mark’s exact phrase belongs to Leviticus.</strong> μνημόσυνον αὐτῆς (“its memorial portion”) occurs at Lev 2:2, 9, 16; 5:12; 6:15; and Num 5:26: the grain offering’s memorial portion, burnt as ὀσμὴ εὐωδίας (“a fragrant aroma”).</li>
+<li><strong>Exod 17:14 fits Mark’s sense better.</strong> “Write this as a memorial in a book” is a recorded deed.</li>
+</ul>
+<p><strong>Verdict:</strong> Discard.</p>
+<p><strong>Reasoning:</strong> The only link is a common word, and the phrase points to the grain-offering laws, not to the Passover. The Passover setting is already covered by the overview’s Exod 12 row.</p>
+<p><strong>Book-overview action:</strong> Add nothing. Flag the fragrance-and-memorial link with Lev 2:2, 9 for the 14:3–9 dig, at uncertain.</p>
+<hr />
+<h3 id="claim-20-isa-5117-22-behind-mark-1436">Claim 20: Isa 51:17, 22 behind Mark 14:36</h3>
+<p><strong>Claim:</strong> “Remove this cup from me” recalls the cup of wrath that the LORD takes from Jerusalem’s hand.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>Only ποτήριον (“cup”) is shared.</strong></li>
+<li><strong>Mark’s verb is almost unused in the LXX.</strong> παραφέρω (“to remove”) occurs in Swete only at Ezra 10:7, in an unrelated sense.</li>
+<li><strong>Jer 25:15 (Swete 32:15) is closer.</strong> It has τὸ ποτήριον … τούτου (“this cup”), the only Swete parallel to Mark’s demonstrative.</li>
+<li><strong>The cup of judgement is a theme in several prophets:</strong> Isa 51; Jer 25; Ezek 23:31–34; Ps 75:9; Lam 4:21; Hab 2:16.</li>
+<li><strong>The strongest objection is 10:39.</strong> The disciples <em>will</em> drink Jesus’ cup, which sits badly with a cup of divine wrath borne by him alone.</li>
+</ul>
+<p><strong>Verdict:</strong> Needs reframing. Moderate for the prophetic theme of the cup of wrath; uncertain for Isa 51 alone.</p>
+<p><strong>Book-overview action:</strong> Add a row “Isa 51:17–22; Jer 25:15–29; Ezek 23:31–34; Ps 75:9 (cup of the LORD’s wrath) | 10:38–39; 14:36 | moderate”. Note the 10:39 tension for the Gethsemane dig.</p>
+<hr />
+<h3 id="claim-21-ps-3812-swete-3712-behind-mark-1540">Claim 21: Ps 38:12 (Swete 37:12) behind Mark 15:40</h3>
+<p><strong>Claim:</strong> The women watching ἀπὸ μακρόθεν (“from a distance”) recall “those near me stood far off”.</p>
+<p><strong>Evidence.</strong></p>
+<ul>
+<li><strong>The phrase is Mark’s own habit.</strong> Mark uses μακρόθεν in five verses, always as ἀπὸ μακρόθεν: 5:6; 8:3; 11:13 (a fig tree seen from a distance); 14:54; 15:40 <code>[T]</code>, re-verified. That is Mark’s idiom, and the claim fails the random-passage test.</li>
+<li><strong>The women are the reverse of the psalm’s deserters.</strong> In Mark they are the followers who did not flee (15:41; cf. 14:50).</li>
+<li><strong>Luke, not Mark, moves toward the psalm.</strong> Luke 23:49 adds the standing verb and “acquaintances” (cf. Swete Ps 87:9) <code>[I]</code>.</li>
+</ul>
+<p><strong>Verdict:</strong> Discard for Mark.</p>
+<p><strong>Book-overview action:</strong> Add nothing to Mark’s map. Pass Ps 38:12 (with Ps 88:9) to the <strong>Luke</strong> overview as a candidate for Luke 23:49.</p>
+<hr />
+<h2 id="confidence-change-propagation">Confidence Change Propagation</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Allusion</th>
+<th>Previous confidence</th>
+<th>New confidence</th>
+<th>Sections to update</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Jer 8:13 (+ Hos 9:10; Mic 7:1) at 11:12–21</td>
+<td>uncertain (overview); sweep proposed Hos 9 at moderate–high</td>
+<td><strong>Jer 7:11 → 7:15; 8:13: moderate.</strong> Hos 9:10–16: uncertain–moderate</td>
+<td>Overview: Intertextual Map (Latter Prophets; Twelve), Live-sources summary (Hosea <em>not</em> live). Sweep: unit 25, Headline 4, Convergent 9, Tensions 1, Open Question 5</td>
+</tr>
+<tr class="even">
+<td>Isa 63:19 at 1:10</td>
+<td>moderate</td>
+<td>moderate (unchanged); 63:11 as context only</td>
+<td>Overview: Isaiah row. Sweep: unit 1, Headline 4, Tensions 2, Open Question 4</td>
+</tr>
+<tr class="odd">
+<td>Amos 2:16 at 14:52</td>
+<td>— (sweep: moderate, “7th Hebrew case”)</td>
+<td><strong>uncertain; not a Hebrew-priority case</strong>; Gen 39:12 named</td>
+<td>Overview: “How Mark uses his Scriptures” list (stays at six). Sweep: unit 32, Headline 4, Tensions 3, Text-First triage list</td>
+</tr>
+<tr class="even">
+<td>Amos 8:9–10 at 15:33</td>
+<td>8:9 moderate</td>
+<td>8:9 moderate; 8:10 discarded; Exod 10:22 rival</td>
+<td>Overview: Twelve row. Sweep: unit 35</td>
+</tr>
+<tr class="odd">
+<td>Joel 2:10 at 13:24</td>
+<td>—</td>
+<td>uncertain; note only</td>
+<td>Overview: Isa 13:10 row note. Sweep: unit 29, Tensions 3</td>
+</tr>
+<tr class="even">
+<td>Hag 2:15 at 13:2</td>
+<td>—</td>
+<td>uncertain</td>
+<td>Sweep: unit 28, Convergent 9, Tensions 5</td>
+</tr>
+<tr class="odd">
+<td>Jonah 4:9 at 14:34</td>
+<td>—</td>
+<td>uncertain; Jonah <strong>not</strong> live</td>
+<td>Overview: Ps 42–43 row note. Sweep: unit 32, Convergent 4, Tensions 5 and 9</td>
+</tr>
+<tr class="even">
+<td>Exod 40:29 / Num 10:34 at 9:5–7</td>
+<td>—</td>
+<td><strong>moderate</strong></td>
+<td>Overview: Torah table (new row). Sweep: unit 18, Convergent 8</td>
+</tr>
+<tr class="odd">
+<td>Deut 9:19 at 9:6</td>
+<td>—</td>
+<td>uncertain–moderate (note)</td>
+<td>Overview: note on 9:6</td>
+</tr>
+<tr class="even">
+<td>Exod 32 at 9:14–19</td>
+<td>—</td>
+<td>discard</td>
+<td>Sweep: unit 19, Convergent 8, Tensions 4</td>
+</tr>
+<tr class="odd">
+<td>Deut 32:20 complex at 9:19</td>
+<td>—</td>
+<td><strong>moderate–high</strong></td>
+<td>Overview: Torah table (new row)</td>
+</tr>
+<tr class="even">
+<td>Lev 2:13 at 9:49</td>
+<td>—</td>
+<td><strong>moderate–high</strong></td>
+<td>Overview: Torah table (new row), with the textual note</td>
+</tr>
+<tr class="odd">
+<td>Dan 7:13–14 at 10:35–45</td>
+<td>high (13:26; 14:62); moderate (2:10)</td>
+<td>moderate for 10:35–45; “reversal” <code>[I]</code></td>
+<td>Overview: Dan 7 row. Sweep: unit 23, Convergent 10, Tensions 5</td>
+</tr>
+<tr class="even">
+<td>Daniel “order” at 13:14–19</td>
+<td>—</td>
+<td>dropped; OG 12:11 and Exod 11:6 noted</td>
+<td>Overview: Dan 9/11/12 and 12:1 rows. Sweep: unit 28, Headline 4, Tensions 6</td>
+</tr>
+<tr class="odd">
+<td>Gen 18:14 cluster at 10:27</td>
+<td>—</td>
+<td><strong>moderate</strong></td>
+<td>Overview: Torah table (new row)</td>
+</tr>
+<tr class="even">
+<td>Isa 40:8 at 13:31</td>
+<td>—</td>
+<td>uncertain; Dan 7:14 Th new candidate</td>
+<td>Sweep: unit 29, Tensions 5</td>
+</tr>
+<tr class="odd">
+<td>1 Sam 10:1 / 2 Kgs 9:6 at 14:3</td>
+<td>—</td>
+<td>uncertain</td>
+<td>Sweep: unit 30, Convergent 12, Tensions 5</td>
+</tr>
+<tr class="even">
+<td>2 Kgs 9:13 at 11:8</td>
+<td>—</td>
+<td>uncertain</td>
+<td>Sweep: unit 25, Convergent 12, Tensions 5</td>
+</tr>
+<tr class="odd">
+<td>Exod 12:14 at 14:9</td>
+<td>—</td>
+<td>discard</td>
+<td>Sweep: unit 30, Tensions 5</td>
+</tr>
+<tr class="even">
+<td>Isa 51:17, 22 at 14:36</td>
+<td>—</td>
+<td>moderate as a multi-text theme</td>
+<td>Overview: new theme row. Sweep: unit 32, Tensions 5</td>
+</tr>
+<tr class="odd">
+<td>Ps 38:12 at 15:40</td>
+<td>—</td>
+<td>discard for Mark; pass to Luke</td>
+<td>Sweep: unit 35, Tensions 5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="recommended-book-overview-revisions">Recommended Book-Overview Revisions</h2>
+<ol type="1">
+<li><strong>Rows to add at moderate or above:</strong>
+<ul>
+<li>Exod 40:34–35 / Num 10:34 (9:5, 7)</li>
+<li>Deut 32:20 complex (9:19)</li>
+<li>Lev 2:13 (9:49)</li>
+<li>Gen 18:14 cluster (10:27)</li>
+<li>the prophetic cup of wrath (10:38–39; 14:36)</li>
+</ul></li>
+<li><strong>Rows to revise:</strong>
+<ul>
+<li>Jer 8:13 → Jer 7–8 at moderate, with Hos 9 as a secondary resonance.</li>
+<li>Dan 7:13–14 extended to 10:35–45.</li>
+<li>Daniel rows annotated with OG 12:11 and Exod 11:6.</li>
+<li>Isa 13:10 row annotated with the φέγγος note.</li>
+<li>Amos 8:9 row: add Exod 10:22 as a rival.</li>
+</ul></li>
+<li><strong>Not to be added:</strong> Amos 2:16 as a Hebrew-priority case; Amos 8:10; Exod 32; Exod 12:14; Ps 38:12; and Jonah as a live source.</li>
+<li><strong>New candidates for a second audit:</strong>
+<ul>
+<li>Exod 11:6 (13:19)</li>
+<li>Theodotion Dan 7:14 (13:31)</li>
+<li>Exod 10:22 (15:33)</li>
+<li>Gen 39:12 (14:52)</li>
+<li>Song 1:12 (14:3)</li>
+<li>Lev 2:2, 9 (14:9)</li>
+</ul></li>
+<li><strong>The overview’s “nearer the Hebrew” list stays at six.</strong></li>
+</ol>
+<h2 id="consequences-for-the-sweep">Consequences for the Sweep</h2>
+<p>The sweep is left unchanged as a record, with a post-audit note added under its header pointing here. Where the two disagree, this audit supersedes it. In particular:</p>
+<ul>
+<li><strong>Headline Finding 4</strong> (“Scriptures as chapters … through the Hebrew”) loses its Hosea, Isaiah 63:11–14 and Amos examples. It holds only for Ps 22 and the rows the overview already carries.</li>
+<li><strong>Convergent Findings 4, 8, 9 and 12</strong>, and <strong>Tensions 1–6 and 9</strong>, are revised as set out in the propagation table.</li>
+<li>The sweep’s <strong>74 lexical chains within Mark are not affected</strong>. The audit tested allusions, not chains.</li>
+</ul>
+<h2 id="tool-problem-found">Tool Problem Found</h2>
+<p><code>$HOME/work/rahlfs.py</code> returns the first chapter it finds with the requested number. The Rahlfs files combine 1–2 Samuel, 1–2 Kings and 1–2 Chronicles, so for the second book of each pair it returns the wrong verse. The third auditor caught this at 2 Kgs 9:13, where the helper returned 1 Kgs 9:13, and read the text by grep instead. No claim in the overview or the sweep drew on those files through the helper: the Rahlfs checks in both were in Isaiah, Hosea, Amos, Zechariah, the Psalms, Joel and Malachi. The helper should still be fixed before its next use.</p>
+<h2 id="open-questions-for-logos">Open Questions for Logos</h2>
+<ol type="1">
+<li><strong>Jer 7–8 and Hos 9 at 11:12–21.</strong> Which do the commentaries favour, and on which text?</li>
+<li><strong>Isa 63:11.</strong> “Out of the sea” or “out of the land”: what is the evidence in the Rahlfs apparatus?</li>
+<li><strong>Exod 11:6 and Theodotion Dan 7:14.</strong> Are these recognised in the literature as sources at 13:19 and 13:31?</li>
+<li><strong>Rahlfs Theodotion Dan 7:14.</strong> The folder’s Rahlfs Daniel shows the Old Greek text, and the Theodotion export should be read for 7:14. Rahlfs and Swete differ in tense (δουλεύσουσιν / δουλεύουσιν, “will serve” / “serve”).</li>
+<li><strong>Ps 37:12.</strong> Rahlfs has ἀπὸ μακρόθεν and Swete has μακρόθεν alone. What does the apparatus show? This is relevant to Luke, not Mark.</li>
+</ol>
+<h2 id="text-first-declaration">Text-First Declaration</h2>
+<p><strong>Mode:</strong> Claim Audit (Phase 0.5b), standalone file, 21 claims.</p>
+<p><strong>Independence:</strong> three fresh auditors, working blind to the sweep’s reasoning. Each saw only the bare claim and the overview’s current row. This run re-checked their decisive findings; it did not re-derive their verdicts.</p>
+<p><strong>Primary texts opened by the auditors, on the device:</strong></p>
+<ul>
+<li>SBLGNT and the MorphGNT index for Mark and other NT books (Matthew, Luke, Hebrews).</li>
+<li>Swete for every OT wording and baseline.</li>
+<li>The Rahlfs text exports for Isaiah, Genesis, Exodus, Numbers, Deuteronomy, Leviticus, Jonah, Amos, Haggai, Daniel (OG), Job, Zechariah, Psalms and Kings.</li>
+<li>The WLC through <code>find.py</code> for every Hebrew form.</li>
+<li>The NA28 apparatus at Mark 9:9, 9:19 and 9:49.</li>
+</ul>
+<p><strong>Controls:</strong></p>
+<ul>
+<li><strong>Negative controls.</strong> Each of these failed with a non-zero exit, as intended:
+<ul>
+<li><code>verify 3173 Amos:8:9</code></li>
+<li><code>verify 4414 Lev:2:14</code></li>
+<li><code>verify 3372 Deut:9:19</code> (which confirmed that Deut 9:19 uses יגר, “to dread”, not ירא, “to fear”)</li>
+<li><code>verify 3332 2Kgs:9:13</code></li>
+</ul></li>
+<li><strong>Positive controls.</strong> Every report of an absence or rarity was preceded by a search that returned a known hit. Examples: the ἐπισκια- pattern had to allow for the augment; the διακον- search returned the noun before the verb’s absence was reported; the vocative “ὦ γενεά” pattern matched Mark 9:19 before its absence from Swete was reported.</li>
+</ul>
+<p><strong>Problems met:</strong></p>
+<ul>
+<li>An accent-stripped stem search cannot tell ἁλίζω (“to salt”) from ἀλισγέω (“to pollute”), or γενεά (“generation”) from γένεσις (“origin”), so those counts were cleaned by hand.</li>
+<li>Swete’s present-tense καταλείπων (“leaving”) hid Gen 39 until the pattern was widened.</li>
+<li>The <code>rahlfs.py</code> fault described above.</li>
+<li>The Rahlfs exports lack the deuterocanonical books, so Rahlfs counts cover the Hebrew canon only.</li>
+<li>There is no LXX apparatus in the folder.</li>
+</ul>
+<p><strong>Secondary sources:</strong> none were opened. The History of Interpretation column says “not checked” or carries <code>[S]</code> for general knowledge, and no verdict rests on it.</p>
+<p><strong>Warrant counts:</strong> WARRANT_COUNTS.</p>
+
+</main>
+</div>
+</body>
+</html>
