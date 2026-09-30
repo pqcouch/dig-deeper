@@ -4,9 +4,9 @@
 **Study text:** NASB95 (`logos-exports/02-New-Testament/02-Mark-NASB95.txt`). Confirmed as the 1995 edition by its colophon, "1995 update".
 **Pulpit text:** N/A — no sermon is in view. For the coming series you have declared the **ESV**. Note that the Logos export in the folder is Crossway's 2025 US text, not the ESV Anglicised. Divergences that matter are listed under *Where the English Hides the Greek*.
 **Genre:** Narrative. The book calls itself an εὐαγγέλιον ("good news", 1:1). It is episodic and fast-moving, with a long, slow passion narrative at the end.
-**Mode:** Draft (text-first)
-**Date:** 29 September 2026
-**Sweep status:** No dig-deeper runs exist for Mark. This Draft is written to be tested by them.
+**Mode:** Draft v0.2 — upgraded from the whole-book sweep and the claim audit. **Not finalised**: the structure, Christological trajectory and preaching traps have not yet been tested by solo digs
+**Date:** 30 September 2026 (v0.1: 29 September 2026)
+**Sweep status:** Whole-book sweep done (`Mark/dig-deeper-mark-sweep.md`, 29 Sep 2026). Claim audit of 21 allusions done by independent auditors (`Mark/dig-deeper-mark-claim-audit.md`, 29 Sep 2026). **No solo ⭐ digs yet.** Changes from v0.1 are listed in the Colophon; rows added or re-rated in this version are tagged `[S: audit]` or `[S: sweep]`.
 
 ---
 
@@ -136,6 +136,8 @@ Mark is **citation-moderate and allusion-dense**. Marked quotations are few: γ�
 
 **Consequence for the digs.** In Mark, Tool 11 Move 2 should read Swete, Rahlfs **and** the WLC. A search of the Greek alone will miss 1:2, 1:10 and 14:27. `[I]`
 
+**Tested and rejected as a seventh case (v0.2).** The sweep proposed that Mark's γυμνὸς ἔφυγεν ("naked, he fled", 14:52) follows the Hebrew of Amos 2:16, עָרוֹם יָנוּס ("naked he will flee"), against the Greek ὁ γυμνὸς διώξεται ("the naked one will pursue"). The claim audit found Gen 39:12 closer: Rahlfs καταλιπὼν τὰ ἱμάτια αὐτοῦ … ἔφυγεν ("leaving his garments … he fled"), with the seizing and the garment. The list above stays at six `[S: audit]`.
+
 Sources are listed in **Tanak order** (BHS). Locations were found by a systematic 4-gram sweep of all of Mark against all of Swete. This was supplemented by a deliberate hunt for type-scene, name and number allusions that share no wording. Every row's verbal overlap was then checked verse against verse in Swete, accent-stripped, and in the WLC where the Greek and Hebrew diverge. Swete's versification is used where it differs, and flagged. Confidence: *high* means a quotation or distinctive shared wording; *moderate* means shared wording plus conceptual fit; *uncertain* means conceptual only.
 
 ### Torah
@@ -143,6 +145,7 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | Source | Where in Mark | What the use does | Live? | Confidence |
 |---|---|---|---|---|
 | Gen 1:27; 2:24 | 10:6–8 | "From the beginning of creation" set against Moses' concession. Verbatim with the LXX: ἄρσεν καὶ θῆλυ ἐποίησεν ("male and female he made") and οἱ δύο εἰς σάρκα μίαν ("the two into one flesh") | **Live** (Genesis) | high |
+| Gen 18:14 (cf. Job 42:2; Zech 8:6) | 10:27; cf. 9:23; 14:36 | πάντα γὰρ δυνατὰ παρὰ τῷ θεῷ ("all things are possible with God"). Gen 18:14 Swete μὴ ἀδυνατεῖ παρὰ τῷ θεῷ ῥῆμα; ("is anything impossible with God?") shares the rare phrase παρὰ τῷ θεῷ ("with God"; 2 canonical Swete verses). Job 42:2 shares as many words, and Zech 8:6 alone has the human–God contrast, so this is a cluster, not a single source `[S: audit]` | — | moderate |
 | Gen 22:2 — τὸν υἱόν σου τὸν ἀγαπητόν ("your beloved son") | 1:11; 9:7; 12:6 | The Voice's ἀγαπητός ("beloved") is the LXX's word for Isaac (Hebrew יְחִידְךָ, "your only one"). At 12:6 the owner has ἕνα … υἱὸν ἀγαπητόν ("one … beloved son") and sends him ἔσχατον ("last") | **Live** | moderate–high |
 | Gen 37:20 — δεῦτε ἀποκτείνωμεν αὐτόν ("come, let us kill him") | 12:7 | The tenants speak the words of Joseph's brothers. Found by the 4-gram sweep and verbatim in Swete | — | moderate–high |
 | Gen 38:8; Deut 25:5 | 12:19 | Levirate law in the Sadducees' question | — | high |
@@ -152,8 +155,10 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | Exod 23:20 (with Mal 3:1) | 1:2 | ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ("behold, I send my messenger before your face") is verbatim with Exod 23:20 LXX. The wilderness angel and Malachi's forerunner are fused under Isaiah's name | — | high |
 | Exod 24:8 (with Zech 9:11) | 14:24 | τὸ αἷμά μου τῆς διαθήκης ("my blood of the covenant"), echoing τὸ αἷμα τῆς διαθήκης ("the blood of the covenant") and Hebrew דַם־הַבְּרִית ("blood of the covenant") | — | high |
 | Exod 24:16 — six days, cloud, mountain | 9:2, 7 | μετὰ ἡμέρας ἕξ ("after six days"), a high mountain, and a voice from the cloud | — | moderate |
+| Exod 40:34–35 (Swete 40:29); cf. Num 10:34 | 9:5, 7 | νεφέλη ἐπισκιάζουσα αὐτοῖς ("a cloud overshadowing them") with Peter's σκηναί ("tents"). ἐπισκιάζω ("to overshadow") + νεφέλη ("cloud") stands in one Swete verse, Exod 40:29, of the tabernacle filled with glory; Num 10:34 Swete ἡ νεφέλη ἐγένετο σκιάζουσα ἐπ' αὐτοῖς ("the cloud came, shading them") matches Mark's syntax. The wilderness tabernacle-cloud complex, not one verse `[S: audit]` | — | moderate |
 | Exod 33:19–22; 34:6 — the LORD "passing by" | 6:48 | ἤθελεν παρελθεῖν αὐτούς ("he intended to pass by them"): a theophany verb, with ἐγώ εἰμι ("I am") at 6:50. Taken with Job 9:8, 11 (Ketuvim, below) | — | moderate |
 | Exod 34:28; 1 Kgs 19:8 — forty days | 1:13 | τεσσεράκοντα ἡμέρας ("forty days") in the wilderness: Moses and Elijah. The wording is shared, but "forty days" is common | — | uncertain |
+| Lev 2:13 | 9:49–50 | Πᾶς γὰρ πυρὶ ἁλισθήσεται ("for everyone will be salted with fire"). The form ἁλισθήσεται ("will be salted") stands in one Swete verse, Lev 2:13: every offering "salted with salt … the salt of the covenant". **Text:** D and the Majority text write Lev 2:13 into Mark (NA28 cites "Lv 2,13"); NA28 and the SBLGNT print the short text `[S: audit]` | — | moderate–high |
 | Lev 14:2–32 | 1:44 | The cleansed leper sent to the priest "as Moses commanded" | — | high (reference); the wording is not quoted |
 | Lev 18:16; 20:21 | 6:18 | "It is not lawful for you to have your brother's wife" | — | moderate–high |
 | Lev 19:18 | 12:31, 33 | ἀγαπήσεις τὸν πλησίον σου ("you shall love your neighbour") | **Live** (Leviticus) | high |
@@ -163,6 +168,8 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | Deut 24:1 | 10:4 | βιβλίον ἀποστασίου ("certificate of divorce") | — | high |
 | Deut 30:4 (with Zech 2:6 Swete) | 13:27 | ἀπ' ἄκρου γῆς ἕως ἄκρου οὐρανοῦ ("from the end of earth to the end of heaven"): the scattered gathered | — | moderate–high |
 | Deut 13:1–3 | 13:22 | σημεῖα καὶ τέρατα ("signs and wonders") performed by false prophets | — | moderate |
+| Deut 32:20 (with 32:5); cf. Num 14:11, 27; Ps 78:8 | 9:19 | Ὦ γενεὰ ἄπιστος ("O faithless generation"): a generation "in whom is no faith" (Deut 32:20 Swete) is found in canonical Swete only there and at Ps 77:8. The doubled "how long" matches Num 14:11. Matt 17:17 and Luke 9:41 add Deut 32:5's διεστραμμένη ("perverse") `[S: audit]` | — | moderate–high (the wilderness-generation complex); moderate (32:20 alone) |
+| Deut 9:19 | 9:6 | ἔκφοβοι ("terrified"): Moses' word, ἔκφοβός εἰμι ("I am terrified"), which Heb 12:21 applies to Sinai. One canonical Swete verse. Lexical colour only — not a sermon point `[S: audit]` | — | uncertain–moderate |
 | Exod 12 (Passover) | 14:1, 12–16 | τὸ πάσχα ("the Passover") frames the passion. It is named at 14:1, 12 (twice), 14 and 16 | — | high (setting) |
 | Exod 18:21, 25 | 6:40 | The crowd seated "by hundreds and by fifties". Moses' officers of hundreds and fifties | — | uncertain |
 
@@ -184,7 +191,7 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 |---|---|---|---|---|
 | **Isaiah** — named at 1:2 and 7:6 | 1:2–3; 1:10; 1:11; 4:12; 7:6–7; 7:32, 37; 9:48; 10:45; 11:17; 12:1; 13:24–25; 14:24; 14:65; 15:5 | **The book's dominant source.** It opens the book (40:3) and runs to the passion | **Live** — the most-used source in Mark | see rows |
 | Isa 40:3 | 1:3 | Verbatim with the LXX except the last phrase. τοῦ θεοῦ ἡμῶν ("of our God") becomes αὐτοῦ ("his"), so the κύριος ("Lord", Hebrew יְהוָה, "YHWH") whose way is prepared is the one who comes next: Jesus (1:9) | **Live** | high |
-| Isa 63:19 Heb (Eng 64:1) | 1:10 | "O that you would tear the heavens and come down". Through the Hebrew only (see above) | **Live** | moderate |
+| Isa 63:19 Heb (Eng 64:1) | 1:10 | "O that you would tear the heavens and come down". Through the Hebrew only (see above). The same prayer recalls the one who brought the shepherd up from the sea and put his Holy Spirit among them (63:11, Hebrew) — **context only**: the sweep's wider match to 63:11–14 failed audit (Rahlfs 63:11 reads "out of the land"; in the Hebrew of 63:14 it is cattle that go down) `[S: audit]` | **Live** | moderate |
 | Isa 42:1 | 1:11 | The Servant in whom God delights. Through the Hebrew; the LXX wording is not shared | **Live** | moderate |
 | Isa 6:9–10 | 4:12; cf. 8:17–18 | Seeing without perceiving, hearing without understanding, "lest they turn and be forgiven". Mark ends ἀφεθῇ αὐτοῖς ("it be forgiven them"), where the Hebrew has וְרָפָא לוֹ ("and it heal him") and the LXX ἰάσομαι αὐτούς ("I will heal them") | **Live** | high |
 | Isa 29:13 | 7:6–7 | Formula quotation. It follows the LXX's μάτην δὲ σέβονταί με ("in vain do they worship me") | **Live** | high |
@@ -194,11 +201,12 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | Isa 53:7; 50:6 | 14:61; 15:5; 14:65; 15:19 | The silent sufferer (οὐκ ἀνοίγει τὸ στόμα, "he does not open his mouth") and the spitting (ἐμπτυσμάτων, "of spitting", Isa 50:6) | **Live** | moderate |
 | Isa 56:7 | 11:17 | Formula quotation with πᾶσιν τοῖς ἔθνεσιν ("for all the nations"), which Matthew and Luke omit | **Live** | high |
 | Isa 5:1–2 | 12:1 | The vineyard's hedge, tower and vat, from the LXX: φραγμὸν περιέθηκα … ᾠκοδόμησα πύργον ("I put a hedge around … I built a tower"). The song of the vineyard becomes a parable against the tenants | **Live** | high |
-| Isa 13:10; 34:4 | 13:24–25 | The sun darkened, the moon gives no light, the stars fall, the powers are shaken | **Live** | high |
+| Isa 13:10; 34:4 | 13:24–25 | The sun darkened, the moon gives no light, the stars fall, the powers are shaken. Mark's φέγγος ("light", 13:24) departs from the LXX's φῶς: either Joel 2:10 / 4:15, where it is the stars' light, or the Hebrew verb נגה ("to shine") of Isa 13:10 — unresolved, and no conflation is asserted `[S: audit]` | **Live** | high |
 | Isa 19:2 (with Mic 7:6) | 13:8, 12 | Nation against nation, family against family | — | moderate |
 | Jer 7:11 | 11:17 | σπήλαιον λῃστῶν ("a den of robbers"), from Jeremiah's temple sermon. The temple threatened like Shiloh | — | high |
 | Jer 5:21 (with Ezek 12:2) | 8:18 | "Having eyes, do you not see? Having ears, do you not hear?" Said to *the disciples* | — | high |
-| Jer 8:13 (with Hos 9:10; Mic 7:1) | 11:13–14, 20 | No figs on the fig tree, as judgement on the people | — | uncertain |
+| Isa 51:17–22; Jer 25:15–29; Ezek 23:31–34; Ps 75:9 — the cup of the LORD's wrath | 10:38–39; 14:36 | τὸ ποτήριον ("the cup"). A theme across the prophets, not one source: Jer 25:15 has "this cup" (Swete 32:15, τὸ ποτήριον … τούτου). **Tension:** at 10:39 the disciples *will* drink his cup `[S: audit]` | — | moderate (theme) |
+| Jer 7:11 (quoted) → 7:15; 8:13; cf. Hos 9:10–16 | 11:12–21 | Mark quotes Jer 7:11, so Jeremiah's temple sermon is the passage in hand: expulsion from God's presence (7:15) and "no figs on the fig trees, and the leaves have fallen" (8:13 Swete; συκῆ ("fig tree"), σῦκον ("fig") and φύλλον ("leaf") all shared with 11:13). Hos 9:10, 15, 16 (the fig; "out of my house I will drive them"; root dried, no fruit) is the only chapter with the full cluster, but it is a secondary resonance: Hosea's fig is an image of delight, and Mark quotes Jeremiah `[S: audit]` | — | moderate (Jeremiah); uncertain–moderate (Hosea) |
 | Ezek 17:23; 31:6 (with Ps 104:12; Dan 4) | 4:32 | The birds nest in its shade: ὑπὸ τὴν σκιάν ("under the shade", Ezek 17:23) and τὰ πετεινὰ τοῦ οὐρανοῦ ("the birds of the heaven", Ezek 31:6) | — | moderate |
 | Ezek 34:5 | 6:34 | Sheep without a shepherd (see Num 27:17) | — | moderate |
 
@@ -208,7 +216,7 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 |---|---|---|---|---|
 | Hos 6:6 | 12:33 | Love above sacrifice (with 1 Sam 15:22) | — | moderate |
 | Joel 4:13 (Swete 3:13) | 4:29 | ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός ("he sends the sickle, because the harvest has come"). παρέστηκεν ("has come") is shared with the LXX; θερισμός ("harvest") is nearer the Hebrew קָצִיר ("harvest") | — | high |
-| Amos 8:9 | 15:33 | Darkness at noon | — | moderate |
+| Amos 8:9 | 15:33 | Darkness at noon. Rival: Exod 10:22 Swete, ἐγένετο σκότος … ἐπὶ πᾶσαν γῆν Αἰγύπτου ("there came darkness … over all the land of Egypt") is verbally closer to σκότος ἐγένετο ἐφ' ὅλην τὴν γῆν ("darkness came over the whole land") — a new candidate, unaudited. The sweep's extension to 8:10 ("mourning for an only son") was discarded `[S: audit]` | — | moderate |
 | Jonah 1:4–16 | 4:35–41 | A storm, a sleeping man in the boat, terrified sailors, a sea made calm. ἐφοβήθησαν φόβον μέγαν ("they feared a great fear") is **verbatim with Jonah 1:10 LXX**. Jonah's sailors fear because they know whom he is fleeing from; the disciples fear because they do not know who this is | — | high |
 | Mic 7:6 | 13:12 | Children rise against parents: ἐπαναστήσονται … ἐπί ("will rise up against") | — | moderate |
 | Zech 9:9 (with Gen 49:11) | 11:2–7 | πῶλος ("colt"), four times. Zechariah's king comes on a colt, and Gen 49:11 ties Judah's colt to the vine. Mark does not quote | **Live** (Zechariah) | moderate |
@@ -226,7 +234,7 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | **Ps 2:7** | 1:11; 9:7 | Σὺ εἶ ὁ υἱός μου ("You are my Son"), in the royal enthronement psalm. It is joined with Gen 22:2 and Isa 42:1 at the baptism | **Live** | high |
 | Ps 22 (Swete Ps 21) | 15:24 (22:19); 15:29 (22:8); 15:34 (22:2); cf. 9:12 ἐξουδενηθῇ ("be treated with contempt", 22:7, ἐξουδένημα, "an object of contempt") | The garments divided by lot, the heads shaken, the cry of dereliction. The passion is narrated in the words of the psalm, and only 15:34 quotes it openly | **Live** | high (15:24, 34); moderate–high (15:29); uncertain (9:12) |
 | Ps 41:10 (Swete 40:10) | 14:18 | ὁ ἐσθίων μετ' ἐμοῦ ("the one eating with me"), from ὁ ἐσθίων ἄρτους μου ("the one eating my bread") | — | moderate–high |
-| Ps 42:6, 12; 43:5 (Swete 41:6, 12; 42:5) | 14:34 | περίλυπός ἐστιν ἡ ψυχή μου ("my soul is very sorrowful"): the refrain ἵνα τί περίλυπος εἶ, ψυχή ("why are you very sorrowful, O soul?"). The refrain stands three times in the psalms | — | high |
+| Ps 42:6, 12; 43:5 (Swete 41:6, 12; 42:5) | 14:34 | περίλυπός ἐστιν ἡ ψυχή μου ("my soul is very sorrowful"): the refrain ἵνα τί περίλυπος εἶ, ψυχή ("why are you very sorrowful, O soul?"). The refrain stands three times in the psalms. ἕως θανάτου ("to the point of death"): cf. Jonah 4:9 (Greek only — in the Hebrew Jonah is angry) and Sir 37:2, both uncertain; Jonah is **not** a live source on this evidence `[S: audit]` | — | high |
 | Ps 69:22 (Swete 68:22) | 15:36; cf. 15:23 | ὄξος ("sour wine") and ποτίζω ("to give to drink"): ἐπότισάν με ὄξος ("they gave me sour wine to drink") | — | moderate–high |
 | Ps 107:23–30 (Swete 106) | 4:35–41; 6:47–51 | The LORD stills the storm and the waves fall silent. The shared wording is thin; the Jonah link is stronger | — | uncertain |
 | **Ps 110:1** (Swete 109:1) | 12:36; 14:62 | "Sit at my right hand." At 12:36 it is used to pose the riddle of David's Lord; at 14:62 it is Jesus' answer to the high priest. Mark's ὑποκάτω τῶν ποδῶν σου ("beneath your feet") replaces the LXX's ὑποπόδιον ("footstool"), and ὑποκάτω τῶν ποδῶν αὐτοῦ ("beneath his feet") is Ps 8:7 LXX | **Live** | high |
@@ -235,11 +243,11 @@ Sources are listed in **Tanak order** (BHS). Locations were found by a systemati
 | Esth 5:3; 7:2 | 6:23 | ἕως ἡμίσους τῆς βασιλείας μου ("up to half of my kingdom"). The oath of a Persian king becomes Herod's. The allusion is ironic: Esther's banquet saved a people, and Herod's kills a prophet | — | high (verbal) |
 | Dan 2:28 | 13:7 | δεῖ γενέσθαι ("must take place"), in both Greek versions | **Live** (Daniel) | moderate–high |
 | Dan 4:9, 18 (Aramaic); Ezek 17; 31 | 4:32 | The great tree sheltering the birds (see Ezekiel) | **Live** | uncertain |
-| Dan 7:13–14 | 13:26; 14:62; cf. 2:10; 8:38 | The one like a son of man coming with the clouds of heaven: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ ("with the clouds of heaven", 14:62). He is given ἐξουσία ("authority", Dan 7:14 OG), which is why "the Son of Man has *authority* on earth" (2:10) is `[I]` Danielic | **Live** | high (13:26; 14:62); moderate (2:10) |
-| Dan 9:27; 11:31; 12:11 | 13:14 | τὸ βδέλυγμα τῆς ἐρημώσεως ("the abomination of desolation"), with "let the reader understand" | **Live** | high |
-| Dan 12:1 (Theodotion) | 13:19 | θλῖψις οἵα οὐ γέγονεν ("tribulation such as has not been") | **Live** | high |
+| Dan 7:13–14 | 13:26; 14:62; 10:35–45; cf. 2:10; 8:38; 13:31 | The one like a son of man coming with the clouds of heaven: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ ("with the clouds of heaven", 14:62). He is given ἐξουσία ("authority", Dan 7:14 OG), which is why "the Son of Man has *authority* on earth" (2:10) is `[I]` Danielic. **10:35–45:** δόξα ("glory"), ἔθνη ("nations"), ἐξουσία ("authority"), δοῦλος ("slave") and the coming Son of Man cluster in canonical Swete only in Dan 7; the verb διακονέω ("to serve") does not occur in Swete, so "not to be served but to serve" as a *reversal* of δουλεύουσιν ("they serve", Theodotion) is `[I]`. **13:31:** οὐ μὴ παρελεύσονται ("will not pass away"); cf. Dan 7:14 Th ἥτις οὐ παρελεύσεται ("which will not pass away") — new candidate, unaudited `[S: audit]` | **Live** | high (13:26; 14:62); moderate (2:10; 10:35–45) |
+| Dan 9:27; 11:31; 12:11 | 13:14 | τὸ βδέλυγμα τῆς ἐρημώσεως ("the abomination of desolation"), with "let the reader understand". Mark's articular form is **Old Greek Dan 12:11 exactly**; Theodotion 12:11 has no article. The sweep's "Mark keeps Daniel's order" note was dropped: Daniel names the abomination on both sides of 12:1 `[S: audit]` | **Live** | high |
+| Dan 12:1 (Theodotion) | 13:19 | θλῖψις οἵα οὐ γέγονεν ("tribulation such as has not been"). Mark adds καὶ οὐ μὴ γένηται ("and never will be"), which matches the last plague, Exod 11:6 Swete, τοιαύτη οὐ γέγονεν καὶ τοιαύτη οὐκέτι προστεθήσεται ("such as has not been, and such shall not be again") — new candidate, unaudited `[S: audit]` | **Live** | high |
 
-**Live sources, in summary** `[T]`: **Isaiah** (about fourteen places, opening the book), the **Psalms** (2, 22, 110 and 118, each twice or more), **Daniel** (chs. 2, 7, 9–12, concentrated in ch. 13 and at the trial), **Zechariah** (9, 13, 14, 2, concentrated in chs. 11–14), **Malachi and the Elijah texts** (1:2, 6; 9:11–13; 15:35–36), and the Torah's **Exodus** and **Deuteronomy**. A dig finding a new echo of any of these should give it an elevated prior.
+**Live sources, in summary** `[T]`: **Isaiah** (about fourteen places, opening the book), the **Psalms** (2, 22, 110 and 118, each twice or more), **Daniel** (chs. 2, 7, 9–12, concentrated in ch. 13 and at the trial), **Zechariah** (9, 13, 14, 2, concentrated in chs. 11–14), **Malachi and the Elijah texts** (1:2, 6; 9:11–13; 15:35–36), and the Torah's **Exodus** and **Deuteronomy**. A dig finding a new echo of any of these should give it an elevated prior. **v0.2:** the claim audit adds Leviticus (2:13) and strengthens Deuteronomy (32:20) and Exodus (40:34–35); Jeremiah 7–8 becomes a moderate source at 11:12–21. Hosea and Jonah are **not** live on present evidence, and four proposed rows were discarded (Amos 8:10; Exod 32; Exod 12:14; Ps 38:12) `[S: audit]`.
 
 **Two concentrations the digs should expect** `[I]`. The **prologue** (1:1–13) packs Exodus, Malachi, Isaiah (40, 42, 63), 2 Kings, Genesis 22 and Psalm 2 into thirteen verses. The **passion** (14–15) is told in Psalms 22, 41, 42–43 and 69, Zechariah 9 and 13, Isaiah 50 and 53, Daniel 7 and Exodus 24. Between them, the Galilee chapters are **carried more by internal repetition than by citation**, and there Move 4 will do more work than Move 2.
 
@@ -315,6 +323,22 @@ Openings are the densest planting ground, and Mark's thirteen-verse prologue is 
 | 1:37: πάντες ζητοῦσίν σε ("everyone is seeking you") | 11:18; 12:12; 14:1, 11, 55: seeking to destroy or seize him; 16:6: Ἰησοῦν ζητεῖτε ("you are seeking Jesus") | **Resolves.** ζητέω ("to seek") runs from admiration through hostility to the tomb. He is not found where he is sought | moderate |
 | 1:1: Ἀρχή ("beginning") τοῦ εὐαγγελίου ("of the gospel") | 13:10: "the gospel must first be preached to all the nations"; 14:9: "wherever the gospel is preached in the whole world"; 16:7–8: the open ending | **Frames.** The whole book is the "beginning". The gospel's going out is foretold within the book but not narrated in it | moderate |
 
+
+**Added in v0.2 from the sweep** `[S: sweep]`. Each chain was verified by lemma against the SBLGNT index (1:1–16:8); the reading of each is the sweep's, and still to be tested by the solo digs.
+
+| Early | Later | Relationship | Confidence |
+|---|---|---|---|
+| 3:2, 6: they watched him ἵνα κατηγορήσωσιν αὐτοῦ ("so that they might accuse him"); συμβούλιον ("plot") | 15:1, 3–4: συμβούλιον ποιήσαντες ("having held a council"); κατηγόρουν αὐτοῦ ("they were accusing him") | **Resolves.** The first cycle's plot is executed. Both words occur only at these places | high (verbal); moderate–high (design) |
+| 3:29: ἔνοχός ἐστιν αἰωνίου ἁμαρτήματος ("guilty of an eternal sin") | 14:64: κατέκριναν αὐτὸν ἔνοχον εἶναι θανάτου ("they condemned him as guilty of death") | **Reverses.** ἔνοχος ("guilty") only here | moderate–high |
+| 1:18, 20: ἀφέντες … ἠκολούθησαν ("leaving … they followed"); 1:38: Ἄγωμεν ("let us go"); 3:16: Simon renamed Peter | 14:50: ἀφέντες αὐτὸν ἔφυγον πάντες ("leaving him, they all fled"); 14:42: ἄγωμεν; 14:37: Σίμων, καθεύδεις; ("Simon, are you asleep?") | **Reverses.** The call undone in its own words; Jesus uses "Simon" only at 14:37 after 3:16 | high |
+| 11:6; 14:16: εὗρον καθὼς εἶπεν ("they found it as he had said") | 16:7: ἐκεῖ αὐτὸν ὄψεσθε, καθὼς εἶπεν ὑμῖν ("there you will see him, as he told you") | **Grounds.** Two promises kept on the page; the third left to the reader | high |
+| 6:34: ὡς πρόβατα μὴ ἔχοντα ποιμένα ("like sheep without a shepherd"); 6:41; 8:6: take, bless / give thanks, break, give | 14:27: πατάξω τὸν ποιμένα, καὶ τὰ πρόβατα διασκορπισθήσονται ("I will strike the shepherd, and the sheep will be scattered"); 14:22–23 | **Resolves.** ποιμήν ("shepherd") and πρόβατον ("sheep") only at 6:34 and 14:27; εὐχαριστέω ("to give thanks") only at 8:6 and 14:23 | high |
+| 1:25; 4:39: φιμώθητι / πεφίμωσο ("be muzzled"); 4:39: ἐκόπασεν ὁ ἄνεμος ("the wind ceased") | 6:51: ἐκόπασεν ὁ ἄνεμος | **Replants.** The sea silenced like a demon; the calm repeated verbatim | high (verbal) |
+| 6:21, 23, 26: Herod's εὔκαιρος ("opportune") day, oath (ὀμνύω) and grief (περίλυπος) | 14:11: εὐκαίρως ("opportunely"); 14:71: ὀμνύναι ("to swear"); 14:34: περίλυπος ("very sorrowful") | **Rehearses.** John's death supplies the passion's vocabulary | moderate–high |
+| 8:17: οὔπω νοεῖτε; ("do you not yet perceive?") | 13:14: ὁ ἀναγινώσκων νοείτω ("let the reader perceive") | **Transfers.** νοέω ("to perceive") only at 7:18; 8:17; 13:14: the disciples' test is put to the reader | moderate–high |
+| 1:40: the leper; 12:16: ἐπιγραφή ("inscription") on Caesar's coin | 14:3: Simon the leper; 15:26: ἡ ἐπιγραφὴ τῆς αἰτίας ("the inscription of the charge") | **Replants.** λεπρός ("leper") and ἐπιγραφή each at two places only | moderate |
+| 15:36: ἴδωμεν εἰ ἔρχεται Ἠλίας καθελεῖν αὐτόν ("let us see whether Elijah comes to take him down") | 15:46: καθελὼν αὐτόν ("having taken him down") — Joseph | **Answers.** καθαιρέω ("to take down") only here | moderate |
+
 **Addressee differentiation.** The prologue names distinct parties: the forerunner, the Son, the Spirit, Satan, the wild beasts and the angels (1:2–13). The first episode then names four men (1:16–20). Three resolve specifically:
 
 - **John** — his arrest (1:14) and death (6:17–29) rehearse the Son's (9:13).
@@ -338,6 +362,13 @@ These are not verdicts on the translations. They are places where a reader of th
 | 14:33; 16:5, 6 | ἐκθαμβέομαι ("to be utterly astonished, distressed") | "very distressed"; "amazed" | "greatly distressed"; "alarmed" | The word occurs in the New Testament only in Mark (9:15; 14:33; 16:5, 6). The women at the tomb share Jesus' Gethsemane word |
 | 14:51–52; 15:46 | σινδών ("linen cloth") | "linen sheet"; "linen cloth" | "linen cloth"; "linen shroud" | That the young man's garment and the shroud are one word |
 | 15:39 | υἱὸς θεοῦ ("God's Son"), with no article | "the Son of God" | "the Son of God" | The anarthrous form. Whether it means "a son of a god" or "the Son of God" is `[S]` debated; the frame with 1:11 favours the latter `[I]` |
+| 12:14 | κῆνσος ("poll-tax") | "poll-tax" | "taxes" | The Latin census tax (ESV) `[S: sweep]` |
+| 13:14 | ἑστηκότα ("standing"), masculine with a neuter noun | "where *it* should not be" | "where *he* ought not to be" | The personal note (NASB95). The ESV keeps it `[S: sweep]` |
+| 13:33–37; 14:34–38 | γρηγορέω ("to watch") | "on the alert" → "keep watch" | "keep awake / stay awake" → "watch" | The word that ties the discourse to Gethsemane (both) `[S: sweep]` |
+| 14:68 | [καὶ ἀλέκτωρ ἐφώνησεν] ("and a cock crowed"), bracketed in NA28; omitted by א B L W | omits | "and the rooster crowed" | A variant the ESV prints; 14:72's "a second time" presupposes it `[S: sweep]` |
+| 15:2 | Σὺ λέγεις ("you say") | "It is as you say" | "You have said so" | The ambiguity (NASB95) `[S: sweep]` |
+| 15:16 | πραιτώριον ("praetorium") | "the Praetorium" | "the governor's headquarters" | The Latin loanword (ESV) `[S: sweep]` |
+| 3:14; 7:24; 7:28 | readings the SBLGNT does not print | — | "whom he also named apostles"; "and Sidon"; "Yes, Lord" | Variants the congregation will hear (ESV); check NA28/Metzger before a point rests on them `[S: sweep]` |
 | 16:8 → 16:9–20 | ending at ἐφοβοῦντο γάρ ("for they were afraid") | prints 9–20 in [ ] | prints 9–20 in [[ ]] | Both keep the evidence visible. A congregation that hears 9–20 read without comment will not hear it |
 
 ---
@@ -390,7 +421,7 @@ This is a full series. Units follow Mark's own seams, which often cross chapter 
 
 ## Checking Stage — Reconciliation
 
-**Dig-deeper runs:** none exist for Mark. There is nothing to reconcile.
+**Dig-deeper runs (v0.2):** the whole-book sweep (37 units, 29 Sep 2026) and a claim audit of 21 of its allusions by three independent auditors (29 Sep 2026). The audit's verdicts are consumed as settled `[S: audit]`; the sweep's verified lexical chains are added to the echo table and the English table `[S: sweep]`. **Not yet consumed:** the sweep's structural and Christological proposals and its cross-passage findings, which await the solo ⭐ digs. No overview claim was contradicted by the sweep or the audit; every change in v0.2 is an addition, a re-rating or a note.
 
 **Commentaries.** None was opened in this run. Where a scholarly position is mentioned, it comes from general knowledge of the literature and is tagged `[S]`. These include: Papias on Mark and Peter; the Roman provenance; the date; the Western order; the synoptic problem; Wrede's messianic secret; the meaning of the young man; the intention of 16:8; and chiastic schemes for the whole book.
 
@@ -415,9 +446,9 @@ This is a full series. Units follow Mark's own seams, which often cross chapter 
 
 ## Colophon
 
-**Version:** 0.1.0 · **Date:** 29 September 2026 · **Mode:** Draft (text-first)
-**Sources consulted:** the biblical text only. No dig-deeper runs exist and no commentaries were opened. Every scholarly position mentioned is tagged `[S]` and listed under *Checking Stage*.
-**Warrant counts:** see the line after the Health note, counted after rendering.
+**Version:** 0.2.0 · **Date:** 30 September 2026 · **Mode:** Draft v0.2 (upgrade from sweep and claim audit; not finalised) · v0.1.0: 29 September 2026, Draft (text-first)
+**Sources consulted:** the biblical text; the Mark sweep and claim audit (v0.2). No commentaries were opened. Every scholarly position mentioned is tagged `[S]` and listed under *Checking Stage*.
+**Warrant counts (v0.2):** `[T]` 59 · `[I]` 24 · `[S]` 19 · `[S: audit]` 19 · `[S: sweep]` 11 (tag occurrences, this line included). The `[S: …]` tags mark what v0.2 took from the sweep and the audit; everything else is still the v0.1 text-first Draft.
 **Primary texts opened:**
 
 - SBLGNT Mark, read in full, 1:1–16:8 and the bracketed endings, with the MorphGNT index for every count.
@@ -435,4 +466,13 @@ This is a full series. Units follow Mark's own seams, which often cross chapter 
 - **Controls.** The negative control `verify 7167 Isa:63:18` failed as it should, with exit status 1. Four lemmas first returned a silent zero and were found under MorphGNT's own forms: δεῖ ("it is necessary") under δέω, Χριστός ("Christ") with a capital, ἱερόν ("temple") under ἱερός, and ἐκπλήσσομαι ("to be amazed"). δέω was then split by parse code into δεῖ and "to bind".
 - **Corpus traps met.** The SBLGNT index files the shorter ending under 16:8 and the longer ending under 16:9–20, which inflates ἀμήν ("amen"), ἱερός ("temple"), Ἰησοῦς ("Jesus"), Πέτρος ("Peter"), εὐαγγέλιον ("gospel"), πιστεύω ("to believe"), σημεῖον ("sign") and πρωΐ ("early") unless the endings are removed. They were removed for every count above. Swete numbers Joel 4:13 as 3:13 and Malachi's Elijah oracle as 4:4–5. The εὐθύς ("immediately") lemma includes the adjective at 1:3, and it was excluded.
 
-**Health note:** Draft, text-first and original-language-first. Mark is allusion-dense at both ends and carried by internal repetition in the middle, so Move 2 will have heavy yield in the prologue, chapters 11–15 and chapter 13, and Move 4 will have yield throughout. Finalise once the ⭐ units of 1:1–13, 4:1–41, 8:22–9:13, 10:32–45, 11–13 and 14:12–16:8 have solo digs, and after the Logos checks on 1:41 and 16:8.
+**Changes in v0.2.0** (30 September 2026):
+
+- **Rows added:** Gen 18:14 cluster (10:27, moderate); Exod 40:34–35 / Num 10:34 (9:5, 7, moderate); Lev 2:13 (9:49, moderate–high); Deut 32:20 complex (9:19, moderate–high); Deut 9:19 (9:6, uncertain–moderate); the cup of wrath across the prophets (10:38–39; 14:36, moderate).
+- **Rows revised:** Jer 8:13 (uncertain) → Jer 7:11 → 7:15; 8:13 (moderate), with Hos 9:10–16 as secondary; Dan 7:13–14 extended to 10:35–45; Dan 9:27/11:31/12:11 annotated with OG 12:11; Dan 12:1 annotated with Exod 11:6; Isa 13:10 annotated with φέγγος; Isa 63:19 given 63:11 as context; Amos 8:9 given Exod 10:22 as a rival; Ps 42–43 given the ἕως θανάτου note.
+- **Tested and not added:** Amos 2:16 as a Hebrew-priority case (Gen 39:12 closer); Amos 8:10; Exod 32; Exod 12:14; Ps 38:12; Hag 2:15, Jonah 4:9, 1 Sam 10:1 / 2 Kgs 9:6, 13 and Isa 40:8 (all uncertain).
+- **New candidates awaiting audit:** Exod 11:6 (13:19); Dan 7:14 Th (13:31); Exod 10:22 (15:33); Gen 39:12 (14:52); Song 1:12 (14:3); Lev 2:2, 9 (14:9).
+- **Echo table:** ten rows added from the sweep's verified chains. **English table:** seven rows added.
+- **Unchanged:** the text decisions, canonical position, presenting situation, arc map, microscript, Christological trajectory, preaching traps and preaching units. None has yet been tested by a solo dig.
+
+**Health note:** Draft v0.2 — the intertextual map is now audited for the sweep's proposals, and the echo table carries the sweep's verified chains. The structure, the Christological trajectory and the traps are still text-first Draft claims. Finalise only after the ⭐ solo digs (1:1–13, 2:1–12, 3:7–35, 4:1–41, 6:30–7:23, 8:22–9:13, 10:32–45, 11:1–12:12, 13, 14:12–52, 15:21–16:8) and, ideally, a macro-synthesis of them; and after the Logos checks on 1:41 and 16:8.
