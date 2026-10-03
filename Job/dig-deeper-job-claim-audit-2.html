@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Audit 2: Job</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#claim-audit-2-job">Claim Audit 2: Job</a></li>
+    <li><a href="#method">Method</a></li>
+    <li><a href="#positional-frame-phase-0.6">Positional Frame (Phase 0.6)</a></li>
+    <li><a href="#part-a-torah-former-prophets-and-psalm-39">Part A: Torah, Former Prophets and Psalm 39</a></li>
+    <li><a href="#part-b-the-latter-prophets">Part B: The Latter Prophets</a></li>
+    <li><a href="#part-c-the-writings-and-a-canonical-dialogue">Part C: The Writings and a Canonical Dialogue</a></li>
+    <li><a href="#spot-checks">Spot Checks</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#critical-assessment">Critical Assessment</a></li>
+    <li><a href="#queue-and-triggers">Queue and Triggers</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="claim-audit-2-job">Claim Audit 2: Job</h1>
+<p><strong>Passages audited:</strong> eleven claims — the Sermon 3 load-bearing set from the project’s <code>claude/claim-audit-queue.md</code> (Job #13–16, #23–24, #35–39), in three parts:</p>
+<ul>
+<li><strong>Part A (Torah, Former Prophets and Psalm 39):</strong> A1 Exod 33:19–34:7 (#13); A2 the Sinai–Horeb revelation texts behind Eliphaz’s vision (#35); A3 Deut 32:23–25, 39 and 28:29 (#37); A4 Psalm 39 (#16).</li>
+<li><strong>Part B (the Latter Prophets):</strong> B1 Isa 44:24 and Job’s two creation hymns (#14); B2 Isa 50:6–9 (#23); B3 Hosea as a live source (#36); B4 Amos’s doxologies (#15).</li>
+<li><strong>Part C (the Writings and a canonical dialogue):</strong> C1 Psalm 44, with the Romans 8 convergence (#24); C2 Ps 107:40–42 divided between Eliphaz and Job (#38); C3 the canon’s reply to Job 4:7 (#39).</li>
+</ul>
+<p><strong>Date:</strong> 3 October 2026</p>
+<p><strong>Purpose:</strong> to test the cross-passage allusion and pattern claims that carry weight in the Sermon 3 digs (Job 9:1–10:22; 13:1–14:22; 4:1–5:27) before the 4:1–14:22 unit dig and the Sermon 3 backbone. Both limbs of trigger 1 of the standing rule had fired (41 candidates queued; four digs since the last audit), and trigger 2 was armed: four of these claims carry headline findings.</p>
+<p><strong>Primary texts:</strong></p>
+<ul>
+<li><strong>Hebrew:</strong> WLC with its lemma and morphology index (the observation layer). BHS (Logos export) for Job where a reading mattered.</li>
+<li><strong>Greek Old Testament:</strong> Swete LXX for the whole canon; Rahlfs–Hanhart exports (Logos) for Job, Genesis, Exodus, Numbers, Deuteronomy, Kings, Isaiah, Jeremiah, Hosea, Amos, Micah, Psalms, Proverbs and Ecclesiastes.</li>
+<li><strong>New Testament:</strong> SBLGNT with the MorphGNT index.</li>
+<li><strong>English:</strong> NASB95 and ESV (Logos exports).</li>
+</ul>
+<p><strong>Study text:</strong> NASB95 · <strong>Pulpit text:</strong> ESV (Sermon 3 is in view).</p>
+<p><strong>Versification:</strong> references follow the Hebrew (WLC) numbering. Where the English differs, the English number is added where it is quoted (e.g. Ps 39:14 = Eng 39:13; Ps 44:23–25 = Eng 44:22–24; Ps 107 is the same in both).</p>
+<p><strong>Earlier audit:</strong> <code>Job/dig-deeper-job-claim-audit.md</code> (28 September 2026: the structure claims and the Bejon notes) stands and is not re-opened here. Its verdict on the שׁוֹט / שׁוּט sound-play (9:23) is cited where relevant.</p>
+<hr />
+<h2 id="method">Method</h2>
+<p>The method is the Mark audit’s (29 September 2026), as refined in the two Matthew audits, with one addition — an explicit <strong>chance baseline for every “only” claim</strong>.</p>
+<p><strong>Three independent auditors.</strong> Each was a fresh subagent with no access to the book overview, the sweep, the Job digs, the queue’s reasoning, the earlier audit, or one another’s work. Each was given the claims as proposals to break, with only the proposed rating attached. They ran <strong>one after another, not in parallel</strong>.</p>
+<p><strong>The corpus in the cloud.</strong> The <code>_texts/</code> corpus (WLC text and lemma index, Swete, SBLGNT and the needed Logos exports) was staged into the session workspace, and the auditors worked through a shared helper library (<code>/home/claude/jobaudit/alib.py</code>) offering lemma, co-occurrence, phrase (with a skeletal pass) and ketiv searches in the Hebrew; accent-insensitive searches in Swete and the SBLGNT; and the Rahlfs and English exports. Every auditor ran the positive control first (חֶסֶד in Job: 6:14; 10:12; 37:13), and every claimed absence was preceded by a search returning a known hit.</p>
+<p><strong>The chance baseline.</strong> Before the audit, the main session measured how ordinary an “only X and Y” pair is. In Job 4 a verse has on average <strong>about two content-lemma pairs that occur together in exactly one other verse</strong> of the Hebrew Bible (WLC; lemmas in at most 400 verses); across the whole book the figure is 1.34 (1.87 at a 700-verse cap). So a single exclusive pair proves little. The auditors were told to judge links by <strong>clustering, rarity, verbatim phrasing, matching function and the absence of a rival</strong>, and to build a chance baseline for every pattern or design claim. They used three kinds:</p>
+<ul>
+<li><strong>exclusive-pair counts</strong> for each Job verse, and how many point to the proposed source;</li>
+<li><strong>window tests</strong> (how often several Job verses converge by chance on one short source window);</li>
+<li><strong>control-book rates</strong> (for “live source” claims: Job’s exclusive pairs and shared rare lemmas per 1,000 verses of comparable books) and, for the Ps 107 design claim, a <strong>permutation test</strong>.</li>
+</ul>
+<p><strong>Each auditor did seven things for every claim:</strong> read the Job verses (WLC, Swete, Rahlfs); read the source with its context; verified every stated “only”; took frequency and chance baselines; searched for the strongest rival; scored the Hays criteria; and gave a verdict, a final rating and a line on what a preacher may safely say.</p>
+<p><strong>Sources.</strong> No commentaries and no web sources were used, so “History of Interpretation” is recorded as <em>not checked</em> throughout. Where the Greek translators’ renderings bear on a link, they are reported as data within the corpus.</p>
+<p><strong>Spot checks.</strong> The main session then re-ran the evidence on which the verdicts turn (see Spot Checks).</p>
+<hr />
+<h2 id="positional-frame-phase-0.6">Positional Frame (Phase 0.6)</h2>
+<p><strong>What has the book set up that these claims serve?</strong> Job opens with God’s verdict on “My servant Job” (1:8; 2:3) and three friends who come to comfort him (2:11). Round one of the dialogue (4–14) is where the friends’ doctrine is first stated and Job first turns from the friends to God. The digs on 4–5, 9–10 and 13–14 proposed that both sides speak in the words of other Scripture — the Torah’s revelations and curses, the prophets’ hymns and Servant, the Psalter’s laments — and that the book stages a contest over shared texts.</p>
+<p><strong>Why does this matter here?</strong> These are exactly the claims that most easily overreach. A dig working at speed across a whole speech finds many “only X and Y” pairs, and the baseline shows that such pairs are common. The question for each claim was therefore not only “is the word-count right?” but “is this link above what chance produces, and is there a better source?”</p>
+<hr />
+<h2 id="part-a-torah-former-prophets-and-psalm-39">Part A: Torah, Former Prophets and Psalm 39</h2>
+<h3 id="auditors-note">Auditor’s note</h3>
+<p><strong>Corpus.</strong> WLC Hebrew with its lemma index (Strong’s numbers), Swete’s LXX, Rahlfs–Hanhart exports (Job, Exodus, Numbers, Deuteronomy, Kings, Psalms), all read through <code>alib.py</code>. Every count below names its edition. Unless stated otherwise, a count is a number of <strong>verses</strong> in the WLC.</p>
+<p><strong>Positive control.</strong> <code>lem('2617','Job')</code> returned Job 6:14, 10:12, 37:13, as required. Each absence claimed below was preceded by a search that returned a known hit: <code>ph('בטרם אלך')</code> returned Ps 39:14 before the variant spellings were tested; <code>lem('5352','Exod')</code> returned Exod 34:7 before the co-occurrence tests; <code>lem('4272')</code> returned Deut 32:39 before the מחץ + רפא test; and the Swete searches returned Deut 4:12 and 1 Kgs 19:12 before the Job tests.</p>
+<p><strong>Method.</strong> For each claim I (1) read the Job verses and the source in the WLC, Swete and Rahlfs; (2) tested every “only” claim by lemma, and by consonantal phrase where one was stated (<code>ph</code> also runs a skeletal pass, and I checked the ketiv); (3) took lemma frequencies; (4) counted exclusive content-lemma pairs (<code>excl_pairs</code>, at maxfreq 400 and 700) for each Job verse and compared them with the chapter baseline; (5) looked for rivals in three ways: the verse-level partners each Job verse shares most with, weighted by rarity; windows of verses scored on the claim’s own lemma set (biased towards the proposed source, and labelled as such); and windows scored on <em>all</em> the rarer lemmas of the Job passage (unbiased).</p>
+<p><strong>Baselines (WLC).</strong> Exclusive pairs per verse: Job overall 1.34 (maxfreq 400) and 1.87 (700); Job 4: 2.10 / 2.48; Job 5: 1.52 / 2.04; Job 7: 1.10 / 1.95; Job 9: 0.89; Job 10: 0.91; Job 13: 1.07. Across the book, 4% of Job verses have five or more exclusive pairs at maxfreq 400, and 8% at 700.</p>
+<p><strong>Limits.</strong> These are lemma statistics on a proxy text, not BHS. Strong’s numbering merges some homographs and splits some cognates; for example, the verb חדל (2308) and the adjective חָדֵל (2310) carry different numbers. The pair method cannot see phrase-level or cross-verse links, so I tested those separately. History of Interpretation: <strong>not checked</strong> (no commentaries, no web). Where the LXX translator’s own rendering bears on a link I report it as data inside the corpus, not as interpretive history.</p>
+<p>Tags: [T] = on the page; [I] = inference.</p>
+<hr />
+<h3 id="a1-exodus-3319347-the-passing-by-and-the-proclamation-of-the-name-behind-job-7-9-10-13">A1: Exodus 33:19–34:7 (the passing-by and the proclamation of the Name) behind Job 7, 9, 10, 13</h3>
+<p><strong>Source:</strong> #13 · 9:1–10:22 dig (Tool 11; Tool 7 on נקה and חנן) and 13:1–14:22 dig (Tool 11 on 13:21–24)</p>
+<p><strong>Claim (as tested).</strong> Job’s laments draw on the Sinai theophany and the Name-formula: God “passing by” unseen (9:11), נקה (acquit) with עָוֹן (iniquity) (10:14) next to חֶסֶד (steadfast love) (10:12), חנן (be gracious) (9:15), נשׂא + פֶּשַׁע + עָוֹן (7:21), the sin triad (13:23), and God’s hand and hidden face (13:21, 24). Proposed rating: moderate–high, synthetic.</p>
+<p><strong>Evidence</strong> - [T] Every stated “only” list verified (WLC): נקה + עָוֹן = Exod 34:7; Num 5:31; 14:18; Job 10:14. With חֶסֶד as well = Exod 34:7; Num 14:18. נשׂא + פֶּשַׁע + עָוֹן = Exod 34:7; Num 14:18; Mic 7:18; Ps 32:5; Job 7:21. עָוֹן + פֶּשַׁע + חַטָּאת = Exod 34:7; Lev 16:21; Ps 32:5; Isa 59:12; Ezek 21:29; Dan 9:24; Job 13:23. <strong>None failed.</strong> - [T] Job uses negated piel נקה twice with God as subject: 9:28 and 10:14, both לֹא תְנַקֵּנִי (you will not acquit me). The 9:28 parallel to the formula’s וְנַקֵּה לֹא יְנַקֶּה (he will by no means acquit) is as close as 10:14’s, and the claim leaves it out. The same idiom is also at Exod 20:7 / Deut 5:11; Nah 1:3; Jer 30:11; 46:28. - [T] <strong>Cross-verse test.</strong> Searching for נקה within ±2 verses of both חֶסֶד and עָוֹן returns Exod 34:7; Num 14:18; Job 10:14, and also <strong>Exod 20:7 / Deut 5:11</strong> (the Decalogue: “visiting iniquity … showing חֶסֶד … will not acquit”) and Prov 16:5. So the 10:12–14 cluster matches the formula <em>tradition</em>, which has two Torah loci, not Exod 34 alone. - [T] <strong>Job 9:11 עבר.</strong> עבר occurs in 492 verses. With God as subject: Exod 12:12, 23; 33:19, 22; 34:6; 1 Kgs 19:11 (וְהִנֵּה יְהוָה עֹבֵר, “and behold, the LORD passed by”); Amos 5:17; 7:8; 8:2. So it is not exclusive. Job 9:11 pairs it with חלף, and חלף is the verb of Eliphaz’s spirit in <strong>Job 4:15</strong> (וְרוּחַ עַל־פָּנַי יַחֲלֹף, “a spirit passed before my face”). - [T] <strong>Greek check, Job 9:11.</strong> Swete and Rahlfs read ἐὰν ὑπερβῇ με … καὶ ἐὰν παρέλθῃ με. So παρέλθῃ renders <strong>יַחֲלֹף</strong>, not יַעֲבֹר, and the match with Exod 34:6 παρῆλθεν is Greek only. It does not map onto the Hebrew word the claim names. - [T] <strong>Job 9:15 חנן.</strong> The hithpael אֶתְחַנָּן (I implore mercy) appears at Deut 3:23 (Moses), Job 9:15; 19:16; Ps 30:9; 142:2. Exod 33:19 has qal חָנַן with God as subject. The stem, subject and sense all differ. - [T] <strong>Job 13:21, 24.</strong> סור + כַּף (remove + hand) occurs only at Exod 33:23 and Ps 81:7. Job 13:21 uses רחק (put far), not סור. The hidden face (סתר + פָּנִים, 37 verses) <strong>does not occur in Exod 33</strong>, which uses ראה (see). It is the lament idiom (Ps 13:2; 22:25; 27:9; 44:25; 88:15; 102:3; 143:7) and also Deut 31:17–18; 32:20. On this point the link <strong>fails lexically</strong>. - [T] <strong>Exclusive pairs (maxfreq 400).</strong> 9:11: 0; 9:15: 1 (Deut 19:18); 10:12: 2 (Job 6:4; Hos 9:7); 10:14: 1 (Jer 2:35); 7:21: 0; 13:21: 0; 13:23: 0; 13:24: 1 (Ps 55:13). <strong>None of the six points to Exod 33–34.</strong> The Exodus links are triples of moderately common sin-words (עָוֹן in 215 verses, פֶּשַׁע in 90, חַטָּאת in 270, נשׂא in 609), each shared with 4–7 verses.</p>
+<p><strong>Baseline.</strong> Using the claim’s own lemma set (biased), Exod 33:19–34:7 holds 9 of 10 features against 6 for the next windows (Num 14; Mic 7; Ps 25; Ps 31–32; Ps 50–51). That is expected, since the set was drawn from Exodus. Using <em>all</em> the rarer lemmas of the Job verses (unbiased, 12-verse windows), Exod 33:23–34:11 scores 11, level with or behind Isa 43:16–27 (12), Mic 6:16–7:11 (12), Ps 51:2–13 (12), 1 Sam 25 (11), 2 Sam 12 (11) and Ps 31:16–32:2 (11). [I] The pattern does not stand out above what the general vocabulary of sin and pardon produces.</p>
+<p><strong>Rival sources</strong> - <strong>Mic 7:18</strong> for Job 7:21. It shares four lemmas (נשׂא, עָוֹן, עבר, פֶּשַׁע), including the עבר that Exod 34:7 lacks, and Mic 7:18 also has חֶסֶד. It is itself a reworking of the formula. - <strong>Ps 32:5</strong> for 13:23 (and 7:21). It shares עָוֹן + פֶּשַׁע + חַטָּאת + hiphil ידע (אוֹדִיעֲךָ ~ הֹדִיעֵנִי, “make me know”) + נשׂא, in a first-person lament about sin. It outranks Exod 34:7 on shared lemmas, as does Isa 59:12. - <strong>2 Sam 24:10; Zech 3:4</strong> for the idiom הֶעֱבִיר עָוֹן (take away iniquity) in 7:21. - <strong>Ps 130:3</strong> for 10:14: אִם + שׁמר + עָוֹן (“If you should mark iniquities”), with חֶסֶד at 130:7. Its function is closer than Exod 34:7. - <strong>1 Kgs 19:11 and Job 4:15</strong> for God “passing by”.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Both are canonical Torah texts; compositional order is open. The formula was widely reused (Num 14:18; Joel 2:13; Jonah 4:2; Ps 86:15; 103:8; 145:8; Neh 9:17; Nah 1:3; Mic 7:18)</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak–Possible</td>
+<td>No exclusive pairs; the triples are shared with 4–7 verses; the only rare-ish lemma is נקה (33 verses)</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Formula vocabulary recurs in 7:21; 9:28; 10:12–14; 13:23</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Possible</td>
+<td>Job inverts the “forgiving/not acquitting” God. The theophany elements (passing, hand, face) do not cohere lexically</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible</td>
+<td>Use of the formula tradition is plausible; direction left open</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak–Possible</td>
+<td>“Formula tradition” explains the data; “Exod 33–34 specifically” adds little</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Needs reframing.</p>
+<p><strong>Final rating.</strong> Moderate for Job’s engagement with the Exod 34:6–7 forgiveness formula <em>tradition</em>. Low for a specific link to the Exod 33 theophany (passing by, hand, face, חנן).</p>
+<p><strong>Reasoning.</strong> The “only” statements are true, but they rest on combinations of common sin-words. Closer rivals exist for individual verses: Mic 7:18 for 7:21, Ps 32:5 and Isa 59:12 for 13:23, Ps 130:3 for 10:14. The Decalogue (Exod 20:5–7) is an equal Torah locus for the 10:12–14 cluster. The theophany strand fails or is weak: the hidden face is absent from Exod 33, חנן differs in stem, and the Greek “passing” verb renders a different Hebrew word. Job 9:11 is better read alongside Job 4:15 and 1 Kgs 19:11.</p>
+<p><strong>What a preacher may safely say.</strong> “Job keeps throwing the language of Israel’s great confession of the Name (Exod 34:6–7: the God who forgives iniquity, transgression and sin, yet will by no means clear the guilty) back at God. It is a confession he knows, and he cannot square it with what is happening to him.” (The confession is paraphrased here, not quoted from NASB95.)</p>
+<p><strong>Book-overview action.</strong> The overview’s map has no Exodus row. At the Finalise pass add <strong>Exod 34:6–7 (formula tradition) → 7:21; 9:28; 10:12–14; 13:23</strong>, moderate, with Exod 20:5–7, Mic 7:18, Ps 32:5 and Ps 130:3 named; record the Exod 33 theophany reading of 9:11 and 13:21–24 as low.</p>
+<hr />
+<h3 id="a2-the-sinaihoreb-revelation-texts-behind-eliphazs-night-vision-job-41218">A2: The Sinai–Horeb revelation texts behind Eliphaz’s night vision (Job 4:12–18)</h3>
+<p><strong>Source:</strong> #35 · 4:1–5:27 dig, Headline 2 and Tool 11</p>
+<p><strong>Claim (as tested).</strong> Job 4:16 contains three pairs, each exclusive to one revelation text: מַרְאֶה + תְּמוּנָה (appearance + form) → Num 12:8; תְּמוּנָה + קוֹל (form + voice) → Deut 4:12; דְּמָמָה + קוֹל (silence + voice) → 1 Kgs 19:12. There are supporting links in 4:13 and 4:15. The vision is told in the vocabulary of the canon’s great revelations, and its message (4:17–18) contradicts God’s “My servant” (1:8; 2:3). Proposed rating: high on words, moderate–high on design.</p>
+<p><strong>Evidence</strong> - [T] All three exclusive pairs verified (WLC): מַרְאֶה + תְּמוּנָה = Num 12:8; Job 4:16 only. תְּמוּנָה + קוֹל = Deut 4:12; Job 4:16 only. דְּמָמָה + קוֹל = 1 Kgs 19:12; Job 4:16 only. <strong>None failed.</strong> - [T] Rarity: תְּמוּנָה occurs in <strong>10 verses</strong> (Exod 20:4; Num 12:8; Deut 4:12, 15, 16, 23, 25; 5:8; Ps 17:15; Job 4:16), seven of them in the Sinai/Horeb prohibition texts. דְּמָמָה occurs in <strong>3 verses</strong> (1 Kgs 19:12; Ps 107:29; Job 4:16). Two of its three uses sit next to קוֹל: קוֹל דְּמָמָה דַקָּה (1 Kgs 19:12) and דְּמָמָה וָקוֹל (Job 4:16, same words in reversed order). - [T] <strong>Sequence match with 1 Kgs 19:11–12:</strong> a רוּחַ (wind/spirit) passes, a figure or person stands (עמד), then silence and voice. Job 4:15–16 has רוּחַ … יַחֲלֹף (passes), יַעֲמֹד (it stood), then דְּמָמָה וָקוֹל. רוּחַ + עמד on its own is ordinary (15 verses), but the ordered sequence is not. - [T] <strong>Num 12:6–8 is a two-verse cluster, stronger than claimed:</strong> 4:16 ~ 12:8 (מַרְאֶה + תְּמוּנָה), and 4:18 “in His servants (עֲבָדָיו) He puts no trust (יַאֲמִין)” ~ 12:7 “My servant (עַבְדִּי) Moses … he is faithful (נֶאֱמָן)”. עבד + אמן is not exclusive (13 verses), but it falls in the adjacent verse of the same source and is semantically inverted [I]. - [T] <strong>Servant language.</strong> עֶבֶד in Job: 1:8; 2:3; 4:18; 42:7, 8 (and five non-divine uses). [I] Eliphaz’s “He puts no trust in His servants” sits between God’s two “My servant Job” sayings in the prologue and the four in 42:7–8, where God rebukes Eliphaz for not speaking rightly “as My servant Job”. Num 12:8 ends “why were you not afraid to speak against My servant Moses?” and the chapter closes with Moses interceding (12:13), as Job does for Eliphaz (42:8). This is a structural observation, not a lexical proof. - [T] תַּרְדֵּמָה (deep sleep) + נפל (fall) = Gen 2:21; 15:12; 1 Sam 26:12; Prov 19:15; Job 4:13; 33:15. Gen 15:12 alone adds dread falling on the recipient (אֵימָה … נֹפֶלֶת) at a night revelation, matching 4:13–14 in function. <strong>Job 33:15 repeats 4:13b verbatim</strong> (בִּנְפֹל תַּרְדֵּמָה עַל־אֲנָשִׁים, “when deep sleep falls on men”). Elihu reprises Eliphaz’s line. - [T] סמר + בָּשָׂר (bristle + flesh) = Job 4:15; Ps 119:120 only (verified). Ps 119:120 also has פַּחַד (dread), as Job 4:14 does: a three-lemma tie, but in a fear-of-judgement idiom, not a revelation scene. - [T] <strong>Greek (Swete = Rahlfs here).</strong> 4:16 reads καὶ οὐκ ἦν μορφὴ πρὸ ὀφθαλμῶν μου, ἀλλ᾽ ἢ αὔραν καὶ φωνὴν ἤκουον (“there was no form before my eyes, only a breeze and a voice I heard”). The translator <strong>negated</strong> the Hebrew (“a form was before my eyes”). The construction “no [form] … only … voice” (ἀλλ᾽ ἢ … φωνη-) occurs in Swete only at Deut 4:12 (ὁμοίωμα οὐκ εἴδετε ἀλλ᾽ ἢ φωνήν, “you saw no likeness, only a voice”) and Job 4:16. [I] The Greek translator heard Deut 4:12 here. αὔρα occurs in Swete only at 1 Kgs 19:12 and Job 4:16. But Rahlfs also has it at Ps 106:29 (= MT 107:29 דְּמָמָה), so αὔρα is the translators’ <strong>stock equivalent</strong> for דְּמָמָה and not independent evidence. - [T] Swete and Rahlfs 4:17 read ἄμεμπτος, as in 1:1, 1:8 and 2:3: <strong>confirmed</strong>. But Greek Job uses ἄμεμπτος 11 times (Swete: 1:1, 8; 2:3; 4:17; 9:20; 11:4; 12:4; 15:14; 22:3, 19; 33:9), and here it renders Hebrew יִטְהַר (be pure), not תָּם (blameless). It is a Greek-level echo of the prologue, not a Hebrew one.</p>
+<p><strong>Baseline.</strong> Job 4:16 has 3 exclusive pairs at maxfreq 400 (Num 12:8; Dan 8:15; Gen 31:32) and <strong>5</strong> at 700 (adding 1 Kgs 19:12 and Deut 4:12, because קוֹל occurs in 436 verses). That puts it in the top 8% of Job verses. <strong>Four of the five point to vision or revelation texts</strong>; the fifth (Gen 31:32, נכר + נֶגֶד) is noise. By contrast, the exclusive pairs of Job 4:14 go to Ps 53:6, Isa 33:14 and Jer 13:22, with no coherent pattern. [I] The coherence of 4:16’s pairs is well above chance. In a window search on all the rarer lemmas of 4:12–16, though, the generic terror vocabulary dominates: Deut 28:62–68 ranks first, 1 Kgs 19:8–14 fifth, Dan 8:15–21 eleventh, and Num 12 and Deut 4 do not appear, because each rests on one very rare word. The links are <strong>distributed across three sources and anchored in rare words</strong>, not concentrated in one passage.</p>
+<p><strong>Rival sources</strong> - <strong>Dan 8:15–18.</strong> עמד + נֶגֶד + מַרְאֶה is exclusive to Dan 8:15 and Job 4:16 (a figure “standing before me with the appearance of a man”). It continues with a voice (8:16), deep sleep (נִרְדַּמְתִּי, root רדם, 8:18) and falling on the face. This equals Num 12:8 in volume for the “standing figure” element, but it lacks the rare anchors (תְּמוּנָה, דְּמָמָה) and the Torah theology of “form versus voice”. Direction is open; Daniel is usually taken as late, so this may be reception of Job or shared vision-genre idiom. - <strong>Gen 15:12</strong> for 4:13–14. It is a better match than Gen 2:21 (night revelation, deep sleep plus dread). - <strong>Ps 119:120</strong> for 4:14–15 (fear idiom). - No single rival outranks the combination of Num 12 + Deut 4 + 1 Kgs 19.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>Torah and Former Prophets; order of composition open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>Three exclusive pairs in one verse, two anchored in words of 10 and 3 occurrences; a near-verbatim reversed collocation with 1 Kgs 19:12</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>4:18 ~ Num 12:7; 4:13 reprised at 33:15; the servant motif runs through 1:8 / 2:3 / 42:7–8</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>“A form I could not make out; silence and a voice” inverts Moses’ “form of the LORD” and sits close to Horeb’s “no form, only a voice”</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible–Strong</td>
+<td>Plausible either way; the LXX translator already read 4:16 through Deut 4:12</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>(LXX rendering noted as a corpus datum)</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong</td>
+<td>Explains the oddities of 4:16 better than generic vision language does</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance.</p>
+<p><strong>Final rating.</strong> High on the words; moderate–high on the design.</p>
+<p><strong>Reasoning.</strong> The three exclusive pairs are real, rare-anchored, packed into a single verse, and coherent in a way chance pairs are not, and the Greek translator seems to have heard Deut 4:12. The nuance: the vocabulary is spread across three sources rather than drawn from one; Dan 8:15 is an equal rival for the “standing figure”; and the 4:13–15 support (תַּרְדֵּמָה, סמר) is shared with non-revelation texts. The “servant” contradiction is an inference strengthened by Num 12:7–8 and Job 42:7–8, not a lexical datum.</p>
+<p><strong>What a preacher may safely say.</strong> “Eliphaz describes his night vision in words that recall how God spoke to Moses and to Elijah. Yet what his voice tells him — ‘He puts no trust even in His servants’ (4:18) — is the very thing God contradicts when He calls Job ‘My servant’.”</p>
+<p><strong>Book-overview action.</strong> Add <strong>Num 12:6–8 + Deut 4:12 + 1 Kgs 19:11–12 → 4:12–18</strong>: high on words, moderate–high on design; note Num 12:7 ~ 4:18 and Dan 8:15 as a rival for the standing figure.</p>
+<hr />
+<h3 id="a3-deuteronomy-322325-39-and-2829-behind-eliphaz-job-5-and-jobs-reply-64">A3: Deuteronomy 32:23–25, 39 and 28:29 behind Eliphaz (Job 5) and Job’s reply (6:4)</h3>
+<p><strong>Source:</strong> #37 · 4:1–5:27 dig, Headline 3 (its Deuteronomy half) and Tool 11</p>
+<p><strong>Claim (as tested).</strong> מחץ + רפא only Deut 32:39 / Job 5:18; רֶשֶׁף (Resheph, “flame/plague”) 5:7 ~ Deut 32:24, with famine and teeth; משׁשׁ + צָהֳרַיִם (grope + noon) only Deut 28:29 / Job 5:14; Job 6:4 arrows and poison ~ Deut 32:23–24; משׁשׁ + חֹשֶׁךְ (grope + darkness) only Exod 10:21; Job 5:14; 12:25. Proposed rating: high on words for 32:39 and 28:29; moderate for the 32:23–25 cluster.</p>
+<p><strong>Evidence</strong> - [T] Verified (WLC): מחץ + רפא = Deut 32:39; Job 5:18 only (מחץ occurs in 14 verses). משׁשׁ + צָהֳרַיִם = Deut 28:29; Job 5:14 only. משׁשׁ + חֹשֶׁךְ = Exod 10:21; Job 5:14; 12:25 only (משׁשׁ occurs in 8 verses). <strong>None failed.</strong> Job 5:18 contains a ketiv (וידו, qere וְיָדָיו “his hands”); it does not affect the lemma test. - [T] <strong>Job 5:18 has a second parent in form.</strong> Hos 6:1 “He has torn and will heal (רפא) us; He has struck and will bind us up (חבשׁ)” gives the same double wound/bind and strike/heal frame. חבשׁ + רפא = Ezek 34:4; Hos 6:1; Isa 30:26; Ps 147:3; Job 5:18. [I] Job 5:18 combines Deut 32:39’s verbs with the frame of Hos 6:1. - [T] <strong>Additional link not in the claim.</strong> Job 10:7 וְאֵין מִיָּדְךָ מַצִּיל (“and there is none to deliver from Your hand”) transposes Deut 32:39 וְאֵין מִיָּדִי מַצִּיל into the second person. The phrase מידי מציל occurs only at Deut 32:39 and Isa 43:13. Job’s reply turns Eliphaz’s Deut 32:39 against him. Isa 43:13 is a co-rival; its מִי יְשִׁיבֶנָּה (who can turn it back?) has a counterpart in Job 9:12. - [T] <strong>Greek, Job 5:14.</strong> ψηλαφ- + μεσημβρ- (grope + noon) occurs in Swete at Deut 28:29, <strong>Isa 59:10</strong> and Job 5:14. Isa 59:10 (Hebrew גשׁשׁ, a different verb, + צָהֳרַיִם + עִוְרִים “the blind”) reuses Deut 28:29, so the image had currency beyond Deuteronomy. The Hebrew exclusivity with Deut 28:29 stands. - [T] <strong>Job 5:7 רֶשֶׁף</strong> occurs in 6 verses: Deut 32:24 (plague); Hab 3:5 (with דֶּבֶר, pestilence); Ps 76:4 (flashes of the bow, i.e. arrows); 78:48 (lightning); Song 8:6 (flames); Job 5:7. “Sparks fly upward” fits the flame/flash sense of Song 8:6 and Ps 76:4, not Deut 32:24’s plague. רֶשֶׁף + רָעָב (famine) is in one verse only at Deut 32:24; Job splits them across 5:7 and 5:20, 13 verses apart. Swete Job 5:7 reads νεοσσοὶ γυπός (“young of the vulture”): the translator saw no Resheph. - [T] <strong>Job 6:4.</strong> חֵץ + חֵמָה (arrow + venom/wrath) in one verse occurs only at Job 6:4. Within ±2 verses: Deut 32:23–24; Ezek 5:15–16; <strong>Ps 38:2–3</strong>. חֵמָה means “venom” at Deut 32:24, 33; Ps 58:5; 140:4, and 6:4’s “my spirit drinks their poison” fits that sense, which favours Deut 32. But “drinking the חֵמָה of Shaddai” recurs at <strong>Job 21:20</strong>, and Isa 51:17, 22 has the cup of wrath. Swete reads θυμός (wrath). - [T] <strong>Teeth and beasts.</strong> Job 4:10 שִׁנֵּי כְפִירִים (teeth of young lions): its exclusive pair goes to <strong>Ps 58:7</strong> (שִׁנֵּימוֹ … כְּפִירִים), not to Deut 32:24 (שֶׁן־בְּהֵמוֹת, “teeth of beasts”). Job 5:22–23 (beasts of the field, covenant, at peace): בְּרִית + חַיָּה + שָׂדֶה = Hos 2:20; Job 5:23 only. Famine, sword and beast together = Ezek 5:17; 14:21.</p>
+<p><strong>Baseline.</strong> Exclusive pairs at maxfreq 700: 4:10 → 3 (Ps 58:7; Prov 26:13; Joel 1:6); 5:7 → 2 (Hos 9:11; Ps 90:10); 5:14 → 4 (<strong>Deut 28:29</strong>; Job 24:16; Isa 58:10; Isa 16:3); 5:18 → 1 (<strong>Deut 32:39</strong>); 5:20 → 2 (Hos 13:14; Jer 18:21); 6:4 → 7 (none to Deut 32). That is <strong>2 of 19 to Deuteronomy</strong>, both in the strong single links. The 32:23–25 cluster is invisible at verse level. At window level (all rarer lemmas of 4:10, 5:7, 5:14, 5:18, 5:20, 5:22, 6:4; 17-verse windows; unbiased), <strong>Deut 32:23–39 ranks second</strong> (10 lemmas) behind Ps 55:5–21 (12, generic day/night/fear words) and ahead of <strong>Ps 91</strong> (9). On the claim’s own feature set it leads with 10 of 13, ahead of Ps 58:4–59:8 (7). [I] There is a real, though diffuse, cross-verse affinity with Deut 32, above most windows but not unique.</p>
+<p><strong>Rival sources</strong> - <strong>Hos 6:1</strong> for the form of 5:18. - <strong>Ps 91</strong> for Eliphaz’s promises in 5:19–23: terror by night, arrow by day, noon, the lion (שַׁחַל) and young lion (כְּפִיר) as in 4:10, and “you will not fear” (לֹא תִירָא) as in 5:21–22. - <strong>Ps 58:5–8</strong> for venom, teeth of young lions and arrows (4:10 + 6:4). - <strong>Ps 38:2–3</strong> (first-person “Your arrows have sunk into me”, with חֵמָה) for 6:4. It matches 6:4 in register, as Deut 32 matches in sense. - <strong>Hos 2:20</strong> for the covenant with the beasts (5:23). - <strong>Isa 59:10</strong> as a second witness to the groping-at-noon image. - <strong>Isa 43:13</strong> as a co-source for 10:7. - None outranks Deut 32:39 for 5:18 or Deut 28:29 for 5:14.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Strong</td>
+<td>Deuteronomy’s Song and curses; order of composition open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong (32:39; 28:29) / Weak (32:23–25)</td>
+<td>Two exclusive pairs on rare lemmas (מחץ 14 verses, משׁשׁ 8); the cluster rests on single common words or cross-verse spreads</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible–Strong</td>
+<td>32:39 recurs in Job 10:7 (phrase); 28:29 is backed by 12:25 (משׁשׁ + חֹשֶׁךְ)</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>Eliphaz quotes the “I wound and I heal” God; Job answers that the arrows and poison are in him and that none delivers from God’s hand</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible–Strong</td>
+<td>Plausible; Isa 59:10 shows Deut 28:29 already being reused</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong / Weak</td>
+<td>Strong for 5:18, 5:14 and 10:7; weak for 5:7 רֶשֶׁף and the teeth</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance. Strong for Deut 32:39 → 5:18 (and 10:7) and Deut 28:29 → 5:14. The 32:23–25 cluster needs reframing as diffuse affinity, with Ps 91, Ps 58 and Ps 38 as live rivals.</p>
+<p><strong>Final rating.</strong> High for 32:39 and 28:29; low–moderate for the 32:23–25 cluster. Overall: moderate–high.</p>
+<p><strong>Reasoning.</strong> Both exclusive links are verified and rest on rare verbs in matching contexts, and Job’s own 10:7 confirms that Deut 32:39 is being used, which the claim did not notice. The רֶשֶׁף link fails on sense (flame, not plague), the teeth link prefers Ps 58:7, and 6:4 is split between Deut 32 (sense of “venom”) and Ps 38 (register of the sufferer). The verse-level exclusive pairs do not support the cluster.</p>
+<p><strong>What a preacher may safely say.</strong> “Eliphaz uses the Song of Moses: God wounds and God heals (Deut 32:39; Job 5:18). Job answers that ‘the arrows of the Almighty are within me’ (6:4) and, in the same Song’s words, ‘there is no deliverance from Your hand’ (10:7).”</p>
+<p><strong>Book-overview action.</strong> Add <strong>Deut 32:39 → 5:18; 10:7</strong> as a <strong>live</strong> source (high) and <strong>Deut 28:29 → 5:14</strong> (high); record רֶשֶׁף at 5:7 as a non-link to Deut 32:24; the 32:23–25 cluster low–moderate.</p>
+<hr />
+<h3 id="a4-psalm-39-as-a-live-source-in-job-7-9-10-and-14">A4: Psalm 39 as a “live source” in Job 7, 9, 10 and 14</h3>
+<p><strong>Source:</strong> #16 · 9:1–10:22 dig (Tool 11; Tool 10) and 13:1–14:22 dig (14:6)</p>
+<p><strong>Claim (as tested).</strong> בְּטֶרֶם אֵלֵךְ (before I go) only Ps 39:14 / Job 10:21; וְאַבְלִיגָה (that I may be cheerful) only Job 9:27; 10:20; Ps 39:14; plus הוֹדִיעֵנִי (make me know), סור + מֵעָלַי (remove from me), שׁמר + חטא (keep + sin), הֶבֶל (breath), שׁעה + מִן (look away from), חדל (cease). Proposed rating: high; a live source.</p>
+<p><strong>Evidence</strong> - [T] <strong>בְּטֶרֶם אֵלֵךְ:</strong> verified by phrase and by skeletal pass: Job 10:21; Ps 39:14 only (WLC). Variants tested: בטרם אלכה → 0; טרם אלך → the same two. By lemma, טֶרֶם + הלך (3212) also returns <strong>Gen 45:28</strong> (אֵלְכָה … בְּטֶרֶם אָמוּת, “I will go … before I die”), a different construction. The phrase claim holds; a bare lemma claim would not. - [T] <strong>וְאַבְלִיגָה:</strong> verified: Job 9:27; 10:20; Ps 39:14 only (WLC phrase and skeletal). The root בלג (1082) occurs in <strong>4 verses</strong> in all (the others are Amos 5:9, a different sense; Jer 8:18 מַבְלִיגִיתִי is a separate lemma). No ketiv issue: the ketiv in Job 10:20 is יחדל ישית (qere חֲדַל וְשִׁית), not the בלג form. - [T] <strong>Ps 39:14 ↔︎ Job 10:20–21 is an ordered sequence:</strong> an imperative of turning away + מִמֶּנִּי (from me) + וְאַבְלִיגָה + בְּטֶרֶם אֵלֵךְ + a negated future (Ps וְאֵינֶנִּי “and am no more”; Job וְלֹא אָשׁוּב “and shall not return”). Job substitutes שִׁית (turn) for הָשַׁע (look away) and adds מְעַט (a little). [I] This is near-quotation. - [T] <strong>Ps 39:14’s elements recur across Job:</strong> שׁעה + מִן = Isa 22:4; Job 7:19 (תִשְׁעֶה מִמֶּנִּי); Ps 39:14 (שׁעה occurs in 15 verses), plus Job 14:6 שְׁעֵה מֵעָלָיו; וְאַבְלִיגָה at 9:27; וְאֵינֶנִּי at 7:21 and 7:8 (common: 80 verses). Isa 22:4 (“look away from me, let me weep”) is a real but non-addressee rival. - [T] <strong>Weaker sub-links.</strong> הוֹדִיעֵנִי occurs in 26 verses (including Exod 33:13; Ps 25:4; 143:8; and Job 38:3; 40:7; 42:4, spoken by God), and its content differs (Ps 39:5 “my end”; Job 10:2 “why You contend”; 13:23 “my sins”): weak. סר + מֵעָלַי: 27 verses (skeletal): weak lexically, though Ps 39:11 (remove Your stroke, the blow of Your hand) fits Job 9:34 and 13:21 in function. שׁמר + חטא = 2 Kgs 10:31; Job 10:14; Ps 39:2, but the subject is inverted (the psalmist guards himself; God watches Job). Ps 130:3 is a closer functional rival. הֶבֶל + יָמִים (breath + days): Eccl ×5; Jer 16:19; Ps 39:6; 78:33; <strong>144:4</strong>; Job 7:16, so not distinctive. <strong>חדל fails as stated:</strong> Ps 39:5 has the adjective חָדֵל (2310, “fleeting”), while Job 7:16, 10:20 and 14:6 have the verb (2308, “cease, leave off”). They share a root but differ in sense. - [T] <strong>Moth (עָשׁ)</strong>, an extra link the claim did not list: Ps 39:12 ~ Job 13:28 (and 4:19). The noun occurs in about 7 Hebrew verses; the Strong’s 6211 total of 12 includes Aramaic homographs in Dan 4–5. - [T] <strong>Greek.</strong> Rahlfs/Swete Ps 38:14 πρὸ τοῦ με ἀπελθεῖν ~ Job 10:21 πρὸ τοῦ με πορευθῆναι (partial). Greek Job 9:27 drops “be cheerful”, and 10:20 ἀναπαύσασθαι differs from Ps 38:14 ἀναψύξω. The Greek translators did not reproduce the link verbatim.</p>
+<p><strong>Baseline.</strong> Exclusive pairs in Job 10:20–22 (maxfreq 400/700): 10:20 → 0; 10:21 → 1 (Jer 13:16, טֶרֶם + צַלְמָוֶת “deep darkness”); 10:22 → 1 (Job 28:3). <strong>0 of 2 point to Ps 39.</strong> This is a blind spot of the method: in 10:20 בלג pairs only with function words, and the טֶרֶם + הלך pair falls above the frequency cap (הלך occurs in 936 verses) and is not exclusive (Gen 45:28). The link is phrasal and cross-verse, which the pair statistic cannot see. Measured directly, the co-occurrence of בלג (4 verses) and the phrase בְּטֶרֶם אֵלֵךְ (2 verses) within two verses happens <strong>only</strong> at Ps 39:14 and Job 10:20–21. On a bag-of-lemmas comparison with Job 7; 9:25–35; 10; 14, Ps 39 ranks only about tenth among psalms per verse (behind Ps 13, 6, 90, 23, 101, 141, 53, 143, 14). Its distinctiveness lies entirely in the rare lemmas (בלג, שׁעה) and the exact phrasing.</p>
+<p><strong>Rival sources</strong> - <strong>Ps 6</strong> has more rare lemmas in common (ערשׂ “couch”, עשׁשׁ “waste away”, עתק “grow old” and others) but no phrase identity. - <strong>Ps 90</strong> (90:10 עָמָל + “fly away” ~ Job 5:7, which is not a Job 7–14 link) and <strong>Ps 88</strong> (darkness, the land of the dead, the hidden face) are thematic rivals. - <strong>Ps 144:4</strong> for הֶבֶל + days; <strong>Ps 130:3</strong> for “marking” sin; <strong>Isa 22:4</strong> for “look away from me”. - <strong>None outranks Ps 39</strong> for the 9:27 / 10:20–21 / 7:19 / 14:6 complex.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible–Strong</td>
+<td>Psalm with a Davidic superscription; relative date unknown, direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>Exact phrase (2 occurrences) + a rare verb form (3 occurrences, root 4) in the same order as the psalm</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Strong</td>
+<td>Ps 39:14’s elements recur at 7:19; 7:21; 9:27; 10:20–21; 14:6; moth at 13:28</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>Brevity of life, a plea for God to look away, death as no return; Job also voices what Ps 39:2–3, 10 keeps silent [I]</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible</td>
+<td>Either direction is possible; the near-quotation shows dependence, not who borrowed</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong (39:14) / Weak (others)</td>
+<td>Ps 39:14 explains 10:20–21 better than any rival; several listed sub-links add nothing</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance.</p>
+<p><strong>Final rating.</strong> High for Ps 39:14 behind Job 10:20–21 and 9:27, with recurrence at 7:19 and 14:6. Moderate–high for “live source” as a description of the whole psalm.</p>
+<p><strong>Reasoning.</strong> The two exact-phrase links are robust across spelling variants, the skeletal pass and the ketiv check, and Job 10:20–21 reproduces Ps 39:14’s sequence in order. It is the strongest verbal link in Part A. Its weight sits on one verse of the psalm. Of the other proposed links, three are weak (הוֹדִיעֵנִי, סור מֵעָלַי, שׁמר + חטא), one is common (הֶבֶל), and one fails as stated (חדל: adjective against verb). The exclusive-pair statistic misses the link entirely, which is a warning about relying on that statistic for phrasal allusion.</p>
+<p><strong>What a preacher may safely say.</strong> “When Job begs God, ‘Withdraw from me that I may have a little cheer before I go — and I shall not return’ (10:20–21), he is praying the closing words of Psalm 39 (‘Turn Your gaze away from me, that I may smile again before I depart and am no more’, Ps 39:13 Eng) almost word for word, and taking them further than the psalmist dared.”</p>
+<p><strong>Book-overview action.</strong> Add <strong>Ps 39:14 → 9:27; 10:20–21</strong> (high), live with 7:19; 14:6 and the moth at 13:28; add Ps 39 to the live-sources sentence; strike חדל as a link.</p>
+<hr />
+<h2 id="part-b-the-latter-prophets">Part B: The Latter Prophets</h2>
+<h3 id="auditors-note-1">Auditor’s note</h3>
+<p><strong>Corpus.</strong> Hebrew: Westminster Leningrad Codex (WLC) with the Strong’s lemma index in <code>alib.py</code>. Greek OT: Swete (LXX numbering). Rahlfs–Hanhart: Logos exports for Job, Isaiah, Hosea and Amos. Every count below names the edition it was taken from. Nothing was cited from BHS or NA28; any finding that ends up load-bearing still needs checking against BHS and Rahlfs in Logos.</p>
+<p><strong>Control.</strong> <code>lem('2617','Job')</code> returned Job 6:14; 10:12; 37:13, as required. Each search behind a claimed absence or exclusivity was first run on a known hit: for example, <code>co(['5186','8064'])</code> returns all 20 verses where נטה (stretch out) and שָׁמַיִם (heavens) occur together before <code>co(['5186','8064','905'])</code> narrows them to two. Phrase searches (<code>ph</code>) were checked on pointed forms where it mattered. Isa 44:24 ends with a ketiv (מי אתי); it does not affect any lemma used here.</p>
+<p><strong>Method.</strong> I verified every “only” claim by lemma. I took verse frequencies with <code>lemfreq</code> and exclusive-pair counts with <code>excl_pairs</code>. Two baselines of my own were added, both from the WLC: - <strong>Window test.</strong> Across all 1,060 eleven-verse windows in Job, I counted how many <em>distinct</em> Job verses have exclusive pairs pointing into a single three-verse window of one other book. - <strong>Control-book rates.</strong> For each book, I counted (a) Job’s exclusive pairs pointing to it and (b) rare lemmas (found in five verses or fewer) that it shares with Job, each normalised per 1,000 verses of that book.</p>
+<p><strong>Limits.</strong> - <code>alib</code> folds homograph letters together (2790 covers both חרשׁ “plough” and חרשׁ “be silent”), so a few exclusive pairs are artefacts. I flag them where they matter. - History of Interpretation was not checked (no commentaries, no web). - Tags: [T] = on the page; [I] = inference.</p>
+<hr />
+<h3 id="b1-isaiah-4424-behind-jobs-two-creation-hymns-9510-10812">B1: Isaiah 44:24 behind Job’s two creation hymns (9:5–10; 10:8–12)</h3>
+<p><strong>Source:</strong> #14 · 9:1–10:22 dig, Tool 11 and the support for Headline 3</p>
+<p><strong>Claim (as tested).</strong> נטה + שָׁמַיִם + לְבַד (“who alone stretches out the heavens”) occur together only in Isa 44:24 and Job 9:8. Isa 44:24’s “who formed you from the womb” supplies the second hymn (Job 10:8–12). On this reading Job’s two hymns are the two halves of Isa 44:24, whose speaker is “your Redeemer” (גֹּאֵל; cf. Job 19:25).</p>
+<p><strong>Evidence</strong> - [T] WLC: נטה + שָׁמַיִם + לְבַד occur together only in <strong>Isa 44:24 and Job 9:8</strong>. The claim is <strong>verified</strong>. Even נטה + לְבַד alone is exclusive to this pair. Swete agrees: τὸν οὐρανὸν μόνος appears only in Job 9:8 (ὁ τανύσας) and Isa 44:24 (ἐξέτεινα), and Rahlfs is the same. The verbs differ in the Greek. - [T] The formula itself is common. WLC has נטה + שָׁמַיִם in 20 verses. The bare participle נֹטֶה שָׁמַיִם, as in Job, appears in Isa 44:24; 51:13; Ps 104:2; Zech 12:1. Related forms are in Isa 40:22; 42:5; 45:12; Jer 10:12 = 51:15. The only distinguishing element is לְבַד (alone): first person in Isaiah (לְבַדִּי), third person in Job (לְבַדּוֹ). - [T] Supporting data outside 9:8: - The Poel יְהוֹלֵל (“makes fools of”) occurs only in Isa 44:25, Job 12:17 and Eccl 7:7 (WLC, pointed search). In both Isaiah and Job it sits inside a participial hymn. - Isa 44:27 הָאֹמֵר לַצּוּלָה (“who says to the deep”) resembles Job 9:7 הָאֹמֵר לַחֶרֶס (“who speaks to the sun”). - [T] Job 9:8 is a <strong>composite verse</strong>. Line 8a matches Isa 44:24. Line 8b (וְדוֹרֵךְ עַל־בָּמֳתֵי יָם, “and treads on the heights of the sea”) matches Amos 4:13 (וְדֹרֵךְ עַל־בָּמֳתֵי אָרֶץ, “… of the earth”) word for word apart from the final noun. See B4. - [T] <strong>The “second half” fails lexically.</strong> - יצר (“form”, Isa 44:24’s verb) <strong>never occurs in Job</strong> (WLC: zero). - Job 10:8–12 uses עצב (fashion), עשה (make), חֹמֶר (clay), סכך (weave), לבשׁ (clothe), but not בֶּטֶן (womb). - בֶּטֶן in 10:19 is “from the womb to the grave”, which is about death, not formation. - יצר + בֶּטֶן occur in Isa 44:2, 24; 49:5; Jer 1:5, none of them in Job. - Job’s only formation-in-the-womb verse is 31:15 (עשה + בֶּטֶן). That pair is shared with Isa 44:2 and 44:24, but also with Eccl 11:5 and Hos 9:16. - [T] <strong>גֹּאֵל is not distinctive.</strong> Isaiah uses lemma 1350 in 24 verses (35:9–63:16), and the divine title recurs in 41:14; 43:14; 44:6; 47:4; 48:17; 49:7, 26; 54:5, 8; 59:20; 60:16. Job 19:25 stands nine chapters away from 9–10.</p>
+<p><strong>Baseline.</strong> Job 9:5–10 + 10:8–12 (11 verses) contain 14 exclusive pairs in the WLC (maxfreq 400). One of them points to Isa 44:24, which is about what chance predicts (Job 9–10 average is 0.89 per verse). The window test finds no three-verse source receiving links from more than one of these verses. The phrase stands on a three-lemma exclusive clause supported by the Greek, not on a cluster.</p>
+<p><strong>Rival sources</strong> - For the “Maker of heavens and of man” pairing: Zech 12:1 (נֹטֶה שָׁמַיִם … וְיֹצֵר רוּחַ־אָדָם, “stretches out the heavens … forms the human spirit”; Swete has πλάσσων, as in Isa 44:24), Isa 42:5, 45:12 (“my hands stretched out the heavens”, with אָדָם, man) and 51:13. The pairing is <strong>formulaic</strong>. - For Job 10:8–12: - <strong>Ps 119:73</strong> יָדֶיךָ עָשׂוּנִי (“your hands made me”). In the WLC, יָדֶיךָ + עשה + 1cs is shared only with Job 10:8, and Swete Ps 118:73 αἱ χεῖρές σου ἔπλασάν με agrees with Swete Job 10:8 in its first clause (the second verbs differ: ἡτοίμασάν / ἐποίησάν; see Spot Checks, 16). - <strong>Ps 139:13</strong> (סכך + בֶּטֶן; cf. Job 10:11 תְּסֹכְכֵנִי, “you knit me”). - Gen 2:7; 3:19 for clay and dust (10:9).</p>
+<p>Each of these outranks Isa 44:24 for 10:8–12.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Relative dates of Job and Isa 40–55 are disputed; direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>Three-lemma exclusive clause, but inside a 20-verse formula; one distinguishing word</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>יְהוֹלֵל (Isa 44:25 ~ Job 12:17) and הָאֹמֵר ל־ suggest acquaintance with Isa 44:24–28</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>Sole-Creator theme fits 9:5–10; the “two halves” design is not supported</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Both draw on shared hymnic stock</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak (design) / Possible (phrase)</td>
+<td>Ps 119/139 explain 10:8–12 better</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Needs reframing. The phrase link is confirmed; the “two halves” design is discarded.</p>
+<p><strong>Final rating.</strong> Phrase (9:8a ~ Isa 44:24): <strong>moderate–high</strong>. Two-hymn design: <strong>low</strong>.</p>
+<p><strong>Reasoning.</strong> The “alone” clause is genuinely exclusive in both the WLC and Swete. Together with the Poel יְהוֹלֵל, it makes acquaintance with Isa 44:24–28 plausible. But 9:8 is a mosaic: its second line is Amos 4:13. The womb-formation hymn has no Hebrew tie to Isa 44:24 and much closer ones to Ps 119:73 and Ps 139:13. The Redeemer bridge rests on a title Isaiah uses everywhere.</p>
+<p><strong>What a preacher may safely say.</strong> “Job’s ‘who alone stretches out the heavens’ (9:8) uses the very words of Isaiah’s confession of the one Creator, ‘stretching out the heavens by Myself’ (Isa 44:24).” Do not claim that Job’s two hymns are built on that verse’s two halves.</p>
+<p><strong>Book-overview action.</strong> Add <strong>Isa 44:24 → 9:8a</strong> (moderate–high) in one row with Amos 4:13; 5:8 → 9:8b–9, as the mosaic of 9:5–10. Record the “two halves of Isa 44:24” design as a non-link; 10:8–12 goes with Ps 119:73 and Ps 139:13.</p>
+<hr />
+<h3 id="b2-isaiah-5069-the-third-servant-song-behind-job-131828">B2: Isaiah 50:6–9 (the third Servant Song) behind Job 13:18–28</h3>
+<p><strong>Source:</strong> #23 · 13:1–14:22 dig, Headline 2</p>
+<p><strong>Claim (as tested).</strong> Job 13:18–28 is linked to Isa 50:6–9 by: - the “who will contend?” question; - the moth-and-garment clause; - Isa 50:8’s four court words (מִי, רִיב, צדק, מִשְׁפָּט); - “I know … vindicated”; - hiding the face; - the Greek, which keeps these links.</p>
+<p>The claimed inversion: the Servant’s accusers wear out, while Job himself wears out.</p>
+<p><strong>Evidence</strong> - [T] WLC: מִי + רִיב occur together only in <strong>Isa 50:8 and Job 13:19</strong> (verified). The phrasing is almost identical: מִי־הוּא יָרִיב עִמָּדִי (Job) and מִי־יָרִיב אִתִּי (Isa), both meaning “who will contend with me?” - [T] WLC: בלה + בֶּגֶד + עָשׁ occur together only in <strong>Isa 50:9 and Job 13:28</strong> (verified). Adding אכל (“eat”) gives four shared lemmas in one clause, still exclusive. בֶּגֶד + עָשׁ alone: Isa 50:9; 51:8; Job 13:28 (verified). בלה + בֶּגֶד: Isa 50:9; 51:6; Job 13:28; Ps 102:27. - [T] WLC: Isa 50:8 is the <strong>only verse in the Hebrew Bible</strong> with רִיב + צדק + מִשְׁפָּט. Job 13:18–19 spreads the same four across two verses (verified). - [T] “I know … vindicated”: - Job 13:18 יָדַעְתִּי כִּי־אֲנִי אֶצְדָּק (“I know that I will be vindicated”) parallels Isa 50:7 וָאֵדַע כִּי־לֹא אֵבוֹשׁ (“I know that I will not be put to shame”) plus 50:8 מַצְדִּיקִי (“he who vindicates me”). - In one verse, ידע + צדק occur only in Gen 38:26; Job 9:2; 13:18, so the construction is also Job’s own. - [T] <strong>Job’s own idiom.</strong> Job 23:6 repeats יָרִיב עִמָּדִי. Job 9:20 has צדק with יַרְשִׁיעֵנִי (“would condemn me”), the very form in Isa 50:9. מִי־הוּא appears in Job 4:7; 9:24; 13:19; 17:3; 41:2. The court lexicon is native to Job 9–13. - [T] <strong>Hiding the face</strong> (סתר + פָּנִים) occurs in 37 WLC verses and is non-distinctive. - [T] Wider Servant-Song resonance: - נכה + לְחִי (“strike the cheek”): Isa 50:6 and Job 16:10 (9 verses in all). - רֹק (“spit”) occurs in three verses only: Isa 50:6; Job 7:19; 30:10. - [T] <strong>Greek</strong> (Swete; Rahlfs is the same in substance): - τίς … ὁ κρινόμενός μοι (Isa 50:8) and τίς … ὁ κριθησόμενός μοι (Job 13:19): each phrase appears only in its own verse. - Job 13:28 ἱμάτιον σητόβρωτον, παλαιοῦται (“a moth-eaten garment, wears out”) answers Isa 50:9 ὡς ἱμάτιον παλαιωθήσεσθε … σής (“you will wear out like a garment … moth”). - [I] OG Job 13:18 reads ἐγγύς εἰμι τοῦ κρίματός μου (“I am near my judgement”); the MT has “I have set out my case”. This may assimilate Isa 50:8 ἐγγίζει ὁ δικαιώσας με (“he who vindicates me draws near”). If so, the translator heard the link. - [T] <strong>Inversion.</strong> In Isa 50:7, 9 the Servant has God as helper (עזר) and his accusers (כֻּלָּם) wear out. In Job 13:28 the subject וְהוּא (“and he”) wears out. Read with 14:1, that is Job as mortal man. Job never says “I have no helper” in ch. 13, so that half of the contrast is [I], though it is a reasonable reading.</p>
+<p><strong>Baseline</strong> - Job 13:18–28 contains 17 exclusive pairs (WLC, maxfreq 400). Two of them, from two different Job verses (13:19, 13:28), point to Isa 50:8–9. - Window test: two distinct Job verses converging on one three-verse source window happens in <strong>6.1%</strong> of eleven-verse windows in Job, and three never does. The cluster is in the top decile, not off the scale. - On raw counts, Lev 26:36 has three exclusive pairs with Job 13:25 (driven leaf, pursue), but all from one verse. - What lifts Isa 50 above chance is quality, not count: a four-lemma clause, a near-verbatim question, the only verse holding all the court words, and agreement in the Greek.</p>
+<p><strong>Rival sources</strong> - For 13:28: - Isa 51:6–8 (the same Isaianic complex; together the three verses hold all four lemmas). - Ps 102:27 (כֻּלָּם כַּבֶּגֶד יִבְלוּ, “they will all wear out like a garment”, nearly verbatim with Isa 50:9, but <strong>no moth</strong>). - Hos 5:12 (רָקָב + עָשׁ, rot + moth, exclusive with 13:28’s first half).</p>
+<p>Isa 50:9 remains the closest single verse. - For the court words: Isa 41:1, 21; 43:26; 54:17; Mic 6:1–2; Jer 2:9; Hos 4:1. Each has ריב or משפט, but none has מִי + ריב + צדק + משפט.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Dating unresolved; direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>Four-lemma exclusive clause; near-verbatim question; Greek agrees</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible–Strong</td>
+<td>Isa 50:6 echoes at Job 16:10; רֹק (3×) at 7:19; 30:10</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong</td>
+<td>Both are first-person trial speeches by an innocent sufferer before God</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Shared legal register; either could depend on the other</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong</td>
+<td>The inversion gives a coherent reading of 13:28</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance.</p>
+<p><strong>Final rating.</strong> <strong>Moderate–high.</strong> The words are high; the deliberate link is moderate–high; direction of dependence is open.</p>
+<p><strong>Reasoning.</strong> This is the strongest of the four claims. The convergence is of a kind the baseline rarely produces: two independent exclusive links in one speech to two adjacent verses, one of them four lemmas long, both kept in the Greek. The nuance: Job’s court vocabulary is his own (9:2–3, 20; 23:6), so the claim should rest on 13:19 and 13:28, not on the generic legal words or the hiding of the face.</p>
+<p><strong>What a preacher may safely say.</strong> “Job asks the Servant’s question, ‘Who will contend with me?’ (Isa 50:8). But where the Servant’s accusers wear out like a moth-eaten garment, Job says it is he who wears out (13:28).” Treat which text came first as an open question.</p>
+<p><strong>Book-overview action.</strong> Add <strong>Isa 50:8–9 → 13:19, 28</strong> (moderate–high; direction open), with 16:10 and the רֹק links as recurrence.</p>
+<hr />
+<h3 id="b3-hosea-as-a-live-source-in-job-mainly-eliphaz-job-45">B3: Hosea as a “live source” in Job (mainly Eliphaz, Job 4–5)</h3>
+<p><strong>Source:</strong> #36 · 4:1–5:27 dig, Headline 3 (its Hosea half) and Tool 11</p>
+<p><strong>Claim (as tested).</strong> Eliphaz speaks Hosea’s covenant language of judgement and healing. The proposed links: - plough/reap (4:8 ~ Hos 10:13); - lions (4:10 ~ Hos 5:14); - “none to deliver” (5:4); - bind/heal (5:18 ~ Hos 6:1); - covenant with the beasts (5:23 ~ Hos 2:20); - rot/moth (13:28 ~ Hos 5:12); - the lion that hunts (10:16).</p>
+<p><strong>Evidence (all WLC unless stated)</strong> - [T] חרשׁ + קצר (plough + reap): 1 Sam 8:12; Amos 9:13; Hos 10:13; Job 4:8. Verified as stated. “Moral sense only” is a semantic filter, not a lemma fact. - [T] שַׁחַל + כְּפִיר (two lion words): Hos 5:14; Ps 91:13; Job 4:10. Verified. וְאֵין מַצִּיל (“none to deliver”) is in 11 verses (verified). - [T] חבשׁ + רפא (bind + heal): Isa 30:26; Ezek 34:4; Hos 6:1; Ps 147:3; Job 5:18. Verified. <strong>מחץ + רפא (strike + heal) occurs only in Deut 32:39 and Job 5:18</strong> (verified). Syntax: - Job 5:18 כִּי הוּא יַכְאִיב וְיֶחְבָּשׁ (“for he wounds and binds up”); - Hos 6:1 כִּי הוּא טָרָף וְיִרְפָּאֵנוּ (“for he has torn, and he will heal us”); - Deut 32:39 has מָחַצְתִּי וַאֲנִי אֶרְפָּא … וְאֵין מִיָּדִי מַצִּיל (“I strike and I heal … none delivers from my hand”). - [T] בְּרִית + חַיַּת הַשָּׂדֶה (covenant + beasts of the field) occur together only in <strong>Hos 2:20 and Job 5:23</strong> (verified). חֶרֶב + מִלְחָמָה (sword + war, Hos 2:20 ~ Job 5:20) occur together in 21 verses, so that part is common. - [T] רָקָב + עָשׁ (rot + moth) occur together only in <strong>Hos 5:12 and Job 13:28</strong> (verified). - [T] שַׁחַל is in 7 verses. God is the שַׁחַל in Hos 5:14 and 13:7. In Job 10:16 the lion is ambiguous (“if it lifts itself, like a lion you hunt me”). <strong>OG Job 10:16 makes Job the hunted lion</strong> (ἀγρεύομαι … ὥσπερ λέων, “I am hunted like a lion”). - [T] <strong>A link not in the claim:</strong> פדה + מָוֶת (+ יד), “ransom from death (from the hand)”, occurs only in <strong>Hos 13:14 and Job 5:20</strong>. Swete agrees: ῥύομαι + ἐκ θανάτου + ἐκ χειρός in both. - [T] <strong>Greek.</strong> - Job 5:4 καὶ οὐκ ἔσται ὁ ἐξαιρούμενος (“and there will be none to rescue”) is <strong>verbatim</strong> Hos 5:14. Only these two verses have the full phrase in Swete; Rahlfs agrees. - But the Greek loses the rest: Hos 10:13 reads παρεσιωπήσατε (the translator took חרשׁ as “be silent”); Hos 5:12 has no moth; OG Job 5:23 lacks the covenant clause (Rahlfs too).</p>
+<p><strong>Baseline (control books)</strong> - <strong>Exclusive pairs</strong> from the whole of Job (WLC, maxfreq 400), per 1,000 verses of the target book:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Hosea</th>
+<th>Joel</th>
+<th>Zephaniah</th>
+<th>Amos</th>
+<th>Jonah</th>
+<th>Nahum</th>
+<th>Micah</th>
+<th>Habakkuk</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>71 (14 pairs)</td>
+<td>68</td>
+<td>75</td>
+<td>82</td>
+<td>104</td>
+<td>149</td>
+<td>181</td>
+<td>196</td>
+</tr>
+</tbody>
+</table>
+<p>Hosea sits at or below the Minor-Prophet median. - In Job 3–14: Hosea 35.5, Joel 41, Mal 54, Micah 57, Habakkuk 107. In Job 4–5, Hosea gets 2 pairs (4:3; 5:20), the same as Micah, Habakkuk and Jonah. - <strong>Rare lemmas</strong> (≤5 verses) shared with Job: Hosea 6 (30.5 per 1,000), Amos 54.8, Micah 57, Nahum 106, Zephaniah 151. - Window test on Job 4–5: the largest cluster points to Isa 35:3 (weak hands and knees, 4:3–4), not to Hosea. - Several of the proposed links are not exclusive pairs at all: they involve lemmas in more than 400 verses, or pairs found in three to five verses. - <strong>Hosea is not statistically elevated in Job.</strong></p>
+<p><strong>Rival sources</strong> - <strong>Deut 32:39</strong> for 5:18 and 5:4 (exclusive מחץ + רפא, plus “none delivers from my hand”). Hos 5:14–6:1 itself echoes Deut 32:39 (tearing, healing, אֵין מַצִּיל), so Deut 32 is the common ancestor [I]. - <strong>Proverbs.</strong> - Prov 22:8 has two exclusive pairs with Job 4:8 (זרע + קצר + אָוֶן, sow + reap + iniquity, found only in Prov 22:8 and Job 4:8). Hosea has none. - Prov 3:11–12 (מוּסַר … אַל־תִּמְאָס, “do not despise the discipline”; יוֹכִיחַ, “he reproves”) is nearly verbatim with Job 5:17. - Prov 22:22 (דכא + שַׁעַר, “crush in the gate”) is exclusive with Job 5:4. - Prov 26:13 (שַׁחַל + אַרְיֵה, two lion words) is exclusive with Job 4:10. - <strong>Ps 91</strong> shares 11 content lemmas with Job 4:8–11 + 5:4 + 5:17–26: lions, protection, “you will not fear”. - <strong>Lev 26:6 / Ezek 34:25</strong> for the beasts and peace (בְּרִית שָׁלוֹם, “covenant of peace”, חַיָּה רָעָה, “evil beast”). Job 11:19 וְאֵין מַחֲרִיד (“none will make you afraid”) is Lev 26:6’s phrase.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Possible</td>
+<td>Two clean exclusives (2:20 ~ 5:23; 13:14 ~ 5:20) and one in 13:28; the rest are shared stock</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible</td>
+<td>Several Hosea contacts, but no more than chance relative to Micah, Habakkuk or Nahum</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Possible</td>
+<td>Wound-and-heal and covenant-peace fit Eliphaz, but equally fit Deut 32, Lev 26 and Proverbs</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Covenant-blessing stock was widely shared</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Weak (as “pattern”)</td>
+<td>Proverbs and Deut 32 explain Eliphaz’s idiom at least as well</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Needs reframing.</p>
+<p><strong>Final rating.</strong> Individual echoes (Hos 2:20 ~ Job 5:23; Hos 13:14 ~ Job 5:20; Hos 5:12 ~ Job 13:28): <strong>moderate</strong>. “Hosea as a live source” pattern: <strong>low–moderate</strong>.</p>
+<p><strong>Reasoning.</strong> The stated “only” claims all check out, and one extra exclusive (Hos 13:14 ~ Job 5:20) strengthens the individual case. But the control-book baseline shows Job meets Hosea no more often than it meets Micah, Habakkuk or Nahum. For several of the key verses (4:8, 5:4, 5:17, 5:18) the stronger exclusive links go to Proverbs and Deut 32. Eliphaz speaks a pooled covenant-and-wisdom idiom of which Hosea is one voice, not <em>the</em> source.</p>
+<p><strong>What a preacher may safely say.</strong> “Eliphaz uses the language of Israel’s covenant hope (a covenant with the beasts of the field, ransom from death, a God who wounds and heals) that we also hear in Hosea and in the Song of Moses.” Do not say Eliphaz is quoting Hosea.</p>
+<p><strong>Book-overview action.</strong> <strong>Hosea is not a live source.</strong> Record its three single echoes (2:20 ~ 5:23; 13:14 ~ 5:20; 5:12 ~ 13:28) at moderate, and add Prov 3:11–12 (already in the map), Prov 22:8, 22 and Ps 91 as Eliphaz’s idiom.</p>
+<hr />
+<h3 id="b4-amoss-doxologies-413-589-956-as-a-live-source-in-job">B4: Amos’s doxologies (4:13; 5:8–9; 9:5–6) as a “live source” in Job</h3>
+<p><strong>Source:</strong> #15 · 9:1–10:22 dig (Tool 11; Tool 5)</p>
+<p><strong>Claim (as tested).</strong> Job 3:4–9, 9:5–10, 9:27 and 10:20–22 draw on Amos’s doxologies, through: - עֵיפָה (“gloom”, occurring twice); - treading the heights; - the constellations; - בלג (“flash” / “be cheerful”); - shared participial-hymn form.</p>
+<p><strong>Evidence (WLC unless stated)</strong> - [T] עֵיפָה is <strong>lemma 5890 in both</strong> verses: Amos 4:13 עֵיפָה and Job 10:22 עֵיפָתָה (same noun with a ה ending). There are only two verses, so the claim is <strong>verified</strong>. But the root is wider: עוף II (“be dark”) appears at Job 11:17 (תָּעֻפָה כַּבֹּקֶר תִּהְיֶה, “darkness will be like morning”), and מוּעָף / מָעוּף at Isa 8:22–23. - [T] דרך + בָּמָה (tread + heights): Amos 4:13; Mic 1:3; Deut 33:29; Hab 3:19; Job 9:8. Adding יָם (sea) leaves Job alone (verified). Amos 4:13 is the closest form: participle + עַל־בָּמֳתֵי + noun, inside a hymn. - [T] כִּימָה (Pleiades) occurs only in Amos 5:8; Job 9:9; 38:31. כְּסִיל (Orion) adds Isa 13:10 (verified). <strong>עשה + כִּימָה (“maker of the Pleiades”) occurs only in Amos 5:8 and Job 9:9</strong>: עֹשֶׂה … כְּסִיל וְכִימָה in Job, עֹשֵׂה כִימָה וּכְסִיל in Amos. - [T] Overlap with Job 9:5–10 (content lemmas shared): Amos 5:8, 7 (including כִּימָה, כְּסִיל, הפך “turn”, יָם); Amos 4:13, 6 (including דרך, בָּמָה, הָרִים “mountains”); Isa 44:24, 6; Isa 40:22, 4; Jer 10:12, 4; Ps 104:2, 2. - [T] בלג occurs in four verses: Amos 5:9; Job 9:27; 10:20; Ps 39:14 (verified). But <strong>Ps 39:14 is nearly verbatim with Job 10:20–21</strong>: both have וְאַבְלִיגָה (“that I may brighten up”) and בְּטֶרֶם אֵלֵךְ (“before I go”), and that second phrase occurs only in Ps 39:14 and Job 10:21. Amos 5:9 uses the Hiphil participle in a different sense (“makes destruction flash”). - [T] Job 3:4–9: <strong>Jer 13:16</strong> shares חשׁך (darken) + נֶשֶׁף (twilight) + קוה (hope) + אוֹר (light) with Job 3:9, found only in those two verses, and adds צַלְמָוֶת (deep darkness). Amos 5:8 shares only common lemmas there. צַלְמָוֶת occurs in 17 verses, 9 of them in Job; it is Job’s own word. - [T] <strong>A link not in the claim:</strong> בֹּקֶר + צַלְמָוֶת (morning + deep darkness) occur together only in <strong>Amos 5:8 and Job 24:17</strong>. In Job, morning <em>is</em> deep darkness to the wicked: an inversion of Amos’s “turns deep darkness into morning” [I]. - [T] <strong>Greek.</strong> - OG Amos 5:8 has <strong>no constellations</strong> (ὁ ποιῶν πάντα καὶ μετασκευάζων, “who makes all things and transforms them”; Swete and Rahlfs). - Amos 4:13 renders עֵיפָה ὁμίχλην (“mist”), while OG Job 10:21–22 has σκοτεινὴν καὶ γνοφεράν (“dark and gloomy”). The Greek preserves neither link. - Rahlfs Amos 5:8 εἰς τὸ πρωὶ σκιὰν θανάτου (“into the morning, the shadow of death”) matches Job 24:17 τὸ πρωὶ σκιὰ θανάτου. Swete’s Amos has only σκιάν. - [T] <strong>Participial hymn as a general form.</strong> Isa 40:22–23; 44:24–28; Ps 104:2–4; Job 12:17–25; 26:7–13 all use the same form.</p>
+<p><strong>Baseline</strong> - <strong>Exclusive pairs</strong> from the whole of Job to Amos (WLC, maxfreq 400): 12, or 82 per 1,000 Amos verses. That is mid-table, below Micah (181), Habakkuk (196) and Nahum (149). - <strong>Rare shared lemmas</strong> (≤5 verses): Amos 8 (54.8 per 1,000), Micah 57, Habakkuk 54, Nahum 106, Zephaniah 151. - <strong>Concentration</strong> is the real signal: 4 of Amos’s 8 rare shared lemmas sit in the doxologies (4:13; 5:8–9). That concentration is not unique, though. Zephaniah 1 has 4 rare shared lemmas, and Habakkuk 3 has 9 (at ≤8 verses). Their Job contacts, however, are scattered, not concentrated in one Job passage.</p>
+<p><strong>Rival sources</strong> - <strong>Ps 39:14</strong> for 9:27 and 10:20–21; it outranks Amos. - <strong>Jer 13:16</strong> (and Amos 8:9) for 3:4–9; it outranks Amos 5:8. - <strong>Isa 44:24</strong> for 9:8a. - For 9:8b–9, Amos 4:13 and 5:8 have <strong>no stronger rival</strong>.</p>
+<p><strong>Hays criteria</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong (9:8b–9) / Weak (3:4–9; 9:27; 10:20)</td>
+<td>Rare-lemma and near-verbatim matches in 9:8b–9; rivals elsewhere</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Possible–Strong</td>
+<td>9:8b, 9:9, 10:22 and 24:17 each touch the doxologies</td>
+</tr>
+<tr class="even">
+<td>Thematic Coherence</td>
+<td>Strong (9:5–10)</td>
+<td>God as cosmic Maker and Overturner in participles, in both texts</td>
+</tr>
+<tr class="odd">
+<td>Historical Plausibility</td>
+<td>Possible</td>
+<td>Shared doxological stock</td>
+</tr>
+<tr class="even">
+<td>History of Interpretation</td>
+<td>not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Possible</td>
+<td>Explains 9:8b–9 well; over-reaches for chs. 3 and 10</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance for Job 9:8b–9 (plus עֵיפָה at 10:22 and Job 24:17). Needs reframing for the wider design: drop 3:4–9 and 9:27/10:20.</p>
+<p><strong>Final rating.</strong> Job 9:8b–9 ~ Amos 4:13; 5:8: <strong>moderate–high</strong>. “Amos as a live source” across 3:4–10:22: <strong>moderate</strong>.</p>
+<p><strong>Reasoning.</strong> Job 9:8b–9 shares with Amos’s doxologies a near-verbatim participial clause (“treads on the heights of …”) and the unique “maker of the Pleiades and Orion”. No rival comes close for those lines. עֵיפָה and Job 24:17 add rare, independent contacts. But Ps 39:14 owns Job 10:20–21, Jer 13:16 owns Job 3:9, and Amos’s overall rate in Job is ordinary. So the claim holds for the hymn of ch. 9, not for a design running from Job 3 to 10.</p>
+<p><strong>What a preacher may safely say.</strong> “Job’s hymn to the God who ‘tramples down the waves of the sea’ and ‘makes the Bear, Orion and the Pleiades’ (9:8–9) speaks in the words of Amos’s doxologies (Amos 4:13; 5:8). And Job’s ‘Withdraw from me that I may have a little cheer before I go’ (10:20–21) is Psalm 39’s prayer.”</p>
+<p><strong>Book-overview action.</strong> Add <strong>Amos 4:13; 5:8 → 9:8b–9</strong> (moderate–high), with 10:22 (עֵיפָה) and 24:17; drop 3:4–9 (Jer 13:16 owns it) and 9:27 / 10:20 (Ps 39:14 owns them).</p>
+<hr />
+<p><strong>Cross-claim observation [I].</strong> Job 9:5–10 is woven from a shared prophetic-doxological stock: - 9:8a matches Isa 44:24; - 9:8b matches Amos 4:13; - 9:9 matches Amos 5:8.</p>
+<p>B1 and B4 are better presented together, as one claim about the hymn’s mosaic, than as two competing “sources”.</p>
+<hr />
+<h2 id="part-c-the-writings-and-a-canonical-dialogue">Part C: The Writings and a Canonical Dialogue</h2>
+<h3 id="auditors-note-2">Auditor’s note</h3>
+<p><strong>Corpus.</strong> WLC Hebrew (Open Scriptures/morphhb, lemma-indexed by Strong’s number); Swete’s LXX (Vaticanus-based; LXX numbering, so Ps 43 = MT Ps 44 and Ps 106 = MT Ps 107; Swete’s Ecclesiastes runs one verse ahead in ch. 7, so Swete Eccl 7:16 = MT 7:15); Rahlfs–Hanhart exports for Job, Psalms, Isaiah, Micah and Ecclesiastes; SBLGNT for Romans. All Hebrew counts below are <strong>WLC</strong> verse counts unless stated otherwise. Greek readings are labelled Swete or Rahlfs.</p>
+<p><strong>Positive control.</strong> <code>lem('2617','Job')</code> returned Job 6:14, 10:12, 37:13 as required. Before each claimed absence I checked that the same search returned the Job verse itself (e.g. the יָשָׁר + אבד search returns Job 4:7, and the phrase search for לָמָּה פָנֶיךָ תַסְתִּיר returns Job 13:24). No ketiv tokens were found in Job 5:16, 13:24 or 14:12, so the phrase searches there can be relied on.</p>
+<p><strong>Method.</strong> Each claim was tested for (a) verse-level lemma co-occurrence, (b) consonantal phrase matches (plain and skeletal), (c) multi-verse windows where a link spans neighbouring verses, (d) a frequency baseline for each lemma, and (e) the exclusive-pair baseline: in Job 4 a verse has on average <strong>2.1</strong> content-lemma pairs that occur together in exactly one other verse (maxfreq 400). For C2’s design claim I built three explicit chance baselines (see C2). Rivals were looked for by lemma and by phrase.</p>
+<p><strong>Limits.</strong> The corpus is an observation layer, not a citation layer. BHS/apparatus questions were not checked. History of Interpretation was <strong>not checked</strong> (no commentaries, no web). I leave the direction of dependence open throughout unless the evidence decides it, which it never does here.</p>
+<p>Tags: <strong>[T]</strong> = on the page; <strong>[I]</strong> = inference.</p>
+<hr />
+<h3 id="c1-psalm-44-behind-job-1324-and-1412-with-139-and-zophars-116-and-a-convergence-with-romans-8">C1: Psalm 44 behind Job 13:24 and 14:12 (with 13:9 and Zophar’s 11:6), and a convergence with Romans 8</h3>
+<p><strong>Source:</strong> #24 · 13:1–14:22 dig (Tool 11; Christological reading)</p>
+<p><strong>Claim (as tested).</strong> Psalm 44:22–27 is a source for Job 13:24 and 14:12, with lesser echoes in Job 13:9 and Zophar’s 11:6. Psalm 44 is the lament of a faithful, innocent community, and this register suits Job. Romans 8:33–36 quotes Ps 44:23 and draws on Isa 50:8–9, and Job 13:18–24 draws on both.</p>
+<p><strong>Evidence.</strong> - [T] <strong>Job 13:24 = Ps 44:25a, word for word.</strong> לָמָּה־פָנֶיךָ תַסְתִּיר (“Why do You hide Your face?”). The phrase occurs only in Job 13:24 and Ps 44:25 (WLC, plain and skeletal phrase search). Verified. - [T] The lemma triad מָה + סתר + פָּנִים occurs only in Deut 32:20, Job 13:24, Ps 44:25 and Ps 88:15 (WLC). <strong>Verified as stated.</strong> סתר + מָה without פָּנִים adds Isa 40:27 and Ps 89:47. - [T] <strong>New, and stronger than proposed.</strong> Job 13:24b continues “and count me (וְתַחְשְׁבֵנִי) as Your enemy”. Ps 44:23 has “we are counted (נֶחְשַׁבְנוּ) as sheep for slaughter”. The set חשׁב + סתר + פָּנִים within a three-verse window occurs only at Job 13:22–24 and Ps 44:23–25 (WLC). So Job 13:24 takes up two adjacent verses of the psalm (vv. 23 and 25), not just one. - [T] <strong>Job 14:12 ~ Ps 44:24.</strong> עור (“arouse”) + קיץ (“awake”) + a sleep lemma in one verse: only Job 14:12 and Ps 44:24 (WLC). This holds even when the sleep lemmas are pooled (ישׁן verb 3462 / adjective 3463 / שֵׁנָה 8142) and both “awake” lemmas (6974/3364) are allowed. <strong>Verified, with one nuance:</strong> the psalm has the verb תִישַׁן, while Job has the noun מִשְּׁנָתָם. The pair עור + קיץ also occurs in Hab 2:19 and Ps 35:23 and 73:20. The prayer “Arouse/awake, Lord” is a lament topos: Ps 7:7; 35:23; 44:24; 59:5–6. - [T] <strong>Ps 44:22 ~ Job 13:9.</strong> חקר (“search out”) is shared, with God as subject in a rhetorical question in both. But חקר occurs in 26 verses (WLC), six of them in Job. This is weak on its own. - [T] <strong>תַּעֲלֻמוֹת (“secrets”) occurs only in Job 11:6, Job 28:11 and Ps 44:22 (WLC). Verified.</strong> [T] Zophar’s next lines add more: Job 11:11 כִּי־הוּא יָדַע (“for He knows”) ≈ Ps 44:22 כִּי־הוּא יֹדֵעַ. That trigram occurs only in Job 11:11, Job 28:23, Ps 44:22 and Ps 103:14. Zophar’s 11:6 + 11:11 therefore gives a small two-point echo of Ps 44:22 [I]. - [T] <strong>Dust and rise (Ps 44:26–27 ~ Job 14:8, 12, 19).</strong> This is generic. עָפָר + קוּם in one verse occurs in 1 Sam 2:8; Isa 2:19; 26:19; 52:2; Job 19:25; Ps 113:7 (WLC). No Job 14 verse is among them. Weak. - [T] <strong>Register.</strong> Ps 44:18–22 protests covenant loyalty: “we have not forgotten You (וְלֹא שְׁכַחֲנוּךָ)… if we had… would not God search this out?” This matches Job 13:18, 23 (“I know that I will be vindicated… make me know my transgression”). Thematic fit is strong. - [T] <strong>Greek.</strong> Rom 8:36 (SBLGNT) = Swete and Rahlfs Ps 43:23 word for word, except that SBLGNT has Ἕνεκεν where Swete and Rahlfs have ἕνεκα. <strong>Verified.</strong> The LXX of Job does <strong>not</strong> carry the Ps 44 links into Greek. Job 13:24 has διὰ τί ἀπ᾽ ἐμοῦ κρύπτῃ, where Ps 43:25 has ἵνα τί τὸ πρόσωπόν σου ἀποστρέφεις. And Rahlfs <strong>asterisks</strong> Job 14:12c (καὶ οὐκ ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν). That colon, the one nearest to Ps 44:24, is therefore a hexaplaric supplement and absent from the Old Greek [T]. The link belongs to the Hebrew. - [T] <strong>Isa 50:8–9 ~ Job 13:18–28 (convergence check). This link is stronger than proposed.</strong> - ריב + צדק within two verses occurs only at Isa 50:7–8, Job 9:2, Job 13:18–19 and Job 33:12. - ריב + צדק + עָשׁ (“moth”) within an eleven-verse window occurs only in Isa 50 and Job 13:18–28. - בלה (“wear out”) + עָשׁ occurs only in Isa 50:9 and Job 13:28. - בֶּגֶד + עָשׁ + אכל occurs only in Isa 50:9, Isa 51:8 and Job 13:28 (all WLC). - The wording is close too: Job 13:19 מִי־הוּא יָרִיב עִמָּדִי sits beside Isa 50:8 מִי־יָרִיב אִתִּי and Isa 50:9 מִי־הוּא יַרְשִׁיעֵנִי. In the LXX (Swete/Rahlfs), Job 13:19 τίς… ὁ κριθησόμενός μοι matches Isa 50:8 τίς ὁ κρινόμενός μοι. - [T] Rom 8:33–34 (θεὸς ὁ δικαιῶν· τίς ὁ κατακρινῶν) echoes Isa 50:8–9 LXX. It shares no distinctive vocabulary with LXX Job 13 beyond the τίς-plus-judging-verb pattern.</p>
+<p><strong>Baseline.</strong> - Exclusive-pair counts for the Job verses are low: 13:24 = 1 (to Ps 55:13), 14:12 = 1 (to Zech 4:1), 13:9 = 0 (maxfreq 400). All are below the Job 4 mean of 2.1. - At pair level, Job shares only one exclusive pair with all of Ps 44 (Job 38:15–Ps 44:4). The Ps 44 links therefore do <strong>not</strong> come from ordinary pair noise. They are a verbatim phrase, a unique triad, and a unique three-verse window. - Lemma frequencies (WLC verses): תַּעֲלֻמוֹת 3; קיץ 22; ישׁן 21; שֵׁנָה 23; עור 65; סתר 80; חשׁב 122; חקר 26. - In a scan of skeletal trigrams, Job has 195 verse-pairs that share a trigram attested at most twice outside Job, and most of these are function-word strings. A content trigram with a single partner is uncommon, so the cluster is well above chance.</p>
+<p><strong>Rival sources.</strong> - <strong>For 13:24: Ps 88:15</strong> (לָמָה יְהוָה תִּזְנַח נַפְשִׁי תַּסְתִּיר פָּנֶיךָ מִמֶּנִּי). It shares the interrogative, סתר + פָּנִים and חשׁב (Ps 88:5, נֶחְשַׁבְתִּי), and its register (an individual near Sheol, 88:11 “will the shades rise (יָקוּמוּ)?”) is arguably closer to Job 14. But it is not verbatim, and it has no “awake/sleep” cluster. The other “hide your face” texts (Ps 13:2; 27:9; 69:18; 102:3; 143:7) are imperatives or “how long”, not “why”, and Ps 10:1 uses עלם. <strong>Ps 88 is a real secondary rival, not an equal one.</strong> - <strong>For 14:12:</strong> Jer 51:39, 57 shares the phrase לֹא יָקִיצוּ (“they will not wake”; the phrase also occurs in 1 Sam 12:17, Eccl 11:4 and Isa 59:1 in other senses), plus שְׁנַת (sleep) and ישׁן, in a death-as-endless-sleep sense that is <strong>closer in meaning</strong> to Job 14:12 than Ps 44:24 is. Zech 4:1 shares the exact clause יֵעוֹר מִשְּׁנָתוֹ ~ Job’s יֵעֹרוּ מִשְּׁנָתָם (the only two hits, WLC), though as an ordinary simile. Isa 26:19 (קום + קיץ + dust) and Dan 12:2 (sleepers in dust shall awake) are the canonical <strong>antitheses</strong>, not sources. - [I] The best description is that Job 14:12 inverts Ps 44:24’s call to God (“Arouse… awake”) into human death-sleep (“will not awake… nor be aroused”), using a death-sleep idiom it shares with Jer 51.</p>
+<p><strong>Hays criteria.</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Both are canonical; their relative dates are unknown; direction left open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>Unique three-word verbatim phrase (13:24); unique עור + קיץ + sleep triad (14:12); unique חשׁב + סתר + פנים window</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Strong</td>
+<td>Ps 44:22, 23, 24, 25 all recur, across Job 11 (Zophar) and Job 13–14 (Job)</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>The protest of the innocent (Ps 44:18–22) answers Job 13:18–23</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible</td>
+<td>Use of the Psalter’s lament language in a wisdom dialogue is plausible; nothing decides direction</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong</td>
+<td>The community’s “Awake, Lord!” becomes “man will not awake”; “counted as sheep” becomes “counted as Your enemy”</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance.</p>
+<p><strong>Final rating.</strong> High on the words. Moderate–high for Ps 44 as a source. The Romans convergence is moderate at most, and only as a synthetic observation.</p>
+<p><strong>Reasoning.</strong> The Ps 44 link is better than proposed: Job 13:22–24 takes up Ps 44:23 <em>and</em> 44:25, and 14:12 inverts 44:24. Two parts of the claim need trimming. The dust/rise and חקר links are weak, and 14:12 shares its death-sleep sense with Jer 51:39, 57. The link also does not survive into the Old Greek: 13:24 is rendered differently, and 14:12c is a hexaplaric plus. On the convergence, Job 13 provably uses both Ps 44 and Isa 50:8–9 (the Isa 50 cluster is strong), and Paul provably uses both. Nothing shows that Paul had Job in view, so the “triangle” is the reader’s construction.</p>
+<p><strong>What a preacher may safely say.</strong> “Job borrows the very words of Psalm 44, the lament of God’s faithful people suffering though they had not forgotten Him: ‘Why do You hide Your face?’ Paul quotes the same psalm in Romans 8:36.”</p>
+<p><strong>Book-overview action.</strong> Add <strong>Ps 44:23–25 → 13:24; 14:12</strong> (high words; moderate–high source), with Zophar’s 11:6, 11 as a minor echo; state the Romans 8 convergence as the reader’s synthesis, not as Job’s design.</p>
+<hr />
+<h3 id="c2-psalm-1074042-divided-between-eliphaz-and-job">C2: Psalm 107:40–42 divided between Eliphaz and Job</h3>
+<p><strong>Source:</strong> #38 · 4:1–5:27 dig, Tool 11 (and the 9:1–10:22 dig on 12:21, 24 by anticipation)</p>
+<p><strong>Claim (as tested).</strong> Job 5:16b reproduces Ps 107:42b. Ps 107:41 lies behind Job 5:11 and 5:15. Job 12:21a and 12:24b quote Ps 107:40 word for word. Two speakers thus take adjacent verses of one psalm, as with Deut 32:39 (Eliphaz 5:18 / Job 10:7), and this is proposed as a design.</p>
+<p><strong>Evidence.</strong> - [T] <strong>Job 12:21a = Ps 107:40a</strong> (שׁוֹפֵךְ בּוּז עַל־נְדִיבִים, “He pours contempt on nobles”). The only difference is plene שׁוֹפֵךְ against defective שֹׁפֵךְ. <strong>Job 12:24b = Ps 107:40b</strong> (וַיַּתְעֵם בְּתֹהוּ לֹא־דָרֶךְ, “and makes them wander in a pathless waste”), letter for letter. <strong>Verified.</strong> Job splits <em>one</em> psalm verse across two cola three verses apart. Job 12:21 alone carries three exclusive pairs to Ps 107:40 (WLC), among the eight strongest verse-to-verse links between Job and any other book. - [T] <strong>Job 5:16b ≈ Ps 107:42b.</strong> עַוְלָה + קפץ + פֶּה occurs only in Job 5:16 and Ps 107:42 (WLC). <strong>Verified.</strong> קפץ + פֶּה adds Isa 52:15. Job has the by-form וְעֹלָתָה and lacks כָּל. In the Greek (Swete = Rahlfs) the verb is the same: Job 5:16 ἀδίκου δὲ στόμα ἐμφραχθείη, Ps 106:42 ἀνομία ἐμφράξει τὸ στόμα αὐτῆς. Here the link survives into the LXX. - [T] <strong>Job 5:11 ~ Ps 107:41.</strong> שׂגב + אֶבְיוֹן in one verse occurs only in Ps 107:41. <strong>No Job verse contains both</strong>: Job distributes them over 5:11 (שָׂגְבוּ) and 5:15 (אֶבְיוֹן). The stated co-occurrence therefore holds only as a cross-verse correspondence. A better verse-level link exists, which the claim missed: <strong>שׂגב + שׂים occurs only in Job 5:11 and Ps 107:41</strong> (WLC). Job 5:11 has לָשׂוּם… שָׂגְבוּ, and Ps 107:41 has וַיְשַׂגֵּב… וַיָּשֶׂם. Frequencies: שׂגב 20 verses, אֶבְיוֹן 58. - [T] <strong>Not in the claim: a further Eliphaz echo.</strong> Job 22:19 יִרְאוּ צַדִּיקִים וְיִשְׂמָחוּ (“the righteous see and are glad”) ≈ Ps 107:42a יִרְאוּ יְשָׁרִים וְיִשְׂמָחוּ. Ps 69:33 is a looser parallel. So Eliphaz uses <strong>both halves</strong> of Ps 107:42 (5:16 and 22:19) [I, moderate]. - [T] Job 12:22–25 has further, weaker contacts with Ps 107: צַלְמָוֶת (“deep darkness”; Ps 107:10, 14), חֹשֶׁךְ and כַּשִּׁכּוֹר (“like a drunkard”; Ps 107:27). Isa 19:14 is the only verse besides Job 12:25 that pairs תעה with שִׁכּוֹר. - [T] <strong>The proposed parallel pattern.</strong> מחץ + רפא occurs only in Deut 32:39 and Job 5:18 (Eliphaz). Job 10:7 וְאֵין מִיָּדְךָ מַצִּיל ≈ Deut 32:39 וְאֵין מִיָּדִי מַצִּיל, which Isa 43:13 also shares. <strong>Verified.</strong></p>
+<p><strong>Baseline (design claim).</strong> 1. <strong>Single exclusive pairs (maxfreq 400).</strong> Job shares 162 exclusive pairs with 78 different psalms. In <strong>16 of those 78 psalms</strong>, two different speakers (narrator excluded) hit verses no more than two apart. A permutation test that shuffled Job verses among the links (2,000 runs) gave a mean of 13.3, with P(≥16) ≈ 0.13. At maxfreq 700 the figures were 23 of 91, mean 19.7, P ≈ 0.12. <strong>At this level the “adjacent verses split between speakers” pattern is ordinary.</strong> 2. <strong>Strong links (≥2 exclusive pairs to the same verse).</strong> There are 43 such Job-verse/target-verse links across the whole Hebrew Bible, and <strong>none</strong> forms a cross-speaker adjacent split. (Job 5:16 enters through a triad, not two pairs.) 3. <strong>Rare verbatim trigrams (attested at most twice outside Job).</strong> There are 6 cross-speaker adjacent splits. Only two are substantive: - Ps 8:5 (Eliphaz 15:14 / Job 7:17, the same verse) - Ps 107:40–42 itself.</p>
+<p>Ps 40:13 (Eliphaz 5:9 / Job 9:10) is really Job repeating Eliphaz, and the others are function-word strings.</p>
+<p>So what is distinctive about Ps 107 is that <strong>both sides are verbatim</strong>, not that they are adjacent. The phenomenon of rival speakers handling the same text recurs (Deut 32:39; Ps 8:5; Ps 107), but adjacency is not its defining feature.</p>
+<p><strong>Rival sources.</strong> 1 Sam 2:7–8 and Ps 113:7–8 share with Job 5:9–16 only דַּל + אֶבְיוֹן, a stock pair found in 9 verses (WLC). They have no שׂגב and no verbatim wording, though 1 Sam 2:7 (מַשְׁפִּיל אַף־מְרוֹמֵם) is thematically close to 5:11. For the wording of 5:11a (שְׁפָלִים לְמָרוֹם), <strong>Isa 57:15</strong> is the lexical rival: שׁפל + מָרוֹם occurs only in Isa 57:15 and Job 5:11. <strong>Neither rival outranks Ps 107</strong>, which alone gives a verbatim cola match plus שׂגב + שׂים.</p>
+<p><strong>Hays criteria.</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>Both are canonical; their relative dates are unknown; direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Strong</td>
+<td>Two verbatim cola (12:21a, 24b); a unique triad (5:16b); a unique pair (5:11)</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Strong</td>
+<td>Ps 107:40, 41, 42 (twice, counting 22:19), plus weaker contacts in Job 12:22–25</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>Eliphaz takes the psalm’s comfort for the poor; Job takes its overthrow of rulers, and omits the comfort</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Possible</td>
+<td>Plausible, but undecidable</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong for the words; Possible for the “design”</td>
+<td>The contested reading is illuminating; the adjacency design does not beat chance as a type</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Confirmed with nuance on the words. The design claim needs reframing.</p>
+<p><strong>Final rating.</strong> High on the words. The pattern is downgraded from moderate–high to <strong>moderate</strong>.</p>
+<p><strong>Reasoning.</strong> Every verbal link holds. Job 12:21a/24b and 5:16b are among the strongest verbatim contacts between Job and the Psalter. 5:11 is better grounded in שׂגב + שׂים than in the claimed שׂגב + אֶבְיוֹן, which are never in the same Job verse. As a type, “two speakers hit nearby verses of one text” happens by chance in about a fifth of psalms linked to Job. The pattern is meaningful here only because both uses are verbatim. It is better framed as “the friends and Job contest the same tradition” (cf. Deut 32:39; Ps 8:5) than as a planned adjacency design.</p>
+<p><strong>What a preacher may safely say.</strong> “Eliphaz and Job both use Psalm 107. Eliphaz takes its comfort (‘unrighteousness must shut its mouth’, 5:16; Ps 107:42), and Job takes its judgement on rulers (‘He pours contempt on nobles’, 12:21; Ps 107:40). Each hears in the same psalm what fits his case.”</p>
+<p><strong>Book-overview action.</strong> Extend the existing <strong>Ps 107:40</strong> row to <strong>Ps 107:40–42</strong>: Eliphaz 5:11, 5:16; 22:19 · Job 12:21, 24 (high on words). Carry the adjacency design at moderate, under “the friends and Job contest the same texts”.</p>
+<hr />
+<h3 id="c3-the-canons-reply-to-eliphazs-who-ever-perished-being-innocent-job-47">C3: The canon’s reply to Eliphaz’s “Who ever perished being innocent?” (Job 4:7)</h3>
+<p><strong>Source:</strong> #39 · 4:1–5:27 dig, Headline 4</p>
+<p><strong>Claim (as tested).</strong> Eliphaz’s doctrine has canonical partners (צַדִּיק + אבד, where the wicked perish), and other texts contradict it: Isa 57:1, Mic 7:2 (יָשָׁר + אבד, shared only with Job 4:7) and Eccl 7:15. Eccl 7:15 is proposed as a handoff, because both Eliphaz and Qohelet appeal to רָאִיתִי (“I have seen”). נָקִי + אבד is proposed as unique to Job 4:7 and Jonah 1:14. This is offered as a canonical dialogue, not an allusion.</p>
+<p><strong>Evidence.</strong> - [T] צַדִּיק + אבד occurs in exactly six verses: Ps 1:6; Prov 10:28; 11:10; 28:28; Isa 57:1; Eccl 7:15 (WLC). <strong>Verified.</strong> In the first four the <em>wicked</em> perish; in Isa 57:1 and Eccl 7:15 the <em>righteous</em> perish. <strong>Job 4:7 itself does not contain צַדִּיק.</strong> It has נָקִי and יְשָׁרִים. - [T] יָשָׁר + אבד occurs only in Job 4:7 and Mic 7:2 (WLC). <strong>Verified, but not significant.</strong> At maxfreq 700, Job 4:7 has seven exclusive pairs, going to Mic 7:2, Jonah 1:14 (two), Mic 3:9, Ps 83:5, Isa 49:21 and Gen 37:16. That is above the Job 4 mean of about 2, and Mic 7:2 is one ordinary pair among them. Mic 7:2’s subject is חָסִיד, which never occurs with אבד in Job, and its context is social collapse, not theodicy. Rahlfs has εὐλαβής where Swete has εὐσεβής: an edition divergence, not load-bearing. - [T] נָקִי + אבד occurs only in Job 4:7 and Jonah 1:14 (WLC). <strong>Verified, but irrelevant.</strong> In Jonah the word means “innocent blood” (דָּם נָקִיא), and the sailors fear perishing <em>for</em> shedding it. The sense is different, so the link should be discarded as a dialogue partner. - [T] <strong>“I have seen.”</strong> In Job, the first-person perfect of ראה (רָאִיתִי) occurs only in Eliphaz’s first speech, at 4:8 and 5:3 (WLC). That is a genuine mark of his speech. Across the Hebrew Bible it is a sapiential commonplace: Eccl 18 verses; Ps 37:25, 35; Prov 24:32. It is Qohelet’s signature form, so it cannot point specifically to Eccl 7:15. - [T] <strong>Psalm 37 is closer to Eliphaz than Eccl 7:15 is.</strong> - Ps 37:25 “I have not seen (לֹא רָאִיתִי) the righteous forsaken” restates Eliphaz’s thesis. - Ps 37:35–36 “I have seen (רָאִיתִי) a wicked, violent man spreading like a luxuriant tree… and he was no more” matches Job 5:3 “I have seen (רָאִיתִי) the fool taking root (מַשְׁרִישׁ), and suddenly I cursed his dwelling” in structure. - Ps 37:37 pairs תָּם (“blameless”) with יָשָׁר and the verb ראה, as Eliphaz pairs תֹם (4:6) with יְשָׁרִים (4:7). (תָּם + יָשָׁר: Job 1:1, 8; 2:3; Ps 37:37; Prov 29:10.) - But Ps 37 has <strong>no exclusive lemma pair</strong> with Job 4–5. It is a partner in genre and function, not a lexical source. - [T] <strong>Isaiah 57 is the strongest counter-voice lexically, and the claim underplays it.</strong> Besides 57:1 (הַצַּדִּיק אָבָד), Isa 57:15 has two exclusive pairs with Eliphaz’s first speech: דכא + שׁכן (only Isa 57:15 and Job 4:19) and שׁפל + מָרוֹם (only Isa 57:15 and Job 5:11). The LXX sharpens the contrast: Isa 57:1 Ἴδετε ὡς ὁ δίκαιος ἀπώλετο (“See how the righteous perished”; δίκαιος ἀπώλετο occurs only here in Swete) against Job 4:7 τίς καθαρὸς ὢν ἀπώλετο. Isaiah’s “See!” answers Eliphaz’s “I have seen” [I, Greek only]. - [T] <strong>Eccl 7:15</strong> (אֶת־הַכֹּל רָאִיתִי… יֵשׁ צַדִּיק אֹבֵד בְּצִדְקוֹ) shares with Job 4:7–8 only אבד and the common רָאִיתִי. It shares no exclusive pair with Job 4–5. Its “righteous who perishes” is the plainest canonical negation of Eliphaz’s thesis.</p>
+<p><strong>Baseline.</strong> - Job 4:7’s seven exclusive pairs (maxfreq 700) make any single “only” pair from it unremarkable. - Lemma frequencies (WLC verses): אבד 174; צַדִּיק 197; יָשָׁר 119; נָקִי 42; ראה 1,205. These are common words. - The counter-voice texts do not cluster on Job 4:7 itself. The one cluster that does exceed chance is Isa 57:1 + 57:15 against Job 4:7, 4:19 and 5:11: three points of contact with one speech from one short chapter.</p>
+<p><strong>Rival sources.</strong> - For the Eliphaz side of the “dialogue”, Ps 37 (wisdom psalm; “I have seen”; תָּם/יָשָׁר) is a closer partner than Ps 1 or Proverbs. - For the counter-voice, Isa 57:1, 15 outranks both Mic 7:2 and Eccl 7:15 on lexical evidence. Eccl 7:15 remains the clearest on thesis.</p>
+<p><strong>Hays criteria</strong> (scored as if for an allusion, to test whether that framing could be justified).</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Score</th>
+<th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Availability</td>
+<td>Possible</td>
+<td>All are canonical; dates uncertain; direction open</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td>Weak</td>
+<td>Common lemmas only; יָשָׁר + אבד is at the chance level; no verbatim phrase with Mic, Eccl or Jonah</td>
+</tr>
+<tr class="odd">
+<td>Recurrence</td>
+<td>Weak (Possible for Isa 57)</td>
+<td>Only Isa 57 recurs (vv. 1, 15)</td>
+</tr>
+<tr class="even">
+<td>Thematic coherence</td>
+<td>Strong</td>
+<td>The thesis “the innocent never perish” is explicitly contradicted by Isa 57:1 and Eccl 7:15</td>
+</tr>
+<tr class="odd">
+<td>Historical plausibility</td>
+<td>Weak (as a handoff)</td>
+<td>Nothing on the page links Ecclesiastes to Job 4 specifically</td>
+</tr>
+<tr class="even">
+<td>History of interpretation</td>
+<td>Not checked</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Satisfaction</td>
+<td>Strong as a reader’s dialogue; Weak as an authorial allusion</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict.</strong> Needs reframing.</p>
+<p><strong>Final rating.</strong> Moderate for a canonical dialogue that the reader builds. High that the canon contains both voices. <strong>Low–moderate</strong> for Eccl 7:15 as a handoff. Discard Jonah 1:14.</p>
+<p><strong>Reasoning.</strong> All the counts are correct, but they do not carry the weight placed on them. יָשָׁר + אבד is one of seven chance-level exclusive pairs in Job 4:7. נָקִי + אבד in Jonah has a different sense. רָאִיתִי is a wisdom commonplace and is Qohelet’s own signature. On the Eliphaz side, Ps 37 is the closer partner. On the counter side, Isa 57 is the only text with a lexical cluster against Eliphaz’s speech. The dialogue should be described as thematic and reader-constructed, with Isa 57:1 and Eccl 7:15 as its two clearest counter-voices, not as an allusion or a handoff.</p>
+<p><strong>What a preacher may safely say.</strong> “Eliphaz asks, ‘Who ever perished being innocent?’ (4:7). Scripture itself answers. Isaiah says, ‘The righteous man perishes, and no man takes it to heart’ (Isa 57:1), and the Preacher says, ‘there is a righteous man who perishes in his righteousness’ (Eccl 7:15).”</p>
+<p><strong>Book-overview action.</strong> No map row (this is a reader’s canonical dialogue, not an allusion). If the trap or Christology sections cite it, lead with <strong>Isa 57:1, 15</strong>; Eccl 7:15 as thesis only; Ps 37 as Eliphaz’s partner; Jonah 1:14 discarded.</p>
+<hr />
+<h2 id="spot-checks">Spot Checks</h2>
+<p>The main session re-ran the evidence on which each verdict turns, from the same corpus but outside the auditors’ sessions. <strong>Twenty-three of the 24 checks reproduced the auditors’ results exactly; the twenty-fourth (check 16) corrects one word of auditor B’s and changes no verdict.</strong> A note on method follows the table.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Claim</th>
+<th>Check (edition)</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>A1</td>
+<td>The hidden face (סתר + פָּנִים) in Exodus</td>
+<td>None in Exod 33; Exodus has only 3:6 (Moses hides <em>his own</em> face) (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>A1</td>
+<td>Job 9:11 in the Greek</td>
+<td>παρέλθῃ stands in the line with יַחֲלֹף (Swete, Rahlfs) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>A1</td>
+<td>נקה ± 2 verses of חֶסֶד and עָוֹן</td>
+<td>Includes Exod 20:5–7 and Deut 5:9–11 as well as Exod 34:7 / Num 14:18 (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>A1</td>
+<td>Ps 130:3 against Job 10:14</td>
+<td>אִם + שׁמר + עָוֹן in both (WLC) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>A2</td>
+<td>Exclusive pairs at Job 4:16</td>
+<td>3 at maxfreq 400; 5 at 700, four of them to Num 12:8, Deut 4:12, 1 Kgs 19:12, Dan 8:15 (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>A2</td>
+<td>Dan 8:15</td>
+<td>עמד + נֶגֶד + מַרְאֶה only Dan 8:15 and Job 4:16 (WLC) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>A2</td>
+<td>“No … only a voice” in the Greek</td>
+<td>ἀλλ᾽ ἢ … φωνη- only Deut 4:12 and Job 4:16 (Swete) — reproduced</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>A2</td>
+<td>αὔρα</td>
+<td>Swete only 1 Kgs 19:12 and Job 4:16; <strong>Rahlfs also Ps 106:29</strong> (= MT 107:29 דְּמָמָה) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>A2</td>
+<td>Num 12:7 ~ Job 4:18</td>
+<td>עֶבֶד + אמן in adjacent source verses (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>A3</td>
+<td>מִיָּדִי / מִיָּדְךָ מַצִּיל</td>
+<td>Deut 32:39; Isa 43:13; Job 10:7 (second person) (WLC) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>A3</td>
+<td>Job 4:10 teeth</td>
+<td>Exclusive pair to Ps 58:7, not Deut 32:24 (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>A4</td>
+<td>בלג</td>
+<td>Four verses: Amos 5:9; Job 9:27; 10:20; Ps 39:14 (WLC) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>A4</td>
+<td>חָדֵל (2310) against חדל (2308)</td>
+<td>Ps 39:5 adjective; Job 7:16; 10:20; 14:6 verb (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>B1</td>
+<td>יצר in Job</td>
+<td>Zero verses (WLC; positive control Isa 44:24 returned) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>B1</td>
+<td>יְהוֹלֵל</td>
+<td>Isa 44:25; Job 12:17; Eccl 7:7 only (WLC, exact consonants) — reproduced</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>B1</td>
+<td>Ps 119:73 ~ Job 10:8 in the Greek</td>
+<td><strong>Correction:</strong> Swete Ps 118:73 reads Αἱ χεῖρές σου ἔπλασάν με καὶ ἡτοίμασάν με; Job 10:8 reads αἱ χεῖρές σου ἔπλασάν με καὶ ἐποίησάν με. The first clause agrees word for word, the second verb does not, so the agreement is partial, not “verbatim” as auditor B wrote. The Hebrew exclusivity stands</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>B3</td>
+<td>פדה + מָוֶת</td>
+<td>Hos 13:14; Job 5:20 only (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>B3</td>
+<td>Swete Job 5:4</td>
+<td>καὶ οὐκ ἔσται ὁ ἐξαιρούμενος = Hos 5:14 word for word (Swete; Rahlfs agrees) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>B3</td>
+<td>Control-book rates</td>
+<td>Hosea 71, Micah 181, Habakkuk 196 exclusive pairs per 1,000 verses (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>B4</td>
+<td>בֹּקֶר + צַלְמָוֶת; עשה + כִּימָה</td>
+<td>Each only Amos 5:8 and one Job verse (24:17; 9:9) (WLC) — reproduced</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>B4</td>
+<td>Jer 13:16 against Job 3:9</td>
+<td>Four lemmas shared, exclusive to the pair (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>C1</td>
+<td>חשׁב + סתר + פָּנִים, three-verse window</td>
+<td>Only Job 13:22–24 and Ps 44:23–25 (WLC) — reproduced; Rahlfs Job 14:12c marks καὶ οὐκ ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν with the hexaplaric asterisk — reproduced</td>
+</tr>
+<tr class="odd">
+<td>23</td>
+<td>C2</td>
+<td>שׂגב + שׂים; Job 22:19</td>
+<td>Only Job 5:11 and Ps 107:41; Job 22:19 ≈ Ps 107:42a (WLC) — reproduced</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>C3</td>
+<td>דכא + שׁכן; שׁפל + מָרוֹם</td>
+<td>Each only Isa 57:15 and one Eliphaz verse (4:19; 5:11) (WLC) — reproduced</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note on method.</strong> The helper’s phrase search runs a second, <em>skeletal</em> pass (waw, yod and final <em>he</em> removed) so that a defective spelling cannot hide a verse. On two- and three-letter words that pass over-matches, so short exact phrases (check 15) were confirmed by exact consonants instead. No verdict depends on a skeletal-only hit.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<h3 id="verdict-count">Verdict count</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verdict</th>
+<th>Count</th>
+<th>Claims</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Confirmed</td>
+<td>0</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Confirmed with nuance</td>
+<td>6</td>
+<td>A2, A3, A4, B2, C1, C2 (words)</td>
+</tr>
+<tr class="odd">
+<td>Needs reframing</td>
+<td>5</td>
+<td>A1, B1, B3, C3, B4 (design)</td>
+</tr>
+<tr class="even">
+<td>Discard</td>
+<td>0</td>
+<td>(sub-links discarded within claims: Jonah 1:14; רֶשֶׁף; the חדל link; the “two halves” design)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Counting convention.</strong> B4 and C2 received split verdicts. Each is counted once, by the verdict on the part a sermon would lean on: C2 under “Confirmed with nuance” (the words carry the finding; the adjacency design is reframed), B4 under “Needs reframing” (the queue item claimed Amos as a live source across Job 3–10, and that is what is reframed; the 9:8b–9 link itself is confirmed with nuance). Read with their halves, the eleven claims hold thirteen sub-verdicts: eight confirmed with nuance and five needing reframing.</p>
+<p><strong>The pattern.</strong> No claim failed outright and no stated “only” proved false. Every claim that rests on <strong>one or two verbatim or rare-anchored links</strong> survived (Deut 32:39; Deut 28:29; Ps 39:14; Isa 50:8–9; Ps 44:23–25; Ps 107:40–42; the three revelation texts at 4:16). Every claim that rests on a <strong>pattern or design</strong> built from many ordinary pairs was reframed downwards (Hosea; Exod 33; Isa 44:24’s two halves; Amos across 3–10; the adjacency of Ps 107; the canon’s reply). This is the same result as the Matthew and Mark audits: synthetic, cross-passage claims fail at a far higher rate than single links.</p>
+<h3 id="confidence-change-propagation">Confidence Change Propagation</h3>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Claim (dig and place)</th>
+<th>Previous</th>
+<th>Revised</th>
+<th>What changes downstream</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Hosea as a live source behind Eliphaz (4–5 dig, Headline 3)</td>
+<td>moderate–high (pattern)</td>
+<td><strong>low–moderate</strong> (pattern); moderate (three single echoes)</td>
+<td>Headline 3 rewritten: Deuteronomy’s Song and curses lead; Eliphaz speaks a pooled covenant-and-wisdom idiom (Deut 32; Lev 26; Prov 3 and 22; Ps 91), of which Hosea is one voice</td>
+</tr>
+<tr class="even">
+<td>The canon’s reply to 4:7 (4–5 dig, Headline 4)</td>
+<td>high</td>
+<td><strong>moderate</strong> (reader’s canonical dialogue)</td>
+<td>Headline 4 kept, but framed as “Scripture answers” for the reader, not as an allusion; Isa 57:1, 15 leads; Jonah 1:14 and Mic 7:2 drop out as evidence</td>
+</tr>
+<tr class="odd">
+<td>Eccl 7:15 as a handoff (4–5 dig)</td>
+<td>moderate–high</td>
+<td><strong>low–moderate</strong></td>
+<td>Use Eccl 7:15 as a thesis-level counter-voice only</td>
+</tr>
+<tr class="even">
+<td>Exod 33:19–34:7 behind 7–13 (9–10 and 13–14 digs)</td>
+<td>moderate–high</td>
+<td><strong>moderate</strong> (Exod 34:6–7 formula tradition); <strong>low</strong> (Exod 33 theophany)</td>
+<td>Drop the hidden-face and “passing by” theophany strand; 9:11 goes with 4:15 and 1 Kgs 19:11</td>
+</tr>
+<tr class="odd">
+<td>Isa 44:24 behind both creation hymns (9–10 dig, Tool 11 and Headline 3)</td>
+<td>moderate</td>
+<td><strong>low</strong> (design); moderate–high (9:8a phrase)</td>
+<td>Headline 3 stands on its own markers; the “two halves of Isa 44:24” sentence is withdrawn</td>
+</tr>
+<tr class="even">
+<td>Amos’s doxologies as a live source, 3–10 (9–10 dig)</td>
+<td>moderate–high</td>
+<td><strong>moderate</strong>; moderate–high for 9:8b–9</td>
+<td>Drop 3:4–9 and 9:27 / 10:20 from the Amos list; add 10:22 and 24:17</td>
+</tr>
+<tr class="odd">
+<td>Ps 107:40–42 divided as a design (4–5 dig)</td>
+<td>moderate–high</td>
+<td><strong>moderate</strong></td>
+<td>Present as both sides contesting a shared text, not as planned adjacency</td>
+</tr>
+<tr class="even">
+<td>Ps 39 as a live source (9–10 dig)</td>
+<td>high</td>
+<td><strong>moderate–high</strong> (whole psalm); high (39:14 → 10:20–21; 9:27)</td>
+<td>Rest the finding on Ps 39:14; drop חדל, הוֹדִיעֵנִי and שׁמר + חטא as supporting links; add the moth (39:12 ~ 13:28)</td>
+</tr>
+<tr class="odd">
+<td>Deut 32:23–25 cluster (4–5 dig)</td>
+<td>moderate</td>
+<td><strong>low–moderate</strong></td>
+<td>Drop רֶשֶׁף; 6:4 shared with Ps 38:2–3; 4:10 goes with Ps 58:7</td>
+</tr>
+<tr class="even">
+<td>Isa 50:6–9 (13–14 dig, Headline 2)</td>
+<td>moderate–high</td>
+<td><strong>moderate–high</strong> (unchanged)</td>
+<td>Ground the headline on 13:19 and 13:28; the “no helper” half of the inversion is [I]</td>
+</tr>
+<tr class="odd">
+<td>Ps 44 (13–14 dig)</td>
+<td>moderate–high</td>
+<td><strong>moderate–high</strong> source; high words (unchanged; strengthened)</td>
+<td>Add Ps 44:23 ~ 13:24b; Romans 8 triangle stated as the reader’s synthesis</td>
+</tr>
+<tr class="even">
+<td>Sinai–Horeb texts behind 4:12–18 (4–5 dig, Headline 2)</td>
+<td>high / moderate–high</td>
+<td><strong>unchanged</strong></td>
+<td>Add Num 12:7 ~ 4:18; name Dan 8:15 as a rival for the standing figure</td>
+</tr>
+</tbody>
+</table>
+<h3 id="recommended-book-overview-revisions">Recommended book-overview revisions</h3>
+<p>The overview’s intertextual map was drafted before the Sermon 3 digs and holds none of these sources except Ps 107:40. These revisions are for the <strong>Finalise pass</strong>, not for an interim edit:</p>
+<ol type="1">
+<li><strong>Add rows (each with its audited rating):</strong> Deut 32:39 → 5:18; 10:7 (<strong>live</strong>, high); Deut 28:29 → 5:14 (high); Num 12:6–8 + Deut 4:12 + 1 Kgs 19:11–12 → 4:12–18 (high words; moderate–high design); Ps 39:14 → 9:27; 10:20–21 (high; <strong>live</strong> with 7:19; 14:6; 13:28); Ps 44:23–25 → 13:24; 14:12 (high words); Isa 50:8–9 → 13:19, 28 (moderate–high); Isa 44:24 → 9:8a and Amos 4:13; 5:8 → 9:8b–9 (presented together as <strong>the mosaic of 9:5–10</strong>); Exod 34:6–7 formula tradition → 7:21; 9:28; 10:12–14; 13:23 (moderate).</li>
+<li><strong>Extend the Ps 107 row</strong> from 107:40 to 107:40–42: Eliphaz at 5:11, 5:16; 22:19; Job at 12:21, 24.</li>
+<li><strong>Record as non-links or low:</strong> Isa 44:24 as the design of both hymns; Exod 33 as the theophany behind 9:11 and 13:24; Hosea as a live source; Eccl 7:15 as a handoff; Jonah 1:14 as a partner to 4:7; Deut 32:24 רֶשֶׁף behind 5:7.</li>
+<li><strong>Live-sources sentence:</strong> add Deut 32, Ps 39 and Ps 44 to the list of live sources; add Prov 22 and Ps 91 as Eliphaz’s idiom.</li>
+<li><strong>A macro-pattern to carry forward at moderate confidence:</strong> <strong>the friends and Job contest the same texts</strong> — Deut 32:39 (Eliphaz 5:18; Job 10:7), Ps 107:40–42 (Eliphaz 5:11, 16; 22:19; Job 12:21, 24), Ps 8:5 (Job 7:17; Eliphaz 15:14). It is the one design-level claim this audit leaves stronger than it found it, because each instance is verbatim. Test it again at the macro-synthesis.</li>
+</ol>
+<h3 id="recommended-dig-revisions">Recommended dig revisions</h3>
+<p><strong>4:1–5:27 dig.</strong></p>
+<ul>
+<li><strong>Headline 3</strong> is the one headline this audit cannot let stand as written. Recast it: “Eliphaz lays the Song of Moses and the covenant curses over a man outside Israel who has not broken covenant” — Deut 32:39 and 28:29 high; the wider idiom pooled (Lev 26; Prov 3:11–12; 22:8, 22; Ps 91), with Hosea’s three echoes (2:20; 13:14; 5:12) named as moderate and no longer as a source.</li>
+<li><strong>Headline 4:</strong> keep the canonical dialogue but tag it [I], reader-constructed; lead with Isa 57:1 and add Isa 57:15 (the cluster against 4:19 and 5:11); add Ps 37 as Eliphaz’s partner; drop Jonah 1:14 and Mic 7:2.</li>
+<li><strong>Headline 2:</strong> stands; add Num 12:7 ~ 4:18 and the Dan 8:15 rival.</li>
+<li><strong>Tool 11:</strong> replace שׂגב + אֶבְיוֹן with שׂגב + שׂים; add Job 22:19 ≈ Ps 107:42a and Hos 13:14 ~ 5:20; add Prov 26:13 for 4:10; mark the 32:23–25 cluster low–moderate.</li>
+</ul>
+<p><strong>9:1–10:22 dig.</strong></p>
+<ul>
+<li><strong>Headline 3:</strong> keep the two creation panels on their own structural markers; withdraw “the two halves of Isa 44:24”; add Ps 119:73 and Ps 139:13 for 10:8–12.</li>
+<li><strong>Tool 11:</strong> reframe Exod 33–34 as the formula tradition (with Exod 20:5–7, Mic 7:18, Ps 32:5, Ps 130:3 as rivals); strike חדל from the Ps 39 list; trim the Amos list to 9:8b–9 plus 10:22 (and 24:17 outside the unit); add Job 10:7 ~ Deut 32:39.</li>
+</ul>
+<p><strong>13:1–14:22 dig.</strong></p>
+<ul>
+<li><strong>Headline 2:</strong> stands; ground it on 13:19 and 13:28; mark “he has no helper” as [I].</li>
+<li><strong>Tool 11:</strong> add Ps 44:23 ~ 13:24b; name Jer 51:39, 57 and Zech 4:1 as rivals at 14:12, and record that 14:12c is a hexaplaric plus in the Greek; drop the Exod 33 hidden-face reading of 13:24.</li>
+</ul>
+<p><strong>These are recommendations, not edits.</strong> The three digs are left as delivered; the 4:1–14:22 unit dig will take these verdicts as <code>[S: audit]</code> input and say where it departs from the dig wording.</p>
+<h3 id="new-links-surfaced-by-the-audit">New links surfaced by the audit</h3>
+<p>The auditors surfaced ten links the digs had not claimed. All are WLC-verified. Three were tested inside the eleven claims and count as audited (Job 22:19 under C2; Isa 57:15 under C3, which also closes that part of queue #41; Ps 44:23 under C1). The other seven have not been tested for rivals at the same depth: six enter the queue at the rating shown (#42–47), Ps 119:73 is filed with #17 (Ps 139:13–16), and the macro-pattern “the friends and Job contest the same texts” is queued as #48 for the macro-synthesis.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Link</th>
+<th>Evidence</th>
+<th>Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Num 12:7 ~ Job 4:18</td>
+<td>עֶבֶד + אמן in the verse next to Num 12:8</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Deut 32:39 ~ Job 10:7</td>
+<td>וְאֵין מִיָּדְךָ מַצִּיל transposes וְאֵין מִיָּדִי מַצִּיל (also Isa 43:13)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Hos 13:14 ~ Job 5:20</td>
+<td>פדה + מָוֶת, only these two</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Amos 5:8 ~ Job 24:17</td>
+<td>בֹּקֶר + צַלְמָוֶת, only these two; an inversion</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Jer 13:16 ~ Job 3:9</td>
+<td>four lemmas, exclusive</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Ps 119:73 ~ Job 10:8</td>
+<td>יָדֶיךָ + עשה + first person, exclusive; Greek partial</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Isa 44:25 ~ Job 12:17</td>
+<td>Poel יְהוֹלֵל (also Eccl 7:7)</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 107:42a ~ Job 22:19</td>
+<td>“the righteous see and are glad”</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Isa 57:15 ~ Job 4:19; 5:11</td>
+<td>דכא + שׁכן; שׁפל + מָרוֹם, each only these two</td>
+<td>moderate–high (as counter-voice)</td>
+</tr>
+<tr class="even">
+<td>Ps 44:23 ~ Job 13:24b</td>
+<td>חשׁב + סתר + פָּנִים in one three-verse window</td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="critical-assessment">Critical Assessment</h2>
+<p>The verdicts are sturdier than the digs’ first ratings, but the audit has gaps of its own that a preacher should know.</p>
+<p><strong>1. No history of interpretation.</strong> Every Hays table records it as <em>not checked</em>. A link that the Targum, the rabbis or the Fathers already heard (or never heard) would move several ratings. For the Sermon 3 headlines that matter most (Isa 50; Ps 44; the Sinai–Horeb vision) one targeted check in Logos would be worth doing before the backbone.</p>
+<p><strong>2. Direction of dependence is open everywhere.</strong> No claim’s evidence decides who borrowed from whom. The digs’ wording “Job uses …”, “Eliphaz quotes …” is therefore stronger than the audit can carry; “Job speaks in the words of …” is the safe form. Where the direction matters theologically (Isa 50 and the Servant; Ps 44 and Romans 8), the sermon should say “the same words” and not “Job quotes Isaiah”.</p>
+<p><strong>3. The baselines are lemma statistics on a proxy text.</strong> They are WLC with a Strong’s index, not BHS, and they cannot see phrasal or cross-verse links — the strongest link in the audit (Ps 39:14 → 10:20–21) scored zero on the pair statistic. A low baseline score is therefore not evidence against a phrase link; a high one is not evidence for a design.</p>
+<p><strong>4. Rival searches are wide but not exhaustive.</strong> The auditors searched by lemma and by phrase, with windows and control books, but they could not search by image or concept. A rival with different words for the same picture would not appear.</p>
+<p><strong>5. The control-book method compares books of very different size and genre.</strong> Micah’s and Habakkuk’s high rates partly reflect their brevity. The Hosea verdict does not hang on the rank alone (the rival exclusives at 4:8, 5:4, 5:17 and 5:18 carry it), but the rank should not be quoted on its own.</p>
+<p><strong>6. One macro-claim is strengthened, and it has only three instances.</strong> “The friends and Job contest the same texts” rests on Deut 32:39, Ps 107 and Ps 8:5. Three verbatim instances is suggestive, not a design. It should go to the macro-synthesis as a candidate, not into a sermon as a thesis.</p>
+<hr />
+<h2 id="queue-and-triggers">Queue and Triggers</h2>
+<p><strong>Queue updated.</strong> The eleven audited items (#13–16, #23–24, #35–39) are marked with their verdicts in <code>claude/claim-audit-queue.md</code>. Item #30 (Hos 5:12 at 13:28) was tested inside B3 and is closed at moderate. Six new links are added as #42–47 and the macro-pattern as #48. Last audit: 3 October 2026; digs since: 0.</p>
+<p><strong>Still queued (Job):</strong> #1–12, #17–22, #25–29, #31–34, #40–41 and the new #42–48 — <strong>36 items.</strong> None of them carries a Sermon 3 headline.</p>
+<p><strong>Triggers.</strong></p>
+<ul>
+<li><strong>Trigger 1 (about ten candidates, or three to four digs since the last audit):</strong> the count limb is armed again by the backlog (36), but the digs-since limb is reset to 0. Recommendation: run the next audit after the 15:1–21:34 digs, or at the Finalise pass, whichever comes first, and give it the backlog by sermon.</li>
+<li><strong>Trigger 2 (a load-bearing allusion):</strong> <strong>satisfied for Sermon 3.</strong> Every allusion carried by a Sermon 3 headline has now been audited. The backbone can take the verdicts as <code>[S: audit]</code>.</li>
+<li><strong>Trigger 3 (a Finalise pass):</strong> not yet. The recommended overview revisions above are held for it.</li>
+</ul>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Audit:</strong> Job claim audit 2 (the Sermon 3 set). <strong>Date:</strong> 3 October 2026. <strong>Auditors:</strong> three blind subagents, run in turn; spot checks by the main session.</p>
+<p><strong>Corpus:</strong> WLC (lemma-indexed) and BHS (Logos export) for Job; Swete LXX; Rahlfs–Hanhart (Logos exports, fourteen books); SBLGNT; NASB95 and ESV (Logos exports). Every count names its edition. Positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed in all four sessions.</p>
+<p><strong>Secondary sources:</strong> none. History of interpretation not checked.</p>
+<p><strong>Earlier audit:</strong> <code>dig-deeper-job-claim-audit.md</code> (28 September 2026), not re-opened.</p>
+<p><strong>Next:</strong> the Job 4:1–14:22 unit dig, then the Sermon 3 backbone.</p>
+
+</main>
+</div>
+</body>
+</html>

@@ -29,7 +29,7 @@ Superseded reports are kept in the Job folder and marked at the top, never delet
 |---|---|---|---|---|
 | 1 | 1:1–3:1 | — | ✓ done (28 Sep) | Backbone ✓ done (28 Sep) |
 | 2 | 3:1–26 | ✓ done (30 Sep) | = the solo dig | Backbone ✓ done (30 Sep) |
-| 3 | 4:1–14:22 | 9:1–10:22 ✓ done (30 Sep); 13:1–14:22 (HIGH); 4:1–5:27 (recommended) | 4:1–14:22 | 6–7, 8, 11–12 optional |
+| 3 | 4:1–14:22 | 9:1–10:22 ✓ done (30 Sep); 13:1–14:22 ✓ done (3 Oct); 4:1–5:27 ✓ done (3 Oct) | 4:1–14:22 ✓ done (3 Oct; 6–8, 11–12 worked within it) | Backbone ✓ done (3 Oct) |
 | 4 | 15:1–21:34 | 16:1–17:16 (HIGH); 19:1–29 (HIGH, text crux) | 15:1–21:34 | 15, 18, 20–21 optional |
 | 5 | 22:1–28:28 | 28:1–28 (HIGH) | 22:1–28:28 | Third-cycle claim audit first; decide 9 or 10 sermons |
 | 6 | 29:1–31:40 | 29:1–31:40 (standard) | = the solo dig | — |
@@ -38,9 +38,9 @@ Superseded reports are kept in the Job folder and marked at the top, never delet
 | 9 | 42:7–17 | 42:7–17 (HIGH) | = the solo dig | — |
 
 **Totals still to do:**
-- 9 solo digs: 7 HIGH and 2 standard, plus the recommended 4–5 (Job 3 and 9–10 done).
-- 4 unit digs: Sermons 3, 4, 5 and 8.
-- 7 sermon backbones (the introduction and Sermons 1 and 2 are done).
+- 9 solo digs: 7 HIGH and 2 standard, plus the recommended 4–5 (Job 3, 9–10, 13–14 and 4–5 done).
+- 3 unit digs: Sermons 4, 5 and 8 (Sermon 3 done).
+- 6 sermon backbones (the introduction and Sermons 1–3 are done).
 - 9 sermon reviews.
 - 2 claim audits.
 - 2 Logos checks, plus 1 optional.
@@ -48,11 +48,12 @@ Superseded reports are kept in the Job folder and marked at the top, never delet
 
 ## Checks and audits
 
+- **✓ Claim audit 2 — the Sermon 3 set (done 3 Oct):** `dig-deeper-job-claim-audit-2`. Eleven claims (#13–16, #23–24, #35–39): 6 confirmed with nuance, 5 need reframing, none discarded. Downgraded: the Hosea pattern, Exod 33–34, Isa 44:24 as the design of both hymns, Amos across 3–10, the Ps 107 adjacency design, the canon's reply to 4:7. Held: Deut 32:39 and 28:29, the Sinai–Horeb vision, Ps 39:14, Isa 50:8–9, Ps 44, Ps 107's words. Recommended overview and dig revisions are recorded in the audit for the v0.2 upgrade.
 - **Logos: Rahlfs asterisks** on the prologue's Greek pluses (1:5, 1:16, 1:21, 2:8, 2:9, 2:11). Low priority, because nothing rests on them.
 - **Logos: apparatus spread** for the key petuḥot (1:5, 1:22, 2:10, 3:1, 28:28, 31:40, 32:1, 42:6).
-- **Audit the prologue's cross-reference patterns.** Six patterns where each word-link is verified in the Hebrew but the intended design is not: Genesis 22 turned inside out; Zechariah and 2 Sam 24; Exodus 9 at 2:12, with Exodus 10 at 3:4 (the plague pattern, added by the Job 3 dig) and Exod 33:19–34:7 at 9:11; 9:28; 10:12–15 (added by the Job 9–10 dig); Lam 4:8; "his day" at 1:4 and 3:1; seven and three. Needed only before preaching one of them — the Genesis 22 pattern first, if any.
+- **Audit the prologue's cross-reference patterns.** Six patterns where each word-link is verified in the Hebrew but the intended design is not: Genesis 22 turned inside out; Zechariah and 2 Sam 24; Exodus 9 at 2:12, with Exodus 10 at 3:4 (the plague pattern, added by the Job 3 dig) and Exod 33:19–34:7 at 9:11; 9:28; 10:12–15 (added by the Job 9–10 dig; **now audited** in claim audit 2 — formula tradition moderate, theophany low); Lam 4:8; "his day" at 1:4 and 3:1; seven and three. Needed only before preaching one of them — the Genesis 22 pattern first, if any.
 - **Claim audit: the third cycle (24–27).** Must precede Sermon 5.
-- **Logos for the two text cruxes.** Bring the BHS apparatus and Rahlfs for 19:25–27 and 42:6 before those digs. Add 9:33 (לֹא "there is no" or לוּ "would that"): the manuscript spread, and a commentary, before Sermon 3's backbone.
+- **Logos for the two text cruxes.** Bring the BHS apparatus and Rahlfs for 19:25–27 and 42:6 before those digs. 9:33 (לֹא "there is no" or לוּ "would that"): the manuscript spread is answered from the BHS apparatus (some manuscripts, the Greek and the Syriac read לוּ; Swete εἴθε ἦν ὁ μεσίτης), recorded in the Sermon 3 backbone; a commentary check remains, and the backbone does not depend on it.
 - **Optional:** lexicon and commentary checks on the recalled `[S]` items.
 
 ## Finalisation
@@ -65,12 +66,12 @@ Superseded reports are kept in the Job folder and marked at the top, never delet
 ## Recommended order
 
 Stay one or two units ahead of the pulpit.
-- **Now:** the rest of the Sermon 3 digs — 13:1–14:22 (HIGH) next, then 4:1–5:27 (recommended); then the unit dig for 4:1–14:22.
-- **Then:** the Sermon 3 backbone; then the Sermon 4 digs (16:1–17:16; 19:1–29), with the Logos checks for 19:25–27 first.
-- **When convenient:** batch the Logos checks.
+- **Done (3 Oct):** the Sermon 3 backbone, `point-purpose-job-4-1to14-22` (ESV pulpit), with the #52 chance check folded in (hope above chance, moderate–high; call and answer moderate).
+- **Now:** the Sermon 4 digs (16:1–17:16; 19:1–29), with the Logos checks for 19:25–27 first. Patrick has not yet preached Sermons 1–2 and wants the series preparation to run further ahead first, so that the opening is read in light of what it anticipates later in the book.
+- **Logos checks batched (3 Oct):** `job-logos-practice-questions` in the dig-deeper root, 27 numbered questions in the Matthew layout. Its suggested order puts the 19:25–26 and 16:19 questions first, for the Sermon 4 digs. The corpus has already settled the BHS and Rahlfs side of 19:25–27, 42:6, 9:33 and 13:15, and shows the "Rahlfs asterisks" check to be an obelus question (Göttingen only).
 - **At its point in the sequence:** the third-cycle audit sits in the path of Sermon 5.
 
 ## Decisions waiting on Patrick
 
-- Whether to preach any of the prologue's cross-reference patterns. If so, audit that pattern first.
+- Whether to preach any of the prologue's cross-reference patterns. If so, audit that pattern first. **Deferred by Patrick (3 Oct):** leave the prologue audit until the preparation has advanced further, since later parts of the book may show what the opening deliberately points to.
 - Nine sermons or ten. This is decided at Sermon 5, after the third-cycle audit.
