@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Audit 3: Lamentations</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#claim-audit-3-lamentations">Claim Audit 3: Lamentations</a></li>
+    <li><a href="#what-this-audit-tested-and-how">What this audit tested, and how</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#claims-audited">Claims Audited</a></li>
+    <li><a href="#supplementary-gate">Supplementary gate</a></li>
+    <li><a href="#what-the-audit-adds">What the audit adds</a></li>
+    <li><a href="#confidence-change-propagation">Confidence Change Propagation</a></li>
+    <li><a href="#recommended-revisions">Recommended revisions</a></li>
+    <li><a href="#new-candidates-for-the-queue">New candidates for the queue</a></li>
+    <li><a href="#critical-assessment-the-gaps-in-this-audit">Critical assessment — the gaps in this audit</a></li>
+    <li><a href="#text-first-declaration">Text-First Declaration</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="claim-audit-3-lamentations">Claim Audit 3: Lamentations</h1>
+<p><strong>Passages audited:</strong> 3:1–33 and 5:1–22, plus single contacts in chs 2 and 4. These are queue items <strong>L16–L33</strong> (18 claims), raised by:</p>
+<ul>
+<li>claim audit 2 (L16–L20);</li>
+<li>the solo dig on 3:1–33 (L21–L27);</li>
+<li>the solo dig on 5:1–22 (L28–L33).</li>
+</ul>
+<p><strong>Date:</strong> 4 October 2026 <strong>Purpose:</strong> to test the two solo digs’ design and allusion claims before any sermon outline is written on either passage. Queue trigger 1 had fired on both limbs (19 queued; 2 digs since the last audit), and trigger 2 was armed for both passages.</p>
+<p><strong>Documents under test:</strong></p>
+<ul>
+<li><code>dig-deeper-lamentations-3-1to33.md</code> and <code>dig-deeper-lamentations-5-1to22.md</code> (4 October 2026);</li>
+<li><code>dig-deeper-lamentations-claim-audit-2.md</code>, for its new-candidate list;</li>
+<li><code>book-overview-lamentations.md</code> v0.2.1, where the claims touch it.</li>
+</ul>
+<p><strong>Not re-tested:</strong> L1, the direction of dependence between Lamentations and Jer 14. That is a question for the library, not for a lemma count.</p>
+<p><strong>Primary texts:</strong></p>
+<ul>
+<li><strong>WLC Hebrew</strong> with the lemma index, for every count (the matcher is identical to <code>find.py</code>).</li>
+<li><strong>Swete LXX</strong>, for observation.</li>
+<li><strong>The Rahlfs LXX and BHS apparatus</strong> (Logos exports), as the citation of record.</li>
+</ul>
+<p><strong>Every count below is a WLC lemma or phrase count unless stated.</strong> References are in English numbering, with the Hebrew in brackets where it differs.</p>
+<p>Warrant tags: <code>[T]</code> derivable from the text itself · <code>[I]</code> a reasonable inference from the text · <code>[S]</code> supplied by a secondary source, held provisionally · <code>[S: audit]</code> a verdict of this or an earlier audit.</p>
+<hr />
+<h2 id="what-this-audit-tested-and-how">What this audit tested, and how</h2>
+<p><strong>Three blind auditors, run one after another.</strong> None of them saw:</p>
+<ul>
+<li>the digs or the overview;</li>
+<li>the earlier audits;</li>
+<li>each other’s reports.</li>
+</ul>
+<p>Each received a neutral brief, the claims restated, the staged corpus, the shared lemma library (<code>alib.py</code>) and the draft density scanner (<code>contacts.py</code>). Each was told to try to <strong>break</strong> the claims.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Auditor</th>
+<th>Claims</th>
+<th>Kind</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A</strong></td>
+<td>L25, L26, L28, L29, L33</td>
+<td><strong>Design</strong> claims, each tested against a chance baseline. Selection effects were tested explicitly</td>
+</tr>
+<tr class="even">
+<td><strong>B</strong></td>
+<td>L16, L20, L23, L30, L32</td>
+<td>Prophets: Jer 31:18–20; the cup; Isa 54:7–8; Isa 53:11 and Jer 14:20–21; Amos 8</td>
+</tr>
+<tr class="odd">
+<td><strong>C</strong></td>
+<td>L17, L18, L19, L21, L22, L24, L27, L31</td>
+<td>Psalms and the Writings: Zeph 3; Ps 44; Ps 119; Ps 88; Ps 10; Ps 89 and Isa 63:7; the חֶסֶד (“lovingkindness”) chiasm; Ps 125</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Method for each claim:</strong></p>
+<ol type="1">
+<li>Check the wording on both sides in Hebrew and Greek.</li>
+<li>Count how rare the shared lemma set is, using <code>hall</code>.</li>
+<li>Search for rival sources.</li>
+<li>Run a chance baseline for any design claim.</li>
+<li>Score the seven Hays criteria. “History of interpretation” is “not checked” throughout, because no commentary was consulted.</li>
+<li>Give a verdict and a recommended confidence.</li>
+</ol>
+<p><strong>Positive controls</strong> were run before every nil or “only” result.</p>
+<p><strong>The main session’s gate.</strong> Twenty-two spot checks from the auditors’ lists were reproduced. Among them:</p>
+<ul>
+<li>Ps 102:13 alone with Lam 5:19;</li>
+<li>Ps 42:5, 7 with Lam 3:20 (±1 verse);</li>
+<li>Ps 88:9 with Lam 3:7;</li>
+<li>Isa 52:11 with Lam 4:15;</li>
+<li>Ps 119:136 with Lam 3:48;</li>
+<li>סבל (“bear”) + עָוֹן (“iniquity”);</li>
+<li>הפך (“turn”) + אֵבֶל (“mourning”) + מָחוֹל (“dance”);</li>
+<li>זנח (“reject”) + עוֹלָם (“for ever”);</li>
+<li>חֶסֶד + רחם (the verb, “have compassion”);</li>
+<li>Ps 89:43 with Lam 2:17;</li>
+<li>Ps 89:5 with Lam 5:19;</li>
+<li>Ps 92:3 with Lam 3:22;</li>
+<li>Ps 10:9 with Ps 17:12;</li>
+<li>the A2 baseline (Psalms 21 / 694 windows ≥4);</li>
+<li>the A3 selection test;</li>
+<li>the B1 doubled-figure baseline;</li>
+<li>the C3 alphabet test.</li>
+</ul>
+<p><strong>Length.</strong> The three reports run to about 4,100, 4,800 and 5,300 words, over the 3,500-word guide; the excess is mostly glosses and tables. Nothing has been trimmed from the findings. The reports and their scripts are kept in <code>/home/claude/lamaudit3/</code>.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<p><strong>The single verse contacts hold again. Every design claim made by the two solo digs comes down to low or low–moderate once a baseline is run.</strong> The two digs’ strongest <em>designs</em> turn out to be:</p>
+<ul>
+<li><strong>the Jer 31:18–20 cluster</strong>, at moderate–high;</li>
+<li><strong>Ps 89</strong>, at moderate–high — but at different points from those claimed.</li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Claim</th>
+<th>Verdict</th>
+<th>Recommended confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>L16</td>
+<td>Jer 31:18–20 behind 3:20 and 5:21 (the doubled-verb figures)</td>
+<td><strong>Confirmed with nuance</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>L17</td>
+<td>Zeph 3 the densest partner of Lam 4</td>
+<td><strong>Confirmed with nuance</strong> (as a ranking only)</td>
+<td>moderate for the rank; low–moderate for any borrowing</td>
+</tr>
+<tr class="odd">
+<td>L18</td>
+<td>Ps 44:24–25 behind 5:20</td>
+<td><strong>Needs reframing</strong></td>
+<td>low–moderate</td>
+</tr>
+<tr class="even">
+<td>L19</td>
+<td>Ps 119:49–57 behind 3:19–24 (same letters)</td>
+<td><strong>Needs reframing — broaden</strong></td>
+<td>moderate–high that the two acrostics are related, through exact phrases at the same letters (ח 3:24; פ 3:48; ר 3:58)</td>
+</tr>
+<tr class="odd">
+<td>L20</td>
+<td>Jer 25:15–29 leads the cup at 4:21</td>
+<td><strong>Needs reframing</strong></td>
+<td>moderate (Jer 25); low–moderate (Hab 2:16); <strong>add Isa 51:22–23</strong></td>
+</tr>
+<tr class="even">
+<td>L21</td>
+<td>Ps 88 a multi-contact partner of Lam 3</td>
+<td><strong>Confirmed with nuance — strengthened</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>L22</td>
+<td>Ps 10:9 behind 3:10</td>
+<td><strong>Confirmed with nuance</strong></td>
+<td>moderate (a composite image)</td>
+</tr>
+<tr class="even">
+<td>L23</td>
+<td>Isa 54:7–8 behind 3:31–32</td>
+<td><strong>Needs reframing</strong></td>
+<td>low–moderate; <strong>Ps 77:8–10 is closer</strong></td>
+</tr>
+<tr class="odd">
+<td>L24</td>
+<td>Ps 89:2 (or Isa 63:7) behind 3:22</td>
+<td><strong>Needs reframing</strong></td>
+<td>moderate (Isa 63:7); low–moderate (Ps 89:2); Ps 92:3 an equal rival</td>
+</tr>
+<tr class="even">
+<td>L25</td>
+<td><strong>Design:</strong> 3:1–16 built from the enemy’s images</td>
+<td><strong>Needs reframing</strong></td>
+<td>links high; design low–moderate</td>
+</tr>
+<tr class="odd">
+<td>L26</td>
+<td><strong>Design:</strong> 3:17–33 answers the “reject for ever?” psalms</td>
+<td><strong>Needs reframing</strong></td>
+<td>moderate–high (3:31 ~ Ps 77:8); low (the four-psalm cluster)</td>
+</tr>
+<tr class="even">
+<td>L27</td>
+<td>(a) Ps 44 behind 3:17–20; (b) חֶסֶד chiasm 3:22 ↔︎ 3:32</td>
+<td><strong>Needs reframing</strong></td>
+<td>(a) low — <strong>Ps 42–43 is the partner</strong> (moderate–high); (b) keep as an observation, drop as design (low–moderate)</td>
+</tr>
+<tr class="odd">
+<td>L28</td>
+<td><strong>Design:</strong> Isa 54:4–9 answers Lam 5 (seven roots)</td>
+<td><strong>Needs reframing</strong></td>
+<td>low (design); moderate (Isa 54 as a thematic counterpart)</td>
+</tr>
+<tr class="even">
+<td>L29</td>
+<td><strong>Design:</strong> Lam 5 prays Jer 31 in reverse, in order</td>
+<td><strong>Needs reframing</strong></td>
+<td>moderate–high (the pairing); low (“in order”)</td>
+</tr>
+<tr class="odd">
+<td>L30</td>
+<td>Isa 53:11 behind 5:7; Jer 14:20–21 behind 5:1, 7, 16, 19</td>
+<td><strong>Split</strong></td>
+<td>Isa 53:11: <strong>Uncertain — low</strong>. Jer 14:19–21: <strong>Confirmed with nuance</strong> — moderate–high</td>
+</tr>
+<tr class="even">
+<td>L31</td>
+<td>Ps 125:1 behind 5:18–19</td>
+<td><strong>Needs reframing</strong></td>
+<td>low (Ps 125); <strong>high that Ps 102:13 is the closest wording</strong></td>
+</tr>
+<tr class="odd">
+<td>L32</td>
+<td>Amos 8:7–13 the threat fulfilled in 5:14–17</td>
+<td><strong>Needs reframing</strong></td>
+<td>low–moderate</td>
+</tr>
+<tr class="even">
+<td>L33</td>
+<td>Ps 89 heard at three points</td>
+<td><strong>Confirmed with nuance</strong></td>
+<td>moderate–high, at <strong>2:7, 2:17, 5:1, 5:19</strong>; low–moderate at 3:22</td>
+</tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verdict</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Confirmed</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>Confirmed with nuance</td>
+<td>6 (L16, L17, L21, L22, L33, and the Jer 14 half of L30)</td>
+</tr>
+<tr class="odd">
+<td>Needs reframing</td>
+<td>12 (L18, L19, L20, L23, L24, L25, L26, L27, L28, L29, L31, L32)</td>
+</tr>
+<tr class="even">
+<td>Uncertain</td>
+<td>1 (the Isa 53:11 half of L30)</td>
+</tr>
+<tr class="odd">
+<td>Discard</td>
+<td>0 as whole claims. <strong>Withdrawn as arguments:</strong> the seven-root “only other passage” (L28); “in Jer 31’s order” (L29); the four-psalm cluster (L26); the חֶסֶד chiasm as design (L27b); Ps 125’s “transfer” as allusion (L31)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="claims-audited">Claims Audited</h2>
+<h3 id="design-claims-auditor-a">Design claims (Auditor A)</h3>
+<h4 id="l25-3116-built-from-the-enemys-images-now-applied-to-god">L25 — 3:1–16 “built from the enemy’s images, now applied to God”</h4>
+<p><strong>What holds.</strong></p>
+<ul>
+<li>God is the implied subject of 24 finite verbs in 3:2–16, and YHWH is first named at 3:18.</li>
+<li>Two exclusive contacts:
+<ul>
+<li>3:10 ~ Ps 10:9 (ארב, “lie in wait” + אַרְיֵה, “lion” + מִסְתָּר, “hiding place”);</li>
+<li>3:6 ~ Ps 143:3 (verbatim, with the first two words reversed). <code>[T]</code></li>
+</ul></li>
+<li><strong>Missed:</strong> Ps 17:12 is a third partner for 3:10 with a wicked subject. אַרְיֵה + מִסְתָּר occurs in Ps 10:9, Ps 17:12 and Lam 3:10.</li>
+</ul>
+<p><strong>Baseline.</strong> Each block’s rare-partner images were classified by the partner’s agent. The auditor’s classification list is in <code>a1_classification.txt</code>.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Block</th>
+<th>Partners whose agent is the enemy or the wicked</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Lam 3:1–16</td>
+<td>2 of 7</td>
+</tr>
+<tr class="even">
+<td>Lam 2:1–8</td>
+<td>6 of 28</td>
+</tr>
+<tr class="odd">
+<td>Job 16:7–17</td>
+<td>2 of 3</td>
+</tr>
+<tr class="even">
+<td>Lam 1:12–16</td>
+<td>0 of 10</td>
+</tr>
+<tr class="odd">
+<td>Ps 88</td>
+<td>0 of 4</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Describing God in images belonging to an enemy is ordinary in these laments, not distinctive of Lam 3.</strong> Lam 3’s own rare partners split evenly with passages in which God is the agent. Job 19:6–12 is the closest overall rival (13 shared content words). <code>[T]</code> for the counts; the classification is the auditor’s and should be re-checked.</p>
+<p><strong>Verdict: Needs reframing.</strong> Keep the two contacts (high) and add Ps 17:12. Drop “the assault is <em>composed from</em> the enemy’s images” as a design claim (low–moderate). Preach it as what the man <em>says</em>: he uses of God the words the psalms use of the wicked. Do not claim that the poet built the stanza that way.</p>
+<h4 id="l26-31733-replies-to-the-reject-for-ever-psalms-44-74-77-88">L26 — 3:17–33 “replies to the ‘reject for ever?’ psalms (44, 74, 77, 88)”</h4>
+<p><strong>What holds.</strong> <strong>3:31 is a near-verbatim answer to Ps 77:8 [Eng 77:7].</strong> זנח (“reject”) + עוֹלָם (“for ever”) occurs only in these two verses, and the Greek is near-identical: μὴ εἰς τοὺς αἰῶνας ἀπώσεται κύριος / οὐκ εἰς τὸν αἰῶνα ἀπώσεται κύριος (“will the Lord cast off for ever?” / “the Lord will not cast off for ever”). <em>Moderate–high.</em> <code>[T]</code></p>
+<p><strong>What fails.</strong></p>
+<ul>
+<li><strong>The cluster.</strong> Lam 3:17–33 shares only 3 rare word-pairs with the four psalms.
+<ul>
+<li>Across the Hebrew Bible this is unusual: 1.26 % of 17-verse windows reach 3.</li>
+<li>Within Lamentations it is not: 17 of 74 windows reach 3, and <strong>Lam 1:1–17 scores 5</strong>.</li>
+<li>In the Psalter, 21 of 694 windows reach 4.</li>
+<li><strong>Lamentations as a whole is dense in this psalm-family; 3:17–33 is not singular.</strong></li>
+</ul></li>
+<li><strong>Errors in the claim as worded:</strong>
+<ul>
+<li>3:8 (the Ps 88:14 contact) lies outside the block.</li>
+<li>3:18 נִצְחִי means “my endurance”, not “for ever”; so the זנח + לָנֶצַח (“reject … for ever”) window at 3:17–18 is a homonym hit.</li>
+</ul></li>
+<li><strong>Missed: Ps 42–43</strong> (see L27a).</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> 3:31 ~ Ps 77:8 is moderate–high; the four-psalm “dialogue” is low.</p>
+<h4 id="l28-isa-5449-answers-lam-5-the-only-other-passage-with-all-seven-roots-of-address">L28 — “Isa 54:4–9 answers Lam 5: the only other passage with all seven roots of address”</h4>
+<p><strong>Reproduced.</strong> With roots grouped (אַלְמָנָה / אַלְמָנוּת, “widow / widowhood”; קצף / קֶצֶף, “be angry / anger”):</p>
+<ul>
+<li>Isa 54:4–9 holds all seven;</li>
+<li>no other six-verse window holds ≥ 5;</li>
+<li>at 22 verses, only Isa 54 and Lam 5 hold ≥ 5.</li>
+</ul>
+<p><strong>Selection effect.</strong> The seven roots were chosen <em>from</em> Lam 5, after the two texts had been read together. The choice was principled (the words of address to God), but it was still made after the fact.</p>
+<p>Auditor A took the 40 content roots of Lam 5 that fall in the same frequency band as the seven:</p>
+<ul>
+<li><p><strong>Fourteen six-verse windows outside Lam 5, in 7 chapters, hold ≥ 7 of them.</strong> Jer 14:16–21, Hos 4:5–10 and Lam 2:16–21 hold 8.</p></li>
+<li><p>By plain lemma (without the grouping), Isa 54:4–9 holds only 6, and is not the best.</p></li>
+<li><p><strong>Control poems behave the same way:</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Control poem</th>
+<th>Six-verse windows elsewhere holding ≥ 7 of its band roots</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ps 74</td>
+<td>51 windows in 23 chapters</td>
+</tr>
+<tr class="even">
+<td>Isa 63:15–64:11</td>
+<td>16 windows in 7 chapters</td>
+</tr>
+<tr class="odd">
+<td>Ps 79</td>
+<td>7 windows in 2 chapters</td>
+</tr>
+</tbody>
+</table></li>
+<li><p><strong>Randomly drawn seven-root sets almost never match:</strong> 0 of 1,000 reach ≥ 6 roots.</p></li>
+<li><p><strong>So the uniqueness is produced by choosing the roots after looking.</strong> <code>[T]</code></p></li>
+</ul>
+<p><strong>Further points.</strong></p>
+<ul>
+<li><strong>Subject.</strong> In Isa 54:4 it is the woman who forgets and does not remember her shame. God is not the subject, which is the reverse of Lam 5:1 and 5:20.</li>
+<li><strong>Greek.</strong> Five of the seven roots survive in Greek; מאס (“reject”) and קצף (“be angry”) are rendered differently.</li>
+<li><strong>Sharper partners for 5:20–22:</strong>
+<ul>
+<li><strong>Isa 64:8 [Eng 64:9]</strong> — קצף + עַד + מְאֹד (“be exceedingly angry”) is exclusive with Lam 5:22, and Isa 64 ranks 1st of 858 chapters against Lam 5;</li>
+<li><strong>Jer 14:19</strong> — the doubled מאס (“utterly reject”) is exclusive with Lam 5:22;</li>
+<li>Isa 54 ranks 24th.</li>
+</ul></li>
+</ul>
+<p><strong>What Isa 54 still holds.</strong></p>
+<ul>
+<li><strong>Isa 54:8 ~ Lam 3:32</strong> — חֶסֶד + רחם (verb) + עוֹלָם within a one-verse window; exclusive. <em>Moderate.</em></li>
+<li>Isa 54:1 שׁוֹמֵמָה (“desolate one”) and Isa 54:11 לֹא נֻחָמָה (“not comforted”) touch Lamentations’ vocabulary.</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> Withdraw “the only other passage” as evidence of design. Keep Isa 54 as a thematic counterpart (moderate), with one exclusive tie at 3:32. Name Isa 64:8 and Jer 14:19–21 as Lam 5’s closest verbal partners.</p>
+<h4 id="l29-lam-5-prays-jer-31-in-reverse-in-jer-31s-order">L29 — “Lam 5 prays Jer 31 in reverse, in Jer 31’s order”</h4>
+<p><strong>The pairing is strong.</strong></p>
+<ul>
+<li><strong>Jer 31 is the only chapter of 858 with ≥ 5 rare word-pairs shared with Lam 5.</strong> The mean is 0.13.</li>
+<li><strong>Two contacts are exclusive:</strong>
+<ul>
+<li><strong>5:15 ~ 31:13</strong> — הפך (“turn”) + אֵבֶל (“mourning”) + מָחוֹל (“dance”);</li>
+<li><strong>5:21 ~ 31:18</strong> — the doubled שׁוב (“restore … return”).</li>
+</ul></li>
+<li>Jer 31:13 also shares virgins, young men and old men with Lam 5:11–14. <code>[T]</code></li>
+</ul>
+<p><strong>The order argument fails.</strong> Only 3 of the 5 contacts run in sequence, which happens by chance about 65 % of the time.</p>
+<p><strong>Two further problems:</strong></p>
+<ul>
+<li><strong>5:7 ~ 31:29</strong> shares only “father”. Jer 14:20 and Ezek 18:20 are stronger partners for 5:7.</li>
+<li><strong>3:20 ~ 31:20</strong> belongs to Lam 3, not Lam 5, and Deut 7:18 has the same doubled form.</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> “Lam 5 is the negative image of Jer 31:13 and 31:18” is moderate–high. “In order” is low and is withdrawn.</p>
+<h4 id="l33-ps-89-heard-at-three-points">L33 — “Ps 89 heard at three points”</h4>
+<p><strong>The links.</strong></p>
+<ul>
+<li><p>The three wording claims are confirmed, but <strong>the strongest points are not the ones claimed</strong>.</p></li>
+<li><p>Ps 89 has <strong>three exclusive multi-lemma ties</strong> with Lamentations:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ps 89</th>
+<th>Lamentations</th>
+<th>Exclusive set</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>89:39–40</td>
+<td><strong>2:7</strong></td>
+<td>נאר (“spurn”), and זנח + נאר (“reject … spurn”) within one verse</td>
+</tr>
+<tr class="even">
+<td><strong>89:43</strong> [Eng 89:42]</td>
+<td><strong>2:17</strong></td>
+<td>רום (“raise”) + צַר (“adversary”) + שׂמח (“make glad”) + אוֹיֵב (“enemy”)</td>
+</tr>
+<tr class="odd">
+<td><strong>89:5</strong> [Eng 89:4]</td>
+<td><strong>5:19</strong></td>
+<td>כִּסֵּא (“throne”) + דּוֹר וָדוֹר (“generation and generation”) + עוֹלָם (“for ever”) — David’s throne in the psalm, the LORD’s in Lamentations</td>
+</tr>
+</tbody>
+</table></li>
+<li><p>Lam 5:1 ~ Ps 89:51 (“remember … reproach”) is closer in Greek than in Hebrew: Μνήσθητι, κύριε … ὀνειδισμοῦ (“remember, Lord … reproach”).</p></li>
+</ul>
+<p><strong>Baseline.</strong></p>
+<ul>
+<li><strong>On exclusive ties only, two of 150 psalms reach three points: Ps 89 and Ps 55.</strong> Among long psalms, Ps 78 has 1, and Ps 18, 22 and 106 have none.</li>
+<li>On looser criteria, three points is ordinary (29 of 150 psalms); Ps 89 ranks 3rd.</li>
+</ul>
+<p><strong>3:22 demoted.</strong> Isa 63:7 and <strong>Ps 92:3 [Eng 92:2]</strong> are equal rivals at 3:22. Ps 92:3 is the only other verse with חֶסֶד (“lovingkindness”) + אֱמוּנָה (“faithfulness”) + בֹּקֶר (“morning”) within one verse. And 3:22–24 is absent from the Greek.</p>
+<p><strong>Verdict: Confirmed with nuance.</strong> Ps 89 is a live source for <strong>Lam 2 (2:7, 2:17) and Lam 5 (5:1, 5:19)</strong>, moderate–high. The 3:22 point is low–moderate.</p>
+<h3 id="prophets-auditor-b">Prophets (Auditor B)</h3>
+<h4 id="l16-jer-311820-behind-320-and-521">L16 — Jer 31:18–20 behind 3:20 and 5:21</h4>
+<ul>
+<li><strong>The two contacts:</strong>
+<ul>
+<li>the doubled שׁוב (“restore … return”) is exclusive to Jer 31:18 and Lam 5:21;</li>
+<li>the doubled זכר (“remember”) occurs at Deut 7:18, Jer 31:20 and Lam 3:20.</li>
+</ul></li>
+<li><strong>Lamentations has seven doubled-verb figures.</strong> Four have same-figure partners elsewhere, and <strong>all four have a partner in Jeremiah</strong>.</li>
+<li><strong>Jer 31:18–20 is the only three-verse window in the Hebrew Bible holding two of them.</strong> It is also the densest doubled-verb window of all: five figures in three verses.</li>
+</ul>
+<p><strong>Caveats.</strong></p>
+<ul>
+<li>The 3:20 link depends on whose remembering is meant. The <em>tiqqun soferim</em> reading (God as subject) matches Jer 31:20 better.</li>
+<li>The Greek keeps 5:21 and loses 3:20.</li>
+<li>The very next line, 5:22, partners Jer 14:19, not Jer 31.</li>
+</ul>
+<p><strong>Verdict: Confirmed with nuance — moderate–high.</strong></p>
+<h4 id="l20-the-cup-at-421">L20 — the cup at 4:21</h4>
+<ul>
+<li><strong>Uz.</strong> עוּץ (“Uz”) + אֶרֶץ (“land”) occurs in only 3 verses (Job 1:1; Jer 25:20; Lam 4:21). But Jer 25:20 lists Uz <em>apart from</em> Edom, while Lamentations places Edom <em>in</em> Uz. <strong>The Uz contact is weaker than claimed.</strong></li>
+<li><strong>Hab 2:16’s</strong> גַּם (“also”) + כּוֹס (“cup”) is no more than chance.</li>
+<li><strong>Missed: Isa 51:22–23</strong> — the only other place where the cup passes from Zion to her enemies “no more”; the Greek wording matches Lam 4:22.</li>
+<li><strong>Also to be named:</strong> Jer 49:12 (the cup to Edom) and <strong>Ps 137:7</strong> (Edom + ערה, “strip bare”: 2 verses).</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> Jer 25 moderate; Hab 2:16 low–moderate; <strong>Isa 51:22–23 moderate–high for 4:21–22</strong>.</p>
+<h4 id="l23-isa-5478-behind-33132">L23 — Isa 54:7–8 behind 3:31–32</h4>
+<ul>
+<li>חֶסֶד + רחם (verb) occurs in only 3 verses: Isa 54:8, Isa 54:10 and Lam 3:32.</li>
+<li>With the noun “compassion”, or in a one-verse window, it is ordinary covenant language.</li>
+<li>Isa 54:7’s “brief moment” has no counterpart in Lamentations.</li>
+<li><strong>Ps 77:8 [Eng 77:7] is the closer partner:</strong> 3:31 answers its question in its own words.</li>
+</ul>
+<p><strong>Verdict: Needs reframing — low–moderate.</strong> Auditor A rates the 54:8 ~ 3:32 tie moderate; Auditor B rates it low–moderate. <strong>The audit adopts low–moderate to moderate</strong>, and Ps 77:8–10 as the primary partner.</p>
+<h4 id="l30-isa-5311-at-57-jer-142021-at-51-7-16-19">L30 — Isa 53:11 at 5:7; Jer 14:20–21 at 5:1, 7, 16, 19</h4>
+<p><strong>Isa 53:11.</strong></p>
+<ul>
+<li>סבל (“bear”) + עָוֹן (“iniquity”) occurs only at Isa 53:11 and Lam 5:7.</li>
+<li><strong>But</strong> סבל is a rare synonym within a common idiom: נשׂא (“carry”) + עָוֹן occurs in <strong>37 verses</strong>.</li>
+<li>The Greek loses the link (ὑπέσχομεν, “we underwent” / ἀνοίσει, “he will bear”).</li>
+<li>The theology runs the other way (complaint / vicarious bearing).</li>
+</ul>
+<p><strong>Verdict: Uncertain — low as an allusion.</strong> It may still be used as <strong>canonical reflection</strong>: “the only other place this verb takes ‘iniquities’”. But it must not be called an echo.</p>
+<p><strong>Jer 14:19–22.</strong></p>
+<ul>
+<li>The counts are confirmed:
+<ul>
+<li>עָוֹן + אָב + חטא (“iniquity + father + sin”) occurs in 3 verses;</li>
+<li>כִּי חָטָאנוּ (“for we have sinned”) in 5.</li>
+</ul></li>
+<li>Jer 14:19 is the sole partner of 5:22.</li>
+<li>Jer 14:19–22 ranks 13th of 20,288 four-verse windows against Lam 5. Isa 64:4–8 ranks higher.</li>
+<li><strong>Ezek 18:19–20 and Jer 31:29–30</strong> are the texts that <em>answer</em> 5:7.</li>
+</ul>
+<p><strong>Verdict: Confirmed with nuance — moderate–high.</strong></p>
+<h4 id="l32-amos-8-as-the-threat-fulfilled">L32 — Amos 8 as the threat fulfilled</h4>
+<ul>
+<li>הפך (“turn”) + אֵבֶל (“mourning”) occurs in 4 verses.</li>
+<li><strong>Jer 31:13 is the closer partner of 5:15</strong> (exclusive with מָחוֹל, “dance”).</li>
+<li><strong>Lam 5:20 inverts Amos 8:7, and so cannot be its fulfilment.</strong> In Amos God swears that he will <em>not</em> forget their deeds; in Lamentations the people complain that he <em>does</em> forget them.</li>
+<li>Amos 8 ranks 13th–15th of 858 chapters against Lam 5.</li>
+</ul>
+<p><strong>Verdict: Needs reframing — low–moderate.</strong></p>
+<h3 id="psalms-and-writings-auditor-c">Psalms and Writings (Auditor C)</h3>
+<p><strong>One finding cuts across three claims.</strong> Lam 3:22–24 and 3:29 are absent from both Swete and Rahlfs. So 3:24’s “my portion is the LORD” (L19), all of L24, and half of L27b have <strong>no Greek witness</strong>. <code>[T]</code></p>
+<h4 id="l17-zeph-3-and-lam-4">L17 — Zeph 3 and Lam 4</h4>
+<ul>
+<li>Zeph 3 ranks top at every threshold.</li>
+<li>But <strong>4 of its 8 rare pairs come from one verse pair, Lam 4:11 ~ Zeph 3:8.</strong> Without that pair it falls level with Amos 9.</li>
+<li>Zeph 3 is densely linked to many chapters; its own top partner is Ezek 22.</li>
+<li><strong>Missed:</strong> Isa 52:11’s סוּרוּ סוּרוּ (“depart, depart”) is exclusive with Lam 4:15. This is Lam 4’s strongest single parallel and is already in the overview <code>[S: audit]</code>.</li>
+</ul>
+<p><strong>Verdict: Confirmed as a ranking — moderate; low–moderate as a source.</strong></p>
+<h4 id="l18-ps-442425-at-520">L18 — Ps 44:24–25 at 5:20</h4>
+<ul>
+<li>The count holds.</li>
+<li>But the words straddle two verses in Ps 44, and Ps 44 ranks only 57th of 150 psalms against Lam 5.</li>
+<li><strong>Stronger partners:</strong>
+<ul>
+<li>Ps 13:2 (the same verb form);</li>
+<li>Ps 74 (Zion destroyed);</li>
+<li><strong>Isa 49:14</strong> (שׁכח, “forget” + עזב, “forsake”, with Zion speaking).</li>
+</ul></li>
+</ul>
+<p><strong>Verdict: Needs reframing — low–moderate.</strong></p>
+<h4 id="l19-ps-119-and-lam-3">L19 — Ps 119 and Lam 3</h4>
+<p><strong>The alphabet test.</strong></p>
+<ul>
+<li>The same-letter excess is largely forced by the alphabet.</li>
+<li>Same-letter against off-letter shared content lemmas: <strong>1.59 against 0.82</strong>.</li>
+<li><strong>That falls to 0.68 against 0.60</strong> once each line’s forced first word is removed.</li>
+</ul>
+<p><strong>What survives is a set of exact phrases found only in these two poems, at several letters:</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ps 119</th>
+<th>Lam 3</th>
+<th>Phrase</th>
+<th>Rarity</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>119:57</strong></td>
+<td><strong>3:24</strong></td>
+<td>חֶלְקִי יְהוָה (“my portion is the LORD”)</td>
+<td><strong>only these two verses</strong></td>
+</tr>
+<tr class="even">
+<td><strong>119:136</strong></td>
+<td><strong>3:48</strong></td>
+<td>פַּלְגֵי־מַיִם תֵּרַד עֵינִי (“streams of water my eye runs down”)</td>
+<td><strong>only these two verses</strong></td>
+</tr>
+<tr class="odd">
+<td>119:154</td>
+<td>3:58</td>
+<td>ריב (“plead my cause”) + גאל (“redeem”)</td>
+<td>4 verses</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Verdict: Needs reframing — broaden.</strong> The two great alphabetic poems share exact phrases at several letters. That relation is moderate–high. The ז–ח “slot” correspondence on its own is withdrawn.</p>
+<h4 id="l21-ps-88-and-lam-3">L21 — Ps 88 and Lam 3</h4>
+<ul>
+<li><strong>Ps 88 ranks 2nd of 150 psalms per verse against Lam 3.</strong></li>
+<li><strong>Missed contacts:</strong>
+<ul>
+<li><strong>Ps 88:9 [Eng 88:8] ~ Lam 3:7</strong> — וְלֹא אֵצֵא (“and I cannot go out”): only these two verses;</li>
+<li>Ps 88:6 ~ Lam 3:54 — “cut off”.</li>
+</ul></li>
+<li><strong>3:6 belongs to Ps 143:3</strong>, which is verbatim. Ps 88:7 shares only מַחֲשַׁכִּים (“dark places”).</li>
+</ul>
+<p><strong>Verdict: Confirmed with nuance, strengthened — moderate–high</strong> for 3:7, 3:8, 3:17, 3:54–55.</p>
+<h4 id="l22-ps-109-at-310">L22 — Ps 10:9 at 3:10</h4>
+<ul>
+<li>The triple is exclusive.</li>
+<li>But 3:10 is a <strong>composite</strong>: Ps 17:12 has the same plural “hiding places”, and Hos 13:7–8 makes God the predator. The bear is not in Ps 10.</li>
+</ul>
+<p><strong>Verdict: Confirmed with nuance — moderate.</strong></p>
+<h4 id="l24-ps-892-or-isa-637-at-322">L24 — Ps 89:2 or Isa 63:7 at 3:22</h4>
+<ul>
+<li><strong>Isa 63:7 is the better partner.</strong> It covers both 3:22 and 3:32, and matches the qere.</li>
+<li>חֶסֶד + אֱמוּנָה (“lovingkindness + faithfulness”) is ordinary Psalter idiom: 11 verses, all in the Psalms.</li>
+<li>Ps 92:3 is an equal rival (A5).</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> Isa 63:7 moderate; Ps 89:2 low–moderate.</p>
+<h4 id="l27-a-ps-44-at-31720-b-the-חסד-chiasm">L27 — (a) Ps 44 at 3:17–20; (b) the חֶסֶד chiasm</h4>
+<p><strong>(a) Ps 44.</strong></p>
+<ul>
+<li><strong>The “exclusive” נֶפֶשׁ (“soul”) + שׁוח (“sink”) pair is an artefact of the lexicon.</strong> The index files the closely related verb שׁחח (“be bowed down”) under a different number (7817). Read that way, the partner is <strong>Ps 42–43</strong>:
+<ul>
+<li><strong>Ps 42:7 [Eng 42:6]:</strong> עָלַי נַפְשִׁי תִשְׁתּוֹחָח עַל־כֵּן אֶזְכָּרְךָ (“my soul is bowed down within me; therefore I remember you”).</li>
+<li><strong>Lam 3:20–21:</strong> ותשיח עָלַי נַפְשִׁי … עַל־כֵּן אוֹחִיל (“my soul is bowed down within me … therefore I hope”).</li>
+<li><strong>Ps 42:6, 12; 43:5:</strong> הוֹחִילִי (“hope!”).</li>
+</ul></li>
+<li><strong>The counts.</strong>
+<ul>
+<li>זכר (“remember”) + נֶפֶשׁ + יחל (“hope”) within ±1 verse occurs <strong>only at Ps 42:5, 42:7 and Lam 3:20</strong>.</li>
+<li>עָלַי נַפְשִׁי (“within me my soul”) occurs in 5 verses.</li>
+</ul></li>
+<li><strong>The ketiv and the Greek</strong> (καταδολεσχήσει, “will muse”) point instead to Ps 77:4, 7.</li>
+</ul>
+<p><strong>Verdict on (a): Needs reframing.</strong> Ps 44 is low. <strong>Ps 42–43 is moderate–high on the qere</strong>; Ps 77 is moderate on the ketiv and the Greek.</p>
+<p><strong>(b) The chiasm.</strong></p>
+<ul>
+<li>21 verses contain both חֶסֶד and רַחֲמִים: 11 in one order, 10 in the other (the Exod 34:6 order).</li>
+<li>The same reversal within 10 verses occurs in 5 other places (Isa 54, Mic 7, Ps 40, Ps 103).</li>
+</ul>
+<p><strong>Verdict on (b): keep as an observation; drop as design — low–moderate.</strong></p>
+<h4 id="l31-ps-1251-at-51819">L31 — Ps 125:1 at 5:18–19</h4>
+<ul>
+<li><strong>Ps 102:13 [Eng 102:12] is the closest wording.</strong> יְהוָה + עוֹלָם + ישׁב (“sit, abide”) + דּוֹר (“generation”) occurs <strong>only at Ps 102:13 and Lam 5:19</strong>. <em>High.</em></li>
+<li><strong>Joel 4:20 [Eng 3:20]</strong> carries the “abide for ever / generation and generation” pair of a <em>place</em> — “Judah shall abide for ever, and Jerusalem to generation and generation”. It is a closer source for the mountain-to-LORD idea than Ps 125.</li>
+<li>The “transfer” from mountain to LORD is a reading of the sequence 5:18 → 5:19, not an allusion to Ps 125.</li>
+</ul>
+<p><strong>Verdict: Needs reframing.</strong> Ps 125 low; Ps 102:13 high; Joel 4:20 moderate.</p>
+<hr />
+<h2 id="supplementary-gate">Supplementary gate</h2>
+<p>No open test was left by the auditors. Every decisive figure in the summary table was re-run in the main session — the 22 spot checks listed above. Two of them corrected the claims:</p>
+<ul>
+<li><strong>The Ps 44:26 “exclusive” is a lexicon artefact.</strong>
+<ul>
+<li>שׁחח (“be bowed down”, 7817) + נֶפֶשׁ occurs at Ps 42:6, 42:7, 42:12 and 43:5.</li>
+<li>זכר + נֶפֶשׁ + שׁחח occurs at Ps 42:7 alone.</li>
+<li>Lam 3:20’s verb is filed as שׁוח (7743).</li>
+<li><strong>The two lemma numbers divide one word-family.</strong> Future chains on this root must search both. <code>[T]</code></li>
+</ul></li>
+<li><strong>“Remember + soul + hope”</strong> returns nothing at window 0 and <strong>Ps 42:5, 42:7 and Lam 3:20</strong> at window ±1. The claim needs its window stated.</li>
+</ul>
+<hr />
+<h2 id="what-the-audit-adds">What the audit adds</h2>
+<p>Every row is verified wording; none is yet audited as design.</p>
+<ol type="1">
+<li><strong>Ps 42–43 behind 3:20–24.</strong> “My soul is bowed down within me; therefore …” (Ps 42:7 ~ Lam 3:20–21), with “hope” as the refrain (Ps 42:6, 12; 43:5 ~ Lam 3:21, 24, 26). This is the closest model for the turn. <em>Moderate–high.</em></li>
+<li><strong>Ps 88:9 ~ Lam 3:7</strong> — “and I cannot go out”, exclusive. With 3:8, 3:17 and 3:54–55, Ps 88 is the leading psalm partner of Lam 3 after Ps 143.</li>
+<li><strong>Ps 119:136 ~ Lam 3:48</strong> — “streams of water my eye runs down”, exclusive. <strong>Ps 119 and Lam 3 share exact phrases at three letters — ח (3:24), פ (3:48), ר (3:58) — each time in the same letter-slot of both poems.</strong> Each phrase begins with the line’s alphabet-forced first word (חֶלְקִי, “my portion”; פַּלְגֵי, “streams”; רִיב, “plead”), but what follows is not forced, and the two-to-four-word phrases occur nowhere else. That is the measure of the relation; the alphabet test alone does not show it.</li>
+<li><strong>Ps 89:43 ~ Lam 2:17 and Ps 89:5 ~ Lam 5:19</strong> — exclusive. Ps 89 is a live source for Lam 2 and Lam 5.</li>
+<li><strong>Ps 92:3 ~ Lam 3:22–23</strong> — חֶסֶד + אֱמוּנָה + בֹּקֶר (“lovingkindness, faithfulness, morning”), exclusive in a one-verse window.</li>
+<li><strong>Isa 51:22–23 ~ Lam 4:21–22</strong> — the cup passed from Zion to her tormentors “no more”; the Greek matches 4:22.</li>
+<li><strong>Ps 17:12 ~ Lam 3:10</strong> — “lion … in hiding places”.</li>
+<li><strong>Joel 4:20 ~ Lam 5:19</strong> — “abide for ever … generation and generation”.</li>
+<li><strong>Ps 137:7 ~ Lam 4:21</strong> — Edom + “strip bare”, exclusive.</li>
+<li><strong>Ps 55</strong> reaches three exclusive ties with Lamentations, like Ps 89. Unread; queue.</li>
+</ol>
+<hr />
+<h2 id="confidence-change-propagation">Confidence Change Propagation</h2>
+<h3 id="into-the-3133-dig-v1.0-v1.1-when-patched">Into the 3:1–33 dig (v1.0 → v1.1, when patched)</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Location</th>
+<th>Current</th>
+<th>Corrected</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Headline 2</td>
+<td>“wears the Psalter’s pictures of the enemy” (design moderate–high)</td>
+<td><strong>Two exclusive contacts (Ps 10:9; Ps 143:3), plus Ps 17:12. The design claim is withdrawn</strong> (low–moderate): God in enemy imagery is ordinary in these laments. Preach as the man’s words</td>
+</tr>
+<tr class="even">
+<td>Headline 3</td>
+<td>the “reject for ever?” dialogue (moderate–high)</td>
+<td><strong>3:31 ~ Ps 77:8–10 (moderate–high). The turn’s closest model is Ps 42–43</strong> (3:20–21, 24). The four-psalm cluster is low. Remove the 3:18 “for ever” reading (נִצְחִי means “my endurance”)</td>
+</tr>
+<tr class="odd">
+<td>Headline 4</td>
+<td>חֶסֶד chiasm (moderate–high)</td>
+<td><strong>An observation, not a design</strong> (low–moderate). The pair’s order varies freely. The 1:5 → 3:32 tie and the 3:21 ↔︎ 3:33 “heart” frame stand</td>
+</tr>
+<tr class="even">
+<td>Tool 11</td>
+<td>Ps 89:2 at 3:22 (moderate); Isa 54:7–8 (moderate–high); Ps 44:24–26; Ps 119 same-slot</td>
+<td>Isa 63:7 and Ps 92:3 lead at 3:22; Ps 89:2 low–moderate. Isa 54:8 ~ 3:32 low–moderate to moderate. <strong>Ps 44 replaced by Ps 42–43.</strong> Ps 119: exact phrases at 3:24, 3:48, 3:58. <strong>Add Ps 88:9 ~ 3:7</strong></td>
+</tr>
+<tr class="odd">
+<td>Positional Necessity (revisited)</td>
+<td>“Ps 89 used in both directions”</td>
+<td><strong>Withdraw.</strong> Ps 89 is heard in Lam 2 and Lam 5, not at 3:22</td>
+</tr>
+<tr class="even">
+<td>Repetition / Vocabulary</td>
+<td>נֶפֶשׁ + שׁוח “only Ps 44:26”</td>
+<td><strong>Lexicon artefact.</strong> Ps 42:6–7, 12; 43:5 (שׁחח)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="into-the-5122-dig-v1.0-v1.1-when-patched">Into the 5:1–22 dig (v1.0 → v1.1, when patched)</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Location</th>
+<th>Current</th>
+<th>Corrected</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Headline 1</td>
+<td>Isa 54:4–9 the only other passage with all seven roots (moderate–high, “baseline run”)</td>
+<td><strong>Withdrawn as design</strong> (selection effect; low). Isa 54 is a thematic counterpart (moderate). <strong>Isa 64:8 and Jer 14:19–21 are the closest verbal partners of 5:20–22</strong></td>
+</tr>
+<tr class="even">
+<td>Headline 2</td>
+<td>Jer 31 prayed in reverse, in order</td>
+<td><strong>The pairing stands</strong> (moderate–high: Jer 31 is the only chapter with ≥ 5 rare pairs; 31:13 and 31:18 exclusive). <strong>“In order” is withdrawn.</strong> The 31:29 link is weak (Jer 14:20; Ezek 18:20 stronger)</td>
+</tr>
+<tr class="odd">
+<td>Headline 3</td>
+<td>5:7 ~ Isa 53:11 “one other home” (high wording)</td>
+<td><strong>Uncertain — low as an allusion</strong> (סבל is a rare synonym; נשׂא + עָוֹן occurs in 37 verses; the Greek loses it). Use as canonical reflection only. Jer 14:19–21 stands (moderate–high)</td>
+</tr>
+<tr class="even">
+<td>Headline 4</td>
+<td>Ps 125:1 “transfer” (moderate–high)</td>
+<td><strong>Ps 102:13 is the exclusive partner of 5:19</strong> (high). The transfer is a reading of 5:18 → 5:19 (<code>[I]</code>), not an allusion. Joel 4:20 is the “place abides for ever” parallel (moderate)</td>
+</tr>
+<tr class="odd">
+<td>Tool 11</td>
+<td>Amos 8 “threat fulfilled” (moderate–high); Ps 44 at 5:20 (moderate–high)</td>
+<td>Amos 8 low–moderate (5:20 <em>inverts</em> 8:7). Ps 44 low–moderate; <strong>Isa 49:14 and Ps 13:2</strong> for 5:20. <strong>Ps 89:5 ~ 5:19</strong> (exclusive) and Ps 89:51 at 5:1 confirmed</td>
+</tr>
+<tr class="even">
+<td>Christological Reading</td>
+<td>“the bearer of iniquities (5:7 → Isa 53:11) … high on the canonical connection”</td>
+<td><strong>Lower to moderate, as canonical reflection.</strong> The Christological route runs more securely through Jer 31 (5:21 → 31:31–34)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="into-the-overview-v0.2.1-finalise">Into the overview (v0.2.1 → Finalise)</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Row</th>
+<th>Current</th>
+<th>New</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ps 89</td>
+<td>“for Lam 2”, moderate–high</td>
+<td><strong>Lam 2 (2:7, 2:17) and Lam 5 (5:1, 5:19)</strong>, moderate–high</td>
+</tr>
+<tr class="even">
+<td>Psalms for Lam 3</td>
+<td>Pss 77, 88, 143</td>
+<td><strong>Ps 143 (3:6); Ps 88 (3:7, 8, 17, 54–55); Ps 77 (3:31); Ps 42–43 (3:20–24); Ps 119 (3:24, 48, 58); Ps 10/17 (3:10)</strong></td>
+</tr>
+<tr class="odd">
+<td>Lam 5 partners</td>
+<td>Isa 63–64; Jer 31:18; Jer 14:19; Pss 102, 89, 44</td>
+<td><strong>Isa 64 (1st); Jer 31 (31:13, 18); Jer 14:19–21; Ps 102:13; Ps 89:5, 51; Isa 49:14</strong>; Ps 44 demoted</td>
+</tr>
+<tr class="even">
+<td>The cup at 4:21–22</td>
+<td>Jer 25 first (audit 2)</td>
+<td><strong>Isa 51:22–23 and Jer 25:15–29</strong>, with Ps 137:7 for Edom</td>
+</tr>
+<tr class="odd">
+<td>Isa 54</td>
+<td>not in the map</td>
+<td><strong>Isa 54:8 ~ Lam 3:32</strong> (low–moderate to moderate); thematic counterpart to Lam 5</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="recommended-revisions">Recommended revisions</h2>
+<ol type="1">
+<li><strong>Patch both solo digs to v1.1</strong> per the propagation tables. The changes are confined to Headlines 2–4 (3:1–33), Headlines 1, 3 and 4 (5:1–22), and their Tool 11 rows. Both digs’ pulpit notes, pastoral notes and internal-echo findings are untouched.</li>
+<li><strong>For point-purpose on either passage</strong>, build only on:
+<ul>
+<li><strong>3:1–33:</strong> the ענה (“afflict”) bracket; the exodus-formula inversion; the man’s words for God (Ps 10:9; Ps 143:3, <em>as his words</em>); “this I bring back to my heart” with Ps 42–43; 3:31 answering Ps 77; 1:5 → 3:32; MT “we are not consumed”.</li>
+<li><strong>5:1–22:</strong> the address frame; the two confessions (Jer 14:20); Jer 31:13 and 31:18; Ps 102:13 at 5:19; the reversal of poem 2 (2:1, 6 → 5:1, 20); 3:33 → 5:11; 5:22 with Jer 14:19.</li>
+</ul></li>
+<li><strong>The Christological line for 5:1–22</strong> runs best through Jer 31:31–34 (from 5:21) and the throne (5:19; Ps 102; Heb 1:8–12, which quotes Ps 102). Isa 53:11 is reflection, not echo.</li>
+</ol>
+<p><strong>A pattern to note for the toolkit.</strong> Across Matthew, Job and now three Lamentations audits, the single-verse contacts hold and the design claims fail. Both solo digs here produced design headlines that did not survive a baseline. Round 7’s AD item (a pre-headline baseline) would have caught L25, L26, L28 and L29 <em>in the dig</em>.</p>
+<hr />
+<h2 id="new-candidates-for-the-queue">New candidates for the queue</h2>
+<ul>
+<li><strong>L34</strong> — Ps 42–43 behind 3:20–24 (moderate–high)</li>
+<li><strong>L35</strong> — Ps 119 and Lam 3: exact phrases at 3:24, 3:48, 3:58 — a relation of the two acrostics (moderate–high)</li>
+<li><strong>L36</strong> — Isa 51:22–23 behind 4:21–22 (moderate–high)</li>
+<li><strong>L37</strong> — Ps 55, three exclusive ties with Lamentations (unread)</li>
+<li><strong>L38</strong> — Joel 4:20 behind 5:19 (moderate)</li>
+<li><strong>L39</strong> — Ps 92:3 behind 3:22–23 (moderate)</li>
+</ul>
+<p><strong>Closed by this audit:</strong> L16–L33. <strong>Open:</strong> L1 (direction only), L34–L39.</p>
+<hr />
+<h2 id="critical-assessment-the-gaps-in-this-audit">Critical assessment — the gaps in this audit</h2>
+<ol type="1">
+<li><strong>No history of interpretation.</strong> No commentary was consulted. A Logos round would test the Ps 42–43 and Ps 77 readings of 3:20–31, and the כִּי אִם (“unless”) of 5:22.</li>
+<li><strong>Manual classification in L25.</strong> The enemy-or-God coding of rare partners is the auditor’s own and should be re-checked from <code>a1_classification.txt</code>.</li>
+<li><strong>The baselines measure lemma co-occurrence.</strong> They miss sound, syntax and word order. L28’s selection-effect test is itself one design of baseline; a stricter test (pre-registering the roots) is impossible after the fact.</li>
+<li><strong>Lexicon artefacts.</strong> The שׁוח / שׁחח split (7743 / 7817) shows that the index can divide a word-family. Chains that turn on rare verbs should search the cognate numbers too.</li>
+<li><strong>Ketiv and qere dependence.</strong> Results at 3:10, 3:20, 3:32 and 5:21 change with the reading chosen. Each row says which.</li>
+<li><strong>Greek absence.</strong> 3:22–24 and 3:29 have no Old Greek, so findings there cannot be checked in the Greek tradition.</li>
+<li><strong>Direction of dependence</strong> is open throughout.</li>
+<li><strong>Apparatus spread</strong> is unchecked for every ketiv, <em>tiqqun</em> and paragraph marker cited.</li>
+<li><strong>The auditors over-ran the length guide.</strong> Nothing was trimmed.</li>
+</ol>
+<hr />
+<h2 id="text-first-declaration">Text-First Declaration</h2>
+<p><strong>Secondary sources present in context</strong> (the objects under test):</p>
+<ul>
+<li>the 3:1–33 and 5:1–22 digs;</li>
+<li>claim audit 2;</li>
+<li>overview v0.2.1.</li>
+</ul>
+<p>The auditors were blind to all of them. No commentary or lexicon beyond the BHS apparatus was used.</p>
+<p><strong>Primary texts opened:</strong></p>
+<ul>
+<li>WLC (reading text and lemma index; canon-wide for scans and baselines);</li>
+<li>Swete LXX, for every Greek row;</li>
+<li>the Rahlfs Lamentations export;</li>
+<li>the BHS apparatus for Lamentations.</li>
+</ul>
+<p><strong>Chains and counts verified:</strong></p>
+<ul>
+<li>the three auditors’ baselines (A1, A2, A3, A4, A5; B1, B2, B4; C1, C3, C7b);</li>
+<li>22 decisive spot checks reproduced by the main session;</li>
+<li>positive controls recorded by each auditor before every nil or “only”.</li>
+</ul>
+<p><strong>Warrant use:</strong> verdicts are <code>[S: audit]</code> for downstream use. Counts are <code>[T]</code>; readings of design are <code>[I]</code>.</p>
+<p><strong>Health note.</strong> For the third time running, the design claims fell and the exclusive contacts held. Both digs remain preachable on their verified contacts and internal chains. <strong>Their design headlines should be patched before point-purpose.</strong></p>
+
+</main>
+</div>
+</body>
+</html>
