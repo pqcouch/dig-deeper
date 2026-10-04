@@ -8,7 +8,7 @@
 
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV, declared for this engagement. The export is Crossway's 2025 US text; check any quoted wording against the ESV Anglicised if that is what the pulpit reads
-**Date:** 4 October 2026
+**Date:** 4 October 2026 · **Version:** 1.1 (patched 4 October 2026 from claim audit 3; see *What Changed in v1.1*)
 **Mode:** Fresh Exegesis, solo dig. This is Solo-Dig Priority 1 of the sweep (Units 3–4 together)
 
 **Book-overview context:** In conversation — `Lamentations/book-overview-lamentations.md` **v0.2.1**. Its threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
@@ -16,7 +16,8 @@
 **Other secondary documents in context:**
 
 - `dig-deeper-lamentations-sweep.md` **v1.1**;
-- claim audits 1 and 2 (`dig-deeper-lamentations-claim-audit.md`; `…-claim-audit-2.md`).
+- claim audits 1 and 2 (`dig-deeper-lamentations-claim-audit.md`; `…-claim-audit-2.md`);
+- **v1.1:** claim audit 3 (`…-claim-audit-3.md`), which tested this dig's own claims. Its verdicts are applied in place and tagged `[S: audit 3]`.
 
 Their verdicts are taken as settled and tagged `[S: audit]`. The sweep's own findings are treated as a prior run: confirmed, extended or resisted, never re-used as evidence.
 
@@ -35,7 +36,7 @@ Their verdicts are taken as settled and tagged `[S: audit]`. The sweep's own fin
 
 3:34–42 was loaded and read so that the boundary is not drawn blind.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit]` a verdict of claim audit 1 or 2.
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit]` a verdict of claim audit 1 or 2 · `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
 ---
 
@@ -91,35 +92,41 @@ The exegetically strongest claims that emerged across several tools:
 
    *Surfaced by:* Structure, Repetition, Vocabulary, Tool 11, Positional Necessity. `[T]` for the chain and the counts; `[I]` for the inversion as design. *Confidence: high (chain); moderate–high (inversion).*
 
-2. **The assailant of 3:1–16 is "He", never named, and he wears the Psalter's pictures of the enemy.**
+2. **The assailant of 3:1–16 is "He", never named, and the man describes him in words the psalms use of the wicked and the enemy.**
    - *The count.* Twenty-four finite verbs with God as the implied subject run from 3:2 to 3:16 (third person masculine singular, WLC morphology). The divine name does not appear until 3:18, and then in despair.
    - *The images belong elsewhere to the enemy or the wicked:*
 
      | Image | Elsewhere | Exclusivity |
      |---|---|---|
-     | The lion "lying in wait … in secret places" (3:10) | **the wicked man** of Ps 10:9 (ארב, "lie in wait" + אַרְיֵה, "lion" + מִסְתָּר, "hiding place") | exclusive to the two verses |
+     | The lion "lying in wait … in secret places" (3:10) | **the wicked man** of Ps 10:9 (ארב, "lie in wait" + אַרְיֵה, "lion" + מִסְתָּר, "hiding place"); and the wicked of **Ps 17:12** ("a young lion sitting in hiding places") | exclusive to Ps 10:9 and Lam 3:10; אַרְיֵה + מִסְתָּר in three verses (Ps 10:9; 17:12; Lam 3:10) `[S: audit 3]` |
      | "He has made me dwell in dark places like the dead of long ago" (3:6) | spoken of **the enemy** at Ps 143:3 | verbatim but for the order of the first two words |
      | "He has bent his bow" (3:12) | repeats 2:4, where the Lord did it **"like an enemy"** | — |
 
-   - The psalms supplied the man with words for what *the enemy* does; he uses them of God. `[T]` for the wording; `[I]` for the inversion. *Confidence: high (wording); moderate–high (design).*
+   - The psalms supplied the man with words for what *the enemy* does; he uses them of God. **Preach this as the man's own choice of words, not as the poet's design.** Claim audit 3 ran a baseline: describing God in an enemy's images is ordinary in these laments (Lam 2:1–8 has 6 such partners of 28; Job 16:7–17 has 2 of 3), and Lam 3:1–16's own rare partners split evenly with passages in which God is the agent. Job 19:6–12 is the closest overall rival `[S: audit 3]`. `[T]` for the wording; `[I]` for the reading. *Confidence: high (the contacts); low–moderate (as design).*
 
-3. **The turn is an act of memory, made in the words of the Psalter's "will he reject for ever?" laments — and 3:31 answers that question in its own terms.**
+3. **The turn is an act of memory, voiced in the words of Ps 42–43, and 3:31 answers the question of Ps 77 in its own terms.**
    - *The chain.* The verb זנח ("reject") runs from "my soul was rejected from peace" (3:17) to "the Lord will not reject for ever" (3:31). The only other place it occurs in Lamentations is 2:7, "the Lord has rejected his altar".
-   - *The Psalter's question.* זנח with "for ever" (לָנֶצַח / לְעוֹלָם) is asked at Ps 44:24 [Eng 44:23] and Ps 74:1, and asked as a question at Ps 77:8 [Eng 77:7]. **Lam 3:31 is the only verse that answers it in the same words.** זנח + עוֹלָם occurs only at Ps 77:8 and Lam 3:31, with the Greek near-identical.
-   - *The surrounding vocabulary* is the same psalms':
-     - "remember" with the ketiv's "muse" (Ps 77:4, 7; 143:5);
-     - "my soul is bowed down" (Ps 44:26, the only other verse);
-     - "I cry for help … my prayer" (Ps 88:14, the only other verse);
-     - "you reject my soul" (Ps 88:15).
+   - *Ps 77's question answered.* "Will the Lord reject for ever?" (Ps 77:8 [Eng 77:7]) is answered at Lam 3:31: "the Lord will not reject for ever". **זנח + עוֹלָם occurs only at Ps 77:8 and Lam 3:31**, and the Greek of the two is near-identical. "Reject" + חֶסֶד + רַחֲמִים within ±4 verses is also exclusive to Ps 77:8–10 and Lam 3:31–32 `[S: audit 3]`. *Moderate–high.*
+   - *The turn's model is Ps 42–43.*
+     - Ps 42:7 [Eng 42:6]: עָלַי נַפְשִׁי תִשְׁתּוֹחָח עַל־כֵּן אֶזְכָּרְךָ ("my soul is bowed down within me; **therefore** I remember you").
+     - Lam 3:20–21: ותשיח עָלַי נַפְשִׁי … עַל־כֵּן אוֹחִיל ("my soul is bowed down within me … **therefore** I have hope").
+     - The refrain of Ps 42–43 is הוֹחִילִי ("hope!", Ps 42:6, 12; 43:5); Lam 3:21, 24, 26 answer with אוֹחִיל ("I will hope").
+     - זכר ("remember") + נֶפֶשׁ ("soul") + יחל ("hope") within ±1 verse occurs **only at Ps 42:5, 42:7 and Lam 3:20** `[S: audit 3]`.
+     - The "only Ps 44:26" claimed in v1.0 for "my soul is bowed down" was an artefact of the lemma index, which files the related verb שׁחח ("be bowed down") under a separate number (7817) from Lamentations' שׁוח (7743).
+     - On the ketiv and in the Greek (καταδολεσχήσει, "will muse"), the partner is Ps 77:4, 7 instead.
+   - *Ps 88* supplies the prison of 3:7–8: "and I cannot go out" (וְלֹא אֵצֵא, only Ps 88:9 and Lam 3:7) and "I cry for help … my prayer" (only Ps 88:14 and Lam 3:8) `[S: audit 3]`.
+   - *Withdrawn in v1.1:* the claim that 3:17–33 replies to a cluster of four psalms (44, 74, 77, 88). The block's density in that family is not unusual within Lamentations (Lam 1:1–17 scores higher). Also withdrawn: the 3:17–18 "for ever" window, because 3:18's נִצְחִי means "my endurance" `[S: audit 3]`.
 
-   `[T]` for the chains; `[I]` for the dialogue. *Confidence: high (chains); moderate–high (design).* *Synthetic.*
+   `[T]` for the chains; `[I]` for the reading. *Confidence: moderate–high (Ps 77:8 at 3:31; Ps 42–43 at 3:20–24 on the qere; Ps 88 at 3:7–8).*
 
-4. **God's חֶסֶד ("lovingkindness") and רַחֲמִים ("compassion") frame 3:22–32 as a chiasm, and the frame ends on God's heart.**
+4. **God's חֶסֶד ("lovingkindness") and רַחֲמִים ("compassion") open and close 3:22–32, and the unit ends on God's heart.**
    - *The frame.* חַסְדֵי … רַחֲמָיו ("lovingkindnesses … his compassions", 3:22) is answered by וְרִחַם כְּרֹב חסדו ("he will have compassion according to the abundance of his lovingkindness", 3:32). These are **the only two occurrences of חֶסֶד in the book**.
    - *The heart.* It lands on 3:33: "not from his heart". The man brought "this" back "to my heart" (אֶל־לִבִּי, 3:21); the poem ends the unit on what is *not* "from his heart" (מִלִּבּוֹ, 3:33).
    - *Poem 1 answered.* "Though he causes grief" (הוֹגָה, 3:32) answers poem 1's "the LORD has caused her grief **for the multitude** of her transgressions" (1:5). It does so with the only other יגה ("cause grief") + רֹב ("multitude, abundance") in the Hebrew Bible (1:5; 3:32) `[S: audit]`.
 
-   *Surfaced by:* Structure, Parallels, Repetition, Vocabulary, Move 4. `[T]` for the chains; `[I]` for the chiasm. *Confidence: high (chains); moderate–high (chiasm).* *Synthetic.*
+   - *v1.1.* The reversed order (חֶסֶד … רַחֲמִים at 3:22; רחם … חֶסֶד at 3:32) is **an observation, not a design**. The pair occurs in either order about equally often elsewhere (11 against 10), and the same reversal within ten verses recurs in Isa 54, Mic 7, Ps 40 and Ps 103 `[S: audit 3]`. The 1:5 → 3:32 tie and the 3:21 ↔ 3:33 "heart" frame stand.
+
+   *Surfaced by:* Structure, Parallels, Repetition, Vocabulary, Move 4. `[T]` for the chains; `[I]` for the frame. *Confidence: high (chains); low–moderate (chiasm as design).* *Synthetic.*
 
 5. **The pulpit text hides three things the Hebrew shows.**
    - **3:22.** The Masoretic text has the poem's first "we": כִּי לֹא־תָמְנוּ ("for **we** are not consumed"). It is the only first-person plural in 3:1–39, and the root תמם ("be finished") returns only at 4:22, "your punishment is **completed**". ESV and NASB95 both follow the emendation (BHS: one manuscript, the Syriac and the Targum), so the congregation hears "never ceases" — not "we", and not the 4:22 link.
@@ -178,7 +185,7 @@ Poem 1 has also put Zion's own sentence on record (1:13), with the man's later w
 
 **Implication.** Without chs 1–2, 3:22–24 is a hymn. **After them, it is the first answer the book gives to a city that has asked God to see, and has been answered so far only by the rod.** The positional answer also explains why the unit ends on God's heart (3:33). The enemy-like conduct of 2:4–8 is real, and the God who is doing it does not do it "from his heart". `[I]`
 
-**Revisited after Tool 11.** The Move 2 findings sharpen this. The psalms that the turn and the centre answer (44, 74, 77, 88, 89) are the Psalter's laments of a people or a king rejected. Ps 89 has already been heard behind Lam 2 `[S: audit]`. At 3:22, Lam 3 takes up the *opening* of Ps 89: "I will sing of the LORD's lovingkindnesses (חַסְדֵי יְהוָה) … your faithfulness". Lam 2 had used Ps 89's *ending*. So the book uses Ps 89 in both directions (Tool 11). `[I]`
+**Revisited after Tool 11 (v1.1).** The partners of the turn and the centre are laments of the downcast and the rejected: Ps 42–43 (3:20–24), Ps 77 (3:31), Ps 88 (3:7–8). The man speaks as those psalms' speakers spoke, and at 3:31 he gives the answer Ps 77 asked for. `[I]` *(v1.0's "Ps 89 used in both directions" is withdrawn: claim audit 3 finds Ps 89 in Lam 2 and Lam 5, but rates its contact at 3:22 low–moderate `[S: audit 3]`.)*
 
 **Immediate context.** Before: Zion's accusation (2:20–22), ending "my enemy annihilated them" (כִּלָּם, root כלה — the root 3:22 denies of God's compassions). After:
 
@@ -208,7 +215,7 @@ Poem 1 has also put Zion's own sentence on record (1:13), with the man's later w
 
 - **Inclusio, outer: עֳנִי ("affliction", 3:1) … עִנָּה ("he afflicts", 3:33).** Root ענה; WLC lemmas 6040 and 6031. In ch. 3 the affliction words are 3:1, 3:19 and 3:33 only. `[T]` *Confidence: high (chain); moderate–high (as a deliberate bracket — the setumah after 3:33 and the book's midpoint corroborate).*
 - **Inclusio, inner: עַל־כֵּן אוֹחִיל ("therefore I have hope", 3:21, 24).** It frames the hymn, with לוֹ ("in him") added the second time. `[T]` *High.*
-- **Chiasm: חֶסֶד–רַחֲמִים (3:22) ↔ רחם–חֶסֶד (3:32).** It brackets the hymn and the wisdom section together. These are the book's only two חֶסֶד, and the only two compassion-forms outside 4:10. `[T]` for the chain; `[I]` for the chiasm. *Moderate–high.*
+- **Frame: חֶסֶד–רַחֲמִים (3:22) ↔ רחם–חֶסֶד (3:32).** It brackets the hymn and the wisdom section together. These are the book's only two חֶסֶד, and the only two compassion-forms outside 4:10. `[T]` for the chain. *High (frame); low–moderate as a designed chiasm, since the pair's order varies freely elsewhere* `[S: audit 3]`.
 - **Heart to heart: אֶל־לִבִּי ("to my heart", 3:21) ↔ מִלִּבּוֹ ("from his heart", 3:33).** `[T]` *Moderate–high.*
 - **The man, at both ends of the wisdom:** הַגֶּבֶר ("the man", 3:1) and לַגֶּבֶר ("for the man", 3:27), closing on בְנֵי־אִישׁ ("the sons of men", 3:33). גֶּבֶר occurs in the book only in ch. 3 (3:1, 27, 35, 39). `[T]` *High.*
 
@@ -514,17 +521,33 @@ A **baseline** was run. For each letter, the content lemmas of Lam 3's three-ver
 
 `[T]` for the counts; `[I]` for the reading.
 
+**v1.1 — the alphabet test, corrected** `[S: audit 3]`. Once each line's forced first word is removed, the same-letter excess vanishes (0.68 against 0.60). What survives is **a set of exact phrases found only in these two poems, each at the same letter of both alphabets:**
+
+| Letter | Ps 119 | Lam 3 | Phrase |
+|---|---|---|---|
+| ח | 119:57 | **3:24** | חֶלְקִי יְהוָה ("my portion is the LORD") |
+| פ | 119:136 | **3:48** | פַּלְגֵי־מַיִם … עֵינִי ("streams of water … my eye runs down") |
+| ר | 119:154 | **3:58** | רִיב ("plead my cause") + גאל ("redeem"; 4 verses) |
+
+Each phrase begins with its line's forced first word, but what follows is not forced. **The two acrostics are related through exact phrases, not through a ז–ח "slot" correspondence.** *Moderate–high.*
+
 *What it adds.*
 
-- **The turn of Lam 3 is voiced in the idiom Israel's alphabetic prayers use at these letters** — above all Ps 119's ז and ח stanzas, which already join remembering, affliction, hope and "portion".
+- **The turn of Lam 3 shares phrases with Israel's greatest alphabetic prayer** at ח (3:24); the relation runs on at פ and ר (3:48, 58).
 - Ps 25:6–8 (also ז–ח–ט) and Ps 145:8–9 (ח–ט: the Exod 34:6 formula, then "the LORD is good … his compassions") show the same stock at the same letters.
 - **Direction is open.** The same-letter overlap runs through the whole of Lam 3, not only at the turn.
 
-*Confidence:* high (3:24 ↔ 119:57); moderate (the ז–ח slot correspondence as a deliberate echo); the ר-slot overlap at 3:58–60 is noted for the next dig.
+*Confidence:* high (3:24 ↔ 119:57); moderate–high (the relation of the two acrostics through exact phrases); the ז–ח slot correspondence alone is withdrawn `[S: audit 3]`.
 
 ---
 
-**The "will he reject for ever?" psalms → Lam 3:17–33** *(moderate–high; Move 1 for each; synthetic)*
+**The laments of the rejected → Lam 3:7–33** *(Move 1 for each; v1.1 confidences per claim audit 3)*
+
+**Ps 42–43 → 3:20–24** *(moderate–high; v1.1)* `[S: audit 3]`
+
+- *Wording.* "My soul is bowed down within me; therefore …" (Ps 42:7 ~ Lam 3:20–21). זכר + נֶפֶשׁ + יחל within ±1 verse: only Ps 42:5, 42:7 and Lam 3:20. The refrain הוֹחִילִי ("hope!"; Ps 42:6, 12; 43:5) against אוֹחִיל (3:21, 24).
+- *Move 1.* The exile's lament far from the house of God: "my tears have been my food day and night" (42:4); "I remember these things and pour out my soul" (42:5); "Why are you bowed down, O my soul? … Hope in God, for I shall again praise him" (42:6, 12; 43:5).
+- *What it adds.* **The turn of Lam 3 is the turn Ps 42–43 teaches: the downcast soul speaks to itself and hopes.** The man does not invent the move; he makes the Psalter's.
 
 **Ps 77:4–10 [Eng 77:3–9] → 3:19–20, 31–32.**
 
@@ -535,15 +558,17 @@ A **baseline** was run. For each letter, the content lemmas of Lam 3's three-ver
 - *Move 1.* Asaph lies awake remembering God and moaning (77:4–7). He asks six questions — reject for ever? lovingkindness ceased? compassion shut up? (77:8–10). He then resolves to "remember the deeds of the LORD" (77:12) and recalls the exodus through the sea (77:17–21).
 - *What it adds.* **Ps 77 asks; Lam 3:31–32 answers, in the same words.** Remembering is the hinge in both. *Moderate–high.*
 
-**Ps 44:24–26 [Eng 44:23–25] → 3:17–20, 29.**
+**Ps 44:24–26 [Eng 44:23–25] → 3:17–20, 29** *(v1.1: low* `[S: audit 3]`*).*
 
 - זנח + לָנֶצַח ("for ever") occurs only at Ps 44:24 and Ps 74:1. Within a one-verse window, Lam 3:17–18 joins them.
-- נֶפֶשׁ ("soul") + שׁוח ("be bowed down") occurs **only Ps 44:26 and Lam 3:20** (qere).
+- ~~נֶפֶשׁ + שׁוח "only Ps 44:26 and Lam 3:20"~~ — **a lexicon artefact** (v1.1). Read with the related verb שׁחח, the partner is Ps 42–43 (above).
 - Ps 44:25–26 also has עֳנִי ("affliction") and עָפָר ("dust"). Compare Lam 3:19 עָנְיִי and 3:29 בֶּעָפָר.
 - *Move 1.* A communal lament: "All this has come upon us, though we have not forgotten you" (44:18). It closes, "Awake! Why do you sleep, O Lord? Do not reject us for ever … our soul is bowed down to the dust … redeem us for the sake of your חֶסֶד" (44:24–27).
-- *What it adds.* Ps 44 protests **innocence**; Lam 3 will confess (3:42). The same words carry opposite self-assessments. Ps 44:24–25 is also the partner of 5:20 `[S: audit]`. **The book uses the psalm twice.** *Moderate–high.*
+- *What it adds.* Ps 44 protests **innocence**; Lam 3 will confess (3:42). *Low as a specific partner of Lam 3* `[S: audit 3]`.
 
-**Ps 88:14–15 [Eng 88:13–14] → 3:8, 17.**
+**Ps 88 → 3:7, 8, 17, 54–55** *(moderate–high; strengthened in v1.1)* `[S: audit 3]`
+
+- **Added in v1.1:** וְלֹא אֵצֵא ("and I cannot go out"), only Ps 88:9 [Eng 88:8] and Lam 3:7; "cut off" (Ps 88:6 ~ Lam 3:54). Ps 88 ranks 2nd of 150 psalms per verse against Lam 3.
 
 | Pair | Verses in the Hebrew Bible |
 |---|---|
@@ -559,7 +584,7 @@ A **baseline** was run. For each letter, the content lemmas of Lam 3's three-ver
 
 **Ps 74:1** — "why have you rejected us for ever?". Thematic; זנח + לָנֶצַח (2 verses with Ps 44:24). *Moderate.*
 
-**Ps 89:2–3 [Eng 89:1–2] → 3:22–23** *(moderate–high; new)*
+**Ps 89:2–3 [Eng 89:1–2] → 3:22–23** *(v1.1: low–moderate* `[S: audit 3]`*; Isa 63:7 and Ps 92:3 are equal or better rivals, and 3:22–24 has no Greek)*
 
 - *Wording.*
   - חַסְדֵי יְהוָה ("the LORD's lovingkindnesses"): 4 verses (Isa 63:7; Ps 89:2; Ps 107:43; Lam 3:22).
@@ -567,21 +592,25 @@ A **baseline** was run. For each letter, the content lemmas of Lam 3's three-ver
   - חֶסֶד + אֱמוּנָה is a Psalter pair (11 verses, 5 in Ps 89).
 - *Move 1.* Ps 89 opens singing the LORD's lovingkindnesses and faithfulness for ever (89:2–3), rehearses the Davidic covenant (89:4–38), and then laments its collapse: "you have **rejected** (זָנַחְתָּ) and spurned your anointed" (89:39). It ends asking, "**Where are your former lovingkindnesses** (חֲסָדֶיךָ הָרִאשֹׁנִים), O Lord, which you swore to David in your faithfulness?" (89:50).
 - *Move 2.* Ps 89:39–45 stands behind Lam 2 (נאר, "spurn"; 2:17) — moderate–high `[S: audit]`.
-- *What it adds.* **Lam 2 used Ps 89's ending (the rejected king); Lam 3:22 answers its last question with its first line.** "Where are your lovingkindnesses?" (89:50) — "the LORD's lovingkindnesses: we are not consumed" (Lam 3:22). `[I]` *Moderate (design); high (wording).* *Synthetic; queue for audit.*
+- *What it adds (v1.1).* The reading "Lam 3:22 answers Ps 89:50 with Ps 89:2" is withdrawn as design. Claim audit 3 finds Ps 89's exclusive contacts at **2:7, 2:17 and 5:19**, with 5:1 ~ 89:51 close; 3:22 is low–moderate `[S: audit 3]`.
 
-**Isa 63:7 → 3:22, 32** *(moderate)*
+**Ps 92:3 [Eng 92:2] → 3:22–23** *(moderate; v1.1)* `[S: audit 3]`
+
+- חֶסֶד ("lovingkindness") + אֱמוּנָה ("faithfulness") + בֹּקֶר ("morning") within ±1 verse: **only Ps 92:3 and Lam 3:22–23** — "to declare your lovingkindness in the morning, and your faithfulness by night" (92:3).
+
+**Isa 63:7 → 3:22, 32** *(moderate — the better partner at 3:22, v1.1)* `[S: audit 3]`
 
 - One verse holds חַסְדֵי יְהוָה ("the LORD's lovingkindnesses"), כְּרַחֲמָיו ("according to his compassions") and כְּרֹב חֲסָדָיו ("according to the abundance of his lovingkindnesses") — the vocabulary of Lam 3:22 *and* 3:32 (qere).
 - It opens the communal lament Isa 63:7–64:11, which leads the partners of Lam 5 `[S: audit]`. `[T]`
 - The pair רֹב + חֶסֶד is pooled (10 verses), so the strength is in the triple, not in any one phrase.
 
-**Isa 54:7–8 → 3:31–32** *(moderate–high; new)*
+**Isa 54:7–8 → 3:31–32** *(v1.1: low–moderate to moderate* `[S: audit 3]`*; Ps 77:8–10 is the closer partner)*
 
 - *Wording.* חֶסֶד + רחם (verb) occurs only at Isa 54:8, 10 and Lam 3:32. With עוֹלָם inside a one-verse window, only Isa 54:8 and Lam 3:31–32.
 - *Move 1.* To Zion as forsaken wife and widow (54:1–6): "For a brief moment I deserted you, but with great compassion I will gather you. In overflowing anger for a moment I hid my face from you, but with **everlasting חֶסֶד I will have compassion** on you" (54:7–8).
 - *What it adds.* **The same theology of "not for ever": a real abandonment, bounded, and outweighed by compassion.** Isaiah is a live source for Lamentations (47; 51–52; 63–64). Isa 54:4 also has the "reproach (חֶרְפָּה) of your widowhood" (cf. Lam 1:1; 3:30). `[I]` *Direction open.*
 
-**Ps 10:9 → 3:10** *(moderate–high; new)*
+**Ps 10:9 → 3:10** *(moderate; a composite image — with Ps 17:12 and Hos 13:7–8)* `[S: audit 3]`
 
 - *Wording.* ארב ("lie in wait") + אַרְיֵה ("lion") + מִסְתָּר ("hiding place"): **exclusive** (Ps 10:9; Lam 3:10).
 - *Move 1.* The wicked man "lurks in hiding like a lion in his thicket; he lurks to catch the **afflicted** (עָנִי)" (10:9).
@@ -994,13 +1023,13 @@ Each entry is classified under the Three-Way Triage. This section carries **cate
 ## Convergent Findings
 
 1. **Affliction brackets the unit** (3:1 עֳנִי ↔ 3:33 עִנָּה), and the exodus formula is inverted at 3:1. *Structure, Repetition, Vocabulary, Tool 11, Positional Necessity.*
-2. **The unnamed "He" of 3:2–16 wears the enemy's pictures** (Ps 10:9; Ps 143:3; 2:4 → 3:12). *Repetition (24 verbs), Tool 11, Tone, Who Am I?*
-3. **The turn is memory, in the words of the "reject for ever?" psalms** (44, 77, 88), and 3:31 answers them. *Vocabulary, Repetition, Tool 11, Linking Words, Original Languages (the 3:20 ketiv and Greek).*
-4. **חֶסֶד / רַחֲמִים frame 3:22–32**, ending on "not from his heart", answering 1:5. *Structure, Parallels, Repetition, Move 4.*
+2. **The unnamed "He" of 3:2–16 is described in words the psalms use of the wicked and the enemy** (Ps 10:9; 17:12; 143:3; 2:4 → 3:12) — the man's words, not a demonstrated design (v1.1). *Repetition (24 verbs), Tool 11, Tone, Who Am I?*
+3. **The turn is memory, in the words of Ps 42–43** (3:20–24), **and 3:31 answers Ps 77:8**; Ps 88 supplies the prison of 3:7–8. *Vocabulary, Repetition, Tool 11, Linking Words, Original Languages (the 3:20 ketiv and Greek).*
+4. **חֶסֶד / רַחֲמִים open and close 3:22–32** (a frame, not a designed chiasm), ending on "not from his heart", answering 1:5. *Structure, Parallels, Repetition, Move 4.*
 5. **The posture of 3:28–30 hangs on the three כִּי of 3:31–33.** *Linking Words, Structure, Copycat, Difficult Verses.*
 6. **The man speaks Zion's sentence and the elders' posture** (1:13 → 3:3–11; 2:10 → 3:28–29). *Positional Necessity, Move 4.*
 7. **The pulpit text closes three things the Hebrew opens** (3:21 "But"; 3:22 "we"; 3:17/31 "reject"). *Translations, Textual Variants, Original Languages.*
-8. **Ps 89 is used in both directions** — its end behind Lam 2, its beginning at 3:22. *Tool 11, Positional Necessity (revisited).* Moderate; synthetic.
+8. ~~Ps 89 is used in both directions~~ — **withdrawn in v1.1** `[S: audit 3]`. Replaced by: **Lam 3 shares exact phrases with Ps 119 at the same letters** (ח 3:24; פ 3:48; ר 3:58). *Tool 11.* Moderate–high.
 9. **"Good" forgotten (3:17) and "good" ×3 (3:25–27).** *Repetition, Vocabulary, Genre (the ט convention).*
 10. **The hope vocabulary moves from noun perished to verb renewed** (3:18 → 3:21, 24, 26) **and is hedged by "perhaps"** (3:29). *Repetition, Tone, Linking Words.*
 
@@ -1066,8 +1095,8 @@ Each entry is classified under the Three-Way Triage. This section carries **cate
 4. **3:17 וַתִּזְנַח** — "it was rejected" or "**you** rejected"? Ps 88:15 favours the second person. A lexicon pass is wanted.
 5. **3:14 עַמִּי / עַמִּים, and who "the man" is** — individual, representative, king or personified people. The variant tilts the question; the text does not settle it.
 6. **Adonai and YHWH spread at 3:31** — many manuscripts read יהוה `[unchecked — apparatus spread]`.
-7. **Direction of dependence** with Pss 44, 77, 88, 89, 119, 143, Job 16 and 19, Jer 20 and Isa 54: open throughout.
-8. **Ps 119's ר-stanza (119:153–160) against Lam 3:58–60** — the highest same-letter overlap (5 lemmas: ראה "see", ריב "plead", גאל "redeem", מִשְׁפָּט "justice"). It belongs to the next dig (3:34–66).
+7. **Direction of dependence** with Pss 42–43, 77, 88, 119, 143, Job 16 and 19, Jer 20 and Isa 54: open throughout.
+8. *(v1.1: partly answered by claim audit 3 — the ר contact is an exact phrase; see Tool 11.)* **Ps 119's ר-stanza (119:153–160) against Lam 3:58–60** — the highest same-letter overlap (5 lemmas: ראה "see", ריב "plead", גאל "redeem", מִשְׁפָּט "justice"). It belongs to the next dig (3:34–66).
 9. **Closed by the corpus this run:**
    - Ps 73 as a partner of 3:22–24 was retired by audit 2. This dig confirms that Ps 119:49–57 leads, and finds the ז-stanza contact (זכר + יחל + עֳנִי).
    - "Adonai first at 3:31" stands as a Leningrad fact only.
@@ -1078,7 +1107,7 @@ Each entry is classified under the Three-Way Triage. This section carries **cate
 
 | # | Overview v0.2.1 | This dig | Proposed action |
 |---|---|---|---|
-| 1 | "Lam 3 is a mosaic" (Job; Jer 20; Isa 50; Pss 77, 88, 143) | **Confirmed and specified.** The mosaic is overwhelmingly **Psalter laments of rejection** (44, 74, 77, 88, 89) and Job 16 and 19, with Ps 143 and Ps 10 for the assault. **Ps 88 is a three-contact partner** (3:6, 8, 17; plus 3:55) | Add Ps 88:14–15, Ps 44:24–26, Ps 10:9, Ps 89:2 (at 3:22), Isa 54:7–8 to the map as candidates (queue) |
+| 1 | "Lam 3 is a mosaic" (Job; Jer 20; Isa 50; Pss 77, 88, 143) | **Confirmed and specified.** The mosaic is overwhelmingly **Psalter laments of rejection** (44, 74, 77, 88, 89) and Job 16 and 19, with Ps 143 and Ps 10 for the assault. **Ps 88 is a three-contact partner** (3:6, 8, 17; plus 3:55) | **v1.1 (after claim audit 3):** add Ps 143 (3:6); Ps 88 (3:7, 8, 17, 54–55); Ps 77 (3:31); **Ps 42–43 (3:20–24)**; Ps 119 (3:24, 48, 58); Ps 10:9 / 17:12 (3:10); Isa 63:7 and Ps 92:3 (3:22). Ps 44 and Ps 89:2 not added |
 | 2 | Christological point 4 (man under the rod; type and contrast) | Confirmed; contrast sharpened by 3:42 | None |
 | 3 | Echo Table (sweep proposals pending) | **New rows:** 1:13 → 3:3–11 (שֹׁמֵם exclusive); 2:10 → 3:28–29 (sit, silent, dust); 2:7 → 3:17, 31 (זנח with אֲדֹנָי); 2:4 → 3:12; 2:8 → 3:3; 2:2 → 3:1 (עֶבְרָה); 3:17 → 3:25 (טוֹב) | Add at Finalise |
 | 4 | Pulpit Notes | **Add:** ESV 3:17 "bereft" / 3:31 "cast off" hides the link; ESV 3:21 "But" is supplied | Add |
@@ -1164,13 +1193,23 @@ The **Ps 119 same-letter baseline** (22 diagonal against 462 off-diagonal stanza
 - the many-manuscript YHWH at 3:31;
 - the Sebir at 3:14.
 
-**Warrant counts** (tags in the body; combined tags counted once per element): [T] 46 · [I] 40 · [S] 3 · [S: audit] 25.
+**Warrant counts** (tags in the body; combined tags counted once per element; v1.1): [T] 46 · [I] 38 · [S] 3 · [S: audit] 23 · [S: audit 3] 24.
 
-**Health note.** Text-first, against an audited overview. The single contacts are firm. The new design findings are verified chain by chain but are **synthetic**, and they are the next audit's targets:
+**Health note (v1.1).** Text-first, against an audited overview. Claim audit 3 tested the four synthetic design findings of v1.0. All four were reframed: the enemy-image inversion, the "reject for ever?" dialogue, Ps 89 in both directions, and the חֶסֶד chiasm. **The single contacts held, and two better partners were found** — Ps 42–43 for the turn, and Ps 119's exact phrases. **The unit is now preachable on all five headlines as revised.**
 
-- the enemy-image inversion;
-- the "reject for ever?" dialogue;
-- Ps 89 used in both directions;
-- the חֶסֶד chiasm.
+---
 
-**The unit can be preached with confidence on Headlines 1, 4 and 5 now. Headlines 2 and 3 should be preached as "the words the man chose", not as claims about the poet's sources.**
+## What Changed in v1.1
+
+Patched on 4 October 2026 from `dig-deeper-lamentations-claim-audit-3.md`. Nothing else in the report was altered; the pulpit notes, pastoral notes, internal echoes and textual notes stand.
+
+| Location | v1.0 | v1.1 |
+|---|---|---|
+| Headline 2 | "wears the Psalter's pictures of the enemy" (design moderate–high) | **The man's words**, not a demonstrated design (low–moderate). The contacts stand (Ps 10:9; Ps 143:3), and Ps 17:12 is added |
+| Headline 3 | the "reject for ever?" dialogue (Pss 44, 74, 77, 88) | **Ps 42–43 is the model of the turn** (3:20–24); 3:31 answers Ps 77:8; Ps 88 at 3:7–8. The four-psalm cluster is withdrawn; 3:18 נִצְחִי means "my endurance" |
+| Headline 4 | חֶסֶד chiasm (moderate–high) | **A frame, not a designed chiasm** (low–moderate) |
+| Positional Necessity (revisited) | "Ps 89 in both directions" | Withdrawn; the laments of the rejected (Ps 42–43, 77, 88) |
+| Structure | "Chiasm" | "Frame" |
+| Tool 11 | Ps 44:26 "only"; Ps 89:2 at 3:22 (moderate–high); Isa 54:7–8 (moderate–high); Ps 119 ז–ח slot baseline | Ps 44:26 a lexicon artefact (low); **Ps 42–43 added**; Ps 89:2 low–moderate; **Ps 92:3 and Isa 63:7** lead at 3:22; Isa 54 low–moderate to moderate; Ps 119 by exact phrases at ח, פ, ר; **Ps 88:9 ~ 3:7 added** |
+| Convergent 2, 3, 4, 8 | as above | revised to match |
+| Book-Overview Tensions row 1 | candidate list | revised list |

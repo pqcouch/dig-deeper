@@ -8,7 +8,7 @@
 
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV, declared for this engagement. The export is Crossway's 2025 US text; check any quoted wording against the ESV Anglicised if that is what the pulpit reads.
-**Date:** 4 October 2026
+**Date:** 4 October 2026 · **Version:** 1.1 (patched 4 October 2026 from claim audit 3; see *What Changed in v1.1*)
 **Mode:** Fresh Exegesis, solo dig — Solo-Dig Priority 2 of the sweep (Unit 7)
 
 **Book-overview context:** `Lamentations/book-overview-lamentations.md` **v0.2.1**, in conversation. Its threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
@@ -17,7 +17,8 @@
 
 - the sweep (v1.1);
 - claim audits 1 and 2 (verdicts consumed as `[S: audit]`);
-- the solo dig on 3:1–33 (4 October 2026), treated as a prior run.
+- the solo dig on 3:1–33 (4 October 2026), treated as a prior run;
+- **v1.1:** claim audit 3 (`dig-deeper-lamentations-claim-audit-3.md`), which tested this dig's own claims. Its verdicts are applied in place and tagged `[S: audit 3]`.
 
 **Series context:** Lamentations. This is the book's last poem.
 
@@ -28,7 +29,7 @@
 
 No alternative extent applies: the book ends at 5:22.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit]` a verdict of claim audit 1 or 2.
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit]` a verdict of claim audit 1 or 2 · `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
 ---
 
@@ -61,7 +62,13 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inferen
 
 The exegetically strongest claims that emerged across multiple tools:
 
-1. **One other passage in the Hebrew Bible gathers every word with which poem 5 addresses God: Isaiah 54:4–9.** Poem 5 speaks to the LORD with seven roots:
+1. **Poem 5's closing address to God (5:20–22) is spoken in the words of two prophetic prayers — Isa 64 and Jer 14 — while Isa 54 stands as the promise that reverses it.** *(Rewritten in v1.1.)*
+
+   **The verbal partners** `[S: audit 3]`:
+   - **5:22b ~ Isa 64:8 [Eng 64:9]** — קצף ("be angry") + עַד ("to") + מְאֹד ("very"): "do not be **exceedingly angry**, O LORD" / "you are **exceedingly angry** with us". Exclusive. Isa 64 is the first of 858 chapters against Lam 5 in both scans.
+   - **5:22a ~ Jer 14:19** — the doubled מאס ("utterly reject"), with God as subject. Exclusive. Jer 14:20–21 adds the fathers' iniquity, "we have sinned", the throne and "remember" (5:1, 7, 16, 19).
+
+   **Isa 54 — what v1.0 claimed, and what stands.** Poem 5 speaks to the LORD with seven roots:
 
    - זכר ("remember", 5:1);
    - חֶרְפָּה ("reproach", 5:1);
@@ -79,12 +86,13 @@ The exegetically strongest claims that emerged across multiple tools:
    - "in overflowing **anger**" (54:8);
    - "I have sworn that I will not be **angry** with you" (54:9).
 
-   **The baseline.** Across the whole Hebrew Bible, no other six-verse window holds even five of the seven roots. At the length of poem 5 (22 verses), only Isa 54 and Lam 5 hold six or more, and both hold all seven (WLC, within-chapter windows).
+   v1.0 reported that no other six-verse window in the Hebrew Bible holds five or more of the seven. **Claim audit 3 showed that uniqueness to be a selection effect** `[S: audit 3]`: the seven were chosen from Lam 5 after the two texts had been read together, and Lam 5's other roots of similar frequency find seven-or-more matches in 14 windows of 7 chapters (Jer 14:16–21, Hos 4:5–10 and Lam 2:16–21 hold eight). Control poems behave the same way. Isa 54 also reverses the subject: in 54:4 it is Zion who forgets and does not remember.
 
-   - **Surfaced by:** Tool 11 (independent search), Repetition, Vocabulary, Positional Necessity.
-   - **Warrant:** `[T]` for the distribution; `[I]` for "answer". The direction of dependence is open.
-   - **Confidence:** high (distribution); moderate–high (as a deliberate pairing). *Synthetic — a design claim with a baseline run.*
-   - The 3:1–33 dig had already found Isa 54:7–8 behind 3:31–32. Isaiah 54 is now a two-point partner of Lamentations.
+   **What stands:** Isa 54 is a **thematic counterpart** to Lam 5 — the forsaken wife and widow, the brief abandonment, the oath against anger — with one exclusive tie elsewhere in the book (Isa 54:8 ~ Lam 3:32).
+
+   - **Surfaced by:** Tool 11 (independent search; claim audit 3), Repetition, Vocabulary.
+   - **Warrant:** `[T]` for the contacts; `[I]` for the counterpart reading. The direction of dependence is open.
+   - **Confidence:** high (Isa 64:8; Jer 14:19 wording); moderate (Isa 54 as counterpart); low (the seven-root design).
 
 2. **Poem 5 prays Jeremiah's Book of Consolation in reverse.** Jeremiah 31 is among the three densest partner chapters of poem 5 by both measures used (rare-pair density; IDF-weighted shared vocabulary). It has two exclusive contacts:
 
@@ -92,16 +100,17 @@ The exegetically strongest claims that emerged across multiple tools:
    |---|---|---|
    | **31:13** "then the **virgin** shall rejoice in the **dance**, the **young men** and the **old** together; **I will turn** their **mourning** into joy" | **5:11–15** — virgins (11), elders (12, 14), young men (13–14), "our **dancing** has been **turned** into **mourning**" (15) | הפך ("turn") + אֵבֶל ("mourning") + מָחוֹל ("dance") within one verse: **only Jer 31:13 and Lam 5:15** |
    | **31:18** "**restore me, that I may be restored**" | **5:21** "Restore us … that we may be restored" | the doubled שׁוב ("return"): **only these two** `[S: audit]` |
-   | 31:29 "The fathers have eaten sour grapes" — "in those days they shall no longer say" | **5:7** "our fathers sinned … we bear their iniquities" | answers it in kind |
+   | 31:29 "The fathers have eaten sour grapes" — "in those days they shall no longer say" | **5:7** "our fathers sinned … we bear their iniquities" | a thematic counter-word only (shared lemma: "father"); Jer 14:20 and Ezek 18:20 are closer verbally `[S: audit 3]` |
    | 31:2 "a people who survived the **sword** found grace in the **wilderness**" | **5:9** "the **sword** of the **wilderness**" | חֶרֶב ("sword") + מִדְבָּר ("wilderness"): 5 verses |
 
    **The chapter whose consolation poem 5 lacks is the chapter that goes on to promise the new covenant (Jer 31:31–34).**
 
+   - **Claim audit 3:** Jer 31 is the **only chapter of 858 with five or more rare word-pairs shared with Lam 5** (mean 0.13). **v1.0's "following Jer 31's own order" is withdrawn** — three of five contacts in sequence happens by chance about 65 % of the time `[S: audit 3]`.
    - **Surfaced by:** Tool 11, Structure, Vocabulary, Christological Reading.
    - **Warrant:** `[T]` for the contacts; `[I]` for the "reverse" reading.
-   - **Confidence:** high (31:13, 31:18 wording); moderate–high (design). *Synthetic.*
+   - **Confidence:** high (31:13, 31:18 wording); moderate–high (the pairing); low ("in order"). *Synthetic.*
 
-3. **The two confessions (5:7, 5:16) hold the fathers' guilt and our own together. The words of 5:7 have one other home in the Hebrew Bible: the Servant who "bears their iniquities".**
+3. **The two confessions (5:7, 5:16) hold the fathers' guilt and our own together, in the words of Jer 14:20.**
 
    - 5:7: "Our fathers **sinned** … we have **borne** (סָבָלְנוּ) their **iniquities** (עֲוֺנֹתֵיהֶם)".
    - 5:16: "Woe to us, **for we have sinned**" (כִּי חָטָאנוּ).
@@ -110,24 +119,25 @@ The exegetically strongest claims that emerged across multiple tools:
 
    The canon answers 5:7 twice. Ezek 18 and Jer 31:29–30 say each bears his own iniquity. Isa 53 says the Servant bears theirs.
 
+   - **v1.1 — Isa 53:11 lowered** `[S: audit 3]`. סבל ("bear") is a rare synonym within a common idiom: "bear iniquity" with the usual verb (נשׂא + עָוֹן) occurs in 37 verses. The Greek loses the link, and the theology runs the other way (complaint / vicarious bearing). **Use Isa 53:11 as canonical reflection — "the only other place this verb takes 'iniquities'" — not as an echo.**
    - **Surfaced by:** Structure, Repetition, Tool 11, Christological Reading, Difficult Verses.
    - **Warrant:** `[T]` for the contacts.
-   - **Confidence:** high (wording). The Greek loses the Isaiah link: Lam 5:7 has ὑπέσχομεν ("we underwent"), Isa 53:11 ἀνοίσει ("he will bear").
+   - **Confidence:** moderate–high (Jer 14:20–21); low (Isa 53:11 as allusion). The Greek loses the Isaiah link: Lam 5:7 has ὑπέσχομεν ("we underwent"), Isa 53:11 ἀνοίσει ("he will bear").
 
-4. **God is addressed only in the frame. In 5:19 the attribute of the ruined mountain passes to the LORD.**
+4. **God is addressed only in the frame. 5:19 confesses, in the words of Ps 102:13, that the LORD abides when the mountain does not.**
 
    - **The address.** The only second-person forms in the poem are in 5:1 and 5:19–22 (WLC morphology). The catalogue of 5:2–18 is spoken in God's hearing, but never to him.
-   - **The transfer.**
-     - 5:18 ends on "Mount Zion, which lies desolate".
-     - 5:19 begins "You, O LORD, **abide for ever** (לְעוֹלָם תֵּשֵׁב)".
-     - Ps 125:1 had said this of the mountain: "like **Mount Zion**, which cannot be moved, which **abides for ever** (לְעוֹלָם יֵשֵׁב)".
-     - The four-lemma set (הַר, "mountain" + צִיּוֹן, "Zion" + עוֹלָם, "for ever" + ישׁב, "sit, abide") occurs in one verse only at Ps 125:1. Within a one-verse window it occurs only at Ps 125:1–2 and Lam 5:18–19 (with two looser hits, Jer 51:25 and Joel 2:1–2).
-   - **What the community confesses.** The mountain could not abide for ever; the LORD does.
-   - **The other words of 5:19** are Ps 102:13 near-verbatim, and the only other verse with "you" + "for ever" + "throne", **Ps 93:2**.
+   - **The sequence.** 5:18 ends on "Mount Zion, which lies desolate"; 5:19 begins "You, O LORD, **abide for ever** (לְעוֹלָם תֵּשֵׁב)". **What the community confesses:** the mountain could not abide for ever; the LORD does. `[I]` — a reading of the sequence 5:18 → 5:19.
+   - **The wording of 5:19** `[S: audit 3]`:
+     - **Ps 102:13 [Eng 102:12]** — יְהוָה + עוֹלָם + ישׁב + דּוֹר ("LORD … for ever … abide … generation"): **only Ps 102:13 and Lam 5:19**. *High.*
+     - **Ps 89:5 [Eng 89:4]** — כִּסֵּא ("throne") + דּוֹר וָדוֹר + עוֹלָם: exclusive. In the psalm the throne is David's; here it is the LORD's. *Moderate–high.*
+     - **Ps 93:2** — "you" + "for ever" + "throne": exclusive. *Moderate–high.*
+     - **Joel 4:20 [Eng 3:20]** — "Judah shall **abide for ever**, and Jerusalem **to generation and generation**": the pair said of a *place*. *Moderate.*
+     - *v1.0's Ps 125:1 ("Mount Zion … abides for ever") is lowered to low as an allusion; it remains a thematic parallel.*
 
    - **Surfaced by:** Structure, Tool 11, Move 4 (1:1 "she sits alone" → 5:19 "you sit for ever"), Original Audience (4:12).
    - **Warrant:** `[T]` for the wording; `[I]` for the transfer.
-   - **Confidence:** high (wording); moderate–high (transfer).
+   - **Confidence:** high (the frame; Ps 102:13); moderate (the mountain-to-LORD reading).
 
 5. **Poem 5 asks God to undo what poem 2 said he did. The pulpit text hides two of the links.**
 
@@ -199,7 +209,7 @@ Words per verse fall to about 6.6 in this poem (145 words in 22 verses, WLC). Th
 
 **Implication.** Poem 5 is not an appendix of complaint. It is **where the book puts the reader**: after the promise (4:22), before its fulfilment, praying. Its open ending (5:22) belongs there because the book's own position is an open one. `[I]`
 
-**Revisited after Tool 11.** The prophetic partners of poem 5 are passages of *promised reversal*: Isa 54; Jer 31; Isa 64 (a prayer); Amos 8 (the threat now fulfilled). Poem 5 sits between the threat and the promise. It says that the threat has come true (Amos 8:10 → 5:15). It does not yet say that the promise has (Jer 31:13; Isa 54:4–9). `[I]` *Moderate–high; synthetic.*
+**Revisited after Tool 11 (v1.1).** The prophetic partners of poem 5 are **prayers** (Isa 64; Jer 14:19–22) and **promises of reversal** (Jer 31:13, 18; Isa 54 as a counterpart). Poem 5 prays the prayers and does not yet see the promises. `[I]` *Moderate; synthetic.* *(v1.0's "Amos 8 the threat fulfilled" is withdrawn: 5:20 inverts Amos 8:7 rather than fulfilling it* `[S: audit 3]`*.)*
 
 **Immediate context.** Before, 4:21–22: Edom's cup and Zion's punishment ended. After: nothing — the book ends.
 
@@ -335,7 +345,7 @@ The poem is in short balanced couplets, nearly all synonymous. Five clarify mean
 
    `[T]` for the pair and Jer 2:18; `[I]` for the reading. *Moderate–high.*
 
-9. **הַר־צִיּוֹן ("Mount Zion"), 5:18** — see Headline 4. In the Psalter, Mount Zion is the joy of the earth (Ps 48:3), the mountain where God dwelt (Ps 74:2) and the mountain that "abides for ever" (Ps 125:1). **Lam 2:15 already quoted Ps 48:3 against Zion; Lam 5:18–19 takes Ps 125:1's predicate from the mountain and gives it to the LORD.** `[I]`
+9. **הַר־צִיּוֹן ("Mount Zion"), 5:18** — see Headline 4. In the Psalter, Mount Zion is the joy of the earth (Ps 48:3), the mountain where God dwelt (Ps 74:2) and the mountain that "abides for ever" (Ps 125:1). **Lam 2:15 already quoted Ps 48:3 against Zion. Lam 5:18–19 sets the desolate mountain beside the LORD who "abides for ever" — in Ps 102:13's words, not Ps 125's (v1.1).** `[I]`
 
 10. **כִּי אִם ("unless; but rather; even if"), 5:22.** See Difficult Verses.
 
@@ -376,7 +386,7 @@ The poem is in short balanced couplets, nearly all synonymous. Five clarify mean
 - **a "But" at 5:19** that turns from misery to God more sharply than the Hebrew does;
 - **"sick"** where the book's first poem said "faint";
 - **"raped"** with no echo of "afflict" (3:33);
-- **"reign"** where the Hebrew says "sit" — and so no echo of 1:1 or Ps 125:1;
+- **"reign"** where the Hebrew says "sit" — and so no echo of 1:1 or Ps 102:13;
 - **"for so many days"**, with no echo of Ps 23:6.
 
 They will hear "given the hand", which the NASB95 obscures. **To recover the book's architecture the preacher must supply "sit" at 5:19 and "afflict" at 5:11.**
@@ -454,7 +464,7 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 
 ---
 
-**Isa 54:4–9 → Lam 5 (the seven roots of address)** *(high on distribution; moderate–high as a pairing)* `[T]`
+**Isa 54:4–9 → Lam 5 (the seven roots of address)** *(v1.1: moderate as a thematic counterpart; low as a seven-root design* `[S: audit 3]`*)*
 
 | Root | Lam 5 | Isa 54 |
 |---|---|---|
@@ -471,7 +481,7 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 - no six-verse window except Isa 54:4–9 holds five or more of the seven roots, and Isa 54:4–9 holds all seven;
 - at 22 verses, only Isa 54 and Lam 5 hold six or more.
 
-*Caveat:* the roots were chosen from Lam 5, so Lam 5 holds them by construction. The finding is that **one other passage does, and only one**.
+*Caveat:* the roots were chosen from Lam 5, so Lam 5 holds them by construction. **v1.1:** claim audit 3 showed that this kind of post-hoc root set finds a unique-looking partner for almost any lament (Ps 74, Isa 63–64, Ps 79 behave the same way). The "only one" is withdrawn as evidence of design `[S: audit 3]`.
 
 *Move 1 — source context.*
 
@@ -483,12 +493,12 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 
 - Isa 54:7–8 has already been found behind Lam 3:31–32 (the 3:1–33 dig).
 - Isaiah 47 and 51–52 stand behind poems 1, 2 and 4; Isa 63–64 behind poem 5 `[S: audit]`.
-- **Lamentations is in conversation with Isaiah 47–64 throughout, and Isa 54 is now attested at the book's centre and at its end.** `[T]`
+- **Lamentations is in conversation with Isaiah 47–64 throughout.** Isa 54 has one exclusive tie (54:8 ~ Lam 3:32) and is a thematic counterpart to poem 5. `[T]`
 
 *Move 3 — OT-to-OT.*
 
-- Isa 54 follows Isa 53. Isa 53:11 is the only other verse with Lam 5:7's "bear … iniquities" (next entry).
-- **The two passages that answer Lam 5 most closely stand side by side in Isaiah:** the Servant who bears the iniquities (53), then Zion no longer forsaken (54). `[T]` for the adjacency; `[I]` for the sequence.
+- Isa 54 follows Isa 53. Isa 53:11 is the only other verse with Lam 5:7's "bear … iniquities" (next entry; low as an allusion `[S: audit 3]`).
+- *Canonical reflection, not a claim about sources:* the Servant who bears iniquities (53) stands before Zion no longer forsaken (54). `[T]` for the adjacency; `[I]` for the sequence.
 
 *What it adds.*
 
@@ -498,7 +508,7 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 
 ---
 
-**Isa 53:11 (with 53:4) → Lam 5:7** *(high — סבל "bear" + עָוֹן "iniquity", exclusive)* `[T]`
+**Isa 53:11 (with 53:4) → Lam 5:7** *(v1.1: Uncertain — low as an allusion; canonical reflection only* `[S: audit 3]`*; the exclusive set סבל + עָוֹן is a rare synonym within the common נשׂא + עָוֹן idiom, 37 verses)*
 
 *Move 1 — source context.*
 
@@ -544,7 +554,7 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 
 - Jer 31 has already appeared behind 3:20 (the doubled "remember" of 31:20) and at 1:16 (Rachel, moderate) `[S: audit]`.
 - **In poem 5 it is used at three points (5:9, 11–15, 21), and 31:29 is the counter-word to 5:7.**
-- **The use runs in Jer 31's own order: 31:2 → 31:13 → 31:18 → 31:20 (3:20) → 31:29.** Lam 5 follows the chapter's sequence, as a prayer that has not yet received what the chapter promises. `[I]` *Moderate.*
+- ~~The use runs in Jer 31's own order~~ — **withdrawn in v1.1** (chance would give the observed order about 65 % of the time) `[S: audit 3]`. The pairing itself stands: Jer 31 is the only chapter with five or more rare pairs with Lam 5.
 
 *Move 3 — OT-to-OT.*
 
@@ -552,11 +562,11 @@ Audit 2 placed Isa 63:15–64:11 first against Lam 5, reframed the coda's partne
 |---|---|
 | **Amos 8:10** — "I will **turn** your feasts into **mourning**" | **The threat** |
 | **Jer 31:13** — "I will **turn** their **mourning** into joy" | **The promise** |
-| **Lam 5:15** — "our dancing has been **turned** into **mourning**" | **The threat fulfilled** |
+| **Lam 5:15** — "our dancing has been **turned** into **mourning**" | **The promise reversed** (Jer 31:13 is its exclusive partner; v1.1) |
 | **Esth 9:22** — the month "**turned** … from **mourning** to a good day" | **The reversal enacted** — the next book in the Writings |
 
 - הפך + אֵבֶל occurs in only these four verses. Ps 30:12 ("you have turned my wailing (מִסְפֵּד) into dancing") belongs to the same family with a different noun.
-- **Lam 5:15 stands exactly between threat and reversal.** `[T]` for the four verses; `[I]` for the sequence.
+- **Lam 5:15 is the negative image of Jer 31:13** (exclusive with מָחוֹל, "dance"). The four-verse family places it between threat and reversal, but Amos 8 is not its source (v1.1) `[S: audit 3]`. `[T]` for the verses; `[I]` for the sequence.
 
 *What it adds.* **The poem does not invent its hope. It prays the words of a promise already given (Jer 31:18) from inside the world that promise reverses (Jer 31:13).** For the canonical reader, the chapter that holds both goes on to the new covenant (31:31–34), which is where the NT finds "a new covenant in my blood" (Luke 22:20; Heb 8:8–12). `[I]`
 
@@ -591,19 +601,23 @@ In Jeremiah that prayer is refused (15:1). **Lam 5 prays it again after the refu
 
 **Move 1 only (moderate or moderate–high):**
 
-- **Ps 125:1–2 → 5:18–19** (Headline 4). Move 1: a Song of Ascents — those who trust the LORD are like Mount Zion; the LORD surrounds his people as the mountains surround Jerusalem. The permanence is grounded in the LORD (125:2). *Moderate–high.*
+- **Ps 125:1–2 → 5:18–19.** Move 1: a Song of Ascents — those who trust the LORD are like Mount Zion; the LORD surrounds his people as the mountains surround Jerusalem. *v1.1: low as an allusion; a thematic parallel* `[S: audit 3]`.
+
+- **Ps 89:5 [Eng 89:4] → 5:19** *(v1.1)* — כִּסֵּא + דּוֹר וָדוֹר + עוֹלָם, exclusive. David's throne in the psalm; the LORD's here. *Moderate–high* `[S: audit 3]`.
+
+- **Joel 4:20 [Eng 3:20] → 5:19** *(v1.1)* — "Judah shall abide for ever, and Jerusalem to generation and generation". *Moderate* `[S: audit 3]`.
 
 - **Ps 102:13 [Eng 102:12] → 5:19** — near-verbatim `[S: audit]`.
   - Move 1: the title reads "A prayer **of one afflicted** (לְעָנִי), when he faints and pours out his complaint (שִׂיחוֹ) before the LORD".
   - The next verse says what Lam 5 does not: "**You will arise and have compassion on Zion**; it is time to favour her; the **appointed time** (מוֹעֵד) has come" (102:14).
   - The book's מוֹעֵד chain (1:4, 15; 2:6, 7, 22) runs through the festivals destroyed. Ps 102:14 speaks of the appointed time for Zion's favour.
-  - **The partner continues where the poem stops.** *Moderate–high.*
+  - **The partner continues where the poem stops.** *v1.1: high — יְהוָה + עוֹלָם + ישׁב + דּוֹר occurs only at Ps 102:13 and Lam 5:19* `[S: audit 3]`.
 
 - **Ps 93:2, 5 → 5:19–20** *(new)*. אַתָּה ("you") + עוֹלָם ("for ever") + כִּסֵּא ("throne") occurs only at Ps 93:2 and Lam 5:19. לְאֹרֶךְ יָמִים ("for length of days") occurs only at Ps 93:5, Ps 23:6 and Lam 5:20. Move 1: "The LORD reigns … your throne is established from of old; you are from everlasting … holiness befits your house, O LORD, for length of days". *Moderate–high.*
 
 - **Ps 23:6 → 5:20.** "I shall dwell in the house of the LORD for length of days" — and Lam: "why forsake us for length of days?" *Moderate (phrase in 3 verses).*
 
-- **Ps 44:24–25 [Eng 44:23–24] → 5:20.** לָמָּה ("why") + נֵצַח ("for ever") + שׁכח ("forget") within one verse: only Ps 44:24–25 and Lam 5:20 `[S: audit]`. Ps 44 is also behind 3:17–20 (3:1–33 dig). *Moderate–high.*
+- **Ps 44:24–25 [Eng 44:23–24] → 5:20.** לָמָּה ("why") + נֵצַח ("for ever") + שׁכח ("forget"): only Ps 44:24–25 and Lam 5:20 — but straddling two verses in the psalm, and Ps 44 ranks only 57th of 150 psalms against Lam 5. *v1.1: low–moderate* `[S: audit 3]`. **Isa 49:14 and Ps 13:2** are as close.
 
 - **Ps 22:2 [Eng 22:1] → 5:20.** לָמָה + עזב ("why … forsake"), addressed to God: Ps 22:2 and Lam 5:20 (9 verses with the pair; these two are the cry to God). *Moderate.*
 
@@ -617,8 +631,8 @@ In Jeremiah that prayer is refused (15:1). **Lam 5 prays it again after the refu
   - Isa 64 is first against Lam 5 in both scans. *High (wording).*
 
 - **Ps 89:51 [Eng 89:50] → 5:1.** "**Remember**, O Lord, the **reproach** of your servants". זכר + חֶרְפָּה: 5 verses. Ps 89:47 also has "How long, O LORD? Will you hide yourself **for ever** (לָנֶצַח)?"
-  - **With 3:22 (Ps 89:2) and Lam 2 (Ps 89:39–45), Ps 89 is now heard at three points in the book.**
-  - *Moderate; synthetic* (Book-Overview Tensions).
+  - **v1.1:** Ps 89 is a live source for Lam 2 and Lam 5 — exclusive ties at 2:7, 2:17 and 5:19, with 5:1 close (closer in Greek: Μνήσθητι, κύριε … ὀνειδισμοῦ). Of 150 psalms only Ps 89 and Ps 55 have three exclusive ties with Lamentations. The 3:22 contact is low–moderate `[S: audit 3]`.
+  - *Moderate–high.*
 
 - **Ps 74:2 → 5:1–2, 18, 21.** "**Remember** your congregation, which you acquired **of old** (קֶּדֶם) … the tribe of your **inheritance** (נַחֲלָה) … **Mount Zion**, where you have dwelt". All four (זכר, קֶדֶם, נַחֲלָה, הַר צִיּוֹן) are in Lam 5. Ps 74 is not dense overall (rank 69). *Moderate.*
 
@@ -631,7 +645,7 @@ In Jeremiah that prayer is refused (15:1). **Lam 5 prays it again after the refu
   - "I will **turn** your feasts into **mourning**" (8:10).
   - "the beautiful **virgins** and the **young men** shall faint" (8:13).
   - "**darken** the earth" (8:9).
-  - Amos 8 is second in the IDF scan. **The threat; Lam 5 is its fulfilment, prayed back to God.** *Moderate–high.*
+  - Amos 8 is second in the IDF scan, but 13th–15th in the rare-pair scan. **v1.1: low–moderate** `[S: audit 3]`. Lam 5:20 *inverts* Amos 8:7 — God swore not to forget their deeds; the people complain that he forgets them — so poem 5 is not the threat's fulfilment. Jer 31:13 is 5:15's partner.
 
 - **Jer 2:18 → 5:4, 6.** Egypt, Assyria and drinking water (above). *Moderate–high.*
 
@@ -782,7 +796,7 @@ No Gunkel–Mowinckel *Gattung* label is used.
 | עִנּוּ ("they afflicted/violated") | piel perfect 3cp (5:11) | afflict, humble; of women, violate | Only 3:33 and 5:11 in the piel in the book | *High* |
 | סבל ("bear a load") | סָבָלְנוּ (5:7) | carry a burden | **With "iniquities": only here and Isa 53:11** | *High* |
 | שׁבת ("cease") | שָׁבָתוּ, שָׁבַת (5:14, 15) | stop, rest | The verb behind שַׁבָּת ("sabbath"; 2:6) | *High (root); moderate (overtone)* |
-| ישׁב ("sit, dwell, abide; be enthroned") | תֵּשֵׁב (5:19) | sit, dwell, sit enthroned | ESV and NASB95 render "reign/rule". **The Hebrew is the verb of 1:1 and of Ps 125:1** | *High* |
+| ישׁב ("sit, dwell, abide; be enthroned") | תֵּשֵׁב (5:19) | sit, dwell, sit enthroned | ESV and NASB95 render "reign/rule". **The Hebrew is the verb of 1:1 and of Ps 102:13** | *High* |
 | שׁכח ("forget") | תִּשְׁכָּחֵנוּ (5:20) | forget, neglect | Only 2:6 and 5:20 in the book | *High* |
 | עזב ("forsake") | תַּעַזְבֵנוּ (5:20) | abandon | Only here in the book; Isa 49:14; 54:6–7; Ps 22:2 | *High* |
 | שׁוב ("return, restore") | הֲשִׁיבֵנוּ … ונשוב (5:21) | hiphil "restore"; qal "return" | Doubled, as at Jer 31:18 | *High* |
@@ -949,13 +963,14 @@ No Gunkel–Mowinckel *Gattung* label is used.
 
 **How the passage points to Christ.**
 
-- **The bearer of iniquities (5:7 → Isa 53:11).** This is the strongest verbal datum in the poem. The only other "bearing of iniquities" in the Hebrew Bible is the Servant's, and the NT applies Isa 53 to Christ (Acts 8:32–35; 1 Pet 2:22–25).
+- **The bearer of iniquities (5:7 → Isa 53:11) — canonical reflection (v1.1).** The only other place סבל ("bear") takes "iniquities" is the Servant's, and the NT applies Isa 53 to Christ (Acts 8:32–35; 1 Pet 2:22–25). Claim audit 3 rates it low as an allusion `[S: audit 3]`, so present it as the canon's answer to 5:7, not as an echo the poet intended.
   - Category: sacrifice/atonement.
   - NT precedent: strong for Isa 53; none for Lam 5:7.
   - Escalation: yes (the Servant bears others' iniquity, and finishes it).
   - Authorial pattern: Lam 5:7 itself is a complaint, not a prophecy.
-  - **Trajectory, high on the canonical connection; not typology of Lam 5:7 itself.**
-- **The new covenant (5:21 → Jer 31:18 → 31:31–34).** The chapter whose words the community prays culminates in the promise the Lord's Supper declares fulfilled (Luke 22:20; 1 Cor 11:25; Heb 8:8–13). *Trajectory; high (NT precedent for Jer 31).*
+  - **Trajectory, moderate, as canonical reflection; not typology of Lam 5:7 itself.**
+- **The new covenant (5:21 → Jer 31:18 → 31:31–34).** The chapter whose words the community prays culminates in the promise the Lord's Supper declares fulfilled (Luke 22:20; 1 Cor 11:25; Heb 8:8–13). *Trajectory; high (NT precedent for Jer 31). **v1.1: this is now the most secure Christological route from poem 5.***
+- **The enthroned LORD (5:19 → Ps 102:13 → Heb 1:10–12).** The psalm that supplies 5:19's words is the psalm Hebrews applies to the Son ("you, Lord, laid the foundation of the earth … you remain", Ps 102:26–28 at Heb 1:10–12). *Trajectory; moderate–high (NT precedent for Ps 102).*
 - **The cry "why have you forsaken?" (5:20 → Ps 22:2 → Mark 15:34).** The Son took the forsaken people's question onto his own lips. *Trajectory, moderate.*
 - **The fallen crown (5:16) and the enthroned LORD (5:19).**
   - The Greek of 5:16 has στέφανος ("crown"), the word of Matt 27:29 (the crown of thorns), whose verb stands at Heb 2:9 ("crowned with glory and honour").
@@ -1030,14 +1045,14 @@ No Gunkel–Mowinckel *Gattung* label is used.
 
 ## Convergent Findings
 
-1. **Isa 54:4–9 is the only other passage with all seven words of the poem's address.** *Tool 11 (baseline), Repetition, Vocabulary, Positional Necessity.*
-2. **Jer 31 is prayed in reverse** (31:13 → 5:15; 31:18 → 5:21; 31:2 → 5:9; 31:29 → 5:7). *Tool 11 (two scans and two exclusive contacts), Structure, Christological Reading.*
-3. **The two confessions** (5:7, 16), with 5:7's "bear … iniquities" otherwise said only of the Servant (Isa 53:11). Jer 14:20 holds both confessions in one verse. *Structure, Linking Words, Tool 11, Biblical Theology, Difficult Verses.*
-4. **God is addressed only at the frame. The mountain's "abide for ever" passes to the LORD** (Ps 125:1 → 5:18–19). *Structure, Original Languages, Tool 11, Move 4.*
+1. **The closing address (5:20–22) speaks in the words of Isa 64:8 and Jer 14:19–21**; Isa 54 is a thematic counterpart (v1.1 — the seven-root uniqueness withdrawn). *Tool 11, Repetition, Vocabulary.*
+2. **Jer 31 is prayed in reverse** (31:13 → 5:15; 31:18 → 5:21; 31:2 → 5:9) — not "in order" (v1.1). *Tool 11 (two scans and two exclusive contacts), Structure, Christological Reading.*
+3. **The two confessions** (5:7, 16), in the words of Jer 14:20, which holds both in one verse. (Isa 53:11 as canonical reflection only, v1.1.) *Structure, Linking Words, Tool 11, Biblical Theology, Difficult Verses.*
+4. **God is addressed only at the frame; 5:19 is Ps 102:13's confession** (exclusive), set after the desolate mountain. *Structure, Original Languages, Tool 11, Move 4.*
 5. **Poem 5 asks God to reverse poem 2** — "did not remember" (2:1) → "remember" (5:1); "made Zion forget" (2:6) → "why forget us?" (5:20). *Move 4, Repetition, Positional Necessity.*
 6. **The book's first poem returns in its last, now plural:** widow (1:1 → 5:3); sits (1:1 → 5:19); faint heart (1:22 → 5:17); pursuers and no rest (1:3 → 5:5); "none to" (ch. 1 → 5:3, 7, 8). *Move 4, Repetition, Vocabulary.*
 7. **The ending is two Jeremiah prayers in two doubled-verb figures** — one answered (31:18), one refused (14:19). *Original Languages, Tool 11.*
-8. **The prophetic partners are reversal passages** (Amos 8 threat; Jer 31 and Isa 54 promise; Isa 64 prayer). **The Psalms are phrasal and confined to the coda.** *Tool 11 (two scans), Positional Necessity.*
+8. **The prophetic partners are prayers and promises** (Isa 64 and Jer 14 prayed; Jer 31 promise reversed; Isa 54 counterpart). **The Psalms are phrasal and confined to the coda** (Ps 102:13; Ps 89:5, 51; Ps 93:2). *Tool 11 (two scans), Positional Necessity.*
 9. **The pulpit text closes the links** (5:11 "raped"; 5:17 "sick"; 5:19 "But … reign"; 5:20 "so many days"). *Translations.*
 
 ---
@@ -1094,7 +1109,7 @@ No Gunkel–Mowinckel *Gattung* label is used.
 8. **Closed by the corpus this run:**
    - Audit 2's "Isa 64 leads against Lam 5" — confirmed by both scans.
    - Audit 2 retired Isa 1:7 — confirmed (no contact).
-   - The "line by line" coda claim stays reframed. The new coda contacts are Ps 93:2, 5 and Ps 125:1.
+   - The "line by line" coda claim stays reframed. The new coda contacts are Ps 93:2, 5 and (after claim audit 3) Ps 102:13 with Ps 89:5; Ps 125:1 is a thematic parallel only.
 
 ---
 
@@ -1102,12 +1117,12 @@ No Gunkel–Mowinckel *Gattung* label is used.
 
 | # | Overview v0.2.1 | This dig | Proposed action |
 |---|---|---|---|
-| 1 | Intertextual map for poem 5: Pss 102, 89, 44; Isa 49, 63–64; Jer 31:18; Jer 14:19 | **Extended.** Poem 5's dense partners are **prophetic** (Isa 64; Jer 31; Amos 8; Isa 54; Jer 14; Jer 2). The psalms are phrasal and coda-only | Re-weight at Finalise; add Isa 54:4–9 (seven roots, unique), Jer 31:13, Amos 8:7–13, Isa 53:11 (5:7), Ps 125:1, Ps 93:2, 5 — **queue for audit** |
-| 2 | Christological trajectory: comforter, cup, anointed, man under rod, day of wrath | **Add a strand: "iniquity borne"** (5:7 → Isa 53:11) and "the new covenant" (5:21 → Jer 31:31–34) | Add at Finalise |
+| 1 | Intertextual map for poem 5: Pss 102, 89, 44; Isa 49, 63–64; Jer 31:18; Jer 14:19 | **Extended.** Poem 5's dense partners are **prophetic** (Isa 64; Jer 31; Amos 8; Isa 54; Jer 14; Jer 2). The psalms are phrasal and coda-only | **v1.1 (after claim audit 3):** re-weight at Finalise — Isa 64 (1st); Jer 31 (31:13, 18); Jer 14:19–21; Ps 102:13; Ps 89:5, 51; Isa 49:14; Ps 93:2; Isa 54 as counterpart. Amos 8, Ps 125, Ps 44 and Isa 53:11 not added as sources |
+| 2 | Christological trajectory: comforter, cup, anointed, man under rod, day of wrath | **Add "the new covenant"** (5:21 → Jer 31:31–34) and **"the throne that remains"** (5:19 → Ps 102 → Heb 1:10–12); "iniquity borne" (5:7 → Isa 53:11) only as canonical reflection (v1.1) | Add at Finalise |
 | 3 | Echo Table | **New rows:** 2:1 → 5:1; 2:6 → 5:14–15, 20; 3:33 → 5:11; 3:14 → 5:14; 2:15 → 5:15; 1:1 → 5:3, 19; 1:22 → 5:17; 1:7, 2:17 → 5:21 (קֶדֶם) | Add at Finalise |
-| 4 | Pulpit Notes for 5:19, 5:22 | **Add:** 5:11 "raped" hides 3:33; 5:17 "sick" hides 1:22; 5:19 "reign" hides "sit" (1:1; Ps 125:1); 5:20 "so many days" hides Ps 23:6 | Add |
+| 4 | Pulpit Notes for 5:19, 5:22 | **Add:** 5:11 "raped" hides 3:33; 5:17 "sick" hides 1:22; 5:19 "reign" hides "sit" (1:1; Ps 102:13); 5:20 "so many days" hides Ps 23:6 | Add |
 | 5 | Canonical position — Handoff | **Add Esther 9:22 as the canonical sequel in wording** (low–moderate) | Note at Finalise |
-| 6 | Ps 89 | Now heard at three points (Lam 2; 3:22; 5:1) — synthetic, moderate | Queue for audit |
+| 6 | Ps 89 "for Lam 2" | **v1.1:** a live source for **Lam 2 (2:7, 2:17) and Lam 5 (5:1, 5:19)**, moderate–high `[S: audit 3]` | Add at Finalise |
 
 ---
 
@@ -1209,6 +1224,23 @@ Each was read earlier in this session and remains in context.
 
 Each is tagged `[unchecked — apparatus spread]` where spread matters; none carries a headline alone.
 
-**Warrant counts** (tags in the body; combined tags counted once per element): [T] 53 · [I] 47 · [S] 5 · [S: audit] 21.
+**Warrant counts** (tags in the body; combined tags counted once per element; v1.1): [T] 51 · [I] 47 · [S] 5 · [S: audit] 20 · [S: audit 3] 24.
 
-**Health note.** Text-first against an audited overview. Headlines 2, 3 and 5 rest on exclusive verbal contacts and internal chains, and can be preached now. **Headline 1 (Isa 54) is a design claim with a baseline run.** It is strong, but the direction is open, and it is the next audit's first target with Headline 4 (Ps 125:1).
+**Health note (v1.1).** Text-first against an audited overview. Claim audit 3 tested this dig's two design headlines and its Isa 53, Amos 8 and Ps 125 contacts. **The Isa 54 seven-root uniqueness was a selection effect; the Ps 125 transfer was a reading, not an allusion; Jer 31 "in order" was chance; Isa 53:11 is reflection, not echo.** The exclusive contacts held, and the revised Headlines rest on them: Isa 64:8, Jer 14:19–21, Jer 31:13 and 31:18, Ps 102:13, Ps 89:5. **The passage is now preachable on all five headlines as revised.**
+
+---
+
+## What Changed in v1.1
+
+Patched on 4 October 2026 from `dig-deeper-lamentations-claim-audit-3.md`. Nothing else in the report was altered; the pulpit notes, pastoral notes, internal echoes, textual notes and the 5:22 crux stand.
+
+| Location | v1.0 | v1.1 |
+|---|---|---|
+| Headline 1 | Isa 54:4–9 the only other passage with the seven roots (moderate–high) | **Isa 64:8 and Jer 14:19–21** are the verbal partners of 5:20–22; Isa 54 a thematic counterpart (moderate); the seven-root uniqueness withdrawn (selection effect) |
+| Headline 2 | Jer 31 in reverse, "in Jer 31's order"; 31:29 answers 5:7 "in kind" | Pairing stands (moderate–high); **"in order" withdrawn**; 31:29 a thematic counter-word only |
+| Headline 3 | 5:7's "one other home": Isa 53:11 (high) | **Jer 14:20** carries the confessions; Isa 53:11 **canonical reflection, low as allusion** |
+| Headline 4 | Ps 125:1's "abides for ever" transferred to the LORD (moderate–high) | **Ps 102:13** (exclusive), Ps 89:5, Ps 93:2, Joel 4:20; the transfer is a reading of 5:18 → 5:19; Ps 125 low |
+| Positional (revisited) | Amos 8 the threat fulfilled | Withdrawn — 5:20 inverts Amos 8:7 |
+| Tool 11 | Isa 54 (high/moderate–high); Isa 53:11 (high); Jer 31 order; Amos 8 (moderate–high); Ps 125 (moderate–high); Ps 44 (moderate–high); Ps 89 "three points incl. 3:22" | Isa 54 moderate (counterpart); Isa 53:11 low; order withdrawn; Amos 8 low–moderate; Ps 125 low; Ps 44 low–moderate; **Ps 89 at 2:7, 2:17, 5:1, 5:19**; **Ps 89:5 and Joel 4:20 added**; Ps 102:13 high |
+| Christological Reading | Isa 53:11 the strongest verbal datum | Jer 31:31–34 the most secure route; **Ps 102 → Heb 1:10–12 added**; Isa 53:11 reflection |
+| Convergent 1–4, 8; Tensions 1, 2, 6 | as above | revised to match |
