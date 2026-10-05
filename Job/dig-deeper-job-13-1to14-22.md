@@ -1116,9 +1116,9 @@ The overview had Phil 1:19 (from Swete's 13:16) and the servant's cheek and spit
 ## Open Questions / Uncertainties
 
 **Open.**
-1. **13:15 — ketiv or qere?** Apparatus spread `[unchecked]`. Logos: BHS apparatus; Clines (WBC); Hartley (NICOT).
+1. **13:15 — ketiv or qere?** Apparatus spread `[unchecked]`. Logos: BHS apparatus; Clines (WBC); Hartley (NICOT). *Logos rounds 2–3 (5 Oct 2026):* Andersen and Barnes favour the qere; Lange (Zöckler) the ketiv, on this report's grounds (13:14; אַךְ); Delitzsch the qere, as "I wait for Him, that He may slay me". No source reads serene trust. **Still undecided.** Job's own construction יחל + לְ (29:23; 30:26) shows the qere is idiomatic; 6:11 and 14:14 show the objectless verb is too (WLC).
 2. **14:16–17 — hope or surveillance?** The Job כִּי־עַתָּה pattern favours hope; the Greek and NASB95 read surveillance. Commentary check.
-3. **14:3 — "me" or "him"?** The versions against the MT. Commentary check.
+3. **14:3 — "me" or "him"?** The versions against the MT. Commentary check. **Closed (Logos round 3, 5 Oct 2026):** Clines (WBC, p. 283, via the NET notes) keeps the Masoretic "me" on this report's ground — Job moves back and forth between his own case and others'. `[S: Clines]`; the text-first preference was reached first.
 4. **13:28 — "he" and "rot" or "wineskin"?** The subject (Job or man) and the BHS proposal (כְּרֹקֶב, with the Greek, Syriac and Targum).
 5. **Isa 50:6–9 behind 13:18–28 — design and direction.** Verified in its words; the design and the direction of dependence are open. **Load-bearing (Headline 2); queue for audit before the Sermon 3 backbone.**
 6. **Psalm 44 as a source.** Three exclusive or near-exclusive links in 11–14. Audit with Isa 50.

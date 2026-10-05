@@ -242,7 +242,7 @@ So the sufferer's hope does not rest on the integrity of their ways. Nor does it
    - **The death-wish (6:8–9; 7:15–16; 10:18).** Treat it as Sermon 2 did. Do not skip it and do not rebuke it as sin. Show that Job speaks it to God, and that the round moves from "crush me" (6:9) to "remember me" (14:13). Say plainly that anyone carrying such thoughts should tell someone today. Do not promise what that help will involve.
 4. **"Job was patient" — or "Job lost his faith": neither.**
    - Job's faith is shown in the address, not in calm. He speaks to God at the end of every speech. God will call that speech "right" (42:7).
-   - Preach 14:19 ("you destroy the hope of man") as lament, not as doctrine, and do not soften it. The honest reading holds both 38:2 ("words without knowledge") and 42:7 ("what is right"). The content is limited; the address is right.
+   - Preach 14:19 ("you destroy the hope of man") as lament, not as doctrine, and do not soften it. The honest reading holds both 38:2 ("words without knowledge") and 42:7 ("what is right"): what Job said to God was true to his case and rightly addressed, though spoken without knowledge of God's ways. Do not reduce the verdict to the address alone, since נְכוֹנָה ("what is right") names content (Ps 5:10).
    - James's "steadfastness of Job" (Jas 5:11) is holding on, not serenity. The Greek of 14:19 has ὑπομονή ("steadfastness") for the hope God destroys. It is colour at most: James does not quote the verse.
 5. **Do not answer 14:14 too fast, and do not make 14:13–15 a resurrection creed.**
    - The round ends on hope destroyed (14:19) and on pain (14:22). Let the question stand until the landing.
@@ -303,21 +303,24 @@ Checked against the ESV export for Job 1–2, 4–14, 38 and 42, and for the par
   - **Supply it** if the chain is traced: "The word for 'summoned' is the same word as 'call' in 5:1 and 13:22."
 - **12:4 — "I, who called to God and he answered me".** The ESV makes it first person; the Hebrew has the third person ("the one who called on God", NASB95). The Greek lacks the line.
   - The congregation will hear Job testify that God used to answer him. That is a fair reading of the speaker's intent, but do not build on the first person.
-- **6:14 — kindness.** The ESV makes the friend who withholds kindness the one who "forsakes the fear of the Almighty". The NASB95 reads the Hebrew of the despairing man, who needs kindness "so that he does not forsake the fear of the Almighty". The Hebrew allows both.
+- **6:14 — kindness.** The ESV makes the friend who withholds kindness the one who "forsakes the fear of the Almighty". The NASB95 follows the Masoretic text, which speaks of the despairing man (לַמָּס, "to the despairing"), who needs kindness "so that he does not forsake the fear of the Almighty". The ESV's sense is that of the Syriac and Vulgate, and of proposals to read a verb in place of לַמָּס (BHS; HALOT "→ Commentaries"; NET notes). `[S: Logos round 2]`
   - Movement 2's point stands either way: Job asks for kindness. But do not say the verse rebukes the friends in so many words.
 - **10:15 → 11:15 → 13:8, 10 → 42:8 — lifting the face.** The ESV has "lift up my head", "lift up your face", "show partiality" and "accept his prayer". The idiom נשׂא פָּנִים ("lift the face") that links Job's warning to God's acceptance of Job is lost.
   - Optional colour. If used, say it: "The words God uses — 'I will accept him' — are literally 'I will lift his face', the very phrase Job used when he warned the friends against showing God partiality."
 - **8:8 against 12:7 — "inquire, please" and "ask".** The Hebrew's שְׁאַל־נָא ("please ask") is the same at both verses. The ESV and NASB95 both lose the parody. Not needed for the plan.
 
 **Minor.**
-- 7:20 follows the *tiqqun sopherim* and the Greek ("a burden to you"); the Masoretic text has "to myself". Mention only if the verse is read.
+- 7:20 follows the *tiqqun sopherim* and the Greek ("a burden to you"); the Masoretic text has "to myself". Mention only if the verse is read. Delitzsch and Konkel–Longman (Cornerstone) both accept "to you" — Delitzsch only because the Greek (ἐπὶ σοὶ φορτίον) confirms the tradition (Logos round 4).
 - 6:21 follows the ketiv ("you have now become nothing").
-- 13:15 follows the qere ("I will hope in him"); the ketiv reads "I have no hope". Preach the whole verse.
+- 13:15 follows the qere ("I will hope in him"); the ketiv reads "I have no hope". Preach the whole verse. Neither Delitzsch (qere, "I wait for Him") nor Zöckler in Lange (ketiv) hears the serene trust of the AV's "yet will I trust in him" (Logos round 3).
 - None bears on the plan.
 
 **9:33 — "There is no arbiter" or "Would that there were an arbiter".**
 - **The readings.** The ESV and NASB95 follow the Masoretic לֹא ("there is no"). BHS records לוּ ("would that") in some manuscripts, in the Greek and in the Syriac, with a cross-reference to 16:4. Swete has εἴθε ἦν ὁ μεσίτης ἡμῶν ("would that there were our mediator"). The NIV84 follows לוּ: "If only there were someone to arbitrate between us".
-- **What still needs checking.** The project plan asked for a Logos check on this verse before this backbone: the manuscript spread, and a commentary. The BHS apparatus above answers the first half. A commentary has not yet been consulted.
+- **The commentary check (Logos round, 5 October).**
+  - Lange keeps the Masoretic "there is no". He calls the versions' optative unnecessary and "not suited to the יֵשׁ following", though he grants that the jussive יָשֵׁת ("that he might lay") breathes a wish.
+  - The corpus reverses his grammatical argument. לוּ יֵשׁ ("would that there were") occurs at Num 22:29 ("Would that there were a sword in my hand"). לֹא יֵשׁ occurs nowhere else in the Hebrew Bible (WLC).
+  - So the versions' reading is grammatically at home. The Masoretic reading is unique, though not impossible. No other commentary in the library was found on the point.
 - **Why the plan does not wait on it.** Movement 2 and the landing use 9:33 as Job's longing for someone to stand between him and God. That holds under either reading. Do not make anything turn on "there is no" as a denial. If the sermon is preached from the NIV84, the longing is explicit.
 
 **For the NIV84, if the sermon is preached elsewhere.**
@@ -331,7 +334,7 @@ Checked against the ESV export for Job 1–2, 4–14, 38 and 42, and for the par
 
 ## Warrants
 
-`[T]` 42 · `[I]` 16 · `[S]` 0 · `[S: audit]` 4 (tagged findings; the legend lines excluded). No secondary source carries any element of the plan except the ratings from claim audit 2, which are marked where they stand.
+`[T]` 42 · `[I]` 16 · `[S]` 1 (Logos round 2, 6:14) · `[S: audit]` 4 (tagged findings; the legend lines excluded). No secondary source carries any element of the plan except the ratings from claim audit 2 and one pulpit-text note on 6:14, which are marked where they stand. The 9:33 note reports Lange and tests him against the corpus.
 
 **New verification for this plan** (WLC lemma index and morphology; ESV, NASB95 and NIV84 exports; the ESV exports for Deuteronomy, Psalms and Isaiah):
 - **queue #52, the chance baseline** for the hope bracket and the call-and-answer chain (Keep Honest 6);

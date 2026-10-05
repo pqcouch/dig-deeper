@@ -897,7 +897,7 @@ Job 10:12–14 stands in that line, but inverted. `[T]`: אֶרֶךְ אַפַּ
 - *Assonance of 9:21:* *tām-ʾānî lōʾ-ʾēdaʿ napšî ʾemʾas ḥayyāy* — three short clauses in the first person, ending in "my life". The claim, the confusion, the despair. `[T]` for the forms; `[I]` for the effect.
 
 **Recommended verification.**
-- HALOT or *DCH* on מַסָּה at 9:23 ("trial" or "despair"). The WLC index files it with Deut 4:34's "trials".
+- HALOT or *DCH* on מַסָּה at 9:23 ("trial" or "despair"). *Corrected 5 Oct 2026:* the WLC index gives 9:23 its own homograph (4531 a), apart from the "trials" of Deut 4:34 etc. (4531 b); HALOT (II מַסָּה, from מסס) and BDB give "despair" (Logos round 2).
 - HALOT on סכך at 3:23 and 10:11 (one root or two), and on עֵיפָה at 10:22.
 - A commentary on 9:33 (the לֹא / לוּ question) and 9:19 (the suffix): Clines (WBC), Hartley (NICOT).
 
@@ -1142,7 +1142,7 @@ Job 10:12–14 stands in that line, but inverted. `[T]`: אֶרֶךְ אַפַּ
 **Open.**
 1. **9:33 — לֹא or לוּ?** The grammar and the versions favour the wish; the Masoretic vowels give the denial. Apparatus spread `[unchecked]`. Logos: BHS apparatus and a commentary (Clines).
 2. **9:19 — "who will summon me?"** Is Job voicing God's challenge (Jer 49:19; 50:44), or is the suffix to be emended with the versions? `[S]` routed.
-3. **9:23 מַסָּה — "trial" or "despair"?** The WLC index files it with "trials" (Deut 4:34; 7:19; 29:2). If "trial", the verse says God mocks at the *testing* of the innocent, which the reader knows is the prologue's situation. Lexicon check. *Uncertain.*
+3. **9:23 מַסָּה — "trial" or "despair"?** *Closed, 5 Oct 2026 (correction):* the WLC index files 9:23 under its own homograph (4531 a), not with the "trials" of Deut 4:34; 7:19; 29:2; Ps 95:8 (4531 b) — the first statement here was a homograph-suffix error. HALOT (II מַסָּה, from מסס) and BDB read "despair" `[S: HALOT; BDB]`. The suggested link with the prologue's testing drops to *low*.
 4. **Exod 33–34 in Job 9–10.** Each link is verified in its words; the design is a pattern across two chapters. Add it to the plan's list of cross-reference patterns for audit, with the Exodus plague links (2:12; 3:4).
 5. **Ps 39 and Amos's doxologies as live sources.** Both now meet the overview's two-use rule. Confirm at the overview upgrade.
 6. **10:8 — the Greek's "after You turned".** A retroversion in BHS; whether it reflects a different Hebrew is open.

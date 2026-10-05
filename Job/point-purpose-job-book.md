@@ -107,6 +107,14 @@ The preposition is לְ ("for, on behalf of"). Elihu says the same of himself: "
 - **Swete.** It renders ἐνώπιόν μου ("before me").
 - **The English versions.** NASB95, ESV and NIV84 all have "of me".
 - **Keep honest.** דבר אֶל can mean "concerning" (1 Sam 3:12, "all that I have spoken concerning his house"; Jer 40:16, "you are speaking falsely of Ishmael"). So "of me" is a defensible translation.
+- **The case for "of me" at its strongest (Logos round 3, 5 Oct 2026).** Ortlund ("How Did Job Speak Rightly about God?", *Themelios* 43.3, 2018, pp. 352–53) raises three objections: if only the address counted, "what is right" would be idle; דבר אֶל can include the content of what is said; and אֶל and עַל overlap elsewhere. `[S: Ortlund]` Walton and Longman (*How to Read Job*, 2015, p. 63) read "to me" but restrict it to Job's last words (42:1–6). `[S]`
+- **What the text says to each.**
+  - **Content.** נְכוֹנָה ("what is right, true") names what is said: its other use of speech is Ps 5:10, "there is nothing reliable (נְכוֹנָה) in their mouth". Swete has ἀληθὲς οὐδέν ("nothing true"). So the verdict judges what was said as well as to whom. Ortlund's first point stands.
+  - **Content within address.** Agreed, and consistent with "to me".
+  - **The overlap.** Real elsewhere, but not attested in this book. Every other דבר + אֶל in Job marks the person addressed (2:13; 13:3; 40:27; 42:7a, 9), and Job never has דבר + עַל; speaking "for" God takes לְ (13:7–8; 36:2) (WLC lemma index).
+  - **The restriction to 42:1–6** is not required by the construction, since Job addresses God throughout the dialogue (table (a)). It is one way of holding 38:2 with 42:7.
+  - `[T]` for the data; `[I]` for the weighing.
+- **Net.** "To me" keeps its weight in context, but read the verdict whole: what the friends said to God was nothing, and what they said about him was not right; what Job said to God was. Direction *and* content, not direction alone.
 - **What favours "to me".** Context favours it: the verse's own usage, Job's 13:3 and the address pattern in (a). `[T]` for the data; *moderate–high* on the preposition's weight.
 - **The finding does not depend on the preposition alone.** It rests on (a) and (b) together.
 
@@ -278,6 +286,7 @@ So the answer to the series question is yes: God is worth it, and he has proved 
    - אֵלַי can mean "concerning", and every English version says "of me".
    - The case rests on the pattern — the friends never pray, they speak "for God" (13:7), and Job resolves to speak "to the Almighty" (13:3) — with the preposition as its seal.
    - Say "the Hebrew can be read 'to me' — and the whole book supports it", not "the Hebrew says".
+   - The verdict also judges content: נְכוֹנָה is "what is right". Do not say that Job was right merely because he prayed.
 6. **Leave Elihu alone here.** He is absent from the verdict (42:7 names Eliphaz "and your two friends"). His status is Sermon 7's question, and this sermon should not settle it.
 
 ---
