@@ -7,7 +7,7 @@
 
 **Study text:** NASB95 (Logos export).
 **Pulpit text:** ESV, declared for the series on 28 September 2026 and confirmed for this run. Every ESV quotation below was checked against the Logos export.
-**Date:** 5 October 2026
+**Date:** 5 October 2026 · **Version:** 1.1 (patched 7 October 2026 from claim audit 3; see *What Changed in v1.1*); Logos round 6 notes added 7 October 2026 (see Open Questions)
 
 **Book-overview context:** `Job/book-overview-job.md` (v0.1.1), front-loaded at Phase 0.5. Neighbouring reports consulted at the checking stage:
 - the sweep's Unit 8, 15:1–17:16 (`Job/dig-deeper-job-sweep.md`);
@@ -17,6 +17,7 @@
 - claim audit 2;
 - the Sermon 3 backbone;
 - the Logos round 2 assessment (5 October), whose answers on 16:19 (Ash; the study Bibles; Keil–Delitzsch cited for wording) are the only commentary material in view.
+- **v1.1:** claim audit 3 (`Job/dig-deeper-job-claim-audit-3.md`), which tested this dig's source claims (queue #7, #57, #58, #60–62) with three blind auditors and a window-rank null. Its verdicts are applied in place and tagged `[S: audit 3]`.
 
 **Series context:** the first of the two HIGH solo digs inside Sermon 4 (15:1–21:34). The other is 19:1–29. The unit report for Sermon 4 will be a consolidation dig on 15:1–21:34.
 
@@ -29,7 +30,8 @@
 - `[T]` derivable from the text itself;
 - `[I]` a reasonable inference from the text;
 - `[S]` supplied by a secondary source and held provisionally;
-- `[S: audit]` a verdict of this project's claim audits, accepted.
+- `[S: audit]` a verdict of this project's claim audits, accepted;
+- `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
 > **Counts and chains.**
 > - **Method.** Every count is a count **in the Hebrew**, made against the WLC lemma index (by lemma, never by surface form) unless it says "phrase search". Phrase searches normalise maqqef, paseq and sof pasuq, strip the pointing, and run a second skeletal pass.
@@ -177,7 +179,7 @@ The exegetically strongest claims, each surfaced by several tools:
      - Nine verses later Job swears that there is "no violence (חָמָס) in my hands" (16:17).
      - The law requires two or three witnesses (Deut 19:15) and punishes the false one (19:18–19).
      - Job's body is cast as the hostile witness the law distrusts. Psalm 35, also a psalm of gnashing teeth (35:16), has "malicious witnesses (עֵדֵי חָמָס) rise up" (35:11).
-     - `[T]` for the words; `[I]` for the design. *Moderate–high.*
+     - `[T]` for the words; `[I]` for the design. *v1.0: moderate–high.* **v1.1: moderate.** The triad עֵד + קום + ענה is exclusive, but "a witness rises" is legal stock shared with Deut 19:15–18, Ps 27:12 and Ps 35:11, and Ps 35 is as close a window. Rahlfs asterisks 16:8b, so the Old Greek lacked the clause `[S: audit 3]`.
    - **The umpire's verb.** At 9:33 there was "no umpire" (מוֹכִיחַ, "one who argues, decides"). Eliphaz then mocked him: "Should he argue (הוֹכֵחַ) with useless talk?" (15:3). Now Job hopes that the witness "will argue (וְיוֹכַח) for a man with God, as a son of man for his neighbor" (16:21, literally). All three verses use יכח ("argue, decide a case") (lemma).
    - **The surety.** "Lay down, now, a pledge for me with Yourself (עָרְבֵנִי עִמָּךְ); who is there that will be my guarantor?" (17:3).
      - Job asks God to stand surety for him, and to do it with God.
@@ -206,9 +208,15 @@ The exegetically strongest claims, each surfaced by several tools:
      - **"Appalled."** Job: "You have laid waste (הֲשִׁמּוֹתָ) all my company" (16:7); "The upright will be appalled (יָשֹׁמּוּ)" (17:8). Bildad: "Those in the west are appalled (נָשַׁמּוּ)" (18:20). שׁמם ("be appalled, desolate") occurs in Job only at 16:7, 17:8, 18:20 and 21:5 (lemma).
      - **Light and darkness.** Job: "'The light (אוֹר) is near,' in the presence of darkness (חֹשֶׁךְ)" (17:12). Bildad: "the light of the wicked goes out" (18:5–6), and "He is driven from light (אוֹר) into darkness (חֹשֶׁךְ)" (18:18).
      - **Extinguished.** Job: "my days are extinguished (נִזְעָכוּ)" (17:1). Several manuscripts read נִדְעָכוּ (BHS), Bildad's verb: "the light of the wicked goes out (יִדְעָךְ)" (18:5–6). *Moderate:* the link rests on the variant.
-   - *Surfaced by:* Move 4, Vocabulary, Repetition. *High on each exclusive link; moderate–high on the pattern.* This continues round one's habit of quotation (the 4:1–14:22 report, Headline 3) into the second cycle.
+   - *Surfaced by:* Move 4, Vocabulary, Repetition. *High on each exclusive link.* **v1.1:** the pattern is a **pointed reply, moderate — not lexical design**. A speech-pair baseline ranks 16–17 → 18 99th of 120 pairs (19 dig); queue #59 is closed with claim audit 3 `[S: audit 3]`. This continues round one's habit of quotation (the 4:1–14:22 report, Headline 3) into the second cycle.
 
-3. **Job speaks as the man of affliction in Lamentations 3 and as the Servant of Isaiah: shot, struck on the cheek, handed over — and innocent.** `[T]` for the words; `[I]` for the design; direction of dependence open
+3. **Job speaks in the words of Lamentations 2–3 — mocked, shot, struck on the cheek — and innocent. The Servant is a canonical echo, not a demonstrated design (v1.1).** `[T]` for the words; `[I]` for the design; direction of dependence open
+   - **v1.1 (claim audit 3): the main source is Lamentations 2:10–17.** All three blind auditors reached it independently.
+     - **Window rank.** The window over Lam 2:10–17 ranks 1st of 887 against 16:4–16 (8–9 shared rare lemmas; the next 4–6). It beats every one of 72 arbitrary Job passages of the same length.
+     - **Exclusive items.** שׁפך + לָאָרֶץ with a bodily organ ("poured out on the ground": Lam 2:11 כְּבֵדִי, "my liver"; Job 16:13 מְרֵרָתִי, "my gall"); עָפָר + שַׂק ("dust" + "sackcloth": Lam 2:10; Job 16:15); the reduplicated חמר ("be in ferment": Lam 1:20; 2:11; Job 16:16).
+     - **The mockers.** Lam 2:15–16 supplies the shaken head, the open mouths and the gnashing teeth (16:4, 9–10).
+     - Lam 3:12–13 and 3:30 complete it. *High (words); direction open* `[S: audit 3]`.
+     - **The Servant pattern is low.** Isa 53:9's phrase is low–moderate: its fuller form, "no violence in my hands", is shared with 1 Chr 12:18. The cheek's exclusive partner is Lam 3:30, not Isa 50:6 `[S: audit 3]`.
    - **Lamentations 3** (overview row, moderate; **strengthened**):
      - **Target and kidneys.** "He has… set me up as His target (לְמַטָּרָה). His arrows surround me. Without mercy He splits my kidneys (כִּלְיוֹתַי) open" (16:12–13). Lam 3:12–13: "He bent His bow and set me as a target (כַּמַּטָּרָא) for the arrow. He made the arrows of His quiver to enter into my inward parts (בְּכִלְיוֹתָי)." מַטָּרָה ("target") and כִּלְיָה ("kidney") within one verse of each other occur **only** at Job 16:12–13 and Lam 3:12–13 (lemma; the target sense isolated from the homograph "guard, prison").
      - **Cheek and reproach.** "They have slapped me on the cheek (לְחָיָי) with contempt (בְּחֶרְפָּה)" (16:10). Lam 3:30: "Let him give his cheek (לֶחִי) to the smiter, let him be filled with reproach (בְּחֶרְפָּה)." לְחִי ("cheek") with חֶרְפָּה ("reproach") occurs **only** in these two verses (lemma).
@@ -222,7 +230,7 @@ The exegetically strongest claims, each surfaced by several tools:
      - **Handed over.** "God hands me over (יַסְגִּירֵנִי) to ruffians" (16:11). Swete has παρέδωκεν ("handed over"), the passion verb.
      - claim audit 2 confirmed Isa 50:8–9 at 13:19, 28 (moderate–high) `[S: audit]`. This chapter adds Isa 50:6 and 53:9 to the same servant sequence.
    - **The ruler struck.** At Mic 4:14 [Eng 5:1] the judge of Israel is struck on the cheek with a rod (לְחִי with נכה, "strike"). *Moderate.*
-   - *Surfaced by:* Tool 11 (Moves 1–3), Vocabulary, Christological Reading. *High on the two exclusive Lamentations pairs and the Isaiah phrase; moderate–high on Lamentations 3 as a live source; moderate on the servant pattern.*
+   - *Surfaced by:* Tool 11 (Moves 1–3), Vocabulary, Christological Reading. *High on the two exclusive Lamentations pairs and the Isaiah phrase; moderate–high on Lamentations 3 as a live source; moderate on the servant pattern.* **v1.1:** high on Lam 2:10–17 with Lam 3:12–13, 30; Isa 53:9's phrase low–moderate; the servant pattern low `[S: audit 3]`.
 
 4. **"Be surety for me": Job prays what Hezekiah prayed at the gate of Sheol — and the hope he cannot find ends in God, not in the grave.** **New.** `[T]` for the words; `[I]` for the comparison
    - **The petition.** The imperative of ערב ("stand surety") occurs only three times in the Hebrew Bible, and each time it is a prayer to God (WLC morphology):
@@ -239,12 +247,13 @@ The exegetically strongest claims, each surfaced by several tools:
      - Hezekiah's prayer was answered: "I have heard your prayer (תְּפִלָּתֶךָ), I have seen your tears; behold, I will add (יוֹסִף) fifteen years to your life" (Isa 38:5).
      - Job: "my prayer (תְּפִלָּתִי) is pure" (16:17), the only תְּפִלָּה ("prayer") in Job (lemma); "he who has clean hands will add (יֹסִיף) strength" (17:9, literally; NASB95 "will grow stronger and stronger").
      - *Chance check:* Isaiah 38 ranks 29th of 887 Hebrew Bible chapters for rare lemmas shared with Job 16:16–17:16 (lemma frequency 70 or under). That is the top 3½ per cent, but not distinctive by count alone. The case rests on the identical petition. *Moderate (synthetic), queued.*
+     - **v1.1:** the form is **moderate**, not high. It depends on the Masoretic pointing; the imperative with "me" is the natural form for anyone asking a guarantor; and 17:3b's "strike hands" is Proverbs' surety idiom (ערב + תקע only Job 17:3; Prov 6:1; 11:15; 17:18; 22:26). The Hezekiah frame is **low–moderate**: its other items are ordinary Sheol vocabulary, and Job 17:16 has "bars", not Isa 38:10's "gates", of Sheol `[S: audit 3]`.
    - **Hope, three times in three verses.** "If I hope (אֲקַוֶּה) for Sheol as my house …" (17:13, ESV; NASB95 "look for"); "where now is my hope (תִקְוָתִי)? And who regards my hope (וְתִקְוָתִי)?" (17:15).
      - The verb and the noun share the root קוה ("hope").
      - The round-one Leitwort continues from "You destroy man's hope" (14:19) to "He has uprooted my hope like a tree" (19:10).
      - The Greek of 17:13 is ἐὰν γὰρ ὑπομείνω ("if I endure / wait"), the verb of James's ὑπομονή ("steadfastness").
    - **Where hope goes.** Job's hope has nowhere on earth to go: the grave is "my father", the worm "my mother and my sister" (17:14). But the speech has already sent it to heaven (16:19) and asked God to guarantee it (17:3).
-   - *Surfaced by:* Vocabulary, Repetition, Tool 11, Original Audience. *High on the petition; moderate on the Isaiah 38 pattern.*
+   - *Surfaced by:* Vocabulary, Repetition, Tool 11, Original Audience. *v1.0: high on the petition; moderate on the Isaiah 38 pattern.* **v1.1: moderate on the petition; low–moderate on the pattern** `[S: audit 3]`.
 
 5. **The speech is anchored at both ends of the book: it turns chapter 3's words on Job himself, and it plants words that chapters 19 and 42 answer.** **New** except where marked. `[T]` for the words; `[I]` for the design
    - **Back to chapter 3:**
@@ -493,7 +502,7 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
 
 ### 11. Quotation / Allusion — with Move 4
 
-**Isa 53:9 → 16:17** *(high on the words; direction open)*
+**Isa 53:9 → 16:17** *(v1.0: high on the words. **v1.1: low–moderate** — the exclusive string is short and functional, and its fuller form is shared with 1 Chr 12:18* `[S: audit 3]`*; direction open)*
 
 - **Move 1 — source context.** The fourth Servant Song.
   - The Servant "was assigned a grave with wicked men … because He had done no violence (עַל לֹא־חָמָס עָשָׂה), nor was there any deceit in His mouth" (Isa 53:9).
@@ -517,10 +526,10 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
   - The difference is as important as the likeness.
     - **The Servant's mouth:** it had "no deceit", and he "did not open His mouth" (Isa 53:7).
     - **Job's mouth:** it is full of protest. Job opened his mouth (3:1) and has not shut it.
-  - `[I]` *High on the words; moderate on the type.*
+  - `[I]` *v1.1: low–moderate on the words; the type is low. Keep it as canonical reflection* `[S: audit 3]`.
 - **The Greek.** Isa 53:9 has ἀνομίαν οὐκ ἐποίησεν ("he did no lawlessness"); Job 16:17 has ἄδικον δὲ οὐδὲν ἦν ἐν χερσίν μου ("there was nothing unjust in my hands"). The link is Hebrew-only (Category 1).
 
-**Lamentations 2–3 → 16:7–16** *(high on two exclusive pairs; moderate–high as a live source; direction open)*
+**Lamentations 2–3 → 16:4–16** *(v1.1: **high** — Lam 2:10–17 is the main source, with Lam 3:12–13, 30* `[S: audit 3]`*; direction open)*
 
 - **Move 1 — source context.**
   - Lam 3 is the lament of "the man who has seen affliction because of the rod of His wrath" (3:1).
@@ -540,10 +549,15 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
   - **Shared images.** Job's assault is pictured in the images of Jerusalem's ruin, personified in one man.
   - **A different conclusion.** Lamentations reaches "Perhaps there is hope (תִּקְוָה)" (Lam 3:29) and counsels the sufferer to give his cheek. Job asks "Where now is my hope?" (17:15), and is struck on the cheek in protest.
   - **The appeal goes to the same place.** Both appeal to God against God's own wrath: "The Lord will not reject forever" (Lam 3:31); "Lay down, now, a pledge for me with Yourself" (Job 17:3).
-  - `[I]` *Moderate–high.*
+  - `[I]` *v1.0: moderate–high.*
+  - **v1.1 (claim audit 3).** The source is Lam 2 more than Lam 3.
+    - Lam 2:10–17 ranks 1st of 887 against 16:4–16 and beats every Job-passage null.
+    - Add its exclusives: שׁפך + לָאָרֶץ + organ (Lam 2:11 / 16:13) and עָפָר + שַׂק (Lam 2:10 / 16:15).
+    - Add the shaken head of Lam 2:15 at 16:4.
+    - *High (words)* `[S: audit 3]`.
   - **Cross-book note:** the Lamentations 3:1–33 dig (v1.1) may wish to record these exclusives from the Lamentations side.
 
-**Isa 38:14 (with Ps 119:122) → 17:3** *(high on the petition; moderate on the wider pattern)*
+**Isa 38:14 (with Ps 119:122) → 17:3** *(v1.1: moderate on the petition; low–moderate on the wider pattern* `[S: audit 3]`*)*
 
 - **Move 1 — source context.**
   - Hezekiah, mortally ill (Isa 38:1), "wept bitterly" (38:3) and was told: "I have heard your prayer, I have seen your tears; behold, I will add fifteen years to your life" (38:5).
@@ -559,7 +573,7 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
   - The canon puts an answered form of Job's prayer beside him. `[I]`
   - *Chance check:* Isaiah 38 ranks 29th of 887 chapters for rare lemmas shared with 16:16–17:16. That is high but not distinctive. **The petition carries the case, not the count.** Queued.
 
-**Deut 19:15–19 → 16:8, 17** *(moderate–high)*
+**Deut 19:15–19 → 16:8, 17** *(v1.1: moderate — a legal idiom* `[S: audit 3]`*)*
 
 - **Move 1.**
   - The law of witnesses: "A single witness shall not rise up against a man … on the evidence of two or three witnesses a matter shall be confirmed" (Deut 19:15).
@@ -569,7 +583,7 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
   - Ps 27:12 and Ps 35:11 use the same image of false witnesses rising up. Psalm 35 adds the gnashing teeth (35:16).
 - **What it adds.** Job's suffering "rises up" as a witness against him. In the terms of the law it is a single, malicious witness, and the speech goes on to supply the second, true one (16:19). `[I]`
 
-**Gen 4:10; Isa 26:21 → 16:18** *(moderate–high; queue #26)*
+**Gen 4:10; Isa 26:21 → 16:18** *(Gen 4:10 moderate–high. Isa 26:21, v1.1: one of several partners, with Ezek 24:7–8 as close; Isa 26 as the canonical answer is low–moderate* `[S: audit 3]`*)*
 
 - **Gen 4:10:** "The voice of your brother's blood is crying (צֹעֲקִים) to Me from the ground." Job: "O earth, do not cover my blood (דָמִי), and let there be no resting place for my cry (לְזַעֲקָתִי)." The cry-verbs are cognate (צעק / זעק); BHS cross-refers Gen 4:10.
 - **Isa 26:21:** "the earth will reveal her bloodshed and will no longer cover her slain". כסה ("cover") with דָּם ("blood") and אֶרֶץ ("earth") occurs in one verse at Ezek 24:7, Hab 2:17, Isa 26:21 and Job 16:18 (lemma).
@@ -581,13 +595,13 @@ N/A. The speech has only the narrator's formula, "Then Job answered" (16:1). The
 - Moses calls heaven and earth "to witness against you" (Deut 30:19). עוד ("call to witness") with "the heavens" and "the earth" occurs only in these three verses (lemma).
 - Job turns to the earth (16:18) and to heaven (16:19) as witnesses for him. `[I]`
 
-**Prov 6:1; 17:18 → 17:3** *(moderate; Move 1 only)* — See Vocabulary. Proverbs forbids the wise man to strike hands for a neighbour; Job asks God to do it.
+**Prov 6:1; 17:18 → 17:3** *(moderate; Move 1 only)* — See Vocabulary. Proverbs forbids the wise man to strike hands for a neighbour; Job asks God to do it. *v1.1:* claim audit 3 confirms ערב + תקע only at Job 17:3 and Prov 6:1; 11:15; 17:18; 22:26 `[S: audit 3]`.
 
-**Ps 22:8 [Eng 22:7] → 16:4** *(moderate; queue #7)*
+**Ps 22:8 [Eng 22:7] → 16:4** *(v1.1: low; queue #7 closed)*
 
 - "I could … shake my head (וְאָנִיעָה … רֹאשִׁי) at you" (16:4).
 - נוע ("shake") with רֹאשׁ ("head") occurs at 2 Kgs 19:21 = Isa 37:22, Lam 2:15, Ps 22:8, Ps 109:25 and Job 16:4 (lemma).
-- Job says he *could* do to the friends what the mockers of Ps 22 and Lam 2 did. It is a fourth Psalm 22 touchpoint for queue #7, but a common idiom. *Moderate.*
+- Job says he *could* do to the friends what the mockers of Ps 22 and Lam 2 did. It is a fourth Psalm 22 touchpoint for queue #7, but a common idiom. *v1.1: low.* Ps 22 is not distinctive as a source in Job (6th of 36 comparable psalms), and Lam 2:15, already the source of 16:9–16, is the closer partner `[S: audit 3]`.
 
 **Smaller contacts** *(Move 1 only)*
 
@@ -824,7 +838,7 @@ For the servant typology, the four tests:
 - **NT precedent of the same kind:** met. Isa 53:9 is applied to Christ in 1 Pet 2:22, and Isa 50:6 is enacted in the passion.
 - **Escalation:** met.
 - **Authorial pattern:** the text uses the Servant's words (16:17) but does not signal a type, so this test is not met.
-- Three of four: moderate.
+- Three of four: moderate on the tests. *v1.1: low on the text* `[S: audit 3]`.
 
 **How the speech points to Christ.**
 - **The witness and advocate (16:19–21).**
@@ -839,7 +853,7 @@ For the servant typology, the four tests:
 - **The Servant (16:10, 17).**
   - "Although there is no violence in my hands" (16:17) is the phrase of Isa 53:9. 1 Pet 2:22 applies Isa 53:9 to Christ: "who committed no sin, nor was any deceit found in His mouth".
   - The struck cheek (16:10; Isa 50:6) is fulfilled when "others slapped Him" (Matt 26:67), and at John 18:22–23.
-  - `[I]` *Moderate.*
+  - `[I]` *v1.1: low as a demonstrated pattern.* Claim audit 3 rates the Servant pattern low and Isa 53:9's phrase low–moderate. **Keep it as canonical reflection.** Christians have heard Job's words with the Servant's, and 1 Pet 2:22 licenses that hearing, but Job's words are closer still to Lamentations `[S: audit 3]`.
 - **The struck Christ demands a witness.**
   - When struck, Jesus answers: "If I have spoken wrongly, testify (μαρτύρησον) of the wrong; but if rightly, why do you strike Me?" (John 18:23).
   - The struck innocent appeals to testimony, as Job does (16:8, 19). `[I]` *Moderate (conceptual).*
@@ -855,7 +869,7 @@ For the servant typology, the four tests:
 - **The gospel grounding:** the witness Job could only long for, and the surety he asked God to provide, are given in Christ. Our hope does not go down to Sheol with us. It is held by the one who "always lives to make intercession".
 - **Christ as hero:** not Job's boldness, but the Advocate who argues our case with God, and the Guarantor who is himself God.
 
-**Confidence:** *high* on the advocate trajectory; *moderate–high* on the surety; *moderate* on the servant type.
+**Confidence:** *high* on the advocate trajectory; *moderate–high* on the surety; *low* on the servant type (v1.1; *moderate* in v1.0).
 
 ### Difficult / Contested Verses
 
@@ -914,13 +928,13 @@ For the servant typology, the four tests:
   - the reduplicated חמר ("be in ferment"; Lam 1:20; 2:11);
   - gnashing; the root "desolate"; the people's mockery.
   - *Surfaced by:* Tool 11, Vocabulary, Translations.
-  - *Moderate–high.*
+  - *v1.1: high.* Lam 2:10–17 is the main source, with Lam 3:12–13, 30, and all three auditors of claim audit 3 reached it `[S: audit 3]`.
 - **The Servant sequence, adding Isa 50:6 and 53:9** to audit 2's Isa 50:8–9.
   - *Surfaced by:* Tool 11, Christological Reading.
-  - *High on Isa 53:9's phrase; moderate on the pattern.*
+  - *v1.1: low–moderate on Isa 53:9's phrase; low on the pattern* `[S: audit 3]`.
 - **The surety petition, shared only with Isa 38:14 and Ps 119:122.**
   - *Surfaced by:* Vocabulary (morphology), Tool 11, Biblical Theology.
-  - *High on the words; moderate on the Isaiah 38 pattern.*
+  - *v1.1: moderate on the petition; low–moderate on the Isaiah 38 pattern* `[S: audit 3]`.
 - **Hope going down into the dust:** קוה + תִּקְוָה ×2 at 17:13–15; the feminine plural "they will go down" (17:16); 14:19 → 17:15 → 19:10.
   - *Surfaced by:* Repetition, Original Languages, Move 4.
   - *High.*
@@ -981,17 +995,25 @@ For the servant typology, the four tests:
 
 1. **The identity of the witness (16:19–21).** God, a heavenly advocate, or neither? The text favours God appealed to against God (17:3; 16:20). **Logos round 4 (5 Oct):** Delitzsch takes the witness to be God himself — "Job appeals from God to God … *nemo contra Deum, nisi Deus ipse*" — and confirms Gen 4:10, Ezek 24:7–8 and Isa 26:21 at 16:18, שָׂהֵד as an Aramaism (Greek συνίστωρ), and 15:20 at 16:22. Each was reached here first. `[S: Delitzsch]` **Answered for the house reading; option (b), an angelic advocate, remains a minority view to report.**
 2. **16:20 מְלִיצַי** — "my scoffers" or "my mediator(s)"? **Closed (Logos rounds 4–5, 5 Oct): "my scoffers".** HALOT's entry for the noun מֵלִיץ ("interpreter, envoy, spokesman; interceding angel") lists Gen 42:23; 2 Chr 32:31; Isa 43:27; Job 33:23 as every biblical reference, and **not** Job 16:20. Its entry for ליץ puts 16:20, queried, under the hiphil "scoff, deride". Delitzsch reads "my mockers" (Ps 119:51); the index parses a participle "my scoffers". BHS's conjecture ("my mediator, my friend") and the NIV84 ("My intercessor is my friend") take the minority reading. `[S: HALOT; Delitzsch]` **Pulpit:** the ESV carries the majority reading; if preaching from the NIV84, say that it follows a conjecture.
-3. **17:3 and Isa 38:14** — the identical petition. Is it designed, or a shared formula of prayer (with Ps 119:122)? **Queue for audit, with a rival search.**
-4. **Lamentations 2–3 as a source** — direction of dependence, and whether the contacts reach beyond 16:7–16 and 19:8. **Queue (extends the overview row).**
-5. **The Bildad pattern (16–17 → 18)** — a design, or the natural reuse of a shared vocabulary of the wicked's end? A chance baseline across the second cycle is needed. **Queue.**
+3. **17:3 and Isa 38:14** — the identical petition. Is it designed, or a shared formula of prayer (with Ps 119:122)? **Audited (claim audit 3):** the form is moderate, a natural prayer form beside Proverbs' surety idiom; the Hezekiah frame is low–moderate `[S: audit 3]`.
+4. **Lamentations 2–3 as a source** — direction of dependence, and whether the contacts reach beyond 16:7–16 and 19:8. **Audited (claim audit 3):** the main source at Job 16 is Lam 2:10–17 (high); Lam 3:1–9 at 19:6–20 is moderate–high; the direction stays open `[S: audit 3]`.
+5. **The Bildad pattern (16–17 → 18)** — a design, or the natural reuse of a shared vocabulary of the wicked's end? A chance baseline across the second cycle is needed. **Answered:** the speech-pair baseline (19 dig) ranks 16–17 → 18 99th of 120 pairs. It is a pointed reply, not lexical saturation. Queue #59 is closed with claim audit 3.
 6. **17:6 תֹפֶת** and **17:16 בַּדֵּי** — **both closed (Logos rounds 4–5, 5 Oct).** תֹּפֶת: HALOT "spittle" (a hapax, from an onomatopoeic root "spit"), so "one at whom men spit". בַּדֵּי: HALOT and BHS both offer conjectures towards the Greek's μετ᾽ ἐμοῦ ("with me"): HALOT reads הַעִמָּדִי, and BHS *l frt* בִּידִי. **Keep the Masoretic text.** The construct plural בַּדֵּי occurs in Job only at 17:16 and 18:13, where Bildad answers it ("the parts of his skin"), and elsewhere only of the ark's poles (Exod 25:13; 27:6; 37:4) (WLC). The echo in 18:13 is evidence that Bildad heard בַּדֵּי. Read "the bars" (or "parts, recesses") of Sheol. `[T]` for the forms; `[S: HALOT; BHS]` for the conjectures. **Pulpit:** the ESV keeps the Hebrew ("the bars of Sheol"); the NASB95 follows the Greek ("with me to Sheol"), as it does at 14:3.
 7. **The setumot of the second cycle** — **closed (5 Oct).** The BHS export in the folder has setumot after 15:35, 17:16, 18:21 and 21:34, a petuḥah after 20:29, and **no marker after 19:29**, which Patrick confirmed on screen. The WLC transcription has a setumah after 19:29, so the WLC and BHS differ there. Across the book BHS has 26 petuḥot (identical to the WLC) and 12 setumot (the WLC has 13). Spread across other manuscripts stays `[unchecked — apparatus spread]`.
 8. **The Greek asterisks** — the Old Greek lacked about a fifth of the speech. The Göttingen apparatus (not owned) would show more.
 
 **Added by Logos round 4 (5 Oct 2026), corpus-checked.**
 
-- **1 Chr 12:18 → 16:17, 21** *(moderate–high on the words; direction open).* David at Ziklag: "if to betray me to my adversaries, although there is no violence in my hands (בְּלֹא חָמָס בְּכַפַּי), may the God of our fathers see and rebuke (וְיוֹכַח)". Job: "although there is no violence in my hands (עַל לֹא־חָמָס בְּכַפָּי)" (16:17) … "that he may argue (וְיוֹכַח)" (16:21). חָמָס + כַּף with the negative occurs only at 1 Chr 12:18 and Job 16:17 (Isa 59:6 and Jonah 3:8 are positive); חָמָס + יכח in one verse only at 1 Chr 12:18; the exact form וְיוֹכַח only at 1 Chr 12:18 and Job 16:21 (WLC lemma index; חֶסֶד control passed). The oath of innocence with the call on God to judge. Chronicles closes the Ketuvim, so it is read forward from Job. `[T]` for the data. **Queue #62.**
+- **1 Chr 12:18 → 16:17, 21** *(moderate–high on the words; direction open).* David at Ziklag: "if to betray me to my adversaries, although there is no violence in my hands (בְּלֹא חָמָס בְּכַפַּי), may the God of our fathers see and rebuke (וְיוֹכַח)". Job: "although there is no violence in my hands (עַל לֹא־חָמָס בְּכַפָּי)" (16:17) … "that he may argue (וְיוֹכַח)" (16:21). חָמָס + כַּף with the negative occurs only at 1 Chr 12:18 and Job 16:17 (Isa 59:6 and Jonah 3:8 are positive); חָמָס + יכח in one verse only at 1 Chr 12:18; the exact form וְיוֹכַח only at 1 Chr 12:18 and Job 16:21 (WLC lemma index; חֶסֶד control passed). The oath of innocence with the call on God to judge. Chronicles closes the Ketuvim, so it is read forward from Job. `[T]` for the data. **v1.1: moderate.** It is a shared oath-of-innocence formula: Gen 31:42 stands behind 1 Chr 12:18, and Isa 53:9 is as close to 16:17. Direct dependence is not shown `[S: audit 3]`.
 - **"His friend" (רֵעֵהוּ): 6:14 → 12:4 → 16:21 → 42:10** *(moderate–high).* The singular "his friend" (7453 with the 3ms suffix) in Job: kindness "from his friend" owed to the despairing (6:14); "a laughingstock to his friend" (12:4); the witness arguing "for a son of man with his friend" (16:21); and "when he prayed for his friend(s)" (42:10) (WLC; 39:8 מִרְעֵהוּ, "his pasture", excluded). Lange (on 42:7) says God "fulfils literally the wish uttered by Job (ch. 16:21)". The irony runs both ways: Job longs for someone to argue his case against his friend; at the end he prays for his friend. `[T]` for the chain; `[S: Lange]` for the fulfilment. *Echo Table candidate for the overview upgrade.*
+
+**Added by Logos round 6 (7 Oct 2026), corpus-checked** (`claude/job-logos-answers-round-6-assessment.md`).
+
+- **Lamentations — history of interpretation.** Delitzsch compares 16:13 (the gall poured out) with Lam 2:11, and 16:16 (the reduplicated "in ferment") with Lam 1:20 and 2:11. He also reads 16:15 עֹלַלְתִּי ("I have dealt with, defiled") by Lam 3:51 עוֹלְלָה. Andersen and Konkel–Longman draw no comparison. `[S: Delitzsch]`
+  - The two rarest Lam 2 items therefore have a major commentator behind them. The rating stays **high**.
+  - The WLC files 16:15 under a different homograph (5953 d) from Lamentations' poel "deal severely" (5953 a: Lam 1:22; 2:20; 3:51). If Delitzsch is right, it is a fourth Lamentations item in 16:13–16. **Queue #91, possible–moderate.**
+- **17:3.** Delitzsch calls עָרְבֵנִי "a word of entreaty which occurs also in Hezekiah's psalm, Isa 38:14, and Ps 119:122". He reads the hand-striking by Prov 6:1, makes עִמָּךְ ("with Yourself") the point, and cites Heb 7:22 (ἔγγυος). This is the audit's verdict exactly: a shared prayer word, moderate, with Proverbs' idiom beside it. It also supports the God-against-God reading. `[S: Delitzsch]`
+- **16:8 כַּחַשׁ ("my leanness").** HALOT gives 1. "leanness" at 16:8, alternatively 2. "lie, deception", with the Greek, Aquila and the Vulgate. In its five other verses the word means "lie" (Hos 7:3; 10:13; 12:1; Nah 3:1; Ps 59:13; WLC). The Greek line "and my lie (τὸ ψεῦδός μου) rose up in me" is asterisked in Rahlfs, so it is the Hexaplaric supplement. Delitzsch reads "a wasting away". Job's wasted body rises and testifies against him as a *lying* witness — the witness law's case. **The forensic reading of 16:8 rises to moderate–high**; Deut 19:16 itself stays moderate `[S: HALOT]`.
 
 **Closed in this dig.**
 
@@ -1014,14 +1036,15 @@ For the servant typology, the four tests:
 1. **Intertextual Map — Lam 3 row.**
    - Add the two exclusive pairs (16:12–13 / Lam 3:12–13; 16:10 / Lam 3:30), the reduplicated חמר (16:16; Lam 1:20; 2:11), and gnashing (Lam 2:16).
    - Raise the row from *moderate* to *moderate–high*. The direction stays open.
+   - **v1.1:** raise it to **high** and re-key it to **Lam 2:10–17** at 16:4–16, with Lam 3:12–13, 30 `[S: audit 3]`.
 2. **Intertextual Map — new rows:**
-   - **Isa 53:9 → 16:17**, high on the phrase;
-   - **Isa 38:14 (with Ps 119:122) → 17:3**, high on the petition, moderate on the pattern;
-   - **Deut 19:15–19 → 16:8**, moderate–high;
+   - **Isa 53:9 → 16:17**, high on the phrase (*v1.1: low–moderate*);
+   - **Isa 38:14 (with Ps 119:122) → 17:3**, high on the petition, moderate on the pattern (*v1.1: moderate; low–moderate*);
+   - **Deut 19:15–19 → 16:8**, moderate–high (*v1.1: moderate*);
    - **Deut 4:26; 30:19; 31:28 → 16:18–19**, moderate.
 3. **Christological Trajectory.**
    - **The mediator sequence.** Add **17:3 (the surety) → Heb 7:22** to 9:33 → 16:19–21 → 19:25 → 33:23.
-   - **The type section.** It cites Isa 50:6 for 16:10. Add Isa 53:9 for 16:17, with 1 Pet 2:22.
+   - **The type section.** It cites Isa 50:6 for 16:10. Add Isa 53:9 for 16:17, with 1 Pet 2:22. *v1.1:* present the Servant as canonical reflection (low as a pattern), and give Lam 3:30 as the textual partner of 16:10 `[S: audit 3]`.
    - **The keep-honest note.** Add that "son of man" at 16:21b is asterisked in the Greek.
 4. **Text and Versions.**
    - **9:33:** the WLC index files the word under לוּ ("if only"), and 16:4 has לוּ יֵשׁ.
@@ -1046,6 +1069,26 @@ For the servant typology, the four tests:
 
 ---
 
+## What Changed in v1.1
+
+Patched on 7 October 2026 from `dig-deeper-job-claim-audit-3.md`. Nothing else in the report was altered. The structure, the address test, the internal echoes, the grammar, the textual notes and the pulpit notes all stand.
+
+| Location | v1.0 | v1.1 |
+|---|---|---|
+| Headline 1 | Deut 19:16 at 16:8, moderate–high | **Moderate.** A legal idiom shared with Ps 27:12 and 35:11; Rahlfs asterisks 16:8b. The three עֵד verses and the umpire's verb stand |
+| Headline 2 | Bildad's reply as a pattern, moderate–high | **A pointed reply, moderate.** Not lexical design (speech-pair baseline; #59 closed) |
+| Headline 3 | Lamentations 3 and the Servant | **Lamentations 2:10–17 is the main source (high)**, with Lam 3:12–13, 30. It was found by all three auditors and beats every Job-passage null. The Servant pattern is **low**; Isa 53:9's phrase is low–moderate |
+| Headline 4 | The surety petition high; the Hezekiah pattern moderate | **Petition moderate; frame low–moderate.** Proverbs' surety idiom sits beside it; Job 17:16 has "bars", not "gates" |
+| Tool 11 | Isa 53:9 high; Lam 2–3 moderate–high; Isa 38 high / moderate; Deut 19 moderate–high; Isa 26:21 moderate–high; Ps 22:8 moderate | Isa 53:9 **low–moderate**; Lam 2–3 **high** (re-keyed to Lam 2); Isa 38 **moderate / low–moderate**; Deut 19 **moderate**; Isa 26 as the answer **low–moderate**; Ps 22:8 **low** |
+| Christological Reading | Servant type moderate | **Low as a pattern; keep as canonical reflection.** The witness, advocate and surety trajectories stand |
+| Convergent Findings | Lamentations moderate–high; Servant moderate; surety high | Lamentations **high**; Servant **low**; surety **moderate** |
+| Open Questions 3, 4, 5; 1 Chr 12:18 | queued | answered by the audit; 1 Chr 12:18 **moderate** (shared formula) |
+| Book-Overview Tensions 1–3 | as proposed | revised to match |
+
+**Ratings that rested on a window rank** are not used. This dig's Isaiah 38 rank (29th of 887) was already marked non-distinctive. The Lam 2 rank is the one rank in the round that beats the Job-passage null.
+
+---
+
 ## Text-First Declaration
 
 **Secondary sources present in context:**
@@ -1056,7 +1099,8 @@ For the servant typology, the four tests:
 - the 4:1–14:22 consolidation report and its solo digs;
 - claim audit 2;
 - the Sermon 3 backbone;
-- the Logos round 2 assessment (Ash, the study Bibles and Keil–Delitzsch on 16:19; HALOT and BDB on שָׂהֵד).
+- the Logos round 2 assessment (Ash, the study Bibles and Keil–Delitzsch on 16:19; HALOT and BDB on שָׂהֵד);
+- **v1.1:** claim audit 3, whose verdicts were applied after the run.
 
 All were produced in this project or are Patrick's library returns. No commentary was opened in this run.
 
@@ -1084,7 +1128,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 - Swete and Rahlfs were read for both chapters. SBLGNT was used for ἔγγυος, παράκλητος and μαρτύρησον.
 - Mic 4:14 [Eng 5:1] and Jonah 2:7 are given in paraphrase, not quoted, because the Twelve's English exports were not staged this run.
 
-**Warrant counts** (tags in the report body, excluding the legend): `[T]` 71 · `[I]` 42 · `[S]` 5 (including `[S: HALOT; BDB]`) · `[S: audit]` 4. No Headline rests on an `[S]` item alone.
+**Warrant counts** (tags in the report body, excluding the legend): `[T]` 71 · `[I]` 42 · `[S]` 5 (including `[S: HALOT; BDB]`) · `[S: audit]` 4 · `[S: audit 3]` 26 (v1.1). No Headline rests on an `[S]` item alone.
 
 **Phase 10.5 gate.**
 - **Controls.** Every "only" and every chain was rerun by lemma with the חֶסֶד positive control passing (6:14; 10:12; 37:13).

@@ -3,12 +3,12 @@
 **Primary texts:** the BHS text and apparatus (Logos exports, `_texts/logos-exports/01-Old-Testament/03-Ketuvim/02-Job-BHS.txt` and `02-Job-BHS-App.txt`), read before any English, with the WLC lemma and morphology index (`_texts/hebrew-wlc/`) for every count and chain. Swete for the Greek wording, with the Rahlfs export for the Hexaplaric signs. SBLGNT for every New Testament check.
 **Study text:** NASB95 (Logos export).
 **Pulpit text:** ESV (Logos export), declared for the series on 28 September 2026 and confirmed for this run. NIV84 renderings come from its export.
-**Date:** 5 October 2026
+**Date:** 5 October 2026 · **Version:** 1.1 (patched 7 October 2026 from claim audit 3; see *What Changed in v1.1*); Logos round 6 notes added 7 October 2026 (see Open Questions)
 **Mode:** Fresh Exegesis — **a consolidation run for series Unit 4 (Sermon 4)**. It builds on two completed solo digs, 16:1–17:16 and 19:1–29 (both 5 October 2026, with the Logos rounds 2–5 corrections), and it works the four speeches that had no solo dig — Eliphaz (15), Bildad (18), Zophar (20) and Job's reply (21) — fresh from the Hebrew. It adds the work that only the whole round makes possible: who is addressed, who answers whom in whose words, and what the round as a whole is about. **The two solo digs are not superseded**; they remain the verse-level record for 16–17 and 19, and this report points to them rather than repeating them.
-**Book-overview context:** `Job/book-overview-job.md` (v0.1.1, Draft), front-loaded at Phase 0.5; the sweep (Units 8–10); claim audit 2 (3 October 2026). No claim from this round has yet been audited; the queue's Sermon 4 items are listed under Book-Overview Tensions and in the closing note on triggers.
+**Book-overview context:** `Job/book-overview-job.md` (v0.1.1, Draft), front-loaded at Phase 0.5; the sweep (Units 8–10); claim audit 2 (3 October 2026). No claim from this round had been audited at v1.0. **v1.1:** claim audit 3 (`Job/dig-deeper-job-claim-audit-3.md`) has since tested this report's source and design claims (queue #56, #71–79) with three blind auditors and a window-rank null. Its verdicts are applied in place and tagged `[S: audit 3]`.
 **Series context:** Sermon 4 of the nine-sermon series: the second round of the debate, 15:1–21:34.
 
-Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally · `[S: audit]` a verdict of this project's claim audits, accepted.
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally · `[S: audit]` a verdict of this project's claim audits, accepted · `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
 > **How this report was made.** Findings carried over from the two solo digs were verified there and are marked *(16–17 dig)* or *(19 dig)*. Findings marked **new** were verified for this run against the WLC lemma and morphology index (`~/j1521/chk_helpers.py`, `base.py`), with the positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed before any search. **Counts are in the Hebrew and name the WLC** unless marked otherwise. A chain is a claim about lemmas, never about English words.
 >
@@ -812,15 +812,20 @@ The exegetically strongest claims, each surfaced by several tools:
    - *Surfaced by:* Structure (the address test), Repetition, Linking Words, Move 4. *High on the data; moderate–high on the design.*
 
 2. **The friends' portrait of the wicked man's end is drawn from the prologue's list of Job's losses — fire from heaven, the sword, the fallen house, the lone survivor, the dead children, the diseased skin, the swallowed wealth — and from Sodom.** **New** as a pattern. `[T]` for each verbal link; `[I]` for the pattern
+   - **v1.1 (claim audit 3): a reader-level resonance, not a demonstrated design.** The links are verified. But the portraits beat chance only on a list of elements taken from the portraits themselves; on a list drawn from the prologue they are within chance, and Job 27:13–23 is as dense. The irony is plain to a reader who knows chapters 1–2, and is strongest at 18:13 (skin), 18:19 (no survivor, no offspring) and 20:26 (fire). Sodom is reframed below `[S: audit 3]`.
    - **Fire from God.** "The fire of God fell from heaven (מִן־הַשָּׁמַיִם) … and consumed them (וַתֹּאכְלֵם)" (1:16) → "fire consumes (אָכְלָה) the tents of the corrupt" (Eliphaz, 15:34); "unfanned fire will devour him (תְּאָכְלֵהוּ)" and "the heavens (שָׁמַיִם) will reveal his iniquity" (Zophar, 20:26–27) → "the fire has consumed their remnant" (Eliphaz, 22:20). אֵשׁ ("fire") with אכל ("consume") in Job: 1:16; 15:34; 20:26; 22:20; 31:12 (lemma).
    - **The sword.** The Sabeans and Chaldeans killed the servants "with the edge of the sword" (1:15, 17) → the wicked man "is destined for the sword" (15:22).
    - **The house and tent.** The wind struck the house and it fell on the young people (1:19) → "houses no one would inhabit" (15:28); "He is torn from the security of his tent … There dwells in his tent nothing of his" (18:14–15); "The increase of his house will depart" (20:28).
    - **The survivor.** Four messengers each said "I alone have escaped" (1:15–19) → the wicked man has "no … survivor (שָׂרִיד) where he sojourned" (18:19); "Nothing remains (שָׂרִיד)" (20:21); fire "will consume the survivor (שָׂרִיד) in his tent" (20:26). שָׂרִיד in Job: 18:19; 20:21, 26; 27:15 (lemma).
    - **The children.** Job's sons and daughters died together (1:18–19) → "He has no offspring or posterity among his people" (18:19); "His sons favor the poor" (20:10). Spoken to a bereaved father (sweep).
    - **The skin and the wealth.** Job was struck "from the sole of his foot to the crown of his head" (2:7) → "His skin is devoured" (18:13). God said the Accuser had incited him "to swallow (לְבַלְּעוֹ)" Job (2:3) → the wicked man "swallows (בָּלַע) riches, but will vomit them up" (20:15, 18) (sweep).
-   - **Sodom.** Bildad: "Brimstone (גָפְרִית) is scattered on his habitation" (18:15). Zophar: God "will rain (וְיַמְטֵר) it on him" (20:23). The LORD "rained (הִמְטִיר) brimstone (גָּפְרִית) and fire on Sodom" (Gen 19:24); מטר with גָּפְרִית occurs only at Gen 19:24, Ezek 38:22 and Ps 11:6 ("Upon the wicked He will rain snares; fire and brimstone"). Bildad and Zophar each supply half. Ps 11:6 adds "Fire and brimstone and burning wind will be the portion (מְנָת) of their cup" — Zophar's closing "portion" (20:29) and Job's "let him drink of the wrath" (21:20) are its other halves. And Zophar's poison is the Song of Moses' "vine of Sodom" (Deut 32:32–33; Headline 5). The prologue's "fire of God fell from heaven" (1:16) is the fire that fell on Sodom "from the LORD out of heaven" (Gen 19:24); the friends' portraits read Job's disaster as Sodom's. `[T]` for each verse; `[I]` for the composite. *Moderate.*
+   - **Sodom.** Bildad: "Brimstone (גָפְרִית) is scattered on his habitation" (18:15). Zophar: God "will rain (וְיַמְטֵר) it on him" (20:23). The LORD "rained (הִמְטִיר) brimstone (גָּפְרִית) and fire on Sodom" (Gen 19:24); מטר with גָּפְרִית occurs only at Gen 19:24, Ezek 38:22 and Ps 11:6 ("Upon the wicked He will rain snares; fire and brimstone"). Bildad and Zophar each supply half. Ps 11:6 adds "Fire and brimstone and burning wind will be the portion (מְנָת) of their cup" — Zophar's closing "portion" (20:29) and Job's "let him drink of the wrath" (21:20) are its other halves. And Zophar's poison is the Song of Moses' "vine of Sodom" (Deut 32:32–33; Headline 5). The prologue's "fire of God fell from heaven" (1:16) is the fire that fell on Sodom "from the LORD out of heaven" (Gen 19:24); the friends' portraits read Job's disaster as Sodom's. `[T]` for each verse; `[I]` for the composite. *v1.0: moderate.* **v1.1: low–moderate (motif).**
+     - **Keep 18:15** as a Sodom-type motif: "brimstone" alone evokes Sodom, through Deut 29:22 [Eng 29:23] as much as Gen 19:24. Rahlfs asterisks the brimstone line.
+     - **Read 20:23 with Ps 78:49 as the major partner.** "He sends his burning anger upon …" (יְשַׁלַּח־ב־ חֲרוֹן אַפּוֹ) occurs exactly only at Ps 78:49 and Job 20:23, and the same psalm has God "rain" food and strike Israel "while their food was in their mouths" (78:24–31). Ps 11:6 is a minor partner.
+     - **Drop 20:29:** its חֵלֶק ("portion") is not Ps 11:6's מְנָת. 20:29 is a Job-internal refrain with 27:13.
+     - **Drop 1:16 ~ Gen 19:24:** the exact אֵשׁ אֱלֹהִים ("fire of God") with "from heaven" and "consume" occurs only at 2 Kgs 1:12 and Job 1:16 `[S: audit 3]`.
    - **What the pattern does.** The friends do not name Job. Their "wicked man" suffers what Job has suffered. The reader who knows the prologue knows why these things happened, and so knows that the portraits are false of Job. `[I]` *Moderate–high.*
-   - *Surfaced by:* Move 4 (the opening unit held open), Vocabulary, Tool 11, Who Am I?. *High on the words; moderate–high on the pattern.*
+   - *Surfaced by:* Move 4 (the opening unit held open), Vocabulary, Tool 11, Who Am I?. *High on the words.* **v1.1: the pattern is a reader-level resonance; design not demonstrated** `[S: audit 3]`.
 
 3. **Each friend turns Job's own words against him — and Zophar turns Job's two witnesses, heaven and earth, and his Redeemer's "rise".** **New** except where marked. `[T]` for each verbal link; `[I]` for the pattern
    - **Eliphaz answers Job's curse and Job's tree.**
@@ -865,7 +870,7 @@ The exegetically strongest claims, each surfaced by several tools:
    - **Proverbs quoted and questioned.** נֵר רְשָׁעִים יִדְעָךְ ("the lamp of the wicked goes out") is a proverb, word for word: Prov 13:9; 24:20; Job 21:17 only (phrase search; sweep). Job prefixes כַּמָּה ("how often?"). Prov 13:2–13 ranks 16th of 887 windows against Job 21:7–26 (top 2%); it also has "the one whose way is blameless (תָּם)" (13:6) beside 21:23's תֻּמּוֹ. *Job does not deny the proverb; he asks how often it is true.* *High.*
    - **Psalm 1 quoted and questioned.** "The counsel of the wicked (עֲצַת רְשָׁעִים)" occurs only at Ps 1:1; Job 10:3; 21:16; 22:18 (phrase search). "Like chaff (וּכְמֹץ) which the storm carries away … before the wind (לִפְנֵי־רוּחַ)" (21:18) is the image of Ps 1:4 ("like chaff which the wind drives away"; מֹץ + רוּחַ only Ps 1:4; 35:5; Isa 17:13; Job 21:18). Job disowns the counsel of the wicked (21:16) and asks how often the wicked are like chaff (21:18). *Moderate–high* on the words; Ps 1 is not distinctive by window (178th) — two phrases, not a pattern.
    - **A negative result.** Psalm 73, the psalm a preacher reaches for here, is **not** distinctive against 21:7–26 (190th of 887). Jeremiah's "Why has the way of the wicked prospered?" shares the exclusive pair מַדּוּעַ + רְשָׁעִים with 21:7 (sweep) but ranks 156th. Job's sources here are Proverbs and Psalm 1, the wisdom of the two ways; the friends' doctrine is quoted Scripture. `[T]`
-   - *Surfaced by:* Move 4, Tool 11, the baselines, Translations. *High on each link; moderate–high on the clause-by-clause design.* Eliphaz then quotes two of Job's lines back to him (21:14 → 22:17; 21:16 → 22:18; overview, Table B).
+   - *Surfaced by:* Move 4, Tool 11, the baselines, Translations. *High on each link.* **v1.1: pointed answers, moderate — not "clause by clause".** In a speech-pair baseline, Zophar 20 → Job 21 ranks 46th–95th of 120 pairs. Round two taken together puts Job 21 near the top, but round three does too. The case rests on marked rejoinders: the opening ("consolations", 15:11 → 21:2), the lamp proverb quoted verbatim, "For you say" (21:28, conflating Bildad's 8:22 and 18:21), "lie in the dust" and "sweet". Rahlfs asterisks 21:23b and 21:28b `[S: audit 3]`. Eliphaz then quotes two of Job's lines back to him (21:14 → 22:17; 21:16 → 22:18; overview, Table B).
 
 5. **Inside the friends' three portraits stands the round's other story — the witness, the surety and the Redeemer — and both sides draw on the same Scripture: the friends for the wicked man's end, Job for the innocent sufferer and his Redeemer.** `[T]` for the words; `[I]` for the contrast
    - **Job's case grows across his three speeches** (16–17 and 19 digs):
@@ -873,15 +878,21 @@ The exegetically strongest claims, each surfaced by several tools:
      - "Lay down, now, a pledge for me with Yourself" (17:3);
      - "I know that my Redeemer lives, and at the last He will take His stand on the earth" (19:25).
      - Then the evidence of chapter 21, addressed to the friends: "Have you not asked wayfaring men?" (21:29).
-   - **The friends' sources** (window baselines; lemma):
-     - **Isa 59:1–10 behind 15:17–35** — ranks 2nd of 887. "They conceive mischief and bring forth iniquity" (Isa 59:4 = Job 15:35, with Ps 7:15 [Eng 7:14]), and "their feet run (יָרֻצוּ) to evil" (59:7) beside "he rushes (יָרוּץ) at Him" (15:26), darkness (Isa 59:9; Job 15:22–30) and emptiness (שָׁוְא, Isa 59:4; Job 15:31). Ps 7:6–15 [Eng 7:5–14] ranks 8th. **Queue #56 is strengthened** from a shared idiom to *moderate–high*.
-     - **Isa 14:21–30 behind 18:5–21** — ranks 2nd of 887: the oracle on the king of Babylon. "I will cut off from Babylon name and survivors, offspring and posterity (וְנִין וָנֶכֶד)" (Isa 14:22); נִין + נֶכֶד ("offspring and posterity") occur together only at Gen 21:23, Isa 14:22 and Job 18:19 (lemma). Bildad's wicked man has no name (18:17) and no offspring or posterity (18:19). *Moderate–high.* **New.**
-     - **Deut 32:22–33 behind 20:4–29** — ranks 5th of 887: the Song of Moses. "Their vine is from the vine of Sodom … their clusters, bitter (מְרֹרֹת). Their wine is the venom of serpents, and the deadly poison (וְרֹאשׁ) of cobras (פְּתָנִים)" (Deut 32:32–33) → "the venom (מְרוֹרַת) of cobras (פְּתָנִים)" (20:14); "He sucks the poison (רֹאשׁ) of cobras (פְּתָנִים)" (20:16). פֶּתֶן + רֹאשׁ only Deut 32:33 and Job 20:16. The fire of God's anger (Deut 32:22 → Job 20:23, 26) and the "terror" (אֵימָה, Deut 32:25 → אֵמִים, Job 20:25) follow. *Moderate–high.* **New.** Eliphaz drew on the same Song in round one (Deut 32:39 at 5:18; `[S: audit]`, claim audit 2).
-     - **Lam 4:3–14 behind 20:4–29** — ranks 3rd: "the sin of Sodom, which was overthrown (הַהֲפוּכָה) as in a moment (כְמוֹ־רָגַע)" (Lam 4:6) beside "the joy of the godless momentary (רָגַע)" (20:5) and "his food … is changed (נֶהְפָּךְ)" (20:14); "He has poured out His fierce anger (חֲרוֹן אַפּוֹ)" (Lam 4:11) beside "His fierce anger (חֲרוֹן אַפּוֹ)" (20:23), the only חָרוֹן in Job. *Moderate.* **New.**
-     - **Ps 18:35 [Eng 18:34] [2 Sam 22:35] at 20:24** — "bronze bow (קֶשֶׁת נְחוּשָׁה)" only in these three verses (lemma). David's God trains his hands to bend it; Zophar's bronze bow pierces the wicked. *Moderate.* **New.**
+   - **v1.1 (claim audit 3): the window ranks below are withdrawn as evidence.** Against a null of arbitrary Job passages of the same length, a 2nd, 3rd or 5th place is ordinary (the 26-verse null's top-1 median is 9). Each source now stands or falls on its verse-level wording `[S: audit 3]`:
+     - Isa 59 → **low–moderate** (a shared idiom, with Isa 33:11–15 an equal co-source for 15:34–35);
+     - Isa 14 → **moderate** (14:21–22 at 18:17–19; 14:11 at 21:26);
+     - Deut 32:32–33 → **high (words)**;
+     - Lam 4 → **discarded**;
+     - Ps 18:35 → **weak–possible** (opposite function).
+   - **The friends' sources** (window baselines; lemma — *v1.0 as written*):
+     - **Isa 59:1–10 behind 15:17–35** — ranks 2nd of 887. "They conceive mischief and bring forth iniquity" (Isa 59:4 = Job 15:35, with Ps 7:15 [Eng 7:14]), and "their feet run (יָרֻצוּ) to evil" (59:7) beside "he rushes (יָרוּץ) at Him" (15:26), darkness (Isa 59:9; Job 15:22–30) and emptiness (שָׁוְא, Isa 59:4; Job 15:31). Ps 7:6–15 [Eng 7:5–14] ranks 8th. **Queue #56 is strengthened** from a shared idiom to *moderate–high*. **v1.1: reverted to low–moderate.** Isa 59 is in the top three for a third of arbitrary Job passages. Isa 33:11 ("You have conceived chaff, you will give birth to stubble; My breath will consume you like a fire") and 33:14 ("the godless", with "consuming fire"; חנף + שֹׁחַד within ±2 verses only Isa 33:14 / Job 15:34) are as close for 15:34–35 `[S: audit 3]`.
+     - **Isa 14:21–30 behind 18:5–21** — ranks 2nd of 887: the oracle on the king of Babylon. "I will cut off from Babylon name and survivors, offspring and posterity (וְנִין וָנֶכֶד)" (Isa 14:22); נִין + נֶכֶד ("offspring and posterity") occur together only at Gen 21:23, Isa 14:22 and Job 18:19 (lemma). Bildad's wicked man has no name (18:17) and no offspring or posterity (18:19). *v1.1: moderate.* The rank depends on a window outside the pericope (14:16–30) and is ordinary against the null. The cluster at Isa 14:21–22 (name, world, remnant, offspring and posterity) carries the link `[S: audit 3]`.
+     - **Deut 32:22–33 behind 20:4–29** — ranks 5th of 887: the Song of Moses. "Their vine is from the vine of Sodom … their clusters, bitter (מְרֹרֹת). Their wine is the venom of serpents, and the deadly poison (וְרֹאשׁ) of cobras (פְּתָנִים)" (Deut 32:32–33) → "the venom (מְרוֹרַת) of cobras (פְּתָנִים)" (20:14); "He sucks the poison (רֹאשׁ) of cobras (פְּתָנִים)" (20:16). פֶּתֶן + רֹאשׁ only Deut 32:33 and Job 20:16. The fire of God's anger (Deut 32:22 → Job 20:23, 26) and the "terror" (אֵימָה, Deut 32:25 → אֵמִים, Job 20:25) follow. *v1.1: high (words)* for 20:14–17, where Zophar's wicked man "sucks" poison as Israel sucked "honey from the rock" (Deut 32:13), and the Greek's θυμὸς δρακόντων echoes Deut 32:33. Moderate for the fire, arrow and terror items. Drop the rank `[S: audit 3]`. Eliphaz drew on the same Song in round one (Deut 32:39 at 5:18; `[S: audit]`, claim audit 2).
+     - **Lam 4:3–14 behind 20:4–29** — ranks 3rd: "the sin of Sodom, which was overthrown (הַהֲפוּכָה) as in a moment (כְמוֹ־רָגַע)" (Lam 4:6) beside "the joy of the godless momentary (רָגַע)" (20:5) and "his food … is changed (נֶהְפָּךְ)" (20:14); "He has poured out His fierce anger (חֲרוֹן אַפּוֹ)" (Lam 4:11) beside "His fierce anger (חֲרוֹן אַפּוֹ)" (20:23), the only חָרוֹן in Job. *v1.0: moderate.* **v1.1: discarded.** The window ties at 8 against a null median of 9; Sodom is not in Job 20; and the one striking cluster (20:14–16) belongs to Deut 32:32–33, which names Sodom itself `[S: audit 3]`.
+     - **Ps 18:35 [Eng 18:34] [2 Sam 22:35] at 20:24** — "bronze bow (קֶשֶׁת נְחוּשָׁה)" only in these three verses (lemma). David's God trains his hands to bend it; Zophar's bronze bow pierces the wicked. *v1.1: weak–possible.* Two words only, shared with the Song of David in both its copies, with the opposite function `[S: audit 3]`.
    - **Job's sources** (solo digs): Lam 3:1–9, 12–13, 30, 36, 58–59; Isa 53:9; 38:14 (with Ps 119:122); Isa 44:6; 26:19; 30:8; Jer 17:1; Hab 1:2–4; Ps 88; 102.
-   - **The contest.** Both sides draw on Lamentations, Isaiah and the Song of Moses. The friends use them for the wicked man's end — Babylon's king, Sodom's vine, Zion overthrown. Job uses them for the innocent sufferer — Lamentations' man of affliction, Hezekiah at the gate of Sheol, the Servant "though he had done no violence", the LORD who is "the first and the last". This extends the macro-pattern already queued, "the friends and Job contest the same texts" (#48). `[I]` *Moderate–high.*
-   - *Surfaced by:* Tool 11 (Moves 1–3), the baselines, Christological Reading. *High on the exclusives; moderate–high on the contest.*
+   - **The contest.** Both sides draw on Lamentations, Isaiah and the Song of Moses. The friends use them for the wicked man's end — Babylon's king, Sodom's vine, Zion overthrown. Job uses them for the innocent sufferer — Lamentations' man of affliction, Hezekiah at the gate of Sheol, the Servant "though he had done no violence", the LORD who is "the first and the last". This extends the macro-pattern already queued, "the friends and Job contest the same texts" (#48). `[I]` *v1.0: moderate–high.* **v1.1:** the contest stands for **the Song of Moses** (Deut 32:39 at 5:18 and 10:7; Deut 32:32–33 at 20:14–16) and, more loosely, for Isaiah. **Lamentations is Job's alone:** Lam 2:10–17 at Job 16 (high) and Lam 3:1–9 at Job 19 (moderate–high), with Lam 4 discarded in the friends' mouths `[S: audit 3]`.
+   - *Surfaced by:* Tool 11 (Moves 1–3), the baselines, Christological Reading. *High on the exclusives; moderate–high on the contest.* **v1.1:** moderate on the contest, which is confined to the Song of Moses and Isaiah `[S: audit 3]`.
 
 ---
 
@@ -1131,25 +1142,25 @@ The words of 16–17 and 19 are worked in their solo digs. This section works th
 
 The intertexts of 16–17 and 19 are worked in their solo digs; their findings are summarised in Headline 5. This section works the four speeches without solo digs. The significant contacts receive the full Triad.
 
-**Isa 59:1–10 → 15:17–35** *(moderate–high; extends queue #56)*
+**Isa 59:1–10 → 15:17–35** *(v1.0: moderate–high. **v1.1: low–moderate (idiom)**, with Isa 33:11–15 as co-source; rank withdrawn* `[S: audit 3]`*)*
 - **Move 1 — source context.** Isaiah's indictment of a people whose "iniquities have made a separation between you and your God" (59:2): "They conceive mischief and bring forth iniquity" (59:4); "Their feet run to evil" (59:7); "We hope for light, but behold, darkness" (59:9). The chapter turns at 59:15–20 to the LORD who sees there is no justice and comes as Redeemer ("A Redeemer will come to Zion", 59:20).
 - **Move 2 — book usage.** Isaiah is live in Job (Isa 50; 53:9; 38:14; 44:6; 26:19; 30:8 — solo digs and 4–14 dig).
 - **Move 3 — OT to OT.** Ps 7:15 [Eng 7:14] has the same idiom ("he conceives mischief and brings forth falsehood"), and its window ranks 8th against 15:17–35. The idiom is shared; Isaiah's chapter shares the most beside it.
 - **What it adds.** Eliphaz paints the wicked man with Isaiah's portrait of a sinful people — and Isaiah's chapter ends with the Redeemer who comes, the title Job will use (19:25). `[I]` *Moderate–high on Isa 59:1–10 as a source; the Redeemer link is reader's synthesis.*
 
-**Isa 14:9–23 → 18:5–21; 21:12–13, 26** *(moderate–high)* **New**
+**Isa 14:9–23 → 18:5–21; 21:12–13, 26** *(v1.1: moderate for 14:21–22 at 18:17–19 and 14:11 at 21:26; 21:12–13 reassigned to Isa 5:11–14; the tomb contrast at 21:32 low* `[S: audit 3]`*)* **New**
 - **Move 1.** The taunt over the fallen king of Babylon: Sheol stirs to meet him (14:9); "Your pomp and the music of your harps have been brought down to Sheol; maggots are spread out as your bed beneath you and worms are your covering" (14:11); "cast out of your tomb" (14:19); "May the offspring of evildoers not be mentioned forever" (14:20); "I will … cut off from Babylon name and survivors, offspring and posterity" (14:22).
 - **Move 2.** Isaiah is live in Job.
 - **The contacts.** Bildad: no name (18:17), "no offspring or posterity (נִין וָנֶכֶד)" (18:19; exclusive with Isa 14:22 and Gen 21:23), roots (18:16; Isa 14:29–30), "firstborn" (18:13; Isa 14:30), cast down (18:7; Isa 14:19). Isa 14:21–30 ranks 2nd of 887 against 18:5–21. Job: the harp (21:12), Sheol (21:13), "worms cover them" (21:26; Isa 14:11), and the tomb — Isaiah's tyrant is "cast out of your tomb (מִקִּבְרְךָ)" (14:19), while Job's wicked man "is carried to the grave (לִקְבָרוֹת), men will keep watch over his tomb" (21:32).
 - **What it adds.** Bildad gives the wicked man the end of the tyrant of Babylon. Job answers that the wicked man's harp plays until he goes to Sheol, and that the tyrant's worms cover good and wicked alike. `[I]` *Moderate–high on 18; moderate on 21.*
 
-**Deut 32:22–33 → 20:4–29** *(moderate–high)* **New**
+**Deut 32:22–33 → 20:4–29** *(v1.1: high on the words at 20:14–17; moderate for the rest; rank dropped* `[S: audit 3]`*)* **New**
 - **Move 1.** The Song of Moses on the enemies of God's people: "a fire is kindled in My anger … and consumes the earth with its yield" (32:22); "Their vine is from the vine of Sodom … their clusters, bitter. Their wine is the venom of serpents, and the deadly poison of cobras" (32:32–33).
 - **Move 2.** The Song is live in Job: Deut 32:39 at 5:18 (Eliphaz) and 10:7 (Job) (`[S: audit]`, claim audit 2, A3; queue #43), and Deut 32:23–25 at 5:7, 20; 6:4 (low–moderate, audit 2).
 - **The contacts.** פֶּתֶן + רֹאשׁ ("cobras", "poison") only Deut 32:33 and Job 20:16; מְרוֹרָה with פֶּתֶן at 20:14 beside Deut 32:32's מְרֹרֹת; יְבוּל ("increase", 20:28; Deut 32:22); אֵימָה ("terror", 20:25; Deut 32:25). Deut 32:22–33 ranks 5th of 887.
 - **What it adds.** Zophar's wicked man drinks the Song's poison — the wine of the vine of Sodom. The friends' Scripture is again the Song of Moses, as in round one. `[I]` *Moderate–high.*
 
-**Lam 4:3–14 → 20:4–29** *(moderate)* **New**
+**Lam 4:3–14 → 20:4–29** *(v1.1: discarded — see Headline 5* `[S: audit 3]`*)* **New**
 - **The contacts.** "Sodom, which was overthrown (הַהֲפוּכָה) as in a moment (כְמוֹ־רָגַע)" (Lam 4:6) beside "momentary (רָגַע)" (20:5) and "is changed (נֶהְפָּךְ)" (20:14); "He has poured out His fierce anger (חֲרוֹן אַפּוֹ); and He has kindled a fire in Zion which has consumed its foundations" (Lam 4:11) beside "His fierce anger (חֲרוֹן אַפּוֹ)" (20:23) and "unfanned fire will devour him" (20:26); the palate, the tongue, the nursing (4:3–4; 20:12–16). Lam 4:3–14 ranks 3rd of 887.
 - **What it adds.** Zophar's portrait of the wicked man uses Lamentations' portrait of Jerusalem under judgement — the city Lamentations calls worse than Sodom. Job's laments draw on Lamentations 3 (solo digs); Zophar's accusations draw on Lamentations 4. `[I]` *Moderate.*
 
@@ -1159,14 +1170,18 @@ The intertexts of 16–17 and 19 are worked in their solo digs; their findings a
 - **Move 3.** Bildad paraphrases it (18:5–6); Job quotes it exactly, with "How often?" (21:17). Prov 13:2–13 ranks 16th of 887 against 21:7–26.
 - **What it adds.** The doctrine Job questions is Scripture's own proverb. Job does not say the proverb is false; he asks how often the world shows it. Proverbs, the next book in the Ketuvim, keeps the proverb; Job keeps the question. `[I]` *High on the words.*
 
-**Ps 1:1, 4 → 21:16, 18** *(moderate–high on the words; not distinctive as a pattern)* **New**
+**Ps 1:1, 4 → 21:16, 18** *(v1.1: moderate — high for עֲצַת רְשָׁעִים, low for the chaff line alone, which is nearer Ps 35:5 and Isa 17:13* `[S: audit 3]`*)* **New**
 - "How blessed is the man who does not walk in the counsel of the wicked (בַּעֲצַת רְשָׁעִים)" (Ps 1:1); "they are like chaff (כַּמֹּץ) which the wind (רוּחַ) drives away" (Ps 1:4).
 - "The counsel of the wicked is far from me" (21:16; also 10:3; 22:18 — the phrase occurs only in these four verses); "Are they as straw before the wind (לִפְנֵי־רוּחַ), and like chaff (וּכְמֹץ) which the storm carries away?" (21:18; מֹץ + רוּחַ only Ps 1:4; 35:5; Isa 17:13; Job 21:18).
 - **What it adds.** Job is the Psalm 1 man — he does not walk in the counsel of the wicked — and he asks whether the wicked are, in fact, the chaff Psalm 1 says they are. `[I]` *Moderate–high.* Ps 1's window ranks 178th: two phrases, not a pattern.
 
-**Ps 11:6 with Gen 19:24 → 18:15; 20:23, 29; 21:20** *(moderate, synthetic)* — see Headline 2.
+**Ps 11:6 with Gen 19:24 → 18:15; 20:23, 29; 21:20** *(v1.1: low–moderate motif; Ps 78:49 the major partner at 20:23; 20:29 dropped* `[S: audit 3]`*)* — see Headline 2.
 
-**Ps 18:35 [Eng 18:34] [2 Sam 22:35] → 20:24** *(moderate)* — the "bronze bow"; see Headline 5.
+**Ps 18:35 [Eng 18:34] [2 Sam 22:35] → 20:24** *(v1.1: weak–possible* `[S: audit 3]`*)* — the "bronze bow"; see Headline 5.
+
+**Isa 5:11–14 → 21:12–14** *(moderate; added in v1.1 from claim audit 3)* — "Their banquets are accompanied by lyre and harp, by tambourine and flute … Therefore My people go into exile for their lack of knowledge … Therefore Sheol has enlarged its throat" (Isa 5:12–14). כִּנּוֹר + תֹּף within three verses of Sheol only here and Job 21:12–13, and the refusal of knowledge (Isa 5:13 ~ 21:14 "we do not even desire the knowledge of Your ways"). It replaces Isa 14:11 for 21:12–13 `[S: audit 3]`.
+
+**Ps 78:49 → 20:23** *(moderate–high; added in v1.1 from claim audit 3)* — יְשַׁלַּח־ב־ חֲרוֹן אַפּוֹ ("He sent upon them His burning anger") exactly only at Ps 78:49 and Job 20:23, in a psalm where God "rained" food and struck "while their food was in their mouths" (78:24–31) `[S: audit 3]`.
 
 **Isa 40:14 → 21:22** *(moderate)* **New** — "who … taught Him knowledge (וַיְלַמְּדֵהוּ דַּעַת)?" (Isa 40:14); "Can anyone teach God knowledge (הַלְאֵל יְלַמֶּד־דָּעַת)?" (21:22). למד + דַּעַת with God as the one taught: only these two. Job uses Isaiah's question of God's incomparability against the friends' presumption to explain God's ways. `[I]`
 
@@ -1397,12 +1412,12 @@ Places where several tools agree:
 
 - **The round contracts** — Structure (the address test), Tone, Repetition (רָשָׁע), the portraits' growing share (Headline 1).
 - **"Comfort" brackets the round** — Vocabulary (תַּנְחוּמִים only 15:11; 21:2), Linking Words, Move 4 (2:11; 42:11), Translations (the ESV carries it).
-- **The prologue inside the portraits** — Move 4 (the opening unit held open), Vocabulary (אֵשׁ + אכל; שָׂרִיד; בלע), Tool 11 (Sodom), Who Am I?, Difficult Verses (the children).
+- **The prologue inside the portraits** — Move 4 (the opening unit held open), Vocabulary (אֵשׁ + אכל; שָׂרִיד; בלע), Tool 11 (Sodom), Who Am I?, Difficult Verses (the children). **v1.1:** a reader-level resonance, not a demonstrated design `[S: audit 3]`.
 - **The friends answer Job's own words** — Move 4, Vocabulary, BHS's own cross-reference (18:4 → 14:18).
 - **Zophar turns the witnesses** — Move 4 (16:18–19; 19:25 → 20:27), Original Languages (hithpolel), Repetition (the heaven thread).
-- **Job 21 answers all three friends** — Move 4, Repetition (the threads), Translations (where the ESV keeps and loses the links).
+- **Job 21 answers all three friends** — Move 4, Repetition (the threads), Translations (where the ESV keeps and loses the links). **v1.1:** by pointed rejoinders, not clause by clause `[S: audit 3]`.
 - **Proverbs and Psalm 1 quoted and questioned** — Tool 11 (exact phrases), the baseline (Prov 13 top 2%), Genre, Original Audience.
-- **Both sides draw on the same Scripture** — Tool 11 (Isa 59; Isa 14; Deut 32; Lam 4 for the friends; Lam 3; Isa 53; 38; 44; 26; 30 for Job), the baselines, Biblical Theology, Christological Reading.
+- **Both sides draw on the same Scripture** — Tool 11 (Isa 59; Isa 14; Deut 32; Lam 4 for the friends; Lam 3; Isa 53; 38; 44; 26; 30 for Job), the baselines, Biblical Theology, Christological Reading. **v1.1:** confirmed only for the Song of Moses (and loosely Isaiah); Lamentations is Job's alone; the baselines are withdrawn `[S: audit 3]`.
 - **The negative results** — "know" is a thread, not a concentration; Ps 73 and Jer 12 are companions, not sources; Ps 1 is two phrases, not a pattern; the Bildad reply is pointed, not volumetric (19 dig).
 
 ## Preaching Pitfalls
@@ -1441,14 +1456,36 @@ Places where several tools agree:
 
 **Open.**
 
-1. **The prologue pattern (Headline 2)** — designed, or the natural stock of the wicked man's end? Fire, sword, house and children are standard curse images. A baseline against other "fate of the wicked" poems (Ps 37; Prov 1–2; Isa 14) would test whether the friends' choice of images is closer to Job 1–2 than chance. **Queue.**
-2. **The source rankings** — Isa 59 (15), Isa 14 (18), Deut 32 and Lam 4 (20) each rank in the top 1% of windows, and each has at least one exclusive. **Queue for audit with a rival search**, batched with the 16–17 and 19 sources.
+1. **The prologue pattern (Headline 2)** — designed, or the natural stock of the wicked man's end? Fire, sword, house and children are standard curse images. A baseline against other "fate of the wicked" poems (Ps 37; Prov 1–2; Isa 14) would test whether the friends' choice of images is closer to Job 1–2 than chance. **Answered (claim audit 3):** within chance on a prologue-derived list; Job 27:13–23 is as dense. A reader-level resonance `[S: audit 3]`.
+2. **The source rankings** — Isa 59 (15), Isa 14 (18), Deut 32 and Lam 4 (20) each rank in the top 1% of windows, and each has at least one exclusive. **Answered (claim audit 3):** the ranks are ordinary against a Job-passage null and are withdrawn. Isa 59 low–moderate; Isa 14 moderate; Deut 32:32–33 high (words); Lam 4 discarded `[S: audit 3]`.
 3. **18:2–3, Bildad's plurals** — whom does Bildad address?
-4. **21:13 רֶגַע** — "in a moment" (NASB95) or "in peace" (ESV, NIV84)? The contrast with 20:5 favours "in a moment".
+4. **21:13 רֶגַע** — "suddenly" (NASB95; literally "in a moment") or "in peace" (ESV, NIV84)? *Corrected 7 Oct: v1.0 gave the NASB95 as "in a moment".* **Answered by Logos round 6:**
+   - HALOT gives "quiet, calm period of time" at 21:13.
+   - BDB records Hoffmann, Buhl and Beer for "in tranquillity", with the versions. TWOT has "moment".
+   - Swete reads "in the rest of Hades they fell asleep" (ἐν ἀναπαύσει ᾅδου).
+   - **The lexicon and the Greek favour "in peace", which the ESV carries.** The link from 20:5 ("momentary") becomes a play on two words of the same consonants: Zophar's wicked man has a *moment* of joy; Job's goes down to Sheol in *peace*. *Moderate* `[S: HALOT; BDB]`.
 5. **21:16** — statement or question?
 6. **18:15; 20:23** — BHS's "fire" conjecture.
 7. **The third cycle** — 20:29 = 27:13 and the friends' "terrors" in Job's mouth (24:17; 27:20): the third-cycle audit must take these as exhibits.
 8. **The Greek's shorter text** — the asterisked lines of 18, 20 and 21 (Tool 8); the Göttingen apparatus is not owned.
+
+**Added by Logos round 6 (7 Oct 2026), corpus-checked** (`claude/job-logos-answers-round-6-assessment.md`).
+
+- **18:2–3, Bildad's plurals — closed.** Delitzsch and Lange: Bildad addresses Job in the plural, as the representative of a class — a sarcastic reply to Job's 12:2. The NET notes say all the companions `[S: Delitzsch; Lange]`. The address test counted second-person singulars only, so it is unaffected.
+- **5:26 → 21:32 — a new pointed rejoinder.** גָּדִישׁ occurs in Job only at 5:26 and 21:32, and with קֶבֶר ("grave") only there (WLC). The pointer came from the Assistant's lexicon citation (Swanson); the corpus verified it.
+  - Eliphaz: "You will come to the grave in full vigor, like the stacking of grain (גָּדִישׁ) in its season" (5:26).
+  - Job: the wicked man "is carried to the grave, men will keep watch over his tomb (גָּדִישׁ)" (21:32).
+  - The honoured end Eliphaz promised the righteous, Job sees given to the wicked. `[T]` *Moderate–high.* Echo Table / Table B.
+- **The portraits as insinuation (Headline 2).** Konkel–Longman (127): "Bildad described the wicked in the exact terms of Job's situation". Zuck (BKC): the friends hoped Job would see they meant him. Andersen (215): Bildad's childless wicked man, as Job looks like becoming `[S]`.
+  - The match is a reading commentators make **at the level of the friends' intent** (moderate–high).
+  - Authorial design from lexical density is still not shown (claim audit 3).
+- **21:17.** JFB: Job quotes Bildad's 18:5–6 in order to question it. Lawson and Zuck read it the same way. None names Proverbs; the exact phrase rests on the corpus `[S]`.
+- **21:16.** Study Bibles only (HCSB, CSB, Faithlife): Job's own parenthesis, not a quotation of the friends. Popular tier; left open.
+- **20:23 בִּלְחוּמוֹ.** HALOT: לְחוּם "flesh, body" (Zeph 1:17), "uncertain" at 20:23; the Greek has ὀδύνας ("pains"). The **ESV ("rain it upon him into his body")** follows HALOT, and the NIV84 ("rain down his blows") follows the Greek. Only the NASB95 has "while he is eating".
+  - So the Ps 78 "food in their mouths" sequence is **moderate**. The exact phrase "send his burning anger" (Ps 78:49 / Job 20:23) stands at moderate–high `[S: HALOT]`.
+- **18:15 and 20:23, the "fire" conjecture.** The BHS apparatus has *l frt* מַבֵּל ("read perhaps 'fire'"; cf. Akkadian *nablu*, Ugaritic *nblt*) at both verses. **The NIV84 adopts it at 18:15** ("Fire resides in his tent", margin "Nothing he had remains"), as do the NIV2011 and NET. The ESV and NASB95 keep the Masoretic text.
+  - The Assistant found no evidence of an ancient practice of scattering sulphur; its examples are biblical (salt, Judg 9:45). Watson's dictionary reads 18:15 as "a manifest allusion" to Sodom. #76 stays low–moderate (motif).
+- **Isa 5:11–14 at 21:11–14.** The *Treasury of Scripture Knowledge* cross-refers Job 21:11–13 with Isa 5:11. Weak tier; #81 stays moderate.
 
 **Closed in this run.**
 
@@ -1467,14 +1504,14 @@ Places where several tools agree:
 
 1. **Structural Arc Map — the second round.** Record the contraction (Headline 1): the friends' address 29 / 4 / 1; Job's address to God ending at 17:4; the portraits' growing share. Record the paragraphing as BHS prints it (setumot, except 19:29 none and 20:29 petuḥah).
 2. **Intertextual Map — new rows.**
-   - Isa 59:1–10 at 15:17–35 (*moderate–high*; upgrades queue #56);
-   - Isa 14:9–23 at 18:5–21 and 21:12–13, 26, 32 (*moderate–high*);
-   - Deut 32:22–33 at 20:4–29 (*moderate–high*; with Deut 32:39 at 5:18; 10:7, the Song becomes a **live source**);
-   - Lam 4:3–14 at 20 (*moderate*; with Lam 3 at 16–19, Lamentations is live in both voices);
+   - Isa 59:1–10 at 15:17–35 (*moderate–high*; upgrades queue #56) — *v1.1: low–moderate (idiom), with Isa 33:11–15*;
+   - Isa 14:9–23 at 18:5–21 and 21:12–13, 26, 32 (*moderate–high*) — *v1.1: moderate (14:21–22; 14:11); 21:12–13 → Isa 5:11–14 (moderate)*;
+   - Deut 32:22–33 at 20:4–29 (*moderate–high*; with Deut 32:39 at 5:18; 10:7, the Song becomes a **live source**) — *v1.1: high (words) for 32:13–14, 32–33 at 20:14–17*;
+   - ~~Lam 4:3–14 at 20 (*moderate*; with Lam 3 at 16–19, Lamentations is live in both voices)~~ — *v1.1: discarded; Lamentations is live in Job's voice only*;
    - Prov 13:9; 24:20 at 18:5–6; 21:17 (*high*; sweep);
-   - Ps 1:1, 4 at 21:16, 18 (*moderate–high*);
-   - Ps 11:6 with Gen 19:24 at 18:15; 20:23, 29 (*moderate*);
-   - Ps 18:35 [Eng 18:34] at 20:24 (*moderate*);
+   - Ps 1:1, 4 at 21:16, 18 (*moderate–high*) — *v1.1: moderate*;
+   - Ps 11:6 with Gen 19:24 at 18:15; 20:23, 29 (*moderate*) — *v1.1: low–moderate; Ps 78:49 at 20:23 (moderate–high); 2 Kgs 1:12 at 1:16 (moderate–high)*;
+   - Ps 18:35 [Eng 18:34] at 20:24 (*moderate*) — *v1.1: weak–possible*;
    - Isa 40:14 at 21:22 (*moderate*);
    - Jer 12:1 at 21:7 (*high on the words*; sweep) — with the note that Jer 12 and Ps 73 are not distinctive by window.
 3. **Table B (Job quotes itself) — new rows.** 3:3 → 15:35 (הרה); 3:7 → 15:34; 14:7 → 15:30; 14:1 → 15:14 → 25:4; 13:2 → 15:9; 12:12 → 15:10; 12:7 → 18:3; 8:14 → 18:14; 4:13 → 20:2, 8; 7:8, 10 → 20:9; 14:10 → 20:7; 19:24–25 → 20:4; 16:18–19; 19:25 → 20:27; 5:25 → 21:8; 4:6 → 21:23; 15:21 → 21:9; 18:5–6 → 21:17; 18:20 → 21:5–6; 18:21 → 21:28; 20:5 → 21:13; 20:11 → 21:26; 20:12 → 21:33.
@@ -1482,6 +1519,24 @@ Places where several tools agree:
 5. **Preaching Traps — trap 1 ("Preaching the friends").** Add the round-two form: the portraits of the wicked man quoted as Scripture's promises.
 6. **Preaching Units.** The overview divides Sermon 4's material into three units (15:1–17:16 HIGH; 18:1–19:29 HIGH; 20:1–21:34 Standard). The series plan's single sermon on 15:1–21:34 is supported: the round is one movement, bracketed by "comfort".
 7. **Christological trajectory.** Add 17:3 between 16:19 and 19:25 (16–17 dig) and the round's context: the Redeemer confessed inside three portraits of the wicked man, as the Servant was "numbered with the transgressors" (Isa 53:12).
+
+## What Changed in v1.1
+
+Patched on 7 October 2026 from `dig-deeper-job-claim-audit-3.md`. Nothing else in the report was altered. Headline 1 (the contraction and the comfort bracket), Headline 3 (the friends turn Job's words), the clause-level links of Headline 4, the address test, the Greek, the textual notes and the pulpit notes all stand.
+
+| Location | v1.0 | v1.1 |
+|---|---|---|
+| Headline 2 | The portraits drawn from the prologue's losses, moderate–high; Sodom moderate | **A reader-level resonance, not a demonstrated design.** Sodom **low–moderate**: keep 18:15; 20:23 → Ps 78:49; drop 20:29 and 1:16 (→ 2 Kgs 1:12) |
+| Headline 4 | "Clause by clause", moderate–high | **Pointed answers, moderate.** Zophar 20 → 21 is the weakest pair |
+| Headline 5 | Sources by window rank: Isa 59 (2nd), Isa 14 (2nd), Deut 32 (5th), Lam 4 (3rd); Ps 18:35 moderate; the contest moderate–high | **Ranks withdrawn.** Isa 59 **low–moderate** (with Isa 33:11–15); Isa 14 **moderate**; Deut 32:32–33 **high (words)**; Lam 4 **discarded**; Ps 18:35 **weak–possible**; the contest **moderate**, confined to the Song of Moses and Isaiah |
+| Tool 11 | headers as proposed | revised to match; **Isa 5:11–14 at 21:12–14** and **Ps 78:49 at 20:23** added |
+| Convergent Findings | the prologue pattern; Job 21; both sides | revised to match |
+| Open Questions 1–2 | queued | answered by the audit |
+| Book-Overview Tensions 2 | new rows as proposed | revised to match |
+
+**Unchanged by the audit.** Prov 13:9 and 24:20 at 18:5–6 and 21:17 are exact phrases and stand at *high*; the Prov 13 window rank (16th) is not needed for them. Ps 1:1's phrase stands at *high*, though the Ps 1 claim as a whole is moderate. Isa 40:14 at 21:22 stays *moderate*. The negative results (Ps 73; Jer 12; "know") stand.
+
+---
 
 ## Text-First Declaration
 
@@ -1491,7 +1546,8 @@ Places where several tools agree:
 - the 4:1–14:22 consolidation report and its solo digs;
 - the 16:1–17:16 and 19:1–29 solo digs;
 - claim audit 2;
-- the Logos assessments of rounds 2–5.
+- the Logos assessments of rounds 2–5;
+- **v1.1:** claim audit 3, whose verdicts were applied after the run.
 
 All were produced in this project or are Patrick's library returns. No commentary was opened in this run.
 
@@ -1515,7 +1571,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 - NASB95, ESV and NIV84 are from the Logos exports, and every quotation was checked against them, including the parallels in Isaiah, Jeremiah, Lamentations, Deuteronomy, Genesis, Proverbs, Ecclesiastes and Psalms, and the New Testament verses (John 9:2–3; Luke 13:2–5; 22:37; Rev 1:17–18; 1 John 2:1; Heb 7:22, 25). Ezek 18:20 is given in paraphrase (export not staged).
 - Swete and Rahlfs were read for chapters 15, 18, 20 and 21.
 
-**Warrant counts** (tags in the report body, excluding the legend and this declaration): `[T]` 101 · `[I]` 52 · `[S]` 2 · `[S: audit]` 2. No Headline rests on an `[S]` item alone.
+**Warrant counts** (tags in the report body, excluding the legend and this declaration): `[T]` 101 · `[I]` 52 · `[S]` 2 · `[S: audit]` 2 · `[S: audit 3]` 26 (v1.1). No Headline rests on an `[S]` item alone.
 
 **Phase 10.5 gate.**
 - **Controls.** Every "only" and every chain was run by lemma with the חֶסֶד positive control passing (6:14; 10:12; 37:13).

@@ -9,7 +9,7 @@
 
 **Study text:** NASB95 (Logos export).
 **Pulpit text:** ESV, declared for the series on 28 September 2026 and confirmed for this run. Every ESV quotation below was checked against the Logos export; NIV84 renderings come from its export.
-**Date:** 5 October 2026
+**Date:** 5 October 2026 · **Version:** 1.1 (patched 7 October 2026 from claim audit 3; see *What Changed in v1.1*); Logos round 6 notes added 7 October 2026 (see Open Questions)
 
 **Book-overview context:** `Job/book-overview-job.md` (v0.1.1), front-loaded at Phase 0.5. Neighbouring reports consulted at the checking stage:
 - the sweep's Unit 9, 18:1–19:29 (`Job/dig-deeper-job-sweep.md`);
@@ -18,7 +18,8 @@
 - the consolidation report on 4:1–14:22, with its solo digs on 4–5, 9–10 and 13–14;
 - the 16:1–17:16 report (v. 5 October, with the Logos rounds 4–5 corrections);
 - claim audit 2;
-- the Logos assessments of rounds 2–5 (Andersen, Lange with Delitzsch and Dillmann, Barnes and Laurin on 19:25–26 in round 2).
+- the Logos assessments of rounds 2–5 (Andersen, Lange with Delitzsch and Dillmann, Barnes and Laurin on 19:25–26 in round 2);
+- **v1.1:** claim audit 3 (`Job/dig-deeper-job-claim-audit-3.md`), which tested this dig's source claims (queue #26, #58, #63–70) with three blind auditors and a window-rank null. Its verdicts are applied in place and tagged `[S: audit 3]`.
 
 **Series context:** the second of the two HIGH solo digs inside Sermon 4 (15:1–21:34). The unit report for Sermon 4 will be a consolidation dig on 15:1–21:34.
 
@@ -31,7 +32,8 @@
 - `[T]` derivable from the text itself;
 - `[I]` a reasonable inference from the text;
 - `[S]` supplied by a secondary source and held provisionally;
-- `[S: audit]` a verdict of this project's claim audits, accepted.
+- `[S: audit]` a verdict of this project's claim audits, accepted;
+- `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
 > **Counts and chains.**
 > - **Method.** Every count is a count **in the Hebrew**, made against the WLC lemma index (by lemma, never by surface form) unless it says "phrase search". Phrase searches normalise maqqef, paseq and sof pasuq, strip the pointing, and run a second skeletal pass.
@@ -163,25 +165,26 @@ The exegetically strongest claims, each surfaced by several tools:
 
 2. **The Redeemer "lives" and "will rise on the dust". Each word reaches back into Job and out into the canon: גאל to 3:5, "the last" to Isa 44:6, "rise" to the witness of 16:8 and the sleeper of 14:12, and "live … rise … dust" to Isa 26:19.** `[T]` for each verbal link; `[I]` for the composite
    - **גאל ("redeem")** occurs in Job only at 3:5 ("let darkness … claim it", יִגְאָלֻהוּ) and 19:25 (גֹּאֲלִי, "my Redeemer") (lemma 1350 a). Logos round 2 found the sense "reclaim, redeem" at 3:5 (Gesenius; TLOT) and a history of interpretation that cross-refers the two (Lange; Barnes). **Queue #8's trigger is satisfied** for this dig. `[T]` for the data; `[S]` for the lexicons. *Moderate–high on the sense; moderate on design.*
-   - **"Redeemer" with "last"** (גֹּאֵל + אַחֲרוֹן) meet in one verse only at Isa 44:6 and Job 19:25 (lemma): "Thus says the LORD, the King of Israel and his Redeemer (וְגֹאֲלוֹ) … 'I am the first and I am the last (אַחֲרוֹן)'". The one other text that pairs the words names the Redeemer as the LORD (sweep; confirmed). *High on the words; moderate on what it implies.*
+   - **"Redeemer" with "last"** (גֹּאֵל + אַחֲרוֹן) meet in one verse only at Isa 44:6 and Job 19:25 (lemma): "Thus says the LORD, the King of Israel and his Redeemer (וְגֹאֲלוֹ) … 'I am the first and I am the last (אַחֲרוֹן)'". The one other text that pairs the words names the Redeemer as the LORD (sweep; confirmed). *v1.0: high on the words; moderate on what it implies.* **v1.1: moderate–high on the words.** The pair is exclusive and sits beside the Isa 30:8 cluster, but "last" works differently in the two texts. **The Redeemer's identity is a reading (moderate), not a result** `[S: audit 3]`.
    - **"Rise" (קום).** The same form יָקוּם ("he will rise") stood at 14:12: "So man lies down and does not rise (וְלֹא־יָקוּם)". At 19:25 the Redeemer "at the last … will rise (יָקוּם) upon the dust". In Job's speeches קום also has a court sense: at 16:8 his leanness "rises up (וַיָּקָם) against me" as a witness, the verb of the witness law ("A single witness shall not rise up (יָקוּם) against a man", Deut 19:15; 19:16). So the Redeemer stands up where the sleeper could not rise, and where the hostile witness rose. `[T]` for the forms; `[I]` for the reading. *Moderate–high.*
-   - **"Live … rise … dust."** The three together — life (חיה / חַי), rising (קום) and dust (עָפָר) — occur in one verse only at Isa 26:19 and Job 19:25 (lemma; verb and adjective counted together): "Your dead will live (יִחְיוּ); their corpses will rise (יְקוּמוּן). You who lie in the dust (עָפָר), awake and shout for joy". Isa 26:19 also has "awake" (קיץ), the verb Job denied at 14:12 ("he will not awake"). קיץ with קום occurs only at Hab 2:7, Isa 26:19 and Job 14:12 (lemma). *High on the words; the direction and the design are open.* This extends **queue #26** (Isa 26:19–21 at 14:12–14 and 16:18): Isaiah's three consecutive verses now meet Job at 14:12–13, 16:18 and 19:25. `[I]` *Moderate (synthetic).*
+   - **"Live … rise … dust."** The three together — life (חיה / חַי), rising (קום) and dust (עָפָר) — occur in one verse only at Isa 26:19 and Job 19:25 (lemma; verb and adjective counted together): "Your dead will live (יִחְיוּ); their corpses will rise (יְקוּמוּן). You who lie in the dust (עָפָר), awake and shout for joy". Isa 26:19 also has "awake" (קיץ), the verb Job denied at 14:12 ("he will not awake"). קיץ with קום occurs only at Hab 2:7, Isa 26:19 and Job 14:12 (lemma). *High on the words; the direction and the design are open.* This extends **queue #26** (Isa 26:19–21 at 14:12–14 and 16:18): Isaiah's three consecutive verses now meet Job at 14:12–13, 16:18 and 19:25. `[I]` *v1.0: moderate (synthetic).* **v1.1: low–moderate (synthetic).** Every item is real, but each has a rival as close: Jer 51:39, 57 ("they will not awake … sleep") for 14:12; Gen 4:10 and Ezek 24:7–8 for the uncovered blood of 16:18. Isa 26:19 is a canonical answer a reader may draw, not one Job quotes `[S: audit 3]`.
    - **"Upon the dust."** עַל־עָפָר in Job is the place where the dead lie: "it lies down with him in the dust (עַל־עָפָר)" (20:11); "together they lie down in the dust" (21:26); "shall we together go down into the dust (עַל־עָפָר)?" (17:16) (phrase search). The Redeemer stands over the grave. The ESV and NASB95 "on the earth" lose this; the NIV84 margin "upon my grave" keeps it. `[T]` *High.*
-   - **The kinsman's two duties.** The גֹּאֵל buys back and avenges blood. Deut 19 holds both of the institutions Job has invoked: the avenger of blood (גֹּאֵל הַדָּם, 19:6, 12) and the malicious witness who "rises up" (19:15–19), which the 16–17 dig found behind 16:8 (queue #60). Job asked the earth not to cover his blood (16:18); now he names the one whose office it is to answer for blood. Ps 72:14 is the only verse in which גאל, חָמָס ("violence") and דָּם ("blood") meet: the king "will rescue (יִגְאַל) their life from oppression and violence (מֵחָמָס), and their blood (דָּמָם) will be precious in his sight". In Job חָמָס occurs only at 16:17 and 19:7. `[T]` for the data; `[I]` for the connection. *Moderate.*
-   - *Surfaced by:* Vocabulary, Move 4, Tool 11, Historical Background, Christological Reading. *High on the words; moderate on the composite.*
+   - **The kinsman's two duties.** The גֹּאֵל buys back and avenges blood. Deut 19 holds both of the institutions Job has invoked: the avenger of blood (גֹּאֵל הַדָּם, 19:6, 12) and the malicious witness who "rises up" (19:15–19), which the 16–17 dig found behind 16:8 (queue #60). Job asked the earth not to cover his blood (16:18); now he names the one whose office it is to answer for blood. Ps 72:14 is the only verse in which גאל, חָמָס ("violence") and דָּם ("blood") meet: the king "will rescue (יִגְאַל) their life from oppression and violence (מֵחָמָס), and their blood (דָּמָם) will be precious in his sight". In Job חָמָס occurs only at 16:17 and 19:7. `[T]` for the data; `[I]` for the connection. *v1.0: moderate.* **v1.1: weak as a Deut 19 link.** Nothing in Job reproduces גֹּאֵל הַדָּם, and the textual partners of 16:18 and 19:25 lie elsewhere (Gen 4:10; Isa 26:21; Isa 44:6). The kinsman's office is background to the word גֹּאֵל, not an allusion `[S: audit 3]`.
+   - *Surfaced by:* Vocabulary, Move 4, Tool 11, Historical Background, Christological Reading. *High on the words; moderate on the composite.* **v1.1:** Isa 44:6 moderate–high (words); Isa 26:19 low–moderate; the avenger thread weak `[S: audit 3]`.
 
 3. **Job wants his words written for "the last" — and the two texts that share his vocabulary of writing are Isa 30:8, a written witness "for the time to come", and Jer 17:1, sin engraved "with an iron stylus".** `[T]` for the words; `[I]` for the reading
    - **Isa 30:8.** "Now go, write it (כָתְבָהּ) on a tablet before them and inscribe it (חֻקָּהּ) on a scroll (סֵפֶר), that it may serve in the time to come (לְיוֹם אַחֲרוֹן, 'for the last day') as a witness forever (לָעַד)."
      - כתב ("write") + סֵפֶר ("book, scroll") + חקק ("inscribe") occur together only at Isa 30:8 and Job 19:23 (lemma).
      - Isa 30:8 also has אַחֲרוֹן ("last"), which Job uses two verses later (19:25), and לָעַד, which Job uses in 19:24. The WLC index files Isaiah's לָעַד as עֵד ("witness"), the reading the NASB95 follows ("as a witness"), and Job's as עַד ("forever").
      - In Isaiah the writing is a witness against a people who will not listen (30:9). Job's writing would be a witness for him.
-   - **Jer 17:1.** "The sin of Judah is written down (כְּתוּבָה) with an iron stylus (בְּעֵט בַּרְזֶל)". עֵט ("stylus") with בַּרְזֶל ("iron") occurs only at Jer 17:1 and Job 19:24 (lemma). Jeremiah's iron stylus engraves guilt; Job's would engrave innocence. `[I]`
-   - **The baseline.** Ranking every chapter of the Hebrew Bible by the rare vocabulary its best five-verse window shares with Job 19:23–27: Isa 44:4–8 ranks 2nd and Isa 30:6–10 6th of 887 (top 1%). Both contacts are distinctive, not common stock.
+     - *v1.1: confirmed, moderate–high.* The Greek translator independently gives Isaiah's collocation of book and "for ever": βιβλι- with εἰς τὸν αἰῶνα occurs only at Isa 30:8 and Job 19:23 (Swete) `[S: audit 3]`.
+   - **Jer 17:1.** "The sin of Judah is written down (כְּתוּבָה) with an iron stylus (בְּעֵט בַּרְזֶל)". עֵט ("stylus") with בַּרְזֶל ("iron") occurs only at Jer 17:1 and Job 19:24 (lemma). Jeremiah's iron stylus engraves guilt; Job's would engrave innocence. `[I]` *v1.1: moderate.* The link is Hebrew-only: the Greek Jeremiah lacks 17:1–4 `[S: audit 3]`.
+   - **The baseline.** Ranking every chapter of the Hebrew Bible by the rare vocabulary its best five-verse window shares with Job 19:23–27: Isa 44:4–8 ranks 2nd and Isa 30:6–10 6th of 887 (top 1%). *v1.1: the ranks are withdrawn as evidence.* Against a null of arbitrary Job passages a 2nd or 6th place is ordinary (null top-1 median 3.5 for five-verse windows). The contacts stand on their exclusive verse-level wording, which does not need the rank `[S: audit 3]`.
    - **The fulfilment is the book.** Job's wish — "Oh that my words were written! Oh that they were inscribed in a book!" (19:23) — is granted by the book that records them. `[I]`
-   - *Surfaced by:* Vocabulary, Tool 11, Repetition, Genre. **New.** *High on the words (both exclusive); moderate on the design.*
+   - *Surfaced by:* Vocabulary, Tool 11, Repetition, Genre. **New.** *High on the words (both exclusive); moderate on the design.* **v1.1:** Isa 30:8 moderate–high (confirmed); Jer 17:1 moderate `[S: audit 3]`.
 
 4. **God's siege is told in the words of Lamentations 3. No chapter in the Hebrew Bible shares more of the siege's rare vocabulary than Lam 3:1–9, and Habakkuk's "How long … 'Violence!'" stands behind 19:2–7.** `[T]` for the words; `[I]` for the pattern
-   - **The baseline.** Ranking all 887 chapters (Job excluded) by the rare lemmas their best nine-verse window shares with Job 19:6–20, **Lam 3:1–9 ranks first**, with 8 shared rare lemmas; the next windows have 6. `[T]`
+   - **The baseline.** Ranking all 887 chapters (Job excluded) by the rare lemmas their best nine-verse window shares with Job 19:6–20, **Lam 3:1–9 ranks first**, with 8 shared rare lemmas; the next windows have 6. `[T]` *v1.1:* real, but in the upper tail of chance. Random fifteen-verse Job passages reach a top score of 8 with a lead of 2 about 2% of the time, and the window was found after the ranking. *Moderate–high* `[S: audit 3]`.
    - **The contacts** (lemma):
      - גדר ("wall up"): "He has walled up (גָדַר) my way so that I cannot pass (וְלֹא אֶעֱבוֹר)" (19:8) against "He has walled me in (גָּדַר) so that I cannot go out (וְלֹא אֵצֵא)" (Lam 3:7), with the same construction. In Job גדר occurs only here; it is at Lam 3:7 and 3:9.
      - גדר with נְתִיבָה ("path"): only Hos 2:8, Isa 58:12, Lam 3:9 and Job 19:8.
@@ -190,21 +193,22 @@ The exegetically strongest claims, each surfaced by several tools:
      - Darkness on the way: "He has put darkness (חֹשֶׁךְ) on my paths" (19:8) against "made me walk in darkness (חֹשֶׁךְ) and not in light" (Lam 3:2).
      - Skin, flesh and bones together: Job 10:11; 19:20; Lam 3:4; Mic 3:3 (lemma).
      - יגה ("torment, grieve"): "How long will you torment me (תּוֹגְיוּן)?" (19:2). Five of its eight occurrences are in Lamentations, two of them at 3:32–33: "For He does not afflict willingly or grieve (וַיַּגֶּה) the sons of men". 
-   - **Lamentations 3 has the arc of Job 19, not only its siege.** The chapter that opens with the walled-in man (3:1–9) closes in court: "O Lord, You have pleaded my soul's cause (רַבְתָּ … רִיבֵי נַפְשִׁי); You have redeemed my life (גָּאַלְתָּ חַיָּי). O LORD, You have seen (רָאִיתָה) my oppression; judge my case (מִשְׁפָּטִי)" (Lam 3:58–59), and asks God to "pursue (תִּרְדֹּף)" the enemies (3:66). Job's speech moves from the siege (19:6–20) through "no justice (מִשְׁפָּט)" (19:7) and "Why do you pursue (תִּרְדְּפֻנִי) me?" (19:22) to "my Redeemer lives (גֹּאֲלִי חָי)" and "my eyes will see (רָאוּ)" (19:25–27). גאל with חַי / חַיִּים ("living", "life") in one verse occurs only at Ruth 2:20; 3:13; 2 Sam 14:11; Ps 103:4; Lam 3:58 and Job 19:25 (lemma, 2416 a and e). What Lamentations' man says has happened ("You have redeemed my life"), Job says he knows ("my Redeemer lives"). Lamentations 3 also holds Job's charge in its own words: "To defraud (לְעַוֵּת) a man in his lawsuit (בְּרִיבוֹ) — of these things the Lord does not approve" (3:36); "O LORD, You have seen my oppression (עַוָּתָתִי)" (3:59). עות ("pervert, wrong") is the verb of Job 19:6 ("God has wronged me", עִוְּתָנִי); in Job it occurs only at 8:3, 19:6 and 34:12, and its noun עַוָּתָה only at Lam 3:59 (lemma). What Job says God has done, Lamentations says the Lord does not approve, and has seen. `[T]` for the words; `[I]` for the arc. *Moderate–high.* **New.**
-   - **This extends queue #58.** The 16–17 dig found Lam 3:12–13 and 3:30 behind 16:10–13. Lamentations 3 is now in contact with both of Job's second-round speeches, and its opening siege (3:1–9) with chapter 19. *Moderate–high on the pattern; direction open* (Lamentations follows Job in the Ketuvim).
-   - **Habakkuk 1:2–4.** "How long (עַד־אָנָה), O LORD, will I call for help (שִׁוַּעְתִּי), and You will not hear? I cry out to You, 'Violence!' (חָמָס) … justice (מִשְׁפָּט) is never upheld" (Hab 1:2, 4). שׁוע with חָמָס occurs only at Hab 1:2 and Job 19:7 (lemma). Job has "How long" (19:2), "I cry, 'Violence!' … I shout for help … there is no justice" (19:7). The prophet's complaint against God's silence, voiced by Job. *Moderate–high.* **New.**
+   - **Lamentations 3 has the arc of Job 19, not only its siege.** The chapter that opens with the walled-in man (3:1–9) closes in court: "O Lord, You have pleaded my soul's cause (רַבְתָּ … רִיבֵי נַפְשִׁי); You have redeemed my life (גָּאַלְתָּ חַיָּי). O LORD, You have seen (רָאִיתָה) my oppression; judge my case (מִשְׁפָּטִי)" (Lam 3:58–59), and asks God to "pursue (תִּרְדֹּף)" the enemies (3:66). Job's speech moves from the siege (19:6–20) through "no justice (מִשְׁפָּט)" (19:7) and "Why do you pursue (תִּרְדְּפֻנִי) me?" (19:22) to "my Redeemer lives (גֹּאֲלִי חָי)" and "my eyes will see (רָאוּ)" (19:25–27). גאל with חַי / חַיִּים ("living", "life") in one verse occurs only at Ruth 2:20; 3:13; 2 Sam 14:11; Ps 103:4; Lam 3:58 and Job 19:25 (lemma, 2416 a and e). What Lamentations' man says has happened ("You have redeemed my life"), Job says he knows ("my Redeemer lives"). Lamentations 3 also holds Job's charge in its own words: "To defraud (לְעַוֵּת) a man in his lawsuit (בְּרִיבוֹ) — of these things the Lord does not approve" (3:36); "O LORD, You have seen my oppression (עַוָּתָתִי)" (3:59). עות ("pervert, wrong") is the verb of Job 19:6 ("God has wronged me", עִוְּתָנִי); in Job it occurs only at 8:3, 19:6 and 34:12, and its noun עַוָּתָה only at Lam 3:59 (lemma). What Job says God has done, Lamentations says the Lord does not approve, and has seen. `[T]` for the words; `[I]` for the arc. *v1.0: moderate–high.* **v1.1: low.** The arc rests on items with better partners: 19:7 belongs to Hab 1:2, and 19:6's עות answers Bildad's own 8:3 ("Does God pervert justice?") more directly than Lam 3:36, 59. Keep the words as `[T]` and the arc as a reader's comparison `[S: audit 3]`.
+   - **This extends queue #58.** The 16–17 dig found Lam 3:12–13 and 3:30 behind 16:10–13. Lamentations 3 is now in contact with both of Job's second-round speeches, and its opening siege (3:1–9) with chapter 19. *Moderate–high on the pattern; direction open* (Lamentations follows Job in the Ketuvim). **v1.1:** at Job 16 the source is Lam 2:10–17 (high); at Job 19, Lam 3:1–9 (moderate–high) `[S: audit 3]`.
+   - **Habakkuk 1:2–4.** "How long (עַד־אָנָה), O LORD, will I call for help (שִׁוַּעְתִּי), and You will not hear? I cry out to You, 'Violence!' (חָמָס) … justice (מִשְׁפָּט) is never upheld" (Hab 1:2, 4). שׁוע with חָמָס occurs only at Hab 1:2 and Job 19:7 (lemma). Job has "How long" (19:2), "I cry, 'Violence!' … I shout for help … there is no justice" (19:7). The prophet's complaint against God's silence, voiced by Job. *Moderate–high.* **New.** **v1.1: confirmed with nuance — words moderate–high; shape low–moderate.** "No justice" (וְאֵין מִשְׁפָּט) is Isa 59:8's exact phrase (only there and 19:7), and Lam 3:7–9 is a co-witness for 19:7–8 `[S: audit 3]`.
    - **The Psalter.** Three single verses are exclusive or nearly so, and each is tested:
-     - Ps 88:9 [Eng 88:8] and 88:19 [Eng 88:18]: רחק ("remove far") with מְיֻדָּע ("acquaintance") only there and at Job 19:13 (overview row). Ps 88:18 [Eng 88:17] adds "they have encompassed me (הִקִּיפוּ עָלַי) altogether (יָחַד)" — נקף + עָלַי + יַחַד, only there; Job has them at 19:6 and 19:12. Ps 88's best window ranks in the top 2% against 19:6–20.
-     - Ps 102:6 [Eng 102:5]: "My bones cling (דָּבְקָה עַצְמִי) to my flesh (לִבְשָׂרִי)". דבק + עֶצֶם + בָּשָׂר only there and at Job 19:20 ("My bone clings (דָּבְקָה עַצְמִי) to my skin and my flesh"). *High on the words.* **New.**
-     - Ps 69:9 [Eng 69:8]: "I have become estranged (מוּזָר) from my brothers (לְאֶחָי) and an alien (וְנָכְרִי) to my mother's sons (לִבְנֵי אִמִּי)". אָח + זוּר + נָכְרִי in one verse only there; Job spreads them over 19:13–17. **New.**
+     - Ps 88:9 [Eng 88:8] and 88:19 [Eng 88:18]: רחק ("remove far") with מְיֻדָּע ("acquaintance") only there and at Job 19:13 (overview row). Ps 88:18 [Eng 88:17] adds "they have encompassed me (הִקִּיפוּ עָלַי) altogether (יָחַד)" — נקף + עָלַי + יַחַד, only there; Job has them at 19:6 and 19:12. Ps 88's best window ranks in the top 2% against 19:6–20. *v1.1: moderate — do not raise.* The one real contact spans two verses ("removed far" 19:13; "acquaintances" 19:14). God as the one who removes them is Hebrew-only, since the BHS apparatus and the Greek have the brothers as subject. The top-2% rank is an artefact of ranking `[S: audit 3]`.
+     - Ps 102:6 [Eng 102:5]: "My bones cling (דָּבְקָה עַצְמִי) to my flesh (לִבְשָׂרִי)". דבק + עֶצֶם + בָּשָׂר only there and at Job 19:20 ("My bone clings (דָּבְקָה עַצְמִי) to my skin and my flesh"). *High on the words.* **New.** *v1.1: confirmed, high.* A second exclusive contact, אֲנָחָה + לֶחֶם ("groaning" + "bread") within one verse (Ps 102:5–6 [Eng 102:4–5]; Job 3:24), makes Ps 102 a live source in Job (moderate–high) `[S: audit 3]`.
+     - Ps 69:9 [Eng 69:8]: "I have become estranged (מוּזָר) from my brothers (לְאֶחָי) and an alien (וְנָכְרִי) to my mother's sons (לִבְנֵי אִמִּי)". אָח + זוּר + נָכְרִי in one verse only there; Job spreads them over 19:13–17. **New.** *v1.1: confirmed, moderate (phrase)* `[S: audit 3]`.
      - **But the set is not distinctive.** Against 19:13–19 (the abandonment list) the psalms of abandonment do not stand out: Ps 31 ranks 17th, Ps 69 89th, Ps 88 94th, Ps 38 368th of 887. The individual contacts hold; a designed "Psalter of the abandoned" does not. *Report as phrase contacts, not as a pattern.*
-   - *Surfaced by:* Tool 11, Vocabulary, Tone, the baselines. *High on the words; moderate–high on Lamentations 3 as a source.*
+   - *Surfaced by:* Tool 11, Vocabulary, Tone, the baselines. *High on the words; moderate–high on Lamentations 3 as a source.* **v1.1:** Lam 3:1–9 moderate–high; the Lam 3 arc low; Hab 1:2 moderate–high; Ps 102 high; Ps 88 moderate `[S: audit 3]`.
 
 5. **Job answers Bildad at the points where Bildad began and ended, and carries on his own case from chapters 16–17. Chapter 19 also plants what the epilogue resolves: the hand that "touched", the anger "kindled", and those who knew him.** `[T]` for each verbal link; `[I]` for the pattern
    - **Bildad's opening and close** (lemma unless stated):
      - "How long (עַד־אָנָה) will you hunt for words (לְמִלִּין)?" (18:2) → "How long (עַד־אָנָה) will you torment me and crush me with words (בְמִלִּים)?" (19:2). עַד־אָן(ה) ("how long") occurs in Job only at 8:2 and 18:2 — Bildad's two openings — and at 19:2, Job's reply; with "words", only 18:2 and 19:2.
      - "Why are we regarded (נֶחְשַׁבְנוּ) as beasts, as stupid in your eyes (בְּעֵינֵיכֶם)?" (18:3) → "my maids consider me (תַּחְשְׁבֻנִי) a stranger; I am a foreigner in their sight (בְעֵינֵיהֶם)" (19:15). חשב ("regard") with עַיִן ("eye") occurs in Job only at 18:3 and 19:15.
      - "This is the place of him who does not know God" (18:21) → the five uses of ידע (Headline 1).
+     - **v1.1 (claim audit 3).** "Does God pervert (יְעַוֵּת) justice?" (8:3) → "God has wronged me (עִוְּתָנִי)" (19:6). Job answers Bildad's first speech with Bildad's own verb `[S: audit 3]`.
    - **Bildad's poem, answered** (sweep and new):
      - the six trap words (18:8–10) → "God … has closed His net (מְצוּדוֹ) around me" (19:6): not my feet, God's net (sweep);
      - "He is driven from light into darkness (חֹשֶׁךְ)" (18:18) → "He has put darkness (חֹשֶׁךְ) on my paths" (19:8);
@@ -222,7 +226,7 @@ The exegetically strongest claims, each surfaced by several tools:
      - **The hand.** "Put forth Your hand now and touch (וְגַע) …" (1:11; 2:5, the Accuser) → "the hand of God has struck (נָגְעָה) me" (19:21). נגע ("touch") with יָד ("hand") occurs in Job only in these three verses (overview row; confirmed).
      - **The anger.** "He has also kindled His anger (וַיַּחַר … אַפּוֹ) against me" (19:11) → Elihu's anger (32:2, 3, 5) → "My wrath is kindled (חָרָה אַפִּי) against you [Eliphaz]" (42:7). חרה + אַף in Job: 19:11; 32:2, 3, 5; 42:7. The anger Job felt turned on him is in the end turned on the friends. **New.** *High on the words; moderate–high on the design.*
      - **The brothers and acquaintances**: 19:13 → 42:11 (Headline 1).
-     - **The survivor.** The four messengers each say "I alone have escaped (וָאִמָּלְטָה) to tell you" (1:15, 16, 17, 19). Job: "I have escaped (וָאֶתְמַלְּטָה) only by the skin of my teeth" (19:20). מלט ("escape") in the first person, wayyiqtol, only in these verses of Job. `[T]` *Moderate–high.* **New.**
+     - **The survivor.** The four messengers each say "I alone have escaped (וָאִמָּלְטָה) to tell you" (1:15, 16, 17, 19). Job: "I have escaped (וָאֶתְמַלְּטָה) only by the skin of my teeth" (19:20). מלט ("escape") in the first person, wayyiqtol, only in these verses of Job. `[T]` *Moderate–high.* **New.** *Round 6: moderate.* HALOT offers II מלט ("I was stripped to the skin of my teeth", hitpael "be bald") as an alternative, and lists 19:20 under it. Delitzsch reads "escape" and compares the form with 1:15; the WLC files 19:20 under the same lemma as 1:15–19 (4422) `[S: Logos round 6]`.
    - *Surfaced by:* Move 4, Repetition, Structure, the speech-pair baseline. *High on the individual links; moderate on design.*
 
 ---
@@ -439,42 +443,42 @@ N/A in the body of the speech: the only narrative line is the formula "Then Job 
 
 No direct quotation. The contacts below are verbal allusions, each lemma-verified and graded. The significant ones receive the full Triad (Move 1 source context; Move 2 book usage; Move 3 OT to OT).
 
-**Isa 44:6 → 19:25** *(high on the words; moderate on what they imply; the sweep's find, confirmed)*
+**Isa 44:6 → 19:25** *(v1.1: moderate–high on the words; the identity a reading, moderate* `[S: audit 3]`*; the sweep's find, confirmed)*
 - **Move 1 — source context.** Isa 44:6–8: the LORD, "the King of Israel and his Redeemer (וְגֹאֲלוֹ) … 'I am the first and I am the last (אַחֲרוֹן), and there is no God besides Me'", challenges the idols to declare what is to come. The Redeemer is God himself.
 - **Move 2 — book usage.** Isaiah is a live source in Job: Isa 50:6–9 at 13:18–28 and 16:10 (#23, audited); Isa 49:4 at 9:29 (#18); Isa 40:27 at 3:23 (#12); Isa 53:9 at 16:17 (#61); Isa 38:14 at 17:3 (#57); and in this chapter Isa 30:8 and Isa 26:19.
 - **Move 3 — OT to OT.** Isaiah's Redeemer sayings (41:14; 43:14; 44:6, 24; 47:4; 48:17; 49:7, 26; 54:5, 8; 59:20; 60:16; 63:16) are a sequence addressed to exiles. Two of them pair "Redeemer" with "know": "all flesh will know (וְיָדְעוּ כָל־בָּשָׂר) that I, the LORD, am your Savior and your Redeemer" (Isa 49:26); "you will know that I, the LORD, am your Savior and your Redeemer" (60:16). גֹּאֵל + ידע + בָּשָׂר ("flesh") occur in one verse only at Isa 49:26; Job has them across 19:25–26 ("I know … my Redeemer … from my flesh"). *Moderate (synthetic).* The window baseline ranks Isa 49:22–26 41st of 887 against 19:23–27, so this second contact is weaker than 44:6.
 - **What it adds.** The one other verse that pairs "Redeemer" with "last" identifies the Redeemer as the LORD. That supports, without proving, the reading that Job's Redeemer is God himself — God appealed to against God. `[I]` *Moderate.*
 
-**Isa 30:8 → 19:23–25** *(high on the words; moderate on the design)* **New**
+**Isa 30:8 → 19:23–25** *(v1.1: confirmed, moderate–high* `[S: audit 3]`*)* **New**
 - **Move 1.** Isaiah is told to write the oracle against trusting Egypt "on a tablet … and inscribe it on a scroll, that it may serve in the time to come as a witness forever" (30:8), "for this is a rebellious people … who refuse to listen to the instruction of the LORD" (30:9).
 - **Move 2.** As above: Isaiah is live in Job.
 - **Move 3.** Hab 2:2–3 is the other "write it for the end" text: "Record the vision and inscribe it on tablets … For the vision is yet for the appointed time; it hastens toward the goal (לַקֵּץ)" — the answer to Habakkuk's "How long … 'Violence!'" (see below). Writing for a later day is the prophets' way of committing a word to a future vindication.
 - **What it adds.** Job's wish to have his words written, inscribed and engraved "forever" uses Isaiah's three verbs of writing, and moves, as Isaiah does, from writing to "the last" (Isa 30:8 לְיוֹם אַחֲרוֹן; Job 19:25 וְאַחֲרוֹן). Job's words would be a written witness for a later day. `[T]` for the words; `[I]` for the function. *Moderate–high.*
 
-**Jer 17:1 → 19:24** *(high on the words; moderate as an allusion)* **New**
+**Jer 17:1 → 19:24** *(v1.1: moderate; Hebrew-only* `[S: audit 3]`*)* **New**
 - **Move 1.** "The sin of Judah is written down with an iron stylus (בְּעֵט בַּרְזֶל); with a diamond point it is engraved upon the tablet of their heart and on the horns of their altars". Sin inscribed indelibly.
 - **Move 2.** Jeremiah is live in Job (Jer 20:14–18 behind chapter 3; Jer 15:18–21 at 6:15–23, #50; Jer 49:7 for Eliphaz, #40).
 - **What it adds.** עֵט + בַּרְזֶל only here and at Job 19:24. Jeremiah's iron stylus records guilt; Job wants his innocence recorded with the same tool. `[I]` *Moderate.*
 
-**Lam 3:1–9 → 19:6–20** *(high on the words; moderate–high on the source)*
+**Lam 3:1–9 → 19:6–20** *(v1.1: moderate–high on the source; the 3:36, 58–59 arc low* `[S: audit 3]`*)*
 - **Move 1.** The "man (הַגֶּבֶר) who has seen affliction because of the rod of His wrath" (Lam 3:1) is driven into darkness (3:2), his flesh and skin worn out and his bones broken (3:4), besieged (3:5), walled in so that he cannot go out (3:7), his cry shut out (3:8), his ways blocked and his paths made crooked (3:9). The chapter turns at 3:21–24 to hope in the LORD's faithfulness.
 - **Move 2.** Lamentations is live in Job: Lam 4:8 at 2:12 (#4); Lam 3:12–13, 30 at 16:10–13 (#58); and here Lam 3:1–9 at 19:6–20, which ranks first of 887 windows (Headline 4). The overview's row (Lam 3:7, 9 at 19:8) is confirmed and widened.
 - **Move 3.** Ps 88:9, 18–19 shares the walled-in and abandoned vocabulary (below); Hos 2:8 [Eng 2:6] shares גדר + נְתִיבָה ("I will build a wall against her so that she cannot find her paths").
 - **What it adds.** Job's siege is told in the vocabulary of the man of Lamentations 3, and the two chapters share an arc. Lamentations' man turns to "The LORD's lovingkindnesses indeed never cease" (3:22) and ends in court with a Redeemer: "You have pleaded my soul's cause; You have redeemed my life (גָּאַלְתָּ חַיָּי). O LORD, You have seen my oppression; judge my case" (3:58–59). Job's speech turns, from the same siege, to "I know that my Redeemer lives (גֹּאֲלִי חָי)" (19:25) and "my eyes will see" (19:27). Lamentations states as done what Job confesses as known. `[I]` *Moderate–high.* Direction of dependence open: Lamentations follows Job in the Ketuvim.
 
-**Hab 1:2–4 (with 2:2–3) → 19:2, 7, 23** *(moderate–high on the words; moderate on the shape)* **New**
+**Hab 1:2–4 (with 2:2–3) → 19:2, 7, 23** *(moderate–high on the words; v1.1: low–moderate on the shape* `[S: audit 3]`*)* **New**
 - **Move 1.** "How long, O LORD, will I call for help, and You will not hear? I cry out to You, 'Violence!' yet You do not save … the law is ignored and justice is never upheld" (Hab 1:2, 4). God answers (וַיַּעֲנֵנִי, 2:2): "Record the vision and inscribe it on tablets … though it tarries, wait for it".
 - **Move 2.** First appearance of Habakkuk in this project's Job work. *Single use; not live.*
 - **Move 3.** Jer 20:8 ("I cry aloud; I proclaim violence and destruction"; זעק + חָמָס) is the nearest rival. Hab 1:2 is the only verse with שׁוע + חָמָס, and the only one with שׁוע + עַד־אָנָה (lemma).
 - **What it adds.** The prophet's complaint and its answer have the shape of Job 19: "how long", "violence", no answer, no justice, then writing for an appointed end. Job has the complaint and the wish to write; he does not yet have the answer. `[I]` *Moderate (synthetic).*
 
-**Ps 88:9, 18–19 [Eng 88:8, 17–18] → 19:6–14** *(moderate–high)*
+**Ps 88:9, 18–19 [Eng 88:8, 17–18] → 19:6–14** *(v1.1: moderate — not raised* `[S: audit 3]`*)*
 - **Move 1.** The psalm of unrelieved darkness: "You have removed my acquaintances far from me (הִרְחַקְתָּ מְיֻדָּעַי); You have made me an object of loathing (תוֹעֵבוֹת) to them; I am shut up and cannot go out" (88:9); "They have encompassed me (הִקִּיפוּ עָלַי) altogether (יָחַד)" (88:18); "You have removed lover and friend (אֹהֵב וָרֵעַ) far from me; my acquaintances are in darkness" (88:19).
 - **Move 2.** Ps 88 is live in Job (overview: 19:13–14; the Job 3 report: 88:6 at 3:19).
 - **The contacts.** רחק + מְיֻדָּע only at Ps 88:9, 19 and Job 19:13 (overview; confirmed). נקף + עָלַי + יַחַד only at Ps 88:18; Job has them in 19:6 and 19:12. The "loathing" noun at 88:9 is the root of "All my associates abhor me (תִּעֲבוּנִי)" (19:19); "lover and friend" are Job's "those I love" (19:19) and "my friends" (19:21). Ps 88:11–19 ranks in the top 2% of windows against 19:6–20.
 - **What it adds.** The overview's row (moderate) can be raised to *moderate–high*. Ps 88 never turns to praise; Job 19 does turn, to confession.
 
-**Ps 102:6 [Eng 102:5] → 19:20** *(high on the words)* **New**
+**Ps 102:6 [Eng 102:5] → 19:20** *(high on the words; v1.1: confirmed, with 102:5–6 at 3:24* `[S: audit 3]`*)* **New**
 - "Because of the loudness of my groaning my bones cling to my flesh (דָּבְקָה עַצְמִי לִבְשָׂרִי)". Job: "My bone clings (דָּבְקָה עַצְמִי) to my skin and my flesh (וּבִבְשָׂרִי)". דבק + עֶצֶם + בָּשָׂר only in these two verses (lemma).
 - **Move 2.** A second contact: "my bones have been scorched like a hearth" (Ps 102:4 [Eng 102:3]); "my bones burn (חָרָה) with fever" (Job 30:30). עֶצֶם + חרר ("burn"): Ezek 24:10; Ps 102:4; Job 30:30 (lemma). Ps 102 is live in Job, at the two body-laments.
 - **Move 3.** Ps 102 sets the sufferer's withering against "But You, O LORD, abide forever" (102:13 [Eng 102:12]) and "You are the same, and Your years will not come to an end" (102:28 [Eng 102:27]) — the permanence Job longs to have his words share, and the life he confesses in his Redeemer. `[I]`
@@ -484,11 +488,11 @@ No direct quotation. The contacts below are verbal allusions, each lemma-verifie
 - **Move 2.** A second contact: "I looked for sympathy (לָנוּד), but there was none, and for comforters (וְלַמְנַחֲמִים), but I found none" (Ps 69:21 [Eng 69:20]). נוד + נחם together: Job 2:11; 42:11; Ps 69:21; Isa 51:19; Nah 3:7 (lemma).
 - **But** the abandonment psalms as a set are not distinctive against 19:13–19 (Headline 4). Two good phrase contacts, no proven pattern.
 
-**Isa 26:19 → 19:25 (with 14:12)** *(high on the words; design open)* — see Headline 2; extends queue #26.
+**Isa 26:19 → 19:25 (with 14:12)** *(high on the words; v1.1: low–moderate as the canonical answer — rivals Jer 51:39, 57 and Gen 4:10* `[S: audit 3]`*)* — see Headline 2; extends queue #26.
 
-**Ps 72:14 → 16:17–18; 19:7, 25** *(moderate, synthetic)* — the king who "redeems" from "violence" and holds "blood" precious; see Headline 2.
+**Ps 72:14 → 16:17–18; 19:7, 25** *(v1.1: weak* `[S: audit 3]`*)* — the king who "redeems" from "violence" and holds "blood" precious; see Headline 2.
 
-**Deut 19:6, 12, 15–19 → 16:8, 18; 19:25** *(moderate, synthetic)* — the avenger of blood and the witness law in one chapter; see Headline 2 and Historical Background.
+**Deut 19:6, 12, 15–19 → 16:8, 18; 19:25** *(v1.1: the witness law moderate at 16:8; the avenger of blood weak* `[S: audit 3]`*)* — the avenger of blood and the witness law in one chapter; see Headline 2 and Historical Background.
 
 **Ps 8:6 [Eng 8:5] → 19:9** *(moderate; sweep)* — "glory" and the cognate "crown". The second Ps 8 reversal in Job, after 7:17–18 (queue #48's strand). Confirmed on the words; nothing new.
 
@@ -706,7 +710,7 @@ N/A — Job is not a Torah book. The narrative-reading tools are applied to the 
   - The movement is from denial, to hope, to petition, to knowledge. `[T]` for the wording; `[I]` for the sequence.
 - **The canonical answer.** The kinsman-Redeemer who must share our flesh and blood (Heb 2:14–17), who "always lives to make intercession" (Heb 7:25), who is "the first and the last, and the living One" (Rev 1:17–18), and whom we shall see "just as He is" (1 John 3:2). The redemption Job hoped for "from my flesh" Paul calls "the redemption of our body" (Rom 8:23). `[T]` for the texts.
 - **Martha and the Greek of Job.** "I know (οἶδα) that he will rise again (ἀναστήσεται) in the resurrection on the last day" (John 11:24). The Greek of Job 19:25–26 has οἶδα ("I know") and ἀναστήσαι ("may he raise up"), and the Hebrew has אַחֲרוֹן ("at the last"). Jesus' answer, "I am the resurrection and the life" (John 11:25), names the Redeemer Job confessed. `[T]` for the Greek; `[I]` for the connection — *colour, not a quotation*.
-- **Typology — the abandoned righteous sufferer.** Job estranged from brothers, friends, servants and wife, struck by the hand of God and pursued by those who should pity him, is a type of the Christ whom "all the disciples left … and fled" (Matt 26:56) and who cried "My God, My God, why have You forsaken Me?" (Matt 27:46, from Ps 22:2, a psalm already live in Job, queue #7). *Moderate.* `[I]`
+- **Typology — the abandoned righteous sufferer.** Job estranged from brothers, friends, servants and wife, struck by the hand of God and pursued by those who should pity him, is a type of the Christ whom "all the disciples left … and fled" (Matt 26:56) and who cried "My God, My God, why have You forsaken Me?" (Matt 27:46, from Ps 22:2 — a psalm that claim audit 3 rates *low* as a source in Job, queue #7 `[S: audit 3]`; the link here is the Gospels', not Job's). *Moderate.* `[I]`
 - **The contrast.** Job confesses a Redeemer; Christ is the Redeemer. Job wishes his innocence engraved; Christ's innocence is vindicated by resurrection (Rom 1:4). Job's "God has wronged me" (19:6) is not Christ's word: Christ "kept entrusting Himself to Him who judges righteously" (1 Pet 2:23). `[I]`
 - **Keep honest.**
   - The referent of גֹּאֵל in Job's mouth is contested: God himself (Andersen; Lange with Delitzsch and Dillmann; Laurin — round 2, strong `[S]`); a heavenly third party; or Job's vindication personified. The Isa 44:6 contact favours God himself; the 16:19–21 and 17:3 context favours God appealed to against God.
@@ -766,8 +770,8 @@ Places where several tools agree:
 - **The Redeemer as God himself** — Tool 11 (Isa 44:6), Original Languages (19:26 names אֱלוֹהַּ), Difficult Verses, the library (Andersen; Lange, Delitzsch and Dillmann; Laurin — round 2).
 - **"Upon the dust" as the grave** — Vocabulary (עַל־עָפָר in Job), Move 4 (17:16 → 19:25), Original Audience, Translations (NIV84 margin).
 - **"Rise" in three senses** (the court, the grave, the dust) — Move 4 (16:8; 14:12), Tool 11 (Isa 26:19; Deut 19:15–16), Original Languages.
-- **Writing for the last day** — Tool 11 (Isa 30:8; Jer 17:1; Hab 2:2–3), Repetition (words crushed / words written), the baseline (Isa 30 and Isa 44 in the top 1%).
-- **Lamentations 3 as the siege's source, and its arc** — Tool 11, the baseline (Lam 3:1–9 first of 887), Vocabulary (גדר only here in Job; יגה), Lam 3:58–59 (the Redeemer of life, the case judged).
+- **Writing for the last day** — Tool 11 (Isa 30:8; Jer 17:1; Hab 2:2–3), Repetition (words crushed / words written). The baseline (Isa 30 and Isa 44 in the top 1%) is withdrawn in v1.1; the verse-level wording carries the finding `[S: audit 3]`.
+- **Lamentations 3 as the siege's source, and its arc** — Tool 11, the baseline (Lam 3:1–9 first of 887), Vocabulary (גדר only here in Job; יגה), Lam 3:58–59 (the Redeemer of life, the case judged). **v1.1:** the siege moderate–high; the arc low `[S: audit 3]`.
 - **Job continues 16–17** — the three lemmas unique in Job to those two speeches (חָמָס, חֶרְפָּה, כִּלְיָה), Move 4.
 - **Job answers Bildad pointedly, not volumetrically** — Move 4 (18:2, 3, 13, 16, 18, 20, 21), the speech-pair baseline (negative for saturation).
 - **No address to God** — Structure (the address test), Tone, Genre.
@@ -811,12 +815,26 @@ Places where several tools agree:
 
 1. **19:26 מִבְּשָׂרִי** — standpoint ("from within my flesh") or privative ("apart from my flesh")? The verb of seeing leans to standpoint; Lange's parallels allow the privative. Clines (WBC) and Hartley (NICOT) are not owned. *Leave open; state both.*
 2. **The identity of the גֹּאֵל** — God himself (strong `[S]`, and Isa 44:6) or a third party (the witness of 16:19 as distinct from God). *Leaning to God himself.*
-3. **Isa 30:8 and Jer 17:1 at 19:23–24** — designed allusion, or the shared language of writing? Both pairs are exclusive; the window baseline puts Isa 30 in the top 1%. **Queue for audit, with a rival search.**
-4. **Lamentations 3 as a source for chapter 19, and its arc** — direction of dependence, and whether the 3:1–9 / 3:58–59 frame is designed. **Extends queue #58.**
-5. **Habakkuk 1:2–2:3** — a single-use source with a matching shape (complaint, no answer, write for the end). **Queue.**
+3. **Isa 30:8 and Jer 17:1 at 19:23–24** — designed allusion, or the shared language of writing? Both pairs are exclusive; the window baseline puts Isa 30 in the top 1%. **Audited (claim audit 3):** Isa 30:8 confirmed, moderate–high; Jer 17:1 moderate (Hebrew-only); the rank adds nothing `[S: audit 3]`.
+4. **Lamentations 3 as a source for chapter 19, and its arc** — direction of dependence, and whether the 3:1–9 / 3:58–59 frame is designed. **Audited (claim audit 3):** the siege moderate–high; the frame low `[S: audit 3]`.
+5. **Habakkuk 1:2–2:3** — a single-use source with a matching shape (complaint, no answer, write for the end). **Audited (claim audit 3):** words moderate–high; shape low–moderate `[S: audit 3]`.
 6. **19:13 "He" or "they"; 19:20 "escaped" or "gnawed"; 19:24 "lead" or "point"; 19:28 "me" or "him"** — the apparatus proposals. Only 19:28 affects the ESV congregation.
 7. **The Greek of 19:25–27** — a different Hebrew, or interpretation? The Göttingen apparatus (not owned) would show the Hexaplaric history.
 8. **Why does Job not address God in chapter 19?** The address test is `[T]`; its meaning (exhaustion, turning to the friends and the future, or the third person of confession) is `[I]`.
+
+**Added by Logos round 6 (7 Oct 2026), corpus-checked** (`claude/job-logos-answers-round-6-assessment.md`).
+
+- **19:25 אַחֲרוֹן.** Delitzsch: the word "signifies *postremus, novissimus*, and is to be understood according to Isa 44:6, 48:12, comp. 41:4". "The Last" as a divine title occurs only in those three verses (WLC). He mentions, and sets aside, the avenger-of-blood reading (Umbreit). For גאל he cites Prov 23:11, Lam 3:58 and Ps 119:154 (vindication of the oppressed) `[S: Delitzsch]`.
+  - History of interpretation is present for Isa 44:6 (#70).
+  - On Delitzsch's titular reading, "last" works the same way in both texts, which answers audit 3's objection. Rating **moderate–high**; *high* if the titular reading is adopted.
+- **Lamentations 3 — Schnittjer.** *Old Testament Use of Old Testament* (2021), 557–558: Lam 3:6–9 and Job 19:6–12 share darkness, walling in, blocked paths and unanswered cries. **Lamentations is the donor, Job the receptor**, on two grounds: the alterations resemble the friends' allusions to one another, and Job uses the language ironically `[S: Schnittjer, via the Research Assistant]`.
+  - History **Strong**. The core contact (Lam 3:7–9 ~ Job 19:7–8: walled, cry, paths) rises to **high**; the nine-verse window stays moderate–high.
+  - The project still records the direction as open; Schnittjer's case is the argued view to report.
+- **Isa 30:8.** Barnes notes the link. TLOT pairs חקק ("inscribe") with כתב ("write") at Isa 10:1; 30:8; Job 19:23 `[S: Barnes; TLOT]`. History **Strong**; #63 rises to **high (words)**.
+  - The Assistant reports Lange as saying the Greek reads "for a witness" in both texts. Swete does not bear this out: Isa 30:8 has "until for ever", and Job's "for ever" is at 19:23. Check Lange p. 456 before citing him.
+- **Ps 102.** Longman (TOTC, *Psalms*, 353) links Ps 102:5 [Heb 102:6] with Job 19:20. Brooks and the HCSB cross-references link Job 3:24 with Ps 102:4–5 `[S]`. History present; **high**.
+- **Hab 1:2.** No cited source; the library is silent. Rating unchanged.
+- **19:26 מִבְּשָׂרִי.** Lange takes it as privative ("apart from my flesh"), with Chrysostom. Belcher (NSBT) takes the traditional bodily reading. Still open; Delitzsch's own view (Keil–Delitzsch 4:437) is worth one look.
 
 **Closed in this dig.**
 
@@ -837,16 +855,17 @@ Places where several tools agree:
 
 ## Book-Overview Tensions
 
-1. **Intertextual Map — Lam 3 row.** The overview has Lam 3:7, 9 at 19:8 (*moderate*). **Extend** to Lam 3:1–9 at 19:6–20 (first of 887 windows) and Lam 3:58–59 at 19:25–27 (the Redeemer of life; the case judged). With the 16–17 contacts (Lam 3:12–13, 30) the row becomes *moderate–high*, pending queue #58's audit.
-2. **Intertextual Map — Ps 88 row.** Add 88:18 [Eng 88:17] (נקף + עָלַי + יַחַד, exclusive) and 88:9 (the "loathing" of 19:19; "shut up and cannot go out" against 19:8). Raise to *moderate–high*.
+1. **Intertextual Map — Lam 3 row.** The overview has Lam 3:7, 9 at 19:8 (*moderate*). **Extend** to Lam 3:1–9 at 19:6–20 (first of 887 windows) and Lam 3:58–59 at 19:25–27 (the Redeemer of life; the case judged). With the 16–17 contacts (Lam 3:12–13, 30) the row becomes *moderate–high*, pending queue #58's audit. **v1.1:** Lam 3:1–9 at 19:6–20 moderate–high; Lam 3:58–59 low; the row's lead entry is Lam 2:10–17 at Job 16 (high) `[S: audit 3]`.
+2. **Intertextual Map — Ps 88 row.** Add 88:18 [Eng 88:17] (נקף + עָלַי + יַחַד, exclusive) and 88:9 (the "loathing" of 19:19; "shut up and cannot go out" against 19:8). Raise to *moderate–high*. **v1.1: do not raise — keep at moderate** `[S: audit 3]`.
 3. **Intertextual Map — new rows.**
    - Isa 30:8 at 19:23–25 (*moderate–high*; queue);
    - Jer 17:1 at 19:24 (*moderate*);
    - Hab 1:2–4 and 2:2–3 at 19:2, 7, 23 (*moderate*; queue);
    - Ps 102:6 at 19:20, with 102:4 at 30:30 (*high on words*; live);
    - Ps 69:9 at 19:13–17, with 69:21 at 2:11 and 42:11 (*moderate*; live);
-   - Isa 26:19 at 19:25 (extends queue #26);
-   - Ps 72:14 and Deut 19 (*moderate, synthetic*).
+   - Isa 26:19 at 19:25 (extends queue #26; *v1.1: low–moderate*);
+   - Ps 72:14 and Deut 19 (*moderate, synthetic*; *v1.1: weak*).
+   - **v1.1 additions:** 8:3 → 19:6 (עות, Echo Table, *moderate–high*); Lam 5:16 at 19:9 (the crown removed, *possible*; queue #88) `[S: audit 3]`.
 4. **Echo Table — new rows.**
    - 19:13 → 42:11 (brothers and those who knew him; *high*);
    - 19:11 → 32:2–5 → 42:7 (the kindled anger; *high on words*);
@@ -864,6 +883,25 @@ Places where several tools agree:
 8. **Address to God.** The overview's preaching trap 2 and the backbones' "lament addressed to God is vindicated" should note that chapter 19 is spoken of God, to the friends: no second-person singular. The finding about 42:7 rests on the dialogue as a whole, not on every speech. `[T]` for the data.
 9. **Preaching units.** The overview's unit 18:1–19:29 and the plan's solo dig 19:1–29 agree in substance: Bildad's speech is read here as the speech answered. No change.
 
+## What Changed in v1.1
+
+Patched on 7 October 2026 from `dig-deeper-job-claim-audit-3.md`. Nothing else in the report was altered. "Know" as the leading word, the stranger, the asyndetic "I know", "upon the dust", the epilogue's resolutions, the address test, the textual notes and the pulpit notes all stand.
+
+| Location | v1.0 | v1.1 |
+|---|---|---|
+| Headline 2 | Isa 44:6 high on the words; Isa 26:19 moderate (synthetic); the avenger of blood moderate | Isa 44:6 **moderate–high**, and the Redeemer's identity a reading; Isa 26:19 **low–moderate** (canonical answer, not quotation); the avenger of blood **weak** |
+| Headline 3 | Isa 30:8 and Jer 17:1 high on the words; ranks 2nd and 6th as evidence | Isa 30:8 **confirmed, moderate–high**; Jer 17:1 **moderate** (Hebrew-only); the ranks withdrawn |
+| Headline 4 | Lam 3:1–9 first of 887; the Lam 3 arc moderate–high; Hab 1:2 moderate–high; Ps 88 moderate–high | Lam 3:1–9 **moderate–high** (upper tail of chance; post hoc); the arc **low**; Hab 1:2 words **moderate–high**, shape low–moderate; Ps 88 **moderate, not raised**; Ps 102 **high**, with 3:24 |
+| Headline 5 | Bildad answered | adds 8:3 → 19:6 (עות) |
+| Tool 11 headers | as proposed | revised to match |
+| Convergent Findings | the Lam 3 arc; the top-1% baseline for writing | the arc low; the baseline withdrawn |
+| Open Questions 3–5 | queued | answered by the audit |
+| Book-Overview Tensions 1–3 | Lam 3 row moderate–high; Ps 88 raised; new rows | Lam 3:1–9 moderate–high and Lam 2 at Job 16 high; Ps 88 kept at moderate; Isa 26 low–moderate; Ps 72 / Deut 19 weak; two additions |
+
+The Christological Reading needs no change of substance. It already presents Isa 44:6 as favouring God himself, without making it proof, and Isa 26:19 and Dan 12:2 as the canon's supply rather than Job's claim.
+
+---
+
 ## Text-First Declaration
 
 **Secondary sources present in context:**
@@ -872,7 +910,8 @@ Places where several tools agree:
 - the Unit 1 report; the Job 3 report; the 4:1–14:22 consolidation report and its solo digs;
 - the 16:1–17:16 report;
 - claim audit 2;
-- the Logos assessments of rounds 2–5 (Andersen, Lange with Delitzsch and Dillmann, Barnes and Laurin on 19:25–26; Delitzsch on 16:18–22; HALOT entries).
+- the Logos assessments of rounds 2–5 (Andersen, Lange with Delitzsch and Dillmann, Barnes and Laurin on 19:25–26; Delitzsch on 16:18–22; HALOT entries);
+- **v1.1:** claim audit 3, whose verdicts were applied after the run.
 
 All were produced in this project or are Patrick's library returns. No commentary was opened in this run.
 
@@ -898,7 +937,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 - NASB95, ESV and NIV84 are from the Logos exports, and every quotation was checked against them. This includes the parallels in Isaiah, Jeremiah, Lamentations, Habakkuk, Hosea, Deuteronomy, Exodus, Numbers, Genesis, Daniel, Ruth, Psalms and Proverbs, and the New Testament verses (John 2:17; 11:24–25; Heb 2:14; 7:25; Rom 8:23; 1 Pet 2:23; 1 John 3:2; Rev 1:17–18; Matt 26:56; 27:46).
 - Swete and Rahlfs were read for the chapter. SBLGNT was used for John 11:24–25, Rev 1:17–18, Heb 7:25 and 1 John 3:2.
 
-**Warrant counts** (tags in the report body, excluding the legend): `[T]` 120 · `[I]` 76 · `[S]` 13 (including `[S: Lange]` and `[S: recalled]`) · `[S: audit]` 0 (no audited claim bears on this chapter yet). No Headline rests on an `[S]` item alone.
+**Warrant counts** (tags in the report body, excluding the legend): `[T]` 120 · `[I]` 76 · `[S]` 13 (including `[S: Lange]` and `[S: recalled]`) · `[S: audit]` 0 · `[S: audit 3]` 36 (v1.1). No Headline rests on an `[S]` item alone.
 
 **Phase 10.5 gate.**
 - **Controls.** Every "only" and every chain was run by lemma with the חֶסֶד positive control passing (6:14; 10:12; 37:13).
