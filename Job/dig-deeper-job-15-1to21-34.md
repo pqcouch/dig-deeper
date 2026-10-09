@@ -10,7 +10,7 @@
 
 Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally · `[S: audit]` a verdict of this project's claim audits, accepted · `[S: audit 3]` a verdict of claim audit 3, applied in v1.1.
 
-> **How this report was made.** Findings carried over from the two solo digs were verified there and are marked *(16–17 dig)* or *(19 dig)*. Findings marked **new** were verified for this run against the WLC lemma and morphology index (`~/j1521/chk_helpers.py`, `base.py`), with the positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed before any search. **Counts are in the Hebrew and name the WLC** unless marked otherwise. A chain is a claim about lemmas, never about English words.
+> **How this report was made.** Findings carried over from the two solo digs were verified there and are marked *(16–17 dig)* or *(19 dig)*. Findings marked **new** were verified for this run against the WLC lemma and morphology index, with the positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed before any search. **Counts are in the Hebrew and name the WLC** unless marked otherwise. A chain is a claim about lemmas, never about English words.
 >
 > **Baselines.** Four "is this distinctive?" questions were tested by ranking all 887 chapters of the Hebrew Bible (Job excluded) by the rare lemmas (150 verses or fewer) that their best window shares with a span of this round; and the address and "know" questions were tested against the whole book. The negative results are reported with the positive.
 >

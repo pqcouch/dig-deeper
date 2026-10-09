@@ -10,7 +10,7 @@
 
 Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source, held provisionally · `[S: audit]` a verdict of this project's earlier claim audits, accepted · `[S: audit 4]` a verdict of claim audit 4, accepted.
 
-> **How this report was made.** Findings carried over from the 28:1–28 dig are marked *(28 dig)*. Findings marked **new** were verified for this run against the WLC lemma and morphology index (`~/j2228/`), with the positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed before any search. **Counts are in the Hebrew and name the WLC** unless marked otherwise. A chain is a claim about lemmas, never about English words.
+> **How this report was made.** Findings carried over from the 28:1–28 dig are marked *(28 dig)*. Findings marked **new** were verified for this run against the WLC lemma and morphology index, with the positive control (חֶסֶד in Job: 6:14; 10:12; 37:13) passed before any search. **Counts are in the Hebrew and name the WLC** unless marked otherwise. A chain is a claim about lemmas, never about English words.
 >
 > **The address test.** For every speech in the three rounds, the run counted the verses that contain a second-person form (verb, pronoun or suffix) in the WLC morphology, singular and plural separately. This is a count of **verses**, not of forms, so its numbers are smaller than the form counts in the 4:1–14:22 and 15:1–21:34 reports; the three rounds are compared on the same measure here.
 >
@@ -1214,7 +1214,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 
 **Tools worked before secondary sources consulted:** Confirmed.
 - The BHS text and apparatus for 22–27, Swete and Rahlfs (with the asterisks) were read first, then NASB95, ESV and NIV84.
-- The address test, the lemma chains, the leading-word baseline, the 22:5–11 window null and the canonical ranks with their nulls and stability checks were run in the WLC (`~/j2228/morph.py`, `intern.py`, `runA–E.py`) before the sweep's Unit 11 was re-read.
+- The address test, the lemma chains, the leading-word baseline, the 22:5–11 window null and the canonical ranks with their nulls and stability checks were run in the WLC before the sweep's Unit 11 was re-read.
 - **The finds new to this run:**
   - **Structure:** the address test across all three rounds (Eliphaz 22 of 30 verses; 23–24, 25 and 28 addressing no one; Job's address to God gone); the friends' verses 90 → 85 → 36.
   - **Words and threads:** "way" ×11 with its baseline; gold as the unit's thread; Shaddai ×11; the integrity family (22:3); חֹק (23:14 → 26:10; 28:26; 38:10).

@@ -58,16 +58,17 @@
 </nav>
 <main>
 <h1 id="claim-audit-john-lincoln-the-divine-courtroom-and-the-gospel-of-john">Claim Audit: John — Lincoln, “The Divine Courtroom and the Gospel of John”</h1>
-<p><strong>Source audited:</strong> Andrew T. Lincoln, “A Life of Jesus as Testimony: The Divine Courtroom and the Gospel of John,” ch. 9 in <em>The Divine Courtroom in Comparative Perspective</em> (BIS 132; Leiden: Brill, 2015), 145–166. Local study copy at <code>John/_sources/</code>. <strong>Passages engaged:</strong> book-wide, with concentrations at 1:6–18; 5:19–47; 8:12–59; 9:1–41; 12:31–50; 13:31–16:33; 18:28–19:37; 20:31. <strong>Date:</strong> 23 August 2026 <strong>Version:</strong> 1.1 — Claim 3 upgraded to “verified on both sides” and Claim 6’s Volume raised, following a Logos check of the Rahlfs LXX at Isaiah 43:10. Changes tagged <code>[revised: logos-research]</code>. <strong>Mode:</strong> Claim Audit (dig-deeper Phase 0.5b) <strong>Purpose:</strong> Test Lincoln’s claims before incorporating them into <code>book-overview-john</code> v0.2.0 — which reached a forensic reading of John independently, from the counts, and now has a scholarly interlocutor who has written the monograph on it.</p>
+<p><strong>Source audited:</strong> Andrew T. Lincoln, “A Life of Jesus as Testimony: The Divine Courtroom and the Gospel of John,” ch. 9 in <em>The Divine Courtroom in Comparative Perspective</em> (BIS 132; Leiden: Brill, 2015), 145–166. Local study copy at <code>John/_sources/</code>. <strong>Passages engaged:</strong> book-wide, with concentrations at 1:6–18; 5:19–47; 8:12–59; 9:1–41; 12:31–50; 13:31–16:33; 18:28–19:37; 20:31. <strong>Date:</strong> 23 August 2026 <strong>Version:</strong> 1.1 — Claim 3 upgraded to “verified on both sides” and Claim 6’s Volume raised, following a Logos check of the Rahlfs LXX at Isaiah 43:10. Changes tagged <code>[revised: logos-research]</code>.</p>
+<p><strong>Revised:</strong> 8 October 2026, v1.2. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8). <strong>Mode:</strong> Claim Audit (dig-deeper Phase 0.5b) <strong>Purpose:</strong> Test Lincoln’s claims before incorporating them into <code>book-overview-john</code> v0.2.0 — which reached a forensic reading of John independently, from the counts, and now has a scholarly interlocutor who has written the monograph on it.</p>
 <p><strong>Standing caution.</strong> Lincoln is the author of <em>Truth on Trial: The Lawsuit Motif in the Gospel of John</em> (Baker, 2000), which this chapter revisits (his n. 1). On this subject the prior sits with him, and a “Discard” verdict here would need to be a genuine textual finding, not a preference. In the event none of the ten claims is discarded.</p>
 <hr />
 <h2 id="verification-basis">Verification basis</h2>
 <p>All Greek counts below were taken by scripted sweep over the <strong>SBLGNT</strong> texts of Matthew, Mark, Luke and John. Where a count in this audit differs from one in <code>dig-deeper-john-sweep</code> v1.1, <strong>this audit supersedes the sweep</strong> — see Confidence Change Propagation.</p>
 <p><strong>A methodological note that matters for reading the verdicts.</strong> My first pass appeared to contradict Lincoln on four of his seven vocabulary statistics. Every one of those apparent contradictions was an artefact of my own regexes, not an error of his:</p>
 <ul>
-<li><strong>μαρτυρέω</strong> — I initially counted 28 in John against his 33. The gap was the reduplicated perfect (μεμαρτύρηκεν, μεμαρτύρηκα, μεμαρτύρηκας, μεμαρτύρηκε — 5 tokens), which a <code>(ε)?μαρτυρ</code> pattern misses. With them: <strong>33</strong>.</li>
+<li><strong>μαρτυρέω</strong> — I initially counted 28 in John against his 33. The gap was the reduplicated perfect (μεμαρτύρηκεν, μεμαρτύρηκα, μεμαρτύρηκας, μεμαρτύρηκε — 5 tokens), which a search on the bare stem μαρτυρ- (with or without the augment) misses. With them: <strong>33</strong>.</li>
 <li><strong>Synoptic μαρτυρέω</strong> — I counted 7 against his 2. Five of my seven were <strong>μαρτύρων</strong>, the genitive plural of the <em>noun</em> μάρτυς (Matt 18:16; 26:65; Mark 14:63), not the participle. Disambiguating by context: <strong>2</strong>.</li>
-<li><strong>ἀληθής</strong> — I counted 28 against his 14, having let an <code>εια</code> alternative catch ἀλήθεια. Corrected: <strong>14</strong>.</li>
+<li><strong>ἀληθής</strong> — I counted 28 against his 14, having let a search for the ending -εια catch ἀλήθεια. Corrected: <strong>14</strong>.</li>
 <li><strong>κρίνω</strong> — I counted 21 against his 19, having caught κρίθινος (“barley,” 6:9, 13) and κρίμα. Corrected: <strong>19</strong>.</li>
 </ul>
 <p>The lesson is worth recording: <strong>lemma-level claims cannot be audited with surface-form regexes</strong>, and where this audit and a tagged lexical database disagree, the database should be preferred unless the disagreement can be explained form by form.</p>
@@ -94,7 +95,7 @@
 <td><strong>14</strong></td>
 <td>4</td>
 <td><strong>4</strong> (Mk 3, Lk 1)</td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="even">
 <td>μαρτυρέω</td>
@@ -102,7 +103,7 @@
 <td><strong>33</strong></td>
 <td>2</td>
 <td><strong>2</strong> (Mt 1, Lk 1)</td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="odd">
 <td>κρίνω</td>
@@ -110,7 +111,7 @@
 <td><strong>19</strong></td>
 <td>Mt 6 / Lk 6</td>
 <td><strong>Mt 6–7 / Lk 6–7</strong></td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="even">
 <td>κρίσις</td>
@@ -118,7 +119,7 @@
 <td><strong>11</strong></td>
 <td>Lk 4 / Mt 12</td>
 <td><strong>Lk 4 / Mt 12</strong></td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="odd">
 <td>ἀλήθεια</td>
@@ -126,7 +127,7 @@
 <td><strong>25</strong></td>
 <td>7</td>
 <td><strong>7</strong> (Mt 1, Mk 3, Lk 3)</td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="even">
 <td>ἀληθής</td>
@@ -134,7 +135,7 @@
 <td><strong>14</strong></td>
 <td>Mk 1 / Mt 1</td>
 <td><strong>Mk 1 / Mt 2</strong></td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="odd">
 <td>ἀληθινός</td>
@@ -142,7 +143,7 @@
 <td><strong>9</strong></td>
 <td>Lk 1</td>
 <td><strong>Lk 1</strong></td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 <tr class="even">
 <td>παράκλητος</td>
@@ -150,7 +151,7 @@
 <td><strong>4</strong></td>
 <td>0</td>
 <td><strong>0</strong></td>
-<td>✓</td>
+<td>Confirmed</td>
 </tr>
 </tbody>
 </table>

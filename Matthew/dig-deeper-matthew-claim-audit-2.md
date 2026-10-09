@@ -11,6 +11,8 @@
 
 **Date:** 2 October 2026
 
+**Revised:** 8 October 2026, v1.1. Every search is now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result. The working shorthand of the earlier text (search-routine names, word-index numbers and script file names) has been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
+
 **Purpose:** To test the sweep's candidates before any of them enters overview v0.2 or a sermon. Trigger 1 of the standing rule had fired: 37 claims were queued against a threshold of about ten. Trigger 2 was armed for queue #9 (Isa 50 behind 5:39) and #42 (the sweep's first headline).
 
 **Primary texts:**
@@ -86,7 +88,7 @@ The audit asked the two positional questions before scoping any claim.
 
 ## Claims Audited — Part A: Torah, Former Prophets and Structure
 
-Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-data/uploads/dig-deeper/_texts/`) via `/home/claude/mt/clib.py`. Swete counts use the accent-insensitive normalised text (`swph`/`swre`); Rahlfs checks use the Logos exports (`rph`). No README.md was present at the corpus root (checked). The Rahlfs Daniel exports contain the canonical chapters only, so Susanna could be read in Swete alone. Tags: [T] text on the page; [I] inference; [S] secondary (none used).
+Auditor's note. All counts are from a copy of the `_texts/` corpus. Swete counts use an accent-insensitive normalised text; Rahlfs checks use the Logos exports. No README.md was present at the corpus root (checked). The Rahlfs Daniel exports contain the canonical chapters only, so Susanna could be read in Swete alone. Tags: [T] text on the page; [I] inference; [S] secondary (none used).
 
 ---
 
@@ -113,7 +115,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** moderate–high → low–moderate
 **Reasoning:** 28:20 uses the biblical presence formula, which Matthew ties to 1:23. Gen 28:15 contributes at most one strand. Hag 1:13 is formally closer, and the "until / all that" words do different jobs in the two texts. In 24:30 the phrase is the Gen 12:3 / 28:14 blessing formula, not a Bethel echo.
-**Spot-check line:** `swph('εγω ειμι μεθ υμων'), swph('μεθ υμων εγω ειμι')` → `['Gen 23:4', 'Hag 1:13'] ['Hag 2:4']` (the plural form is absent from Gen 28).
+**Spot check:** in Swete, ἐγώ εἰμι μεθ᾿ ὑμῶν ("I am with you") occurs at Gen 23:4 and Hag 1:13, and μεθ᾿ ὑμῶν ἐγώ εἰμι at Hag 2:4 (the plural form is absent from Gen 28).
 
 ---
 
@@ -124,7 +126,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 **Evidence.**
 - Matthew: all five endings read καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς ("and it happened when Jesus finished") + an object/participle: τοὺς λόγους τούτους ("these words", 7:28; 19:1), τὰς παραβολὰς ταύτας ("these parables", 13:53), πάντας τοὺς λόγους τούτους ("all these words", 26:1), διατάσσων τοῖς δώδεκα μαθηταῖς ("commanding the twelve disciples", 11:1) [T]. ὅτε ἐτέλεσεν ("when he finished") occurs only in these five NT verses (SBLGNT) [T]. The formula is Matthew's own. διατάσσω ("command") occurs once in Matthew (SBLGNT) [T].
 - Gen 49:33 in WLC: וַיְכַל יַעֲקֹב לְצַוֺּת אֶת־בָּנָיו ("and Jacob finished commanding his sons") [T]. Swete has a different verb: κατέπαυσεν Ἰακὼβ ἐπιτάσσων ("Jacob ceased commanding") [T]. Rahlfs is identical [T]. **The Greek OT does not use a τελέω ("finish") verb here**, so any link runs through the Hebrew idiom alone [T/I].
-- Baseline: כלה ("finish") + infinitive is a stock narrative transition. It occurs at Gen 17:22; 18:33; 24:15; 49:33; Exod 31:18; 34:33; Num 16:31; Deut 32:45, among others (WLC; `find('lemma','3615','Genesis')` gives 16 verses in Genesis alone) [T].
+- Baseline: כלה ("finish") + infinitive is a stock narrative transition. It occurs at Gen 17:22; 18:33; 24:15; 49:33; Exod 31:18; 34:33; Num 16:31; Deut 32:45, among others (WLC; 16 verses in Genesis alone) [T].
 - Rivals: Num 16:31 (WLC כְּכַלֹּתוֹ לְדַבֵּר אֵת כָּל־הַדְּבָרִים הָאֵלֶּה, "when he finished speaking all these words"; Swete ὡς δὲ ἐπαύσατο λαλῶν πάντας τοὺς λόγους τούτους, "when he ceased speaking all these words") [T]. Deut 31:1 Swete reads συνετέλεσεν Μωυσῆς λαλῶν πάντας τοὺς λόγους τούτους ("Moses finished speaking all these words"), against WLC וַיֵּלֶךְ ("and he went"). Deut 32:45 WLC reads וַיְכַל מֹשֶׁה לְדַבֵּר אֶת־כָּל־הַדְּבָרִים הָאֵלֶּה ("Moses finished speaking all these words") [T]. The Moses texts match the *series*, and especially 26:1 πάντας τοὺς λόγους τούτους ("all these words"), far better than Gen 49:33 [T/I].
 - For Gen 49:33 the best case is 11:1 alone: a "commanding" verb plus twelve hearers, matching Jacob and his twelve sons [I].
 
@@ -140,7 +142,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** candidate → low (Gen 49:33). The formula's background is better described as Mosaic (Deut 31:1 LXX; 32:45 MT; Num 16:31): moderate.
 **Reasoning:** The idiom is a Pentateuchal transition, and for the series as a whole Moses' "finished speaking all these words" is the best match. Gen 49:33 can be no more than a resonance at 11:1, and it lacks Greek support.
-**Spot-check line:** `sw('Gen 49:33','Deu 31:1')` → Gen 49:33 reads κατέπαυσεν ("ceased"); Deu 31:1 reads συνετέλεσεν … πάντας τοὺς λόγους τούτους ("finished … all these words").
+**Spot check:** in Swete, Gen 49:33 reads κατέπαυσεν ("ceased"); Deut 31:1 reads συνετέλεσεν … πάντας τοὺς λόγους τούτους ("finished … all these words").
 
 ---
 
@@ -167,7 +169,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate overall. Exod 30 as the institutional referent of 17:24–27: high. The λύτρα ("ransom") reading of 17:24–27: moderate. The 20:28 strand: low–moderate (inherited from Mark; Isa 53 is stronger).
 **Reasoning:** The tax is the Exod 30 levy beyond reasonable doubt. Reading it as "ransom" depends on readers supplying Exod 30:12, because Matthew does not say the word. The Num 3:12 strand depends on an LXX-only clause.
-**Spot-check line:** `swre(r' λυτρον ')` → `['Pro 13:8']` (the singular λύτρον, "ransom", is not in Exod 30 or Num 3).
+**Spot check:** in Swete, the singular λύτρον ("ransom") occurs only at Prov 13:8; it is not in Exod 30 or Num 3.
 
 ---
 
@@ -193,7 +195,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate–high
 **Reasoning:** The Deut 8 frame is real, but it belongs mostly to the Q tradition. Matthew's own additions (the fuller 8:3, and "forty nights") strengthen it and add a Mosaic co-frame (Deut 9:9 / Exod 34:28) that the proposal does not mention.
-**Spot-check line:** `swph('τεσσερακοντα ημερας και τεσσερακοντα νυκτας')` → 10 verses including Exo 34:28 and Deu 9:9.
+**Spot check:** in Swete, τεσσεράκοντα ἡμέρας καὶ τεσσεράκοντα νύκτας ("forty days and forty nights") occurs in 10 verses, including Exod 34:28 and Deut 9:9.
 
 ---
 
@@ -219,7 +221,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** moderate–high → low–moderate (as a specific allusion); the idiom-meaning "grudging/stingy" is high.
 **Reasoning:** Matthew uses a Hebrew idiom whose classic legal locus is Deut 15:9, but nothing points to that verse rather than the idiom. Sir 14:8–10 is the closest Greek wording. The sermon value is the idiom, not the allusion.
-**Spot-check line:** `sw('Sir 14:10')` → ὀφθαλμὸς πονηρὸς φθονερὸς ἐπ' ἄρτῳ ("an evil eye is grudging over bread").
+**Spot check:** Swete, Sir 14:10: ὀφθαλμὸς πονηρὸς φθονερὸς ἐπ' ἄρτῳ ("an evil eye is grudging over bread").
 
 ---
 
@@ -246,7 +248,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** moderate–high → moderate
 **Reasoning:** 18:16 is a plausible contextual extension of an inherited 18:15 echo, at the level of the theme. The wording Matthew himself added (17:6–7) is matched point for point by Dan 10:9–12 (Th), which should be named as the primary echo for the fear-and-raising sequence.
-**Spot-check line:** `sw('Dat 10:9','Dat 10:10','Dat 10:12')` → hearing / face to ground / ἁπτομένη ("touching") / ἤγειρεν ("raised") / Μὴ φοβοῦ ("do not fear").
+**Spot check:** Swete, Daniel (Theodotion) 10:9, 10, 12: hearing / face to ground / ἁπτομένη ("touching") / ἤγειρεν ("raised") / Μὴ φοβοῦ ("do not fear").
 
 ---
 
@@ -273,7 +275,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** moderate → low–moderate
 **Reasoning:** Deut 27:25 is an available resonance, but its one distinctive item (δῶρα, "bribe") is missing. Deut 21:1–9 (hand-washing, "answering", "this blood", "your people") and Jer 26:15 ("innocent blood upon you") are stronger frames for 27:24–25 and should lead.
-**Spot-check line:** `sw('Deu 21:6','Deu 21:7')` → νίψονται τὰς χεῖρας ("they shall wash their hands") … ἀποκριθέντες ἐροῦσιν … τὸ αἷμα τοῦτο ("answering they shall say … this blood").
+**Spot check:** Swete, Deut 21:6–7: νίψονται τὰς χεῖρας ("they shall wash their hands") … ἀποκριθέντες ἐροῦσιν … τὸ αἷμα τοῦτο ("answering they shall say … this blood").
 
 ---
 
@@ -300,7 +302,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate–high
 **Reasoning:** Matthew's alteration of Mark lines up with LXX Deut 30:4, the only "heaven-to-heaven + gather" text. The nuance is that this is an LXX-dependent echo (MT lacks the doubling), and it is paired with Isa 27:13's great trumpet. Ps 19:7 and Deut 4:32 share the span but lack the gathering.
-**Spot-check line:** `swre(r'ακρ\w+ (του )?ουραν')` → `['Deu 4:32','Deu 30:4','Neh 1:9','Psa 18:7','Jer 25:16']`.
+**Spot check:** in Swete, ἄκρον ("end") with (τοῦ) οὐρανοῦ ("of heaven") occurs at Deut 4:32; 30:4; Neh 1:9; Ps 18:7 (LXX; MT 19:7); Jer 25:16 (LXX numbering).
 
 ---
 
@@ -327,7 +329,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate (formula). Sus 46 Th is the closest wording; 2 Sam 3:28 is low–moderate as a specific source.
 **Reasoning:** Pilate's words follow a recognisable disclaimer formula best matched by Sus 46 (Th). The accompanying hand-washing comes from Deut 21:6–7 and Ps 26:6, which the proposal omits. The scene is a composite, not a single allusion.
-**Spot-check line:** `swre(r'αθω\w+ (\w+ ){0,3}απο του αιματοσ')` → `['Sut 1:46']`.
+**Spot check:** in Swete, ἀθῷος ("innocent") followed within three words by ἀπὸ τοῦ αἵματος ("of the blood") occurs only at Susanna (Theodotion) 46.
 
 ---
 
@@ -353,7 +355,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed. **Rating:** moderate–high → moderate–high (upper end)
 **Reasoning:** This is a Matthew-only insertion framed by "Son of David", matching the one OT text that pairs David, the blind and lame, and exclusion from the (LXX) "house of the Lord". Isa 35 supplies the healing hope, 2 Sam 5:8 the reversal.
-**Spot-check line:** `swre(r'τυφλ\w+ (και )?χωλ|χωλ\w+ (και )?τυφλ')` → `['2Sa 5:8']`.
+**Spot check:** in Swete, "blind" and "lame" side by side (τυφλ- … χωλ- or χωλ- … τυφλ-) occur only at 2 Sam 5:8.
 
 ---
 
@@ -379,7 +381,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate–high (at the level of the tradition)
 **Reasoning:** The Elisha pattern is real but belongs to the pre-Matthean tradition. Matthew neither strengthens nor weakens it, and the wilderness feeding (Num 11; Ps 78) runs alongside it. It is evidence about the tradition, not about Matthew's design.
-**Spot-check line:** `swph('δος τω λαω'), swph('εφαγον και κατελιπον')` → `['2Ki 4:43'] ['2Ki 4:44']`; `ph('δος τω λαω')` in Matthew → `[]`.
+**Spot check:** in Swete, δὸς τῷ λαῷ ("give to the people") occurs at 2 Kgs 4:43 and ἔφαγον καὶ κατέλιπον ("they ate and left some over") at 2 Kgs 4:44; δὸς τῷ λαῷ does not occur in Matthew (SBLGNT).
 
 ---
 
@@ -406,7 +408,7 @@ Auditor's note. All counts are from the cloud copy of the corpus (`/mnt/user-dat
 
 **Verdict:** Needs reframing. **Rating:** moderate → low–moderate as a third macro-structural hinge; moderate as a deliberate redactional echo of the two hinges.
 **Reasoning:** Matthew deliberately added ἀπὸ τότε ("from then on") at 26:16, so the use is not incidental. But the form differs (no ἤρξατο ὁ Ἰησοῦς, "Jesus began"; καί-linked; Judas as subject) and it sits inside a pericope already opened by 26:1. Best described as an ironic third "from then on" that echoes the two hinges without being one.
-**Spot-check line:** `ph('απο τοτε ηρξατο')` → `['Matt 4:17', 'Matt 16:21']` (26:16 lacks ἤρξατο, "began").
+**Spot check:** in the SBLGNT, ἀπὸ τότε ἤρξατο ("from that time he began") occurs at Matt 4:17 and 16:21 (26:16 lacks ἤρξατο, "began").
 
 ---
 
@@ -447,7 +449,7 @@ Per verse, the passion is **at or below** the rate of the other blocks (0.07 aga
 
 **Verdict:** Needs reframing. **Rating:** chains verified / design moderate–high → chains partly verified (ὀμνύω, "swear", fails the "next" test; ψευδομαρτυρία, "false testimony", and ἀρνέομαι, "deny", are not from the Sermon; ῥύομαι, "deliver", is Psalm-driven); design low–moderate.
 **Reasoning:** The lexical distribution is no greater than chance, and four of the eight chains are inherited from Mark. The claim should be reduced to a few deliberate Matthean correspondences: the Gethsemane prayer quoting the Lord's Prayer (26:42); ῥαπίζω ("strike") at 26:67; the sword returned at 26:52. These show Jesus keeping his own Sermon, not a systematic design.
-**Spot-check line:** run `/tmp/claude-0/-home-claude/24ba7a85-05b5-5acc-8d10-4b11796eb25e/scratchpad/a13.py` (or equivalently `show('ὀμνύω')`) → `5:34; 5:36; 23:16×2 … 23:22×2; 26:74` (ch. 23 intervenes).
+**Spot check:** ὀμνύω ("swear") in Matthew (SBLGNT): 5:34; 5:36; 23:16 (×2) … 23:22 (×2); 26:74 (ch. 23 intervenes).
 
 ---
 
@@ -477,7 +479,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Needs reframing. **Rating:** candidate → low
 **Reasoning:** Isa 8:2 LXX shows only that "Zechariah son of Barachiah" was an available name-form outside Zech 1:1. It is corroborating background, not a source, and should not enter an overview as an allusion.
-**Spot-check line:** `swph('βαραχιου')` → `['Zec 1:1', 'Zec 1:7', 'Isa 8:2']`
+**Spot check:** in Swete, Βαραχίου ("of Berechiah") occurs at Zech 1:1, 1:7 and Isa 8:2.
 
 ### Claim B2: Isa 22:22 → Matt 16:19
 
@@ -502,7 +504,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** The echo depends on the Hebrew (or a Hebrew-revised Greek), because neither LXX edition has "key". Matthew turns open/shut into bind/loose. Any overview must not cite the LXX for this link.
-**Spot-check line:** `rph('την δοξαν δαυιδ','Isaiah')` → Rahlfs Isa 22:22 runs straight from ὁ ἀντιλέγων ("the one who contradicts") into 22:23 καὶ στήσω ("and I will set"), with no κλεῖ- ("shut/key") form.
+**Spot check:** Rahlfs Isa 22:22 (τὴν δόξαν Δαυιδ, "the glory of David") runs straight from ὁ ἀντιλέγων ("the one who contradicts") into 22:23 καὶ στήσω ("and I will set"), with no κλεῖ- ("shut/key") form.
 
 ### Claim B3: Isa 26:20 → Matt 6:6
 
@@ -527,7 +529,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** This is the closest wording in the Greek OT. The echo is phrasal and the wrath context does not come across. Present it as borrowed wording, with the Elisha and Tobit scenes noted as the stock "closed-door prayer" pattern.
-**Spot-check line:** `co(r' ταμ','θυρ')` → `['Jdg 3:24','Tbs 8:4','Isa 26:20','Ode 4:20']`
+**Spot check:** in Swete, ταμιεῖον ("inner room") and θύρα ("door") in one verse: Judg 3:24; Tob 8:4 (Sinaiticus); Isa 26:20; Odes 4:20.
 
 ### Claim B4: Isa 38:10 → Matt 16:18
 
@@ -551,7 +553,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Needs reframing. **Rating:** moderate → low–moderate
 **Reasoning:** Matthew uses an idiom of which Isa 38:10 is the only Hebrew-canon instance. That is a lexical fact, not evidence that Matthew alludes to Hezekiah's psalm. Frame it as "idiom attested in Isa 38:10 LXX/Wis 16:13", not as an allusion to Isa 38.
-**Spot-check line:** `co(r' πυλ',r' αδ(ου|ησ|ην|η) ')` → `['Job 38:17','Wis 16:13','Isa 38:10','3Ma 5:51','Pss 16:2','Ode 7:10']`
+**Spot check:** in Swete, πύλη ("gate") and ᾅδης ("Hades") in one verse: Job 38:17; Wis 16:13; Isa 38:10; 3 Macc 5:51; Pss. Sol. 16:2; Odes 7:10.
 
 ### Claim B5: Isa 49:24–25 → Matt 12:29
 
@@ -576,7 +578,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → low–moderate
 **Reasoning:** This is a conceptual echo at the level of the tradition (Mark), with weak Greek volume and an equally strong rival in Isa 53:12. It is not evidence of Matthew's own use of Isaiah.
-**Spot-check line:** `co(r' ισχυρ',r' σκυλ')` → `['Isa 53:12','Dan 11:24']` (Isa 49:24–25 is absent)
+**Spot check:** in Swete, ἰσχυρός ("strong") and σκῦλα ("spoils") in one verse: Isa 53:12 and Dan 11:24 (Isa 49:24–25 is absent).
 
 ### Claim B6: Isa 50:6–9 (with Lam 3:30) → Matt 5:39–42
 
@@ -616,7 +618,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed. **Rating:** moderate → moderate–high (raise endorsed)
 **Reasoning:** Matthew's redactional vocabulary gathers precisely in Isa 50:6–8, using rare words. The shared tradition already leaned on Lam 3:30 / Isa 50:6; Matthew tightened the link and carries it into 26:67.
-**Spot-check line:** `co(r' κριν',r'αντιστ')` → `['2Ch 20:12','Isa 50:8']`
+**Spot check:** in Swete, κρίνω ("judge") and ἀνθίστημι ("oppose") in one verse: 2 Chr 20:12 and Isa 50:8.
 
 ### Claim B7: Isa 53:7 → Matt 26:63
 
@@ -640,7 +642,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → low–moderate
 **Reasoning:** This is a conceptual echo inherited from Mark, with no verbal anchor in Greek or Hebrew. Matthew does not strengthen it. Call it tradition-level and keep Ps 38 alongside.
-**Spot-check line:** `co(r'ουκ ανοιγει το στομα|ουκ ηνοιξεν το στομα|ουκ ανοιξω το στομα|ουκ ηνοιξα το στομα')` → `['Psa 38:10','Isa 53:7']`
+**Spot check:** in Swete, οὐκ ἀνοίγει / ἤνοιξεν / ἀνοίξω / ἤνοιξα τὸ στόμα ("does not / did not / will not open the mouth") occurs at Ps 38:10 (LXX; MT 39:10) and Isa 53:7.
 
 ### Claim B8: Jer 8:13 → Matt 21:19
 
@@ -669,7 +671,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** Jer 8:13 holds at the level of the tradition, through the Jer 7 quotation. Matthew's redaction points equally to Hos 9:15–16, which should be named as a co-text and queued for audit.
-**Spot-check line:** `co(r' καρπ',r'ξηρ')` → includes `'Hos 9:16'`; `co(r' συκ',r' φυλλ')` → `['Gen 3:7','Isa 34:4','Jer 8:13']`
+**Spot check:** in Swete, καρπός ("fruit") and ξηραίνω ("wither") in one verse include Hos 9:16; συκῆ ("fig tree") and φύλλον ("leaf") in one verse: Gen 3:7; Isa 34:4; Jer 8:13.
 
 ### Claim B9: Jer 26:15 MT (Swete 33:15) → Matt 27:25
 
@@ -709,7 +711,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** unrated → moderate
 **Reasoning:** Jer 26 (LXX 33) is the best single narrative frame for 27:25. Pilate's disclaimer at 27:24 draws on a wider stock of "innocent of blood" formulae (2 Sam 3:28; Sus 46; Deut 21).
-**Spot-check line:** `co(r' αιμα',r'εφ υμασ|εφ ημασ|επι τα τεκνα')` → `['2Ch 19:10','Jon 1:14','Jer 33:15']`
+**Spot check:** in Swete, αἷμα ("blood") with ἐφ᾿ ὑμᾶς / ἐφ᾿ ἡμᾶς / ἐπὶ τὰ τέκνα ("on you / on us / on the children") in one verse: 2 Chr 19:10; Jonah 1:14; Jer 33:15 (LXX numbering).
 
 ### Claim B10: Jer 50:6 (Swete 27:6) → Matt 10:6; 15:24
 
@@ -737,7 +739,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate–high
 **Reasoning:** The wording is best explained by Jer 50:6, and the conceptual frame by Ezek 34. These complement each other rather than compete. "Lost sheep" is uniquely Jeremianic in its plural Greek form.
-**Spot-check line:** `co(r'προβατ',r'απολωλ')` → `['Psa 118:176','Jer 27:6']`
+**Spot check:** in Swete, πρόβατον ("sheep") and ἀπολωλός ("lost") in one verse: Ps 118:176 (LXX; MT 119:176) and Jer 27:6 (LXX; MT 50:6).
 
 ### Claim B11: Ezek 13:10–14 and 22:27 → Matt 7:15–27
 
@@ -773,7 +775,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** Ezek 22:27–28 is the best single frame for 7:15–23: wolves, plunder, prophets who whitewash, and "Thus says the Lord". The Ezek 13 storm sits in the shared tradition, which Luke preserves more literally. Do not present it as Matthew's redaction.
-**Spot-check line:** `co(r' λυκ',r'αρπα')` → `['Gen 49:27','Eze 22:27']`
+**Spot check:** in Swete, λύκος ("wolf") and ἁρπάζω ("snatch") in one verse: Gen 49:27 and Ezek 22:27.
 
 ### Claim B12: Ezek 34:4, 16 → Matt 18:12–14; and the shepherd-sequence design claim
 
@@ -820,7 +822,7 @@ Editions: SBLGNT and NA28 (Matthew, Mark, Luke); Swete LXX; Rahlfs–Hanhart (Lo
 
 **Verdict:** Allusion Confirmed. Design claim Needs reframing. **Rating:** allusion moderate–high → moderate–high; design moderate–high → moderate
 **Reasoning:** The 18:12 redaction points to Ezek 34:16, and Luke's wording does too, through the other half of the verse. The shepherd thread is demonstrably Matthean. It is built from 2 Sam 5:2, Num 27:17, Jer 50:6, Ezek 34 and Zech 11/13, with Ezek 34 as the hub, so "Ezek 34 + Zech 13 together" over-simplifies. The "little ones" bridge depends on edition (WLC/Swete for it, Rahlfs against).
-**Spot-check line:** `swph('το πλανωμενον')` → `['Eze 34:4','Eze 34:16']`; for the design caveat, Rahlfs Zech 13:7 ends ἐπάξω τὴν χεῖρά μου ἐπὶ τοὺς ποιμένας ("I will bring my hand upon the shepherds").
+**Spot check:** in Swete, τὸ πλανώμενον ("the straying one") occurs at Ezek 34:4 and 34:16; for the design caveat, Rahlfs Zech 13:7 ends ἐπάξω τὴν χεῖρά μου ἐπὶ τοὺς ποιμένας ("I will bring my hand upon the shepherds").
 
 ---
 
@@ -858,7 +860,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate
 **Reasoning:** The phrase is lexically distinctive, and Hosea is the only Swete source for "called sons of God". But the αὐτοί agreement holds in Swete only, and Hosea's subject (restoration) is not Matthew's (peacemaking). Moderate is the honest ceiling.
-**Spot-check line:** `swph('υιοι θεου ζωντος')` → `['Hos 1:10']`; and `rph('υιοι θεου','Hosea')` shows `εκει κληθησονται` with no αὐτοί ("they") in Rahlfs.
+**Spot check:** in Swete, υἱοὶ θεοῦ ζῶντος ("sons of the living God") occurs only at Hos 1:10; Rahlfs reads ἐκεῖ κληθήσονται with no αὐτοί ("they").
 
 ---
 
@@ -891,7 +893,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** The event is inherited. Matthew's one change (ὅλην → πᾶσαν, "whole" → "all") points to Exodus, so Exodus has the better claim to Matthew's own hand. Amos stands as a thematic echo carried by the tradition.
-**Spot-check line:** `ph('επι πασαν την γην')` → `['Matt 27:45']`, set against Mark 15:33 `εφ’ ὅλην`.
+**Spot check:** in the SBLGNT, ἐπὶ πᾶσαν τὴν γῆν ("over all the land") occurs in Matthew only at 27:45, set against Mark 15:33 ἐφ᾿ ὅλην.
 
 ---
 
@@ -930,7 +932,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed. **Rating:** moderate → moderate–high
 **Reasoning:** Every one of Matthew's changes to Mark at 8:24–25 moves towards Swete Jonah 1:4–6. This is redactional evidence of Matthew's own hand, not just inherited motif.
-**Spot-check line:** `swph('μεγας εν τη θαλασση')` → `['Jon 1:4']`; `swph('εκαθευδεν')` includes `Jon 1:5`.
+**Spot check:** in Swete, μέγας ἐν τῇ θαλάσσῃ ("great on the sea") occurs only at Jonah 1:4, and ἐκάθευδεν ("was sleeping") occurs at Jonah 1:5 among others.
 
 ---
 
@@ -958,7 +960,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Needs reframing. **Rating:** unrated → low–moderate
 **Reasoning:** At most a Hebrew-level resonance (sceptre + struck ruler), sitting next to a verse Matthew certainly used. The Greek reads "gates" or "tribes", and Isa 50:6 is the stronger source for the abuse.
-**Spot-check line:** `rph('παταξουσιν','Micah')` → `…επι σιαγονα τασ φυλασ του ισραηλ…` (no "judge").
+**Spot check:** Rahlfs Mic 4:14 reads πατάξουσιν … ἐπὶ σιαγόνα τὰς φυλὰς τοῦ Ισραηλ ("they will strike the tribes of Israel on the cheek"; no "judge").
 
 ---
 
@@ -989,7 +991,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** This is a summary of a prophetic tradition, not an allusion to one verse. Mic 6:8 best explains the shape (doing justice, loving mercy), Hos 6:6 explains Matthew's ἔλεος ("mercy"), and Zech 7:9 MT is the only text with all three Hebrew terms. The claim should be reframed as a cluster led by Micah, not a Micah allusion.
-**Spot-check line:** `hb('Zech 7:9')` → contains מִשְׁפַּט אֱמֶת … וְחֶסֶד ("judgment of truth … and steadfast love").
+**Spot check:** the WLC at Zech 7:9 contains מִשְׁפַּט אֱמֶת … וְחֶסֶד ("judgment of truth … and steadfast love").
 
 ---
 
@@ -1026,7 +1028,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance (as a Hebrew-level substitution). **Rating:** uncertain → moderate
 **Reasoning:** The Hebrew evidence is specific and testable. Hab 1:4 is the only WLC verse joining "go forth", לָנֶצַח ("for ever") and מִשְׁפָּט ("justice"), and לָנֶצַח is standard LXX εἰς νῖκος ("to victory"). It still depends on a Hebrew substrate, and recurrence is nil, so it does not go higher than moderate.
-**Spot-check line:** WLC search for verses with לנצח (stripped of vowel points) together with משפט → `['Hab 1:4', 'Job 23:7']`.
+**Spot check:** in the WLC, the consonants לנצח ("for ever") with מִשְׁפָּט ("justice") in one verse: Hab 1:4 and Job 23:7.
 
 ---
 
@@ -1071,7 +1073,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed. **Rating:** moderate → moderate–high
 **Reasoning:** Two collocations unique in Swete — prepared + called, and clothed + garment — fall exactly in the material Matthew has and Luke lacks. Recurrence alone keeps this from high.
-**Spot-check line:** `swre(r'ενδεδυμεν\w* ενδυμα')` → `['Zep 1:8']`.
+**Spot check:** in Swete, ἐνδεδυμένους ἐνδύματα ("clothed in garments") occurs only at Zeph 1:8.
 
 ---
 
@@ -1111,7 +1113,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate
 **Reasoning:** Haggai holds two of the three Swete instances of the plural divine formula, so the wording claim is real. But Jer 49:11 shares it, and the commissioning tradition (Deut 31; Josh 1; 1 Chr 28) explains more of 28:18–20. Haggai should be presented as one member of a family, not *the* source.
-**Spot-check line:** `rph('μεθ υμων εγω ειμι')` → hits Jeremiah (49:11) and Haggai (2:4).
+**Spot check:** in Rahlfs, μεθ᾿ ὑμῶν ἐγώ εἰμι ("I am with you") occurs in Jeremiah (49:11, LXX numbering) and Haggai (2:4).
 
 ---
 
@@ -1150,7 +1152,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** unrated → moderate
 **Reasoning:** Malachi's day of burning the lawless and the rising sun for the righteous is the best single frame for 13:40–43, and Malachi is a book Matthew demonstrably works from. But the verbatim Greek comes from Daniel, and v. 41 is better explained by Zeph 1:3 MT.
-**Spot-check line:** `swph('ηλιος δικαιοσυνης')` → `['Mal 4:2']`; `swph('καμινον του πυρος')` → Dan 3 only.
+**Spot check:** in Swete, ἥλιος δικαιοσύνης ("sun of righteousness") occurs only at Mal 4:2 (LXX; MT 3:20); καμίνον τοῦ πυρός ("furnace of fire") only in Dan 3.
 
 ---
 
@@ -1187,7 +1189,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate
 **Reasoning:** Matthew's redaction creates exactly the Ps 2:2 sequence, and the phrase is rare in Swete. But it is everyday diction, so the strength lies in the cumulative "gathered … Christ" pattern, not in this verse alone.
-**Spot-check line:** `ntph('συνηχθησαν επι το αυτο')` → `['Matt 22:34', 'Acts 4:26']`.
+**Spot check:** in the SBLGNT, συνήχθησαν ἐπὶ τὸ αὐτό ("gathered together") occurs at Matt 22:34 and Acts 4:26.
 
 ---
 
@@ -1226,7 +1228,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance (as a secondary strand). **Rating:** unrated → low–moderate
 **Reasoning:** The Psalms are the only texts joining hand-washing to "innocence", so they stand as a secondary resonance. But Matthew's spoken formula is closer to Sus 46 (Theodotion) and 2 Sam 3:28, and Deut 21 together with Deut 27:25 accounts for the rite, the blood and "all the people".
-**Spot-check line:** `[r for r in swre(r'(νιψ|νιπτ|απενιψ)') if r in swre(r'αθωο')]` → `['Psa 25:6', 'Psa 72:13']`; `sw('Sut 1:46')` → `Ἀθῷος ἐγὼ ἀπὸ τοῦ αἵματος ταύτης`.
+**Spot check:** in Swete, νίπτω ("wash") and ἀθῷος ("innocent") in one verse: Ps 25:6 and Ps 72:13 (LXX; MT 26:6; 73:13); Susanna (Theodotion) 46 reads Ἀθῷος ἐγὼ ἀπὸ τοῦ αἵματος ταύτης ("I am innocent of the blood of this woman").
 
 ---
 
@@ -1269,7 +1271,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate → moderate (5:6 alone: moderate–high)
 **Reasoning:** At 5:6 Matthew's addition of "thirsting" lands on a Swete collocation found only in Ps 106:5, and 4:16's "sitting" is best explained by Ps 106:10. The 8:11 link is inherited and shared with Isa 43:5. "One psalm sounding three times" is plausible but rests mainly on 5:6.
-**Spot-check line:** `swph('πεινωντες και διψωντες')` → `['Psa 106:5']`.
+**Spot check:** in Swete, πεινῶντες καὶ διψῶντες ("hungry and thirsty") occurs only at Ps 106:5 (LXX; MT 107:5).
 
 ---
 
@@ -1308,7 +1310,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance (inherited). **Rating:** moderate → moderate
 **Reasoning:** The walking-on-the-sea collocation is unique to Job 9:8 in Swete, so the motif is real. But it is Mark's, and Matthew has actually weakened the Job thread by removing "pass by" (Job 9:11).
-**Spot-check line:** `[r for r in swre(r'περιπατ') if r in swre(r'θαλασσ')]` → `['Job 9:8']`.
+**Spot check:** in Swete, περιπατέω ("walk") and θάλασσα ("sea") in one verse: Job 9:8 only.
 
 ---
 
@@ -1344,7 +1346,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed with nuance. **Rating:** moderate–high → moderate–high
 **Reasoning:** The garment phrase follows Dan 7:9 Theodotion closely. The lightning half is Dan 10:6, a passage about an angel. The allusion is best stated as a Dan 7:9 + 10:6 composite in the chapter where 28:18 alludes to Dan 7:14.
-**Spot-check line:** `rph('ωσει χιων','Theodotion')` → `…και το ενδυμα αυτου ωσει χιων λευκον…`.
+**Spot check:** Rahlfs, Daniel (Theodotion) 7:9 reads καὶ τὸ ἔνδυμα αὐτοῦ ὡσεὶ χιὼν λευκόν ("and his clothing white as snow").
 
 ---
 
@@ -1380,7 +1382,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Uncertain — flag for research. **Rating:** unrated → low
 **Reasoning:** Daniel supplies nothing the other three sources do not already supply. Its covenant figure is the one Matthew elsewhere treats as the desolator. It can be listed as a possible ironic overtone, but not as a working strand.
-**Spot-check line:** `[r for r in swre(r'διαθηκ') if r in swre(r' πολλ(οισ|ουσ|ων) ')]` → `['Mal 2:8','Dan 9:27','Dan 11:28','Dat 9:27','1Ma 1:11']`.
+**Spot check:** in Swete, διαθήκη ("covenant") and πολλοί ("many") in one verse: Mal 2:8; Dan 9:27 (Old Greek); Dan 11:28; Dan 9:27 (Theodotion); 1 Macc 1:11.
 
 ---
 
@@ -1418,7 +1420,7 @@ Auditor's notes on method. All Matthew text is SBLGNT unless NA28 is named; Gree
 
 **Verdict:** Confirmed (inherited). **Rating:** moderate–high → moderate–high
 **Reasoning:** The wording follows Dan 12:1 Theodotion verbatim and uniquely. The allusion belongs to the Markan tradition, and Matthew keeps it intact. Exod 11:6 (via μεγάλη, "great", and "never again") is a light Matthean overlay.
-**Spot-check line:** `swph('θλιψις οια')` → `['Dat 12:1']`.
+**Spot check:** in Swete, θλῖψις οἵα ("tribulation such as") occurs only at Daniel (Theodotion) 12:1.
 
 ---
 
@@ -1587,4 +1589,4 @@ Not queued, because they are already decided here:
 
 **History of Interpretation:** not checked for any claim. No commentary was used. This is the main limit of the audit, and the first thing a Logos pass would add.
 
-**Health note:** the warrant is overwhelmingly `[T]`. The verdicts turn on counts and wording that can be reproduced in one command each.
+**Health note:** the warrant is overwhelmingly `[T]`. The verdicts turn on counts and wording that can each be checked directly against the corpus.

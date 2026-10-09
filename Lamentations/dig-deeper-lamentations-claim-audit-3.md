@@ -7,6 +7,8 @@
 - the solo dig on 5:1–22 (L28–L33).
 
 **Date:** 4 October 2026
+
+**Revised:** 8 October 2026, v1.1. Every search is now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result. The working shorthand of the earlier text (search-routine names, word-index numbers and script file names) has been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Purpose:** to test the two solo digs' design and allusion claims before any sermon outline is written on either passage. Queue trigger 1 had fired on both limbs (19 queued; 2 digs since the last audit), and trigger 2 was armed for both passages.
 
 **Documents under test:**
@@ -37,7 +39,7 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inferen
 - the earlier audits;
 - each other's reports.
 
-Each received a neutral brief, the claims restated, the staged corpus, the shared lemma library (`alib.py`) and the draft density scanner (`contacts.py`). Each was told to try to **break** the claims.
+Each received a neutral brief, the claims restated, the staged corpus, and searches over the WLC lemma index and the draft density scanner. Each was told to try to **break** the claims.
 
 | Auditor | Claims | Kind |
 |---|---|---|
@@ -48,7 +50,7 @@ Each received a neutral brief, the claims restated, the staged corpus, the share
 **Method for each claim:**
 
 1. Check the wording on both sides in Hebrew and Greek.
-2. Count how rare the shared lemma set is, using `hall`.
+2. Count how rare the shared lemma set is: in how many verses of the Hebrew Bible (WLC) all the shared words occur together.
 3. Search for rival sources.
 4. Run a chance baseline for any design claim.
 5. Score the seven Hays criteria. "History of interpretation" is "not checked" throughout, because no commentary was consulted.
@@ -76,7 +78,7 @@ Each received a neutral brief, the claims restated, the staged corpus, the share
 - the B1 doubled-figure baseline;
 - the C3 alphabet test.
 
-**Length.** The three reports run to about 4,100, 4,800 and 5,300 words, over the 3,500-word guide; the excess is mostly glosses and tables. Nothing has been trimmed from the findings. The reports and their scripts are kept in `/home/claude/lamaudit3/`.
+**Length.** The three reports run to about 4,100, 4,800 and 5,300 words, over the 3,500-word guide; the excess is mostly glosses and tables. Nothing has been trimmed from the findings. The auditors' reports were held in the session workspace, which is not retained.
 
 ---
 
@@ -386,7 +388,7 @@ Auditor A took the 40 content roots of Lam 5 that fall in the same frequency ban
 
 **(a) Ps 44.**
 
-- **The "exclusive" נֶפֶשׁ ("soul") + שׁוח ("sink") pair is an artefact of the lexicon.** The index files the closely related verb שׁחח ("be bowed down") under a different number (7817). Read that way, the partner is **Ps 42–43**:
+- **The "exclusive" נֶפֶשׁ ("soul") + שׁוח ("sink") pair is an artefact of the lexicon.** The index files the closely related verb שׁחח ("be bowed down") as a separate word. Read that way, the partner is **Ps 42–43**:
   - **Ps 42:7 [Eng 42:6]:** עָלַי נַפְשִׁי תִשְׁתּוֹחָח עַל־כֵּן אֶזְכָּרְךָ ("my soul is bowed down within me; therefore I remember you").
   - **Lam 3:20–21:** ותשיח עָלַי נַפְשִׁי … עַל־כֵּן אוֹחִיל ("my soul is bowed down within me … therefore I hope").
   - **Ps 42:6, 12; 43:5:** הוֹחִילִי ("hope!").
@@ -421,7 +423,7 @@ No open test was left by the auditors. Every decisive figure in the summary tabl
 - **The Ps 44:26 "exclusive" is a lexicon artefact.**
   - שׁחח ("be bowed down", 7817) + נֶפֶשׁ occurs at Ps 42:6, 42:7, 42:12 and 43:5.
   - זכר + נֶפֶשׁ + שׁחח occurs at Ps 42:7 alone.
-  - Lam 3:20's verb is filed as שׁוח (7743).
+  - Lam 3:20's verb is filed as שׁוח ("sink down").
   - **The two lemma numbers divide one word-family.** Future chains on this root must search both. `[T]`
 - **"Remember + soul + hope"** returns nothing at window 0 and **Ps 42:5, 42:7 and Lam 3:20** at window ±1. The claim needs its window stated.
 

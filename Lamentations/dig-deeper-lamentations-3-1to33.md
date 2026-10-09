@@ -1183,7 +1183,7 @@ The sweep's Unit 3 and 4 findings were re-verified, not re-used.
 - the 2nd-masculine-singular and 1st-common-plural forms in 3:1–39 (WLC morphology);
 - 3ms verbs in 3:2–16 (24).
 
-The **Ps 119 same-letter baseline** (22 diagonal against 462 off-diagonal stanza pairs) and the **unit density scan** (`contacts.py`, 858 chapters, K ≤ 5) are reproducible from `/home/claude/lam3dig/`.
+The **Ps 119 same-letter baseline** (22 diagonal against 462 off-diagonal stanza pairs) and the **unit density scan** (the Round 7 draft scanner, 858 chapters, words in at most 5 verses) were run in the session workspace, which is not retained; their results are stated in full above.
 
 **Apparatus findings:** seven. Each names its witness, and each is tagged `[unchecked — apparatus spread]` where spread matters. None carries a headline alone.
 

@@ -4,6 +4,8 @@
 **Tested against:** `book-overview-genesis.md` v1.0.0 (7 September 2026, text-first) and the `_texts/` primary-text corpus
 **Substrate:** WLC Hebrew (lemma-indexed), Swete LXX, SBLGNT for observation; `_texts/logos-exports/` (BHS, Rahlfs-based LXX, NASB95 Genesis) for citation
 **Date:** 7 September 2026
+
+**Revised:** 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Mode:** Claim Audit (dig-deeper Phase 0.5b), standalone file
 
 ---
@@ -33,7 +35,7 @@ Claims are grouped rather than given one Hays table apiece: the great majority a
 | # | Claim (sweep §) | Verified result |
 |---|---|---|
 | 1 | *lek-lekā* brackets the Abraham cycle, 12:1 ↔ 22:2 (§7, §9) | **Confirmed, and stronger than claimed.** לֶךְ־לְךָ occurs **exactly twice in the entire Hebrew Bible**, both here. Whole-WLC search, accent-stripped |
-| 2 | *təšûqāh* welds 3:16 ↔ 4:7 (§3, §4) | **Confirmed, and stronger.** 8669 occurs **3× in the whole Hebrew Bible** — Gen 3:16, 4:7, Song 7:11. Both Genesis instances also carry *māšal* (4910) |
+| 2 | *təšûqāh* welds 3:16 ↔ 4:7 (§3, §4) | **Confirmed, and stronger.** תְּשׁוּקָה ("desire") occurs **3× in the whole Hebrew Bible** — Gen 3:16, 4:7, Song 7:11. Both Genesis instances also carry *māšal* ("rule") |
 | 3 | *hakker-nāʾ* welds 37:32 ↔ 38:25 (§13) | **Confirmed at form level, not merely root.** Both read הַכֶּר נָא — Hiphil imperative 2ms of 5234 + particle 4994, identically pointed |
 | 4 | *tēbâ* used only of Noah's ark and Moses' basket (§5) | **Confirmed.** 8392 occurs 28× in the WLC: 26 in Gen 6–9, and Exod 2:3, 2:5. No other occurrence in the canon |
 | 5 | *ʾārôn* closes the book (50:26) as the answering "box" (§16) | **Confirmed.** 727 occurs **once** in Genesis, at 50:26 |
@@ -42,20 +44,20 @@ Claims are grouped rather than given one Hays table apiece: the great majority a
 | 8 | 9:1, 7 re-issue 1:28 almost verbatim (§5) | **Confirmed.** 9:1 carries 1288 + 6509 + 7235 + 4390 + 776 in the same order as 1:28 |
 | 9 | Genesis 24 is the longest chapter in the book (§10) | **Confirmed.** 67 verses; next are 41 (57) and 31 (54) |
 | 10 | *ʿārûm* (3:1) puns on *ʿărûmmîm* (2:25) (§3) | **Confirmed.** 6175 occurs once in Genesis (3:1); 6174 once (2:25) |
-| 11 | "And he died" hammers through ch. 5, broken only by Enoch (§4) | **Confirmed, now countable.** מוּת (4191) at 5:5, 8, 11, 14, 17, 20, 27, 31 — **8 times**; 5:24 is the break |
+| 11 | "And he died" hammers through ch. 5, broken only by Enoch (§4) | **Confirmed, now countable.** מוּת ("die") at 5:5, 8, 11, 14, 17, 20, 27, 31 — **8 times**; 5:24 is the break |
 | 12 | 22:17's "his enemies" is singular (§9) | **Confirmed.** אֹיְבָיו carries a 3ms suffix on a collective *zeraʿ* |
 | 13 | *ṣālēaḥ* is the prosper-word of Joseph's rise (§14) | **Confirmed** at 39:2, 3, 23 — see A2 for the extension |
 | 14 | The Genesis 1 numerical set (§1) | **Confirmed on all five counts, and upgradeable** — see A4 |
 
 ### A2. Confirmed with a nuance worth stating (7)
 
-**15 · The *ʿārēv* thread, 38:17–18 ↔ 43:9 / 44:32 (§13, §15).** Confirmed as a **root** link, which is what the sweep claims — but the two ends are different lexemes: *ʿērābôn* (6162, the noun "pledge") at 38:17, 18, **and 20**; *ʿārav* (6148, the verb "go surety") at 43:9 and 44:32. Say "the same root, ʿ-r-b, in two words" rather than letting "*ʿārēv*" stand as though one word ran through. The third occurrence at 38:20 strengthens the Tamar end.
+**15 · The *ʿārēv* thread, 38:17–18 ↔ 43:9 / 44:32 (§13, §15).** Confirmed as a **root** link, which is what the sweep claims — but the two ends are different lexemes: *ʿērābôn* (the noun "pledge") at 38:17, 18, **and 20**; *ʿārav* (the verb "go surety") at 43:9 and 44:32. Say "the same root, ʿ-r-b, in two words" rather than letting "*ʿārēv*" stand as though one word ran through. The third occurrence at 38:20 strengthens the Tamar end.
 
-**16 · *taḥat* — the substitution grammar, 22:13 → 44:33 (§9, §15).** Confirmed, and **the sweep missed the third term, which is the best of the three.** *taḥat* (8478) occurs 30× in Genesis, almost all as the ordinary preposition "under". Three carry the substitutionary sense, and the third is **50:19** — Joseph's הֲתַחַת אֱלֹהִים אָנִי, "am I *in the place of* God?" The ram stands *taḥat* the son (22:13); Judah offers to stand *taḥat* the boy (44:33); Joseph refuses to stand *taḥat* God (50:19). The sweep tracks *taḥat* as substitution and separately tracks 3:5 ↔ 50:19 as the god-complex bookend, and never notices that **50:19 is the single word where both threads meet**. This is the audit's best find and it belongs in the sweep and the overview.
+**16 · *taḥat* — the substitution grammar, 22:13 → 44:33 (§9, §15).** Confirmed, and **the sweep missed the third term, which is the best of the three.** *taḥat* ("under, in place of") occurs 30× in Genesis, almost all as the ordinary preposition "under". Three carry the substitutionary sense, and the third is **50:19** — Joseph's הֲתַחַת אֱלֹהִים אָנִי, "am I *in the place of* God?" The ram stands *taḥat* the son (22:13); Judah offers to stand *taḥat* the boy (44:33); Joseph refuses to stand *taḥat* God (50:19). The sweep tracks *taḥat* as substitution and separately tracks 3:5 ↔ 50:19 as the god-complex bookend, and never notices that **50:19 is the single word where both threads meet**. This is the audit's best find and it belongs in the sweep and the overview.
 
 **17 · "The LORD was with Joseph" (§14).** Confirmed at 39:2, 21, 23 — and the sweep undercounts. **39:3** also carries it ("his master saw that the LORD was with him"). The refrain is **4× in chapter 39**, and 39:3 is the one that says the Egyptian could see it.
 
-**18 · "God sent me" ×3 at 45:5–8 (§15).** Confirmed: *šālaḥ* (7971) at 45:5, 7, 8. The nuance is that the third is contrastive — 45:8 is "it was not **you** who sent me here, but God". Three occurrences, but the third negates human sending rather than repeating divine sending, which is the point and is worth saying.
+**18 · "God sent me" ×3 at 45:5–8 (§15).** Confirmed: *šālaḥ* ("send") at 45:5, 7, 8. The nuance is that the third is contrastive — 45:8 is "it was not **you** who sent me here, but God". Three occurrences, but the third negates human sending rather than repeating divine sending, which is the point and is worth saying.
 
 **19 · *ṣālēaḥ* (§14).** Confirmed at 39:2, 3, 23 — and it is not confined to Joseph. 6743 also stands at **24:21, 40, 42, 56**, four times of the servant's journey. The word links Genesis 24's providence to Genesis 39's, which is a thread the sweep's §10 and §14 could have shared.
 
@@ -71,11 +73,11 @@ Claims are grouped rather than given one Hays table apiece: the great majority a
 
 **24 · "3:5 'like God' ↔ 50:19 'Am I in the place of God?'" listed among the *verbal* welds, high `[T]` (Book-Level Threads, §16).** **Conceptual, not verbal.** 3:5 reads כֵּאלֹהִים (*kə-* + 430); 50:19 reads הֲתַחַת אֱלֹהִים. The shared word is only אֱלֹהִים. The thematic resolution is real and worth preaching; it is not a diction weld, and it should not sit in a list headed "verbal welds" at `[T]`. *And see #16:* the verbal weld at 50:19 runs to 22:13 and 44:33, not to 3:5.
 
-**25 · The goat-kid motif, 27:9, 16 → 37:31 → 38:17 (§11, §13).** **The named failure mode, exactly.** *gədî* (1423) stands at 27:9, 16 and 38:17, 20, 23 — **not at 37:31**, which reads שְׂעִיר עִזִּים (8163 + 5795), a male goat. The chain was extended by inference into a verse that does not contain the word. It is repairable rather than fatal: **ʿizzîm (5795) is present at all three** — 27:9, 16; 37:31; 38:17, 20. *Restate the chain on ʿizzîm*, and the motif stands with its middle term intact.
+**25 · The goat-kid motif, 27:9, 16 → 37:31 → 38:17 (§11, §13).** **The named failure mode, exactly.** *gədî* ("kid") stands at 27:9, 16 and 38:17, 20, 23 — **not at 37:31**, which reads שְׂעִיר עִזִּים, "a male goat". The chain was extended by inference into a verse that does not contain the word. It is repairable rather than fatal: **ʿizzîm ("goats") is present at all three** — 27:9, 16; 37:31; 38:17, 20. *Restate the chain on ʿizzîm*, and the motif stands with its middle term intact.
 
 ### A4. Wrong (2)
 
-**26 · "*nûaḥ* ('rest') puns on *Nōaḥ*, cf. 5:29, 'he shall bring us relief'" — *High*, `[T]` (§5).** **Wrong as stated.** 5:29's verb is יְנַחֲמֵנוּ, from **nāḥam** (5162, "comfort"), not *nûaḥ*. The mismatch between Noah's name and the etymology 5:29 gives it is a well-known crux; the sweep resolved it silently in the wrong direction and stamped it `[T]` at high confidence. *And the real finding was underneath:* **nûaḥ (5117) occurs exactly once in Genesis — 8:4, where the ark *rested* on Ararat.** The one place Genesis uses the verb the name sounds like is of Noah's own vessel coming to rest. *Replace the claim with that.*
+**26 · "*nûaḥ* ('rest') puns on *Nōaḥ*, cf. 5:29, 'he shall bring us relief'" — *High*, `[T]` (§5).** **Wrong as stated.** 5:29's verb is יְנַחֲמֵנוּ, from **nāḥam** ("comfort"), not *nûaḥ*. The mismatch between Noah's name and the etymology 5:29 gives it is a well-known crux; the sweep resolved it silently in the wrong direction and stamped it `[T]` at high confidence. *And the real finding was underneath:* **nûaḥ ("rest") occurs exactly once in Genesis — 8:4, where the ark *rested* on Ararat.** The one place Genesis uses the verb the name sounds like is of Noah's own vessel coming to rest. *Replace the claim with that.*
 
 **27 · "Judah's speech (44:18–34), the longest speech in Genesis" (§15 twice, Schnittjer pass, Cross-Passage 2).** **Wrong.** Counted in accent units from the WLC: 44:18–34 runs to **186**; the servant's speech at 24:34–49 runs to **198**; Jacob's blessing at 49:1–27 runs to **249**. The narrative-braking argument the sweep builds on it does not need the superlative — the speech is still the longest by any of the twelve brothers, and it is still the moral peak. *Restate without the superlative;* the same error was independently caught and corrected in the new book overview.
 
@@ -102,7 +104,7 @@ Three structural facts constrain all four, none of them the digs' fault:
 | # | Dig | Claim | Verdict |
 |---|---|---|---|
 | 29 | 22:1–19 | *ʾāhab* at 22:2 is the first occurrence of "love" in the Hebrew Bible | **Confirmed.** 157 first stands at Gen 22:2; no earlier occurrence exists |
-| 30 | 22:1–19 | "Son" recurs **eleven** times in nineteen verses | **Wrong — it is ten.** *bēn* (1121) at 22:2, 3, 6, 7, 8, 9, 10, 12, 13, 16 |
+| 30 | 22:1–19 | "Son" recurs **eleven** times in nineteen verses | **Wrong — it is ten.** *bēn* ("son") at 22:2, 3, 6, 7, 8, 9, 10, 12, 13, 16 |
 | 31 | 22:1–19 | *ʿōlāh* has a **seven-fold** repetition (vv. 2, 3, 6, 7, 8, 13) | **Wrong — it is six**, and the dig's own verse-list is right while its number is not. 5930 stands once in each of the six verses listed |
 | 32 | 22:1–19 | *hinnēnî* structures the passage at vv. 1, 7, 11 | **Confirmed.** Exactly three, at those verses |
 | 33 | 22:1–19 | *yāḥîd* marks covenantal uniqueness, not a headcount | **Confirmed.** 3173 occurs in Genesis only at 22:2, 12, 16 — all three in this passage |
@@ -113,9 +115,9 @@ Three structural facts constrain all four, none of them the digs' fault:
 | 38 | 24 | *ḥesed* at 24:12, 14, 27, 49 | **Confirmed exactly.** 2617 four times, at those verses, no others in the chapter |
 | 39 | 24 | *zeraʿ* twice, bracketing the chapter at 24:7 and 24:60 | **Confirmed exactly.** 2233 twice in the chapter, at those verses |
 | 40 | 24 | 24:60 verbally repeats 22:17 | **Confirmed, and it is near-identical.** 22:17 וְיִרַשׁ זַרְעֲךָ אֵת שַׁעַר אֹיְבָיו; 24:60 וְיִירַשׁ זַרְעֵךְ אֵת שַׁעַר שֹׂנְאָיו — the same clause, the final noun alone changed (*ʾōyēv* → *śōnēʾ*). **The single best find in the four digs** |
-| 41 | 24 | The thigh-oath's only other instance is 47:29 | **Confirmed with nuance.** As a *gesture*, yes — 24:2, 9 and 47:29. As a *word*, *yārēk* (3409) also stands at 32:26, 32, 33 (Jacob's thigh) and 46:26. Say "the only other oath sworn this way", and confine "biblical" to Genesis unless checked wider |
-| 42 | 25:1–11 | Eastward movement is the direction of un-election: 3:24; 4:16; 11:2; 13:11 | **Needs reframing on two counts.** (i) **4:16 does not contain *qedem* (6924)** — it reads קִדְמַת־עֵדֶן, from *qidmāh* (6926). (ii) More seriously, **2:8 is a counter-instance**: God plants the garden מִקֶּדֶם, "in the east". 6924 also stands at 10:30, 12:8, 13:14, 28:14, 29:1, several neutral. The motif is real but it is a *narrative pattern*, not a lexical rule, and the counter-instance should be named |
-| 43 | 25:1–11 | "Gathered to his people" first occurs at 25:8, then 25:17, 35:29, 49:33 | **Confirmed, and one more.** *ʾāsap* (622) in this idiom at 25:8, 25:17, 35:29, **49:29** (Jacob's own announcement) and 49:33. Also confirmed: 15:15's בְּשֵׂיבָה טוֹבָה is fulfilled **verbatim** at 25:8, and *śābēaʿ* (7649) occurs in Genesis only at 25:8 and 35:29 — Abraham and Isaac die the same way |
+| 41 | 24 | The thigh-oath's only other instance is 47:29 | **Confirmed with nuance.** As a *gesture*, yes — 24:2, 9 and 47:29. As a *word*, *yārēk* ("thigh") also stands at 32:26, 32, 33 (Jacob's thigh) and 46:26. Say "the only other oath sworn this way", and confine "biblical" to Genesis unless checked wider |
+| 42 | 25:1–11 | Eastward movement is the direction of un-election: 3:24; 4:16; 11:2; 13:11 | **Needs reframing on two counts.** (i) **4:16 does not contain *qedem* ("east")** — it reads קִדְמַת־עֵדֶן, from *qidmāh* ("east of"). (ii) More seriously, **2:8 is a counter-instance**: God plants the garden מִקֶּדֶם, "in the east". *qedem* also stands at 10:30, 12:8, 13:14, 28:14, 29:1, several neutral. The motif is real but it is a *narrative pattern*, not a lexical rule, and the counter-instance should be named |
+| 43 | 25:1–11 | "Gathered to his people" first occurs at 25:8, then 25:17, 35:29, 49:33 | **Confirmed, and one more.** *ʾāsap* ("gather") in this idiom at 25:8, 25:17, 35:29, **49:29** (Jacob's own announcement) and 49:33. Also confirmed: 15:15's בְּשֵׂיבָה טוֹבָה is fulfilled **verbatim** at 25:8, and *śābēaʿ* ("full, satisfied") occurs in Genesis only at 25:8 and 35:29 — Abraham and Isaac die the same way |
 
 ### B3. What the digs should carry forward
 
@@ -237,7 +239,7 @@ Three claims across the five documents are genuine intertextual assertions rathe
 
 ## Colophon
 
-**Version:** 1.0.0 · **Date:** 7 September 2026 · **Mode:** Claim Audit (standalone)
+**Version:** 1.1.0 (wording revised 8 October 2026) · **Date:** 7 September 2026 · **Mode:** Claim Audit (standalone)
 **Claims audited:** 43 · **Chains verified:** 31 chains, 214 individual references checked against `_texts/hebrew-wlc/_index/` by lemma
 **Editions named:** WLC (Hebrew counts), Swete (Greek OT observation), Rahlfs-based Logos export (Greek OT citation), SBLGNT (NT), NASB95 (English reference)
 **Warrant counts:** `[T]` 31 · `[I]` 4 · `[S]` 8

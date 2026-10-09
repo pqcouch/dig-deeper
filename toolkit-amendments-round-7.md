@@ -2,7 +2,7 @@
 
 **Date:** 3 October 2026 · **Letters:** AB, AC, AD — continuing from Round 6's Z and AA
 **Skills touched:** `book-overview` (`SKILL.md`, `references/deliverables.md`), plus one new corpus tool, `_texts/tools/contacts.py`
-**Status:** DRAFTED, not applied. The find/replace pairs below are ready for a `.skill` package. The draft tool is in `_skill-backup/round-7-draft/contacts.py`.
+**Status:** INSTALLED and verified 9 October 2026, with Rounds 6–8 together. dig-deeper is byte-identical to the intended build (`_skill-backup/dig-deeper-rounds-6-8.skill`). book-overview v0.3.0 has its body text and reference files byte-identical; the installer reformatted only the YAML description line. The corpus edits (`_texts/README.md`, `contacts.py`, `find.py`) are applied.
 **Occasion:** the Lamentations book overview (v0.1.0) and its claim audit, both of 3 October 2026.
 
 ---

@@ -60,7 +60,8 @@
 </nav>
 <main>
 <h1 id="claim-audit-2-lamentations">Claim Audit 2: Lamentations</h1>
-<p><strong>Passages audited:</strong> the whole book. The claims tested are the 14 open queue items L2–L15: nine candidates raised by the first claim audit and six raised by the whole-book sweep, counting L10 twice as both pair and design <strong>Date:</strong> 4 October 2026 <strong>Purpose:</strong> to settle the sweep’s new design claims and the audit-1 candidates before any ⭐ solo dig or sermon rests on them. Queue trigger 1 fired at 15 queued, after the sweep <strong>Documents under test:</strong> <code>book-overview-lamentations.md</code> v0.2.0; <code>dig-deeper-lamentations-sweep.md</code> (3 October 2026); <code>dig-deeper-lamentations-claim-audit.md</code> (audit 1), for its new-candidate list <strong>Not re-tested:</strong> L1, Jer 14 as a live source. Audit 1 settled its wording, and its direction of dependence is a question for the library, not for a lemma count</p>
+<p><strong>Passages audited:</strong> the whole book. The claims tested are the 14 open queue items L2–L15: nine candidates raised by the first claim audit and six raised by the whole-book sweep, counting L10 twice as both pair and design <strong>Date:</strong> 4 October 2026</p>
+<p><strong>Revised:</strong> 8 October 2026, v1.1. Every search is now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result. The working shorthand of the earlier text (search-routine names, word-index numbers and script file names) has been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8). <strong>Purpose:</strong> to settle the sweep’s new design claims and the audit-1 candidates before any HIGH-weighted solo dig or sermon rests on them. Queue trigger 1 fired at 15 queued, after the sweep <strong>Documents under test:</strong> <code>book-overview-lamentations.md</code> v0.2.0; <code>dig-deeper-lamentations-sweep.md</code> (3 October 2026); <code>dig-deeper-lamentations-claim-audit.md</code> (audit 1), for its new-candidate list <strong>Not re-tested:</strong> L1, Jer 14 as a live source. Audit 1 settled its wording, and its direction of dependence is a question for the library, not for a lemma count</p>
 <p><strong>Primary texts:</strong></p>
 <ul>
 <li>WLC Hebrew with the lemma index, for every count. The matcher is identical to <code>find.py</code>.</li>
@@ -77,7 +78,7 @@
 <li>a neutral brief;</li>
 <li>the claims, restated;</li>
 <li>the staged corpus;</li>
-<li>a shared lemma library (<code>alib.py</code>), plus <code>contacts.py</code>, the Round 7 draft density scanner.</li>
+<li>searches over the WLC lemma index, plus the Round 7 draft density scanner.</li>
 </ul>
 <p>Each was told to try to <strong>break</strong> its claims, not confirm them.</p>
 <table>
@@ -114,7 +115,7 @@
 <p><strong>Method for each claim.</strong></p>
 <ol type="1">
 <li>Check the wording on both sides in Hebrew, and in Greek where relevant.</li>
-<li>Count how rare the shared lemma set is (<code>hall</code>).</li>
+<li>Count how rare the shared lemma set is: in how many verses of the Hebrew Bible (WLC) all the shared words occur together.</li>
 <li>Search for rival sources.</li>
 <li>For design claims, run a chance baseline.</li>
 <li>Score the seven Hays criteria. <em>History of interpretation</em> is “not checked” throughout, since no commentary was consulted.</li>
@@ -426,25 +427,25 @@
 <td>יגה (“cause grief”)</td>
 <td>1:4, 5, 12</td>
 <td>3:32, 33</td>
-<td>✓. BHS reads 1:4 with the Greek as נְהוּגוֹת (“led away”)</td>
+<td>Verified. BHS reads 1:4 with the Greek as נְהוּגוֹת (“led away”)</td>
 </tr>
 <tr class="even">
 <td>בָּדָד (“alone”) + ישׁב (“sit”)</td>
 <td>1:1</td>
 <td>3:28</td>
-<td>✓ (5 verses in the Hebrew Bible)</td>
+<td>Verified (5 verses in the Hebrew Bible)</td>
 </tr>
 <tr class="odd">
 <td>עֹל (“yoke”)</td>
 <td>1:14</td>
 <td>3:27</td>
-<td>MT ✓. <strong>BHS marks 1:14a as doubtful (“dub”)</strong>: many manuscripts and the Greek read נִשְׁקַד עַל (“bound … upon”), not “yoke”. The yoke there rests on the Lucianic Greek and Symmachus</td>
+<td>Verified in the MT. <strong>BHS marks 1:14a as doubtful (“dub”)</strong>: many manuscripts and the Greek read נִשְׁקַד עַל (“bound … upon”), not “yoke”. The yoke there rests on the Lucianic Greek and Symmachus</td>
 </tr>
 <tr class="even">
 <td>עֳנִי (“affliction”) + מָרוּד (“wandering”)</td>
 <td>1:7</td>
 <td>3:19</td>
-<td>✓. <strong>Exclusive in the Hebrew Bible (2 verses)</strong></td>
+<td>Verified. <strong>Exclusive in the Hebrew Bible (2 verses)</strong></td>
 </tr>
 <tr class="odd">
 <td>“See, O LORD”</td>
@@ -589,7 +590,7 @@
 </tr>
 <tr class="even">
 <td><strong>Nah 3:7 ~ 2:13 (“who will grieve … comforters”)</strong></td>
-<td><strong>Discard.</strong> Lam 2:13 has no נוד (“grieve”); the lemma never occurs in Lamentations (control: <code>hhas('Nah 3:7','5110')</code> True). The partner of 2:13 is Isa 51:19</td>
+<td><strong>Discard.</strong> Lam 2:13 has no נוד (“grieve”); the lemma never occurs in Lamentations (WLC; control: the same search finds נוד in Nah 3:7). The partner of 2:13 is Isa 51:19</td>
 </tr>
 <tr class="odd">
 <td>Nah 3:5 ~ 1:9 (skirts)</td>
@@ -649,7 +650,7 @@
 <li>The nouns for “pit” differ: Ezekiel has שַׁחַת, Lamentations שְׁחִית.</li>
 </ul></li>
 <li><strong>What is exclusive is the frame</strong>, “caught in <em>their</em> pit/pits”.</li>
-<li><strong>Correction to v0.2.0:</strong> its rarity cell, “גּוֹי (‘nation’) + שַׁחַת (‘pit’): 3 verses (Ezek 19:4, 8; Ps 9:16)”, does <strong>not include Lam 4:20</strong>, which has שְׁחִיתוֹת. Checked: <code>hall(['1471','7825'])</code> returns Lam 4:20 alone.</li>
+<li><strong>Correction to v0.2.0:</strong> its rarity cell, “גּוֹי (‘nation’) + שַׁחַת (‘pit’): 3 verses (Ezek 19:4, 8; Ps 9:16)”, does <strong>not include Lam 4:20</strong>, which has שְׁחִיתוֹת. Checked in the WLC: גּוֹי (“nation”) and שְׁחִית (“pit”, the word of Lam 4:20, distinct from שַׁחַת) occur together in Lam 4:20 alone.</li>
 <li><strong>Rival:</strong> Ps 9:16 [Eng 9:15] uses Lamentations’ own verb (לכד, “be caught”).</li>
 <li><strong>Greek:</strong> the translators make the two read almost alike (“he was caught in their corruption”). That shows how early readers heard them, not dependence.</li>
 <li>Ezek 19 is itself called a קִינָה (“lament”, 19:1, 14), which supports a shared royal-lament theme.</li>

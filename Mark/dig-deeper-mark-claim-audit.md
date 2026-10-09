@@ -2,6 +2,8 @@
 
 **Claims audited:** 21 Old Testament allusion claims that the Mark sweep proposed to add to, or upgrade in, the book overview. They fall at Mark 1:10; 9:5–7, 14–19, 49; 10:27, 45; 11:8, 12–21; 13:2, 14–19, 24, 31; 14:3, 9, 34, 36, 52; 15:33, 40.
 **Date:** 29 September 2026
+
+**Revised:** 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Purpose:** To test these claims before any of them enters `Mark/book-overview-mark.md`. The sweep named them as synthetic and capped them at moderate confidence until audited. The three it flagged first were Hosea 9, Isaiah 63:11–14 and Amos 2:16.
 **Texts:** Mark from the SBLGNT, with the MorphGNT index, counted in 1:1–16:8. Greek OT from Swete (observation) and the Rahlfs–Hanhart exports (citation). Hebrew from the WLC, checked with `find.py`. NA28 apparatus for Mark. There is no LXX apparatus in the folder.
 **Consumes:** `Mark/book-overview-mark.md` Draft v0.1.0 and `Mark/dig-deeper-mark-sweep.md`, both from 29 September 2026.
@@ -449,7 +451,7 @@ Some of these are stronger than what they replace. None has been audited in its 
   - Deut 32:5, γενεὰ σκολιὰ καὶ διεστραμμένη ("a crooked and perverse generation").
   - Ps 78:8 (Swete 77:8), where the Hebrew has the same root אמן ("to be faithful").
   - Num 14:11, a doubled "how long …?" with unbelief. This matches the *shape* of Mark's doubled ἕως πότε ("how long").
-- **Early reception.** Matt 17:17 and Luke 9:41 add διεστραμμένη ("perverse"), from Deut 32:5, and 𝔓⁴⁵vid, W and ƒ¹³ add it to Mark too. That is early evidence that the saying was heard against Deut 32 `[T]`.
+- **Early reception.** Matt 17:17 and Luke 9:41 add διεστραμμένη ("perverse"), from Deut 32:5, and P⁴⁵vid, W and ƒ¹³ add it to Mark too. That is early evidence that the saying was heard against Deut 32 `[T]`.
 
 **Baseline.**
 
@@ -778,7 +780,7 @@ The sweep is left unchanged as a record, with a post-audit note added under its 
 
 ## Tool Problem Found
 
-`$HOME/work/rahlfs.py` returns the first chapter it finds with the requested number. The Rahlfs files combine 1–2 Samuel, 1–2 Kings and 1–2 Chronicles, so for the second book of each pair it returns the wrong verse. The third auditor caught this at 2 Kgs 9:13, where the helper returned 1 Kgs 9:13, and read the text by grep instead. No claim in the overview or the sweep drew on those files through the helper: the Rahlfs checks in both were in Isaiah, Hosea, Amos, Zechariah, the Psalms, Joel and Malachi. The helper should still be fixed before its next use.
+The auditors' Rahlfs verse-lookup routine returned the first chapter it found with the requested number. The Rahlfs files combine 1–2 Samuel, 1–2 Kings and 1–2 Chronicles, so for the second book of each pair it returned the wrong verse. The third auditor caught this at 2 Kgs 9:13, where the routine returned 1 Kgs 9:13, and read the text by grep instead. No claim in the overview or the sweep drew on those files through the routine: the Rahlfs checks in both were in Isaiah, Hosea, Amos, Zechariah, the Psalms, Joel and Malachi. Any such routine must handle the combined files before it is used again.
 
 ## Open Questions for Logos
 
@@ -804,18 +806,18 @@ The sweep is left unchanged as a record, with a post-audit note added under its 
 
 **Controls:**
 
-- **Negative controls.** Each of these failed with a non-zero exit, as intended:
-  - `verify 3173 Amos:8:9`
-  - `verify 4414 Lev:2:14`
-  - `verify 3372 Deut:9:19` (which confirmed that Deut 9:19 uses יגר, "to dread", not ירא, "to fear")
-  - `verify 3332 2Kgs:9:13`
+- **Negative controls.** Each of these checks correctly reported that the word is absent from the verse (WLC):
+  - יָחִיד ("only son") is not in Amos 8:9 (it is in 8:10);
+  - מלח ("salt") is not in Lev 2:14;
+  - ירא ("fear") is not in Deut 9:19, which uses יגר ("dread");
+  - יצק ("pour") is not in 2 Kgs 9:13.
 - **Positive controls.** Every report of an absence or rarity was preceded by a search that returned a known hit. Examples: the ἐπισκια- pattern had to allow for the augment; the διακον- search returned the noun before the verb's absence was reported; the vocative "ὦ γενεά" pattern matched Mark 9:19 before its absence from Swete was reported.
 
 **Problems met:**
 
 - An accent-stripped stem search cannot tell ἁλίζω ("to salt") from ἀλισγέω ("to pollute"), or γενεά ("generation") from γένεσις ("origin"), so those counts were cleaned by hand.
 - Swete's present-tense καταλείπων ("leaving") hid Gen 39 until the pattern was widened.
-- The `rahlfs.py` fault described above.
+- The Rahlfs lookup fault described above.
 - The Rahlfs exports lack the deuterocanonical books, so Rahlfs counts cover the Hebrew canon only.
 - There is no LXX apparatus in the folder.
 

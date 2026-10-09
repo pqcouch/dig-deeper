@@ -45,7 +45,7 @@
 >   - נקף II ("go round, surround", 19:6) and נקף I ("strike off", 19:26);
 >   - גוּר I ("sojourn", 19:15) and גוּר III ("be afraid", 19:29).
 > - **Baselines.** Three "is this source distinctive?" questions were tested by ranking every chapter of the Hebrew Bible (887, Job excluded) by the rare lemmas (in 150 verses or fewer) that its best window shares with a span of Job 19. A fourth test ranked all 120 pairs of speeches in Job 4–27 by shared rare vocabulary. The results are reported where they bear, including the ones that came back negative.
-> - **The log** is `~/j19/chk_helpers.py`, `base.py` and the runs recorded with them.
+> - **The log.** The searches were run against the WLC lemma and morphology index; each result is stated in words at the point where it is used.
 
 ---
 
@@ -924,7 +924,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 
 **Tools worked before secondary sources consulted:** Confirmed.
 - The BHS text and apparatus, Swete and Rahlfs were read first.
-- The address test, the repetitions, the homographs and the candidate intertexts were derived and verified in the WLC (`chk_helpers.py`, `base.py` and the runs) before the sweep's Unit 9 and the overview's 19 rows were re-read.
+- The address test, the repetitions, the homographs and the candidate intertexts were derived and verified in the WLC before the sweep's Unit 9 and the overview's 19 rows were re-read.
 - **The finds new to this run:**
   - **Words and structure:** ידע as the leading word answering 18:21; the asyndetic "I know" shared only with 30:23; the address test (no second-person singular); the four homograph pairs; Job's last "my hope" at 19:10; אהב only here in Job.
   - **Canon:** Isa 30:8 (exclusive); Jer 17:1 (exclusive); Isa 26:19 (live, rise, dust); Isa 49:26; Hab 1:2 (exclusive) and 2:2–3; Ps 102:6 (exclusive) and 102:4 at 30:30; Ps 69:9 and 69:21; Ps 88:18; Lam 3:1–9 by baseline and Lam 3:58–59; Ps 72:14; Deut 19:6, 12 with 19:15–16; Num 14:22.

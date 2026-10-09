@@ -2,7 +2,9 @@
 
 **Passages audited:** the whole book. The claims tested are the 14 open queue items L2–L15: nine candidates raised by the first claim audit and six raised by the whole-book sweep, counting L10 twice as both pair and design
 **Date:** 4 October 2026
-**Purpose:** to settle the sweep's new design claims and the audit-1 candidates before any ⭐ solo dig or sermon rests on them. Queue trigger 1 fired at 15 queued, after the sweep
+
+**Revised:** 8 October 2026, v1.1. Every search is now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result. The working shorthand of the earlier text (search-routine names, word-index numbers and script file names) has been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
+**Purpose:** to settle the sweep's new design claims and the audit-1 candidates before any HIGH-weighted solo dig or sermon rests on them. Queue trigger 1 fired at 15 queued, after the sweep
 **Documents under test:** `book-overview-lamentations.md` v0.2.0; `dig-deeper-lamentations-sweep.md` (3 October 2026); `dig-deeper-lamentations-claim-audit.md` (audit 1), for its new-candidate list
 **Not re-tested:** L1, Jer 14 as a live source. Audit 1 settled its wording, and its direction of dependence is a question for the library, not for a lemma count
 
@@ -26,7 +28,7 @@ Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inferen
 - a neutral brief;
 - the claims, restated;
 - the staged corpus;
-- a shared lemma library (`alib.py`), plus `contacts.py`, the Round 7 draft density scanner.
+- searches over the WLC lemma index, plus the Round 7 draft density scanner.
 
 Each was told to try to **break** its claims, not confirm them.
 
@@ -39,7 +41,7 @@ Each was told to try to **break** its claims, not confirm them.
 **Method for each claim.**
 
 1. Check the wording on both sides in Hebrew, and in Greek where relevant.
-2. Count how rare the shared lemma set is (`hall`).
+2. Count how rare the shared lemma set is: in how many verses of the Hebrew Bible (WLC) all the shared words occur together.
 3. Search for rival sources.
 4. For design claims, run a chance baseline.
 5. Score the seven Hays criteria. *History of interpretation* is "not checked" throughout, since no commentary was consulted.
@@ -153,10 +155,10 @@ Each auditor ran a positive control before reporting any nil or "only".
 
 | Item | Poem 1 | Poem 3 | Check |
 |---|---|---|---|
-| יגה ("cause grief") | 1:4, 5, 12 | 3:32, 33 | ✓. BHS reads 1:4 with the Greek as נְהוּגוֹת ("led away") |
-| בָּדָד ("alone") + ישׁב ("sit") | 1:1 | 3:28 | ✓ (5 verses in the Hebrew Bible) |
-| עֹל ("yoke") | 1:14 | 3:27 | MT ✓. **BHS marks 1:14a as doubtful ("dub")**: many manuscripts and the Greek read נִשְׁקַד עַל ("bound … upon"), not "yoke". The yoke there rests on the Lucianic Greek and Symmachus |
-| עֳנִי ("affliction") + מָרוּד ("wandering") | 1:7 | 3:19 | ✓. **Exclusive in the Hebrew Bible (2 verses)** |
+| יגה ("cause grief") | 1:4, 5, 12 | 3:32, 33 | Verified. BHS reads 1:4 with the Greek as נְהוּגוֹת ("led away") |
+| בָּדָד ("alone") + ישׁב ("sit") | 1:1 | 3:28 | Verified (5 verses in the Hebrew Bible) |
+| עֹל ("yoke") | 1:14 | 3:27 | Verified in the MT. **BHS marks 1:14a as doubtful ("dub")**: many manuscripts and the Greek read נִשְׁקַד עַל ("bound … upon"), not "yoke". The yoke there rests on the Lucianic Greek and Symmachus |
+| עֳנִי ("affliction") + מָרוּד ("wandering") | 1:7 | 3:19 | Verified. **Exclusive in the Hebrew Bible (2 verses)** |
 | "See, O LORD" | 1:9, 11, 20 | 3:59–60 | **Wrong as a 1 → 3 item.** Ch. 3 has the perfect ("you have seen"). The imperative recurs at 2:20 and 5:1 |
 | **Missed:** יגה + רֹב ("abundance") | 1:5 | 3:32 | **Exclusive in the Hebrew Bible (2 verses).** "Afflicted her **for the multitude** of her transgressions" → "according to **the abundance** of His lovingkindness". The Greek keeps it. **The strongest single link** |
 
@@ -227,7 +229,7 @@ Ch. 3 does not take up poem 1 as a whole. Drop "See, O LORD" from the list, and 
 | Nah 3:10 ~ 1:5 (עוֹלָל, "infant" + הלך, "go" + שְׁבִי, "captivity") | **Exclusive (2 verses).** But the wording needs correcting: in Nahum the *city* goes into captivity and the infants are dashed to pieces |
 | Nah 3:10 ~ 2:19 ("at the head of every street") | The phrase is in 4 verses, with **Isa 51:20** an equal rival. BHS marks part of 2:19 as an addition ("c–c add"); which words is unchecked |
 | Nah 3:11 ~ 4:21 (תִּשְׁכְּרִי, "you will be drunk") | **Exclusive (2 verses)**; the Greek keeps it |
-| **Nah 3:7 ~ 2:13 ("who will grieve … comforters")** | **Discard.** Lam 2:13 has no נוד ("grieve"); the lemma never occurs in Lamentations (control: `hhas('Nah 3:7','5110')` True). The partner of 2:13 is Isa 51:19 |
+| **Nah 3:7 ~ 2:13 ("who will grieve … comforters")** | **Discard.** Lam 2:13 has no נוד ("grieve"); the lemma never occurs in Lamentations (WLC; control: the same search finds נוד in Nah 3:7). The partner of 2:13 is Isa 51:19 |
 | Nah 3:5 ~ 1:9 (skirts) | **Not exclusive.** Jer 13:22, 26 share the image; Jer 13:26 is almost identical to Nah 3:5 |
 
 - **Density:** Nah 3 ranks 5th and Isa 47 3rd of 858 chapters in this auditor's scan (both above most foreign-city oracles). 6 of Nahum's 15 rare pairs come from the single verse 3:10.
@@ -285,7 +287,7 @@ Ch. 3 does not take up poem 1 as a whole. Drop "See, O LORD" from the list, and 
   - The verbs for "caught" differ: Ezekiel has תפשׂ, Lamentations לכד.
   - The nouns for "pit" differ: Ezekiel has שַׁחַת, Lamentations שְׁחִית.
 - **What is exclusive is the frame**, "caught in *their* pit/pits".
-- **Correction to v0.2.0:** its rarity cell, "גּוֹי ('nation') + שַׁחַת ('pit'): 3 verses (Ezek 19:4, 8; Ps 9:16)", does **not include Lam 4:20**, which has שְׁחִיתוֹת. Checked: `hall(['1471','7825'])` returns Lam 4:20 alone.
+- **Correction to v0.2.0:** its rarity cell, "גּוֹי ('nation') + שַׁחַת ('pit'): 3 verses (Ezek 19:4, 8; Ps 9:16)", does **not include Lam 4:20**, which has שְׁחִיתוֹת. Checked in the WLC: גּוֹי ("nation") and שְׁחִית ("pit", the word of Lam 4:20, distinct from שַׁחַת) occur together in Lam 4:20 alone.
 - **Rival:** Ps 9:16 [Eng 9:15] uses Lamentations' own verb (לכד, "be caught").
 - **Greek:** the translators make the two read almost alike ("he was caught in their corruption"). That shows how early readers heard them, not dependence.
 - Ezek 19 is itself called a קִינָה ("lament", 19:1, 14), which supports a shared royal-lament theme.

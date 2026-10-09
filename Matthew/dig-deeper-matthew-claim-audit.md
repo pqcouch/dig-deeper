@@ -2,6 +2,8 @@
 
 **Passages audited:** 22 claims from `Matthew/book-overview-matthew.md` (Draft v0.1.0, 1 October 2026). They are every non-quotation allusion the overview rates above *moderate*, and its three structural or canonical claims. All are listed in the project's `claude/claim-audit-queue.md` (Matthew #1–22).
 **Date:** 1 October 2026
+
+**Revised:** 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Purpose:** To test the overview's above-moderate allusions before any of them is handed to a dig or a sermon. Under the standing rule, both triggers had fired: 22 claims were queued, and 19 of them had entered an overview above *moderate* without being audited.
 **Primary texts:** NA28 text and apparatus (Logos export); SBLGNT with the MorphGNT index (Matthew, Mark, Luke, and the whole New Testament where a claim reached beyond the Gospels); Swete LXX; Rahlfs–Hanhart exports, including Old Greek and Theodotion Daniel; WLC with `find.py`; BHS apparatus exports for Exodus and Deuteronomy.
 **Study text:** NASB95 · **Pulpit text:** none — no sermon is in view.
@@ -235,7 +237,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 - Deut 21:7, ἀποκριθέντες ἐροῦσιν … τὸ αἷμα τοῦτο ("answering they shall say … this blood"). τὸ αἷμα τοῦτο ("this blood") occurs in Swete **only** at Deut 21:7 (reproduced).
 - Matt 27:25 ἀποκριθεὶς πᾶς ὁ λαὸς εἶπεν ("all the people answered and said").
 
-**What does not:** the LXX of Deut 21:8–9 has αἷμα ἀναίτιον ("guiltless blood"), not ἀθῷος ("innocent"). The link to Matthew's word runs only through the Hebrew, דָּם נָקִי ("innocent blood"; lemma 5355, gated).
+**What does not:** the LXX of Deut 21:8–9 has αἷμα ἀναίτιον ("guiltless blood"), not ἀθῷος ("innocent"). The link to Matthew's word runs only through the Hebrew, דָּם נָקִי ("innocent blood"; checked in the WLC).
 
 **Closer sources for Pilate's sentence** (all reproduced):
 
@@ -302,7 +304,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 **Evidence.**
 
 - Swete and Rahlfs Deut 31:1: συνετέλεσεν Μωυσῆς λαλῶν πάντας τοὺς λόγους τούτους ("Moses finished speaking all these words").
-- The WLC of Deut 31:1 reads וַיֵּלֶךְ ("and he went"). But **the BHS apparatus (31:1 note a–a) records 𝔔𝔊 וַיְכַל מֹשֶׁה לְדַבֵּר ("and Moses finished speaking")** (reproduced). The "finished" reading has Qumran and Greek support. This is an apparatus feature: it is reported as BHS prints it, and its manuscript spread has not been checked in Logos `[unchecked — apparatus spread]`.
+- The WLC of Deut 31:1 reads וַיֵּלֶךְ ("and he went"). But **the BHS apparatus (31:1 note a–a) records QG וַיְכַל מֹשֶׁה לְדַבֵּר ("and Moses finished speaking")** (reproduced). The "finished" reading has Qumran and Greek support. This is an apparatus feature: it is reported as BHS prints it, and its manuscript spread has not been checked in Logos `[unchecked — apparatus spread]`.
 - At 32:45 the relation is the reverse. The WLC has "all these words" (וַיְכַל … אֶת־כָּל־הַדְּבָרִים הָאֵלֶּה, "and he finished … all these words"); Swete (ἐξετέλεσεν, "finished") and Rahlfs (συνετέλεσεν, "finished") lack them.
 
 **Baselines:**
@@ -325,7 +327,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 
 **Verdict:** **Confirmed with nuance.** For 26:1 only.
 
-**Book-overview action required:** Raise from *moderate* to *moderate–high* for 26:1. Cite Deut 31:1 LXX with the BHS 𝔔𝔊 note (tagged apparatus-unchecked), and Deut 32:45 MT. Add Gen 49:33 (Jacob finishing his charge to his twelve sons) as a candidate for 11:1 (see the new candidates below).
+**Book-overview action required:** Raise from *moderate* to *moderate–high* for 26:1. Cite Deut 31:1 LXX with the BHS QG note (tagged apparatus-unchecked), and Deut 32:45 MT. Add Gen 49:33 (Jacob finishing his charge to his twelve sons) as a candidate for 11:1 (see the new candidates below).
 
 ---
 
@@ -376,7 +378,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 
 - 2 Sam 17:23 (Swete and Rahlfs, checked in the second book of the Rahlfs Samuel file): ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ … καὶ ἀπήγξατο καὶ ἀπέθανεν ("he went away to his house … and hanged himself and died"). Matt 27:5: καὶ ἀπελθὼν ἀπήγξατο ("and going away he hanged himself").
 - In the New Testament, ἀπάγχομαι ("to hang oneself") occurs only at Matt 27:5 (index lemma ἀπάγχομαι).
-- The Hebrew חָנַק ("to strangle", lemma 2614) occurs only at 2 Sam 17:23 and Nah 2:13 (a lion). It is the Hebrew Bible's only self-hanging.
+- The Hebrew חָנַק ("to strangle") occurs only at 2 Sam 17:23 and Nah 2:13 (a lion). It is the Hebrew Bible's only self-hanging.
 - **The overview's statement stands, and the auditor's correction is itself corrected.** The auditor reported that Tobit has only the infinitive, so the finite ἀπήγξατο ("he/she hanged himself/herself") is unique to 2 Sam 17:23. The main-session check found that **Sinaiticus Tobit 3:10 does have ἀπήγξατο**, in reported speech: Sarah imagines people saying of her, αὐτὴ ἀπήγξατο ("she hanged herself"). She then decides against it. Tobit BA has only the infinitive. So ἀπήγξατο ("he/she hanged himself/herself") occurs in Swete at 2 Sam 17:23 and Tobit (S) 3:10, and **only 2 Sam 17:23 narrates a hanging that happened.**
 - **Context supporting the link** (the auditor's; none is verbal):
   - Ahithophel is David's σύμβουλος ("counsellor", 2 Sam 15:12); the chief priests take a συμβούλιον ("council", Matt 27:1, 7).
@@ -507,12 +509,12 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 **Evidence.**
 
 - Swete and Rahlfs both read ἁγνισμόν ("purification").
-- מַרְגּוֹעַ ("rest", lemma 4771) occurs in the Hebrew Bible **only at Jer 6:16** (gated, 1 occurrence).
+- מַרְגּוֹעַ ("rest") occurs in the Hebrew Bible **only at Jer 6:16** (WLC, checked; 1 occurrence).
 - Matthew keeps the LXX frame, εὑρήσετε … ταῖς ψυχαῖς ὑμῶν ("you will find … for your souls"), and corrects the noun.
 - ταῖς ψυχαῖς ὑμῶν ("for your souls") occurs in 2 Swete verses. ἀνάπαυσις ("rest") is joined to ψυχαῖς ὑμῶν ("your souls") nowhere in Swete.
 - 11:28–30 has no Lukan parallel: it is Matthew's own material.
 - **Sirach 51:23–27; 6:28** supplies the frame: the invitation (Ἐγγίσατε πρός με, "draw near to me"), the yoke, ἐκοπίασα ("I laboured"), and πολλὴν ἀνάπαυσιν ("much rest"). It complements Jeremiah rather than competing with it.
-- **New, Hebrew-side:** Isa 28:12, זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף וְזֹאת הַמַּרְגֵּעָה ("this is rest; give rest to the weary; this is repose"; root רגע, lemma 4774 gated), "but they would not hear". Both Jer 6:16 and Isa 28:12 end in refusal, which matches the unrepentant cities of 11:20–24. Isa 29:14 LXX (τὴν σοφίαν τῶν σοφῶν … τῶν συνετῶν κρύψω, "the wisdom of the wise … I will hide [the understanding] of the prudent") stands behind 11:25.
+- **New, Hebrew-side:** Isa 28:12, זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף וְזֹאת הַמַּרְגֵּעָה ("this is rest; give rest to the weary; this is repose"; root רגע; the noun מַרְגֵּעָה, checked in the WLC), "but they would not hear". Both Jer 6:16 and Isa 28:12 end in refusal, which matches the unrepentant cities of 11:20–24. Isa 29:14 LXX (τὴν σοφίαν τῶν σοφῶν … τῶν συνετῶν κρύψω, "the wisdom of the wise … I will hide [the understanding] of the prudent") stands behind 11:25.
 
 | Criterion | Score | Reasoning |
 |-----------|-------|-----------|
@@ -540,7 +542,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 - χολή ("gall") with ὄξος ("sour wine") occurs in Swete **only** at Ps 68:22 (reproduced).
 - Matthew changes Mark 15:23, ἐδίδουν … ἐσμυρνισμένον οἶνον ("they were giving … wine mixed with myrrh"), to **ἔδωκαν** αὐτῷ **πιεῖν** οἶνον μετὰ **χολῆς** ("they **gave** him wine to **drink** mixed with **gall**"). The aorist, the drinking and the gall all come from the Psalm's first line.
 - 27:48 (ὄξους … ἐπότιζεν, "sour wine … he gave him to drink") is shared with Mark and takes the Psalm's second line. So the whole verse is in view across 27:34 and 27:48.
-- The NA28 apparatus at 27:34 records ὄξος ("sour wine") in A W Γ Δ 𝔪, marked "(Ps 69,22)". The scribes heard the Psalm and assimilated the text to it.
+- The NA28 apparatus at 27:34 records ὄξος ("sour wine") in A W Γ Δ m, marked "(Ps 69,22)". The scribes heard the Psalm and assimilated the text to it.
 - The Hebrew רֹאשׁ ("poison, gall") is rendered χολή ("gall"), so the verbal link runs through the Greek.
 
 | Criterion | Score | Reasoning |
@@ -574,7 +576,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
   - Rahlfs Zech 12:14 reads πᾶσαι αἱ φυλαί ("all the tribes"), and Zech 14:17 ἐκ πασῶν φυλῶν τῆς γῆς ("from all the tribes of the earth").
   - Matthew's whole clause can be generated **from Zechariah 12–14 alone**.
   - In Gen 12:3 and 28:14 the verb is "be blessed", not "mourn".
-- At the Hebrew level, מִשְׁפָּחָה ("clan, family", lemma 4940) links Zech 12:12 and 14:17 with Gen 12:3 and 28:14 (gated).
+- At the Hebrew level, מִשְׁפָּחָה ("clan, family") links Zech 12:12 and 14:17 with Gen 12:3 and 28:14 (gated).
 
 | Criterion | Score (Zechariah / Genesis) | Reasoning |
 |-----------|-------|-----------|
@@ -793,7 +795,7 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 | Deut 18:15 (17:5) | moderate–high | moderate–high (merge with Exod 34 row; + Exod 24:16, 40:29 Swete) | Intertextual Map |
 | Deut 21:6–9 (27:24–25) | moderate–high (sole source) | moderate–high as **ritual background**; + Sus Th 46, 2 Sam 3:28, Deut 27:25, Jer 26:15 | Intertextual Map; Echo Table (23:35 → 27:25 row); Trap 3; the "outside the Tanak" note |
 | Deut 32:5 (17:17) | moderate–high | **high** (+ Deut 32:20) | Intertextual Map |
-| Deut 31:1 / 32:45 (26:1) | moderate | **moderate–high** (BHS 𝔔𝔊 note, apparatus-unchecked) | Intertextual Map; Arc Map (five-discourse table note); English table (26:1 row) |
+| Deut 31:1 / 32:45 (26:1) | moderate | **moderate–high** (BHS QG note, apparatus-unchecked) | Intertextual Map; Arc Map (five-discourse table note); English table (26:1 row) |
 | Five books of Moses | `[I]` moderate | **low** (as five books); moderate (as a Moses frame) | Arc Map (contested readings) |
 | 2 Sam 17:23 (27:5) | moderate–high | **high** | Intertextual Map |
 | Isa 50:6 (26:67; 27:30) | moderate–high | **high** (tradition) / **moderate** (Matthew's own); + Mic 5:1 Swete | Intertextual Map; Echo Table (5:39 ↔ 26:67 row) |
@@ -856,10 +858,10 @@ Abbreviations: OG = Old Greek; Th = Theodotion; MT = the Hebrew (WLC). Swete's n
 **Chains verified:**
 
 - **20 main-session spot checks** of the auditors' decisive evidence, re-run independently. **19 reproduced; 1 corrected** (Tobit S 3:10 ἀπήγξατο, "she hanged herself").
-- **Hebrew checks** passed: 4771 at Jer 6:16 (1 occurrence); 4774 at Isa 28:12; 5355 at Deut 27:25. The auditors' own `find.py` checks were 30+ in all, each with controls.
-- **Positive controls** passed before every absence: ετελεσθη ("it was finished") for the ἐτέλεσεν ("he finished") absence; εν αρχη εποιησεν ("in the beginning he made"); λόγος ("word"); H7225 ("beginning") at Gen 1:1; H4940 ("clan") at Gen 12:3; H2148 ("Zechariah") at 2 Chr 24:20.
+- **Hebrew checks** passed (WLC): מַרְגּוֹעַ ("rest") at Jer 6:16 (1 occurrence); מַרְגֵּעָה ("repose") at Isa 28:12; נָקִי ("innocent") at Deut 27:25. The auditors ran more than 30 such Hebrew checks in all, each with controls.
+- **Positive controls** passed before every absence: ετελεσθη ("it was finished") for the ἐτέλεσεν ("he finished") absence; εν αρχη εποιησεν ("in the beginning he made"); λόγος ("word"); רֵאשִׁית ("beginning") at Gen 1:1; מִשְׁפָּחָה ("clan") at Gen 12:3; זְכַרְיָה ("Zechariah") at 2 Chr 24:20.
 
-**Apparatus findings:** 1 — BHS Deut 31:1 note a–a (𝔔𝔊 וַיְכַל, "and he finished"), named as BHS prints it and tagged `[unchecked — apparatus spread]`. NA28 readings cited (13:42 εμβαλουσιν ("they will throw in") in 700; 27:34 οξος ("sour wine"); 23:35 ⸋υἱοῦ Βαραχίου⸌ ("son of Barachiah"); the Luke 11:51 insertion in D) are as NA28 prints them.
+**Apparatus findings:** 1 — BHS Deut 31:1 note a–a (QG וַיְכַל, "and he finished"), named as BHS prints it and tagged `[unchecked — apparatus spread]`. NA28 readings cited (13:42 εμβαλουσιν ("they will throw in") in 700; 27:34 οξος ("sour wine"); 23:35 ⸋υἱοῦ Βαραχίου⸌ ("son of Barachiah"); the Luke 11:51 insertion in D) are as NA28 prints them.
 **Warrant counts:** the verdicts rest on `[T]` evidence throughout. Two readings are `[I]` (the spread of עֲנָוִים ("the humble") over two beatitudes; the reasons this audit's survival rate differs from Mark's). No `[S]` claim was used.
 
 Health note: a blind, three-auditor audit with independent re-verification. Its verdicts are ready to be consumed as `[S: audit]` by a v0.2 upgrade of the Matthew overview and by the fresh sweep.

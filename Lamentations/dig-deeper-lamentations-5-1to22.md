@@ -1211,7 +1211,7 @@ Each was read earlier in this session and remains in context.
   - עֲטָרָה + רֹאשׁ;
   - הֲשִׁיבֵנוּ (phrase);
   - second-person and first-person-plural morphology in 5:1–22.
-- **The seven-root window baseline** (all within-chapter windows of 6 and of 22 verses, WLC) and **both chapter scans** (`contacts.py`; IDF-weighted) are reproducible from `/home/claude/lam5dig/`.
+- **The seven-root window baseline** (all within-chapter windows of 6 and of 22 verses, WLC) and **both chapter scans** (the Round 7 draft scanner, rarity-weighted) were run in the session workspace, which is not retained; their results are stated in full above.
 
 **Apparatus findings:** six, with the witness named for each.
 

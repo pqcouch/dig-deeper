@@ -1161,7 +1161,7 @@ The two call scenes are built in parallel: εἶδεν … δύο ἀδελφο�
 | 13:10–17 | The disciples' question "why in parables?" Given and not given (11–12); Isa 6:9–10 fulfilled (13–15); "blessed are your eyes" (16–17) |
 | 13:18–23 | The parable explained, each soil a kind of hearer |
 
-The unit is a frame `[T]`. The parable (3b–9) and its explanation (18–23) bracket the reason for parables (10–17), and Isaiah stands at the centre. Hearing is the frame's thread. ἀκούω ("to hear") stands 15 times in 13:9–23 (SBLGNT, `show('ἀκούω')`) `[T]`.
+The unit is a frame `[T]`. The parable (3b–9) and its explanation (18–23) bracket the reason for parables (10–17), and Isaiah stands at the centre. Hearing is the frame's thread. ἀκούω ("to hear") stands 15 times in 13:9–23 (SBLGNT) `[T]`.
 
 **Text-first findings.**
 

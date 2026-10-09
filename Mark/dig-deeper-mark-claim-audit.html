@@ -59,7 +59,8 @@
 </nav>
 <main>
 <h1 id="claim-audit-mark">Claim Audit: Mark</h1>
-<p><strong>Claims audited:</strong> 21 Old Testament allusion claims that the Mark sweep proposed to add to, or upgrade in, the book overview. They fall at Mark 1:10; 9:5–7, 14–19, 49; 10:27, 45; 11:8, 12–21; 13:2, 14–19, 24, 31; 14:3, 9, 34, 36, 52; 15:33, 40. <strong>Date:</strong> 29 September 2026 <strong>Purpose:</strong> To test these claims before any of them enters <code>Mark/book-overview-mark.md</code>. The sweep named them as synthetic and capped them at moderate confidence until audited. The three it flagged first were Hosea 9, Isaiah 63:11–14 and Amos 2:16. <strong>Texts:</strong> Mark from the SBLGNT, with the MorphGNT index, counted in 1:1–16:8. Greek OT from Swete (observation) and the Rahlfs–Hanhart exports (citation). Hebrew from the WLC, checked with <code>find.py</code>. NA28 apparatus for Mark. There is no LXX apparatus in the folder. <strong>Consumes:</strong> <code>Mark/book-overview-mark.md</code> Draft v0.1.0 and <code>Mark/dig-deeper-mark-sweep.md</code>, both from 29 September 2026.</p>
+<p><strong>Claims audited:</strong> 21 Old Testament allusion claims that the Mark sweep proposed to add to, or upgrade in, the book overview. They fall at Mark 1:10; 9:5–7, 14–19, 49; 10:27, 45; 11:8, 12–21; 13:2, 14–19, 24, 31; 14:3, 9, 34, 36, 52; 15:33, 40. <strong>Date:</strong> 29 September 2026</p>
+<p><strong>Revised:</strong> 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8). <strong>Purpose:</strong> To test these claims before any of them enters <code>Mark/book-overview-mark.md</code>. The sweep named them as synthetic and capped them at moderate confidence until audited. The three it flagged first were Hosea 9, Isaiah 63:11–14 and Amos 2:16. <strong>Texts:</strong> Mark from the SBLGNT, with the MorphGNT index, counted in 1:1–16:8. Greek OT from Swete (observation) and the Rahlfs–Hanhart exports (citation). Hebrew from the WLC, checked with <code>find.py</code>. NA28 apparatus for Mark. There is no LXX apparatus in the folder. <strong>Consumes:</strong> <code>Mark/book-overview-mark.md</code> Draft v0.1.0 and <code>Mark/dig-deeper-mark-sweep.md</code>, both from 29 September 2026.</p>
 <hr />
 <h2 id="how-this-audit-was-run">How This Audit Was Run</h2>
 <p><strong>Independence.</strong> The overview and the sweep were written by the same model in one session, so an audit by that same author could only agree with itself. To avoid that, the 21 claims went to <strong>three fresh auditors</strong>, each a separate run with no access to the sweep or its reasoning. They were grouped as the Prophets (claims 1–7), Torah and Daniel (8–15), and the passion (16–21).</p>
@@ -816,7 +817,7 @@
 <li>Ps 78:8 (Swete 77:8), where the Hebrew has the same root אמן (“to be faithful”).</li>
 <li>Num 14:11, a doubled “how long …?” with unbelief. This matches the <em>shape</em> of Mark’s doubled ἕως πότε (“how long”).</li>
 </ul></li>
-<li><strong>Early reception.</strong> Matt 17:17 and Luke 9:41 add διεστραμμένη (“perverse”), from Deut 32:5, and 𝔓⁴⁵vid, W and ƒ¹³ add it to Mark too. That is early evidence that the saying was heard against Deut 32 <code>[T]</code>.</li>
+<li><strong>Early reception.</strong> Matt 17:17 and Luke 9:41 add διεστραμμένη (“perverse”), from Deut 32:5, and P⁴⁵vid, W and ƒ¹³ add it to Mark too. That is early evidence that the saying was heard against Deut 32 <code>[T]</code>.</li>
 </ul>
 <p><strong>Baseline.</strong></p>
 <ul>
@@ -1504,7 +1505,7 @@
 <li>The sweep’s <strong>74 lexical chains within Mark are not affected</strong>. The audit tested allusions, not chains.</li>
 </ul>
 <h2 id="tool-problem-found">Tool Problem Found</h2>
-<p><code>$HOME/work/rahlfs.py</code> returns the first chapter it finds with the requested number. The Rahlfs files combine 1–2 Samuel, 1–2 Kings and 1–2 Chronicles, so for the second book of each pair it returns the wrong verse. The third auditor caught this at 2 Kgs 9:13, where the helper returned 1 Kgs 9:13, and read the text by grep instead. No claim in the overview or the sweep drew on those files through the helper: the Rahlfs checks in both were in Isaiah, Hosea, Amos, Zechariah, the Psalms, Joel and Malachi. The helper should still be fixed before its next use.</p>
+<p>The auditors’ Rahlfs verse-lookup routine returned the first chapter it found with the requested number. The Rahlfs files combine 1–2 Samuel, 1–2 Kings and 1–2 Chronicles, so for the second book of each pair it returned the wrong verse. The third auditor caught this at 2 Kgs 9:13, where the routine returned 1 Kgs 9:13, and read the text by grep instead. No claim in the overview or the sweep drew on those files through the routine: the Rahlfs checks in both were in Isaiah, Hosea, Amos, Zechariah, the Psalms, Joel and Malachi. Any such routine must handle the combined files before it is used again.</p>
 <h2 id="open-questions-for-logos">Open Questions for Logos</h2>
 <ol type="1">
 <li><strong>Jer 7–8 and Hos 9 at 11:12–21.</strong> Which do the commentaries favour, and on which text?</li>
@@ -1526,12 +1527,12 @@
 </ul>
 <p><strong>Controls:</strong></p>
 <ul>
-<li><strong>Negative controls.</strong> Each of these failed with a non-zero exit, as intended:
+<li><strong>Negative controls.</strong> Each of these checks correctly reported that the word is absent from the verse (WLC):
 <ul>
-<li><code>verify 3173 Amos:8:9</code></li>
-<li><code>verify 4414 Lev:2:14</code></li>
-<li><code>verify 3372 Deut:9:19</code> (which confirmed that Deut 9:19 uses יגר, “to dread”, not ירא, “to fear”)</li>
-<li><code>verify 3332 2Kgs:9:13</code></li>
+<li>יָחִיד (“only son”) is not in Amos 8:9 (it is in 8:10);</li>
+<li>מלח (“salt”) is not in Lev 2:14;</li>
+<li>ירא (“fear”) is not in Deut 9:19, which uses יגר (“dread”);</li>
+<li>יצק (“pour”) is not in 2 Kgs 9:13.</li>
 </ul></li>
 <li><strong>Positive controls.</strong> Every report of an absence or rarity was preceded by a search that returned a known hit. Examples: the ἐπισκια- pattern had to allow for the augment; the διακον- search returned the noun before the verb’s absence was reported; the vocative “ὦ γενεά” pattern matched Mark 9:19 before its absence from Swete was reported.</li>
 </ul>
@@ -1539,7 +1540,7 @@
 <ul>
 <li>An accent-stripped stem search cannot tell ἁλίζω (“to salt”) from ἀλισγέω (“to pollute”), or γενεά (“generation”) from γένεσις (“origin”), so those counts were cleaned by hand.</li>
 <li>Swete’s present-tense καταλείπων (“leaving”) hid Gen 39 until the pattern was widened.</li>
-<li>The <code>rahlfs.py</code> fault described above.</li>
+<li>The Rahlfs lookup fault described above.</li>
 <li>The Rahlfs exports lack the deuterocanonical books, so Rahlfs counts cover the Hebrew canon only.</li>
 <li>There is no LXX apparatus in the folder.</li>
 </ul>

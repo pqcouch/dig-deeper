@@ -52,7 +52,7 @@
 >   - *Canonical.* Every chapter of the Hebrew Bible except Job (887) was ranked by its best window against each strophe of the poem.
 >   - *The null.* Each candidate's rank was then compared with the rank it reaches against other Job passages of the same length (the claim-audit 3 rule: a window rank is not evidence unless it beats a Job-passage null).
 >   - The results are reported where they bear, including the negative ones.
-> - **The log** is `~/j28/nul.py` with `run1.py`–`run6.py`, on the audit-3 helpers (`alib.py`, `base.py`).
+> - **The log.** The searches were run against the WLC lemma index; each result is stated in words at the point where it is used.
 
 ---
 
@@ -790,7 +790,7 @@ All were produced in this project or are Patrick's library returns. No commentar
 
 **Tools worked before secondary sources consulted:** Confirmed.
 - The BHS text and apparatus for chapters 27–28, Swete and Rahlfs were read first, then NASB95, ESV and NIV84 for 27:1–29:1.
-- The lemma chains, the internal window test and the canonical ranks with their nulls were run in the WLC (`nul.py`, `run1–6.py`) before the sweep's Unit 12, the overview's rows and the Logos answers on the speaker were re-read.
+- The lemma chains, the internal window test and the canonical ranks with their nulls were run in the WLC before the sweep's Unit 12, the overview's rows and the Logos answers on the speaker were re-read.
 - **The finds new to this run:**
   - **Words and structure:** the יִרְאָה chain through Eliphaz's three speeches; the ear-and-eye line (4:12; 26:14 → 28:22 → 42:5); בין ×4 and ערך ×3 as leading words; the knowing and seeing patterns; the absence of any marker in chapter 27 (BHS); the כִּי, silver and dust from 27:16–17; מָקוֹם from 27:21; חָכְמָה + בִּינָה only in 28 and 38–39 within Job; ספר + חָכְמָה (28:27 → 38:37); עלם (28:21 → 42:3).
   - **Job:** 26:14 → 28:22–24; 26:10 → 28:3; 9:5 → 28:9; 12:22 → 28:11; 23:3, 10 → 28:12–14, 23; the internal window test (22, 26, 38) — the last withdrawn in v1.1.

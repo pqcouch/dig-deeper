@@ -2,6 +2,8 @@
 
 **Passages audited:** the eleven queued claims from `book-overview-lamentations.md` v0.1.0 (queue #1–11) — Lam 1:1, 3, 5, 9, 10, 13, 16; 2:2, 7, 10, 13, 15, 17–19, 20; 3:1–30; 4:10, 15–22; 5:1, 16, 18–22 — and the book's proposed structure
 **Date:** 3 October 2026
+
+**Revised:** 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Purpose:** to test the overview's allusion, structure and handoff claims before the sweep leans on them. Two triggers had fired at the overview's first build: eleven candidates queued (trigger 1), and eight of them entered the overview above *moderate* unaudited (trigger 2)
 **Primary texts:** WLC Hebrew and lemma index (`_texts/hebrew-wlc/`); Swete LXX; the Rahlfs Lamentations and BHS-apparatus exports from `_texts/logos-exports/`; SBLGNT/MorphGNT
 **Study text:** NASB95 · **Pulpit text:** ESV is declared for this book, but no sermon is in view, so no pulpit divergence is assessed here
@@ -13,7 +15,7 @@ Warrant tags: `[T]` observable on the page · `[I]` inference from the text · `
 
 ## What this audit tested, and how
 
-**Method — the house audit method of the Mark, Matthew and Job audits.** Three fresh auditors were run **one after another**, each **blind** to the overview and to each other. Each was given the claims as neutral propositions, without the overview's ratings or reasoning, and told to *break* them from the primary texts. The corpus was staged from `_texts/` into the session workspace. A shared library reproduced `find.py`'s lemma matcher exactly and was validated before use: חֶסֶד ("lovingkindness") returned Ruth 1:8; 2:20; 3:10, and שָׁכַן ("to dwell") was found at Exod 40:35 and correctly failed at 40:34. No commentaries were consulted and no web search was made.
+**Method — the house audit method of the Mark, Matthew and Job audits.** Three fresh auditors were run **one after another**, each **blind** to the overview and to each other. Each was given the claims as neutral propositions, without the overview's ratings or reasoning, and told to *break* them from the primary texts. The corpus was staged from `_texts/` into the session workspace. A shared set of searches reproduced the lemma matching of the folder's own search tool (`find.py`) exactly and was validated before use: חֶסֶד ("lovingkindness") returned Ruth 1:8; 2:20; 3:10, and שָׁכַן ("to dwell") was found at Exod 40:35 and correctly failed at 40:34. No commentaries were consulted and no web search was made.
 
 | Auditor | Claims | Area |
 |---|---|---|

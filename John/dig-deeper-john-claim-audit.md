@@ -4,6 +4,8 @@
 **Passages engaged:** book-wide, with concentrations at 1:6–18; 5:19–47; 8:12–59; 9:1–41; 12:31–50; 13:31–16:33; 18:28–19:37; 20:31.
 **Date:** 23 August 2026
 **Version:** 1.1 — Claim 3 upgraded to "verified on both sides" and Claim 6's Volume raised, following a Logos check of the Rahlfs LXX at Isaiah 43:10. Changes tagged `[revised: logos-research]`.
+
+**Revised:** 8 October 2026, v1.2. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Mode:** Claim Audit (dig-deeper Phase 0.5b)
 **Purpose:** Test Lincoln's claims before incorporating them into `book-overview-john` v0.2.0 — which reached a forensic reading of John independently, from the counts, and now has a scholarly interlocutor who has written the monograph on it.
 
@@ -17,9 +19,9 @@ All Greek counts below were taken by scripted sweep over the **SBLGNT** texts of
 
 **A methodological note that matters for reading the verdicts.** My first pass appeared to contradict Lincoln on four of his seven vocabulary statistics. Every one of those apparent contradictions was an artefact of my own regexes, not an error of his:
 
-- **μαρτυρέω** — I initially counted 28 in John against his 33. The gap was the reduplicated perfect (μεμαρτύρηκεν, μεμαρτύρηκα, μεμαρτύρηκας, μεμαρτύρηκε — 5 tokens), which a `(ε)?μαρτυρ` pattern misses. With them: **33**.
+- **μαρτυρέω** — I initially counted 28 in John against his 33. The gap was the reduplicated perfect (μεμαρτύρηκεν, μεμαρτύρηκα, μεμαρτύρηκας, μεμαρτύρηκε — 5 tokens), which a search on the bare stem μαρτυρ- (with or without the augment) misses. With them: **33**.
 - **Synoptic μαρτυρέω** — I counted 7 against his 2. Five of my seven were **μαρτύρων**, the genitive plural of the *noun* μάρτυς (Matt 18:16; 26:65; Mark 14:63), not the participle. Disambiguating by context: **2**.
-- **ἀληθής** — I counted 28 against his 14, having let an `εια` alternative catch ἀλήθεια. Corrected: **14**.
+- **ἀληθής** — I counted 28 against his 14, having let a search for the ending -εια catch ἀλήθεια. Corrected: **14**.
 - **κρίνω** — I counted 21 against his 19, having caught κρίθινος ("barley," 6:9, 13) and κρίμα. Corrected: **19**.
 
 The lesson is worth recording: **lemma-level claims cannot be audited with surface-form regexes**, and where this audit and a tagged lexical database disagree, the database should be preferred unless the disagreement can be explained form by form.
@@ -37,14 +39,14 @@ The lesson is worth recording: **lemma-level claims cannot be audited with surfa
 
 | Word | Lincoln (John) | Verified (John) | Lincoln (Syn) | Verified (Syn) | |
 |------|---------------|-----------------|---------------|----------------|---|
-| μαρτυρία | 14 | **14** | 4 | **4** (Mk 3, Lk 1) | ✓ |
-| μαρτυρέω | 33 | **33** | 2 | **2** (Mt 1, Lk 1) | ✓ |
-| κρίνω | 19 | **19** | Mt 6 / Lk 6 | **Mt 6–7 / Lk 6–7** | ✓ |
-| κρίσις | 11 | **11** | Lk 4 / Mt 12 | **Lk 4 / Mt 12** | ✓ |
-| ἀλήθεια | 25 | **25** | 7 | **7** (Mt 1, Mk 3, Lk 3) | ✓ |
-| ἀληθής | 14 | **14** | Mk 1 / Mt 1 | **Mk 1 / Mt 2** | ✓ |
-| ἀληθινός | 9 | **9** | Lk 1 | **Lk 1** | ✓ |
-| παράκλητος | 4 | **4** | 0 | **0** | ✓ |
+| μαρτυρία | 14 | **14** | 4 | **4** (Mk 3, Lk 1) | Confirmed |
+| μαρτυρέω | 33 | **33** | 2 | **2** (Mt 1, Lk 1) | Confirmed |
+| κρίνω | 19 | **19** | Mt 6 / Lk 6 | **Mt 6–7 / Lk 6–7** | Confirmed |
+| κρίσις | 11 | **11** | Lk 4 / Mt 12 | **Lk 4 / Mt 12** | Confirmed |
+| ἀλήθεια | 25 | **25** | 7 | **7** (Mt 1, Mk 3, Lk 3) | Confirmed |
+| ἀληθής | 14 | **14** | Mk 1 / Mt 1 | **Mk 1 / Mt 2** | Confirmed |
+| ἀληθινός | 9 | **9** | Lk 1 | **Lk 1** | Confirmed |
+| παράκλητος | 4 | **4** | 0 | **0** | Confirmed |
 
 **Verdict: Confirmed.** Every figure is exact or within one on the Synoptic side, where the residual ±1 sits on my form-classification, not his.
 

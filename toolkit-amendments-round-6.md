@@ -2,7 +2,7 @@
 
 **Date:** 23 September 2026 · **Letters:** Z, AA — continuing from Round 5's W–Y
 **Skills touched:** `dig-deeper` (SKILL.md, `references/04-words-and-translations.md`), `book-overview` (SKILL.md), and `_texts/README.md`
-**Status:** DRAFTED, not applied. Concrete find/replace pairs below, ready for a `.skill` package.
+**Status:** INSTALLED and verified 9 October 2026, with Rounds 6–8 together. dig-deeper is byte-identical to the intended build (`_skill-backup/dig-deeper-rounds-6-8.skill`). book-overview v0.3.0 has its body text and reference files byte-identical; the installer reformatted only the YAML description line. The corpus edits (`_texts/README.md`, `contacts.py`, `find.py`) are applied.
 **Occasion:** the Ezra–Nehemiah whole-book sweep of 19 September 2026.
 
 ---

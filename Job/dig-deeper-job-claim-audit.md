@@ -2,6 +2,8 @@
 
 **Passages audited:** the whole book, at the level of its major units (1:1–42:17)
 **Date:** 28 September 2026
+
+**Revised:** 8 October 2026, v1.1. Searches are now stated in words: the original-language words in their own script with a gloss, the edition searched, and the result; word-index numbers, search commands and script names have been removed. No verdict, count, rank or rating has changed (toolkit amendments round 8).
 **Purpose:** To test two structural proposals against the Hebrew text and the early Greek before a sermon series is planned:
 - **(a) Patrick's nine-unit proposal:** 1:1–3:1; 3; 4–14; 15–21; 22–28; 29–31; 32–37; 38:1–42:6 (I and II); 42:7–17.
 - **(b) James Bejon, "The Book of Job: Structure & Message"** (Tyndale House, Cambridge; January 2020): an introduction, five fivefold scenes and a conclusion, with the debate divided into five "acts" by the word וַיֹּאמַר ("and he said").
@@ -274,7 +276,7 @@ So ch 28 belongs with ch 27 as part of Job's own discourse. It is not a separate
 ### B3: The Satan's "roaming" (שׁוּט) sounds like the "scourge" (שׁוֹט) of 9:23 (note 5)
 
 **Test:**
-- The verb שׁוּט ("to go to and fro", 1:7; 2:2, lemma 7751) and the noun שׁוֹט ("whip, scourge", lemma 7752) are different lemmas with the same consonants.
+- The verb שׁוּט ("to go to and fro", 1:7; 2:2) and the noun שׁוֹט ("whip, scourge") are different lemmas with the same consonants.
 - The noun occurs in Job at **5:21** (Eliphaz: "the scourge of the tongue") and **9:23** (Job: "If the scourge kills suddenly, He mocks the despair of the innocent") (lemma).
 
 **Verdict: Confirmed with nuance.** The play is audible, but it is sound-play between two words, not one word repeated. Add 5:21. *Moderate.*
@@ -603,7 +605,7 @@ Built on the verified units. Nine sermons, in Patrick's shape. Each has an ancho
 - the Satan's "answered" (4);
 - וַיְהִי הַיּוֹם (3 in Job);
 - all paragraph markers in Job;
-- שׁוֹט (lemma 7752) at 5:21 and 9:23;
+- the noun שׁוֹט ("whip, scourge") at 5:21 and 9:23;
 - שְׁבָאִים (Joel 4:8);
 - אִישׁ + אֱלֹהִים + אֵשׁ (2 Kgs 1:10, 12);
 - עשׂה נְבָלָה (11 verses);

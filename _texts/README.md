@@ -215,13 +215,12 @@ claimed at a verse that does not contain the word.
 consonants and **no pointing**; the qere is not in the file. So an unpointed word is the
 corpus telling you that what the Masoretes read is not what you are looking at — and no
 pattern spelling the qere can match it, however carefully accents, maqqef and paseq have
-been normalised. Measured across the WLC: **4,197 unpointed words, 1.58 % of the text, in
-3,911 verses — 16.8 % of the canon.** The densest books are **Ezra (4.87 % of words,
-52.9 % of verses)**, 1 Chronicles (3.07 %), Nehemiah (2.91 %), Daniel (2.45 %),
-2 Samuel (2.31 %) and Jeremiah (2.29 %). The `_index/` lemma files are unaffected — they
+been normalised. Measured across the WLC: **1,268 unpointed words, 0.41 % of the text, in 1,099 verses — 4.7 % of the canon.** The densest books by share of verses are **Daniel (22.4 %)**, Lamentations (13.0 %), 2 Samuel (10.9 %), Ruth (10.6 %), **Ezra (10.4 %)** and 2 Kings (9.0 %). Within Ezra the Aramaic is denser than the Hebrew around it — 17.9 % of its 67 Aramaic verses against 8.0 % of its 213 Hebrew ones. The `_index/` lemma files are unaffected — they
 carry the correct lemma for the ketiv form whatever its spelling — so **lemma searches
 survive the ketiv and surface searches do not.** A whole-Bible search for וְרַב־חֶסֶד in
 September 2026 returned seven verses and missed Neh 9:17, whose ketiv is וְרַב־וחסד.
+
+**A warning about measuring this, corrected in Round 6.** The figures first published here — 16.8 % of the canon and 52.9 % of Ezra — were **3.3× too high**, because the count treated the corpus's own paragraph markers as words. The WLC prints a setumah as a bare **ס** and a petuchah as a bare **פ**; each is a single Hebrew consonant with no pointing, so the very test this section teaches matches every one of the **3,162** of them in the canon, and Ezra's register chapters carry **135 in 280 verses**. Any scan of this corpus for unpointed forms must require a token of **two or more** consonants, or exclude ס and פ by name. The markers are markup, not text.
 
 ### Chapter markers in the Logos exports — seven conventions, no two alike
 
@@ -255,7 +254,30 @@ python3 tools/find.py lemma 7931 Exodus       ... within one book
 python3 tools/find.py verify 7931 Exod:40:34 Exod:40:35
 python3 tools/find.py glemma λόγος John       Greek NT lemma
 python3 tools/find.py show "Gen 1:1"          the verse in every layer
+python3 tools/find.py co 5707 6965 6030       verses holding ALL the lemmas
+python3 tools/find.py co 2555 3709 --book Job ... within one book
+python3 tools/find.py near 4 2555 3709 3198   all the lemmas within 4 verses
+                                              of one another (same chapter)
+python3 tools/find.py co "1350 a" 2416        a homograph entry on its own
+python3 tools/contacts.py all 5375 6440 2205 2603   how rare is this set? (--window n)
+python3 tools/contacts.py phrase "במחשכים הושיבני"   verbatim, in order? plain + skeletal
+python3 tools/contacts.py scan Lam:1-2               densest partner chapters in the canon
 ```
+
+`find.py` writes its summary line ("-- N verses …") to **stderr**, so a script that captures only stdout sees the list and not the count (Round 6, AA1). `contacts.py` (Round 7) uses `find.py`'s lemma matcher unchanged.
+
+`co` and `near` were added on 8 October 2026 (toolkit amendments round 8), so that
+the co-occurrence and window searches the claim audits rely on live here, in the
+folder, rather than in throwaway scripts in a session workspace. They were checked
+against known results before release: `co 5707 6965 6030` returns Deut 19:16 and
+Job 16:8; `co 7198 5154` returns 2 Sam 22:35, Ps 18:35 and Job 20:24; `near 1 1350 314`
+returns Isa 44:6, Job 19:25 and Ruth 3:9–10.
+
+**Commands are for running, not for reports.** A report states each search in words:
+the Hebrew or Greek in its own script with a gloss, the edition, and the result
+("עֵד, 'witness', + קוּם, 'rise', + עָנָה, 'testify', in one verse: Deut 19:16 and
+Job 16:8 only, WLC"). No command, word-index number or script name appears in a
+report's text (round 8).
 
 `verify` exits non-zero if any claimed reference fails, so it can gate a
 script. It is the mechanical form of the discipline the Jonah and Exodus claim
