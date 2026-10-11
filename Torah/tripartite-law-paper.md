@@ -2,7 +2,7 @@
 
 *A critical engagement with Stephen J. Wellum, Brad Green and Ardel Caneday, and Justin Dillehay*
 
-Draft, 8 October 2026
+Draft, 8 October 2026; revised 10 October 2026
 
 ## Abstract
 
@@ -143,7 +143,7 @@ The two cases rest largely on different texts. Five further sets of evidence tes
 
 ### 5.1 What the Torah calls "for ever"
 
-The Torah repeatedly calls its laws perpetual. A phrase search of the whole Leningrad Codex for *ḥuqqat ʿôlām* and *ḥoq ʿôlām*, "a perpetual statute / everlasting due", finds 34 occurrences. Thirty-two are in Exodus–Numbers.^[Search method: accents and points stripped, maqqef and paseq normalised to spaces, prefixed forms included, Hebrew versification. Occurrences: Exod 12:14, 17; 27:21; 28:43; 29:9, 28; 30:21; Lev 3:17; 6:11, 15; 7:34, 36; 10:9, 15; 16:29, 31, 34; 17:7; 23:14, 21, 31, 41; 24:3, 9; Num 10:8; 15:15; 18:8, 11, 19, 23; 19:10, 21. The two outside the Torah are Jer 5:22 and Ezek 46:14.] **Every one of the Torah occurrences attaches to cultic or priestly law.** They concern:
+The Torah repeatedly calls its laws perpetual. A phrase search of the whole Leningrad Codex for *ḥuqqat ʿôlām* and *ḥoq ʿôlām*, "a perpetual statute / everlasting due", finds 34 occurrences. Thirty-two are in Exodus–Numbers.^[Search method: accents and points stripped, maqqef and paseq normalised to spaces, prefixed forms included, Hebrew versification. Occurrences: Exod 12:14, 17; 27:21; 28:43; 29:9, 28; 30:21; Lev 3:17; 6:11, 15; 7:34, 36; 10:9, 15; 16:29, 31, 34; 17:7; 23:14, 21, 31, 41; 24:3, 9; Num 10:8; 15:15; 18:8, 11, 19, 23; 19:10, 21. The two outside the Torah are Jer 5:22 and Ezek 46:14. Jenni lists the same verses (*TLOT*, 857). A wider search adds Exod 12:24, where the Passover is a חֹק "for you and your children forever", four words from עוֹלָם. Two of the 32 sit near the moral line: Lev 3:17 (blood; cf. Acts 15:20, 29) and Lev 17:7 (no sacrifice to goat-demons).] **Every one of the Torah occurrences attaches to cultic or priestly law.** They concern:
 
 - Passover and Unleavened Bread;
 - the lampstand;
@@ -155,9 +155,9 @@ The Torah repeatedly calls its laws perpetual. A phrase search of the whole Leni
 - the red heifer;
 - the Levites' service.
 
-None is attached to the Decalogue or to the ethical commands of Leviticus 19. Circumcision (Gen 17:13) and the Sabbath (Exod 31:16) are each called a בְּרִית עוֹלָם, "an everlasting covenant".
+None is attached to the Decalogue or to the ethical commands of Leviticus 19. Deuteronomy uses the formula nowhere. It speaks of perpetuity differently, attaching עוֹלָם to the good that follows keeping "all my commandments" (Deut 5:29) and to Israel's possession of "all the words of this law" (29:28 [29:29]). Circumcision (Gen 17:13) and the Sabbath (Exod 31:16) are each called a בְּרִית עוֹלָם, "an everlasting covenant".
 
-This cuts in two directions. Against the popular tripartite instinct, it shows that the Torah's own language of permanence attaches to the *ceremonial*, not the moral. Against the critics, it shows that the belief Wellum attributes to Second Temple Judaism, that the law was eternal and unchangeable, came from reading the Torah's own wording rather than from innovation. Any account in which these institutions end in Christ owes an account of *ʿôlām*.^[The usual account is that *ʿôlām* denotes indefinite duration within an order. Its frequent companion לְדֹרֹתֵיכֶם, "throughout your generations", points that way. The account is defensible, but none of the three papers offers it.] Paul's treatment of circumcision suggests the shape of such an account. He sets aside an "everlasting covenant" sign as "nothing" (1 Cor 7:19; Gal 5:6; 6:15) without contradicting Genesis 17. On this reading, what was everlasting for the order it served gives way to what that order signified.
+This cuts in two directions. Against the popular tripartite instinct, it shows that the Torah's *perpetual-statute formula* attaches to the *ceremonial*, not the moral. Against the critics, it shows that the belief Wellum attributes to Second Temple Judaism, that the law was eternal and unchangeable, came from reading the Torah's own wording rather than from innovation. Any account in which these institutions end in Christ owes an account of *ʿôlām*.^[The usual account is that *ʿôlām* denotes "most remote time", whose horizon is set by what it qualifies. Unending duration "results only from the combination" of *ʿôlām* with a governing noun that already implies duration; Jenni treats עֶבֶד עוֹלָם, "a servant forever", as an "apparent restriction" of the concept to a lifetime, citing 1 Sam 1:22 and Exod 21:6 (*TLOT*, 857). Hence the bond-slave serves לְעֹלָם, "permanently" (Exod 21:6), and Aaron's garments are a statute "for him and his seed after him" (Exod 28:43). The same word is unbounded when it qualifies God (Gen 21:33). Three texts show the canon itself handling an *ʿôlām* that ends. In 1 Sam 2:30 God sets aside his own עַד־עוֹלָם to the house of Eli. In Ezek 46:13–15 a prophet re-specifies the daily offering, "ordained in Mount Sinai" as two lambs with a tenth of an ephah and a quarter of a hin (Num 28:3–6), as one lamb with a sixth and a third, and still calls it חֻקּוֹת עוֹלָם תָּמִיד. In Heb 7:12, 20–28 a later sworn "for ever" (Ps 110:4) outranks the earlier "perpetual priesthood" (Exod 40:15). The phrase "throughout your/their generations" points the same way. It accompanies 17 of the 32 Torah occurrences, occurs only between Gen 17:7 and Num 35:29 (never in Deuteronomy), and measures the duration in Israel's descent. The unsuffixed pairing of דּוֹר with עוֹלָם proves nothing either way, since it is used of God's own name (Exod 3:15). None of the three papers offers this account.] Paul's treatment of circumcision suggests the shape of such an account. He sets aside an "everlasting covenant" sign as "nothing" (1 Cor 7:19; Gal 5:6; 6:15) without contradicting Genesis 17. On this reading, what was everlasting for the order it served gives way to what that order signified.
 
 ### 5.2 The Sabbath
 
@@ -197,16 +197,13 @@ At first sight this is the critics' strongest text. A tripartite reply is availa
 
 ### 5.4 Acts 15 and the sojourner laws
 
-The only New Testament passage that formally asks the question at issue is Acts 15. Believing Pharisees insist that Gentile converts be circumcised and told τηρεῖν τὸν νόμον Μωϋσέως, "to keep the law of Moses" (15:5). The council refuses to put on the disciples "a yoke… which neither our fathers nor we were able to bear" (15:10). It nevertheless requires four abstentions (15:20, 29): from what is polluted by idols, from πορνεία, from what is strangled, and from blood.^[τοῦ πνικτοῦ / πνικτῶν carries a textual variant (omitted in the Western text). Confirm in the NA28 apparatus.]
+The only New Testament passage that formally asks the question at issue is Acts 15. Believing Pharisees insist that Gentile converts be circumcised and told τηρεῖν τὸν νόμον Μωϋσέως, "to keep the law of Moses" (15:5). The council refuses to put on the disciples "a yoke… which neither our fathers nor we were able to bear" (15:10). It nevertheless requires four abstentions, set out in the letter as εἰδωλοθύτων καὶ αἵματος καὶ πνικτῶν καὶ πορνείας, "from things sacrificed to idols and from blood and from things strangled and from fornication" (15:29; the same order at 21:25; James's proposal at 15:20 groups them differently). The list is grounded in Moses: "for Moses … is read in the synagogues every Sabbath" (15:21).^[τοῦ πνικτοῦ / πνικτῶν is omitted at 15:20, 29 and 21:25 by D and some Latin witnesses, with Irenaeus and Tertullian; these and other witnesses add the negative Golden Rule at 15:20 and 29, turning the decree into a moral rule. 𝔓⁴⁵ omits καὶ τῆς πορνείας at 15:20, giving a food list instead. The four-item text (𝔓⁷⁴ א A B C and most witnesses) explains both shorter forms. NA28 apparatus.]
 
-It has often been proposed that these four correspond to the laws Leviticus 17–18 imposes on "the sojourner who sojourns among them" (וּמִן־הַגֵּר הַגָּר בְּתוֹכָם):
+These four correspond to the four laws that Leviticus binds on "the sojourner who sojourns in your midst" (גֵּר with בְּתוֹךְ). Within Leviticus 17–26 that formula occurs in five verses only, and they carry four laws: sacrifice only at the tent (17:8–9), no eating of blood (17:10, 12), the draining of the blood of game (17:13), and "these abominations" of ch. 18 (18:26). The letter lists the abstentions in the same order. The correspondence is in substance and order, not in wording: the decree shares only αἷμα with the Greek of Leviticus, and two of its pairings (idol-sacrifice with 17:8–9, strangled meat with 17:13) are conceptual.
 
-- sacrifice only at the tent (Lev 17:8–9);
-- no eating of blood (17:10–12);
-- draining the blood of game (17:13);
-- the sexual prohibitions (18:26).
+If it holds, the apostles answered the question by neither the tripartite scheme nor the "only what is repeated" rule. They used the Torah's own distinction between what it required of Israel and what it required of the Gentile living among Israel. That is the line §4.1 found inside the Torah.
 
-The correspondence is an inference, not a certainty. If it holds, the apostles answered the question by neither the tripartite scheme nor the "only what is repeated" rule. They used the Torah's own distinction between what it required of Israel and what it required of the Gentile living among Israel. That is the line §4.1 found inside the Torah.
+Acts itself draws the line. At 21:20–25 James distinguishes Jewish believers, "all zealous for the law", from "the Gentiles who have believed", for whom the four items are restated — the Torah's distinction between Israel and the sojourner in Israel's midst, in narrative form.
 
 ### 5.5 New-covenant torah
 
@@ -250,11 +247,12 @@ The judicial law is not a third kind. It is the polity's application and sanctio
 
 The practical outcomes of the two positions are almost identical, with one exception: the Sabbath. On the textual evidence that remains an open question, not a settled one. A position closest to the evidence might be called **one covenant, two kinds of commandment**.
 
-Three questions remain for further work:
+One question remains for further work: a full exegesis of 2 Corinthians 3:3–18 against Exodus 34 and Jeremiah 31.
 
-1. A full exegesis of 2 Corinthians 3:3–18 against Exodus 34 and Jeremiah 31.
-2. A test of the proposed Leviticus 17–18 → Acts 15 correspondence against the Hebrew and the textual history of the decree.
-3. A study of *ʿôlām* in its covenantal settings (Gen 9:16; 17:7, 13; Exod 31:16; 2 Sam 23:5; Isa 55:3; Jer 32:40), asking whether "everlasting covenant" language in the prophets transfers the Mosaic institutions or replaces them.
+Two others raised in the draft of 8 October have since been tested in companion claim audits (10 October 2026):
+
+- The Leviticus 17–18 → Acts 15 correspondence holds, in substance and order though not in wording (§5.4).
+- Ezekiel's "everlasting covenant" (16:60; 37:26) is newly cut (כָּרַת, cf. Jer 31:31) rather than merely renewed. But it carries the Holiness Code's statutes (37:24, cf. Lev 18:4; 26:3) and the blessings of Leviticus 26, and it re-specifies the cult (46:13–15). It neither transfers the Mosaic institutions unchanged nor replaces the covenant's torah.
 
 ## Bibliography
 
@@ -284,6 +282,8 @@ Calvin, John. *Institutes of the Christian Religion*. 1559.
 
 Irenaeus. *Against Heresies*.
 
+Jenni, Ernst, and Claus Westermann, eds. *Theological Lexicon of the Old Testament*. Peabody, MA: Hendrickson, 1997.
+
 Jewett, Paul K. *The Lord's Day: A Theological Guide to the Christian Day of Worship*. Grand Rapids: Eerdmans, 1971.
 
 Moo, Douglas J. "The Law of Christ as the Fulfillment of the Law of Moses: A Modified Lutheran View". In *Five Views on Law and Gospel*, edited by Wayne G. Strickland. Grand Rapids: Zondervan, 1996.
@@ -300,12 +300,14 @@ This paper was drafted with AI assistance (Claude, Anthropic). It draws on two e
 
 Every Hebrew, Septuagint and Greek New Testament reading quoted was checked against the editions named in §1.3 on 8 October 2026. So were the paragraph markers in Leviticus 19, the *ḥuqqat/ḥoq ʿôlām* count and the H7676 lemma count.
 
+Revised 10 October 2026 after two claim audits: `Ezekiel/dig-deeper-olam-claim-audit` (§5.1 and §7) and `Acts/dig-deeper-acts-15-claim-audit` (§5.4). Jenni, *TLOT* 857, was checked on screen in Logos on 10 October 2026.
+
 **Not verified:**
 
 - the patristic, rabbinic, medieval and confessional references (§2; §5.2);
 - the Jewett and Moo quotations, which are cited at second hand;
 - the bibliographical details of the secondary works;
 - the Septuagint readings, which should be confirmed in Rahlfs–Hanhart;
-- the New Testament variants (Mark 7:19; Acts 15:20, 29), which should be confirmed in the NA28 apparatus.
+- the New Testament variant at Mark 7:19, which should be confirmed in the NA28 apparatus (the Acts 15 readings were checked in the NA28 apparatus for the claim audit).
 
 All of these should be checked before the paper is circulated.
