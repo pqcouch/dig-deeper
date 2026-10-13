@@ -2,7 +2,7 @@
 
 *A critical engagement with Stephen J. Wellum, Brad Green and Ardel Caneday, and Justin Dillehay*
 
-Draft, 8 October 2026; revised 10 October 2026
+Draft, 8 October 2026; revised 10 and 13 October 2026 (v1.2)
 
 ## Abstract
 
@@ -191,9 +191,20 @@ The second concerns the patristic witnesses. Irenaeus and Tertullian, both quote
 
 ### 5.3 The stone tablets: 2 Corinthians 3
 
-None of the three papers discusses 2 Corinthians 3, though it bears directly on the Decalogue. Paul speaks of ἡ διακονία τοῦ θανάτου ἐν γράμμασιν ἐντετυπωμένη λίθοις, "the ministry of death, carved in letters on stones" (3:7). That description fits only the tablets. He then calls it τὸ καταργούμενον, "what is being set aside" (3:11), using the same verb as Ephesians 2:15. The reading of "the old covenant" is veiled until ἐν Χριστῷ καταργεῖται, "it is set aside in Christ" (3:14).
+None of the three papers discusses 2 Corinthians 3, though it bears directly on the Decalogue. Paul speaks of ἡ διακονία τοῦ θανάτου ἐν γράμμασιν ἐντετυπωμένη λίθοις, "the ministry of death, carved in letters on stones" (3:7). That description fits only the tablets. He then calls it τὸ καταργούμενον, "what is being set aside" (3:11), using the same verb as Ephesians 2:15. At 3:14 the reading of "the old covenant" remains veiled, and the clause that follows says something "is set aside in Christ" (ἐν Χριστῷ καταργεῖται).
 
-At first sight this is the critics' strongest text. A tripartite reply is available. What is set aside is the *ministry* or *covenant* (διακονία, διαθήκη), not the moral content. And the contrast of 3:3, οὐκ ἐν πλαξὶν λιθίναις ἀλλ᾽ ἐν πλαξὶν καρδίαις σαρκίναις, "not on tablets of stone but on tablets of human hearts", is a contrast of *where* the law is written, not *whether*. On this reading 2 Corinthians 3 supports neither "the Decalogue endures as covenant document" nor "the Decalogue's content is retired". It supports a third position: the covenant administered on stone has ended, and what it inscribed is now inscribed by the Spirit.
+What that something is, is contested. The participle μὴ ἀνακαλυπτόμενον may agree with κάλυμμα, "the veil remains unlifted, because in Christ it is set aside". Or it may stand on its own, "it not being revealed that in Christ it is being set aside", where the subject is most naturally the old covenant. The two critical editions punctuate differently: the SBLGNT puts a comma after ἀνακαλυπτόμενον, NA28 after μένει. The earliest manuscripts carry no punctuation, so the decision is editorial.^[The chapter's own usage slightly favours the old covenant. Every other occurrence of καταργέω in the chapter (3:7, 11, 13) has the old glory or ministry as its subject, while the veil is removed with a different verb, περιαιρεῖται (3:16, from Exod 34:34). See `2 Corinthians/dig-deeper-2corinthians-2-14to4-6` (13 October 2026).] The argument here therefore rests on 3:7, 11 and 13, not on 3:14.
+
+At first sight this is the critics' strongest text. A tripartite reply is available, but in a narrower form than is usually given. What is set aside is a *ministry* (διακονία occurs five times in 2:14–4:6), and νόμος occurs nowhere in 2 Corinthians. Paul does not say that the moral content survives while the ceremonial is retired. He does not sort the commandments at all.
+
+The contrast of 3:3, οὐκ ἐν πλαξὶν λιθίναις ἀλλ᾽ ἐν πλαξὶν καρδίαις σαρκίναις, "not on tablets of stone but on tablets that are hearts of flesh", joins Exodus's "tablets of stone" to Ezekiel's "heart of flesh" in place of the "heart of stone" (Ezek 11:19; 36:26). These are the only two verses in the Greek Old Testament where the heart is called σάρκινος. It is a contrast of *where* God's word is written and *who* writes it, not *whether* it is written. The prophets Paul draws on say what is written:
+
+- Jeremiah: "I will put *my torah* within them, and on their heart I will write it" (Jer 31:33);
+- Ezekiel: the new heart is given "so that they may walk in my statutes and keep my ordinances and do them" (Ezek 11:20; 36:27).
+
+Neither text divides that torah into moral and ceremonial parts. Nor does the covenant Paul alludes to: the "words" by which the covenant of Exodus 34 is made (34:27) are, in their own context, mostly laws of worship and festival (34:11–26), with "the ten words" on the tablets alongside them (34:28).
+
+On this reading 2 Corinthians 3 supports neither "the Decalogue endures as covenant document" nor "the Decalogue's content is retired". It supports a third position: the covenant administered on stone, the tablets included, has ended as a ministry, and *God's torah*, which it inscribed, is now inscribed by the Spirit on hearts. Which of that torah's commands bind, and in what form, 2 Corinthians 3 does not say. That question has to be settled from other texts (Heb 7–10; Acts 15; §5.4).
 
 ### 5.4 Acts 15 and the sojourner laws
 
@@ -216,7 +227,7 @@ The table below summarises how each side's main claims fare against the evidence
 | Claim | Verdict | Key texts |
 |---|---|---|
 | The Sinai law is one covenant, ratified as a whole (critics) | **Sustained** | Exod 24:3–8; Gal 3:10; 5:3; Jas 2:10 |
-| The whole covenant ends as covenant in Christ (critics) | **Sustained** | Heb 7:11–12; 8:13; Gal 3:19–25; Rom 7:6–7; 2 Cor 3:7–14 |
+| The whole covenant ends as covenant in Christ (critics) | **Sustained** | Heb 7:11–12; 8:13; Gal 3:19–25; Rom 7:6–7; 2 Cor 3:7–13 |
 | Moral obligation is grounded in God and creation, not in Sinai (both sides) | **Common ground** | Gen 9:3–6; Lev 18:24–28; Rom 1:32; 2:14–15; Eph 6:1–3 |
 | No one, ancient or apostolic, distinguished kinds of law (Green and Caneday) | **Fails** | Rom 13:9; 1 Cor 7:19; Matt 23:23; the rabbinic *ḥuqqîm*/*mišpāṭîm* |
 | Christ and the apostles, not Moses, are the source of moral norms (Wellum, via Moo) | **Needs restating** | 1 Cor 9:8–10; 2 Cor 13:1; 1 Cor 5:13; 1 Tim 1:9–10 |
@@ -247,11 +258,10 @@ The judicial law is not a third kind. It is the polity's application and sanctio
 
 The practical outcomes of the two positions are almost identical, with one exception: the Sabbath. On the textual evidence that remains an open question, not a settled one. A position closest to the evidence might be called **one covenant, two kinds of commandment**.
 
-One question remains for further work: a full exegesis of 2 Corinthians 3:3–18 against Exodus 34 and Jeremiah 31.
-
-Two others raised in the draft of 8 October have since been tested in companion claim audits (10 October 2026):
+The three questions raised for further work in the draft of 8 October have since been tested (10 and 13 October 2026):
 
 - The Leviticus 17–18 → Acts 15 correspondence holds, in substance and order though not in wording (§5.4).
+- 2 Corinthians 3 sets aside the stone-tablet ministry, not God's torah, and draws no line between moral and ceremonial commands (§5.3).
 - Ezekiel's "everlasting covenant" (16:60; 37:26) is newly cut (כָּרַת, cf. Jer 31:31) rather than merely renewed. But it carries the Holiness Code's statutes (37:24, cf. Lev 18:4; 26:3) and the blessings of Leviticus 26, and it re-specifies the cult (46:13–15). It neither transfers the Mosaic institutions unchanged nor replaces the covenant's torah.
 
 ## Bibliography
@@ -301,6 +311,14 @@ This paper was drafted with AI assistance (Claude, Anthropic). It draws on two e
 Every Hebrew, Septuagint and Greek New Testament reading quoted was checked against the editions named in §1.3 on 8 October 2026. So were the paragraph markers in Leviticus 19, the *ḥuqqat/ḥoq ʿôlām* count and the H7676 lemma count.
 
 Revised 10 October 2026 after two claim audits: `Ezekiel/dig-deeper-olam-claim-audit` (§5.1 and §7) and `Acts/dig-deeper-acts-15-claim-audit` (§5.4). Jenni, *TLOT* 857, was checked on screen in Logos on 10 October 2026.
+
+Revised 13 October 2026 (v1.2) after `2 Corinthians/dig-deeper-2corinthians-2-14to4-6`. That dig made three changes to §5.3, with a consequential change to §7:
+
+- what continues is described as "God's torah", not "the moral content";
+- 3:3 is rendered "hearts of flesh", not "human hearts";
+- the subject of καταργεῖται at 3:14 is marked as contested, and the argument no longer rests on that verse.
+
+The Greek of 2 Corinthians, Exodus, Jeremiah and Ezekiel added in v1.2 was checked against the SBLGNT, the NA28 export, the WLC, Swete and the Rahlfs export on 13 October 2026.
 
 **Not verified:**
 

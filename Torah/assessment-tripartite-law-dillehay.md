@@ -17,6 +17,7 @@ The article has three weaknesses.
 **First, its evidence supports a twofold distinction, not a threefold one.** Natural law against positive law, or moral against cultic: that is what the Torah evidence, the prophets and the Fathers he cites actually show. None of his four lines of evidence establishes the *judicial* law as a separate third category.
 
 **Second, his Sabbath section undercuts his foundation.** His case rests on "the Decalogue = codified natural law", and the test he offers is "one had always been wrong; the other hadn't". The Sabbath fails that test on the textual evidence:
+
 - the noun שַׁבָּת occurs nowhere in Genesis;
 - the Sabbath is "given" to Israel at Exodus 16:29 and made a "sign" at 31:13 and Ezekiel 20:12;
 - Isaiah 1:13, which he cites, puts it in the cult column;
@@ -81,6 +82,7 @@ He states the opposing view fairly ("well-intended, perhaps") and names who hold
 ### 4.1 The evidence establishes two categories, not three
 
 Everything he offers from the Old Testament separates *universal or moral* law from *Israel-specific or cultic* law:
+
 - Deuteronomy 14:21 against Leviticus 18;
 - the prophets' sacrifice against steadfast love;
 - the Fathers' natural precepts against later precepts.
@@ -104,6 +106,7 @@ Dillehay sees the difficulty and handles it with WCF 21.7: the Fourth Commandmen
 ### 4.3 His Fathers are anti-Sabbatarian
 
 The two quotations are accurate as far as they go. In the works quoted, however:
+
 - **Irenaeus** (*Adv. Haer.* 4.16.1–2) treats the Sabbath, with circumcision, as a *sign* (quoting Ezek 20:12). He argues that the righteous before Moses were justified "without circumcision and without observance of Sabbaths".
 - **Tertullian's** "law unwritten… before the Law of Moses" comes from *Against the Jews* (ch. 2). The same work argues (chs. 2–4) that Adam, Abel, Noah, Enoch and Melchizedek were righteous without keeping the Sabbath, and that the Sabbath was temporary.
 
@@ -114,6 +117,7 @@ Both Fathers support the natural-law Decalogue *minus the Sabbath*. Brought in a
 **Matthew 5:18–20 cannot be limited to moral law.** Dillehay applies it to the moral law as "an abiding reflection of God's will". But Jesus speaks of ἰῶτα ἓν ἢ μία κεραία, "one iota or one stroke", and of "one of the *least* of these commandments" (5:19). That is the language of the smallest details, which by any reckoning include ceremonial ones. The verse either covers the whole law, fulfilled in different ways (Ross's three modes, which Dillehay also cites), or it does not discriminate at all. Using it for the moral law's abiding force alone imports the tripartite scheme into the text, which is what the critics say happens.
 
 **The antitheses he omits are the hard ones.** He shows that the anger, lust and enemy-love antitheses have Old Testament roots. Exodus 23:4–5, Proverbs 25:21–22, Job 31:1 and 2 Kings 6:22 are well chosen and verified. Proverbs 22:24–25 is weak, since it counsels against *associating* with an angry man and does not forbid anger. He passes over the two antitheses where "not raising the bar" is hardest to maintain, and which touch *judicial* law:
+
 - 5:33–37: the Torah regulates oaths and vows (cf. Deut 23:22); Jesus says μὴ ὀμόσαι ὅλως, "do not swear at all";
 - 5:38–42: ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ is the court's rule of proportion (Exod 21:24), and Jesus applies it to personal retaliation.
 
