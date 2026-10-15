@@ -5,7 +5,7 @@
 **Pulpit text:** **Not declared — no engagement stated.** Tool 8 runs NASB95 against the ESV (Anglicised), the text at his own church. **Three findings below are translation-sensitive** — *συνεχύθη* (2:6), *ἄνομος* (2:23) and *Σώθητε* (2:40) — and if this is being prepared for a church on NIV84 or another version the divergence check must be re-run.
 **Book-overview context:** `book-overview-acts.md` **v2.3** (Finalise, 10 Sep 2026), held as the Phase 0.5 active layer
 **Series context:** Unit 3 of the 33-unit map; ⭐ HIGH; **movement M1 (1:1–2:47)**. Sixth solo run in Acts, and the first outside the contiguous M6–M7 stretch
-**Date:** 10 September 2026 · *revised the same day when the NA28 apparatus for the whole book was filed; see Textual Variants*
+**Date:** 10 September 2026 · *revised the same day when the NA28 apparatus for the whole book was filed; see Textual Variants* · **revised 15 October 2026 (Logos round 1: Isaiah 2:2 behind 2:17 corroborated and raised to high; Micah 4:1 eliminated as the Greek source; the Western text's universalising of the Joel citation added — see Open Questions, Logos Round 1)**
 
 ***
 
@@ -555,12 +555,42 @@ Three observations in the later-uses-earlier key.
 
 ## Open Questions / Uncertainties
 
-1. **Isaiah 2:2 behind 2:17 (Headline 1).** The lexical uniqueness is certain `[T]`; the allusion is `[I]` at moderate–high. **Flagged for a Logos query** — is the Isaiah 2:2 provenance of Luke's substituted phrase noticed in the literature?
+1. ~~**Isaiah 2:2 behind 2:17 (Headline 1).**~~ **CHECKED and CORROBORATED, 15 October 2026 — raised to high. See Logos Round 1 below.** The question as originally written: the lexical uniqueness is certain `[T]`; the allusion is `[I]` at moderate–high. **Flagged for a Logos query** — is the Isaiah 2:2 provenance of Luke's substituted phrase noticed in the literature?
 2. ~~**The 2:5 variant.** Whether *Ἰουδαῖοι* stands affects who the crowd is. **Flagged for Logos**; the apparatus for chapter 2 is not in hand.~~ **CLOSED the same day**, when the apparatus for the whole book was supplied: ***Ἰουδαῖοι* is omitted only by א and the Vulgate.** The crowd is Jewish on the external evidence as well as the internal. See Textual Variants (a).
 3. **Genesis 11 or Joel 2:1 behind *συνεχύθη*?** I have argued for both (Headlines 3–4). Whether the Joel 2:1 strand is recognised anywhere I do not know; it is the more novel of the two and is held at moderate.
 4. **Judea in the nations-list.** A standing puzzle `[S]`; nothing in this run bears on it.
 5. **The *ἐκχέω* juxtaposition (1:18 / 2:17).** Tested and **down-rated** from the sweep's moderate to low: fourteen verses, no other shared vocabulary, a common verb. Recorded so it is not silently re-upgraded.
 6. **Why does Luke reverse the young men and elders?** Alteration 3 is certain `[T]` and I have no confident account of its purpose beyond the observation that it lets the line end on the elders. Left open rather than filled.
+
+### Logos Round 1 (15 October 2026)
+
+**Question 1.1 of `acts-logos-questions-round-1.md`. Returns: `claude/acts-logos-answers-round-1.md`. Assessment: `claude/acts-logos-answers-round-1-assessment.md`.**
+
+**1. Isaiah 2:2 behind 2:17 is corroborated three times over, and rises from moderate–high to high.**
+
+- **Beale names Isaiah 2:2–3 as the source of the substituted phrase twice** — *A New Testament Biblical Theology* (Baker Academic, 2011), 136, and *The Temple and the Church's Mission* (NSBT 17, 2004), 209 — and states that it is "the only place in the LXX where this exact phrase occurs" `[S: Beale]`. **That is this run's own corpus finding, reached independently**: *ἐν ταῖς ἐσχάταις ἡμέραις* stands in **one line of Swete, Isaiah 2:2**, against eighteen further "last days" lines in the Greek Old Testament, every one of which reads *ἐπ' ἐσχάτων* / *ἐσχάτου* / *ἐσχάτῳ τῶν ἡμερῶν* `[T]`.
+- Beale adds what this run did not reach: Peter is read as taking the Spirit's coming to fulfil **Isaiah's end-time temple, toward which the nations stream**, and Beale notes that Joel's own context supports the link, since Joel 3:18 concerns that temple `[S: Beale]`.
+- **Ferguson**, *The Church of Christ* (Eerdmans, 1996), 67–68, independently: the wording is "likely borrowed from Isaiah 2:2 (= Mic. 4:1)", and the change is "intended to bring out an eschatological application of Joel 2:28 to the new age of the Spirit that began at Pentecost" `[S: Ferguson]`.
+
+**2. But Micah must be eliminated as the source, and the corpus eliminates it.**
+
+Micah 4:1 and Isaiah 2:2 share the Hebrew בְּאַחֲרִית הַיָּמִים, so Ferguson's parenthesis is a Hebrew parallel. **Swete's Micah 4:1 reads *καὶ ἔσται ἐπ' ἐσχάτων τῶν ἡμερῶν* — a different Greek form** `[T]`. **If Peter took the phrase from a text, he took it from Isaiah's Greek; Micah's Greek could not have supplied it.** That is a point for this run to make, not to concede.
+
+**What is corroborated is the identification, not the exclusivity.** Nobody in the returns notices that Micah's Greek differs, and nobody else states the distribution — so the "one line in the whole Greek Old Testament" claim still rests on this run's own search, and Headline 1 should say which half is `[S]` and which `[T]`.
+
+**3. Two commentators acknowledge the substitution and do not source it, which is the commonest treatment.**
+
+- **Trites**, *Cornerstone Biblical Commentary* 12 (2006), 391, accounts for the change, with the other alterations, as "appropriate inferences from the immediate context or legitimate expansions for greater clarity and impact", citing Archer and Chirichigno `[S: Trites]`. This is exactly the answer the question's *Watch for* predicted: the change explained without a source named.
+- **Parsons**, *Acts* (Paideia, 2008), 42, notes the substitution and says it "underscores the eschatological significance of the new community itself", without asking where the phrase came from `[S: Parsons]`.
+- **Litwak's *Echoes of Scripture in Luke-Acts* is not in the library** — so the monograph in which this would most likely be treated could not be consulted. (The questions document's owned-list carries Litwak on the strength of the 7–8 September rounds; that entry is now in doubt and the list needs a title-search audit.)
+
+**4. A new datum, unasked for: the Western text read 2:17–21 as being about the Gentiles.**
+
+Trites reports that the Western text **pluralises "all flesh"**, changes **"your sons … your daughters" to "their sons … their daughters"**, and reduces "your young men … your old men" to "young men … old men" — with the same motive behind the second-to-first-person switch at 2:39 — "thus identifying salvation as a gift for spiritual Israel—both Jew and Gentile" `[S: Trites, citing Metzger 1994:257]`.
+
+**This is the manuscript tradition independently finding in the Joel citation the Gentile reference that Beale's Isaiah 2:2 identification supplies.** It is the seventh instance of the project's standing instruction — *where a tradition tidies, look at what it tidied* — and the first where the tidying runs **with** a run's reading rather than against it. Held at **moderate–high** `[S]`: the NA28 export has not been re-read for the Western readings at 2:17–18, and should be before this is pressed. Trites also reports the Western omission of "blood and fire and clouds of smoke", with *parablepsis* from *κατω* to *καπνου* as the alternative to deliberate excision `[S: Trites, citing Metzger 1994:258]`.
+
+**5. Open Question 6 is untouched.** Nothing in the returns addresses why Luke reverses the young men and the elders.
 
 ***
 
