@@ -17,7 +17,7 @@ import os, re, shutil, subprocess, sys, tempfile, zipfile
 # being connected carry a GENERATED copy of this file, stamped with the version
 # and hash below; see bundle_converter.py. Bump the version on any behavioural
 # change, then regenerate every bundled copy.
-HOUSE_ODT_VERSION = "2026-09-13.1"
+HOUSE_ODT_VERSION = "2026-10-17.1"
 
 import xml.etree.ElementTree as ET
 
@@ -106,7 +106,7 @@ def patch_content(content_path):
     sweep(root)
     tree.write(content_path, xml_declaration=True, encoding='UTF-8')
 
-def patch(styles_path):
+def patch(styles_path, title_h1=False):
     tree = ET.parse(styles_path); root = tree.getroot()
     # page geometry
     for pl in root.iter(q('style:page-layout')):
@@ -131,9 +131,16 @@ def patch(styles_path):
                 'style:font-weight-complex':'bold'}))
             apply(st, 'style:paragraph-properties', {'fo:text-align':'left','fo:margin-bottom':'0.4cm'})
         elif re.match(r'^Heading_20_[1-6]$', name):
+            # In a document whose only H1 is its first line, that H1 IS the
+            # document title. pandoc emits a Title paragraph only when the source
+            # carries YAML `title:`, which these reports never do, so without this
+            # the title inherited the 14 pt heading size (reported 7 Sep, 10 Sep and
+            # 16 Oct 2026). Documents that use several H1s as section headings keep
+            # every heading at 14 pt, as the house rule requires.
+            pt = 18 if (title_h1 and name == 'Heading_20_1') else 14
             apply(st, 'style:text-properties', dict(BODY_T, **{
-                'fo:font-size':'14pt','style:font-size-asian':'14pt',
-                'style:font-size-complex':'17pt','fo:font-weight':'bold',
+                'fo:font-size':'%dpt' % pt,'style:font-size-asian':'%dpt' % pt,
+                'style:font-size-complex':'%dpt' % (pt + 3),'fo:font-weight':'bold',
                 'style:font-weight-complex':'bold'}))
             apply(st, 'style:paragraph-properties',
                   {'fo:margin-top':'0.35cm','fo:margin-bottom':'0.15cm','fo:line-height':'115%',
@@ -171,6 +178,10 @@ def main():
         # block do not, so the fences come out first.
         counted = re.sub(r'(?ms)^(```+|~~~+).*?^\1[ \t]*$', '', md)
         n_h2_src = len(re.findall(r'(?m)^[ \t]*(?:>[ \t]*)*## (?!#)', counted))
+        # The title rule: exactly one H1, and it is the first heading in the file.
+        h1s = re.findall(r'(?m)^[ \t]*(?:>[ \t]*)*# (?!#)', counted)
+        first_heading = re.search(r'(?m)^[ \t]*(?:>[ \t]*)*(#+) ', counted)
+        title_h1 = len(h1s) == 1 and bool(first_heading) and first_heading.group(1) == '#'
         fixed = os.path.join(tmp, 'source.md')
         with open(fixed, 'w', encoding='utf-8') as fh:
             fh.write(md)
@@ -178,7 +189,7 @@ def main():
                         '--metadata', 'lang=en-GB'], check=True)
         with zipfile.ZipFile(dst) as z:
             names = z.namelist(); z.extractall(tmp)
-        patch(os.path.join(tmp, 'styles.xml'))
+        patch(os.path.join(tmp, 'styles.xml'), title_h1=title_h1)
         patch_content(os.path.join(tmp, 'content.xml'))
         # Verify before writing back: every `##` section in the source must have
         # produced a level-2 heading in the document.
