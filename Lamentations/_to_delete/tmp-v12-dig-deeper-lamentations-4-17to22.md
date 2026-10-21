@@ -1,0 +1,664 @@
+# Dig Deeper: Lamentations 4:17–22
+
+**Primary texts:**
+
+- **WLC Hebrew** (the Lamentations file in `_texts/hebrew-wlc/`, with its lemma index). Poem 4 was read in full before any English, and 4:17–22 was read word by word with 3:52; 4:11–16 and 5:1–7 beside it.
+- **Swete LXX** (`_texts/greek-lxx-swete/`), read for 4:12–22 and for every partner text whose Greek is cited below.
+- **Logos exports**, as the citation of record: the Rahlfs LXX and the BHS apparatus for Lamentations (`_texts/logos-exports/`).
+- **SBLGNT** (`_texts/greek-nt-sblgnt/`; the layer as held holds the four Gospels, Romans, 1 Corinthians and Revelation) for the New Testament checks. NA28 was not opened.
+
+**Study text:** NASB95 (Logos export)
+**Pulpit text:** ESV, declared for this engagement (16 October 2026). The export is Crossway's US text; check quoted wording against the ESV Anglicised if that is what the pulpit reads
+**Date:** 16 October 2026 · **Version:** 1.2 (v1.2, 21 October 2026: claim audit 7 and Logos round 3 applied; v1.1 claim audit 6, 16 October 2026; v1.0 the same day)
+**Mode:** Fresh Exegesis, solo dig. This is the sweep's Solo-Dig Priority 5 ("the anointed and the end of exile"), whose three test items — Ezek 19 at 4:20, the גלה ("uncover / exile") pun, and the cup partners — are answered under Tool 11, Tool 10 and Headline 4
+
+**Book-overview context:** In conversation — `Lamentations/book-overview-lamentations.md` **v0.2.1**. Its four threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
+
+**Other secondary documents in context:**
+
+- `dig-deeper-lamentations-sweep.md` **v1.1** (Unit 6 is poem 4);
+- claim audits 1–5, which between them have tested the cup at 4:21 (audits 1–5), Ezek 19 at 4:20 (audits 1–2), Deut 28 at 4:19 (audit 1), Isa 45:20 at 4:17 (audit 1), Ps 137:7 (audit 3) and Isa 40:2 at 4:22 (audit 4);
+- Logos round 2 (`claude/lamentations-logos-answers-round-2-assessment.md`), for Driver on 4:17. Tagged `[S: Logos 2]`;
+- the solo digs on 1:1–22 and 2:1–22 (v1.2), 3:1–33 and 5:1–22 (v1.1).
+
+Audit verdicts are taken as settled and tagged `[S: audit]` (audits 1 and 2), `[S: audit 3]`, `[S: audit 4]` or `[S: audit 5]`. The sweep is treated as a prior run: confirmed, extended or resisted, never re-used as evidence. **No commentary was opened for this run.**
+
+**Series context:** Lamentations, Option A (one sermon per poem). This dig covers the second half of the fourth sermon, "Gold grown dim, and the cup passed on", and the part the overview marks ⭐. A dig on 4:1–16 is still owed (the sweep's Priority 7).
+
+**Extent.** The unit is 4:17–22, the last six letters of poem 4 (ע צ ק ר שׁ ת). It is a unit of **voice**, not of the manuscript:
+
+- 4:1–16 is the narrator's description of the city, in the third person. At 4:17 the voice becomes "we" without warning, and stays "we" for four verses (4:17–20). `[T]`
+- 4:21–22 turns to address two women in the second person: "daughter of Edom" and "daughter of Zion". `[T]`
+- Leningrad closes every verse of the poem with a setumah (ס) except 4:22, which closes with a petuchah (פ), as 1:22, 2:22 and 3:66 do. **There is no extra break at 4:16 | 17.** These are facts about the Leningrad manuscript as the WLC prints it, not about the author `[T]` for the markers.
+
+5:1–7 was loaded and read so that the far boundary is not drawn blind: the "we" of 4:17–20 returns at once as the speaker of the whole of poem 5.
+
+Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit]`, `[S: audit 3]`, `[S: audit 4]`, `[S: audit 5]` verdicts of the named claim audits · `[S: Logos 2]` the Logos round of 14 October 2026, checked against the corpus.
+
+---
+
+## What Changed in v1.1
+
+**Version 1.1 (16 October 2026)** applies the verdicts of claim audit 6 (`dig-deeper-lamentations-claim-audit-6.md`). The Headline Findings have been revised in place with `[S: audit 6]` tags. **The Sixteen Tools, Extensions and later sections are left as written in v1.0; where they differ from this section or from the Headline Findings, this section and the Headlines govern.**
+
+| Place | v1.0 | v1.1 |
+|---|---|---|
+| Headline 1 | Isa 30–31 moderate–high; Jer 37:7 moderate–high; "breath of nostrils" only God's; the Samuel narratives | **Isa 30 moderate–high**, add **Isa 30:5–7** (help + vapour within three verses only Isa 30:5, 7 and Lam 4:17); Jer 37:7 **moderate as the event, low as a text** (Lam names neither Pharaoh nor Egypt); the Greek "for help" is in sixteen Swete verses, not two; "breath of our nostrils" **moderate**: the construct is otherwise God's, but the sense is human life-breath (Gen 2:7; 7:22; Isa 2:22), and the Greek follows Gen 2:7; "the LORD's anointed" **high** (add Ps 89:39, 52; Rahlfs keeps it, Swete reads χριστὸς Κύριος); the David–Saul field **low–moderate** (block test: carried by the phrase); "swifter than eagles" is pooled (2 Sam 1:23; Jer 4:13; Hab 1:8) |
+| Headline 4 | the joy-call to Edom moderate–high | **moderate**, set in the oracles' taunt to a foreign "dwelling daughter" (Jer 46:19; 48:18; Isa 47:1, 5); add **Ezek 35:14–15** (rejoice + Edom only there and 4:21), Obad 12, and **Jer 25:20** (cup + Uz + Edom only there and 4:21); Χαῖρε καὶ εὐφραίνου only Joel 2:21 and Lam 4:21 in Swete |
+| Headline 5 | Ezek 21 and Amos 8:2 moderate; Dan 9 low–moderate | **retitled**. Ezek 21 **low** (one chance-level word set; keep uncover + sins at 21:29; add Ezek 35:5 "iniquity of the end" for Edom); **Amos 8:2 withdrawn** as a source — 4:18 uses the prophets' "end has come" formula (21 verses), nearest Ezek 7:2–7 and Jer 51:13; **Dan 9 moderate** (low–moderate as a source), led by the qere of 9:24, "to complete sin", against 4:22 תַּם; the Theodotion text not checked |
+| Christological Reading | Ezek 21:32 "until he comes whose right it is"; Dan 9 | Ezek 21:32 **low** (no shared word but "come"); **Dan 9** is the route that survives, on the qere |
+| Pulpit note | — | 4:20: Rahlfs χριστὸς κυρίου; Swete χριστὸς Κύριος |
+
+## What Changed in v1.2
+
+**Version 1.2 (21 October 2026)** applies claim audit 7 (`dig-deeper-lamentations-claim-audit-7.md`) and Logos round 3 with its follow-up (`claude/lamentations-logos-answers-round-3-assessment.md`). Changes are made in the Headline Findings, tagged `[S: audit 7]` and `[S: Logos 3]`. As in v1.1, **the Sixteen Tools and later sections are left as written; where they differ, this section and the Headlines govern.** Works reached outside Patrick's library (Lessing, Dobbs-Allsopp) are marked `[S, not owned — unverified]`.
+
+| Place | v1.1 | v1.2 |
+|---|---|---|
+| Headline 1 (4:17) | Isa 30:5–7 help + vapour, within Isa 30 moderate–high | **"vain help" moderate**, with **Ps 60:13 = 108:13 co-equal** (the Greek βοήθεια + μάταιος only there and Lam 4:17); Isa 30 as a poem-4 partner stays moderate–high on 4:2 and 4:19; history: Lessing (not owned); Unger at 4:2 |
+| Headline 4 (Edom) | the joy-call irony moderate; Ezek 35 moderate | **history added**: the taunt (Dobbs-Allsopp, not owned); Ezek 25:12–14 and 35 (Ash; K&D); nothing on Jer 25:20 or Obad 12 |
+| Headline 5 (Dan 9) | Dan 9 moderate, low–moderate as a source; Theodotion unchecked | **Dan 9:24 at 4:22 moderate, on the qere, with history** (Anderson; Sprinkle); Theodotion follows the ketiv, the Old Greek has "complete" without "seal" (Swete, read); the Dan 9 route to the anointed stays low–moderate |
+| Christological Reading | Dan 9 the surviving route | as Headline 5: the link is the completed penalty, not the anointed |
+
+**Unchanged:** Headline 2 (the גלה pun; 2:14 → 4:22 exclusive); Headline 3 (the last letter; תמם); the only passing cup; Ps 137:7; "the LORD's anointed".
+
+## The Passage
+
+**Hebrew (WLC), with Leningrad's setumot (ס) and the closing petuchah (פ) as printed.** Two words stand unpointed because they are ketivs:
+
+- עודינה at 4:17 — the qere is עוֹדֵינוּ ("still we…"); BHS notes that the Eastern ketiv, the Greek, the Syriac and the Vulgate agree with the qere;
+- יושבתי at 4:21 — the qere is יוֹשֶׁבֶת ("who dwells"); BHS notes many manuscripts with the qere.
+
+Both were checked through the lemma index, which files each ketiv under its correct word.
+
+> **ע** ¹⁷ עודינה תִּכְלֶינָה עֵינֵינוּ אֶל־עֶזְרָתֵנוּ הָבֶל בְּצִפִּיָּתֵנוּ צִפִּינוּ אֶל־גּוֹי לֹא יוֹשִׁעַ׃ ס
+> **צ** ¹⁸ צָדוּ צְעָדֵינוּ מִלֶּכֶת בִּרְחֹבֹתֵינוּ קָרַב קִצֵּינוּ מָלְאוּ יָמֵינוּ כִּי־בָא קִצֵּינוּ׃ ס
+> **ק** ¹⁹ קַלִּים הָיוּ רֹדְפֵינוּ מִנִּשְׁרֵי שָׁמָיִם עַל־הֶהָרִים דְּלָקֻנוּ בַּמִּדְבָּר אָרְבוּ לָנוּ׃ ס
+> **ר** ²⁰ רוּחַ אַפֵּינוּ מְשִׁיחַ יְהוָה נִלְכַּד בִּשְׁחִיתוֹתָם אֲשֶׁר אָמַרְנוּ בְּצִלּוֹ נִחְיֶה בַגּוֹיִם׃ ס
+> **ש** ²¹ שִׂישִׂי וְשִׂמְחִי בַּת־אֱדוֹם יושבתי בְּאֶרֶץ עוּץ גַּם־עָלַיִךְ תַּעֲבָר־כּוֹס תִּשְׁכְּרִי וְתִתְעָרִי׃ ס
+> **ת** ²² תַּם־עֲוֺנֵךְ בַּת־צִיּוֹן לֹא יוֹסִיף לְהַגְלוֹתֵךְ פָּקַד עֲוֺנֵךְ בַּת־אֱדוֹם גִּלָּה עַל־חַטֹּאתָיִךְ׃ פ
+
+**NASB95:**
+
+> ¹⁷ Yet our eyes failed, / Looking for help was useless; / In our watching we have watched / For a nation that could not save.
+> ¹⁸ They hunted our steps / So that we could not walk in our streets; / Our end drew near, / Our days were finished / For our end had come.
+> ¹⁹ Our pursuers were swifter / Than the eagles of the sky; / They chased us on the mountains, / They waited in ambush for us in the wilderness.
+> ²⁰ The breath of our nostrils, the LORD'S anointed, / Was captured in their pits, / Of whom we had said, "Under his shadow / We shall live among the nations."
+> ²¹ Rejoice and be glad, O daughter of Edom, / Who dwells in the land of Uz; / But the cup will come around to you as well, / You will become drunk and make yourself naked.
+> ²² The punishment of your iniquity has been completed, O daughter of Zion; / He will exile you no longer. / But He will punish your iniquity, O daughter of Edom; / He will expose your sins!
+
+**ESV, where it differs in a way that bears on a finding** (Tool 8 and *Pulpit Notes*):
+
+- 4:17 "Our eyes failed, **ever** watching **vainly** for help" — the ESV follows the qere ("still").
+- 4:18 "They **dogged** our steps … our days were **numbered**" (NASB95 "hunted … finished").
+- 4:21 "but to you also **the cup shall pass**; you shall become drunk and **strip yourself bare**" (NASB95 "the cup will **come around** to you").
+- 4:22 "The punishment of your iniquity … is **accomplished**; he will **keep you in exile** no longer; … he will **uncover** your sins" (NASB95 "completed … exile you … **expose**").
+
+---
+
+## Headline Findings
+
+The exegetically strongest claims that emerged across several tools, as revised by claim audit 6 (16 October 2026):
+
+1. **The "we" confesses two false hopes — a nation that could not save, and a king who was their breath — in the words the prophets had used to warn against them, and in words the Bible elsewhere keeps for God.**
+   - *The nation.* "Our eyes failed for our help — vapour (הֶבֶל); in our watching we watched for a nation that could not save" (4:17). This is the book's only use of the verb "save" (ישׁע), and it is negated. The root occurs once more, as a noun: "it is good that one should wait quietly for the **salvation** of the LORD" (3:26). The book's two "help" words are its only two: "there was no one to help her" (1:7) and "our help" (4:17) (WLC). `[T]`
+   - *The warning, come true.* Isaiah's oracle against going down to Egypt shares the less common words of 4:17–20: shade (Isa 30:2–3), help as vapour (30:7: וּמִצְרַיִם הֶבֶל וָרִיק יַעְזֹרוּ, "Egypt's help is vapour and emptiness"), save (30:15), and swift pursuers (30:16). **The help words + "vapour" within three verses: only Isa 30:5, 30:7 and Lam 4:17**, and Isa 30:5 has the shape of 4:17b ("a people that cannot profit … not for help"). Swift + pursue in one verse only at **Isa 30:16** and **Lam 4:19**, and the Greek keeps it (κοῦφοι + οἱ διώκοντες only there in Swete). Isa 30 ranks in the top 0.1–0.3 % of windows against poem 4 at every setting, and is sole first against 4:17–20 at a wide setting; the same chapter's potter's jar stands at 4:2. Isa 31:1–3 adds עֶזְרָה with Egypt. Lamentations never names Egypt.
+   - *"Vain help" at 4:17 — a co-equal psalm* (v1.2). The help words + "vapour" within three verses are exclusive to Isa 30:5, 7 and Lam 4:17, but that exclusivity is what chance supplies for words of these frequencies, and against 4:17 alone Isa 30 has no distinctive window rank. Counting the other "vain" words, **Ps 60:13 = 108:13 [Eng 60:11 = 108:12]** joins: "Give us help (עֶזְרָת) against the adversary, for vain is the salvation of man" — the same help noun as 4:17, with "salvation" (cf. 4:17 "a nation that could not save"). **The Greek singles out the psalm**: βοήθεια + μάταιος in Swete only Ps 59:13; 107:13 and Lam 4:17. *Moderate* for "vain help", with Isa 30:5–7 and the psalm co-equal. **Isa 30 as a partner of poem 4 keeps moderate–high**, resting on 4:2 (the potter's jar) and 4:19 (the swift pursuers), both exclusive in Hebrew and Greek `[S: audit 7]`. History: Lessing pairs 4:17 with Isa 30:7 and Jer 37:5–11 `[S, not owned — unverified]`; Unger's dictionary pairs 4:2 with Isa 30:14 `[S: Logos 3]`. `[T]` for the words; `[I]` for the reading; *moderate–high* `[S: audit 6]`.
+   - *The occasion.* "Help" (עֶזְרָה) + "Pharaoh" stand in one verse only at **Jer 37:7**: "Pharaoh's army, which came out to help you, is about to return to Egypt". But Lam 4:17 names neither Pharaoh nor Egypt, and "help" is its only word in common with Jer 37:7; the Greek εἰς (τὴν) βοήθειαν is in sixteen Swete verses (among them Isa 20:6; 30:5; 31:1), so it does not single out Jer 37:7. **The tie identifies a likely event, not a borrowed text.** 4:17 remembers the hope that Jeremiah opposed (Driver notes the difference of standpoint `[S: Logos 2]`). `[I]`; *moderate* as the event, *low* as a textual link `[S: audit 6]`.
+   - *The king.* "The breath of our nostrils (רוּחַ אַפֵּינוּ), the LORD's anointed" (4:20). "Breath" followed by "nostrils" in construct occurs in four other verses (Exod 15:8; 2 Sam 22:16 = Ps 18:16; Job 4:9), all God's (WLC). But the sense of 4:20 is the human life-breath in the nostrils (Gen 2:7; 7:22; Job 27:3), and **Isa 2:22** warns against trusting it: "stop regarding man, in whose nostrils is breath; for what is he worth?" The Greek (πνεῦμα προσώπου ἡμῶν, "breath of our face") follows Gen 2:7, not the divine set. "We shall live" (נִחְיֶה) is the book's only use of the verb. `[T]` for the counts; `[I]`, *moderate* `[S: audit 6]`.
+   - *The inviolable anointed.* The exact phrase מְשִׁיחַ יְהוָה ("the LORD's anointed") stands in ten verses: nine in Samuel — 1 Sam 24:7, 11 [Eng 24:6, 10]; 26:9, 11, 16, 23; 2 Sam 1:14, 16; 19:22 [Eng 19:21] — and Lam 4:20 (WLC). In Samuel it is the king no hand may touch. **Here the anointed is the one taken.** Rahlfs keeps the title (χριστὸς κυρίου); Swete reads χριστὸς Κύριος. Ps 89:39, 52 [Eng 89:38, 51] — the anointed rejected and taunted — is the closest thematic partner. The wider claim that the David–Saul narratives (Saul lying in wait, pursuit on the mountains, "swifter than eagles") lie behind 4:18–20 **was not demonstrated**: their block is above the median of random blocks only because of the phrase, צדה and צוד are two roots, and "swifter than eagles" is pooled (2 Sam 1:23; Jer 4:13; Hab 1:8). `[T]` for the phrase, *high*; the field *low–moderate* `[S: audit 6]`.
+   - *What it does.* The community does not blame Babylon here. It confesses what it trusted. **It looked for life from a nation and a king, and used of them words that belong to God.** `[I]`
+
+   *Surfaced by:* Vocabulary, Repetition, Tool 11, Historical Background, Who Am I? *Confidence: high (the counts; "the LORD's anointed"); moderate–high (Isa 30–31 as the warning fulfilled, on 4:19 and 4:2); moderate ("vain help" at 4:17, Isa 30:5–7 with Ps 60:13 = 108:13) `[S: audit 7]`; moderate (Jer 37:7 as the event; the "breath" reading); low–moderate (the Samuel narratives as a field).*
+
+2. **The ending turns on one verb, גלה ("uncover; go into exile") — and 4:22 answers 2:14 in the only words the Bible shares with it.**
+   - *The pun.* To Zion: "He will exile you (לְהַגְלוֹתֵךְ) no longer". To Edom: "He will uncover (גִּלָּה) your sins". The two halves of 4:22 are parallel: iniquity — daughter of X — a form of גלה. `[T]`
+   - *The answer to 2:14.* "Your prophets … did not **uncover your iniquity** (לֹא־גִלּוּ עַל־עֲוֺנֵךְ) to restore your fortunes" (2:14); "He will **uncover your sins** (גִּלָּה עַל־חַטֹּאתָיִךְ)" (4:22). The construction "uncover" + עַל + a word for sin occurs **in these two verses only in the Hebrew Bible** (WLC; with a positive control on 2:14). The prophets would not uncover Zion's guilt; the LORD will uncover Edom's. `[T]` for the words; `[I]` for the answer.
+   - *The book's exile.* גלה occurs in three verses of Lamentations: Judah "has gone into exile" (1:3), the prophets did not "uncover" (2:14), and here (4:22) (WLC). **Poem 1's third verse planted the exile; poem 4's last verse ends it.** `[T]`; `[I]`.
+   - *"No longer", three times.* לֹא יסף ("no longer, not again") occurs in the book only at 4:15 ("they shall not stay here *any longer*"), 4:16 ("He will not *again* regard them") and 4:22 ("He will exile you *no longer*") (WLC). Twice it seals the curse; the third time it ends it. `[T]` for the chain; `[I]` for the turn.
+   - *What it does.* **The poem's hope is not a new event but the end of an old one.** It is spoken in the vocabulary of guilt — uncovered, punished, completed — not of comfort. `[I]`
+
+   *Surfaced by:* Repetition, Structure, Linking Words, Move 4, Vocabulary. *Confidence: high (the words and the 2:14 contact); moderate–high (that 4:22 answers 2:14 by design).*
+
+3. **The last acrostic ends on "complete" — and says it in the perfect tense, which poem 5 does not treat as settled.**
+   - *The letter.* Every acrostic poem ends with a ת verse. Only poem 4's ת verse begins with a word that means "complete": תַּם ("it is finished, complete"). Poem 1's begins תָּבֹא ("let it come"), poem 2's תִּקְרָא ("You called"), and poem 3's three ת verses תָּשִׁיב, תִּתֵּן, תִּרְדֹּף ("You will repay … give … pursue"). `[T]` *What the alphabet's last letter heads is a reading, `[I]`, moderate.*
+   - *The chain.* The root תמם ("be complete, consumed") occurs in the book only at 3:22 ("we are not consumed", the Hebrew text's reading) and 4:22 (WLC) `[S: overview]`. "Iniquity" + תמם in one verse: Lam 4:22 alone (WLC). In the Greek, 4:17 and 4:22 share the verb ἐξέλιπον / ἐξέλιπεν ("failed" — "our eyes failed"; "your iniquity has failed", i.e. ended); no other verse of Lamentations has that aorist (Swete). The Hebrew has two different verbs (כלה, תמם), so **the Greek-only bracket of the passage is a translation feature, not a Hebrew one**. `[T]`
+   - *The partners.* Ranked against 4:21–22 (ten-verse windows, words in at most 300 verses; WLC), the joint-first windows of 14,944 are **Jer 14:10–19** ("now He will remember their iniquity and punish their sins", 14:10) and **Jer 25:12–21** (the punishment of Babylon's iniquity, then the cup to the nations, Uz and Edom). **Isa 40:1–10** ("her iniquity has been removed … double for all her sins", 40:2) is joint third, with Isa 51:13–22 and Isa 26:12–21 `[T]`. Audit 4 had already named Isa 40:2 for 4:22a `[S: audit 4]`.
+   - *Perfects.* תַּם, פָּקַד, גִּלָּה are perfects. The ESV and NASB95 render the Edom lines as futures ("He will punish … uncover"), which is the usual prophetic reading of the perfect. `[T]` for the forms; `[I]` for the prophetic perfect.
+   - *Not the last word.* The next poem asks "Why do You forget us forever?" and ends "unless You have utterly rejected us" (5:20, 22). **The book declares an end to the exile and then prays as though it had not yet seen one.** `[T]`; `[I]`.
+
+   *Surfaced by:* Structure, Repetition, Tone, Original Languages, Move 4. *Confidence: high (the facts); moderate (the acrostic's last word as design); moderate–high (the partners).*
+
+4. **The cup passes: the Bible's only "passing cup", Edom's own words turned back on her, and Zion's joy-call handed to her enemy.**
+   - *The only passing cup.* "Cup" + עבר ("pass over") occur together in one verse only at 4:21 (WLC). Elsewhere a cup "comes round" (Hab 2:16), is "given" or "taken" (Jer 25:15–17; Isa 51:22). The Greek keeps the idea (διελεύσεται, "will pass through") and adds "of the Lord" (τὸ ποτήριον Κυρίου), which BHS records as a plus; that phrase makes 4:21 resemble Hab 2:16, "the cup of the LORD's right hand". `[T]`
+   - *The partners, as audited.* Isa 51:17–23 is at least as strong as Hab 2:16 (the cup taken from Zion and given to her tormentors; cup + "no more" within a verse either side only Isa 51:22 and Lam 4:21–22) `[S: audit 4]` `[S: audit 5]`; Hab 2:16 is the closest single-verse syntax (cup + "also", exclusive) `[S: audit 4]`; Jer 25:15–29 is moderate, the Uz contact weaker than first claimed `[S: audit 3]`. This run's window ranking puts Jer 25:12–21 joint first and Isa 51:13–22 and Jer 49:3–12 joint third for 4:21–22 (WLC). `[T]`
+   - *Edom's words returned.* "Remember, O LORD, against the sons of Edom the day of Jerusalem, who said, 'Lay it bare, lay it bare (עָרוּ עָרוּ), to its foundation!'" (Ps 137:7). Edom + ערה ("lay bare") occur together only in Ps 137:7 and Lam 4:21, where Edom "will lay *herself* bare" (וְתִתְעָרִי) `[S: audit 3]` — reproduced (WLC). `[T]`
+   - *The joy-call.* A feminine-singular imperative of rejoicing addressed to a "daughter": Zeph 3:14; Zech 2:14 [Eng 2:10]; Zech 9:9; Lam 4:21 — the only one of these not addressed to Zion (WLC; Isa 10:30's "cry aloud, daughter Gallim" is an alarm). "Rejoice and be glad, daughter of Edom" uses the joy-call vocabulary, **set inside the oracles' taunt to a foreign "dwelling daughter"** (Jer 46:19; 48:18; Isa 47:1, 5), and answers Edom's own gloating: rejoice + Edom within three verses only **Ezek 35:14** and Lam 4:21 (with 35:15, "as you rejoiced over the inheritance of Israel"); Obad 12. Cup + Uz + Edom within five verses: only **Jer 25:20** and Lam 4:21. In Swete Χαῖρε καὶ εὐφραίνου is only Joel 2:21 and Lam 4:21. **History** (v1.2): Dobbs-Allsopp reads the command as sarcastic, a taunt, made plain by the cup and the stripping, and lists the cup texts (Isa 51:17–22; Jer 25:15–29; Ezek 23:30–34; Obad 16) `[S, not owned — unverified]`; Ash (on Ps 137) and Keil–Delitzsch link 4:21–22 with Ezek 25:12–14 and Ezek 35 `[S: Logos 3]`. Nothing was found on Jer 25:20 (Uz) or Obad 12. The book has done this once before, in reverse: רָנִּי, the joy-call word, commands Zion to *lament* (2:19). `[T]` for the forms; `[I]` for the irony, *moderate* `[S: audit 6]`.
+   - *Answered prayer.* שׂושׂ ("rejoice") occurs in the book only at 1:21, where Zion's enemies "rejoiced that You have done it", and 4:21 (WLC) `[S: sweep]`. The prayer "let them become like me" (1:21) is answered in the form "the cup will pass to you also". `[T]`; `[I]`.
+
+   *Surfaced by:* Tool 11, Tone, Translations, Original Languages, Move 4. *Confidence: high (the counts); moderate–high (Ps 137:7); moderate (the joy-call irony; Ezek 35:14–15; Jer 25:20; Isa 51:17–23 and Hab 2:16, as audited).*
+
+5. **The captured king falls inside the prophets' "end has come" — and Daniel's "to complete sin" stands beside 4:22's "your iniquity is complete".**
+   - *"Our end has come."* "Our end drew near … for our end has come (בָא קִצֵּינוּ)" (4:18). "The end has come" is the prophets' sentence of judgement: come + end in one verse in 21 verses (among them Gen 6:13; Ezek 7:2, 6; Hab 2:3; Jer 51:13; Dan 8:17). The nearest form is **Jer 51:13**, "your end has come"; "our end drew near" is unique, and **Ezek 7:2–7** ("the end has come … the day is near") is the formula's best partner. Here the people say it of themselves. The Amos 8:2 word set is a chance-level hit and is withdrawn as a source. `[T]`; `[I]`; *low–moderate* `[S: audit 6]`.
+   - *Ezekiel's prince.* Uncover + sins in one verse: Ezek 21:29 [Eng 21:24] and Lam 4:22 only (WLC), and Ezekiel goes on to "you, O profane and wicked prince of Israel, whose day has come, in the time of the iniquity of the end" (21:30). But the larger word set is one chance-level hit of many, and "iniquity of the end" (עֲוֹן קֵץ) also stands at **Ezek 35:5**, against Mount Seir — nearer to 4:21–22's Edom. "Until he comes whose right it is" (21:32) shares no word with 4:20 but "come". That the prince is Zedekiah is `[I]`, *high*; Ezek 21 as a partner, *low* `[S: audit 6]`.
+   - *The netted king.* Ezekiel pictures Zedekiah's capture with the hunting root of 4:18: "I will spread My net over him, and he shall be caught in My snare (בִּמְצוּדָתִי)" (Ezek 12:13; 17:20). Ezek 19:4, 8 shares the frame "caught in their pit(s)" but no lemma (low–moderate in the Hebrew, moderate as a theme `[S: audit 2]`). 4:18 has the verb צוד ("hunt"); Ezekiel has the noun from the same root. `[T]`; *cognate only.*
+   - *Daniel.* Anointed + end + iniquity within five verses: only **Dan 9:25–26** and Lam 4:18–22 (WLC), and Dan 9 collects more of the passage's exclusive word sets than any other prophetic chapter but Jer 51. **Dan 9:24 prints the ketiv "to seal sins"; its qere is "to complete sin" (לְהָתֵם חַטָּאת)** — and Lam 4:22 opens "your iniquity is complete" (תַּם עֲוֹנֵךְ). "Complete" + iniquity stand in one verse nowhere else; read by its qere, Dan 9:24 joins it. The anointed differ (Dan 9:25 "an anointed prince"). Daniel stands two books after Lamentations in the Writings. `[T]`; `[I]`.
+     - *History* (v1.2). **Anderson (*Sin: A History*, 86, 93) links Lam 4:22 "your iniquity … has been completed (tam)" with Dan 9:24 "to bring to completion (le-hātēm)" the sin**, as the idiom of paying off a debt of sin through a term of suffering, and compares Isa 40:2; he renders 4:22 "the debt accrued by your iniquity, Fair Zion, has been paid in full". Sprinkle (EBTC Daniel, 255–256) judges the qere most likely original and notes that most versions follow it `[S: Logos 3]`.
+     - *The Greek* (v1.2; Swete). Theodotion follows the ketiv: τοῦ συντελεσθῆναι ἁμαρτίαν, καὶ τοῦ σφραγίσαι ἁμαρτίας ("to complete sin, and to seal sins"). The Old Greek has "complete" without "seal": συντελεσθῆναι τὴν ἁμαρτίαν καὶ τὰς ἀδικίας σπανίσαι ("to complete sin and to make iniquities scarce"). `[T]`
+     - **Dan 9:24 at 4:22: moderate**, stated on the qere, with Isa 40:2 beside it. As a route to the anointed of 9:25–26 it stays *low–moderate*: Anderson's link concerns the completed penalty, not the anointed `[S: audit 6; Logos 3]`.
+   - *What it does.* The king the people called their breath falls inside the prophets' announcement of the end — an end the prophets had already said would not be the last word ("until he comes whose right it is"). `[I]`
+
+   *Surfaced by:* Tool 11, Vocabulary, Bible Timeline, Christological Reading. *Confidence: high (the counts); moderate (Dan 9:24 at 4:22, on the qere, now with history; Dan 9:25–26 low–moderate as a route to the anointed); low–moderate (the "end has come" formula, Ezek 7 and Jer 51:13); low (Ezek 21); moderate as a theme (Ezek 12; 17; 19); Amos 8:2 withdrawn.*
+
+---
+
+## The Sixteen Tools
+
+### 1. Author's Purpose
+
+**Book level (from the overview, confirmed by the text).** Lamentations gives a ruined people ordered words — confession, protest, memory and petition — with which to keep addressing the LORD when he is silent `[S]` (overview); `[I]` as a reading of the whole. Of the overview's three claims (the LORD has done this; he was right to; it is beyond bearing), 4:17–22 carries the second most heavily, but in an unusual form. **It confesses not sins of conduct but misplaced trust.** `[I]`
+
+**Passage level.** Two movements:
+
+- **4:17–20, the confession of the "we".** The community tells how it watched for a nation, was hunted in its own streets, was chased into the hills and the wilderness, and saw its king taken. Each verse names something it had relied on and lost: help (4:17), its own streets and days (4:18), escape (4:19), the king and the hope of life under him (4:20). `[T]`
+- **4:21–22, the sentence.** An unnamed voice addresses two "daughters". Edom is told to rejoice while she can, because the cup is coming to her. Zion is told that her iniquity is complete and her exile over. `[T]`
+
+**Passage-level purpose, in one sentence.** *To let the survivors say aloud that the help they looked for was vapour and the king they lived by was taken — and to declare, at the alphabet's end, that Zion's punishment is complete while her enemy's is still to come.* `[I]`
+
+### 2. Context
+
+#### Positional Necessity Check
+
+**Preceding movement.** 4:12–16 ends the narrator's account with the leaders' guilt:
+
+- the kings of the earth did not believe an enemy could enter Jerusalem (4:12);
+- "the sins of her prophets and the iniquities of her priests" (4:13);
+- the leper's cry, "Depart! Unclean!" (4:15);
+- "the face of the LORD has scattered them; He will not again regard them" (4:16). `[T]`
+
+That leaves two things unsettled. The guilt so far is the leaders'. **And the last word was "not again": the LORD will no longer look at them** (4:16). `[I]`
+
+**What 4:17–22 supplies, and does.**
+
+1. **The people's share.** The "we" takes up where the leaders' guilt left off. It confesses the community's own trust in a foreign nation and a king (4:17, 20). `[T]`; `[I]`.
+2. **An answer to "not again".** לֹא יסף ("no longer") is used twice against the people (4:15, 16) and then once for them: "He will exile you no longer" (4:22). The third use reverses the first two. `[T]` for the chain (Headline 2).
+3. **A word about the enemy.** Poem 1 had asked that Zion's enemies "become like me" (1:21–22); poem 3 asked "You will repay them" (3:64–66). 4:21–22 gives the first declaration that it will be so. `[T]`; `[I]`.
+
+**Why here and not elsewhere.** Poem 4 is the last acrostic. Its last verse, at the last letter, is the book's only forward statement: תַּם ("complete") stands at ת (Headline 3). Poem 5 then prays without an alphabet. The declaration has to come at the end of the alphabetic series, because poem 5 prays *from* it — "Restore us to You, O LORD, that we may be restored" (5:21) asks for what 4:22 declared. It could not stand earlier: chs 1–3 have not yet let the community speak as "we" outside 3:40–47. `[I]`, *confidence moderate–high*.
+
+#### Immediate context
+
+- **Before.** 4:16: "The face of the LORD has scattered them; He will not again regard them (לְהַבִּיטָם)". `[T]`
+- **After.** 5:1: "Remember, O LORD, what has befallen us; look (הַבִּיטָה) and see our reproach!" נבט ("look") occurs in the book six times; 4:16 is the only one that is negated, and 5:1 is the next (WLC). **The LORD will no longer look (4:16); our eyes failed looking (4:17); "Look!" (5:1).** `[T]` for the chain; `[I]` for the sequence.
+- **Wider.** Poem 4 has 259 words in the WLC index (11.8 a verse), against about 17 in poems 1–2 (overview). 4:17–22 has 72, twelve a verse. `[T]`
+
+### 3. Structure
+
+**The form.** Six verses, letters ע צ ק ר שׁ ת. In poem 4 the order is פ (4:16) then ע (4:17), as in poems 2 and 3; BHS records a few manuscripts and the Syriac that reverse 4:16 and 4:17 to the standard order `[unchecked — apparatus spread]`. **No point below rests on the order.** `[T]` for Leningrad.
+
+**The voices.** `[T]`
+
+| Verses | Speaker | Person | Content |
+|---|---|---|---|
+| 4:17 | community | "we" | eyes failing; help as vapour; watching for a nation that could not save |
+| 4:18 | community | "we" / "they" | hunted in the streets; "our end has come" |
+| 4:19 | community | "we" / "they" | pursuers swifter than eagles; mountains; wilderness ambush |
+| 4:20 | community | "we" / "he" | the anointed captured; "of whom we said …" |
+| 4:21 | unnamed voice | "you" (fem. sing.) | to the daughter of Edom: rejoice; the cup will pass to you |
+| 4:22 | unnamed voice | "you" (fem. sing.) | to the daughter of Zion: complete, no more exile; to the daughter of Edom: punished, uncovered |
+
+**The "we".** In 4:17–20 fifteen of the forty-five words carry a first-person-plural form, sixteen if the qere of 4:17 is read (WLC tokenisation). Nowhere else in poem 4 does a first person occur. This is the measure "first-person-plural forms", not the sweep's "words ending in -נוּ"; the sweep's figures for the book are not comparable with it. `[T]`
+
+**The sequence of 4:17–20.** Watching from the walls (4:17), trapped in the streets (4:18), the flight to the hills and the wilderness (4:19), the king taken (4:20). It is the order of 2 Kgs 25:1–7 (siege; famine; breach; flight by night towards the Arabah; overtaken in the plains of Jericho; the king taken). **The poem names no place and no person.** `[T]` for the order; `[I]` for the correspondence, *confidence high*.
+
+**The pivot.** 4:20 is the only verse in the passage that quotes speech, and it is the community quoting itself: אֲשֶׁר אָמַרְנוּ ("of whom we said"). 4:15 quoted the nations: "they said among the nations (אָמְרוּ בַּגּוֹיִם), 'They shall not stay here any longer'". אמר ("say") + גּוֹיִם ("nations") occur together in the book only at 4:15 and 4:20 (WLC). **The nations said Judah could not live among them; Judah had said it would live among the nations.** `[T]` for the pair; `[I]` for the irony, *moderate–high*.
+
+**4:22, a double line.** `[T]`
+
+| | Line 1 | Line 2 |
+|---|---|---|
+| Zion | תַּם עֲוֺנֵךְ בַּת־צִיּוֹן ("complete is your iniquity, daughter of Zion") | לֹא יוֹסִיף לְהַגְלוֹתֵךְ ("He will exile you no longer") |
+| Edom | פָּקַד עֲוֺנֵךְ בַּת־אֱדוֹם ("He has punished your iniquity, daughter of Edom") | גִּלָּה עַל־חַטֹּאתָיִךְ ("He has uncovered your sins") |
+
+The two halves match word for word in position: verb, "your iniquity", "daughter of", a place name; then a form of גלה in each second line. `[T]`
+
+**The LORD in the passage.** The divine name occurs only inside "the LORD's anointed" (4:20). The LORD's acts in 4:22 are "He" (WLC). **In the poem's last six verses God is never addressed, and named only as the owner of the king who fell.** `[T]`
+
+### 4. Linking Words
+
+- **עוֹדֵינוּ (qere, "still we…", 4:17).** The ketiv עודינה reads as a third-person feminine form; the qere makes it the community's own "while we were still …". ESV "ever watching", NASB95 "Yet". Either way it opens the "we" with duration: they went on looking. `[T]`
+- **כִּי ("for", 4:18).** "Our days were full, **for** our end had come." The poem's last כִּי gives no reason for suffering; it states that the time ran out. `[T]`
+- **אֲשֶׁר ("of whom", 4:20)** introduces the remembered saying (Tool 3). `[T]`
+- **גַּם ("also", 4:21).** "On you **also** the cup shall pass." Edom is added to a series that has so far contained only Zion. גַּם + cup in one verse: Hab 2:16 and Lam 4:21 only `[S: audit 4]` — reproduced (WLC). `[T]`
+- **No connector between 4:20 and 4:21.** The turn from the community's lament to the address to Edom is asyndetic: no "therefore", no "but", no "thus says the LORD". `[T]`
+
+### 5. Parallels
+
+- **4:17** — synonymous: "our eyes failed for our help" ‖ "we watched for a nation". The cognate pair "in our watching we watched" (בְּצִפִּיָּתֵנוּ צִפִּינוּ) intensifies. `[T]`
+- **4:18** — framed: קָרַב קִצֵּינוּ ("our end drew near") … בָא קִצֵּינוּ ("our end has come"), with "our days were full" between. Near → full → come. `[T]`
+- **4:19** — a progression of places: sky (eagles), mountains, wilderness. `[T]`
+- **4:20** — the title (breath, anointed) ‖ the fate (captured), then the remembered hope. `[T]`
+- **4:21** — imperatives of joy ‖ the coming cup; then the result in two verbs (drunk, naked). `[T]`
+- **4:22** — antithetic across the two daughters (Tool 3). `[T]`
+
+### 6. Narrator's Comment
+
+The narrator of 4:1–16 falls silent at 4:17, and the community speaks for itself. **No one introduces the "we".** `[T]`
+
+**Who speaks 4:21–22?** Not the LORD: he is "He" (4:22). Not the "we": Zion is addressed as "you". The best reading is that the narrator returns in the form of an oracle against a nation, without a messenger formula. `[I]`, *moderate*. Nothing in the book marks it as prophecy, and the book never quotes God except at 3:57 (overview). **That the declaration has no "thus says the LORD" matters for preaching:** it is the poet's confidence, voiced in the prophets' forms (Tool 12), not a quoted oracle. `[I]`
+
+### 7. Vocabulary
+
+| Word | Gloss | Where else | Note |
+|---|---|---|---|
+| כלה (*kālâ*) | "fail, finish" | Lam 2:11, 22; 3:22; 4:11, 17 (WLC) | The chain of "fail / finish": eyes fail (2:11), the enemy finishes (2:22), His compassions do not fail (3:22), the LORD finishes His wrath (4:11), our eyes fail (4:17) `[S: overview]`, verified. "Eyes" + כלה is idiom — 15 verses, including Jer 14:6; Ps 69:4 [Eng 69:3]; 119:82, 123 `[T]` |
+| עֶזְרָה | "help" | 25 verses; in Lam only here. With Egypt: Isa 31:1; Jer 37:7; Nah 3:9 | The root עזר: 1:7 ("no one to help her") and 4:17 only, in the book (WLC) `[T]` |
+| הֶבֶל | "vapour, futility" | 64 verses; in Lam only here | Ecclesiastes' word (overview, *Neighbours*). Also Jeremiah's word for the idols of the nations: הֶבֶל + גּוֹי ("nation") in one verse at Deut 32:21; 2 Kgs 17:15; Jer 14:22; 16:19; Lam 4:17 (WLC). **To call the nation's help "vapour" is to put it with the idols.** `[T]` for the words; `[I]` |
+| צִפִּיָּה | "watching, watchtower" | **here only** in the Hebrew Bible | Hapax; with its verb צפה ("watch") `[T]` |
+| ישׁע | "save" | in Lam only here; the noun תְּשׁוּעָה at 3:26 | The book's only "save" verb is negated (Headline 1) `[T]` |
+| צוד | "hunt" | Lam 3:52 and 4:18 only, in the book; 14 verses in the Hebrew Bible | The man "hunted like a bird" (3:52); the community's steps hunted (4:18) `[T]` |
+| קֵץ | "end" | in Lam only here (twice) | Ezekiel's and Amos's word for the day of judgement (Headline 5) `[T]` |
+| מלא | "be full" | in Lam only here | "Our days were full"; both versions lose "full" (Tool 8) `[T]` |
+| קַל | "swift" | 13 verses | With "pursue": Isa 30:16 and Lam 4:19 only (Headline 1) `[T]` |
+| נֶשֶׁר | "eagle, vulture" | 26 verses | "Swifter than eagles": 2 Sam 1:23; Jer 4:13; Lam 4:19 `[S: audit]` |
+| דלק | "burn; pursue hotly" | 9 verses | The pursuit sense at Gen 31:36 and 1 Sam 17:53; the Greek splits (Tool 8) `[T]` |
+| ארב | "lie in ambush" | Lam 3:10 and 4:19, in the book | God "a bear lying in wait" (3:10); the pursuers in ambush (4:19) `[T]` |
+| רוּחַ אַפֵּינוּ | "breath of our nostrils" | the construct elsewhere only of God: Exod 15:8; 2 Sam 22:16 = Ps 18:16; Job 4:9 | Headline 1. אַף occurs in ten verses of Lamentations; in nine it means "anger", nearly always the LORD's (1:12; 2:1, 3, 6, 21, 22; 3:43, 66; 4:11). **Only at 4:20 does it mean "nostrils"** — nine verses after "He has poured out His fierce anger (אַפּוֹ)" (4:11). `[T]` for the senses; `[I]` that the word-play is felt, *low–moderate* |
+| מְשִׁיחַ יְהוָה | "the LORD's anointed" | the exact phrase: nine verses of Samuel and Lam 4:20 | Headline 1 `[T]` |
+| שְׁחִית | "pit" | **Ps 107:20 and Lam 4:20 only**, both "their pits" | "He sent His word and healed them, and delivered them from **their pits**" (מִשְּׁחִיתוֹתָם, Ps 107:20); "captured in **their pits**" (בִּשְׁחִיתוֹתָם, 4:20). The Greek of both has διαφθοραί ("corruptions") with "their" (WLC; Swete) `[T]`. Ezek 19:4, 8 has a different noun, שַׁחַת `[S: audit 2]` |
+| צֵל | "shade" | 47 verses; in Lam only here | The royal shade: Judg 9:15 (the bramble king); Isa 32:2 (the righteous king, "like the shade of a great rock"); Ezek 17:23 (the LORD's planted cedar); Ezek 31:6, 12, 17 (Pharaoh's cedar — "they lived in his shade among the nations", 31:17). Shade + "nations" in one verse: Ezek 31:6, 12, 17 and Lam 4:20 only (WLC) `[T]` |
+| חיה | "live" | in Lam only here | Headline 1 `[T]` |
+| שׂושׂ / שׂמח | "rejoice / be glad" | שׂושׂ: 1:21; 4:21. שׂמח: 2:17; 4:21 (WLC) | 2:17: "He has made the enemy rejoice **over you** (עָלַיִךְ)"; 4:21: "**over you** (עָלַיִךְ) also the cup shall pass" — the same preposition and suffix, Zion then Edom `[T]` |
+| עוּץ | "Uz" | 8 verses | Job's land (Job 1:1); an Aramaean (Gen 10:23; 22:21) and an Edomite clan (Gen 36:28); with "land": Job 1:1; Jer 25:20; Lam 4:21 `[S: audit 2]`. Neither Greek edition has it (Tool 8) |
+| ערה (hithpael) | "lay oneself bare" | the hithpael only here and Ps 37:35 (WLC) | Edom + ערה: Ps 137:7 and Lam 4:21 only `[S: audit 3]` |
+| תמם | "be complete" | Lam 3:22 and 4:22 only, in the book | Headline 3 `[T]` |
+| פקד + עָוֹן | "punish iniquity" | 16 verses (the visiting-iniquity formula of Exod 20:5; 34:7) | With חַטָּאת ("sin") too: Jer 14:10; Hos 8:13; 9:9; Lam 4:22 — Hosea's "He will remember their iniquity and punish their sins", taken up by Jer 14:10 (WLC) `[T]` |
+| גלה | "uncover; go into exile" | Lam 1:3; 2:14; 4:22 | Headline 2 `[T]` |
+
+### 8. Translations
+
+**ESV against NASB95.**
+
+| Verse | ESV | NASB95 | Hebrew | Bears on |
+|---|---|---|---|---|
+| 4:17 | "ever watching vainly" | "Yet … Looking for help was useless" | qere עוֹדֵינוּ ("still we"); הֶבֶל ("vapour") | Both lose "vapour" as a noun |
+| 4:18 | "dogged our steps … our days were numbered" | "hunted our steps … Our days were finished" | צָדוּ ("they hunted"); מָלְאוּ ("were full") | **ESV breaks the 3:52 → 4:18 "hunt" chain** (ESV 3:52 "I have been hunted"); both lose "full" |
+| 4:21 | "the cup shall **pass**" | "the cup will **come around** to you" | תַּעֲבָר ("it will pass over") | **NASB95 loses the only "passing cup"** and sounds like Hab 2:16; the ESV keeps it (Christological Reading) |
+| 4:21 | "strip yourself bare" | "make yourself naked" | וְתִתְעָרִי | ESV "bare" is the better echo of Ps 137:7 ("Lay it bare", ESV) |
+| 4:22 | "is accomplished … keep you in exile … uncover your sins" | "has been completed … exile you … **expose** your sins" | תַּם … לְהַגְלוֹתֵךְ … גִּלָּה | **NASB95 keeps 2:14 ↔ 4:22 audible** ("not exposed your iniquity" / "expose your sins"); **ESV breaks it** ("exposed" / "uncover"). Both lose the exile/uncover pun |
+| 4:22 | "The punishment of your iniquity" | the same | עֲוֺנֵךְ ("your iniquity") | Both supply "punishment of". The Hebrew says "your iniquity is complete": עָוֹן is guilt and its penalty together (as at 4:6) |
+| 4:22b | "he will punish … he will uncover" | "He will punish … He will expose" | perfects | Both read prophetic perfects as futures — defensible; the Hebrew states it as done |
+| 4:16 / 5:1 | "regard them no more" / "look, and see" | "not continue to regard them" / "Look, and see" | נבט both times | Both lose the 4:16 → 5:1 chain |
+
+**Ancient versions.**
+
+- **Greek, verse division.** Swete (Vaticanus) divides 4:17–19 differently from the Hebrew: "we watched for a nation that does not save" stands in its 4:18, and "our time drew near, our days were fulfilled" in its 4:19, under the letters Τιαδή and Κώφ. The Rahlfs export keeps the Hebrew division. `[T]` for both. *Category: translation feature; no weight.*
+- **4:17.** μάταια ("in vain") for הֶבֶל — the same word as Isa 30:7 in Greek ("the Egyptians will help you in vain and emptily; your comfort is vain"). Greek Isa 30:7 has παράκλησις ("comfort") for "help". `[T]` (Swete). *Category 1.*
+- **4:18.** ἐθηρεύσαμεν μικροὺς ἡμῶν ("**we** hunted **our little ones**") in both Greek editions. BHS identifies the verb as צַדְנוּ ("we hunted"). The object looks like a reading of צְעִירֵינוּ ("our young ones") for צְעָדֵינוּ ("our steps") — an inference, not a BHS note. BHS also records one manuscript צָרוּ ("they besieged"?), the Vulgate *lubricaverunt* ("they slipped", perhaps מָעֲדוּ), and an editor's proposal to insert צָרֵינוּ ("our adversaries") as subject. **Category 2:** the Greek makes the people hunt their own children, which would chime with 4:10. Weigh it: the Hebrew is coherent, the Greek is supported by no Hebrew witness, and "steps … streets" is a natural pair. **Keep the Hebrew**, *confidence high*. `[T]` for the readings.
+- **4:19.** For דְּלָקֻנוּ ("they chased us hotly") Swete has ἐξέπτησαν ("they flew out", continuing the eagles) and the Rahlfs export ἐξήφθησαν ("they were kindled", the "burn" sense of דלק). An inner-Greek difference. `[T]`
+- **4:20.** πνεῦμα προσώπου ἡμῶν ("the breath of our **face**"): the Greek takes אַף as "face". Swete χριστὸς Κύριος, Rahlfs χριστὸς κυρίου (overview, *Greek* 4). συνελήμφθη ("was seized"); ἐν ταῖς διαφθοραῖς αὐτῶν ("in their corruptions"). `[T]`
+- **4:21.** Neither Swete nor the Rahlfs export has Uz (ἡ κατοικοῦσα ἐπὶ γῆς, "who dwells on the land"); BHS: "> 𝔊*" and some Vulgate manuscripts. Both add Κυρίου to the cup (BHS: "𝔊 ad κυρίου"). For וְתִתְעָרִי the Greek has ἀποχεεῖς ("you will pour out"), which BHS identifies as וּתְעָרִי, from the homonym "pour out", and marks "read the Hebrew". `[T]` **The overview says "Swete's Lamentations drops Uz"; the Rahlfs export drops it too** (Book-Overview Tensions).
+- **4:22.** Ἐξέλιπεν ἡ ἀνομία σου ("your lawlessness has failed") — the verb of 4:17 (Headline 3). ἀποικίσαι ("to deport") and ἀπεκάλυψεν ("He uncovered"): **the Greek cannot keep the גלה pun.** Rahlfs adds ἔτι ("again") after "He will not"; Swete lacks it `[S: audit 4]`, verified. `[T]`
+
+**Triage.** Every divergence above is category 1 (translation feature or loss) except 4:18, which is category 2 and is weighed above. No category 3 (NT's own text) arises. `[T]`
+
+### 9. Tone and Feel
+
+- **4:17 is slow.** A long "still", eyes failing, "in our watching we watched". The repetition makes the waiting last. `[I]`
+- **4:18–19 accelerate.** Short verbs of pursuit: hunted, drew near, were full, came; swift, chased, lay in ambush. The pursuit moves from the streets to the sky, the mountains and the wilderness. `[T]` for the verbs.
+- **4:20 is bitter.** The highest titles — "breath of our nostrils", "the LORD's anointed" — and then "captured", and then the people's own quoted hope. The verse does not say "we were wrong"; it lets the quotation say it. `[I]`
+- **4:21 is ironic.** "Rejoice and be glad" is spoken to the enemy who is rejoicing, as a taunt (Headline 4). `[I]`, *high*.
+- **4:22 is judicial.** No imagery: iniquity, completed, punished, uncovered, sins. `[T]`
+
+**Sound.** `[T]` for the sounds; `[I]` for their effect.
+
+- The "-ēnû / -nû" ("our") ending is heard fifteen or sixteen times in four verses (Tool 3).
+- 4:17b–18a run on צ (ṣ) — בְּצִפִּיָּתֵנוּ צִפִּינוּ … צָדוּ צְעָדֵינוּ ("in our watching we watched … they hunted our steps") — beginning before the צ verse does.
+- 4:21 opens on sibilants: שִׂישִׂי וְשִׂמְחִי (*śîśî wəśimḥî*).
+
+### 10. Repetition
+
+**Inside the passage.** `[T]`
+
+- קֵץ ("end") twice in 4:18, framing the verse.
+- צפה ("watch") twice in 4:17, noun and verb.
+- עֲוֺנֵךְ ("your iniquity") twice in 4:22, once for each daughter.
+- בַּת ("daughter") three times in 4:21–22: Edom, Zion, Edom.
+- גלה twice in 4:22 (exile, uncover).
+- גּוֹי ("nation") at 4:17 and 4:20, and at 4:15 just before. Three of the book's seven verses with the word stand within six verses (WLC).
+
+**Across the book** (lemma-verified; WLC). `[T]` for each chain; the confidence column rates the design.
+
+| Chain | Verses | What it does | Confidence (design) |
+|---|---|---|---|
+| גלה + עַל + sin | **2:14 → 4:22** — the only two in the Hebrew Bible | The prophets did not uncover; the LORD will (Headline 2) | **moderate–high** |
+| גלה | 1:3 → 2:14 → 4:22 | Exile begun, unexposed guilt, exile ended | moderate–high |
+| לֹא יסף ("no longer") | 4:15 → 4:16 → 4:22 | Twice curse, once release | moderate–high |
+| תמם | 3:22 → 4:22 | "We are not consumed" (MT) → "your iniquity is complete" `[S: overview]` | moderate |
+| כלה | 2:11 → 2:22 → 3:22 → 4:11 → 4:17 | The eyes that failed in 2:11 fail again `[S: sweep]` | moderate–high |
+| ישׁע root | **3:26 → 4:17** — the only two | Waiting quietly for the LORD's salvation; watching for a nation that cannot save | moderate |
+| עזר root | 1:7 → 4:17 — the only two | "No one helped her"; "our help, vapour" | moderate |
+| צוד ("hunt") | 3:52 → 4:18 — the only two | The man hunted like a bird; the community's steps hunted | moderate |
+| ארב ("lie in wait") | 3:10 → 4:19 — the only two | God "a bear lying in wait"; the pursuers in ambush | low–moderate |
+| רדף ("pursue") + גּוֹיִם within a verse | **1:3 → 4:19–20** — the only two places in the book | "She dwells among the nations … all her pursuers overtook her"; "our pursuers … we shall live among the nations". With גלה at 1:3 and 4:22 | moderate (frame); untested against chance |
+| אמר + גּוֹיִם | 4:15 → 4:20 — the only two | "They said among the nations" / "we said … among the nations" (Tool 3) | moderate–high |
+| שׂמח + עָלַיִךְ | 2:17 → 4:21 — the book's only two uses of שׂמח | The enemy made to rejoice over Zion; the cup to pass over Edom | moderate |
+| שׂושׂ | 1:21 → 4:21 — the only two `[S: sweep]` | The enemies' joy; Edom's ironic joy | high (lemma); moderate–high (design) |
+| The joy-call | 2:19 (רָנִּי, to lament) → 4:21 (שִׂמְחִי, to Edom) | Zion's joy-call vocabulary goes to lament and to the enemy | moderate |
+| נבט ("look") | 4:16 (negated) → 5:1 | "He will not again regard them" → "Look, and see" | moderate–high |
+| "We" | 3:40–47 → 4:17–20 → 5:1–22 | The community's voice returns and keeps the floor to the end (sweep, Convergent 3) | high (fact) |
+
+**The audit-5 caution applies.** One pair in five of moderately common words is shared by chance with exactly one other passage `[S: audit 5]`. The chains above are internal and lemma-verified, but their *design* is not tested against chance. Only the first rests on a construction that is exclusive in the whole Hebrew Bible. **Read the rest as echoes a reader hears, rated as shown.** `[I]`
+
+### 11. Quotation/Allusion
+
+**No quotation formula; no long verbatim quotation.** The passage shares short phrases and clusters (overview). Every count names the WLC; window ranks state their length and frequency ceiling. The direction of dependence is open throughout: "partner" means "the other text", not "the earlier text". `[T]`
+
+**Baseline.** In every window ranking run for this dig, the top of the list included battle narratives such as Josh 8 and 1 Sam 25 ("pursue", "ambush", "capture", "wilderness"), and for 4:15–22, Isa 5:8–28, whose shared words are mostly in other senses. **High rank alone is not evidence**; a partner below is entered only where rank, sense and at least one exclusive tie agree. `[T]`
+
+#### Partners for 4:17–20 — the failed hopes
+
+| Partner | Where | What is shared | Rarity · rank | Confidence |
+|---|---|---|---|---|
+| **Isa 30:1–20; 31:1–3** — woe to those who go down to Egypt for help | 4:17, 19, 20 | shade of Egypt (30:2–3); help vapour (30:7); "you shall be saved" (30:15); swift pursuers (30:16); עֶזְרָה with Egypt, כלה (31:1, 3) | swift + pursue: **Isa 30:16 and Lam 4:19 only**, Hebrew and Greek. Isa 30:1–20 is **18th of 7,706** twenty-verse windows against 4:17–20 (words in at most 300 verses) | **moderate–high** |
+| **Jer 37:5–11** — Pharaoh's army comes out, and returns | 4:17 | "help" + "Pharaoh": **Jer 37:7 only**; Greek εἰς βοήθειαν in both | historical reference | **moderate–high** |
+| Jer 8:14–20 — "We waited for peace … we are not saved" | 4:17 | save + fail + "not" in one verse: **Jer 8:20 and Lam 4:17 only** ("the summer is ended, and we are not saved"). Jer 8:1–20 is 128th of 7,706 | exclusive triple | moderate |
+| Jer 14:6, 9, 22 | 4:17 | eyes fail (14:6); "like a mighty man who cannot save" (14:9: save + "not" + "be able", Jer 14:9 and 15:20 only); "Are there among the vapours of the nations any that can bring rain?" (14:22) | Jer 14:4–19 is **15th of 10,270** sixteen-verse windows against 4:17–22 | moderate (Jer 14 the pervasive partner `[S: audit]`) |
+| Ps 66:7 — "His eyes keep watch on the nations" | 4:17 | eyes + watch + nations: **Ps 66:7 and Lam 4:17 only**. God's eyes watch the nations; our eyes failed watching for one | exclusive triple; the Greek loses "watch" | low–moderate |
+| Isa 45:20 — "a god who cannot save" | 4:17 | nation + save + "not": Isa 45:20; Jer 30:11; Lam 4:17 `[S: audit]` | idiom | low–moderate |
+| Hos 14:2–9 [Eng 14:1–8] — the return liturgy | 4:17, 20 | "Assyria will not save us" (14:4 [Eng 14:3]); "those who dwell in His shade shall return; they shall revive" (14:8 [Eng 14:7]): shade + live in one verse Hos 14:8; Eccl 7:12; Lam 4:20. Hos 14:1–10 is 128th of 7,706 | **The prayer of return renounces exactly what 4:17–20 trusted**, and finds life in the LORD's shade | low–moderate to moderate |
+| Hab 2:1–3 — the watchman waits for the vision of the end | 4:17–18 | watch + end within three verses: **Hab 2:1–3 and Lam 4:17–18 only**; Greek ἀποσκοπεύω ("watch out") **only Hab 2:1 and Lam 4:17** in Swete. With Hab 2:15–16 (the cup), Hab 2:1–16 is 74th of 10,270 against 4:17–22 | moderate |
+| **Amos 8:2; Ezek 7:2–7** — "the end has come" | 4:18 | end + come: Ezek 7:2, 6; Amos 8:2 the prophetic sentence. End + come + "no longer" + "pass over" within five verses: **Amos 8:2 and Lam 4:18–22 only**. Ezek 7:1–20 is 128th of 7,706 | The prophets' sentence becomes the people's confession | **moderate** |
+| Jer 4:13; 2 Sam 1:23 — "swifter than eagles" | 4:19 | the comparative: 2 Sam 1:23; Jer 4:13; Lam 4:19. Jer 4:13 adds "Woe to us, for we are ruined!" `[S: audit]` | 3 verses; Greek κοῦφοι … ὑπὲρ ἀετούς in 2 Sam 1:23 and Lam 4:19 | moderate–high (Jer 4:13, sense); moderate (2 Sam 1:23, setting) `[S: audit]` |
+| Deut 28:49–50 — "a nation from afar … as the eagle swoops … that will not respect the old" | 4:16–19 | eagle + face + old + favour within a verse or three either side: **Deut 28:49–50 and Lam 4:16–19 only**. Audit 1 assigned 4:19's formula to Jer 4:13, rightly; the span shows that the curse of 28:50, exclusive at 4:16 `[S: audit]`, still stands three verses away from the eagles | low–moderate (beyond 4:16) |
+| **The Saul–David narratives** — 1 Sam 24; 26; 2 Sam 1 | 4:18–20 | the exact phrase "the LORD's anointed" (nine verses of Samuel and Lam 4:20); the related verb צדה ("lie in wait, hunt", 1 Sam 24:12) + anointed within six verses only in 1 Sam 24:7–12, and Lam 4:18–20 has צוד ("hunt") with the anointed; pursue + mountains + anointed within ten verses only 1 Sam 26:9–23 and Lam 4:19–20; swifter than eagles + anointed within ten verses only 2 Sam 1:14–23 (Lam 4:19–20 has the adjective rather than the verb) | moderate (the phrase); low–moderate (the field, untested against chance) |
+| Ezek 19:4, 8 — the royal lion "caught in their pit" | 4:20 | no shared lemma; the frame "caught in their pit(s)"; the Greek converges (συνελήμφθη ἐν … διαφθορ-) | low–moderate (Hebrew); moderate (theme) `[S: audit 2]` |
+| Ezek 12:13; 17:20 — "he shall be caught in My snare" | 4:18, 20 | the hunting root (Ezekiel's noun מְצוּדָה, "snare"; Lam's verb צוד). Ezek 17 also has Egypt's help failing Zedekiah (17:15–17) and the LORD's cedar giving shade (17:23); hunting root + shade within three verses only Ezek 17:20–23 and Lam 4:18–20 in the netting sense | cognate; Ezek 17 ranks low on shared words | low–moderate (moderate as a theme) |
+| Ps 107:20 — "He … delivered them from their pits" | 4:20 | שְׁחִית, the only two occurrences, both "their pits"; the Greek keeps it | **exclusive noun** | moderate |
+| Exod 15:8; 2 Sam 22:16 = Ps 18:16; Job 4:9 — "the breath of (His) nostrils" | 4:20 | the construct, elsewhere only God's (Headline 1). Ps 18 = 2 Sam 22 ends with "His anointed" (Ps 18:51 [Eng 18:50]) | 5 verses | moderate |
+| Ezek 31:17; Judg 9:15; Isa 32:2 — the king's shade | 4:20 | shade + nations: Ezek 31:6, 12, 17 and Lam 4:20 only (Pharaoh's cedar); the bramble king (Judg 9:15); the righteous king (Isa 32:1–2; shade + wind + king within a verse only Isa 32:2) | low–moderate each; moderate as a field |
+| Ps 89:39–52 [Eng 89:38–51] — "You are full of wrath against Your anointed … they have reproached the footsteps of Your anointed" | 4:18, 20 | the anointed, His enemies; "footsteps" (עִקְּבוֹת) ~ "our steps" (צְעָדֵינוּ) is a different word. Ps 89 is Lam 2's partner `[S: audit]`; Estes and others connect it with Lamentations `[S: Logos 2]` | Ps 89:30–49 shares two words with 4:17–20 | low (lexical); moderate (theme) |
+
+**OT Citation Triad — Isa 30:16 at 4:19 (with Isa 30:1–20; 31:1–3).**
+
+- **Move 1, source context.** Isa 30–31 is Isaiah's woe on Judah's embassy to Egypt (30:1–2, "to take refuge in the shadow of Egypt"). Egypt's help is "vapour and emptiness" (30:7). Salvation lay "in returning and rest" (30:15), "but you were not willing. And you said, 'No, for we will flee on horses' … 'we will ride on swift horses'; therefore those who pursue you shall be swift" (30:15–16). Isa 31:1–3: "Woe to those who go down to Egypt for help … the Egyptians are men and not God … the helper will stumble … they will all come to an end together". `[T]`
+- **Move 2, book usage.** Lamentations names Egypt only at 5:6 ("We have submitted to Egypt and Assyria to get enough bread"). 4:17 never names the nation; the Isaian vocabulary does it. `[T]`; `[I]`.
+- **Move 3, OT-to-OT.** The same warning stands at Hos 7:11; 14:4; Jer 2:18, 36–37 ("you will be ashamed of Egypt as you were ashamed of Assyria"); Ezek 17:15–17; 29:6–7 (the reed staff). In narrative, Jer 37:5–11 is the event. `[T]` for the texts.
+- **What the use does.** The community confesses in Isaiah's terms the very failure Isaiah predicted, a century and more later, of a different Egypt. **The poem does not cite Isaiah; it lives in his sentence.** `[I]`, *moderate–high*.
+
+**OT Citation Triad — Ps 137:7 at 4:21.**
+
+- **Move 1.** "Remember, O LORD, against the sons of Edom the day of Jerusalem, who said, 'Lay it bare, lay it bare to its foundation!'" — the exiles' psalm by Babylon's rivers. `[T]`
+- **Move 2.** Edom appears in Lamentations only at 4:21–22. `[T]`
+- **Move 3.** The anti-Edom oracles: Obad 10–16 ("do not rejoice over the sons of Judah", 12); Ezek 25:12–14; Ezek 35:14–15 ("As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you"; rejoice + Edom within two verses: Ezek 35:14–15 and Lam 4:21 only); Jer 49:7–22 (49:10, "I have uncovered his hiding places"; 49:12, the cup); Isa 34; 63:1–6; Mal 1:2–5. `[T]` for the texts.
+- **What the use does.** Edom's word against Jerusalem ("lay it bare") becomes Edom's own fate ("you will lay yourself bare"), the measure-for-measure of Ezek 35:15 and of Zion's own prayer at 1:22. `[I]`, *moderate–high* `[S: audit 3]`.
+
+#### Partners for 4:21–22 — the cup and the end
+
+| Partner | Where | What is shared | Rarity · rank | Confidence |
+|---|---|---|---|---|
+| **Jer 25:12–29** — the cup to the nations, Uz, Edom; "when seventy years are completed I will punish … their iniquity" | 4:21–22 | Uz, cup, Edom, iniquity, punish; drunk (25:27); "your days … are full" (25:34). Fill + punish + iniquity within a verse either side: Jer 25:12 only | **joint 1st of 14,944** ten-verse windows against 4:21–22 (words in at most 300 verses) | moderate `[S: audit 3]`; the Uz contact weaker than first claimed |
+| **Jer 14:10–19** — "He will remember their iniquity and punish their sins" | 4:22 | punish + iniquity + sin (Jer 14:10; Hos 8:13; 9:9; Lam 4:22); תמם (14:12, 15); Zion (14:19) | **joint 1st of 14,944** | moderate (with Jer 14:19 at 5:22 `[S: audit]`) |
+| **Isa 51:17–23; 52:1** — the cup taken from Zion and given to her tormentors; "you shall drink it no more"; "no more shall the uncircumcised and unclean come into you" | 4:21–22 (and 4:15 with 52:11) | cup + "no more" within a verse either side: Isa 51:22 and Lam 4:21–22 only `[S: audit 4]`; "no more" + Zion in one verse: Isa 52:1; Jer 31:12; Lam 4:22 | Isa 51:13–22 joint 3rd of 14,944 | moderate `[S: audit 4]`, at least equal to Hab 2:16 `[S: audit 5]` |
+| Hab 2:15–16 — "drink, you also … the cup in the LORD's right hand will come around to you" | 4:21 | cup + "also": exclusive; cup + drunk + nakedness within a verse `[S: audit 5]`. The Greek κυρίου at 4:21 assimilates to Hab 2:16 | — | moderate for 4:21 `[S: audit 4]`; low–moderate `[S: audit 3]` |
+| Jer 49:7–22 — Edom: "I have uncovered his hiding places" (49:10); the cup (49:12) | 4:21–22 | Edom, cup, uncover, punish | Jer 49:3–12 joint 3rd of 14,944 | moderate |
+| **Isa 40:1–2** — "her iniquity is removed … double for all her sins" | 4:22a | Zion + iniquity + sins + uncover (40:5 "the glory of the LORD will be revealed") within ten verses | Isa 40:1–10 joint 3rd of 14,944 | moderate `[S: audit 4]`; conceptual moderate `[S: overview]` |
+| **Isa 26:20–21** — "hide … until the wrath has passed by. For the LORD is coming … to punish the iniquity of the earth; and the earth will uncover her blood" | 4:21–22 | pass over + punish + iniquity + uncover within a verse either side: **Isa 26:20–21 and Lam 4:21–22 only**; punish + iniquity + uncover in one verse: Isa 26:21 and Lam 4:22 only | Isa 26:12–21 joint 3rd of 14,944 | **moderate** |
+| Isa 47:1–5 — "daughter of Babylon … you shall no longer be called … uncover … your nakedness shall be uncovered" | 4:21–22 | uncover + "no more" + daughter within two verses: Isa 47:2–3 and Lam 4:22 only | Isa 47 the city-humiliation template `[S: audit]` | low–moderate |
+| Ezek 21:29–32 [Eng 21:24–27] | 4:18–22 | Headline 5 | exclusive within five verses | **moderate** |
+| Dan 9:24–26 | 4:18–22 | Headline 5; Dan 9:7–26 is 128th of 7,706 against 4:17–20 (anger, streets, anointed, end) | exclusive within five verses; the qere | low–moderate |
+| Zeph 3:14–15; Zech 2:14 [Eng 2:10] — the joy-call to the daughter of Zion | 4:21 | Headline 4. Zeph 3:11 also has "you shall no longer" (תוֹסִפִי) and 3:15 "the LORD has taken away your judgements". Zeph 3 is the densest chapter for poem 4 (sweep), moderate–high `[S: audit 5]` | 4 verses | moderate |
+| Nah 3:11 — "you too will become drunk" | 4:21 | תִּשְׁכְּרִי, 2 verses `[S: audit 2]` | — | low–moderate `[S: audit 2]` |
+| Obad 10–16; Ezek 35:14–15; Ps 137:7 | 4:21 | above (Triad) | Ps 137:7 exclusive `[S: audit 3]` | moderate–high (Ps 137:7); moderate (Ezek 35:15); thematic (Obadiah) |
+
+**Move 4 — internal echo.** Answered and planted, with the book's opening unit held open (Tool 10 gives the full list): `[T]` for each chain
+
+- *Answers poem 1:* 1:3 (exile; among the nations; pursuers) → 4:19–22; 1:7 (no helper) → 4:17; 1:21 (the enemies' joy; "let them become like me") → 4:21 `[S: sweep]`.
+- *Answers poem 2:* **2:14 (unexposed iniquity) → 4:22, exclusive**; 2:17 (the enemy made to rejoice over you) → 4:21; 2:11 (eyes fail) → 4:17; 2:19 (the joy-call to lament) → 4:21.
+- *Answers poem 3:* 3:22 (תמם) → 4:22; 3:26 (the LORD's salvation) → 4:17; 3:52 (hunted) → 4:18; 3:10 (ambush) → 4:19; 3:24 ("'The LORD is my portion,' says my soul") ↔ 4:20 ("of whom we said, 'Under his shade we shall live'") — what the man says of the LORD, the community had said of the king. `[I]`, *moderate*.
+- *Answers poem 4:* 4:15–16 ("no longer", twice; "said among the nations") → 4:20, 22.
+- *Planted:* 4:16 (He will not look) → 5:1 ("Look!"); 4:22 (exile ended) → 5:20–22 (still asking); 4:20 (the king taken) → 5:16 ("the crown has fallen from our head").
+
+**Addressee differentiation.** The overview lists the failed parties named in poem 1 and settled later: the king is settled here (4:20) `[S: overview]`. **4:17 adds one the overview's list lacks — the foreign "help" — and 4:21 adds Edom as the first named enemy since the book began.** `[T]`
+
+### 12. Genre
+
+- **4:17–20, communal lament** in the "we" of the Psalter's national laments (Pss 44; 74; 79; 80; 89), inside the narrator's acrostic *qînâ* ("lament"). The lament form here has no petition. It reports and quotes. `[T]`; `[I]`.
+- **4:21–22, an oracle against a nation** in the manner of the prophets' Edom oracles (Tool 11), here without a messenger formula. The joy-call (Zeph 3:14; Zech 2:14) is borrowed as taunt. `[I]`
+- **The form of the whole.** An alphabet that ends on "complete". `[T]` for the letters.
+
+The genre combination matters: **the confession is the people's; the hope is the oracle's.** The community does not say "our punishment is complete". Another voice says it to them. `[I]`
+
+### 13. Copycat
+
+What the passage models, cautiously: `[I]`
+
+- **Naming false trust in the first person.** The "we" says "we watched", "we said". It does not blame the leaders, although 4:13–16 has just done so.
+- **Leaving the enemy to God.** 4:21–22 does not call for revenge; it announces what God will do.
+
+What it does **not** model: gloating. Edom's rejoicing is the thing being judged (Pitfall 3). And it gives no instruction; the passage confesses and declares.
+
+### 14. Bible Timeline
+
+- **The event** (`[T]` for the narratives; `[I]` for the dates):
+  - 588 BC, the siege begins (2 Kgs 25:1; Jer 52:4).
+  - An Egyptian army comes out; the Chaldeans lift the siege for a time; Jeremiah says Pharaoh's army will return home (Jer 37:5–11). Jer 44:30 names the Pharaoh as Hophra.
+  - 587/586 BC, the wall is breached; Zedekiah flees by night towards the Arabah; the Chaldeans pursue (רדף) and overtake him in the plains of Jericho; at Riblah his sons are killed and his eyes put out (2 Kgs 25:4–7; Jer 39:4–7; 52:7–11).
+  - Edom's part on "the day of Jerusalem" (Ps 137:7; Obad 10–14; Ezek 25:12; 35:5, 15). Later traditions that Edomites burned the temple (1 Esd 4:45) are `[S]`.
+- **The canon.** Lamentations stands in the Ketuvim after Ecclesiastes and before Esther; **Daniel follows Esther** (BHS order) `[S: overview]`. In the Greek order Lamentations follows Jeremiah and Baruch, and **Bar 1:11–12 prays for Nebuchadnezzar's life "and we shall live under the shadow of Nebuchadnezzar"** (Original Language Observations). `[T]` for Swete.
+
+### 15. Who Am I?
+
+| Party | Who | What the passage gives it |
+|---|---|---|
+| "We" | the survivors of the siege — the poet among them | eyes, watching, steps, streets, end, days, pursuers, nostrils, a remembered saying, life (hoped for) |
+| The nation | unnamed; Egypt by inference (Jer 37:7; Isa 30–31) | "could not save" |
+| The pursuers | unnamed; the Chaldeans by inference (2 Kgs 25:5). That Edom was among them is possible (Obad 14) but not said | swift, chasing, in ambush |
+| The anointed | unnamed; Zedekiah by inference (2 Kgs 25:5–7) | breath, shade, captured |
+| The daughter of Edom | named; "dwelling in the land of Uz" (ketiv יושבתי, with the old -ī ending that 1:1 uses for Zion's titles: רַבָּתִי, שָׂרָתִי `[unchecked — apparatus spread]`) | rejoicing; the cup; drunk; bare; punished; uncovered |
+| The daughter of Zion | named | iniquity complete; exile ended |
+| The LORD | named only in "the LORD's anointed"; otherwise "He" | punishes, uncovers, will exile no more |
+
+**Where a hearer stands.** Most congregations will hear themselves in the "we" — people who have trusted a help that failed and a leader who fell. The passage lets them say so. Some will stand with Edom, glad at another's fall; the passage warns them. **No one in the passage stands where the preacher might want to put them — saved and secure.** The only secure figure is the LORD, who does not speak. `[I]`
+
+### 16. So What?
+
+Raw material for /point-purpose, not a sermon:
+
+- **What did we trust?** 4:17–20 is a confession of reliance on a power that "could not save" and a leader who was "breath" to the people. It uses for them words that belong to God (Headline 1). `[I]`
+- **The end of punishment is declared, not felt.** 4:22 says "complete … no longer"; poem 5 still prays "Why do You forget us?" (5:20). The congregation may be told what God has declared before they feel it. `[I]`
+- **Enemies left to God.** The cup passes; Edom is uncovered. The passage does not ask the sufferer to forgive Edom or to punish her, but to know that God will judge. `[I]`
+- **Candidate fallen-condition focus.** We put our hope in powers and leaders who cannot save, and when they fall we find that our hope fell with them. `[I]`
+
+---
+
+## Extensions
+
+### Original Language Observations
+
+- **The cognate accusative of 4:17b** — בְּצִפִּיָּתֵנוּ צִפִּינוּ ("in our watching we watched"). The noun is a hapax in the Hebrew Bible; the verb צפה is the watchman's (Hab 2:1; Isa 52:8; 2 Sam 18:24) (WLC). `[T]` The watchman's verb, used of people looking for the wrong arrival. `[I]`
+- **אַף, "nostrils" against "anger"** (Tool 7). The dual אַפַּיִם is the body's "nose"; the singular with a suffix is the usual idiom for anger. Lamentations uses the word nine times for the LORD's anger and once, at 4:20, for the people's breath. `[T]` for the senses; `[I]` for any word-play.
+- **The perfects of 4:22.** תַּם ("is complete"), פָּקַד ("He has punished"), גִּלָּה ("He has uncovered"). For Zion the perfect describes a state reached; for Edom it states as done what has not yet happened. **The same verb form carries a present fact and a future certainty in one verse.** `[T]` for the forms; `[I]` for the reading, *moderate–high*.
+- **Two ketivs** (*The Passage*). The 4:21 ketiv יושבתי has the old -ī ending found in 1:1 (רַבָּתִי, "great"; שָׂרָתִי, "princess") — the only such forms in the book, by the WLC's parsing. If the ketiv is heard, Edom "who dwells" is given the grand old ending that 1:1 gave Zion. BHS records many manuscripts with the qere יוֹשֶׁבֶת. `[T]` for the forms; `[unchecked — apparatus spread]`; *low–moderate*.
+- **The Greek** (Tool 8):
+  - χριστὸς Κύριος (Swete) stands word for word in the angels' announcement, σωτὴρ ὅς ἐστιν **χριστὸς κύριος** ("a Saviour, who is Christ the Lord", Luke 2:11) — the only verse in the SBLGNT layer with the pair in the nominative. Rahlfs's χριστὸς κυρίου matches Luke 2:26 (τὸν χριστὸν κυρίου, "the Lord's Christ") `[S: overview]`. In Swete, χριστὸς κυρίου otherwise occurs at 1 Sam 24:7, 11 — David's refusal to touch the anointed. `[T]` for Swete and SBLGNT. Whether Swete's capitalised Κύριος reflects a nominative in Vaticanus or the editor's reading of an abbreviated *nomen sacrum* is not knowable from the corpus `[unchecked]`.
+  - **Bar 1:12** — καὶ ζησόμεθα ὑπὸ τὴν σκιὰν Ναβουχοδονοσορ ("and we shall live under the shadow of Nebuchadnezzar"). "We shall live" + "shadow" in one verse: Bar 1:12 and Lam 4:20 only, in Swete. In the Greek order Baruch immediately precedes Lamentations. **Baruch counsels living under the Babylonian king's shadow; Lamentations remembers hoping to live under the anointed's.** `[T]` for Swete; *low–moderate* as design; Baruch is not in the Hebrew canon.
+  - ἐξέλιπον / ἐξέλιπεν brackets the passage in Greek only (Headline 3).
+  - κοῦφοι … οἱ διώκοντες ("swift … those who pursue"): Isa 30:16 and Lam 4:19 only, in Swete (Headline 1).
+
+### Textual Variants
+
+| Verse | Variant | Witnesses (BHS as printed) | Affects preaching? |
+|---|---|---|---|
+| 4:17 | K עודינה / Q עוֹדֵינוּ ("still we") | Eastern ketiv, 𝔊, 𝔖, 𝔙 with Q | No; the ESV follows Q ("ever") |
+| 4:18 | צָדוּ ("they hunted") / 𝔊 "we hunted" (= צַדְנוּ), object "our little ones"; one MS צרו; 𝔙 *lubricaverunt*; editor's proposal to insert "our adversaries" | as listed | No; keep the Hebrew (Tool 8, category 2 weighed) |
+| 4:21 | K יושבתי / Q יוֹשֶׁבֶת | many MSS with Q | No |
+| 4:21 | "in the land of Uz" absent | 𝔊*, some MSS of 𝔙 | No — but the Greek reader never heard Uz |
+| 4:21 | 𝔊 adds "of the Lord" to the cup | 𝔊 | No |
+| 4:21 | 𝔊 "you will pour out" (= וּתְעָרִי) | 𝔊; BHS: read the Hebrew | No |
+| 4:16 | the פ/ע order reversed to standard (4:16 after 4:17) | a few MSS, 𝔖 | No |
+
+All are `[unchecked — apparatus spread]` beyond what BHS prints; none carries a headline. The 4:22 Greek ἔτι is Rahlfs only `[S: audit 4]`.
+
+### Historical and Cultural Background
+
+- **The Egyptian hope.** Zedekiah's revolt leaned on Egypt (Ezek 17:15). During the siege an Egyptian force came out and the Chaldeans withdrew for a time (Jer 37:5). Jeremiah said it would return home and the Chaldeans would come back and burn the city (Jer 37:7–10). Jer 44:30 names the Pharaoh Hophra. `[T]` for the texts. The usual dating of the episode to 588 BC is `[S]`.
+- **The flight and the capture.** "All the men of war fled by night … the king went by way of the Arabah. But the army of the Chaldeans pursued the king and overtook him in the plains of Jericho … they captured the king and brought him up to the king of Babylon at Riblah" (2 Kgs 25:4–6; Jer 39:4–5; 52:7–9). `[T]` 4:19's "mountains" and "wilderness" fit the descent from Jerusalem towards Jericho. `[I]`
+- **The king's titles.** "The breath of our nostrils" and the king's "shade" have parallels in ancient Near Eastern royal language, where the king is called the breath of his subjects' nostrils and their shade (e.g. in the Amarna letters) `[S]` — recalled, not checked. The Bible's own royal shade is mixed: the bramble's offer (Judg 9:15) is a parody; Isa 32:2 an ideal. `[T]` for the biblical texts.
+- **Edom and Uz.** Edom's conduct on the day of Jerusalem is remembered in Ps 137:7 and Obad 10–14 and condemned in Ezek 25:12–14; 35. `[T]` Edom's move into southern Judah after 586 BC is a common historical reconstruction `[S]`. The location of Uz is disputed — Edomite (Gen 36:28) or Aramaean (Gen 10:23); Lamentations puts Edom "in the land of Uz", Jer 25:20 lists Uz apart from Edom `[S: audit 3]`.
+- **The cup.** A cup to be drunk to the dregs as a figure of judgement is the prophets' (Jer 25:15–29; Isa 51:17–23; Hab 2:16; Ezek 23:31–34; Ps 75:9 [Eng 75:8]). `[T]`
+
+### Original Audience Reception
+
+- **The survivors of 586** hear their own words: "we watched", "we said". Many had believed the royal theology — the anointed as the people's life — and some had hoped for Egypt against Jeremiah's word (Driver `[S: Logos 2]`). **The poem lets them confess without first being accused**; the accusation has fallen on prophets and priests (4:13). `[I]`
+- **4:21** would land on people who had watched Edom gloat (Ps 137:7). Its irony gives them words for their anger that hand the judgement to God. `[I]`
+- **4:22** would surprise. Nothing in poems 1–4 has looked forward. The declaration "He will exile you no longer" is given to people still in the ruins (ch. 5) or in exile (1:3). They would hear it as a promise they could not yet see, and poem 5 shows them praying as such. `[I]`
+- **A reader of the Writings** comes to 4:20 knowing 1–2 Samuel's "LORD's anointed" whom no one may touch (Headline 1) and Ps 89's lament for the anointed (Ps 89:39 [Eng 89:38]). `[I]`
+
+### Biblical-Theological Themes
+
+1. **The anointed king.** From the inviolable anointed of Samuel (1 Sam 24; 26; 2 Sam 1) through the Davidic covenant (2 Sam 7; Ps 89:20–38 [Eng 89:19–37]) to its apparent failure (Ps 89:39–52; Lam 4:20) and the hope that follows: "until he comes whose right it is" (Ezek 21:32 [Eng 21:27]; cf. Gen 49:10); "an anointed one shall be cut off" (Dan 9:26); the anointed of Ps 2 and the Christ of the Gospels. `[T]` for the texts; `[I]` for the line.
+2. **Shade.** The king's shade (Judg 9:15; Isa 32:2; Lam 4:20), Pharaoh's (Isa 30:2–3; Ezek 31:6, 17), and the LORD's (Ps 17:8; 36:8 [Eng 36:7]; 57:2 [Eng 57:1]; 91:1; 121:5; Hos 14:8 [Eng 14:7]). **Lamentations' only "shade" is the human king's, and it failed.** `[T]` for the texts; `[I]`.
+3. **"Not a nation that can save."** Trust in Egypt and Assyria refused (Isa 30–31; Hos 14:4; Jer 2:36–37); salvation in the LORD (Isa 30:15; Ps 33:16–17; Lam 3:26). `[T]`
+4. **The cup of wrath** (Jer 25; Isa 51:17–23; Hab 2:16; Ps 75:9) → Gethsemane and the cross (Matt 26:39, 42; John 18:11) → Rev 14:10; 16:19. `[T]` for the texts.
+5. **Edom.** Esau's line from Gen 25–27 to Obadiah and Mal 1:2–5; the brother who rejoiced. Esau was "a man skilled in hunting" (צַיִד, Gen 25:27) — whether 4:18's unnamed hunters glance at Edom before 4:21 names her is a question, not a finding `[I]`, *low*.
+6. **The end.** קֵץ from Gen 6:13 ("the end of all flesh has come before Me") to Amos 8:2, Ezek 7, Hab 2:3 and Dan 8–12. Lam 4:18 is the people's acceptance of the prophets' "end". `[T]`; `[I]`.
+
+### Schnittjer Pass
+
+N/A — not a Torah passage.
+
+### Christological Reading
+
+Lamentations is not predictive prophecy (overview). The routes run through categories the Old Testament itself supplies. `[I]`
+
+1. **The anointed taken — through the Davidic line, not the Greek word.** In the Hebrew the anointed is Zedekiah, captured. The book records the failure of the hope the people placed in him. The canon's answer is given in the very oracle that shares 4:22's words: Ezekiel's sentence on the "prince of Israel whose day has come" ends "until he comes whose right it is, and I will give it to him" (Ezek 21:32 [Eng 21:27]). Ps 89 voices the same lament and the same claim on God's oath. **The captured anointed opens the question that only a greater anointed closes.** *Confidence: moderate.* χριστὸς Κύριος (Swete) = Luke 2:11's "Christ the Lord" is a verbal touch in Greek, *uncertain* as design; trap 6 applies.
+2. **The cup that passes — and the cup that did not pass.** 4:21 is the Hebrew Bible's only "passing cup", and it passes *from* Zion *to* Edom (Headline 4; with Isa 51:22). In Gethsemane the Son prays "let this cup pass (παρελθάτω) from Me" (Matt 26:39) and then drinks it (Matt 26:42; John 18:11). **The book's hope is that the cup moves on; the gospel's is that it is drunk.** The Greek verbs differ (διέρχομαι in Lam 4:21; παρέρχομαι in Matthew), so this is a contrast of categories, not a citation. *Confidence: moderate (category); low (verbal).* The ESV keeps "pass"; the NASB95 does not (Tool 8).
+3. **Iniquity "complete" — not "It is finished".** תַּם עֲוֺנֵךְ is tempting beside John 19:30 (τετέλεσται). The Greek of 4:22 has ἐξέλιπεν ("has failed, ceased"), not τελέω, and the Hebrew speaks of Zion's punishment reaching its term, not of a substitute bearing it. **The route, if taken, runs through Isa 40:2 ("her iniquity is removed … she has received double") and the category of a debt paid, and must say what is different.** *Confidence: low–moderate* (Pitfall 2).
+4. **The breath of our nostrils.** The phrase belongs elsewhere only to God (Headline 1). The New Testament gives the breath back to its owner — the risen Christ breathes the Spirit on the disciples (John 20:22). This is a theological contrast, with no verbal link (ἐμφυσάω is not in Lam 4:20 Greek) `[I]`, *low*.
+
+**Moralism check.** The tempting moral is "Don't trust politicians or allies; trust God." The text resists it. 4:17–20 is not instruction but confession in lament, and the community's failure is set inside the LORD's own judgement (4:16, 22). **The gospel ground is the anointed who is not captured for his own sins but gives himself up, and the God who declares the punishment complete.** The reverse moralism — "Edom will get what's coming" — is checked by Ps 137:7's own context and by Pitfall 3. `[I]`
+
+### Difficult / Contested Verses
+
+- **4:20 — "the LORD's anointed" and Christ.** See trap 6 and Christological Reading 1. The Hebrew subject is the Davidic king; the Greek reading is a later Christian lens `[S: overview]`.
+- **4:21–22 — the imprecation on Edom.** It is a declaration, not a request, and it hands judgement to God (overview trap 7). Its measure-for-measure form (Ps 137:7; Ezek 35:15; Lam 1:22) keeps it from being mere hatred. **Pastorally:** it gives the wronged permission to want justice, and it does not give them the sword. `[I]`
+- **4:22 — "complete" and 5:20–22.** If the punishment is complete, why does poem 5 ask whether God has rejected them? Three readings: (a) prophetic certainty not yet experienced; (b) the punishment ends but restoration is still asked for (5:21); (c) the poems record different moments. (a) and (b) are compatible and best fit the text `[I]`, *moderate*. The book does not resolve it (overview, Presenting Situation).
+- **4:18 — who hunted?** The verb has no named subject. The Chaldeans are likeliest (2 Kgs 25:5); BHS's proposal to insert "our adversaries" is an editor's conjecture. `[T]`; `[I]`.
+
+---
+
+## Convergent Findings
+
+1. **The failed hopes are confessed in the warning texts' own words.** Vocabulary (הֶבֶל, עֶזְרָה, ישׁע, צֵל, קַל), Tool 11 (Isa 30–31; Jer 37:7; Jer 8:20; Jer 14), Historical Background (Egypt in 588) and Who Am I? converge. *(moderate–high)*
+2. **4:22 answers 2:14 — and poem 2 is again the hub.** Repetition (the exclusive "uncover" + עַל + sin), Structure (4:22's double line), Move 4 (2:17 → 4:21; 2:11 → 4:17; 2:19 → 4:21). Poems 2 and 4 now share four items that are exclusive to them in the book: the prophets, the poured-out wrath, "the head of every street" (overview) and "uncover upon your iniquity". *(moderate–high)*
+3. **"No longer" turns.** Repetition (4:15, 16, 22), Context (Positional Necessity), Linking Words. *(moderate–high)*
+4. **The end has come — and is ended.** Vocabulary (קֵץ; תַּם), Tool 11 (Amos 8:2; Ezek 7; Ezek 21:29–30; Dan 9:25–26), Structure (ת = תַּם). The people accept the prophets' "end" (4:18); the poem declares the end of the punishment (4:22). *(moderate)*
+5. **The cup passes and the joy-call is turned.** Tool 11 (Isa 51:17–23; Hab 2:16; Jer 25; Ps 137:7), Vocabulary (cup + pass over, exclusive), Tone (irony), Move 4 (1:21; 2:17; 2:19). *(moderate–high)*
+6. **The anointed is the Samuel anointed.** The exact phrase, the hunt, the mountains and the eagles all meet in 1 Sam 24; 26; 2 Sam 1. *(moderate as a phrase; low–moderate as a field)*
+7. **Words for God given to men.** "Breath of nostrils" (elsewhere only God's), "shade" (the LORD's in the Psalter), "save" (3:26 the LORD's salvation) and "live". *(moderate)*
+
+---
+
+## Preaching Pitfalls
+
+### Pitfall 1: Reading 4:20 as Jesus
+
+**The mistake.** Hearing "the LORD's anointed" (Greek χριστός) as a direct reference to Christ and preaching his arrest.
+**Why it is tempting.** The Greek reads "Christ the Lord" (Swete), the same words as Luke 2:11; the arrest verbs match (συλλαμβάνω).
+**Corrective.** In the Hebrew it is Zedekiah, and the verse confesses trust in him. Reach Christ through the failure of David's line and the promise of "he whose right it is" (Ezek 21:32), not by changing the subject (overview trap 6). *Bites at:* 4:20.
+
+### Pitfall 2: "It is finished" at 4:22
+
+**The mistake.** Preaching תַּם עֲוֺנֵךְ as the cross, and the passage as resolved.
+**Why it is tempting.** "Complete" sounds like τετέλεσται; the alphabet ends on it.
+**Corrective.** The Greek has "your iniquity has ceased", and poem 5 goes on asking whether God has rejected them (5:22). Say what the verse declares — the punishment has reached its term, the exile will not be repeated — and let the book's own question stand (overview trap 2). *Bites at:* 4:22.
+
+### Pitfall 3: Enjoying Edom's fall
+
+**The mistake.** Preaching 4:21–22 as satisfaction at an enemy's ruin, or naming a modern "Edom".
+**Why it is tempting.** The irony is sharp, and every congregation has someone it would like to see drink the cup.
+**Corrective.** Edom is judged *for* rejoicing over a brother's ruin (Ps 137:7; Obad 12; Ezek 35:15). A sermon that rejoices over Edom does what Edom did. Preach it as God's justice that the sufferer is not asked to carry out. *Bites at:* 4:21–22.
+
+### Pitfall 4: The politics moral
+
+**The mistake.** "Don't put your trust in Egypt" turned into a lesson on foreign policy or on distrusting leaders.
+**Why it is tempting.** Isa 30–31 says exactly that, and the application is easy.
+**Corrective.** The passage is a confession in lament, not a warning. Its point is not that Egypt was unreliable but that the people looked to a nation and a king for what only God gives — life, shade, salvation (3:26). *Bites at:* 4:17, 20.
+
+### Pitfall 5: Mapping the flight
+
+**The mistake.** Building the sermon on a reconstruction of Zedekiah's route, Riblah and the blinding, as though 4:18–20 narrated them.
+**Why it is tempting.** 2 Kgs 25 supplies vivid detail.
+**Corrective.** The poem names no place and no person. Use 2 Kgs 25 as background, and preach the poem's own words: watching, hunted, swift, captured, "we said". *Bites at:* 4:18–20.
+
+### Pitfall 6: Resting a point on Uz or on the Greek
+
+**The mistake.** Building on "the land of Uz" (Job's land) or on the Greek "we hunted our little ones".
+**Corrective.** Uz is absent from both Greek editions and its link to Job is weak (audit 3); the Greek of 4:18 has no Hebrew witness. Neither should carry a sermon point. *Bites at:* 4:18, 21.
+
+---
+
+## Open Questions / Uncertainties
+
+1. **Who speaks 4:21–22?** The narrator in oracle form (this dig) or a distinct prophetic voice? Nothing marks it.
+2. **The perfects of 4:22** — prophetic certainty for Edom, a present state for Zion (this dig). Is "your iniquity is complete" guilt ended or punishment ended? Both senses of עָוֹן are live; ESV and NASB95 choose "punishment".
+3. **Isa 30–31 and Lam 4:17–20** — direction. The overview's rule holds: "partner", not "source".
+4. **The Saul–David field** (1 Sam 24; 26; 2 Sam 1) behind 4:18–20 — the phrase is strong; the field needs a chance baseline.
+5. **Dan 9:24–26** — the qere/ketiv at 9:24 and whether the anointed + end + iniquity tie survives without it.
+6. **Swete's χριστὸς Κύριος** — what Vaticanus actually reads (a Logos question: Ziegler's Göttingen *Threni* or the Rahlfs apparatus).
+7. **Edom as hunter** (Gen 25:27; Obad 14) — possible, untested.
+8. **The 4:21 ketiv's -ī ending** — is it heard as an echo of 1:1? Manuscript spread unchecked.
+
+---
+
+## Book-Overview Tensions
+
+| # | Overview (v0.2.1) | This dig | Proposed action |
+|---|---|---|---|
+| 1 | *Neighbours*, *Writings* row (Job 1:1): "Swete's Lamentations drops Uz" | **Both Greek editions lack Uz** (Rahlfs export too; BHS "> 𝔊*") | Correct at Finalise |
+| 2 | Intertextual Map, Isaiah: 4:17 → Isa 45:20 (via audit 1) | **Isa 30:1–20; 31:1–3 is the stronger partner for 4:17–20** (swift + pursue exclusive in Hebrew and Greek; 18th of 7,706 windows); Jer 37:7 (help + Pharaoh, exclusive); Jer 8:20 (exclusive triple); Isa 45:20 idiom | Add rows; queue (L98–L101) |
+| 3 | Intertextual Map, Ezekiel: Ezek 19 at 4:20 (moderate, audit 2) | Ezek 19 unchanged; **add Ezek 21:29–32** (moderate) and Ezek 12:13; 17:20 (low–moderate, cognate) | Add rows; queue (L104) |
+| 4 | Intertextual Map, the Twelve: no Amos 8; Hab 2:16 only | **Add Amos 8:2 with Ezek 7:2–7** (4:18; moderate) and **Hab 2:1–3** (4:17–18; moderate) | Add; queue (L106, L113) |
+| 5 | Intertextual Map, Former Prophets: "the anointed — 22 verses, idiom" | **The exact phrase is in ten verses, nine of them in 1 Sam 24; 26; 2 Sam 1; 19** — not idiom but a Samuel phrase; the Saul–David field low–moderate | Restate the rarity cell; queue (L110) |
+| 6 | Writings: Ps 137:7 thematic, high | Ps 137:7 also **lexically exclusive** (Edom + ערה) `[S: audit 3]` | Restate at Finalise |
+| 7 | Handoff: Dan 9 "lexically low" | Dan 9:25–26 shares anointed + end + iniquity with 4:18–22, exclusively within five verses — a lexical tie from poem 4, reading-dependent | Note in the Handoff; queue (L105) |
+| 8 | Echo Table | **Add:** 2:14 → 4:22 (exclusive in the Hebrew Bible); 4:15–16 → 4:22 ("no longer"); 3:26 → 4:17 (save); 3:52 → 4:18 (hunt); 1:3 → 4:19–22; 2:17 → 4:21; 4:16 → 5:1 | Add at Finalise |
+| 9 | Binding device: poems 2 and 4 share three exclusive items | **A fourth**: "uncover" + עַל + iniquity/sin (2:14; 4:22) | Add at Finalise |
+| 10 | The Greek section | **Add:** Swete's re-division of 4:17–19; ἐξέλιπον / ἐξέλιπεν; Bar 1:12; the κυρίου plus at 4:21 resembling Hab 2:16 | Add at Finalise |
+| 11 | Christological Trajectory 2 (the cup) and 3 (the anointed) | **Add:** the only passing cup → Gethsemane (contrast); Ezek 21:32 as the canonical answer to the captured anointed | Add at Finalise |
+| 12 | Preaching Traps | **Add:** "It is finished" at 4:22 (Pitfall 2) | Add at Finalise |
+| 13 | Pulpit Notes | **Add:** 4:21 ESV "pass" vs NASB95 "come around"; 2:14 / 4:22 "expose" kept by NASB95, broken by ESV; 4:18 ESV "dogged" | Add at Finalise |
+| 14 | Presenting Situation, *Voices* | Confirmed: the community "we" at 4:17–20. 4:21–22 is not the narrator's description but an address in oracle form | Note at Finalise |
+| 15 | Microscript test, ch. 4: "the term of punishment ended (4:22), the enemy's turn to come" | **Confirmed**, with the rider that 4:22 is declared, and poem 5 still asks | No change |
+
+**The sweep (v1.1), Unit 6.** Confirmed: the גלה pun; the שׂושׂ pair; 4:17 ← 2:11; 4:20 ← 1:3; Ezek 19 as theme; Jer 25 first among the cup texts (now joint first with Jer 14 for 4:21–22). **Extended:** the 2:14 contact is an exclusive construction, not only a shared verb.
+
+---
+
+## Text-First Declaration
+
+**Order of work.** The WLC of poem 4 was read before any English, and 4:17–22 word by word. Every chain and contact was searched in the corpus before the overview's map and the audits were reopened. The sweep's Unit 6, the overview, claim audits 1–5 and the Logos round-2 note (Driver) were consulted only at the checking stage. **No commentary was opened.**
+
+**Reference files.** The core tool files, `preacher-extras.md`, `historical-background.md`, `original-audience.md`, `christological-reading.md`, `textual-variants.md`, `biblical-theology.md` and `difficult-verses.md`, with the worked examples in `_skill-examples/`, were read in this session (for the 1:1–22 dig). That report (v1.2) served as the calibration anchor for depth and register.
+
+**Phase 10.5 gate.**
+
+- **(a) Citation triads.** Full triads for Isa 30:16 (with Isa 30–31) and Ps 137:7, the two moderate–high allusions. Move 1 for the moderate rows. Move 4 for the passage.
+- **(b) N/A reasons.** Schnittjer Pass (not Torah).
+- **(c) Confidence flags.** On every lexical, manuscript and intertextual claim.
+- **(d) `[S]` items checked.** Audit verdicts reproduced where restated (cup + also; cup + "no more"; Edom + ערה; Uz + land). The royal-titles parallel and the historical reconstructions of Edom and Hophra's date are recalled, not checked, and tagged `[S]`.
+- **(e) Ancient versions.** Swete and the Rahlfs export read for every verse; Vulgate and Syriac only as BHS reports them.
+- **(e1) Triage.** Every divergence is assigned (Tool 8): category 1 except 4:18 (category 2, weighed; Hebrew kept, *high*).
+- **(e2) Proper nouns.** Edom, Uz and Zion inventoried. No absence argument is made from a missing name except "the poem names no place and no person" (4:17–20), which is checked against the verse list.
+- **(e3) Chains.** Every chain was verified by lemma in the WLC index, with words that the index files under lettered homograph entries (גּוֹי, עבר, כּוֹס, פקד) searched under the right entry. The two ketivs (4:17; 4:21) were confirmed through the index. **Positive controls passed** for the exclusive searches that returned "only": 2:14 for the "uncover" construction; Isa 26:21 for punish + iniquity + uncover; Luke 2:26 for the SBLGNT search; 1 Sam 24:7 for χριστὸς κυρίου in Swete. **Corrections made before writing:** the "hunt" verb of 1 Sam 24:12 is צדה, a related verb, not צוד; "no more" + Zion is a one-verse count, not a window; "swifter than eagles" in Lam 4:19 uses the adjective, so the Samuel triple is stated with that caveat.
+- **(e4) Apparatus.** The setumot and petuchah are cited "in Leningrad"; the ketivs, the פ/ע order and the BHS proposals as BHS prints them, all `[unchecked — apparatus spread]`, none carrying a headline. Dan 9:24's qere is flagged in Headline 5.
+- **(f) Depth floors.** Five substantial tools (3, 7, 8, 10, 11); five Headline Findings; six Pitfalls.
+- **(g) Calibration.** Comparable in depth to the 1:1–22 dig for a passage a quarter of its length.
+- **(h) Reference files.** As above.
+- **(i) The `[T]` boundary.** Identifications of Egypt, Zedekiah and the Chaldeans are `[I]`; dates, the Edomite reconstruction and the ancient royal titles `[S]`.
+- **(j) Searches stated in words.** Every search is given as words in their own script with a gloss, the edition and the result. Window ranks state their length and frequency ceiling: twenty-verse windows for 4:17–20, ten-verse windows for 4:21–22, sixteen-verse windows for 4:17–22, all with words in at most 300 verses of the Hebrew Bible, the whole canon except Lamentations. The mechanical check found no code, routine names, workspace paths, index numbers or parameter symbols.
+
+**Corpus.** Reachable throughout. Editions: WLC (Hebrew), Swete (Greek OT), the Rahlfs and BHS-apparatus exports (citation of record), SBLGNT (the books held). NA28 not opened; Luke 2:11 is `[unchecked — NA28 apparatus]`.
+
+**Warrant balance.** Most findings rest on `[T]` counts with `[I]` readings. The audit verdicts (`[S: audit]`–`[S: audit 5]`) govern every cup rating, Ezek 19, Jer 4:13 / 2 Sam 1:23 and Ps 137:7. **Eighteen new contacts are unaudited** and are queued as L98–L115 (see the claim-audit queue). Headlines 1 and 5 rest partly on them, so **a claim audit should precede a point-purpose run on poem 4.**

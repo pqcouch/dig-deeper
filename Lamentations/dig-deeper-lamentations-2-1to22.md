@@ -8,7 +8,7 @@
 
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV, declared for this engagement. The export is Crossway's US text; check quoted wording against the ESV Anglicised if that is what the pulpit reads
-**Date:** 10 October 2026 · **Version:** 1.2 (v1.1 patched 10 October 2026 from claim audit 4; v1.2 patched 14 October 2026 from claim audit 5 and Logos round 1; see *What Changed in v1.1* and *v1.2*)
+**Date:** 10 October 2026 · **Version:** 1.3 (v1.1 patched 10 October 2026 from claim audit 4; v1.2 patched 14 October 2026 from claim audit 5 and Logos round 1; v1.3 patched 21 October 2026 from Logos round 2; see *What Changed in v1.1*, *v1.2* and *v1.3*)
 **Mode:** Fresh Exegesis, solo dig. The last of the overview's five ⭐ HIGH units still without a solo dig
 
 **Book-overview context:** In conversation — `Lamentations/book-overview-lamentations.md` **v0.2.1**. Its four threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
@@ -117,10 +117,11 @@ The exegetically strongest claims that emerged across several tools:
 2. **2:17 is the hinge of the poem: what has happened is a word kept, not a city abandoned to chance — said in the grammar of the psalm that laments the fall of David's house.**
    - *The confession.* עָשָׂה יְהוָה אֲשֶׁר זָמָם בִּצַּע אֶמְרָתוֹ אֲשֶׁר צִוָּה מִימֵי־קֶדֶם ("The LORD has done what He purposed; He has accomplished His word which He commanded from days of old"). The set עשׂה ("do") + זמם ("purpose") + צוה ("command") with the divine name occurs only here and at Zech 1:6 `[S: audit 2]`.
    - *The horn.* The poem's first act of the Lord against Israel was to "cut off every horn of Israel" (2:3). Its last act in the narrator's voice is to have "exalted the horn of your adversaries" (2:17). קֶרֶן ("horn") occurs in the book only in these two verses — an observation, not a demonstrated frame.
-   - *Ps 89.* "**You have exalted** the right hand of his adversaries; **You have made** all his enemies **rejoice**" (Ps 89:43 [Eng 89:42]) has the same grammar and the same agent as 2:17: God causes the foe's triumph. Exalt + adversary + rejoice + enemy occur together only in these two verses `[S: audit]`. And Ps 89's lament runs alongside poem 2 at nine points: נאר ("spurn") only at Ps 89:40 and Lam 2:7; "reject" with "spurn" within a verse only there; the strongholds; the right hand; "all who pass along the way"; the crown and the throne cast to the ground. **Ps 89:39–50 is the Psalter's best partner for poem 2** at four of six search settings, and is not for poems 1 or 3 `[S: audit 4]`.
+   - *Ps 89.* "**You have exalted** the right hand of his adversaries; **You have made** all his enemies **rejoice**" (Ps 89:43 [Eng 89:42]) has the same grammar and the same agent as 2:17: God causes the foe's triumph. Exalt + adversary + rejoice + enemy occur together only in these two verses `[S: audit]`. And Ps 89's lament runs alongside poem 2 at nine points: נאר ("spurn") only at Ps 89:40 and Lam 2:7; "reject" with "spurn" within a verse only there; the strongholds; the right hand; "all who pass along the way"; the crown and the throne cast to the ground. **Ps 89:39–50 is the Psalter's best partner for poem 2** at four of six search settings, and is not for poems 1 or 3 `[S: audit 4]`. One more exact adjacency: "profane" + "to the ground" stands only at Ps 74:7, Ps 89:40 [Eng 89:39] ("You have profaned his crown to the ground") and Lam 2:2 (WLC).
+   - *History of interpretation* (v1.3) `[S: Logos 2]`. **Estes (NAC), on Ps 89:42 [Heb 89:43], cites Lam 2:17** — the grammatical contact this headline rests on; the Reformation Study Bible links Lam 2 with Ps 89:38–51; Lalleman on Lam 2 cites Ps 89:39 [Heb 89:40]. (These sources use the English numbering.)
    - *Hannah.* Horn + exalt + rejoice + enemy also occur together at 1 Sam 2:1 — Hannah's "my horn is exalted … I rejoice" — but there the verbs are simple and the horn is her own. A second echo a reader may catch, not the source `[S: audit 4]`.
 
-   *Surfaced by:* Structure, Narrator's Comment, Vocabulary, Tool 11. `[T]` for the wording; `[I]` for the reading. *Confidence: high (wording; Zech 1:6; Ps 89:43); moderate–high (Ps 89 as the poem's Psalter partner); low–moderate (Hannah).*
+   *Surfaced by:* Structure, Narrator's Comment, Vocabulary, Tool 11. `[T]` for the wording; `[I]` for the reading. *Confidence: high (wording; Zech 1:6; Ps 89:43); moderate–high (Ps 89 as the poem's Psalter partner, now with history of interpretation); low–moderate (Hannah).*
 
 3. **The poem turns on a command to pray, and Zion obeys it.**
    - *The command.* 2:18–19 is the only run of imperatives in the poem: "let tears run down … give yourself no relief … let your eyes not rest … arise, cry aloud … pour out your heart like water before the presence of the Lord … lift up your hands to Him **for the life of your little ones**" (עַל־נֶפֶשׁ עוֹלָלַיִךְ).
@@ -135,6 +136,7 @@ The exegetically strongest claims that emerged across several tools:
    - *2 Chr 36:17.* The narrative of the fall says the Chaldean king "slew their young men with the sword in the house of their sanctuary, and had no compassion on young man or virgin, old man or infirm; He gave them all into his hand". הרג ("kill") + בָּחוּר ("young man") + חֶרֶב ("sword") + לֹא חָמַל ("did not spare") + בְּתוּלָה ("virgin") + זָקֵן ("old man") occur together **only at Lam 2:21 and 2 Chr 36:17**. It is one of only two verse contacts in the book sharing six or more words with a single partner (the other is 2:18 with Jer 14:17) — **an outlier for Lamentations, but not a quotation** `[S: audit 4]`.
    - *What it rests on.* Half the six words — young man, virgin, old man — are a stock list (six verses). The core is **"killed … did not spare"**, in five verses only, one of them Lam 3:43, where the community repeats Zion's words; and **the killing in the sanctuary** (2:20), found elsewhere only at Ezek 9:6 and 2 Chr 36:17 `[S: audit 4]`.
    - *Ezek 9:6.* The Lord's executioners are told to "utterly slay old men, young men, maidens, little children, and women … and start from My sanctuary". Killing + women + sanctuary within a verse either side occurs **only at Ezek 9:6 and Lam 2:20–21** — evidence independent of Chronicles `[S: audit 4]`.
+   - *History* (v1.3). No commentator was found who pairs Lam 2:21 with 2 Chr 36:17. Keil and Delitzsch derive 2 Chr 36:17 from the prophets — Jer 15:1–9; 32:3–4; **Ezek 9:6**; ultimately **Deut 32:25** — the same rivals audit 4 named; BDB treats "young men and virgins" as a formula `[S: Logos 2]`. That fits, but does not prove, the Chronicler's knowing the language Lamentations uses; the direction stays open.
    - *What it does.* The canon tells the same slaughter three ways: as the Lord's command (Ezekiel), as the Chaldean's act with the Lord handing them over (Chronicles), and as the Lord's own deed, said to his face (Lamentations). **Lamentations alone says "You".**
 
    *Surfaced by:* Tool 11, Historical Background, Difficult Verses, Repetition (לֹא חָמַל). `[T]` for the wording; the direction of dependence is open throughout. *Confidence: moderate–high (2 Chr 36:17); moderate (Ezek 9:6).*
@@ -1033,3 +1035,19 @@ Patched 14 October 2026 from **claim audit 5** (`dig-deeper-lamentations-claim-a
 | Open Questions 2, 6 | the 2:19 span open | closed |
 
 **Unchanged:** Headlines 1, 2 and 4; the thirty verbs; Ps 89 as the principal Psalter partner; 2 Chr 36:17; the translations; the pitfalls. Point-purpose on 2:1–22 may proceed on these verdicts.
+
+---
+
+## What Changed in v1.3
+
+Patched on 21 October 2026 from **Logos round 2** (`claude/lamentations-logos-answers-round-2-assessment.md`), every answer checked against the corpus. Tagged `[S: Logos 2]`. Headlines 2 and 4 are revised in place; the other changes are recorded here and **govern the sections named**, which are otherwise left as written.
+
+| Place | v1.2 | v1.3 |
+|---|---|---|
+| Headline 2 (Ps 89) | moderate–high; history not checked | **history present**: Estes (NAC) on Ps 89:42 cites Lam 2:17; the Reformation Study Bible; Lalleman (Ps 89:39); **add** "profane" + "to the ground" adjacent only Ps 74:7; 89:40; Lam 2:2 |
+| Headline 4 (2 Chr 36:17) | moderate–high; direction open | **history: not found for the pair**; K&D derive 2 Chr 36:17 from Ezek 9:6 and Deut 32:25; rating and open direction unchanged |
+| Textual Variants and Open Questions, 2:18a | "their heart cried out" — question open | **closed**: NET sets out the problem; BHS and many critics (RSV, NEB, NAB, JB) emend to the imperative צַעֲקִי ("cry out!"); a precative perfect is the alternative; K&D defend the MT. **The forms are second feminine singular** (הוֹרִידִי, אַל־תִּתְּנִי, and the proposed צַעֲקִי), addressed to the feminine "wall of the daughter of Zion" — not masculine, as the answer said. The ESV and NASB95 both keep the MT. **Headline 3 stands on either reading**: on the MT the commands begin at "let your tears run down"; on the emendation 2:18 itself opens with "Cry out!" |
+| Tool 11, 2 Chr 36:17 | — | possible further check (not run): Jer 15:7–9 (bereave, sword, widows, young men) against 1:20; 2:21 |
+
+**Unchanged:** Headlines 1 and 3; the thirty verbs; Ezek 9:6; the joy-call inversion; the pulpit notes. Point-purpose on 2:1–22 may proceed on these verdicts.
+

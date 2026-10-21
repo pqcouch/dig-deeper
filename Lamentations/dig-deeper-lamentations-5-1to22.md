@@ -8,7 +8,7 @@
 
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV, declared for this engagement. The export is Crossway's 2025 US text; check any quoted wording against the ESV Anglicised if that is what the pulpit reads.
-**Date:** 4 October 2026 · **Version:** 1.1 (patched 4 October 2026 from claim audit 3; see *What Changed in v1.1*)
+**Date:** 4 October 2026 · **Version:** 1.2 (v1.1 patched 4 October 2026 from claim audit 3; v1.2 patched 21 October 2026 from claim audit 4's note and Logos rounds 2–3; see *What Changed in v1.1* and *v1.2*)
 **Mode:** Fresh Exegesis, solo dig — Solo-Dig Priority 2 of the sweep (Unit 7)
 
 **Book-overview context:** `Lamentations/book-overview-lamentations.md` **v0.2.1**, in conversation. Its threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
@@ -66,7 +66,7 @@ The exegetically strongest claims that emerged across multiple tools:
 
    **The verbal partners** `[S: audit 3]`:
    - **5:22b ~ Isa 64:8 [Eng 64:9]** — קצף ("be angry") + עַד ("to") + מְאֹד ("very"): "do not be **exceedingly angry**, O LORD" / "you are **exceedingly angry** with us". Exclusive. Isa 64 is the first of 858 chapters against Lam 5 in both scans.
-   - **5:22a ~ Jer 14:19** — the doubled מאס ("utterly reject"), with God as subject. Exclusive. Jer 14:20–21 adds the fathers' iniquity, "we have sinned", the throne and "remember" (5:1, 7, 16, 19).
+   - **5:22a ~ Jer 14:19** — the doubled מאס ("utterly reject"), with God as subject: the infinitive absolute with the finite verb of מאס stands **only at Jer 14:19 and Lam 5:22** (WLC). **v1.2 — history:** Schnittjer (*Old Testament Use of Old Testament*, 610) sets the two side by side, "suggesting the poet of Lamentations had an eye on the context of Jeremiah 14" — the clearest statement of the majority view (with Lalleman and Salters) that Lamentations knows Jeremiah's language. The direction is still not settled in the commentaries (Driver notes a different standpoint at 4:17) `[S: Logos 2; Logos 3]`. Jer 14:20–21 adds the fathers' iniquity, "we have sinned", the throne and "remember" (5:1, 7, 16, 19).
 
    **Isa 54 — what v1.0 claimed, and what stands.** Poem 5 speaks to the LORD with seven roots:
 
@@ -132,7 +132,7 @@ The exegetically strongest claims that emerged across multiple tools:
      - **Ps 102:13 [Eng 102:12]** — יְהוָה + עוֹלָם + ישׁב + דּוֹר ("LORD … for ever … abide … generation"): **only Ps 102:13 and Lam 5:19**. *High.*
      - **Ps 89:5 [Eng 89:4]** — כִּסֵּא ("throne") + דּוֹר וָדוֹר + עוֹלָם: exclusive. In the psalm the throne is David's; here it is the LORD's. *Moderate–high.*
      - **Ps 93:2** — "you" + "for ever" + "throne": exclusive. *Moderate–high.*
-     - **Joel 4:20 [Eng 3:20]** — "Judah shall **abide for ever**, and Jerusalem **to generation and generation**": the pair said of a *place*. *Moderate.*
+     - **Joel 4:20 [Eng 3:20]** — "Judah shall **abide for ever**, and Jerusalem **to generation and generation**": the pair said of a *place*. **v1.2: low–moderate** — a formula companion only; Ps 102:13 stays first (high) `[S: audit 4]`.
      - *v1.0's Ps 125:1 ("Mount Zion … abides for ever") is lowered to low as an allusion; it remains a thematic parallel.*
 
    - **Surfaced by:** Structure, Tool 11, Move 4 (1:1 "she sits alone" → 5:19 "you sit for ever"), Original Audience (4:12).
@@ -605,7 +605,7 @@ In Jeremiah that prayer is refused (15:1). **Lam 5 prays it again after the refu
 
 - **Ps 89:5 [Eng 89:4] → 5:19** *(v1.1)* — כִּסֵּא + דּוֹר וָדוֹר + עוֹלָם, exclusive. David's throne in the psalm; the LORD's here. *Moderate–high* `[S: audit 3]`.
 
-- **Joel 4:20 [Eng 3:20] → 5:19** *(v1.1)* — "Judah shall abide for ever, and Jerusalem to generation and generation". *Moderate* `[S: audit 3]`.
+- **Joel 4:20 [Eng 3:20] → 5:19** *(v1.1; v1.2)* — "Judah shall abide for ever, and Jerusalem to generation and generation". *Low–moderate*, a formula companion of Ps 102:13 `[S: audit 4]`.
 
 - **Ps 102:13 [Eng 102:12] → 5:19** — near-verbatim `[S: audit]`.
   - Move 1: the title reads "A prayer **of one afflicted** (לְעָנִי), when he faints and pours out his complaint (שִׂיחוֹ) before the LORD".
@@ -1244,3 +1244,17 @@ Patched on 4 October 2026 from `dig-deeper-lamentations-claim-audit-3.md`. Nothi
 | Tool 11 | Isa 54 (high/moderate–high); Isa 53:11 (high); Jer 31 order; Amos 8 (moderate–high); Ps 125 (moderate–high); Ps 44 (moderate–high); Ps 89 "three points incl. 3:22" | Isa 54 moderate (counterpart); Isa 53:11 low; order withdrawn; Amos 8 low–moderate; Ps 125 low; Ps 44 low–moderate; **Ps 89 at 2:7, 2:17, 5:1, 5:19**; **Ps 89:5 and Joel 4:20 added**; Ps 102:13 high |
 | Christological Reading | Isa 53:11 the strongest verbal datum | Jer 31:31–34 the most secure route; **Ps 102 → Heb 1:10–12 added**; Isa 53:11 reflection |
 | Convergent 1–4, 8; Tensions 1, 2, 6 | as above | revised to match |
+
+---
+
+## What Changed in v1.2
+
+Patched on 21 October 2026 from claim audit 4's note for this dig and the Logos rounds that bear on it. Tagged `[S: audit 4]`, `[S: Logos 2]`, `[S: Logos 3]`. Nothing else in the report was altered.
+
+| Place | v1.1 | v1.2 |
+|---|---|---|
+| Headline 1 (5:22a ~ Jer 14:19) | exclusive; direction open | the construction (infinitive absolute + finite מאס) **only Jer 14:19 and Lam 5:22**; **history: Schnittjer (*OTUOT* 610)** — the poet "had an eye on the context of Jeremiah 14"; with Lalleman and Salters, the majority view; direction still unsettled in the commentaries |
+| Headline 4 and Tool 11 (5:19) | Joel 4:20 moderate | **Joel 4:20 low–moderate**, a formula companion; Ps 102:13 first (high) `[S: audit 4]` |
+
+**Unchanged:** the Headlines' audited verdicts from v1.1 (Isa 64:8; Jer 31:13, 18; Jer 14:20; Ps 102:13; the frame of address; the reversal of poem 2); the pulpit notes; the 5:22 crux. Point-purpose on 5:1–22 may proceed on these verdicts.
+

@@ -8,7 +8,7 @@
 
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV, declared for this engagement. The export is Crossway's US text; check quoted wording against the ESV Anglicised if that is what the pulpit reads
-**Date:** 13 October 2026 · **Version:** 1.2 (v1.1 patched 14 October 2026 from claim audit 5; v1.2 the same day from Logos round 1; see *What Changed in v1.1* and *v1.2*)
+**Date:** 13 October 2026 · **Version:** 1.3 (v1.1 patched 14 October 2026 from claim audit 5; v1.2 the same day from Logos round 1; v1.3 patched 21 October 2026 from Logos round 2; see *What Changed in v1.1*, *v1.2* and *v1.3*)
 **Mode:** Fresh Exegesis, solo dig. Poem 1 had only the sweep's unit until now; it is the last of Option A's ⭐ HIGH poems to receive a solo dig (the sweep's Solo-Dig Priority 4, whose three test items are answered under Tool 11, Tool 7 and *Difficult Verses*)
 
 **Book-overview context:** In conversation — `Lamentations/book-overview-lamentations.md` **v0.2.1**. Its four threads were front-loaded at Phase 0.5 and reconciled at Phase 5.5.
@@ -142,9 +142,10 @@ The exegetically strongest claims that emerged across several tools:
    - *"My lovers".* At 1:2 the narrator says אֹהֲבֶיהָ ("those who love her", the plain participle). At 1:19 Zion herself says מְאַהֲבַי ("my lovers"), the intensive participle. That form occurs in sixteen verses of the Hebrew Bible: all in Jeremiah, Ezekiel and Hosea (with Zech 13:6), and Lam 1:19 (WLC). It is the prophets' word for Israel's illicit partners. The Greek keeps the difference: ἀγαπώντων at 1:2, ἐραστάς ("lovers") at 1:19. `[T]`
    - *The pursuit.* "All her pursuers have overtaken her … she has found no rest" (1:3). Pursue + overtake is battlefield idiom (14 verses), but **with "find" it occurs only at Hos 2:9 [Eng 2:7] and Lam 1:3, in the Hebrew and in the Greek**: "She will pursue her lovers, but she will not overtake them; and she will seek them, but will not find them" (WLC). The roles are reversed: the wife who chased her lovers is now the one chased. Hos 2 is 1:3's best partner verse and the 14th–15th of 858 chapters for poem 1, and it recurs — the lovers participle five times, the nakedness, the ended feasts `[S: audit 5]`. Deut 28:65, 45 remains the closer source for the curse colour of 1:3 `[S: audit]`.
    - *Jeremiah.* "All her friends have dealt treacherously with her" (כָּל־רֵעֶיהָ בָּגְדוּ בָהּ, 1:2): deal treacherously + companion stand in one verse only at Jer 3:20 and Lam 1:2, but in four passages at a verse either side, and the Greek loses it — a weak tie `[S: audit 5]`. **Jer 30:12–17 is the closer Jeremian partner**: "all your lovers have forgotten you", "for the multitude of your iniquity" (עַל רֹב עֲוֺנֵךְ; cf. 1:5 עַל רֹב־פְּשָׁעֶיהָ), "your pain" (מַכְאֹבֵךְ; cf. 1:12, 18), "I have done these things to you" (cf. 1:21). The lovers participle with "pain" within a verse: Jer 30:14–15 and Lam 1:19 only (WLC) `[S: audit 5]`.
+   - *History of interpretation* (v1.3) `[S: Logos 2]`. MacKay reads "like a widow" (1:1) through Hosea's and Jeremiah's broken marriage (Jer 3:8; Hos 2:2) — "it is her relationship with the LORD that underlies the poet's probing" — and Lalleman follows Renkema in the same direction. On 1:2 both read "all her lovers" with Jer 4:30; 30:14 and Hos 2:5–8. **MacKay notices the form of "lovers" at 1:19 independently** ("more clearly an improper relationship", citing Jer 22:20; 30:14; Ezek 16:33, 36; 23:5, 9, 22; Hos 2:7–15) — the two partners rated highest here, Jer 30 and Hos 2, are in his list. History is present for the field; it does not single out Hos 2:9 or Jer 3:20, so the ratings stand.
    - *A note on the Greek.* At 1:19 the Greek adds καὶ οὐχ εὗρον ("and they did not find") after "they sought food" (BHS records the plus). With ἐραστάς in the same verse it resembles Hos 2:7 in Greek — but seek + "did not find" closes a sentence in 28 verses of Swete, and 1:3 and 1:6 already supply it in the poem. Idiom or harmonisation explains it as well. *Low* `[S: audit 5]`.
 
-   *Surfaced by:* Vocabulary, Translations, Tool 11, Original Languages. `[T]` for the wording; the direction of dependence is open throughout. *Confidence: high (the form); **moderate–high (Hos 2:9)**; moderate (Jer 30:12–17); low–moderate (Jer 3:20); low (the Greek plus)* `[S: audit 5]`.
+   *Surfaced by:* Vocabulary, Translations, Tool 11, Original Languages. `[T]` for the wording; the direction of dependence is open throughout. *Confidence: high (the form); **moderate–high (Hos 2:9)**; moderate (Jer 30:12–17); low–moderate (Jer 3:20); low (the Greek plus)* `[S: audit 5]`. History of interpretation: present for the marriage-and-lovers field (MacKay; Lalleman) `[S: Logos 2]`.
 
 5. **Two echoes run from poem 1 into the rest of the book: "great" and "turned back".**
    - *Great.* The poem opens with רַבָּתִי ("great") twice — "great with people … great among the nations" (1:1) — and closes with רַבּוֹת ("many"): "for my groans are many" (1:22). The adjective occurs in the book only in these two verses and at 3:23: רַבָּה אֱמוּנָתֶךָ ("great is Your faithfulness"). The noun רֹב ("multitude") occurs only at 1:3 ("much servitude"), 1:5 ("the multitude of her transgressions") and 3:32 ("the multitude of His lovingkindness") (WLC). `[T]`
@@ -903,3 +904,23 @@ Patched 14 October 2026 from **Logos round 1** (`claude/lamentations-logos-answe
 | Book-Overview Tensions 8, 9 | — | the 1:14 row, the "1:8, 9, 17" correction, Ps 44 |
 
 **Not changed:** the headlines, the passage, the ESV notes and the audit-5 ratings.
+
+---
+
+## What Changed in v1.3
+
+Patched on 21 October 2026 from **Logos round 2** (`claude/lamentations-logos-answers-round-2-assessment.md`), every answer checked against the corpus. Tagged `[S: Logos 2]`. Headline 4 is revised in place; the other changes are recorded here and **govern the sections named** (Textual Variants, Tool 8, Tool 11, Open Questions), which are otherwise left as written.
+
+| Place | v1.2 | v1.3 |
+|---|---|---|
+| Headline 4 (the lovers) | history: none found (round 1) | **history present for the field**: MacKay (1:1 through Hos 2 and Jer 3; the 1:19 "lovers" form noticed independently, with Jer 30:14 and Hos 2:7–15); Lalleman (with Renkema). Ratings unchanged |
+| Textual Variants, 1:4 | BHS recommends נְהוּגוֹת ("led away"); the Greek reads so | **the MT "grieving" is kept**: Ellison (for its parallelism) and the Cornerstone commentary (the niphal of יגה beside the hiphil at 1:5); no modern commentator found adopting "led away". The יגה chain keeps 1:4 as its first member (1:4, 5, 12 → 3:32–33). Open Question 8 closed |
+| Tool 11, Zeph 3:18 at 1:4 | uncertain (the BHS reading) | **low–moderate**: grieving + appointed feast only Zeph 3:18 and Lam 1:4, the Bible's only two niphal participles of יגה; but the Greek loses the link at both ends, and Isa 61:2–3 is the stronger answer to 1:4 `[S: audit 5]` |
+| Tool 11, new row | — | **Hos 11:8 at 1:20–21** — נֶהְפַּךְ … לִבִּי ("my heart is turned over"): Hos 11:8 and Lam 1:20; with the comfort root within a verse (Hos 11:8 נִחוּמָי; Lam 1:21 מְנַחֵם), only Hos 11:8 and Lam 1:20–21 (WLC). In Hosea it is God's heart that turns and God's compassion that is kindled; at 1:20–21 Zion's heart turns and no comforter comes. History: Keil and Delitzsch. *Low–moderate to moderate*, untested (queue L97) |
+| Textual Variants, 1:14 | the manuscript spread open | **closed as far as the library goes**: "some" (Lexham), "several" (Gesenius), "many … and the Bomberg edition" (HALOT) read נִשְׁקַד עַל ("watched over"); no count; the versions named go beyond the BHS export. Keep the MT's yoke; the 1:14 → 3:27 chain stays moderate and reading-dependent |
+| Tool 8 / Original Languages, 1:3 | מִן ("from") | Lalleman: temporal or causal — the affliction came before, or caused, the exile — which supports the ESV's "because of" |
+| Original Languages, 1:20 | the intensifying constructions | K&D read מָרוֹ as the infinitive absolute ("I have been *very* rebellious"), like בָּכוֹ (1:2) — agreeing with the dig |
+| Open Questions | 1:4; 1:14; history for Hos 2 / Jer 30 | closed (above) |
+
+**Unchanged:** Headlines 1–3 and 5; the refrain count (four); the exodus colouring; the pulpit notes. Point-purpose on 1:1–22 may proceed on these verdicts.
+

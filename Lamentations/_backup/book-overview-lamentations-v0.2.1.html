@@ -1,0 +1,1603 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Overview: Lamentations</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#book-overview-lamentations">Book Overview: Lamentations</a></li>
+    <li><a href="#what-this-document-is">What this document is</a></li>
+    <li><a href="#canonical-position">Canonical Position</a></li>
+    <li><a href="#presenting-situation">Presenting Situation</a></li>
+    <li><a href="#the-greek-text-of-lamentations">The Greek Text of Lamentations</a></li>
+    <li><a href="#structural-arc-map">Structural Arc Map</a></li>
+    <li><a href="#microscript">Microscript</a></li>
+    <li><a href="#intertextual-map">Intertextual Map</a></li>
+    <li><a href="#christological-trajectory">Christological Trajectory</a></li>
+    <li><a href="#preaching-traps">Preaching Traps</a></li>
+    <li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
+    <li><a href="#pulpit-notes-esv-against-nasb95">Pulpit Notes — ESV against NASB95</a></li>
+    <li><a href="#preaching-units">Preaching Units</a></li>
+    <li><a href="#what-changed-in-v0.2.0-and-v0.2.1">What Changed in v0.2.0 and v0.2.1</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="book-overview-lamentations">Book Overview: Lamentations</h1>
+<p><strong>Version:</strong> 0.2.1 (interim upgrade; patched 4 October 2026) <strong>Primary texts:</strong> WLC Hebrew (<code>_texts/hebrew-wlc/03-Ketuvim/07-Lamentations.txt</code>, lemma index alongside); Swete LXX (<code>_texts/greek-lxx-swete/45-Lamentations.txt</code>); the Logos exports as citation of record — BHS text and BHS apparatus (<code>logos-exports/01-Old-Testament/03-Ketuvim/07-Lamentations-BHS*.txt</code>) and Rahlfs LXX (<code>07-Lamentations-LXX.txt</code>); SBLGNT for the New Testament searches, with the NA28 exports as citation of record <strong>Study text:</strong> NASB95 (Logos export, 1995 edition) <strong>Pulpit text:</strong> ESV, declared for this book (3 October 2026). The corpus export is Crossway’s 2025 US text; if the pulpit reads the ESV Anglicised, check any wording quoted below against it <strong>Genre:</strong> Five poems of lament over the fall of Jerusalem — four alphabetic acrostics (chs 1–4) and a closing communal prayer of twenty-two verses (ch. 5) <strong>Mode:</strong> Upgrade (interim) — the v0.1.0 Draft revised against the claim audit of 3 October 2026 (<code>dig-deeper-lamentations-claim-audit.md</code>, eleven claims). No dig-deeper runs or macro-synthesis yet <strong>Date:</strong> 3 October 2026 <strong>Sweep status:</strong> No dig-deeper runs yet — the whole-book sweep runs against this version (v0.2.0) <strong>Scope:</strong> The whole book: 5 chapters, 154 verses (WLC)</p>
+<p>Warrant tags: <code>[T]</code> observable on the page of Lamentations · <code>[I]</code> reasonable inference from the text · <code>[S]</code> supplied by a secondary source or by tradition, held provisionally · <code>[S: audit]</code> a verdict of the claim audit of 3 October 2026, accepted as settled.</p>
+<p><strong>Versification.</strong> Lamentations has the same numbering in Hebrew and English. References to other books are given in <strong>English numbering, with the Hebrew in brackets where it differs</strong> (for example Ps 22:7 [Heb 22:8]). Every count was made on the Hebrew.</p>
+<hr />
+<h2 id="what-this-document-is">What this document is</h2>
+<p>This is the whole-book planning layer for Lamentations. It exists to make the passage digs sharper, not to settle them in advance.</p>
+<p>Three features of the book shape everything below, and they are stated here so that no later section quietly forgets them.</p>
+<ol type="1">
+<li><strong>The form is the first datum.</strong> Four of the five poems are alphabetic acrostics, and the fifth has exactly twenty-two verses but no acrostic. Nothing in the book is more certain than its form, and an overview that treats the form as decoration has missed the first thing the text says. <code>[T]</code></li>
+<li><strong>God never speaks — with one exception.</strong> The whole book is addressed <em>about</em> God or <em>to</em> God. The only words of God quoted in it are two words remembered in the past tense: אַל־תִּירָא (“Do not fear!”, 3:57). <code>[T]</code></li>
+<li><strong>The book does not resolve.</strong> It ends on כִּי אִם־מָאֹס מְאַסְתָּנוּ (“unless You have utterly rejected us”, 5:22). Any reading that makes 3:22–24 the book’s last word has to explain why the book itself does not end there. <code>[T]</code></li>
+</ol>
+<p><strong>Version 0.2.0</strong> applies the claim audit of 3 October 2026. Every change is listed in <em>What Changed in v0.2.0 and v0.2.1</em>, near the end of this document. <strong>Version 0.2.1</strong> (4 October 2026) corrects two factual errors found by claim audit 2 (<code>dig-deeper-lamentations-claim-audit-2.md</code>): the Ezek 19 rarity cell and the Nah 3:7 ~ 2:13 contact. Audit 2’s other re-ratings wait for the Finalise pass.</p>
+<ul>
+<li>Its verdicts are taken as settled and tagged <code>[S: audit]</code>.</li>
+<li>Its biggest correction is to the Intertextual Map: Jeremiah 14 now stands at the head of it, and the design claims of v0.1.0 (a concentric frame, a Daniel handoff, Ps 89 “six times”, “the densest answer in the canon”) have been reframed.</li>
+<li>Single exclusive links were the overview’s reliable claims; patterns were not. The map now carries rarity counts and rivals so the difference is visible.</li>
+</ul>
+<hr />
+<h2 id="canonical-position">Canonical Position</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td><strong>Ketuvim</strong>, among the five <strong>Megilloth</strong>. In the BHS order it stands seventh in the Writings: after Ecclesiastes, before Esther. In the English Bible it follows Jeremiah — the order of the Greek, where Swete prints it after Jeremiah and Baruch and before the Epistle of Jeremiah. <code>[T]</code> for both orders as printed. The Talmud’s order (<em>B. Bat.</em> 14b) is different again <code>[S]</code>.</td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>Read in the Writings, Lamentations is an <strong>anonymous</strong> voice of the worshipping community, set among the books of prayer and wisdom (Psalms, Job) and beside the other Megilloth. Read after Jeremiah, it becomes the prophet’s own postscript to his prophecy. <strong>The Hebrew canon does not make that connection; the Greek does</strong> (see <em>The Greek Text of Lamentations</em>). Both placements are real and the difference is worth naming in the pulpit, because the English reader hears “Jeremiah” before a word of the book is read. <code>[I]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td><strong>The event</strong>, which the book never narrates: the siege, famine, breach and flight of 2 Kgs 25:1–7 (the pursuit, 25:5, = Jer 39:5; 52:8 — with רדף, “pursue”, at Lam 4:19); told again at 2 Chr 36:17–20, which shares more rare vocabulary with Lam 1–2 than all but five chapters of the canon. <strong>The covenant curses</strong>, two of them echoed exclusively: Deut 28:50 (no respect for the old, no favour to the young; Lam 4:16) and 28:65, 45 (no rest among the nations; pursued and overtaken; Lam 1:3); with 28:44 (the foe as head; Lam 1:5) and the siege-cannibalism curse of Lev 26:29; Deut 28:53; Jer 19:9 (Lam 2:20) <code>[S: audit]</code>. <strong>The prophets of the fall</strong>, Jeremiah above all: Jer 14:17, 19 (Lam 2:13, 18; 3:48; 5:22) and Jer 8:21 (Lam 2:11). <strong>The assembly law</strong> of Deut 23:3 [Heb 23:4] (Lam 1:10). <strong>The leper’s cry</strong> of Lev 13:45 (Lam 4:15, where it is turned on the defiled priests and prophets). <strong>Respect for the old</strong>, Lev 19:32 (Lam 5:12). <strong>The divine character</strong> of Exod 34:6–7 (Lam 3:22, 32; 5:7). <strong>Sodom</strong>, Gen 19:24–25 (Lam 4:6). <strong>The temple warning</strong>, 1 Kgs 9:8 (Lam 2:15). <strong>Zion’s beauty</strong>, Ps 48:2 [Heb 48:3] (Lam 2:15). <strong>Every reference in this field has been checked against the WLC lemma index</strong> (see the Colophon). <code>[T]</code> for the wording; <code>[I]</code> that these are presupposed rather than coincident</td>
+</tr>
+<tr class="even">
+<td><strong>Handoff</strong></td>
+<td>Lamentations ends asking whether God has rejected his people (5:20–22). In canonical order, the confessional prayers that follow in the Writings — <strong>Dan 9</strong> above all, then Ezra 9 and Neh 9 — take up the question <strong>thematically</strong>: confession over a desolate Jerusalem, and an appeal to God’s “great compassion” (Dan 9:18). <strong>The link is not lexical.</strong> On the claim audit’s measure, Dan 9 ranks near the bottom of the confession family for shared wording, and its “open Your eyes and see” is Hezekiah’s formula (2 Kgs 19:16 = Isa 37:17). Lamentations’ closest lexical partners in confession are Isa 63–64, Ps 74, Ps 89 and Jer 14 <code>[S: audit]</code>. Esther, next door, shows the people living בַּגּוֹיִם (“among the nations”, Lam 4:20) under a foreign king, with God unnamed. <code>[I]</code> <em>Confidence: moderate (Daniel, thematic); low (Daniel, lexical); moderate (Esther).</em></td>
+</tr>
+<tr class="odd">
+<td><strong>Neighbours</strong></td>
+<td><strong>Ecclesiastes before, Esther after.</strong> One small lexical touch with the book before: Ecclesiastes’ keyword הֶבֶל (“vapour, futility”) appears once in Lamentations, at 4:17 (“our help was useless”). Whether the adjacency is doing work is <em>uncertain</em>. The touch with Esther is thematic (exile, a hidden God, Edom — Haman is an Agagite, and Amalek descends from Esau, Gen 36:12), <em>uncertain</em>. In Leningrad itself the Ketuvim open with Chronicles (<code>_texts/README.md</code>); that the sequence Ecclesiastes–Lamentations–Esther is the same there is recalled, not checked <code>[S]</code>. The neighbour readings are <code>[I]</code>.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>One further canonical fact, worth holding in view throughout.</strong> In the BHS order <strong>Job stands five books earlier</strong> in the same section.</p>
+<ul>
+<li><strong>Four exclusive images.</strong> Job 16, 19 and 30 share them with Lamentations. Target and kidneys at 3:12–13; the taunt-song at 3:14; cheek and reproach at 3:30; the crown of the head at 5:16. Each pair occurs in only two verses of the Hebrew Bible: the Job verse and the Lamentations verse.</li>
+<li><strong>Not the frame.</strong> Lam 3 has equally exclusive contacts with Jer 20:7, Isa 50:6 and Pss 77, 88 and 143, and by density Job is a mid-band partner. <strong>Lam 3 is a mosaic.</strong> <code>[S: audit]</code></li>
+<li><strong>Uz.</strong> Lam 4:21 names “the land of Uz” (עוּץ, “Uz”), otherwise Job’s homeland (Job 1:1) and an Edomite clan (Gen 36:28). It is better read with Jer 25:20, where Uz stands in the cup oracle beside Edom. <code>[T]</code></li>
+</ul>
+<hr />
+<h2 id="presenting-situation">Presenting Situation</h2>
+<p><strong>Author.</strong> The Hebrew book is <strong>anonymous</strong>. It has no superscription and never names Jeremiah or any other author. <code>[T]</code> — verified: the name יִרְמְיָהוּ (“Jeremiah”) does not occur in Lamentations, with a positive control on the same search returning 117 verses of Jeremiah. The attribution to Jeremiah comes from the <strong>Greek prologue</strong> to 1:1 in Swete (Vaticanus): “after Israel was taken captive and Jerusalem laid waste, Jeremiah sat weeping and lamented this lament over Jerusalem”. <code>[T]</code> <em>for Swete</em>; <code>[S]</code> <em>as authorship</em>. The Talmud (<em>B. Bat.</em> 15a) and many commentators follow it; 2 Chr 35:25 says that Jeremiah lamented Josiah and that the laments “are written in the Laments” (הַקִּינוֹת, “the laments”) — a statement about laments for Josiah, not about this book. <code>[T]</code> <em>for what Chronicles says</em>; <code>[S]</code> <em>for the identification</em>. The NASB95 export is titled “The Lamentations of Jeremiah” and heads chapter 3 “Jeremiah Shares Israel’s Affliction”; both are editorial. <code>[T]</code> <em>for the export</em>.</p>
+<p><strong>Voices within the book.</strong> The book speaks in several voices, and identifying them is half of reading it: <code>[T]</code></p>
+<ul>
+<li>a <strong>narrator</strong> who describes Zion in the third person (1:1–11b; 1:17; 2:1–12; 4:1–16);</li>
+<li><strong>Zion herself</strong>, personified as a woman, speaking in the first person (1:9c, 11c–16, 18–22; 2:20–22);</li>
+<li>the narrator <strong>turning to address Zion</strong> in the second person (2:13–19);</li>
+<li><strong>the man</strong>, הַגֶּבֶר (“the man”, 3:1), speaking as “I” (3:1–39, 48–66);</li>
+<li>a <strong>community “we”</strong> (3:40–47; 4:17–20; the whole of ch. 5).</li>
+</ul>
+<p><strong>Occasion.</strong> The fall of Jerusalem: siege and famine (2:11–12, 19–20; 4:3–10; 5:9–10), the breach and burning (2:3–9; 4:11–12), the temple violated and the feasts ended (1:4, 10; 2:6–7), the king captured in flight (4:19–20), exile (1:3, 5, 18; 4:22), and Edom’s gloating (4:21–22). <code>[T]</code> That this is the Babylonian destruction of 587/586 BC is a <strong>near-certain inference, not a statement</strong>: <strong>the book never names Babylon, the Chaldeans or Nebuchadnezzar</strong> (all three verified absent, each with a positive control in Jeremiah). The only nations it names are Egypt and Assyria (5:6) and Edom (4:21–22). <code>[T]</code> for the absence; <code>[I]</code> for the date, <em>confidence high</em>. <strong>The silence is theological before it is historical: the agent the book names is the LORD.</strong> <code>[I]</code></p>
+<p><strong>Date of composition.</strong> Unknown. The vividness of chs 2 and 4 and the land-bound “we” of ch. 5 (5:2–18, the people under foreign servants in their own land) fit a date soon after the fall; nothing in the book requires the return from exile, and 5:20–22 assumes none. <code>[I]</code>, <em>confidence moderate</em>. A date between 586 and c. 520 is the usual range <code>[S]</code>.</p>
+<p><strong>Audiences.</strong></p>
+<ul>
+<li><em>Narrative world:</em> the survivors — in the land (ch. 5) and in exile (1:3; 4:15, 20). <code>[T]</code></li>
+<li><em>Compositional:</em> a worshipping community that needed words for the catastrophe. That the poems were used in public mourning is likely (cf. Zech 7:3–5; 8:19, fasts in the fifth month) <code>[I]</code>, <em>moderate</em>; the later reading at the Ninth of Av is <code>[S]</code>.</li>
+<li><em>Canonical:</em> the reader of the Writings, who arrives with the Torah’s curses, the Prophets’ warnings and the Psalter’s laments in the ear. <strong>This is the audience this overview reads for.</strong> <code>[I]</code></li>
+</ul>
+<p><strong>Pressure.</strong> How can the covenant people speak to the God who has become their enemy? <code>[I]</code> The book holds three things together and will not let any of them go:</p>
+<ol type="1">
+<li><strong>The LORD has done this.</strong> “The Lord has become like an enemy” (2:5); “The LORD has done what He purposed” (2:17). <code>[T]</code></li>
+<li><strong>The LORD is right to have done it.</strong> “The LORD is righteous; for I have rebelled against His command” (1:18); “We have transgressed and rebelled” (3:42); “Woe to us, for we have sinned!” (5:16). <code>[T]</code></li>
+<li><strong>What has been done is beyond bearing, and he must be told so.</strong> “See, O LORD, and look! With whom have You dealt thus? Should women eat their offspring?” (2:20). <code>[T]</code></li>
+</ol>
+<p><strong>Purpose.</strong> To give a ruined people ordered words — confession, protest, memory and petition — with which to keep addressing the LORD when he is silent, because his חֶסֶד (“lovingkindness”) is not exhausted and his throne endures (3:22; 5:19). <code>[I]</code></p>
+<hr />
+<h2 id="the-greek-text-of-lamentations">The Greek Text of Lamentations</h2>
+<p>The Greek differs from the Hebrew at points that matter for preaching, and they are gathered here once. <strong>Swete</strong> is the observation layer (Vaticanus, diplomatic); the <strong>Rahlfs</strong> export is cited where they differ.</p>
+<ol type="1">
+<li><strong>The prologue naming Jeremiah</strong> stands at 1:1 in Swete. <strong>It is not in the Rahlfs export as exported</strong>, which begins directly at Πῶς ἐκάθισεν (“How she sat…”). Whether Rahlfs prints it as a heading the export did not carry should be <strong>checked on screen in Logos</strong> before anything is made to rest on it. <code>[T]</code> for both files.</li>
+<li><strong>Lam 3:22–24 is absent from the Old Greek — and so is 3:29.</strong> Swete has no text at 3:22, 23, 24 or 29, and the Rahlfs export runs 3:21 → 3:25 and 3:28 → 3:30. BHS’s apparatus agrees: "v 22–24 &gt; 𝔊<em>" and “v 29 &gt; 𝔊ᴹˢˢ”. <code>[T]</code> <strong>The most-quoted verses of the book — “Great is Your faithfulness” — are not in the earliest Greek.</strong> This is not evidence against the Hebrew: the ח stanza is required by the acrostic, so its loss is a loss </em>from* the Greek, not an addition to the Hebrew. <code>[I]</code>, <em>confidence high</em>. Hexaplaric manuscripts supply the verses <code>[S]</code>. <strong>The preacher should know it; the congregation does not need to.</strong></li>
+<li><strong>Letter names as headings.</strong> Swete prints the Hebrew letter names before the verses (Ἄλεφ, Βήθ, Γίμελ…). Its labels run in standard alphabetical order, so in chs 2 and 4 the label Ἄιν (ayin) stands on the Hebrew <strong>פ</strong> verse (2:16; 4:16) and Φή (pe) on the <strong>ע</strong> verse (2:17; 4:17). The Greek labels “correct” an order the Hebrew deliberately keeps (see <em>Structural Arc Map</em>). <code>[T]</code></li>
+<li><strong>Lam 4:20.</strong> The Hebrew מְשִׁיחַ יְהוָה (“the LORD’s anointed”) becomes χριστὸς κυρίου in the Rahlfs export, and χριστὸς Κύριος in Swete — which can be read as “Christ the Lord”. The patristic Christological reading of this verse rests on the Greek <code>[S]</code>. In the Hebrew the anointed is the Davidic king — in context, Zedekiah, captured in flight (2 Kgs 25:5–6). <code>[I]</code>, <em>confidence high</em>. See <em>Preaching Traps</em>.</li>
+<li><strong>The last verse.</strong> Where the Hebrew has the ambiguous כִּי אִם (“unless” / “but rather” / “even if”), the Greek reads ὅτι ἀπωθούμενος ἀπώσω ἡμᾶς (“for You have utterly rejected us”): a plain statement, with no “unless”. <code>[T]</code> BHS notes that אִם (“if”) is absent in 𝔊 and the Syriac at 5:22, leaving a plain כִּי (“for”) — which is what the Greek translates <code>[T]</code>.</li>
+<li><strong>The comforter.</strong> At all six places where the Hebrew has the root נחם (“comfort”) — 1:2, 9, 16, 17, 21; 2:13 — Swete has the verb παρακαλέω (“comfort”). Isa 40:1 opens with the same verb twice (Παρακαλεῖτε παρακαλεῖτε, “Comfort, comfort”). <code>[T]</code> This word-family runs through to Luke 2:25 (παράκλησις, “consolation”) and John 14:16 (παράκλητος, “Helper”); see <em>Christological Trajectory</em>.</li>
+<li><strong>Lam 2:13 reads a cup.</strong> Where the Hebrew has כִּי־גָדוֹל כַּיָּם שִׁבְרֵךְ (“for your ruin is as vast as the sea”), the Greek has ὅτι ἐμεγαλύνθη ποτήριον συντριβῆς σου (“for the <strong>cup</strong> of your ruin has been made great”). Earlier in the verse it has τίς σώσει καὶ παρακαλέσει σε (“who will save and comfort you?”). BHS identifies the translator’s reading as כּוֹס (“cup”) and מִי יוֹשִׁיעַ לָךְ וְנִחַמְךָ (“who will save you and comfort you”). In Greek, then, 2:13 holds all three elements of Isa 51:17–19: the cup, the ruin, and “who will comfort you?”. This is triage category 2, a substantive Greek reading: weigh it; do not default. The Hebrew stands as the text; whether the translator read Lamentations through Isaiah is an open question. <code>[T]</code> for Swete and the BHS note; <code>[S: audit]</code>; <code>[unchecked — apparatus spread]</code>.</li>
+<li><strong>Lam 4:16, “elders” or “prophets”.</strong> The Rahlfs export reads πρεσβύτας (“elders”), as the Hebrew does. Swete (Vaticanus) reads προφήτας (“prophets”), which loses the book’s sharpest contact with Deut 28:50. <code>[T]</code></li>
+</ol>
+<hr />
+<h2 id="structural-arc-map">Structural Arc Map</h2>
+<h3 id="the-form-counted">The form, counted</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Poem</th>
+<th>Verses</th>
+<th>Acrostic</th>
+<th>Words (WLC)</th>
+<th>Words per verse</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>22</td>
+<td>one verse per letter; <strong>ע before פ</strong></td>
+<td>376</td>
+<td>17.1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>22</td>
+<td>one verse per letter; <strong>פ before ע</strong></td>
+<td>381</td>
+<td>17.3</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>66</td>
+<td><strong>each letter heads three verses</strong>; פ before ע</td>
+<td>381</td>
+<td>5.8</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>22</td>
+<td>one verse per letter; פ before ע</td>
+<td>259</td>
+<td>11.8</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>22</td>
+<td><strong>none</strong> — 22 verses only</td>
+<td>145</td>
+<td>6.6</td>
+</tr>
+</tbody>
+</table>
+<p>Counts are of words as tokenised in the WLC lemma index (counted as space-separated words the figures are 330 / 333 / 347 / 231 / 136, and the shape is the same); the opening letters were read off every verse of the WLC reading text. <code>[T]</code></p>
+<p>Three things follow from the table.</p>
+<ul>
+<li><strong>The first three poems are the same length</strong> (376, 381, 381 words), <strong>and the last two shrink</strong> (259, then 145). The book’s volume falls away after its centre. <code>[T]</code> That the diminution enacts exhaustion is a reading <code>[I]</code>, <em>moderate</em>.</li>
+<li><strong>Chapter 3 intensifies the form</strong> — every letter three times — at the point where the book’s theology is densest. <code>[T]</code>/<code>[I]</code></li>
+<li><strong>Chapter 5 keeps the number and abandons the alphabet.</strong> The prayer is still “complete” in count, but the order has gone. <code>[T]</code> for the fact; the meaning is contested — collapse of order, or a deliberate turn from poem to plain prayer <code>[I]</code>, <em>open</em>.</li>
+</ul>
+<p><strong>The פ/ע order.</strong> In ch. 1 the alphabet runs in its standard order (ע at 1:16, פ at 1:17). In chs 2, 3 and 4 the order is פ then ע (2:16–17; 3:46–51; 4:16–17). <code>[T]</code> BHS records a few manuscripts, the Lucianic Greek and the Syriac that transpose to the standard order in all three chapters <code>[T for BHS]</code>, so <strong>the reversal is the Leningrad and majority reading, not a universal one</strong>. Another alphabetic order with פ before ע is attested in early Hebrew abecedaries, and the Qumran manuscript 4QLam reportedly has פ before ע in ch. 1 as well <code>[S]</code>. <em>No sermon should rest on the reversal.</em></p>
+<h3 id="the-movements">The movements</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Movement</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1–22</td>
+<td><strong>The widow with no comforter</strong></td>
+<td>The narrator describes desolate Zion (1–11b); Zion herself breaks in (9c, 11c) and takes over (12–22). Refrain: אֵין מְנַחֵם (“there is none to comfort her”) — five times. Confession (8, 18) and protest stand side by side.</td>
+</tr>
+<tr class="even">
+<td>2:1–22</td>
+<td><strong>The Lord as enemy</strong></td>
+<td>The narrator piles up the LORD’s own acts of destruction (1–9): “the Lord has become like an enemy” (5). He breaks down himself (11), turns to Zion and urges her to pray (13–19). Zion’s accusation closes the poem (20–22).</td>
+</tr>
+<tr class="odd">
+<td>3:1–66</td>
+<td><strong>The man who has seen affliction</strong></td>
+<td>One man under God’s rod (1–18); memory turned to hope (19–24); the wisdom of waiting (25–39), with the <strong>book’s arithmetic centre</strong> after 3:33; the community’s confession and complaint (40–47); weeping, rescue remembered, and a plea for vindication (48–66).</td>
+</tr>
+<tr class="even">
+<td>4:1–22</td>
+<td><strong>Gold grown dim</strong></td>
+<td>The narrator returns to the ruined city: reversal of status (1–11), the guilt of prophets and priests (12–16), the community’s failed hopes, the anointed king taken (17–20), and the term of Zion’s punishment declared ended while Edom’s begins (21–22).</td>
+</tr>
+<tr class="odd">
+<td>5:1–22</td>
+<td><strong>Remember, O LORD</strong></td>
+<td>The community’s prayer: “Remember… look, and see our reproach” (1); a catalogue of present misery (2–18); then, set apart in Leningrad by a paragraph break after 5:18, the doxology, the question and the petition (19–22).</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The binding device — a formally centred book.</strong> <code>[S: audit]</code> for the revision.</p>
+<ol type="1">
+<li><strong>The form is the binding device, and it is certain.</strong> <code>[T]</code>
+<ul>
+<li>Four alphabetic acrostics.</li>
+<li>Poem 3 a <strong>triple</strong> acrostic at the centre, its voice changed from a city to a man.</li>
+<li>Poem 5 with twenty-two verses and no alphabet.</li>
+<li>The volume falling away in poems 4–5.</li>
+<li>The verse midpoint at 3:33 | 34.</li>
+<li>The acrostic holds the grief inside a boundary: each poem runs from א to ת and then stops (<code>[I]</code> for that function).</li>
+</ul></li>
+<li><strong>Lexically, poem 2 is a hub, tied both to poem 1 and to poem 4.</strong> Three items are exclusive within Lamentations to poems 2 and 4, all verified by lemma:
+<ul>
+<li>prophets (נָבִיא: 2:9, 14, 20; 4:13);</li>
+<li>the LORD pouring out his wrath (שׁפך + חֵמָה: 2:4; 4:11);</li>
+<li>“at the head of every street” (2:19; 4:1).</li>
+</ul>
+But at phrase level, poems 1 and 2 are linked as closely (rare verse-links per 10⁴ word-pairs: 1–2, 0.98; 2–4, 0.91). And on whole vocabulary, the 2–4 pairing is exactly at chance (2,000 random reshuffles; observed ÷ expected = 1.00). <code>[S: audit]</code> <em>Confidence: moderate (2 ↔︎ 4 phrases).</em></li>
+<li><strong>A full concentric frame (1 ↔︎ 5, 2 ↔︎ 4) is not demonstrated.</strong>
+<ul>
+<li>1 ↔︎ 5 rests on one exclusive word, אַלְמָנָה (“widow”, 1:1; 5:3), and the soft cognate pair “rest” (מָנוֹחַ, 1:3; הוּנַח, 5:5).</li>
+<li>“See, O LORD” cannot mark it, since 2:20 repeats 1:11 word for word.</li>
+<li>אֵיכָה (“How!”) cannot pair 2 with 4, since it also opens poem 1.</li>
+<li>Held as a proposal for the digs to test. <em>Confidence: low–moderate.</em> <code>[I]</code></li>
+</ul></li>
+</ol>
+<p><strong>The centre of the book.</strong> Lamentations has 154 verses (WLC), so the arithmetic midpoint falls <strong>between verse 77 (3:33) and verse 78 (3:34)</strong>. It is also the midpoint of ch. 3. The stanza that ends the first half is the כ stanza (3:31–33), and every line of it begins with כִּי (“for”): <code>[T]</code></p>
+<blockquote>
+<p>“For the Lord will not reject forever, / For if He causes grief, Then He will have compassion According to His abundant lovingkindness. / For He does not afflict willingly Or grieve the sons of men.” (NASB95)</p>
+</blockquote>
+<p><strong>The centre is a verse-count fact.</strong> Counted by words in the WLC index, the midpoint falls at 3:3, so state the unit when citing it. <code>[S: audit]</code></p>
+<p><strong>The usual claim that 3:22–23 is the book’s centre is close but not exact; the centre is 3:31–33.</strong> The two stanzas belong together — 3:22 and 3:32 share חֶסֶד (“lovingkindness”) and the root רחם (“compassion”). They are the <strong>only two places</strong> in the book where חֶסֶד occurs. <code>[T]</code></p>
+<hr />
+<h2 id="microscript">Microscript</h2>
+<p><em>Jerusalem has fallen, and the LORD did it. Lamentations gives the ruined city ordered words — alphabetical, but ending unresolved — with which to admit that he was right, to protest that the suffering is past bearing, and to keep asking him to see, remember and restore. Its ground for doing so is that his חֶסֶד (“lovingkindness”) has not been used up and his throne has not fallen.</em></p>
+<p><strong>Keynote:</strong> אֵין מְנַחֵם (“there is none to comfort her”) — five times in ch. 1 (1:2, 9, 16, 17, 21), with the narrator’s helpless “that I may comfort you” (2:13) as the sixth and last use of the root נחם (“comfort”) in the book. <strong>Counter-note:</strong> חַסְדֵי יְהוָה (“the LORD’s lovingkindnesses”, 3:22) and “You, O LORD, rule forever” (5:19). <strong>The God who could comfort never speaks, except for “Do not fear!” — remembered (3:57).</strong> <code>[T]</code></p>
+<p><strong>Test against the movements.</strong></p>
+<ul>
+<li><em>Ch. 1:</em> no comforter; the LORD’s day of anger; confession and protest. ✓</li>
+<li><em>Ch. 2:</em> the LORD himself as the destroyer — the hardest form of “he did it”. ✓</li>
+<li><em>Ch. 3:</em> the ground of hope — חֶסֶד — found inside affliction, not after it. ✓</li>
+<li><em>Ch. 4:</em> the term of punishment ended (4:22), the enemy’s turn to come. ✓</li>
+<li><em>Ch. 5:</em> asking to be restored, with rejection still possible. ✓</li>
+</ul>
+<hr />
+<h2 id="intertextual-map">Intertextual Map</h2>
+<p>Lamentations quotes no earlier text with a formula, and almost nothing word for word at length. Its intertextuality is <strong>dense, short and phrasal</strong>. It shares two-, three- and four-word idioms with the prophets of the fall (above all Jeremiah), the city-humiliation poems (Isa 47; Nah 3), the covenant curses, the Psalter’s laments and Job. <strong>So both Move 2 and Move 4 will be heavily loaded in the sweep.</strong> <code>[T]</code>/<code>[I]</code></p>
+<p><strong>What v0.2.0 changed.</strong> Every row below was audited, or re-checked, against the claim audit of 3 October 2026 <code>[S: audit]</code>. The changes:</p>
+<ul>
+<li>Each row now carries a <strong>rarity count</strong>: how many verses of the Hebrew Bible (WLC) contain the shared lemma set. Where the audit ran a rival search, the row also names the <strong>closest rival</strong>.</li>
+<li>Two new tests apply throughout:
+<ul>
+<li><strong>Wording found in more than about ten verses is idiom</strong>, and is not rated above <em>moderate</em> on wording alone.</li>
+<li><strong>A use counts towards “live” only if it survives the rival search.</strong></li>
+</ul></li>
+<li><strong>Confidence rates the allusion, not the words.</strong> The words are verified in every row. <strong>The direction of dependence is open throughout</strong>: “source” means “the other text”, not “the earlier text”.</li>
+</ul>
+<p><strong>The canon-wide density scan.</strong> Every chapter of the Hebrew Bible was ranked by the rare vocabulary it shares with Lam 1–2 (858 chapters of ten verses or more; a rare pair is one found in five verses or fewer; WLC). The top ten are:</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rank</th>
+<th>Chapter</th>
+<th>Rare pairs per verse</th>
+<th>Disposition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><strong>Jer 14</strong></td>
+<td>1.045</td>
+<td><strong>new live source</strong> (Jeremiah table)</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><strong>Nah 3</strong></td>
+<td>0.737</td>
+<td><strong>new</strong> (the Twelve)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Isa 47</td>
+<td>0.733</td>
+<td>kept (Isaiah)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Isa 52</td>
+<td>0.667</td>
+<td>kept, as part of Isa 51:17–52:2</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Amos 9</td>
+<td>0.667</td>
+<td><strong>not entered</strong> — the contacts are scattered stock vocabulary (exile, sword, captivity); no exclusive phrase</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>2 Chr 36</td>
+<td>0.652</td>
+<td><strong>not entered as an allusion.</strong> It is the narrative of the same event (36:17–19: young men and virgins, old men, the temple burned, the walls broken down); Presupposes</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Mic 4</td>
+<td>0.643</td>
+<td><strong>not entered</strong> — Zion vocabulary in an oracle of restoration; no exclusive phrase</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td><strong>Jer 8</strong></td>
+<td>0.609</td>
+<td><strong>new</strong> (Jeremiah table)</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Jer 6</td>
+<td>0.600</td>
+<td><strong>new, moderate</strong> — 6:11 touches 2:11, 19, 21; 4:1; 5:14 (children in the street, young men, the old)</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Isa 51</td>
+<td>0.565</td>
+<td>kept</td>
+</tr>
+</tbody>
+</table>
+<p>The scan measures shared vocabulary, not borrowing.</p>
+<h3 id="torah">Torah</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Lamentations</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Deut 28:50</strong> — no respect for the old, no favour to the young</td>
+<td>4:16 (נשׂא, “lift” + פָּנִים, “face” + זָקֵן, “old” + חנן, “show favour”)</td>
+<td>The curse fulfilled to the letter on priests and elders</td>
+<td><strong>2 verses</strong> (Deut 28:50; Lam 4:16) — even זָקֵן + חנן alone. Swete reads “prophets” at 4:16 and loses the link; Rahlfs keeps “elders”</td>
+<td><strong>live</strong> with 28:65</td>
+<td><strong>high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Deut 28:65, 45</strong> — no rest among the nations; pursued and overtaken</td>
+<td>1:3 (מָנוֹחַ, “rest” + גּוֹיִם, “nations”; רדף, “pursue” + נשׂג, “overtake”)</td>
+<td>Exile as the curse</td>
+<td>מָנוֹחַ + גּוֹיִם: <strong>2 verses</strong>. רדף + נשׂג: 14 (with 2 Kgs 25:5)</td>
+<td>live</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Deut 28:44 — “he shall be the head”</td>
+<td>1:5 (“her adversaries have become her masters”, הָיוּ … לְרֹאשׁ)</td>
+<td>The foe becomes head. <strong>Lamentations has no “tail”</strong></td>
+<td>one word shared; היה + לְרֹאשׁ (“become head”): about 10 verses</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td><strong>The siege-cannibalism curse</strong> — Lev 26:29; Deut 28:53; Jer 19:9; Ezek 5:10</td>
+<td>2:20 (אכל, “eat” + פְּרִי, “fruit” of offspring)</td>
+<td>The worst curse realised. A pooled family, not one source</td>
+<td>Deut 28:53 alone has פְּרִי + בֶּטֶן (“fruit of the womb”). The LXX of 2:20 adds κοιλίας (“womb”), assimilating to Deuteronomy</td>
+<td>—</td>
+<td>moderate–high (family)</td>
+</tr>
+<tr class="odd">
+<td><em>2 Kgs 6:28–29</em> — women in a siege who “boiled my son”</td>
+<td>4:10 (בשׁל, “boil” + child)</td>
+<td>The closer parallel for 4:10. <strong>Not Deut 28</strong>: פְּרִי is not in 4:10</td>
+<td>—</td>
+<td>—</td>
+<td>moderate–high <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Deut 23:3 [Heb 23:4]</strong> — no Ammonite or Moabite shall enter the assembly</td>
+<td>1:10 (בוא, “enter” + קָהָל, “congregation” + צוה, “command”)</td>
+<td>The verse cites the law it sees broken: “whom You commanded”</td>
+<td>all three: <strong>Lam 1:10 only</strong>; בוא + קָהָל + negation: 10 verses, including Deut 23:2–4</td>
+<td>—</td>
+<td>high (the verse says “You commanded”)</td>
+</tr>
+<tr class="odd">
+<td><strong>Lev 13:45</strong> — the leper cries “Unclean!”</td>
+<td>4:15 (טָמֵא, “unclean” + קרא, “cry”)</td>
+<td>The defiled priests and prophets are driven out with the leper’s cry. <strong>The subject is not the city</strong></td>
+<td><strong>2 verses</strong> in this sense. BHS marks קָרְאוּ לָמוֹ (“they cried to them”) as probably to be deleted <code>[unchecked — apparatus spread]</code>. <strong>Rival: Isa 52:11</strong>, closer (see Isaiah)</td>
+<td>—</td>
+<td>moderate <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Lev 13:46 — the leper “shall live alone”</td>
+<td>1:1 (ישׁב, “sit” + בָּדָד, “alone”)</td>
+<td>Idiom, not a signature. Poem 1’s impurity is <strong>menstrual</strong> (1:8, 9, 17), not leprous</td>
+<td>ישׁב + בָּדָד: 6 verses. City + בָּדָד: <strong>Isa 27:10 and Lam 1:1 only</strong></td>
+<td>—</td>
+<td>low <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Lev 19:32</strong> — honour the face of the old</td>
+<td>5:12 (הדר, “honour” + פָּנִים, “face” + זָקֵן, “old”)</td>
+<td>The law of honour reversed under occupation</td>
+<td><strong>2 verses</strong></td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td><strong>Exod 34:6–7</strong> — compassionate, abounding in חֶסֶד (“lovingkindness”); fathers’ iniquity on the children</td>
+<td>3:22, 32 (חֶסֶד; רחם, “compassion”; רֹב, “abundance”); 5:7 (אָב, “father” + עָוֹן, “iniquity”)</td>
+<td>Both halves of the divine name</td>
+<td>חֶסֶד + רַחוּם (“compassionate”): 7 verses (the formula family). רֹב + חֶסֶד: 10. <strong>Ps 106:45</strong> shares כְּרֹב חֲסָדָיו (“according to the greatness of His lovingkindness”) with 3:32</td>
+<td><strong>live</strong> (both halves)</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Gen 19:24–25 — Sodom overthrown</td>
+<td>4:6 (סְדֹם, “Sodom” + הפך, “overthrow”)</td>
+<td>Jerusalem against Sodom (see Pulpit Notes)</td>
+<td>Sodom + the verb הפך: <strong>3 verses</strong> (Deut 29:22 [Eng 29:23]; Amos 4:11; Lam 4:6)</td>
+<td>—</td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<h3 id="former-prophets-and-chronicles">Former Prophets and Chronicles</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1 Kgs 9:8 — “everyone who passes by will … hiss”</td>
+<td>2:15 (עבר, “pass by” + שׁרק, “hiss”)</td>
+<td>The dedication warning fulfilled</td>
+<td><strong>6 verses</strong>: 1 Kgs 9:8; Jer 19:8; 49:17; 50:13; Zeph 2:15; Lam 2:15 — pooled</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td><strong>2 Kgs 25:1–7; Jer 39:4–7; 52:7–11; 2 Chr 36:17–20</strong> — the siege, the flight, the capture, the burning</td>
+<td>4:19–20; 1:10; 2:6–9</td>
+<td>The event behind the poems, which never narrate it. 2 Chr 36 ranks 6th in the density scan</td>
+<td>—</td>
+<td>—</td>
+<td>high (historical reference)</td>
+</tr>
+<tr class="odd">
+<td>The anointed — 1 Sam 24:6 [Heb 24:7]; 26:9; 2 Sam 1:14</td>
+<td>4:20 (מְשִׁיחַ יְהוָה, “the LORD’s anointed”)</td>
+<td>The inviolable king, captured</td>
+<td><strong>22 verses</strong> — idiom</td>
+<td>—</td>
+<td>moderate (thematic)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="latter-prophets-jeremiah-the-densest-partner">Latter Prophets — Jeremiah (the densest partner)</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Jer 14:17</strong> — “Let my eyes flow down with tears night and day … the virgin daughter of my people has been crushed with a mighty blow”</td>
+<td><strong>2:18</strong> (ירד, “run down” + דִּמְעָה, “tears” + יוֹמָם, “by day” + לַיְלָה, “night”); <strong>2:13</strong> (שֶׁבֶר, “ruin” + גָּדוֹל, “great” + בְּתוּלָה, “virgin”); <strong>3:48–49</strong> (eyes running down over the ruin; דמה, “cease”)</td>
+<td>One verse of Jeremiah supplies three of Lamentations’ grief verses</td>
+<td><strong>Each pair: 2 verses</strong> (Jer 14:17 with the Lamentations verse)</td>
+<td><strong>live</strong></td>
+<td><strong>high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Jer 14:19</strong> — “Have You completely rejected Judah?”</td>
+<td><strong>5:22</strong> (מָאֹס מָאַסְתָּ, “You have utterly rejected”)</td>
+<td>The book’s last words are Jeremiah’s question, turned into a condition</td>
+<td>the doubled verb: <strong>2 verses</strong></td>
+<td>live</td>
+<td><strong>high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Jer 14 as a chapter</strong></td>
+<td>throughout Lam 1–2</td>
+<td>Ranked <strong>first of 858 chapters</strong> by rare shared vocabulary with Lam 1–2 (1.045 per verse)</td>
+<td>—</td>
+<td><strong>live</strong></td>
+<td>high (as partner) <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Jer 8:11, 21–23 [Eng 8:11, 21–9:1]</strong> — שֶׁבֶר בַּת־עַמִּי (“the brokenness of the daughter of my people”); eyes a fountain of tears</td>
+<td>2:11; 3:48; 4:10</td>
+<td>Jeremiah’s grief-phrase becomes the book’s</td>
+<td>the phrase: <strong>5 verses</strong> (Jer 8:11, 21; Lam 2:11; 3:48; 4:10), 6 with Jer 14:17. Jer 8 ranks 8th in the scan</td>
+<td><strong>live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Jer 6:11, 26 — wrath poured on the child in the street and on the young men; mourning in sackcloth</td>
+<td>2:11, 19, 21; 4:1; 5:14</td>
+<td>The siege picture</td>
+<td>9th in the scan; pooled vocabulary</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Jer 20:7</strong> — “I have become a laughingstock all day long”</td>
+<td>3:14a (שְׂחוֹק, “laughingstock” + כָּל־הַיּוֹם, “all the day”)</td>
+<td>The man of Lam 3 speaks Jeremiah’s confession. 3:14b meets Job 30:9</td>
+<td><strong>2 verses</strong></td>
+<td>live with 20:10</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Jer 6:25; 20:10; 46:5; 49:29 — מָגוֹר מִסָּבִיב (“terror on every side”); Ps 31:13 [Heb 31:14]</td>
+<td>2:22 (מְגוּרַי מִסָּבִיב, “my terrors on every side” — a skeletal match)</td>
+<td>Jeremiah’s catchphrase made a feast-day invitation</td>
+<td>the phrase: 6 verses + Lam 2:22</td>
+<td>live</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Jer 9:15 [Heb 9:14]; 23:15 — wormwood and poisoned water</td>
+<td>3:15, 19 (לַעֲנָה, “wormwood” + רֹאשׁ, “poison”)</td>
+<td>The man has eaten the food the prophet threatened</td>
+<td><strong>5 verses</strong> (with Deut 29:17 [Eng 29:18]; Amos 6:12)</td>
+<td>live</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Jer 13:22, 26; Nah 3:5 — the skirts lifted</td>
+<td>1:9 (שׁוּל, “skirt”)</td>
+<td>Zion exposed. Isa 47:2 uses a different word</td>
+<td>—</td>
+<td>—</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Jer 22:20, 22; 30:14 — “all your lovers”</td>
+<td>1:2, 19</td>
+<td>Allies who deceived</td>
+<td>with Ezek 16:33, 37; 23:9; Hos 2 — pooled</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Jer 30:12–17 — the incurable wound; “I will heal you”</td>
+<td>2:13 (“Who can heal you?”)</td>
+<td>An answer in Jeremiah’s Book of Consolation</td>
+<td><strong>conceptual</strong>: מִי + רפא (“who” + “heal”) is in Lam 2:13 only</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Jer 31:18</strong> — “Bring me back that I may be restored”</td>
+<td><strong>5:21</strong> (hiphil then qal שׁוב, “return”)</td>
+<td>Ephraim’s prayer is the community’s prayer</td>
+<td>the construction: <strong>2 of 28 verses</strong> with both stems. The qere וְנָשׁוּבָה (“that we may be restored”) is a cohortative, as Jer 31:18 <code>[unchecked — apparatus spread]</code>. In Greek the half-line is also the refrain of Ps 80</td>
+<td><strong>live</strong></td>
+<td><strong>high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>Jer 31:15 — Rachel weeping, refusing comfort</td>
+<td>1:16 (בכה, “weep” + נחם, “comfort”)</td>
+<td>The comfortless mother</td>
+<td><strong>4 verses</strong> (Gen 37:35; Jer 31:15; Lam 1:2, 16) — the idiom’s root is Gen 37:35</td>
+<td>live</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Jer 25:15–29; 49:12 — the cup to the nations, Uz and Edom among them (25:20–21)</td>
+<td>4:21 (כּוֹס, “cup”; עוּץ, “Uz”; Edom)</td>
+<td>The cup passes to Edom</td>
+<td>Uz + cup within the context: <strong>Jer 25:20 and Lam 4:21 only</strong>. Closer wording: <strong>Hab 2:16; Nah 3:11</strong> (see the Twelve)</td>
+<td>live</td>
+<td>moderate–high</td>
+</tr>
+</tbody>
+</table>
+<h3 id="latter-prophets-isaiah-one-book-direction-open">Latter Prophets — Isaiah (one book; direction open)</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Isa 47:7</strong> — “you did not remember the outcome of it”</td>
+<td><strong>1:9</strong> (לֹא זָכְרָה אַחֲרִיתָהּ, “she did not consider her future”)</td>
+<td>Babylon’s fault is Zion’s</td>
+<td>זכר + אַחֲרִית: <strong>2 verses</strong>, near-verbatim; the Greek keeps it</td>
+<td><strong>live</strong></td>
+<td><strong>high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Isa 47:1 — “sit in the dust, virgin daughter”</td>
+<td>2:10 (ישׁב, “sit” + עָפָר, “dust” + בְּתוּלָה, “virgin” + בַּת, “daughter”)</td>
+<td>The humbled queen</td>
+<td><strong>2 verses</strong>, but the syntax is scattered, and the dust-on-the-head rite (Josh 7:6; Job 2:12) is its own idiom</td>
+<td>live</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Isa 47:8 — “I will not sit as a widow”</td>
+<td>1:1</td>
+<td>Only these two picture a <strong>city</strong> sitting as a widow; both set former rank against fall</td>
+<td>אַלְמָנָה + ישׁב: 4 verses</td>
+<td>live</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 47 as a chapter</strong></td>
+<td>Lam 1–2</td>
+<td><strong>3rd of 858 chapters</strong> in the scan. Not “every one” of Zion’s humiliations: 1:8 is closer to Ezek 16:37, and 4:17 to Isa 45:20</td>
+<td>—</td>
+<td><strong>live</strong></td>
+<td>moderate <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Isa 51:17–52:2</strong> — the cup Zion drank; “who will comfort you?” with ruin, famine and sword (51:19); sons “at the head of every street” (51:20); the cup taken and given to her tormentors (51:22–23); “shake yourself from the dust … captive daughter of Zion” (52:2)</td>
+<td><strong>2:13</strong> (נחם, “comfort” + שֶׁבֶר, “ruin”); 2:19, 21; 4:1; 4:21–22; <strong>1:12</strong> (יגה, “cause grief” + עבר, “pass by”)</td>
+<td><strong>The densest of the reversal passages.</strong> It asks and answers Lamentations’ own question</td>
+<td>נחם + שֶׁבֶר: <strong>2 verses</strong>; יגה + עבר: <strong>2 verses</strong>. <strong>LXX Lam 2:13 reads ποτήριον (“cup”) and “who will save you”</strong>, so in Greek 2:13 carries all three elements of Isa 51:17–19 (see the Greek section). “At the head of every street” is shared with <strong>Nah 3:10</strong>, which is closer to 2:19</td>
+<td><strong>live</strong></td>
+<td>moderate–high <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Isa 52:11</strong> — “Depart, depart … touch nothing unclean”</td>
+<td><strong>4:15</strong> (סור, “depart” + טָמֵא, “unclean” + נגע, “touch”)</td>
+<td>The leper’s cry, closer than Lev 13:45. In Lamentations the nations cry it at Judah’s defiled leaders; in Isaiah it is Judah’s call to leave Babylon pure</td>
+<td><strong>2 verses</strong>; סוּרוּ סוּרוּ (“depart, depart”) is exclusive to these two; the Greek is near-verbatim</td>
+<td>live</td>
+<td><strong>high</strong></td>
+</tr>
+<tr class="odd">
+<td>Isa 49:14 — “Zion said, ‘The LORD has forsaken me … forgotten me’”</td>
+<td>5:20 (שׁכח, “forget” + עזב, “forsake”)</td>
+<td>The book’s last question, answered by “Can a woman forget her nursing child?” (49:15)</td>
+<td>שׁכח + עזב: 4 verses</td>
+<td>live</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Isa 40:1–2 — “Comfort, comfort My people … her iniquity has been removed”</td>
+<td>1:2–21 (no comforter); 4:22 (עָוֹן, “iniquity”)</td>
+<td>The refrain answered by a double command</td>
+<td><strong>conceptual</strong>: נחם + עַם (“people”): 11 verses</td>
+<td>live</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Isa 54:4–11 — the widow’s reproach; “storm-tossed, and not comforted”; “for a brief moment I forsook you”</td>
+<td>1:1; 3:22, 32; 3:57 (“Do not fear”)</td>
+<td>The widow addressed</td>
+<td>conceptual</td>
+<td>live</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 50:6</strong> — “I gave … my cheeks to those who pluck out the beard”</td>
+<td><strong>3:30</strong> (נתן, “give” + נכה, “smite” + לְחִי, “cheek”)</td>
+<td>The man gives his cheek as the Servant does. Job 16:10 is the other exclusive partner</td>
+<td><strong>2 verses</strong> <code>[S: audit]</code></td>
+<td>—</td>
+<td><strong>moderate–high</strong></td>
+</tr>
+<tr class="odd">
+<td>Isa 24:17 (= Jer 48:43) — פַּחַד וָפַחַת (“terror and pit”, <em>paḥad wāpaḥat</em>)</td>
+<td>3:47</td>
+<td>A sound-play idiom of judgement</td>
+<td>the phrase: 3 verses</td>
+<td>—</td>
+<td>high (phrase)</td>
+</tr>
+<tr class="even">
+<td>Isa 63:2–3 — the wine trough trodden</td>
+<td>1:15 (דרך, “tread”; גַּת, “winepress”)</td>
+<td>The LORD treads the winepress</td>
+<td>דרך + גַּת: 3 verses (Isa 63:2; Neh 13:15; Lam 1:15)</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td><strong>Isa 63:7–64:11 [Eng 63:7–64:12]</strong> — the communal lament: “look down … and see” (63:15); “remember not iniquity forever” (64:8 [Eng 64:9]); “Zion has become a wilderness, Jerusalem a desolation” (64:9 [Eng 64:10])</td>
+<td><strong>5:1, 18, 20, 22</strong></td>
+<td>The closest prophetic partner of Lam 5</td>
+<td>הַבֵּט … וּרְאֵה (“look … and see”): Isa 63:15; Ps 80:15 [Eng 80:14]; Lam 1:11; 2:20; 5:1</td>
+<td>live</td>
+<td>moderate–high <code>[S: audit]</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="latter-prophets-ezekiel-and-the-twelve">Latter Prophets — Ezekiel and the Twelve</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Ezek 7:26</strong> — “they will seek a vision from a prophet, but the law will be lost”</td>
+<td>2:9 (חָזוֹן, “vision” + נָבִיא, “prophet” + תּוֹרָה, “law”)</td>
+<td>The forecast fulfilled</td>
+<td><strong>2 verses</strong></td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td><strong>Ezek 13:6–15; 22:28</strong> — prophets of שָׁוְא (“falsehood”) who whitewash with תָּפֵל</td>
+<td>2:14 (שָׁוְא וְתָפֵל, “falsehood and whitewash”)</td>
+<td>The false prophets named in Ezekiel’s terms</td>
+<td>שָׁוְא + תָּפֵל: <strong>2 verses</strong> (Ezek 22:28; Lam 2:14)</td>
+<td>live with 4:13</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td><strong>Ezek 19:4, 8</strong> — Judah’s royal lion “caught in their pit” among the nations</td>
+<td><strong>4:20</strong> (“the LORD’s anointed was captured in their pits … among the nations”)</td>
+<td>The king’s capture in Ezekiel’s figure</td>
+<td><strong>No shared lemma.</strong> Ezekiel has תפשׂ (“catch”) + שַׁחַת (“pit”); Lam 4:20 has לכד (“capture”) + שְׁחִית (“pit”). What is exclusive is the frame “caught in <em>their</em> pit(s)” (Ezek 19:4, 8; Lam 4:20). Ps 9:16 [Eng 9:15] uses Lamentations’ own verb לכד. Ezek 19 is itself a קִינָה (“lament”, 19:1, 14); <strong>the Greek is near-identical</strong> (συνελήμφθη ἐν … διαφθορ-, “he was caught in … pit”)</td>
+<td>—</td>
+<td><strong>moderate</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Ezek 12:13; 17:20; 19:8; Hos 7:12; Ps 9:16; 57:7 [Eng 57:6]; Prov 29:5 — the spread net</td>
+<td>1:13 (פרשׂ, “spread” + רֶשֶׁת, “net” + “for my feet”)</td>
+<td>A hunting idiom. The royal application is in Ezek 19, not here</td>
+<td>פרשׂ + רֶשֶׁת: <strong>9 verses</strong></td>
+<td>—</td>
+<td>low <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>Ezek 16:14; 27:3; 28:12 — כְּלִיל יֹפִי (“perfect in beauty”)</td>
+<td>2:15 (כְּלִילַת יֹפִי, “the perfection of beauty”)</td>
+<td>Zion’s title. In Ezek 16:14 it is Jerusalem’s own</td>
+<td><strong>4 verses</strong></td>
+<td>—</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Ezek 16:37 — lovers seeing her nakedness</td>
+<td>1:8 (עֶרְוָה, “nakedness” + ראה, “see”)</td>
+<td>Closer than Isa 47:3</td>
+<td>עֶרְוָה + ראה: 10 verses</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td><strong>Nah 3:5–11</strong> — Nineveh: the skirts lifted (3:5); “who will grieve for her? Where shall I seek comforters?” (3:7 — see the note in the next column); infants dashed “at the head of every street” and gone into captivity (3:10); “you too will become drunk” (3:11)</td>
+<td><strong>1:5, 9; 2:19; 4:21</strong></td>
+<td>The second foreign-city humiliation template, equal to Isa 47</td>
+<td>Exclusive pairs: עוֹלָל (“infant”) + שְׁבִי (“captivity”) with Lam 1:5; עוֹלָל + “head of every street” with Lam 2:19; תִּשְׁכְּרִי (“you will be drunk”) with Lam 4:21 — <strong>2 verses each</strong>. <strong>Not 2:13</strong> (corrected in v0.2.1): Lam 2:13 has no נוד (“grieve”), which never occurs in Lamentations; the two verses share only מִי + נחם (“who” + “comfort”), a pooled pair in 6 verses (Isa 51:12, 19; Joel 2:14; Jonah 3:9; Nah 3:7; Lam 2:13), where Isa 51:19 is the stronger partner. The skirts at 1:9 are shared with Jer 13:22, 26. <strong>2nd of 858 chapters</strong> in the scan</td>
+<td><strong>live</strong></td>
+<td><strong>moderate–high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Hab 2:15–16 — “you also drink … the cup … will come around to you”</td>
+<td>4:21 (כּוֹס, “cup” + גַּם, “also”)</td>
+<td>The cup that passes to Edom</td>
+<td><strong>2 verses</strong></td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Amos 5:18 — the day of the LORD is “darkness and not light”</td>
+<td>3:2 (חֹשֶׁךְ וְלֹא־אוֹר)</td>
+<td>The day of the LORD has come, on Judah</td>
+<td>the phrase: <strong>Amos 5:18; Job 12:25; Lam 3:2</strong></td>
+<td>live with Zephaniah</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td><strong>Zeph 2:2–3</strong> — יוֹם אַף־יְהוָה (“the day of the LORD’s anger”)</td>
+<td>2:22 (the same phrase), with 1:12; 2:1, 21 (“day of His anger”)</td>
+<td>The book’s controlling time-phrase</td>
+<td>the phrase: <strong>Zeph 2:2, 3; Lam 2:22</strong></td>
+<td><strong>live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Hos 2:11 [Heb 2:13] — “I will put an end to … her feasts … her sabbaths”</td>
+<td>2:6 (מוֹעֵד, “appointed feast” + שַׁבָּת, “sabbath”)</td>
+<td>Forgotten feasts and sabbaths</td>
+<td>9 verses — pooled</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Hos 2:6 [Heb 2:8] — “I will hedge up your way … wall her in, so that she cannot find her paths”</td>
+<td>3:9 (גדר, “wall up” + דֶּרֶךְ, “way” + נְתִיבָה, “path”)</td>
+<td>The walled-in way</td>
+<td>גדר + דֶּרֶךְ: <strong>2 verses</strong> — a rival to Job 19:8</td>
+<td>—</td>
+<td>moderate <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>Obad 10–16 — Edom gloating on Jerusalem’s day</td>
+<td>4:21 (שׂמח, “rejoice”)</td>
+<td>Edom’s joy, and Edom’s cup</td>
+<td>thematic</td>
+<td>live with Ps 137:7</td>
+<td>moderate</td>
+</tr>
+</tbody>
+</table>
+<h3 id="writings">Writings</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rarity · rival</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Ps 89:38–44 [Heb 89:39–45]</strong> — the anointed rejected: “You have spurned” (נאר, 89:40 [Eng 89:39]); the crown profaned “to the ground” with the strongholds (89:40–41 [Eng 89:39–40]); “all who pass along the way” (89:42 [Eng 89:41]); “You have exalted the right hand of his adversaries; You have made all his enemies rejoice” (89:43 [Eng 89:42])</td>
+<td><strong>Lam 2:2, 7, 15, 17</strong></td>
+<td><strong>The Davidic lament’s language lies behind Lam 2.</strong> Lam 2:17 inverts Ps 89:18, 25 [Eng 89:17, 24]: the horn raised is the enemy’s</td>
+<td><strong>נאר: 2 verses in the Hebrew Bible</strong> (Ps 89:40; Lam 2:7). רום (“exalt”) + צַר (“adversary”) + שׂמח (“make rejoice”) + אוֹיֵב (“enemy”): <strong>2 verses</strong> (Ps 89:43; Lam 2:17). חלל + לָאָרֶץ with מִבְצָר: <strong>Ps 89:40–41 and Lam 2:2 only</strong>. Ps 89:39–52 ranks <strong>4th of 2,514</strong> Psalter windows for Lam 2 (pairs in ≤10 verses), and <strong>81st</strong> for Lam 4–5 (≤5 verses)</td>
+<td><strong>live (for Lam 2)</strong></td>
+<td><strong>moderate–high</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Ps 89:5 [Eng 89:4]; 89:51 [Eng 89:50]</td>
+<td>5:19 (כִּסְאֲךָ, “your throne” + לְדֹר וָדוֹר, “to all generations”); 5:1 (זכר, “remember” + חֶרְפָּה, “reproach”)</td>
+<td>The throne that endures; the reproach remembered</td>
+<td>5:19: <strong>2 verses</strong>. 5:1: 5 verses — <strong>Ps 74:22</strong> is equally close</td>
+<td>live</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td><strong>Ps 77:8 [Eng 77:7]</strong> — “Will the Lord reject forever?”</td>
+<td><strong>3:31</strong> (“the Lord will not reject forever”)</td>
+<td>Lamentations answers the psalm’s question</td>
+<td>זנח (“reject”) + עוֹלָם (“forever”) + אֲדֹנָי (“Lord”): <strong>2 verses</strong>. The 14-verse windows covering Ps 77 are the densest in the Psalter for Lam 1–3</td>
+<td>live</td>
+<td>moderate–high <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Ps 143:3</strong> — “He has made me dwell in dark places, like those who have long been dead”</td>
+<td>3:6</td>
+<td><strong>Verbatim, with the first two words reversed</strong> (the Greek reverses them too)</td>
+<td>כְּמֵתֵי עוֹלָם (“like those long dead”): <strong>2 verses</strong></td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 88:6 [Heb 88:7] — בְּבוֹר תַּחְתִּיּוֹת (“in the lowest pit”)</td>
+<td>3:55 (מִבּוֹר תַּחְתִּיּוֹת, “from the lowest pit”)</td>
+<td>The darkest lament psalm; Ps 88:7 also has בְּמַחֲשַׁכִּים (“in dark places”, cf. 3:6)</td>
+<td>the phrase: <strong>2 verses</strong>; the preposition differs</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Ps 102:12 [Heb 102:13] — “But You, O LORD, abide forever”</td>
+<td>5:19</td>
+<td>The doxology. Four words verbatim; “Your name” becomes “Your throne”, and that part matches Ps 89:5</td>
+<td>יְהוָה לְעוֹלָם תֵּשֵׁב (“the LORD … forever … abide”): <strong>2 verses</strong></td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 74 — “Why have You rejected us forever?” (74:1); fire in the sanctuary (74:7); “no longer any prophet” (74:9); “remember … the reproach” (74:22)</td>
+<td>5:1, 20; 2:7, 9; 1:13</td>
+<td>The temple-lament psalm; with Ps 79 and Ps 80 (80:13 [Eng 80:12], “all who pass that way pick its fruit”) the pooled communal-lament family</td>
+<td>stock lament wording</td>
+<td>live (as family)</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 79:1 — “the nations have invaded Your inheritance; they have defiled Your holy temple”</td>
+<td>1:10</td>
+<td>The same event in the Psalter</td>
+<td>—</td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Ps 22:7, 13 [Heb 22:8, 14] — they wag the head; they open their mouths</td>
+<td>2:15, 16; 3:46</td>
+<td>The mockery of the forsaken sufferer</td>
+<td>נוע (“wag”) + רֹאשׁ (“head”): 6 verses (with 2 Kgs 19:21; Ps 109:25; Job 16:4). פצה (“open”) + פֶּה (“mouth”): 13 — <strong>idiom</strong></td>
+<td>—</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 48:2 [Heb 48:3] — “the joy of the whole earth”</td>
+<td>2:15 (מְשׂוֹשׂ לְכָל־הָאָרֶץ, “a joy to all the earth”)</td>
+<td>The enemies quote the Zion hymn at her</td>
+<td>מְשׂוֹשׂ + אֶרֶץ: <strong>3 verses</strong> (with Isa 24:11)</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 119:57; Ps 16:5; 73:26; 142:5 [Heb 142:6]; Num 18:20 — the LORD as portion</td>
+<td>3:24 (חֶלְקִי יְהוָה, “the LORD is my portion”)</td>
+<td>The Levite’s inheritance, claimed by the man with no land</td>
+<td>the exact phrase: <strong>Ps 119:57 and Lam 3:24 only</strong></td>
+<td>—</td>
+<td>high (phrase)</td>
+</tr>
+<tr class="even">
+<td><strong>Job 16:10, 12–13; 19:8–9; 30:9</strong> — cheek and reproach; the target and the kidneys; the way walled up; the crown taken from the head; “I have become their taunt-song”</td>
+<td><strong>3:12–13, 14b, 30</strong>; 3:7–9; <strong>5:16</strong>; and Lam 2:11, 16 (Job 16:9, 13)</td>
+<td><strong>Lam 3 is a mosaic:</strong> Job supplies three exclusive images, alongside Jer 20:7, Isa 50:6, Pss 77, 88 and 143. Job 16 and 19 also touch Lam 2 and 5</td>
+<td>מַטָּרָא (“target”) + כִּלְיוֹת (“kidneys”); לְחִי (“cheek”) + חֶרְפָּה (“reproach”); נְגִינָה (“taunt-song”) + היה (“become”); עֲטֶרֶת רֹאשׁ (“crown of the head”): <strong>2 verses each</strong>. By density, Job is mid-band for Lam 3 (Jer 11–20 and Isa 49–54 run higher). <strong>Correction:</strong> Job 9:18 has a different noun for “bitterness” from Lam 3:15 — cognate only. The סכך of Lam 3:43–44 (“cover yourself”) is not Job 3:23’s “hedge in”</td>
+<td><strong>live</strong></td>
+<td>moderate–high (the pairs); moderate (Job overall) <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>Job 1:1 — “the land of Uz”</td>
+<td>4:21</td>
+<td>Uz is better read with Jer 25:20 (the cup and Edom). Swete’s Lamentations drops Uz</td>
+<td>Uz: 8 verses</td>
+<td>—</td>
+<td>low <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Ps 137:7 — “Remember, O LORD, against the sons of Edom the day of Jerusalem”</td>
+<td>4:21–22</td>
+<td>Edom’s guilt on that day</td>
+<td>—</td>
+<td>live with Obadiah</td>
+<td>high (thematic)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="new-testament-sblgnt-searched-na28-checked-as-citation-of-record">New Testament (SBLGNT searched; NA28 checked as citation of record)</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Text</th>
+<th>Where</th>
+<th>What the use does</th>
+<th>Rival</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Matt 27:39 // Mark 15:29 — οἱ παραπορευόμενοι … κινοῦντες τὰς κεφαλάς (“those passing by … wagging their heads”)</td>
+<td>2:15 LXX (οἱ παραπορευόμενοι ὁδόν … ἐκίνησαν τὴν κεφαλήν, “those passing along the way … wagged their head”); 1:12 LXX</td>
+<td>The participle and the head-wagging coincide in Greek <strong>only at Lam 2:15</strong></td>
+<td><strong>Jer 18:16 LXX</strong> (διαπορευόμενοι … κινήσουσιν τὴν κεφαλὴν αὐτῶν, “those passing through … will wag their head”); Ps 79:13 [Eng 80:12] and Jer 19:8 have the participle. The Gospels lack ὁδόν (“way”). <strong>Ps 22 governs the scene</strong></td>
+<td><strong>low–moderate</strong> <code>[S: audit]</code></td>
+</tr>
+<tr class="even">
+<td>Matt 5:39; Luke 6:29 — turning the cheek (σιαγών)</td>
+<td>3:30</td>
+<td>—</td>
+<td>Isa 50:6 (Matthew’s verb ῥαπίζω, “strike”, is Isaiah’s)</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Rev 14:19–20; 19:15 — the winepress trodden (ληνός, πατέω)</td>
+<td>1:15</td>
+<td>—</td>
+<td>Isa 63:3</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>1 Cor 4:13 — “the scum of the world”</td>
+<td>3:45 (סְחִי וּמָאוֹס, “offscouring and refuse”)</td>
+<td>Hebrew only; the Greek of 3:45 has none of Paul’s words</td>
+<td>—</td>
+<td>uncertain</td>
+</tr>
+<tr class="odd">
+<td>Luke 2:25–26 — “the consolation of Israel”; “the Lord’s Christ”</td>
+<td>1:2–21 (παρακαλῶν, “comforter”); 4:20 (χριστὸς κυρίου, “the Lord’s anointed”)</td>
+<td>Both of Lamentations’ unanswered words meet in one Lukan sentence</td>
+<td>both phrases are also Isaianic and common</td>
+<td>moderate</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Live sources for the sweep’s elevated prior (v0.2.0):</strong></p>
+<ul>
+<li><strong>Jeremiah</strong> — 14 first, then 8, 20, 31 and 25;</li>
+<li><strong>Isaiah 47 and 51:17–52:2</strong>, with 52:11 and 63–64;</li>
+<li><strong>Nahum 3</strong>;</li>
+<li><strong>Ps 89 (for Lam 2)</strong> and <strong>Ps 77 (for 3:31)</strong>;</li>
+<li><strong>Job 16 and 19 (for Lam 2, 3 and 5)</strong>;</li>
+<li><strong>Deut 28 (4:16; 1:3)</strong>;</li>
+<li><strong>Zephaniah’s “day”</strong>.</li>
+</ul>
+<p><strong>Pooled families, to be read as families rather than as sources:</strong> the communal laments (Ps 74, 79, 80, 22); the siege-cannibalism curse; the hissing passers-by. <strong>No formula citation anywhere in the book.</strong> <code>[T]</code></p>
+<hr />
+<h2 id="christological-trajectory">Christological Trajectory</h2>
+<p>Lamentations is not predictive prophecy, and nothing in it is offered as a promise of a Messiah. Its connections to Christ run through <strong>trajectory</strong> and <strong>typology</strong>, and through the questions it leaves open. <code>[I]</code></p>
+<ol type="1">
+<li><strong>The comforter who does not come — trajectory.</strong> The book’s refrain is that there is no מְנַחֵם (“comforter”; in Swete, παρακαλῶν). The canon answers in stages: “Comfort, comfort My people” (Isa 40:1); Simeon “looking for the consolation (παράκλησις) of Israel” (Luke 2:25); and “another Helper (παράκλητος)” (John 14:16). Every Greek step is verified. <em>Confidence: moderate–high.</em> <code>[T]</code> for the words; <code>[I]</code> for the line.</li>
+<li><strong>The cup — typology through an established category.</strong> Zion drank the cup of the LORD’s wrath; at the end of ch. 4 it passes from her (4:21–22), as in Isa 51:22. In the Gospels the Son drinks the cup (Matt 26:39; John 18:11). The category — the cup of wrath — is the prophets’ own (Jer 25:15; Isa 51:17), so this is not allegory. <em>Confidence: high (category); moderate (Lamentations’ own contribution).</em> <code>[I]</code></li>
+<li><strong>The anointed taken — trajectory and contrast.</strong> “The breath of our nostrils, the LORD’s anointed, Was captured in their pits” (4:20). In the Hebrew it is the Davidic king, and his capture is the failure of the hope invested in him. In the Greek, χριστὸς κυρίου invited a Christological reading <code>[S]</code>. The honest route runs through the Davidic covenant. Lam 2 speaks the language of Ps 89’s lament over the rejected anointed: נאר (“spurned”) occurs only at Lam 2:7 and Ps 89:40 [Eng 89:39], and the enemy’s horn raised at 2:17 inverts Ps 89:18, 25, 43 [Eng 89:17, 24, 42]. Lam 4:20 puts the king “caught in their pits” in the figure of Ezek 19:4, 8 <code>[S: audit]</code>. The captured anointed opens a question about David’s line that only a greater anointed can close. The Gospels’ verb for Jesus’ arrest, συλλαμβάνω (“seize”, John 18:12; Luke 22:54), matches Swete’s συνελήμφθη (“was seized”) at 4:20 — a verbal touch, <em>uncertain</em> as design. <em>Confidence: moderate.</em></li>
+<li><strong>The man under the rod — type and contrast.</strong> The גֶּבֶר (“man”) of ch. 3 is afflicted by God’s own hand, mocked “all the day” (3:14), gives his cheek to the smiter (3:30), waits in silence (3:26–28), and is redeemed (גאל, “redeem”, 3:58). The pattern runs through Isa 50:6 — “I gave … my cheeks to those who pluck out the beard”, which with Job 16:10 is one of only two exclusive partners of 3:30 — to the Passion <code>[S: audit]</code>. The passers-by of Matt 27:39 may touch Lam 2:15 in the Greek, but Jer 18:16 shares the image and Ps 22 governs the scene. <em>Low–moderate.</em> <strong>But the contrast must be kept:</strong> the man says “we have transgressed” (3:42); Christ bears the rod for sins not his own. <em>Confidence: moderate (type); high (contrast).</em> <code>[I]</code></li>
+<li><strong>The day of the LORD’s anger — trajectory.</strong> Lamentations treats the fall of Jerusalem as the day of the LORD come early, on God’s own people (1:12; 2:1, 21–22; 3:2). The New Testament places the decisive day of wrath at the cross and its vindication (Rom 3:25–26; 5:9). <code>[S]</code> for the NT theology, <em>moderate</em>.</li>
+</ol>
+<p><strong>Moralism check.</strong> The besetting temptation is <strong>“Be resilient like the man of chapter 3: remember God’s faithfulness and you will find hope.”</strong> It turns 3:21–24 into a technique of positive recall and makes the sufferer the hero. The text resists it twice. First, the man’s hope is grounded <em>outside</em> himself, in the character the LORD has revealed (Exod 34:6–7) — his חֶסֶד is not used up, his compassion does not fail. Second, the book does not end in his recovery: it ends in a community still asking (5:22). <strong>The gospel ground is the LORD who keeps covenant and the Son who drank the cup, not the sufferer’s ability to remember.</strong> The other temptation is the reverse moralism: <strong>“They sinned, so they suffered; do not sin.”</strong> The book does confess sin (1:8, 18; 3:42; 4:6, 13; 5:16), but it also protests (2:20; 5:7) and never lets confession silence lament. <code>[I]</code></p>
+<hr />
+<h2 id="preaching-traps">Preaching Traps</h2>
+<ol type="1">
+<li><strong>Extracting “Great is Thy faithfulness”.</strong> Preaching 3:22–24 as the book’s message, with the surrounding poems as background. It sounds like a sermon on hope that never sits in the ruins. The ESV heads all of ch. 3 “Great Is Your Faithfulness” (editorial). <em>Bites at:</em> 3:19–24, and any series that preaches ch. 3 first or alone. <em>Corrective:</em> the verses are the centre of a lament, not its escape. The arithmetic centre is 3:31–33, and those verses also have to reckon with 2:1–8 and 5:22. <strong>And the Greek lacks 3:22–24 altogether</strong> — not a reason to doubt them, but a reminder that the book did not circulate as a hymn of hope with some lament attached.</li>
+<li><strong>Resolving what the book leaves open.</strong> Ending the series on the doxology (5:19), or translating 5:22 as though the question has been answered. <em>Bites at:</em> 5:19–22; 4:22. <em>Corrective:</em> the doxology is followed by “Why?” (5:20) and “unless” (5:22). The Greek removes even the “unless”. <strong>Let the congregation leave with the question asked well, not answered prematurely.</strong> A pastoral landmine: hearers in fresh grief may need to hear that lament is itself faithful speech before they hear anything else.</li>
+<li><strong>“God didn’t do this — Babylon did.”</strong> Softening ch. 2 to protect God’s reputation. <em>Bites at:</em> 2:1–9, 17, 21–22; 3:1–18, 37–38. <em>Corrective:</em> the book names the LORD as the agent again and again, and never names Babylon. Its theology holds three claims together (see <em>Presenting Situation</em>); the sermon must hold all three.</li>
+<li><strong>“They deserved it” — confession without lament.</strong> The reverse error: making the book a lesson in just deserts. <em>Bites at:</em> 1:8, 18; 3:39–42; 4:6, 13. <em>Corrective:</em> the same poems ask “With whom have You dealt thus?” (2:20) and say “it is we who have borne their iniquities” (5:7). The book is a prayer, not a verdict.</li>
+<li><strong>Reading it as Jeremiah’s diary.</strong> Hanging the poems on Jeremiah’s biography — the pit of Jer 38 at Lam 3:52–55, his tears at 1:16. <em>Bites at:</em> 3:1–21, 48–55; the NASB95 heading “Jeremiah Shares Israel’s Affliction”. <em>Corrective:</em> the Hebrew book is anonymous; the man of ch. 3 is a representative “I”; and <strong>Jeremiah’s cistern had no water (Jer 38:6) while the man of 3:54 has water over his head.</strong> Use the Jeremian vocabulary as intertext, not as authorship. <strong>Jeremiah 14 is Lamentations’ densest partner in the canon</strong> — a shared language of grief to be traced, not a signature <code>[S: audit]</code>.</li>
+<li><strong>Christologising too fast.</strong> Hearing Christ speak at 1:12 (“Is it nothing to you?”, a Good Friday text in Christian liturgy, <code>[S]</code>) or reading 4:20 as about Jesus because the Greek says χριστός. <em>Bites at:</em> 1:12; 3:1–30; 4:20. <em>Corrective:</em> in its own voice 1:12 is Zion, and 4:20 is Zedekiah. Christ is reached through the categories — the cup, the anointed, the day of wrath — not by changing the speaker.</li>
+<li><strong>Skipping the imprecations.</strong> Omitting 1:21–22; 3:59–66; 4:21–22 as sub-Christian. <em>Bites at:</em> those verses. <em>Corrective:</em> they hand vengeance to God (3:64, “You will recompense them”) rather than taking it, and 4:22 sets the end of Zion’s punishment beside the start of Edom’s. Preach them as prayer, not as permission.</li>
+</ol>
+<hr />
+<h2 id="earlylate-echo-table">Early↔︎Late Echo Table</h2>
+<p>Every row is a lemma chain checked against the WLC index; the confidence column rates the <em>design</em>.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Early</th>
+<th>Later</th>
+<th>Relationship</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1 Zion “sits alone” (יָשְׁבָה בָדָד, “sits alone”)</td>
+<td>3:28 the man “sits alone” (יֵשֵׁב בָּדָד); <strong>5:19 “You, O LORD, sit enthroned (תֵּשֵׁב) forever”</strong></td>
+<td>Replants — the city’s isolation taken into the man’s chosen silence, and answered by the one who sits enthroned. בָּדָד occurs only at 1:1 and 3:28</td>
+<td>high (1:1 ↔︎ 3:28); moderate–high (5:19)</td>
+</tr>
+<tr class="even">
+<td>1:1 “like a widow” (כְּאַלְמָנָה)</td>
+<td>5:3 “our mothers are like widows”</td>
+<td>Frames — the book’s only two occurrences of אַלְמָנָה, first and last poems</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>1:7 Jerusalem “remembers the days of her affliction and wandering” (זָכְרָה… עָנְיָהּ וּמְרוּדֶיהָ)</td>
+<td>3:19 “Remember my affliction and my wandering” (זְכָר־עָנְיִי וּמְרוּדִי)</td>
+<td>Replants — the city’s memory becomes the man’s prayer; מָרוּד (“wandering”) occurs only in these two verses</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>1:9, 11, 20; 2:20 “See, O LORD” (רְאֵה יְהוָה)</td>
+<td>3:1 “the man who has seen (רָאָה) affliction”; 3:59–60 “You have seen (רָאִיתָה)”; 5:1 “look, and see”</td>
+<td>Answers, in part — what Zion begs God to see, the man testifies God has seen; the community begs again</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>1:2, 9, 16, 17, 21 “none to comfort”</td>
+<td>2:13 “that I may comfort you” — and no comfort follows</td>
+<td>Resolves negatively — the root נחם does not occur again after 2:13</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>1:12; 2:1, 21, 22 “the day of His anger”</td>
+<td>4:11 “He has poured out His fierce anger”; 4:22 “the punishment of your iniquity has been completed”</td>
+<td>Resolves — the day of anger reaches its term</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>1:14 “the yoke (עֹל) of my transgressions… on my neck (צַוָּאר)”</td>
+<td>3:27 “good for a man to bear the yoke (עֹל) in his youth”; 5:5 “on our necks (צַוָּאר)”</td>
+<td>Replants — the yoke of sin becomes a discipline borne; the neck is pursued again. עֹל and צַוָּאר each occur only twice</td>
+<td>high (lemmas); moderate (design)</td>
+</tr>
+<tr class="even">
+<td>2:7 “The Lord has rejected (זָנַח) His altar”</td>
+<td>3:31 “the Lord will not reject (זנח) forever”</td>
+<td><strong>Answers</strong> — the same verb, the same subject</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>3:31 “will not reject forever” (לְעוֹלָם)</td>
+<td>5:20 “Why do You forget us forever (לָנֶצַח)?”; 5:22 “unless You have utterly rejected (מָאֹס מְאַסְתָּנוּ) us”</td>
+<td><strong>Tests</strong> — the confession of ch. 3 is put back to God as an open question at the end</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>2:11 “my eyes fail (כָּלוּ) with tears”; 2:22 “my enemy annihilated (כִּלָּם) them”</td>
+<td><strong>3:22 “His compassions never fail (לֹא־כָלוּ)”</strong>; 4:11 “The LORD has accomplished (כִּלָּה) His wrath”; 4:17 “our eyes failed (תִּכְלֶינָה)”</td>
+<td>Turns on the root כלה (“finish, fail”) — eyes fail, the enemy finishes, God finishes his wrath, but his compassions do not fail. Five verses, verified</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>3:22 “we are not consumed” (MT תָמְנוּ, root תמם)</td>
+<td>4:22 “the punishment of your iniquity has been completed” (תַּם)</td>
+<td>Resolves — <strong>the root תמם occurs only at these two places</strong>. See the pulpit note: both ESV and NASB95 hide it at 3:22</td>
+<td>high (lemma); moderate (design)</td>
+</tr>
+<tr class="even">
+<td>3:23 “new (חֲדָשִׁים) every morning”</td>
+<td>5:21 “renew (חַדֵּשׁ) our days as of old (כְּקֶדֶם)”</td>
+<td>Answers — the man’s daily newness becomes the community’s petition; קֶדֶם (“old”) also at 1:7 and 2:17</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>2:16 the enemy: “This is the day we waited for (קִוִּינֻהוּ)”</td>
+<td>3:25 “The LORD is good to those who wait (לְקֹוָו) for Him”</td>
+<td>Reverses — two kinds of waiting; קוה occurs only at these two places</td>
+<td>high (lemma); moderate (design)</td>
+</tr>
+<tr class="even">
+<td>3:30 the man’s “reproach” (חֶרְפָּה)</td>
+<td>3:61 “You have heard their reproach”; 5:1 “see our reproach”</td>
+<td>Builds — the book’s only three occurrences of חֶרְפָּה</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>1:21 “bring the day which You have proclaimed, That they may become like me”; 1:22 “let all their wickedness come before You”</td>
+<td>3:64–66; <strong>4:21–22</strong> (Edom’s cup)</td>
+<td>Answers — the petition of ch. 1 receives a declared answer in ch. 4. See the pulpit note on 1:21</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>1:3 Judah “dwells among the nations (בַּגּוֹיִם)”</td>
+<td>2:9 king and princes “among the nations”; 4:15 “among the nations they said”; <strong>4:20 “under his shadow We shall live among the nations”</strong></td>
+<td>Reverses — the hope of living safely among the nations under the king collapses</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>2:18–19 “let your tears run down…; lift up your hands”</td>
+<td>3:41 “We lift up our heart and hands”; 3:48–49 “My eyes run down with streams of water… without stopping”</td>
+<td>Answers — what the narrator commanded Zion, the man and the community do</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>1:4; 1:15; 2:6, 7, 22 מוֹעֵד (“appointed feast”)</td>
+<td>(no later occurrence)</td>
+<td>Inverts — six times in two poems, the feast becomes the occasion of slaughter (2:22, “as in the day of an appointed feast My terrors”), then the word disappears</td>
+<td>high (count); moderate (design)</td>
+</tr>
+<tr class="odd">
+<td>1:5; 2:11, 19, 20; 4:4 עוֹלָל (“child”, <em>ʿôlāl</em>)</td>
+<td>1:12, 22; 2:20; 3:51 עוֹלַל (“deal severely”, <em>ʿôlal</em>)</td>
+<td><strong>Paronomasia</strong> — the word for what God has done and the word for the children it was done to sound alike, and stand side by side at 2:20</td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Addressee differentiation.</strong> The book opens by naming the parties who failed Zion: lovers and friends (1:2, 19), priests and elders (1:19), prophets (2:14), the king (2:6, 9). The later poems settle with each in turn: prophets and priests at 4:13, 16; the elders at 5:12, 14; the king at 4:20. <strong>Only the LORD, appealed to from 1:9 onwards, is still being addressed at the end.</strong> <code>[T]</code></p>
+<hr />
+<h2 id="pulpit-notes-esv-against-nasb95">Pulpit Notes — ESV against NASB95</h2>
+<p>Where the declared pulpit text and the study text diverge in ways that bear on the findings above. These are notes to the preacher about what the congregation will hear, not verdicts on the translations.</p>
+<ol type="1">
+<li><strong>3:22.</strong> Both versions follow the emended reading תַּמּוּ (“they [the mercies] cease”), as BHS’s apparatus proposes with one manuscript, the Syriac and the Targum: ESV “The steadfast love of the LORD never ceases”; NASB95 “The LORD’s lovingkindnesses indeed never cease”. The Hebrew text has תָמְנוּ (“we are [not] consumed”; KJV “It is of the LORD’s mercies that we are not consumed”). <strong>The congregation will not hear the link to 4:22 (תַּם, “completed”).</strong></li>
+<li><strong>4:6.</strong> ESV: “the <strong>chastisement</strong>… greater than the <strong>punishment</strong> of Sodom”; NASB95: “the <strong>iniquity</strong>… greater than the <strong>sin</strong> of Sodom”. עָוֹן and חַטָּאת can mean either guilt or its penalty. <strong>The ESV congregation hears that Jerusalem suffered more; the NASB95 reader hears that Jerusalem sinned more.</strong> This bears on traps 3 and 4.</li>
+<li><strong>1:21.</strong> ESV: “You <strong>have brought</strong> the day you announced”; NASB95: “Oh, that You <strong>would bring</strong> the day”. The Hebrew perfect הֵבֵאתָ can be read either way. The ESV hears a statement; the NASB95 a prayer — which makes the echo to 4:21–22 an <em>answered</em> prayer.</li>
+<li><strong>מוֹעֵד (“appointed feast”).</strong> ESV: “festival” (1:4), “assembly” (1:15), “meeting place” and “festival” (2:6), “day of festival” (2:7), “festival day” (2:22). NASB95 keeps “appointed” audible in most places. <strong>In the ESV the chain cannot be heard.</strong></li>
+<li><strong>3:33.</strong> ESV “he does not afflict <strong>from his heart</strong>” (literal: מִלִּבּוֹ); NASB95 “<strong>willingly</strong>”. The ESV keeps the anthropology of the verse.</li>
+<li><strong>Headings.</strong> ESV heads ch. 3 “Great Is Your Faithfulness”; NASB95 heads it “Jeremiah Shares Israel’s Affliction” and titles the book “The Lamentations of Jeremiah”. <strong>Neither heading is in the Hebrew.</strong> See traps 1 and 5.</li>
+</ol>
+<hr />
+<h2 id="preaching-units">Preaching Units</h2>
+<p><strong>Option A — five sermons, one per poem.</strong> This is the natural series, because each poem is a complete alphabet.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Working title</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1–22</td>
+<td>No one to comfort</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>2:1–22</td>
+<td>When the Lord is the enemy</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>3:1–66</td>
+<td>The man who has seen affliction</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>4:1–22</td>
+<td>Gold grown dim, and the cup passed on</td>
+<td>Standard (⭐ for 4:20–22)</td>
+</tr>
+<tr class="odd">
+<td>5:1–22</td>
+<td>Remember, O LORD</td>
+<td>⭐ HIGH</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Option B — seven sermons, with ch. 3 in three parts.</strong> This suits a congregation that needs more time in the centre of the book.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Working title</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3:1–24</td>
+<td>From the rod to “the LORD is my portion”</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>3:25–42</td>
+<td>Good to wait — and “You have not pardoned”</td>
+<td>⭐ HIGH (contains the book’s centre, 3:31–33)</td>
+</tr>
+<tr class="odd">
+<td>3:43–66</td>
+<td>“You drew near… You said, ‘Do not fear!’”</td>
+<td>Standard</td>
+</tr>
+</tbody>
+</table>
+<p><em>Unit boundaries:</em> the stanza seams in ch. 3 are marked by a setumah after every third verse in Leningrad (BHS agrees), so any split falls on a stanza boundary. <strong>Do not divide 3:19–24 from 3:25–33</strong>: they are one argument across the ח and ט stanzas, and the ending of a sermon at 3:24 is exactly trap 1. <code>[T]</code> for the setumot; <code>[I]</code> for the advice.</p>
+<hr />
+<h2 id="what-changed-in-v0.2.0-and-v0.2.1">What Changed in v0.2.0 and v0.2.1</h2>
+<p>Every change below comes from the claim audit of 3 October 2026 (<code>dig-deeper-lamentations-claim-audit.md</code>). Its verdicts were accepted as settled, not re-derived. Each change was then checked against the WLC before it was made.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Thread</th>
+<th>v0.1.0</th>
+<th>v0.2.0</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intertextual Map — Jeremiah</td>
+<td>Jer 8, 9, 13, 14:17, 20, 22, 25, 30–31 as single rows</td>
+<td><strong>Jer 14 leads</strong>: 14:17 is the exclusive partner of 2:18, 2:13 and 3:48; 14:19 of 5:22; first of 858 chapters in the density scan. Jer 8 and 6 added</td>
+<td>The audit’s chief finding — the overview’s biggest omission</td>
+</tr>
+<tr class="even">
+<td>Intertextual Map — the Twelve</td>
+<td>Nahum absent</td>
+<td><strong>Nah 3 added</strong> (exclusive contacts at 1:5, 2:19, 4:21; the skirts at 1:9 shared with Jer 13; 2:13 removed in v0.2.1); Hab 2:16 for the cup; Hos 2:6 [Heb 2:8] for 3:9</td>
+<td>Audit B; 2nd in the scan</td>
+</tr>
+<tr class="odd">
+<td>Deut 28</td>
+<td>“live”, six places, high</td>
+<td><strong>Two exclusive links</strong> (4:16; 1:3 with 28:45 added). 4:10 → 2 Kgs 6:29; 4:19 → Jer 4:13 and 2 Sam 1:23; 1:5 = “the foe as head” only</td>
+<td>Audit A1. <strong>Error corrected:</strong> פְּרִי (“fruit”) is at 2:20 only, not at 4:10</td>
+</tr>
+<tr class="even">
+<td>Lev 13</td>
+<td>the city as leper; high</td>
+<td><strong>Moderate</strong>, at 4:15 only, of the defiled priests and prophets; Isa 52:11 closer; the 1:1 leg low</td>
+<td>Audit A2</td>
+</tr>
+<tr class="odd">
+<td>Binding device</td>
+<td>concentric frame, moderate–high</td>
+<td><strong>A formally centred book</strong>; poem 2 a lexical hub; concentric frame low–moderate, held as a proposal</td>
+<td>Audit A3. The אֵיכָה (“How!”) and “See, O LORD” evidence was withdrawn as not exclusive</td>
+</tr>
+<tr class="even">
+<td>Handoff</td>
+<td>Dan 9 takes up Lamentations’ language, moderate–high</td>
+<td><strong>Thematic</strong>, moderate; lexically low. The closest partners are Isa 63–64, Ps 74, Ps 89 and Jer 14</td>
+<td>Audit A4</td>
+</tr>
+<tr class="odd">
+<td>Isa 47</td>
+<td>“every one of Zion’s humiliations is Babylon’s”</td>
+<td>1:9 high; 2:10 and 1:1 moderate–high; “every one” withdrawn; Nah 3 equal</td>
+<td>Audit B1</td>
+</tr>
+<tr class="even">
+<td>Isa 51</td>
+<td>51:17–23, “the densest single answer … in the canon”</td>
+<td><strong>Isa 51:17–52:2, “the densest of the reversal passages”</strong>; יגה (“cause grief”, 1:12) and LXX 2:13 added</td>
+<td>Audit B2</td>
+</tr>
+<tr class="odd">
+<td>Jer 31:18</td>
+<td>high</td>
+<td>high for 5:21 (2 of 28 verses; the qere is a cohortative); 2:18 → Jer 14:17</td>
+<td>Audit B3</td>
+</tr>
+<tr class="even">
+<td>Ezekiel’s net</td>
+<td>1:13, moderate–high</td>
+<td><strong>4:20 ~ Ezek 19:4, 8</strong>, moderate; 1:13 low (idiom)</td>
+<td>Audit B4</td>
+</tr>
+<tr class="odd">
+<td>Ps 89</td>
+<td>Lam 4–5, “six places”, high</td>
+<td><strong>Lam 2:2, 7, 15, 17</strong>, moderate–high; נאר (“spurn”) and 2:17 added; 3:31 → Ps 77:8; 5:22 → Jer 14:19; 5:16 → Job 19:9</td>
+<td>Audit C1</td>
+</tr>
+<tr class="even">
+<td>Job</td>
+<td>“the man of Lam 3 suffers in the images of Job”</td>
+<td><strong>Lam 3 is a mosaic</strong>: three exclusive Job pairs, plus Job 19:9 at 5:16; Job mid-band by density; Uz → Jer 25:20</td>
+<td>Audit C2. <strong>Errors corrected:</strong> Job 9:18’s noun; סכך (“cover”) at 3:43–44</td>
+</tr>
+<tr class="odd">
+<td>Matt 27:39</td>
+<td>moderate–high</td>
+<td><strong>low–moderate</strong>; Jer 18:16 LXX rival; Ps 22 governs</td>
+<td>Audit C3</td>
+</tr>
+<tr class="even">
+<td>Ps 143:3</td>
+<td>“identical”</td>
+<td><strong>“verbatim, first two words reversed”</strong></td>
+<td>Audit, supplementary gate</td>
+</tr>
+<tr class="odd">
+<td>Amos 5:18, 20</td>
+<td>“phrase”</td>
+<td>phrase at Amos 5:18 and <strong>Job 12:25</strong>; not 5:20</td>
+<td>Supplementary gate</td>
+</tr>
+<tr class="even">
+<td>1 Kgs 9:8; Hos 2:11 [Heb 2:13]</td>
+<td>high; moderate–high</td>
+<td>moderate; moderate (pooled: 6 and 9 verses)</td>
+<td>Supplementary gate</td>
+</tr>
+<tr class="odd">
+<td>Greek section</td>
+<td>six items</td>
+<td><strong>+ LXX 2:13 (ποτήριον, “cup”); + Swete/Rahlfs at 4:16</strong></td>
+<td>Audit B2; A1</td>
+</tr>
+<tr class="even">
+<td>Christological Trajectory</td>
+<td>point 3 rested on “Ps 89 six times”; point 4 on the passers-by</td>
+<td>point 3 rests on Lam 2 ~ Ps 89 and 4:20 ~ Ezek 19; point 4 adds Isa 50:6; passers-by low–moderate</td>
+<td>Audits C1, B4, C2, C3</td>
+</tr>
+<tr class="odd">
+<td>Structural counts</td>
+<td>word counts; centre at 3:31–33</td>
+<td>unchanged; <strong>the counting unit is named, and the word midpoint (3:3) noted</strong></td>
+<td>Audit A3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>v0.2.1 patch (4 October 2026), from claim audit 2:</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Section</th>
+<th>v0.2.0</th>
+<th>v0.2.1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intertextual Map — Ezekiel (4:20)</td>
+<td>rarity cell “גּוֹי + שַׁחַת: 3 verses (Ezek 19:4, 8; Ps 9:16)”, which did not include Lam 4:20</td>
+<td><strong>no shared lemma</strong>; the exclusive item is the frame “caught in their pit(s)”; rating unchanged here (audit 2: low–moderate in the Hebrew, moderate as a theme — for Finalise)</td>
+</tr>
+<tr class="even">
+<td>Intertextual Map — Nah 3</td>
+<td>a contact with 2:13 (“who will grieve … comforters”)</td>
+<td><strong>struck</strong>: no נוד in Lamentations; מִי + נחם is a 6-verse pooled pair, Isa 51:19 stronger</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unchanged:</strong> the Microscript, the Presenting Situation, the Preaching Traps (trap 5 strengthened), the Early↔︎Late Echo Table (internal and lemma-gated; the audit touched none of it), the Pulpit Notes and the Preaching Units.</p>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Version:</strong> 0.2.1 · <strong>Date:</strong> 3 October 2026, patched 4 October 2026 · <strong>Mode:</strong> Upgrade (interim), from the v0.1.0 Draft of the same day; v0.2.1 corrects two factual cells per claim audit 2</p>
+<p><strong>Sources consulted.</strong></p>
+<ul>
+<li>The claim audit <code>Lamentations/dig-deeper-lamentations-claim-audit.md</code> (3 October 2026; eleven claims; three blind auditors; 56 findings reproduced by the main session). It is consumed as settled and tagged <code>[S: audit]</code>.</li>
+<li>No commentary has been opened. The <code>[S]</code> items from v0.1.0 — the Talmud’s attribution and order, the Ninth of Av, 4QLam, the Hexaplaric supply of 3:22–24, the patristic reading of 4:20, the dating range, and Leningrad’s Megilloth order — are still recalled, not checked. <strong>A Logos pass on those, and on whether Rahlfs prints the Jeremiah prologue, is still owed.</strong></li>
+<li>No dig-deeper runs or macro-synthesis yet.</li>
+</ul>
+<p><strong>Primary texts opened:</strong> as v0.1.0, plus every chapter of the WLC for the density scan (858 chapters of ten verses or more), and Swete Jer 18:16, Ezek 19:4, 8 and Ps 9:16 for the audit’s Greek checks.</p>
+<p><strong>Chains verified — Phase 10.5 gate:</strong></p>
+<ul>
+<li><strong>(a) Chains.</strong> The v0.1.0 gate stands: about 128 lemma claims, with seven corrected before writing.
+<ul>
+<li>v0.2.0 adds a <strong>rarity count</strong> to each new or revised row. Every count was re-run in this upgrade, including: Lev 19:32 with 5:12 (2 verses); Ezek 7:26 with 2:9 (2); Ezek 22:28 with 2:14 (2); Ps 48:3 with 2:15 (3); Sodom with הפך, “overthrow” (3); עבר + שׁרק, “pass by” + “hiss” (6); מוֹעֵד + שַׁבָּת, “appointed feast” + “sabbath” (9); חֶלְקִי יְהוָה, “the LORD is my portion” (Ps 119:57 and Lam 3:24 only); נוע + רֹאשׁ, “wag” + “head” (6); פצה + פֶּה, “open” + “mouth” (13).</li>
+<li><strong>Three factual errors of v0.1.0 are corrected:</strong> פְּרִי (“fruit”) at 4:10; Job 9:18’s noun; prophets at 4:16 (it is 4:13).</li>
+<li><strong>Two shape errors are corrected:</strong> Ps 143:3 is reordered, not identical; Amos 5:18 shares its phrase with Job 12:25.</li>
+</ul></li>
+<li><strong>(b) Editions.</strong> Every count names its edition: WLC for the Hebrew; Swete, with the Rahlfs export where named; SBLGNT checked against NA28.</li>
+<li><strong>(c) Apparatus.</strong> These features are each cited as BHS prints it, all <code>[unchecked — apparatus spread]</code>, and none carries a headline:
+<ul>
+<li>the פ/ע order;</li>
+<li>the petuchah after 5:18;</li>
+<li>the setumot in ch. 3;</li>
+<li>the distribution of אֲדֹנָי (“Lord”);</li>
+<li>the BHS deletion proposal at 4:15;</li>
+<li>the qere at 5:21;</li>
+<li>the LXX <em>Vorlage</em> at 2:13.</li>
+</ul></li>
+<li><strong>(d) Confidence flags.</strong> Every row of the map and the echo table carries one.</li>
+<li><strong>(e) Corpus.</strong> The corpus was reachable throughout.</li>
+<li><strong>Density scan.</strong> As drafted in Round 7, Amendment AB (<code>_skill-backup/round-7-draft/contacts.py</code>, run on the Mac). The top ten chapters for Lam 1–2 are each accounted for in the map.</li>
+</ul>
+<p><strong>Warrant counts (tags in the body, excluding the legend and this colophon):</strong> [T] 39 · [I] 25 · [S] 12 plus [S: audit] 34. Most table rows carry their warrant in the rarity and confidence columns instead of a tag.</p>
+<p><strong>Health note.</strong> Interim upgrade, text-first, audit-consumed. The single exclusive links are firm, and the map now shows which claims are links and which are patterns. <strong>The sweep should test, first:</strong></p>
+<ul>
+<li>whether Jer 14 is a source or a fellow lament (the direction is open);</li>
+<li>the 2 ↔︎ 4 phrase pairing, and the 1 ↔︎ 5 proposal;</li>
+<li>whether Lam 2’s Ps 89 cluster carries a Davidic reading of poem 2;</li>
+<li>the Greek of 2:13.</li>
+</ul>
+<p><strong>Finalise once 1:1–22, 2:1–22, 3:1–33, 3:34–66 and 5:1–22 have solo digs.</strong></p>
+
+</main>
+</div>
+</body>
+</html>
