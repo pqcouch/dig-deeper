@@ -1,0 +1,1 @@
+Auditor B report returned as text to the main session; verdicts: P1c Confirmed with nuance (moderate-high that v.20 recapitulates v.7; low that v.12 is a structural centre); P2b Needs reframing (high) — vv.16/21 'beyond' pair; P2c Uncertain (moderate).
