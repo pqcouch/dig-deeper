@@ -83,20 +83,20 @@ Four movements, following the code's own shape (dig Tool 3). Each lands on the P
 
 *FCF surfaced:* divided worship.
 
-### 2. Freedom written into law (21:1–22:17)
+### 2. Freedom written into law (21:1–22:20)
 
 **Function:** the created moral order applied to a freed people.
 
 - **The first law is a release:** *"he shall serve six years, and in the seventh he shall go out free"* (21:2).
 - The first section ends with a slave set free for an eye or a tooth (21:26–27). חָפְשִׁי ('free') stands in Exodus only in these four verses, and the verb at 21:26–27 is Pharaoh's — *"let go"*.
 - Then life, body and property under God's justice: the image of God behind 21:12 (Gen 9:6); the talion as a ceiling in court, turned at once into liberty for the slave.
-- **The twofold analysis is useful here:** these are the norms of the created order, applied and sanctioned in Israel's courts. What has changed since is the sanction, not the norm.
+- **The twofold analysis is useful here:** these are the norms of the created order, applied and sanctioned in Israel's courts. What has changed since is the sanction, not the norm. The movement ends with the three capital laws of 22:18–20 (sorcery, bestiality, sacrifice to other gods). These are the last of the court's sanctions, and the third brings the first commandment back into view.
 
 *TP established:* the God who released them claims their whole common life.
 
-### 3. The God who hears (22:18–23:19)
+### 3. The God who hears (22:21–23:19)
 
-**Function:** the hinge of the sermon.
+**Function:** the hinge of the sermon. It opens and closes on the same sentence: *"for you were sojourners in the land of Egypt"* (22:21; 23:9). That is a bracket Alexander and Johnstone both recognise as a section, before the sacred-time laws of 23:10–19.
 
 - **The verbs of Egypt turned on Israel:** *"You shall not afflict any widow or orphan"*. The same verb was used of Pharaoh's taskmasters (1:11–12).
 - *"If they cry to Me, I will surely hear"* (22:23), as at the bush (3:7).
@@ -175,4 +175,4 @@ The movement hinges are carried by the ESV, with four exceptions the preacher mu
 
 The **candidate Big Question** and the **four movements** are ready for the one-sentence-sermon and manuscript stage. Bring the sermon draft to `/sermon-review` when it is written.
 
-**Version:** 1.0 · 29 October 2026
+**Version:** 1.1 · 29 October 2026 — movements 2 and 3 re-divided at 22:20/21 after the Logos round, which found Alexander (Apollos 2:437–38) and Johnstone (1999, p. 57; Eerdmans Commentary, p. 93) dividing there; the Egypt bracket (22:21 / 23:9) now opens and closes movement 3. v1.0 kept in `_backup/`.

@@ -146,3 +146,19 @@ The dig is patched to **v1.1**: Headlines 1 and 5 are revised in place with `[S:
 - The bracket 22:21 / 23:9 is confirmed in print as a bracket of the **inner** block, as the audit found.
 
 `[S: Alexander; Johnstone; Reid; Goldingay]` The Assistant's closing line, *"the commentaries thus recognize intentional structural design"*, is its own gloss on three sources that disagree, and is not adopted.
+
+**Logos round 3 (29 Oct 2026) — verse-anchored questions on 23:13, and the structure of the code.**
+
+- **On 23:13**, six works were consulted: Alexander (Apollos, p. 522); Keil–Delitzsch (p. 416); Garrett (Kregel, p. 530); the *Faithlife Study Bible*; Childs (OTL, p. 483); and Sailhamer (*Pentateuch as Narrative*, p. 293). **None links 23:13 with 20:24.** The hiphil-of-זָכַר turn is therefore **not in print** in Patrick's library, and stays at **moderate** as an observation of this project.
+  - **What they do say bears on the frame.** **Sailhamer**: *"the end of this section takes up again the first commandment… which was also sounded at the beginning of this section (20:22–23)"*, and the recurring idolatry theme prepares for the calf. That is history for the **idolatry/first-commandment bookend** (20:23 ↔ 23:13), and it agrees with the dig's planted link to 32:4. **Alexander** connects 23:13a with 19:5 (obedience) and 23:13b with 20:3.
+  - **Two voices resist reading 23:13 as a structural close.** **Keil–Delitzsch** read it as a *"boundary line"* between two series of *mišpāṭîm*. **Childs** reads it as a *"parenetic gloss"* like 22:30 and 23:9b, *"more… than a formal conclusion"*.
+  - **Garrett** has pastoral material: not to invoke, describe or retell the pagan gods, but to speak instead of the LORD's acts (Deut 6:6–9).
+  - The *Faithlife Study Bible*'s "monolatry" stage-model is a contested developmental thesis in a study Bible. **Not adopted.**
+- **On structure.** **Alexander** (2:437–38) gives a five-part analysis: 20:22–26; 21:1–22:20 (rulings); **22:21–23:9 (moral precepts)**; 23:10–19; 23:20–33. **Johnstone** (*Exodus*, Sheffield 1999, p. 57; Eerdmans Commentary, p. 93) puts the core code (21:1–22:20) inside a covenantal framework of 20:22–26 and 22:21–23:19, rounded off by the exhortation of 23:20–33. **The section 22:21–23:9 is exactly the block bracketed by the Egypt clause**, so the bracket is a recognised section boundary. *Moderate–high.* Sprinkle's chiasm of Exodus 19–24 (A ch. 19 / B Decalogue / **C the people's fear, 20:18–21** / B′ 20:22–23:33 / A′ ch. 24) is reported **second-hand**, from the *Lexham Bible Dictionary* (Cerone), not from Sprinkle. The Assistant's paragraphs elaborating on Sprinkle's chiasm carry no citation and are not adopted. A chiastic centre is not automatically the point (Schnittjer).
+
+**Effect.**
+
+- The **first-commandment bookend** rises to **moderate–high** (Sailhamer; Johnstone).
+- **The zkr/name verbal turn stays moderate, unattested.**
+- **The Egypt bracket is confirmed as a section** (Alexander; Johnstone).
+- **The commentators' seam is 22:20/21, not 22:17/18.** The dig's split at 22:18 followed grammar (case law to prohibition); theirs follows content. The point-purpose movements are re-divided at 22:20/21 (v1.1). `[S: Alexander; Johnstone; Sailhamer; Keil–Delitzsch; Childs; Garrett; Cerone/Sprinkle]`
