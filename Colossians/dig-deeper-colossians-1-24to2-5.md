@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament, with the Rahlfs exports for Proverbs and Daniel (Theodotion) to check the wording of the partners named; the WLC for the Hebrew of Proverbs 2, Isaiah 45 and Daniel 2\
 **Study text:** NASB95\
 **Pulpit text:** ESV — declared by Patrick for Colossians (his own church). The export in the folder is Crossway's 2025 US text, not the ESV Anglicised; check the church's own edition before quoting from the pulpit\
-**Date:** 19 October 2026 · **Version:** 1.5 (v1.1 on 21 October 2026 from Patrick's first Logos round; v1.2 the same day from claim audit 1; v1.3 on 22 October 2026 from Patrick's second Logos round; v1.4 on 28 October 2026 from his third; v1.5 the same day from claim audits 2 and 3 — see *What Changed in v1.1* to *v1.5*)\
+**Date:** 19 October 2026 · **Version:** 1.6 (v1.1 on 21 October 2026 from Patrick's first Logos round; v1.2 the same day from claim audit 1; v1.3 on 22 October 2026 from Patrick's second Logos round; v1.4 on 28 October 2026 from his third; v1.5 the same day from claim audits 2 and 3; v1.6 on 29 October 2026, library status only — see *What Changed in v1.1* to *v1.6*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.0 (Draft, 19 October 2026), front-loaded at Phase 0.5\
 **Series context:** Second solo dig in the Colossians sweep, after 1:15–20; the overview's second ⭐ HIGH unit ("The mystery, which is Christ" — weighted for 1:24 and the 2:2 reading)
 
@@ -867,6 +867,14 @@ Health note: text-first and original-language-first. The three new or re-rated a
 | Ps 50:8 LXX (C33) | — | **discarded** | Tool 11 rivals |
 
 **Headlines:** unchanged. Claim audit 2's owed items for this dig are now applied.
+
+## What Changed in v1.6
+
+*29 October 2026. Source: Patrick's ownership ticks in his fourth Logos round (`Colossians/colossians-logos-answers-round-4-assessment.md`, §7). No finding or rating changes.*
+
+**Library status:** not owned, so cited in this dig at second hand (through the Assistant's "All books" search) — Beale's *Colossians and Philemon* (BECNT); Beale–Carson's *CNTUOT*; Beale–Gladd's *Hidden but Now Revealed* (provisional: one mark covered it and *DPL*); Harris, *Prepositions and Theology*; Comfort. Owned and cited here — Dunn; Wright; Vincent; Robertson.
+
+**Headlines:** unchanged.
 
 ## Appendix — Candidate Toolkit Amendment (drafted, not applied)
 
