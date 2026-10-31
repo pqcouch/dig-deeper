@@ -3,11 +3,11 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus (`12-Colossians-NA28-apparatus.txt`); SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament (Old Greek and Theodotion texts of Daniel)\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.0\
+**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026; see *Revision v1.1*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 4:2–6, "Prayer and an open door" (Standard). Twelfth Colossians dig; it follows the 3:12–17 dig of the same day and the earlier 3:18–4:1 dig, and precedes the undug 4:7–18
 
-Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]`, `[S: audit 2]`, `[S: audit 3]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-claim-audit-2.md`, `…-claim-audit-3.md`) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus.
+Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]`, `[S: audit 2]`, `[S: audit 3]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-claim-audit-2.md`, `…-claim-audit-3.md`) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus · `[S: audit 4]` a verdict of claim audit 4 (`Colossians/dig-deeper-colossians-claim-audit-4.md`, 31 October 2026).
 
 ---
 
@@ -37,9 +37,9 @@ Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference 
 
 3. **The word passes from the apostle to the church: "the word" for which a door must open (4:3) becomes "your word" (4:6), and Paul's "must" becomes theirs.** `[T]` Surfaced by: Repetition, Linking Words, Tool 8. λόγος ("word") stands at 4:3 (θύραν τοῦ λόγου, "a door for the word") and 4:6 (ὁ λόγος ὑμῶν, "your word, speech"), completing a chain through the letter: "the word of the truth, the gospel" (1:5), "the word of God" fully carried out (1:25), "the word of Christ" dwelling (3:16) `[T]` (overview Echo 22, moderate). δεῖ ("it is necessary, must") stands in the letter only at 4:4 ("as I must speak") and 4:6 ("how you must answer"); λαλέω ("speak") only at 4:3 and 4:4 `[T]` *(δεῖ is filed under δέω in the SBLGNT index; counted by form)*. **The apostle's obligation to speak and the church's obligation to answer are put in the same words** `[I]`, high. *Both English versions break the λόγος link ("the word" / "your speech"); only the ESV keeps "ought" in both verses* (Tool 8).
 
-4. **The walk ends facing outward, "in wisdom", buying up the time — and Daniel 2 stands behind the scene again.** `[T]`/`[I]` Surfaced by: Vocabulary, Tool 11 (the scan), Move 4. περιπατέω ("walk") stands in the letter at 1:10, 2:6, 3:7 and 4:5 — its fourth and last use, now "toward those outside" (πρὸς τοὺς ἔξω; cf. 1 Thess 4:12, the only other NT verse with both words) `[T]`. σοφία ("wisdom") makes its sixth and last appearance (1:9, 28; 2:3, 23; 3:16; 4:5) `[T]`: the wisdom prayed for "so that you will walk" (1:9–10) is the wisdom they walk in `[I]`. τὸν καιρὸν ἐξαγοραζόμενοι ("buying up the time") stands in the NT only here and at Eph 5:16, and in Swete only at **Daniel 2:8 (both Greek texts)**, where Nebuchadnezzar says the wise men "are buying time" `[T]`. The scan ranks Daniel 2 first for this passage (both texts in the top three): a captive prays with his friends "concerning this mystery" (2:18), blesses the God who "gives wisdom to the wise" and "changes times" (2:20–21), gives thanks (2:23), and speaks the mystery to a pagan king (2:27–30) `[T]`. Claim audit 1 rated Daniel 2 moderate as the *shape* behind 1:26–27 `[S: audit 1]`. **Its return here, with the one rare verb, makes it a letter-level field** `[I]`, moderate; as the source of 4:5's wording, low–moderate (the sense is reversed: the wise men stall, the church seizes). *Queued as C57.*
+4. **The walk ends facing outward, "in wisdom", buying up the time — with a single rare word shared with Daniel 2.** `[T]`/`[I]` Surfaced by: Vocabulary, Tool 11, Move 4. περιπατέω ("walk") stands in the letter at 1:10, 2:6, 3:7 and 4:5 — its fourth and last use, now "toward those outside" (πρὸς τοὺς ἔξω; cf. 1 Thess 4:12, the only other NT verse with both words) `[T]`. σοφία ("wisdom") makes its sixth and last appearance (1:9, 28; 2:3, 23; 3:16; 4:5) `[T]`: the wisdom prayed for "so that you will walk" (1:9–10) is the wisdom they walk in `[I]`. τὸν καιρὸν ἐξαγοραζόμενοι ("buying up the time") stands in the NT only here and at Eph 5:16, and in Swete only at **Daniel 2:8 (both Greek texts)**, where Nebuchadnezzar tells the wise men (σοφοί) that they "are buying time" `[T]`. Both Pauline uses stand in a "walk wisely" clause (Eph 5:15; Col 4:5) `[T]`. **v1.1 — claim audit 4 (C57):** the verb contact is *low–moderate* as an allusion and *moderate* as the only Greek-Bible precedent for the phrase; the sense is reversed (the wise men stall, the church seizes). **Daniel 2 as a letter-level field at 4:2–5 is withdrawn (low):** its scan rank rests on ἐξαγοράζω and μυστήριον, and one or other Greek Daniel 2 ranks in the top three for 9 of 20 NT "mystery" passages, so its recurrence here is predicted by the word "mystery" alone `[S: audit 4]`. Claim audit 1's moderate for Daniel 2 as the *shape* behind 1:26–27 is unaffected `[S: audit 1]`. *High on the words; low–moderate on the Daniel contact.*
 
-5. **Speech "with grace, seasoned with salt", fitted "to each one" — and three contacts with the sayings of Jesus in five verses.** `[T]`/`[I]` Surfaced by: Vocabulary, Tool 11, Move 4. ἐν χάριτι ("with grace") repeats 3:16; λόγος and χάρις share a verse in Colossians only at 3:16 and 4:6 `[T]` (3:12–17 dig `[S: dig]`). ἅλας ("salt") with ἀρτύω ("season") stands in the NT only at Mark 9:50, Luke 14:34 and Col 4:6 (SBLGNT) `[T]`; Mark 9:50 goes on, "have salt in yourselves, and be at peace with one another" `[T]`. With "watch and pray" (Gethsemane, Headline 1) and "the mystery … those outside" (μυστήριον with ἔξω in one verse: Mark 4:11 only; here across 4:3–5) `[T]`, the passage has **three of its rarer pairings in Jesus' sayings, two of them in Mark** `[T]`. Whether that is design or shared church idiom is uncertain `[I]`. "To each one" (ἑνὶ ἑκάστῳ) makes the answer personal, not scripted `[I]`, high; compare 1 Pet 3:15 `[T]`. *High on the words; uncertain on the Jesus-tradition cluster (queued as C58).*
+5. **Speech "with grace, seasoned with salt", fitted "to each one".** `[T]`/`[I]` Surfaced by: Vocabulary, Tool 11, Move 4. ἐν χάριτι ("with grace") repeats 3:16; λόγος and χάρις share a verse in Colossians only at 3:16 and 4:6 `[T]` (3:12–17 dig `[S: dig]`). ἅλας ("salt") with ἀρτύω ("season") stands in the NT only at Mark 9:50, Luke 14:34 and Col 4:6 (SBLGNT) `[T]`; the sense differs (in Mark 9:50 salt is the disciples' distinctiveness) `[I]`. "To each one" (ἑνὶ ἑκάστῳ) makes the answer personal, not scripted `[I]`, high; compare 1 Pet 3:15 `[T]`. **v1.1 — claim audit 4 (C58): the proposed "Jesus-tradition cluster" (this pairing with "watch and pray" and Mark 4:11) is discarded** — a quarter of random Pauline five-verse paragraphs show three or more such pairings, and Paul's own paraenesis (1 Thess 4:12; 5:6, 17; Eph 6:18–20) accounts for every element `[S: audit 4]`. *High on the words.*
 
 ---
 
@@ -48,7 +48,7 @@ Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference 
 | Thread | What is live for this passage |
 |--------|-------------------------------|
 | **Christological trajectory** | "The mystery of Christ" (4:3) — the overview's mystery = Christ line (1:27; 2:2) reaches its last statement |
-| **Intertextual map** | No row is assigned to 4:2–6. **Row 12, Daniel 2:28–30 (Theodotion)**, is assigned to 1:26–28 and 2:2–3 (moderate as shape after claim audit 1) — this run finds it at 4:3–5 as well (Headline 4) |
+| **Intertextual map** | No row is assigned to 4:2–6. **Row 12, Daniel 2:28–30 (Theodotion)**, is assigned to 1:26–28 and 2:2–3 (moderate as shape after claim audit 1) — this run found it at 4:3–5 as well; **claim audit 4 withdraws the field at 4:3–5 (low) and keeps the single verb contact (low–moderate)** |
 | **Echo Table** | **9** (1:26 → 2:3; 3:3–4; 4:4, the mystery thread, high on words / low–moderate design after audit 1); **20** (2:7 → 3:15, 3:17, 4:2, thanksgiving, "Frames", high); **22** (1:25 → 3:16; 4:3; 4:17, the word, "Develops", moderate) |
 | **Movements** | 3:1–4:6, "the life of the risen", ends here: "prayer and conduct towards outsiders (4:2–6)". The overview's instruction: **"Hold 1:3–14 open against chapter 4"** — "the church is to 'walk in wisdom' (4:5; cf. 1:9–10), and the word that bore fruit 'in all the world' (1:6) is to go out through 'a door for the word' (4:3)" |
 | **Presenting situation** | The writer a prisoner ("for which I have also been imprisoned", 4:3; 4:10, 18); the church a minority among "those outside" |
@@ -81,7 +81,7 @@ Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference 
 
 **Implication for this passage:** it is not an appendix of miscellaneous duties. It is where the whole letter turns from the church's sufficiency in Christ to the world that does not yet know him `[I]`, moderate–high.
 
-**Revisit after Tool 11:** Move 2 (Daniel 2) sharpens it: the scene of a captive praying for, receiving and speaking a God-given mystery before a pagan court, with the wise men "buying time", supplies a shape for 4:2–5 `[I]`, moderate as field.
+**Revisit after Tool 11:** Move 2 (Daniel 2) sharpens it: the scene of a captive praying for, receiving and speaking a God-given mystery before a pagan court, with the wise men "buying time", supplies a shape for 4:2–5 `[I]` — **v1.1: withdrawn as a field by claim audit 4 (low)**; only the verb contact at 4:5 remains (low–moderate) `[S: audit 4]`.
 
 **Immediately before:** 4:1, "Masters … you too have a Master in heaven" — the household code ends; 4:2 begins without a connective (asyndeton), as 3:18 did `[T]`. **Immediately after:** 4:7–9, Tychicus and Onesimus, "that you may know about our circumstances" — the news of the prisoner the church has just been asked to pray for `[T]`.
 
@@ -245,7 +245,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees. δεῖ counted 
 **Book-level live sources:** none in the strict sense; no Intertextual Map row is assigned to 4:2–6.
 
 **Independent candidate-finding — the systematic sweep.** The scan's New Testament mode was run once on 4:2–6 (top twelve). Two stems had no match anywhere in Swete: ἀρτυ- (absence on the stem; ἠρτυ- also searched) and δεω — **a stem fault**, since δέω and δεῖ are common in Swete under other stems (δεδε-, ἔδησ-, δεῖ); recorded, not an absence `[T]`. The highest-ranked chapters, with the sense check:
-- **Daniel 2, Old Greek (rank 1) and Theodotion (rank 3)** — mystery, wisdom, the time, "buying" the time, speaking, knowing, grace (χάρ- in the OG) `[T]`. **A genuine partner** (below).
+- **Daniel 2, Old Greek (rank 1) and Theodotion (rank 3)** — mystery, wisdom, the time, "buying" the time, speaking, knowing, grace (χάρ- in the OG) `[T]`. **v1.1 — not specific:** the rank rests on ἐξαγοράζω and μυστήριον, and Daniel 2 tops nearly half of NT "mystery" passages (claim audit 4) `[S: audit 4]`.
 - **2 Maccabees 1** (rank 2) — the letter to Egypt: prayer (1:23), thanks (1:11), a secret door in the temple (θύραν, 1:16) `[T]`. The door is a literal one in a story of the death of Antiochus; noise, low `[I]`.
 - **Proverbs 24 and 15** (ranks 4 and 7) — answer, wisdom, opening the mouth `[T]`. Prov 15:1, "a gentle answer (ἀπόκρισις) turns away wrath" `[T]`; the wisdom tradition of apt speech — field, low–moderate (below).
 - **Sirach 22** (rank 10) — salt (ἅλα, 22:15), mystery (22:22, "revealing of secrets" ends friendship) `[T]`. Different senses; low.
@@ -253,7 +253,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees. δεῖ counted 
 
 ---
 
-**Daniel 2 (Old Greek and Theodotion) → 4:2–5** *(moderate as field; low–moderate as source of the wording)* — Moves 1–3.
+**Daniel 2 (Old Greek and Theodotion) → 4:2–5** *(low as field; low–moderate as the source of 4:5's verb — claim audit 4; was moderate / low–moderate)* — Moves 1–3.
 
 *Source context:* Nebuchadnezzar demands that his wise men tell him his dream and its meaning. "I know for certain that you are buying time (καιρὸν ὑμεῖς ἐξαγοράζετε)" (2:8, both texts) `[T]`. Daniel and his friends "seek mercy from the God of heaven concerning this mystery (περὶ τοῦ μυστηρίου τούτου)" (2:18, Theodotion; the OG has "fasting and supplication") `[T]`. The mystery is revealed to Daniel at night; he blesses God: "wisdom and power belong to him; he changes times (καιρούς) and seasons … he gives wisdom to the wise"; "to you … I give thanks and praise (ἐξομολογοῦμαι καὶ αἰνῶ), for you have given me wisdom" (2:20–23) `[T]`. Before the king he says: "the mystery … is not of the wise men … but there is a God in heaven who reveals mysteries" (2:27–28); "not by any wisdom in me … but in order that the interpretation might be made known to the king" (2:30) `[T]`. The function: a Jewish captive in a pagan court, after prayer, speaks God's mystery to the outsider, and the wise of Babylon are shown to have none `[I]`.
 
@@ -263,18 +263,18 @@ All counts by lemma against the SBLGNT word index; NA28 agrees. δεῖ counted 
 
 *OT-to-OT (Move 3):* Daniel 2 belongs with the Joseph story (Gen 41: a Hebrew captive interpreting a pagan king's dream; "it is not in me; God will give Pharaoh an answer", 41:16) `[S]`, high as a commonplace of the type-scene. Daniel 4 and 5 repeat the pattern `[T]` as texts.
 
-*What it adds:* the shape matches closely — prayer for the mystery, thanks, wisdom from God, a prisoner speaking the mystery before outsiders, and "the time" as something the world's wise manipulate but God governs `[I]`, moderate. The rare verb is the only verbal tie for 4:5, and its sense is reversed: Babylon's wise men stall for time; the church is to buy up the time `[T]`/`[I]`. Ephesians' parallel (5:16) gives a different reason, "because the days are evil" `[T]`, which suggests the phrase was a Pauline idiom by then `[I]`. **Recurrence across 1:26–27, 2:2–3 and 4:3–5 is what raises the field above coincidence** `[I]`, moderate. **Queued as C57.** History of interpretation not consulted (no commentary in this run).
+*What it adds:* the shape matches closely — prayer for the mystery, thanks, wisdom from God, a prisoner speaking the mystery before outsiders, and "the time" as something the world's wise manipulate but God governs `[I]`, moderate. The rare verb is the only verbal tie for 4:5, and its sense is reversed: Babylon's wise men stall for time; the church is to buy up the time `[T]`/`[I]`. Ephesians' parallel (5:16) gives a different reason, "because the days are evil" `[T]`, which suggests the phrase was a Pauline idiom by then `[I]`. ~~Recurrence across 1:26–27, 2:2–3 and 4:3–5 is what raises the field above coincidence~~ — **v1.1, claim audit 4 (C57): needs reframing.** The recurrence is predicted by μυστήριον, which summons Daniel 2 for 9 of 20 NT "mystery" passages; without ἐξαγοράζω and μυστήριον both Daniels fall to median 159–160 on the weighted scan (on a cruder unweighted count the Old Greek stays fourth). The rest of the shape is carried by different Greek words (δέησις, ἐξομολογοῦμαι against προσευχή, εὐχαριστία). What stands: the verb, the wise-men frame, and the possibility (unsettled) that the phrase was ordinary Greek idiom `[S: audit 4]`. *Field low; verb low–moderate.* History of interpretation not consulted (no commentary in this run).
 
 ---
 
-**The Jesus-tradition cluster → 4:2, 4:3–5, 4:6** *(uncertain as a cluster; low–moderate each)* — Move 1.
+**The Jesus-tradition cluster → 4:2, 4:3–5, 4:6** *(discarded — claim audit 4; was uncertain)* — Move 1.
 
 Three pairings in this passage occur elsewhere in the NT only, or mainly, in sayings of Jesus (SBLGNT) `[T]`:
 - **γρηγορέω + prayer (4:2)** — Matt 26:41; Mark 14:38 ("Keep watching and praying, that you may not come into temptation") and Col 4:2 only.
 - **μυστήριον + οἱ ἔξω (4:3, 5, across three verses)** — in one verse only Mark 4:11: "To you has been given the mystery of the kingdom of God, but those who are outside get everything in parables."
 - **ἅλας + ἀρτύω (4:6)** — Mark 9:50; Luke 14:34 and Col 4:6 only. Mark 9:50: "Salt is good; but if the salt becomes unsalty, with what will you make it salty again? Have salt in yourselves, and be at peace with one another."
 
-*Weighing it:* each pairing is of fairly common words, and the senses differ — the disciples' sleep in Gethsemane, the mystery *withheld* from outsiders in Mark 4, salt as the disciple's distinctiveness in Mark 9 `[I]`. No single contact is strong. Three in five verses, two from Mark, is suggestive of a church idiom shaped by Jesus' sayings `[I]`, uncertain; it does not show literary dependence. Mark 4 has already been proposed at 1:5–11 (the sower; C50, queued) `[S: dig]` — a second Mark 4 contact in the letter `[T]`. **Queued as C58**, with a baseline needed (how often do five-verse Pauline paragraphs show three such pairings?).
+*Weighing it:* each pairing is of fairly common words, and the senses differ — the disciples' sleep in Gethsemane, the mystery *withheld* from outsiders in Mark 4, salt as the disciple's distinctiveness in Mark 9 `[I]`. No single contact is strong. Three in five verses, two from Mark, is suggestive of a church idiom shaped by Jesus' sayings `[I]`, uncertain; it does not show literary dependence. Mark 4 has already been proposed at 1:5–11 (the sower; C50, queued) `[S: dig]` — a second Mark 4 contact in the letter `[T]`. **v1.1 — claim audit 4 (C58): discarded, low.** The baseline: 25 % of 400 random Pauline five-verse paragraphs contain three or more verse-level lemma pairs found elsewhere in the NT only in the Gospels; the same method yields absurd further "Jesus pairings" here (Matt 6:6, prayer and door; Mark 2:2, door and the word); and Eph 6:18–20 is the nearest parallel to the paragraph `[S: audit 4]`. Individually: "watch and pray" *low–moderate*, as an early-Christian idiom plausibly rooted in Jesus' words (cf. 1 Thess 5:6, 17); salt with seasoning *low*; mystery with outsiders *low* (reversed in sense; 1 Thess 4:12 is the closer source of "towards outsiders").
 
 ---
 
@@ -474,7 +474,7 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 
 ### Christological Reading
 
-**Type of connection:** NT; the mystery is Christ (4:3; 1:27; 2:2) `[T]`. Daniel 2's captive who speaks God's mystery to the king is a pattern that Paul, in chains, fulfils in a greater way (the mystery now is Christ himself) — typology passes the theological-category test (revelation of God's kingdom purpose), partly the NT-precedent test (Paul's mystery language with Daniel's verbs, audit 1), and the escalation test (from a dream's meaning to Christ); *low–moderate* as typology. Gethsemane's "watch and pray" (Headline 1) — if heard — sets the church's watchfulness beside the Lord's own hour `[I]`, uncertain.
+**Type of connection:** NT; the mystery is Christ (4:3; 1:27; 2:2) `[T]`. Daniel 2's captive who speaks God's mystery to the king is an analogue for Paul in chains (Copycat) — but after claim audit 4 it is not presented as typology at 4:2–6 (*low*) `[S: audit 4]`. Gethsemane's "watch and pray" (Headline 1) — if heard — sets the church's watchfulness beside the Lord's own hour `[I]`, uncertain.
 
 **Moralism check:**
 - **The "be like X" temptation:** "pray more, witness better."
@@ -510,8 +510,8 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 - **Prayer returned to the church; thanks completed** — Tools 2, 7, 10; Move 4 (1:3, 9; 2:7). *(Headline 1)*
 - **A door for the word; the mystery manifested** — Tools 3, 7; Move 4 (1:26; 3:4; Echo 9 `[S: audit 1]`). *(Headline 2)*
 - **The word handed on; Paul's must and theirs** — Tools 3, 5, 8, 10. *(Headline 3)*
-- **Walk in wisdom; Daniel 2** — Tools 7, 10; Tool 11 (scan rank 1; Dan 2:8 the only LXX use of the verb); Move 2 (row 12, `[S: audit 1]`). *(Headline 4)*
-- **Grace, salt, each one; the Jesus-tradition pairings** — Tools 7, 11. *(Headline 5)*
+- **Walk in wisdom; the ἐξαγοράζω contact** — Tools 7, 10; Tool 11 (Dan 2:8 the only LXX use of the verb; field withdrawn `[S: audit 4]`). *(Headline 4)*
+- **Grace, salt, each one** — Tools 7, 11 (the Jesus-tradition cluster discarded `[S: audit 4]`). *(Headline 5)*
 - **The opening prayer answered** — Move 4 (1:3–14; the overview's instruction).
 - **The Ephesian parallels concentrated** — Tool 11 (Eph 5:15–16; 6:18–20).
 
@@ -554,8 +554,8 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 ## Open Questions / Uncertainties
 
 1. **ἐξαγοράζομαι τὸν καιρόν** — "buying up" (moderate–high) against "redeeming from evil". *For Logos:* BDAG; Dunn (NIGTC); Pao (ZECNT); any commentator on Dan 2:8 and Col 4:5.
-2. **Daniel 2 at 4:2–5 (C57)** — moderate as field; low–moderate as source. *For Logos:* whether any commentator links Col 4:5 to Dan 2:8 (and Beale on Daniel 2 in Colossians).
-3. **The Jesus-tradition cluster (C58)** — uncertain. Needs a baseline.
+2. **Daniel 2 at 4:2–5 (C57)** — **closed by claim audit 4:** field low; verb low–moderate; secular-idiom question flagged for research. *For Logos:* whether any commentator links Col 4:5 to Dan 2:8 (and Beale on Daniel 2 in Colossians).
+3. **The Jesus-tradition cluster (C58)** — **closed by claim audit 4:** discarded (baseline 25 %).
 4. **"Seasoned with salt"** — the image's sense; Greek idiom for wit `[S]` not checked in sources.
 5. **The two ἵνα clauses (4:3–4)** — relation moderate.
 6. **Scope of γρηγορέω** — prayer only, or eschatological as well; moderate–high for both.
@@ -567,12 +567,27 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 
 ## Book-Overview Tensions
 
-1. **Intertextual Map — Row 12 (Daniel 2)**: extend the row's landing to **4:3–5** (prayer for the mystery, wisdom, thanks, the mystery spoken to outsiders; ἐξαγοράζω + καιρόν only at Dan 2:8 in Swete), *moderate as field, low–moderate as wording*, pending audit (C57). The recurrence across 1:26–27, 2:2–3 and 4:3–5 is itself evidence the overview should note.
+1. **Intertextual Map — Row 12 (Daniel 2)**: extend the row's landing to **4:3–5** (prayer for the mystery, wisdom, thanks, the mystery spoken to outsiders; ἐξαγοράζω + καιρόν only at Dan 2:8 in Swete), ~~moderate as field~~ — **v1.1, claim audit 4:** do not extend the row as a field; add one line, "ἐξαγοράζω + καιρός at 4:5 — Swete only Dan 2:8 (both texts), to the wise men; low–moderate" `[S: audit 4]`.
 2. **Echo Table — proposed additions** (verified by lemma, SBLGNT): **1:3, 1:9 → 4:2–3** (prayer returned, *high*); **3:16 → 4:3 → 4:6** (the word chain to "your word", *high on words*); **4:4 → 4:6** (δεῖ, Paul's and theirs, *high on words*); **1:24, 29 → 4:3** (suffering for the word, *moderate*); **2:23 → 4:5–6** (wisdom and word reversed, *moderate*). **Echo 9**: add 4:3 μυστήριον alongside 4:4 φανερόω (the mystery thread ends here).
 3. **Pulpit Notes — add**: 4:5 (NASB95 "conduct yourselves" loses "walk"; ESV keeps it); 4:3–4 (ESV "declare … speak" for one verb); 4:6 ("speech" hides λόγος; ESV "gracious" hides χάρις); 4:4/4:6 (ESV keeps "ought … ought"; NASB95 does not); 4:3 ("in prison" loses "bound").
 4. **Christological Trajectory** — "the mystery of Christ" (4:3) as the mystery thread's last station.
 5. **Neighbours — the Ephesians question**: a fifth Ephesian cluster (Eph 5:15–16; 6:18–20), with an NT-exclusive clause.
-6. **Neighbours — Mark**: a possible second Markan contact (Mark 4:11) after the sower at 1:5–11 (C50), with Mark 9:50 and Mark 14:38 — record as C58, pending audit.
+6. ~~Neighbours — Mark~~ — **withdrawn after claim audit 4** (C58 discarded; C50 the sower low–moderate as allusion) `[S: audit 4]`.
+
+---
+
+## Revision v1.1 — claim audit 4 (31 October 2026)
+
+`[S: audit 4]` = `Colossians/dig-deeper-colossians-claim-audit-4.md`. Backup of v1.0 in `_backup/Colossians-before-audit-4-2026-10-31/`.
+
+| Section | Was | Now |
+|---|---|---|
+| Headline 4 | Daniel 2 a letter-level field (moderate) | Rewritten: the verb contact only (low–moderate; moderate as the only Greek-Bible precedent); field withdrawn (low); the σοφοί frame added |
+| Headline 5 | three Jesus-tradition pairings (uncertain) | Rewritten: the cluster discarded; salt-and-seasoning kept as a count |
+| Phase 0.5; Tool 2 revisit; Tool 11 (Daniel 2; scan; cluster); Christological Reading; Convergent Findings | as Headlines | Aligned |
+| Open Questions 2–3; Tensions 1, 6 | pending audit | Closed / withdrawn |
+
+**Trigger 2 disarmed for point-purpose on 4:2–6.**
 
 ---
 
@@ -586,10 +601,10 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 **Chains verified:** about thirty-five lemma counts against the SBLGNT index — every content word of 4:2–6, among them προσευχή, προσεύχομαι, προσκαρτερέω, γρηγορέω, εὐχαριστία, ἅμα, ἀνοίγω, θύρα, λόγος, λαλέω, μυστήριον, φανερόω, σοφία, περιπατέω, ἔξω, καιρός, ἐξαγοράζω, πάντοτε, χάρις, ἅλας, ἀρτύω, οἶδα, ἀποκρίνομαι, ἕκαστος; δεῖ by form (string search). Co-occurrences: προσκαρτερέω + προσευχή; γρηγορέω + prayer; θύρα + ἀνοίγω; θύρα + λόγος; ἐξαγοράζω + καιρός; ἔξω + περιπατέω; σοφία + περιπατέω; ἅλας + ἀρτύω; ἅλας + λόγος; λαλέω + μυστήριον; φανερόω + μυστήριον; μυστήριον + ἔξω; προσκαρτερέω + λόγος; prayer + thanksgiving; ἀποκρίνομαι + ἕκαστος. Strings: ὡς δεῖ με λαλῆσαι; πῶς δεῖ. Swete: ἐξαγοραζ- (2 verses); θυρ- + στομα- (2); θυρ- + χειλ- (1); ἀρτυ-, ἠρτυ-, ἁλατι- (0); Dan 2:8–47 read in both texts; Prov 15:1, 23; 24:26; 25:11; Sir 22:22 read. The scan's New Testament mode was run once (top twelve), with six chapters checked for sense.
 **Positive controls:** the scan's δεω stem fault identified; ἀρτυ- absent on two stems; the first ἁλ- + ῥῆμα search returned false friends (ἀλήθεια) and was set aside, with Job 6:6 the only true hit seen; the μυστήριον τοῦ Χριστοῦ string search covered only oblique forms (Eph 3:4 found), so no exclusivity is claimed.
 **Apparatus findings:** five NA28 variant units reported (4:2 twice, 4:3 three), witnesses as printed; none at 4:4–6. No finding rests on an apparatus feature alone.
-**Warrant counts:** [T] 218 · [I] 97 · [S] 47 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1–3]`)
+**Warrant counts:** [T] 215 · [I] 95 · [S] 56 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1–3]`)
 
 Health note: text-driven; the `[S]` tags mark the overview's lines, the claim audits' verdicts, the neighbouring digs' findings and general background (Roman custody, "salt" as wit, fixed prayer hours).
 
 ---
 
-*Dig Deeper: Colossians 4:2–6, v1.0, 31 October 2026. Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+*Dig Deeper: Colossians 4:2–6, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*

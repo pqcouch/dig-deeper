@@ -3,11 +3,11 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these four verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.0\
+**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026: Deut 29:29 lowered to low)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 3:1–4, "Hidden with Christ" — Standard, "⭐ if preached as the hinge of the letter". Ninth Colossians dig; it follows the completed 2:16–23 dig and precedes the undug 3:5–17
 
-Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]` a verdict of claim audit 1 (`Colossians/dig-deeper-colossians-claim-audit.md`, 21 October 2026) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus.
+Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]` a verdict of claim audit 1 (`Colossians/dig-deeper-colossians-claim-audit.md`, 21 October 2026) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus · `[S: audit 4]` a verdict of claim audit 4 (`Colossians/dig-deeper-colossians-claim-audit-4.md`, 31 October 2026).
 
 ---
 
@@ -215,7 +215,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees.
 
 **Independent candidate-finding — the systematic sweep.** The scan's New Testament mode was run on 3:1–4 (six runs). The most stable chapter (median rank 4) is **Odes 14** — the Greek *Gloria in excelsis*, a Christian hymn that Swete prints among the Odes: it shares "seated at the right hand", "glory", "life", "earth", "Christ" `[T]`. **It is not a source but a control**: it is a post-NT liturgical text that itself uses the NT formula, and its rank shows the scan detects the formula when the formula is present `[T]`/`[I]`. Psalm 109 (Ps 110) does **not** rank: its contacts are only γῆ ("earth") and δεξιός ("right"), because the psalm's κάθου ἐκ δεξιῶν ("sit at the right") differs in form from Colossians' ἐν δεξιᾷ … καθήμενος and the scan's stem for κάθημαι did not catch κάθου `[T]`. **A scan miss, reported — not an absence.** The other ranked chapters (2 Maccabees 14, Proverbs 11, 3, 15, 16) share common words in other senses (φρόνιμος, "prudent"; κρύπτει, "conceals") `[T]`.
 
-**One genuine contact the sweep surfaced: Deut 29:29.** "The secret things (τὰ κρυπτά) belong to the LORD our God, but the things revealed (τὰ φανερά) belong to us and to our sons forever" (NASB95) — **the only verse in Swete with both a κρυπτ- and a φανερ- word** (word-beginning search; counts are floors, since a reduplicated perfect such as κέκρυπται is missed) `[T]`. Deuteronomy 29 ranks first in one run (16-verse windows, rarer words), median 17 `[T]`.
+**One genuine contact the sweep surfaced: Deut 29:29.** "The secret things (τὰ κρυπτά) belong to the LORD our God, but the things revealed (τὰ φανερά) belong to us and to our sons forever" (NASB95) — ~~the only verse in Swete with both a κρυπτ- and a φανερ- word~~ — **corrected by claim audit 4:** a stem-anywhere search also finds 2 Macc 12:41, τὰ κεκρυμμένα φανερὰ ποιοῦντος ("who makes the hidden things manifest"), which is closer to Paul's eschatological sense (Swete only) `[S: audit 4]`. The verse is 29:29 in Swete and the English versions, 29:28 in Rahlfs and the WLC `[T]`. Deuteronomy 29 ranks first in one run (16-verse windows, rarer words), median 17 `[T]`.
 
 ---
 
@@ -231,11 +231,11 @@ All counts by lemma against the SBLGNT word index; NA28 agrees.
 
 ---
 
-**Deuteronomy 29:29 → 3:3–4** *(low–moderate — single-verse contact; new)* `[T]` for the words; `[I]` for the link
+**Deuteronomy 29:29 (Rahlfs and WLC 29:28) → 3:3–4** *(low — claim audit 4; was low–moderate)* `[T]` for the words; `[I]` for the link
 
 *Source context:* the close of Moses' covenant speech in Moab. After the curses of exile (29:22–28), "the secret things belong to the LORD our God, but the things revealed belong to us … that we may observe all the words of this law" (29:29) `[T]`. The hidden is God's own counsel; the revealed is the law for obedience `[I]`.
 
-*What it adds, if heard:* Colossians inverts the distribution: what is "hidden … in God" is now **the believers' own life**, kept with Christ; and what will be "revealed" is themselves, "in glory" `[I]`. The contact is two word-stems in a common pairing (κρυπτός / φανερός also stands in the sayings of Jesus, Mark 4:22; Luke 8:17), so it is a field more than a source `[T]`/`[I]`. **New candidate for the claim-audit queue (low–moderate).**
+*What it adds, if heard:* Colossians inverts the distribution: what is "hidden … in God" is now **the believers' own life**, kept with Christ; and what will be "revealed" is themselves, "in glory" `[I]`. The contact is two word-stems in a common pairing (κρυπτός / φανερός also stands in the sayings of Jesus, Mark 4:22; Luke 8:17), so it is a field more than a source `[T]`/`[I]`. **Claim audit 4 (C52): needs reframing, low.** The rarity claim fails (2 Macc 12:41), and Paul's own hidden-then-manifest formula — Col 1:26 (ἀποκεκρυμμένον … ἐφανερώθη) and 1 Cor 4:5 (the Lord will bring to light the things hidden and manifest them) — explains 3:3–4 without Deuteronomy `[S: audit 4]`. Keep Deut 29:29 at most as a contrastive note.
 
 ---
 
@@ -396,7 +396,7 @@ Present 3:1–4 as the answer to the rival's offer — the "higher" life is alre
 
 #### Glory / revelation
 - **Where:** the believers' glory hidden now, revealed with Christ `[T]`.
-- **Before:** "the hope of glory" (1:27) `[T]`; Deut 29:29's hidden and revealed (low–moderate) `[T]`.
+- **Before:** "the hope of glory" (1:27) `[T]`; Deut 29:29's hidden and revealed (low, claim audit 4) `[T]`; 2 Macc 12:41 `[T]`.
 - **After:** Rom 8:18–19 (the revealing of the sons of God) `[S]`; 1 John 3:2 `[T]`.
 - **Confidence:** *moderate–high.*
 
@@ -495,7 +495,7 @@ Present 3:1–4 as the answer to the rival's offer — the "higher" life is alre
 
 1. **The present imperatives** — continuous force ("keep seeking") or simply general? *Moderate.* *For Logos:* any owned grammar (Robertson's *Grammar*) on 3:1–2.
 2. **"Realised" resurrection** — is the past tense of 3:1 a difference from Romans 6 in theology or only in emphasis? `[S]`. *For Logos:* Dunn (NIGTC), Wright (TNTC), Bird (NCCS) on 2:12; 3:1.
-3. **Deut 29:29** — a contact or a coincidence of a common pair? Low–moderate; queued.
+3. **Deut 29:29** — **closed by claim audit 4:** low; the pair also stands at 2 Macc 12:41, and Col 1:26 / 1 Cor 4:5 suffice `[S: audit 4]`.
 4. **φανερόω for the parousia** — unique in Paul here; confirm the sense of each of Paul's uses in a lexicon.
 5. **The Vulgate** (*sapite*; *vita vestra*) — from recall; verify if cited.
 6. **3:4 "your" / "our"** — moderate–high for "your".
@@ -509,7 +509,7 @@ Present 3:1–4 as the answer to the rival's offer — the "higher" life is alre
 1. **Echo Table #9** — claim audit 1 required it reworded ("the mystery thread, with the hidden/revealed vocabulary attached; the distinctive move is 3:3–4"; design low–moderate) `[S: audit 1]`. This run confirms the reword; **apply it at the Finalise**.
 2. **Echo Table — proposed additions** (verified by lemma, SBLGNT): **1:16, 20 → 3:2, 5** ("on earth", *high on words*); **2:20 → 3:3–4 → 3:7** (ζάω / ζωή, *high on words*); **1:27 → 3:4** (δόξα, "hope of glory" → "in glory", *high on words*); **2:18 → 3:2** (two minds, *moderate*); **3:1 → 3:5** (οὖν; "on earth", *high*).
 3. **Intertextual Map, row 1 (Ps 110:1)** — confirmed high through the formula. Add to its note that the NT scan misses it (form difference) and that the top-ranked "partner" is the Christian *Gloria* (Odes 14), a control, not a source.
-4. **Intertextual Map — candidate:** Deut 29:29 (low–moderate), the only Swete verse with both a hiding and a revealing word.
+4. **Intertextual Map — candidate withdrawn:** Deut 29:29 is low after claim audit 4 (2 Macc 12:41 breaks the "only"); no row.
 5. **Christological Trajectory — "Sphere":** add that Colossians, unlike Eph 2:6, does not seat believers with Christ; their share is a hidden life (3:3).
 6. **Preaching Trap 7** — add the textual answer: "on earth" is used of what Christ created and reconciled (1:16, 20).
 
@@ -525,10 +525,10 @@ Present 3:1–4 as the answer to the rival's offer — the "higher" life is alre
 **Chains verified:** about thirty lemma counts against the SBLGNT index (συνεγείρω; ἄνω; ζητέω; φρονέω; δεξιός; κάθημαι; γῆ; ἀποθνῄσκω; ζωή; ζάω; κρύπτω, ἀποκρύπτω, ἀπόκρυφος; φανερόω in Paul and elsewhere; δόξα; τότε; σύν; συγκαθίζω; ἐπίγειος; φρονέω with earth; ἀποθνῄσκω with σύν; φανερόω with δόξα; hiding with revealing words within a verse). Swete: κρυπτ- with φανερ- (1 verse, Deut 29:29; floor). The scan's New Testament mode was run once, with five named sense checks.
 **Positive controls:** one scan miss found and reported (Ps 109 LXX, κάθου not caught); the top-ranked chapter (Odes 14, the *Gloria*) serves as a control that the scan detects the right-hand formula when present.
 **Apparatus findings:** two NA28 variants at 3:4 and one adjacent (2:20), witnesses as printed. No finding rests on an apparatus feature alone.
-**Warrant counts:** [T] 162 · [I] 87 · [S] 34 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1]`)
+**Warrant counts:** [T] 163 · [I] 87 · [S] 37 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1]`)
 
 Health note: text-driven; the `[S]` tags mark the overview's lines, claim audit 1's verdict, the neighbouring digs' findings and general background (right-hand symbolism, honour culture, the "realised resurrection" debate).
 
 ---
 
-*Dig Deeper: Colossians 3:1–4, v1.0, 31 October 2026. Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+*Dig Deeper: Colossians 3:1–4, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*

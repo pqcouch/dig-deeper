@@ -3,11 +3,11 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus (`12-Colossians-NA28-apparatus.txt`); SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.0\
+**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026; see *Revision v1.1*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 3:12–17, "Put on: love, peace, word, thanks" (Standard). Eleventh Colossians dig; it follows the 3:5–11 dig of the same day and precedes the already-dug 3:18–4:1
 
-Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]`, `[S: audit 2]`, `[S: audit 3]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-claim-audit-2.md`, `…-claim-audit-3.md`) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus.
+Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source or by tradition, held provisionally · `[S: audit 1]`, `[S: audit 2]`, `[S: audit 3]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-claim-audit-2.md`, `…-claim-audit-3.md`) · `[S: dig]` a finding already recorded in a neighbouring Colossians dig (named at the point of use), marked "reached independently" where this run found it first from the corpus · `[S: audit 4]` a verdict of claim audit 4 (`Colossians/dig-deeper-colossians-claim-audit-4.md`, 31 October 2026).
 
 ---
 
@@ -35,9 +35,9 @@ SBLGNT also punctuates 3:12 with a comma after τοῦ θεοῦ, setting "holy 
 
 ## Headline Findings
 
-1. **"Put on therefore": the garments follow the new self already put on, and the ground of the command is a name — Israel's election titles given to a Gentile church.** `[T]`/`[I]` Surfaced by: Positional Necessity, Linking Words, Vocabulary, Tool 11 (Deut 7). Ἐνδύσασθε ("put on", aorist imperative, 3:12) takes up ἐνδυσάμενοι ("having put on", aorist participle, 3:10): ἐνδύω stands in the letter only in these two verses (SBLGNT) `[T]`. What was done (3:10) is now to be done (3:12) — the 3:5–11 dig's indicative-then-imperative reading `[S: dig]`. The readers are addressed "as the chosen of God, holy and beloved" `[T]`. ἐκλεκτός ("chosen") is its only use in the letter, ἀγαπάω ("love") occurs only here and at 3:19, and ἅγιος ("holy") resumes 1:2, 1:12, 1:22 and 1:26 (SBLGNT) `[T]`. In the Greek Deuteronomy, Israel is "a holy people" whom the LORD "chose" because he "loved" them (Deut 7:6–8; cf. 4:37; 10:15, Swete) `[T]`. **The designations of Israel are spoken over people who "once walked" in the vices of 3:5–7** `[I]`. *High on the words; moderate on Deuteronomy 7 as the specific background.*
+1. **"Put on therefore": the garments follow the new self already put on, and the ground of the command is a name — Israel's election titles given to a Gentile church.** `[T]`/`[I]` Surfaced by: Positional Necessity, Linking Words, Vocabulary, Tool 11 (Deut 7). Ἐνδύσασθε ("put on", aorist imperative, 3:12) takes up ἐνδυσάμενοι ("having put on", aorist participle, 3:10): ἐνδύω stands in the letter only in these two verses (SBLGNT) `[T]`. What was done (3:10) is now to be done (3:12) — the 3:5–11 dig's indicative-then-imperative reading `[S: dig]`. The readers are addressed "as the chosen of God, holy and beloved" `[T]`. ἐκλεκτός ("chosen") is its only use in the letter, ἀγαπάω ("love") occurs only here and at 3:19, and ἅγιος ("holy") resumes 1:2, 1:12, 1:22 and 1:26 (SBLGNT) `[T]`. In the Greek Deuteronomy, Israel is "a holy people" whom the LORD "chose" because he "loved" them (Deut 7:6–8; cf. 4:37; 10:15, Swete) `[T]`. **The designations of Israel are spoken over people who "once walked" in the vices of 3:5–7** `[I]`. **v1.1 — claim audit 4 (C55):** the LXX's title for Israel, ὁ ἠγαπημένος ("the beloved", the Greek for Jeshurun, Deut 32:15; 33:5, 26; Isa 44:2), with Isa 44:1–2's "whom I chose", is the nearer source of the participle; and Paul's own election triad (2 Thess 2:13; Eph 1:4) accounts for the wording `[S: audit 4]`. *High on the words; moderate for Israel's titles given to the church; low–moderate for Deuteronomy 7 as the specific text (claim audit 4).*
 
-2. **The five virtues are the character of God and of Christ, and the forgiveness is patterned on the Lord's.** `[T]`/`[I]` Surfaced by: Vocabulary, Repetition, Tool 11 (Exod 34:6; Rom 2:4), Move 4. Elsewhere in Paul, χρηστότης ("kindness") and μακροθυμία ("patience") are God's (Rom 2:4, with ἀνοχή, the noun of the verb ἀνέχομαι, "bear with", 3:13). οἰκτιρμοί ("compassions") are God's at Rom 12:1 and 2 Cor 1:3. πραΰτης ("gentleness") is "the gentleness of Christ" at 2 Cor 10:1 (SBLGNT) `[T]`. In the Greek Old Testament, "compassionate … patient" is the LORD's self-description (Exod 34:6), repeated in the Psalms and the prophets (Tool 11) `[T]`. Then 3:13 says it outright: "just as the Lord forgave you, so also you" `[T]`. χαρίζομαι ("forgive") stands in Colossians only at 2:13 (God "having forgiven us all our transgressions") and 3:13 (overview Echo 14, high) `[T]`. And ταπεινοφροσύνη, the rival's "self-abasement" at 2:18 and 2:23, returns here as "humility" `[T]`. Claim audit 2 rated this reclaiming moderate as design `[S: audit 2]`. *High on the words; moderate–high that the list is meant as the family likeness.*
+2. **The five virtues are the character of God and of Christ, and the forgiveness is patterned on the Lord's.** `[T]`/`[I]` Surfaced by: Vocabulary, Repetition, Tool 11 (Exod 34:6; Rom 2:4), Move 4. Elsewhere in Paul, χρηστότης ("kindness") and μακροθυμία ("patience") are God's (Rom 2:4, with ἀνοχή, the noun of the verb ἀνέχομαι, "bear with", 3:13). οἰκτιρμοί ("compassions") are God's at Rom 12:1 and 2 Cor 1:3. πραΰτης ("gentleness") is "the gentleness of Christ" at 2 Cor 10:1 (SBLGNT) `[T]`. In the Greek Old Testament, "compassionate … patient" is the LORD's self-description (Exod 34:6), repeated in the Psalms and the prophets (Tool 11) `[T]` — a field, not a source: Colossians has the nouns where the formula has adjectives, and the vocabulary most likely reaches it through Paul (Rom 2:4) and the Greek Psalter (Ps 144:7–9), not from Exodus directly (claim audit 4: *low–moderate* as field, *low* as allusion `[S: audit 4]`). Then 3:13 says it outright: "just as the Lord forgave you, so also you" `[T]`. χαρίζομαι ("forgive") stands in Colossians only at 2:13 (God "having forgiven us all our transgressions") and 3:13 (overview Echo 14, high) `[T]`. And ταπεινοφροσύνη, the rival's "self-abasement" at 2:18 and 2:23, returns here as "humility" `[T]`. Claim audit 2 rated this reclaiming moderate as design `[S: audit 2]`. The imitation pattern "as … so" is closest in the Jesus tradition and Ephesians (Luke 6:35–36; Matt 18:33; Eph 4:32) `[S: audit 4]`. *High on the words; moderate–high that the list is meant as the family likeness.*
 
 3. **Love is put on over everything as "the bond of perfection", and the image continues the body knit together in love (2:2, 19), not a reversal of it.** `[T]` Surfaced by: Vocabulary, Repetition, Move 4, Textual Variants. ἐπὶ πᾶσιν δὲ τούτοις ("over all these", 3:14) keeps the clothing image `[I]`. σύνδεσμος ("bond, ligament") stands in four NT verses: Acts 8:23; Eph 4:3; Col 2:19; 3:14 (SBLGNT) `[T]`. At 2:19 the body is "supplied and held together by the joints and ligaments (συνδέσμων)" from the head; at 2:2 the hearts are "knit together (συμβιβασθέντες) in love". συμβιβάζω occurs in the letter only at 2:2 and 2:19 `[T]`. Claim audit 2 found σύνδεσμος to be a continuation, not a reversal `[S: audit 2]`. This run agrees, and adds the 2:2 link. τελειότης ("perfection, completeness") occurs only here and at Heb 6:1 in the NT. Its adjective τέλειος stands in the letter at 1:28 (Paul's aim, "to present every man complete in Christ") and 4:12 (Epaphras's prayer that they "stand complete") `[T]`. **Love is what holds the body together towards the maturity that the apostle and Epaphras labour for** `[I]`, moderate–high. *High on the words.*
 
@@ -312,7 +312,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees.
 
 ---
 
-**The Exodus 34:6 formula → 3:12–13** *(moderate as field; low–moderate as allusion)* — Moves 1 and 3.
+**The Exodus 34:6 formula → 3:12–13** *(low–moderate as field; low as allusion — claim audit 4; was moderate / low–moderate)* — Moves 1 and 3.
 
 *Source context:* at Sinai, after the golden calf, the LORD passes before Moses and proclaims his name: "The LORD, the LORD God, compassionate (οἰκτείρμων) and gracious, slow to anger (μακρόθυμος) and abounding in mercy and truth" (Exod 34:6, Swete) `[T]`. The function: God's self-revelation as the one who forgives "iniquity, transgression and sin" (34:7), at the moment Israel has broken the covenant `[T]`/`[I]`.
 
@@ -320,7 +320,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees.
 
 *OT-to-OT (Move 3):* the formula is the Old Testament's most repeated confession about God's character `[S]`, high. **One pair of psalms turns it into an ethic.** Psalm 110 LXX says "the Lord is merciful and compassionate (ἐλεήμων καὶ οἰκτίρμων)" (110:4). Its twin, Psalm 111, says the same of the righteous man: "merciful and compassionate and righteous" (111:4), and then "good (χρηστός) is the man who is compassionate (οἰκτίρμων) and lends" (111:5) `[T]`. The human being who fears the LORD comes to bear the LORD's own adjectives `[I]`, high on the wording.
 
-*What it adds:* Colossians uses nouns, not the formula's adjectives, and it does not have ἐλεήμων ("merciful") `[T]`. So the evidence does not reach a deliberate allusion `[I]`. But the field is clear: **compassion, kindness and patience are, in the Greek Bible, the LORD's name**. At 3:13 Paul states the principle Psalms 110–111 enact, "as the Lord … so also you" `[I]`, moderate. **Queued as C54.**
+*What it adds:* Colossians uses nouns, not the formula's adjectives, and it does not have ἐλεήμων ("merciful") `[T]`. So the evidence does not reach a deliberate allusion `[I]`. But the field is clear: **compassion, kindness and patience are, in the Greek Bible, the LORD's name**. At 3:13 Paul states the principle Psalms 110–111 enact, "as the Lord … so also you" `[I]`. **v1.1 — claim audit 4 (C54): needs reframing.** The count of eight verses holds exactly; but Colossians' nouns (οἰκτιρμός, χρηστότης, μακροθυμία) never co-occur within two verses in Swete except χρηστότης (Ps 144:7) with οἰκτιρμοί (Ps 144:9). Frame it as divine-attribute vocabulary, ultimately from the Exod 34:6 tradition, reaching Colossians through Paul (Rom 2:4) and the Greek Psalter; the "as … so" pattern is closer at Luke 6:35–36, Matt 18:26–35 and Eph 4:32 `[S: audit 4]`. *Low–moderate (field); low (allusion).*
 
 ---
 
@@ -330,7 +330,7 @@ All counts by lemma against the SBLGNT word index; NA28 agrees.
 
 *Book usage:* the letter has already given Israel's words to Gentiles: "the inheritance of the holy ones in light" (1:12), and "the mystery … among the Gentiles, Christ in you" (1:27) `[T]`. The 1:1–14 dig queued the "holy ones" reading (C46) `[S: dig]`.
 
-*What it adds:* the three titles of 3:12 together form Israel's election vocabulary. Deuteronomy 7 is their densest single source, and like Col 3:5–12 it joins the titles to a call to put away idolatry `[I]`, moderate. The adjective ἐκλεκτός is not in Deuteronomy 7 (it has the verbs), and the pairing is too widespread to fix one source (2 Macc 1:25; Isa 65:9) `[T]`/`[I]`. **Queued as C55.**
+*What it adds:* the three titles of 3:12 together form Israel's election vocabulary. Deuteronomy 7 is their densest single source, and like Col 3:5–12 it joins the titles to a call to put away idolatry `[I]`, moderate. The adjective ἐκλεκτός is not in Deuteronomy 7 (it has the verbs), and the pairing is too widespread to fix one source (2 Macc 1:25; Isa 65:9) `[T]`/`[I]`. **v1.1 — claim audit 4 (C55): confirmed with nuance; ratings unchanged** (moderate for the idea; low–moderate for Deut 7). Deut 7:6–8 is the only Swete passage calling a people holy, chosen and loved within three verses, and Deut 7:25 binds covetousness to idols (cf. Col 3:5). But the participle comes from the "beloved" title (Isa 44:1–2; Deut 32–33), Sir 45:1–4 has Moses beloved, sanctified, chosen and in meekness (πραΰτης), and Paul's own triad (2 Thess 2:13; Eph 1:4; Rom 11:28) explains the wording `[S: audit 4]`.
 
 ---
 
@@ -351,7 +351,7 @@ Paul knows the figure (Rom 13:12, 14; Eph 6:11, 14; 1 Thess 5:8) `[T]`. *What it
 
 In Swete, ψαλμ- and ᾠδ- words stand together in the superscriptions of thirteen Psalms (4, 29, 47, 64, 65, 67, 74, 75, 82, 86, 87, 91, 107) and of the Psalms of Solomon (15:1, 17:1; 15:5 in the text) `[T]`. ἐν ὕμνοις ("with hymns") heads Psalms 6, 53, 54, 60, 66 and 75 (and Pss Sol 10:1) `[T]`. **Psalm 75 LXX:1 carries all three: "with hymns (ἐν ὕμνοις); a psalm (ψαλμός) of Asaph; a song (ᾠδή)"** `[T]`. *Floor:* the ὕμνος search used only the form ὕμνοις.
 
-So a hearer who knew the Greek Psalter could hear the three nouns as the Psalter's own labels `[I]`, moderate. That observation is sound. **The inference often drawn from it — that 3:16 means "the Psalms" only — does not follow.** "Spiritual songs" may be new compositions (1 Cor 14:26, "each one has a psalm"; Rev 5:9, "a new song", ᾠδή) `[T]`/`[I]`. The confession of 1:15–20 may itself be such a song `[S: dig]` (1:15–20 dig, `[I]` there). **Queued as C56** — a sermon is likely to lean on it.
+So a hearer who knew the Greek Psalter could hear the three nouns as the Psalter's own labels `[I]`, moderate. That observation is sound. **The inference often drawn from it — that 3:16 means "the Psalms" only — does not follow.** "Spiritual songs" may be new compositions (1 Cor 14:26, "each one has a psalm"; Rev 5:9, "a new song", ᾠδή) `[T]`/`[I]`. The confession of 1:15–20 may itself be such a song `[S: dig]` (1:15–20 dig, `[I]` there). **v1.1 — claim audit 4 (C56): (a) the observation confirmed with nuance, moderate; (b) "Psalms only" discarded** `[S: audit 4]`. Only ψαλμός is mainly a title word (73 % of its Swete uses are Psalm titles, against 31 % of ᾠδή and 19 % of ὕμνος), and the titles map the Hebrew inconsistently: ἐν ὕμνοις renders בִּנְגִינוֹת ("with stringed instruments"), which LXX Ps 4 renders ἐν ψαλμοῖς.
 
 ---
 
@@ -420,7 +420,7 @@ This side of the cross, in a church gathered in households. They are chosen and 
 **Stage 1 — the response the author seeks:** a church that wears the character of its Lord towards one another — compassionate, kind, humble, gentle, patient, bearing and forgiving — bound by love, governed by Christ's peace, taught by Christ's word through its own members, singing, and thankful in everything `[I]`.
 
 **Stage 2:**
-- **Worldview.** I am chosen, holy and loved before I have done any of it (3:12). The virtues I am to wear are God's own (Rom 2:4; Exod 34:6). I have been forgiven by the Lord (3:13). The church's disputes have an umpire: Christ's peace, not the loudest voice (3:15; 2:18).
+- **Worldview.** I am chosen, holy and loved before I have done any of it (3:12). The virtues I am to wear are God's own (Rom 2:4; Ps 144:7–9). I have been forgiven by the Lord (3:13). The church's disputes have an umpire: Christ's peace, not the loudest voice (3:15; 2:18).
 - **Stop:** nursing complaints; treating humility as self-punishment (2:18, 23); leaving teaching and admonition to the minister alone; singing without listening to what is sung; separating "spiritual" life from ordinary words and acts.
 - **Start:** forgiving particular people for particular complaints; letting Christ's peace settle disputes in the body; letting the word of Christ fill sermons, songs and conversation; giving thanks as a habit, three times over.
 - **Motive:** "as the Lord forgave you" (3:13) and "chosen … beloved" (3:12) `[T]`.
@@ -544,14 +544,14 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 
 #### The character of God shared with his people
 - **Where:** the virtues of 3:12–13; "as the Lord … so also you" `[T]`.
-- **Before:** Exod 34:6–7; Ps 102:8; 144:8–9; Pss 110–111 LXX (the LORD's adjectives given to the righteous) `[T]`.
+- **Before:** Exod 34:6–7; Ps 102:8; 144:7–9; Pss 110–111 LXX (the LORD's adjectives given to the righteous) `[T]` — a field (claim audit 4, low–moderate `[S: audit 4]`); in the Gospels, Luke 6:35–36 `[T]`.
 - **After:** Eph 4:32–5:2 ("be imitators of God"); 1 Pet 1:15–16 `[S]`.
 - **Contributes:** the ethic is the family likeness of the forgiven.
 - **Confidence:** *moderate–high.*
 
 #### Election and the people of God
 - **Where:** "chosen of God, holy and beloved" (3:12) `[T]`.
-- **Before:** Deut 7:6–8; 4:37; 10:15; Isa 43:20; 65:9 `[T]` as texts.
+- **Before:** Deut 7:6–8; 4:37; 10:15; Isa 43:20; 44:1–2; 65:9 `[T]` as texts.
 - **After:** 1 Pet 2:9 ("a chosen race … a holy nation") `[T]`.
 - **Contributes:** a Gentile church addressed as Israel `[I]`.
 - **Confidence:** *high on the idea; moderate on Deuteronomy 7 specifically.*
@@ -600,7 +600,7 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
   - (b) three overlapping words for Christian song, including the Psalms `[S]`;
   - (c) three distinct genres `[S]`.
 - **What an honest exegesis surfaces:** the titles fact is real (Tool 11). But "spiritual" and "the word of Christ" point to Christ-centred song, and the NT knows new songs (1 Cor 14:26; Rev 5:9). The terms overlap `[I]`, moderate. The verse commands content and purpose — teaching and admonishing with Christ's word — more than genre `[I]`, moderate–high.
-- **Suggested handling:** mention briefly; do not let the sermon become a worship-style debate. Audit C56 before leaning on (a).
+- **Suggested handling:** mention briefly; do not let the sermon become a worship-style debate. Claim audit 4 has discarded (a) as an inference from the titles `[S: audit 4]`.
 
 #### 3:13 — forgiveness and wrongdoing
 - **Category:** pastoral.
@@ -618,7 +618,7 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 ## Convergent Findings
 
 - **Put on as the new self's clothing, grounded in election** — Tools 2, 4, 7; Tool 11 (Deut 7); Move 4. *(Headline 1)*
-- **The virtues as the Lord's character; forgiveness patterned on his** — Tools 7, 10; Tool 11 (Exod 34:6; Pss 110–111; Rom 2:4; Phil 2); Move 4; Christological Reading. *(Headline 2)*
+- **The virtues as the Lord's character; forgiveness patterned on his** — Tools 7, 10; Tool 11 (Rom 2:4; Phil 2; Ps 144:7–9 and Exod 34:6 as field; Luke 6:35–36); Move 4; Christological Reading. *(Headline 2)*
 - **Love the bond, continuing 2:2 and 2:19** — Tools 7, 10; Move 4; Textual Variants (ἑνότητος). *(Headline 3)*
 - **Peace the umpire, the word the resident, the church the teacher** — Tools 3, 5, 7; Original Languages; Move 4 (2:18; 1:28; 1:19). *(Headline 4)*
 - **Thanks three times; 3:17 as hinge to the household** — Tools 3, 10; Original Languages (the χαρ- root); Move 4. *(Headline 5)*
@@ -669,8 +669,8 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 4. **τῆς τελειότητος — the genitive's sense.** Moderate. *For Logos:* BDAG σύνδεσμος and τελειότης; Lightfoot.
 5. **3:15 — ἑνί ("one").** Moderate; NA28 prints it unbracketed against 𝔓⁴⁶ B. *For Logos:* Metzger, *Textual Commentary*.
 6. **The word of Christ (3:16) in place of the Spirit-filling (Eph 5:18).** The parallel is `[T]`; what it means — that the Spirit fills by the word, or that the letters simply differ — is `[I]`, uncertain. Do not preach an equation.
-7. **The Psalter-titles observation (C56)** — sound as a fact; uncertain as a key to the meaning. Queued.
-8. **Exodus 34:6 (C54) and Deuteronomy 7 (C55)** — fields at moderate; allusions at low–moderate. Queued.
+7. **The Psalter-titles observation (C56)** — **closed by claim audit 4:** observation moderate; "Psalms only" discarded.
+8. **Exodus 34:6 (C54) and Deuteronomy 7 (C55)** — **closed by claim audit 4:** Exod 34:6 field low–moderate, allusion low; Deut 7 idea moderate, specific text low–moderate.
 9. **KJV and Vulgate wording** — from recall.
 10. **Esther 8 as a layout artefact** — inferred from Swete's verse numbering, not read through.
 
@@ -683,10 +683,27 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 1. **Echo Table — proposed additions** (verified by lemma, SBLGNT): **1:11 → 3:12** (μακροθυμία, prayed for → commanded, *high on words*); **2:2, 2:19 → 3:14** (love knitting; σύνδεσμος, *moderate–high*; extends row 5's body line); **1:28, 4:12 → 3:14** (τέλειος → τελειότης, *moderate*); **1:27 → 3:16** ("in you", riches, *moderate*); **1:9 → 3:16** (spiritual wisdom, *high on words*); **1:5–6 → 3:16 → 4:6** (word and grace, *moderate*); **1:10, 1:21 → 3:17** (ἔργον, *moderate*); **1:16, 1:20 → 3:17** (δι᾽ αὐτοῦ, *moderate*). **Row 20 (thanksgiving)**: add 1:3 and 1:12 ("to God the Father") as its origin.
 2. **Christological Trajectory — "Pattern"**: the overview says pattern "comes late and is explicit once" (3:13). Add that the virtues of 3:12 are, elsewhere in Paul and in the Greek Old Testament, the character of God and of Christ (Rom 2:4; 2 Cor 10:1; Exod 34:6) — an implicit pattern beside the explicit one, *moderate–high*.
 3. **Pulpit Notes — add**: 3:14 (ESV "binds everything together in perfect harmony" paraphrases; NASB95 "perfect bond of unity" interprets; Greek "bond of perfection"); 3:16 (the two punctuations, and "with thankfulness" hiding "with grace", 4:6); 3:13 and 3:15 (the KJV's "Christ" and "God" follow the majority text).
-4. **Intertextual Map — record as fields, not rows**: Exodus 34:6 formula (with Ps 102:8; 144:8–9; Pss 110–111 LXX) at 3:12–13 (C54); Deut 7:6–8 at 3:12 (C55); the Psalter's titles at 3:16 (C56). None is ready for a row before audit.
+4. **Intertextual Map — record as fields, not rows**: Exodus 34:6 formula (with Ps 102:8; 144:8–9; Pss 110–111 LXX) at 3:12–13 (C54); Deut 7:6–8 at 3:12 (C55); the Psalter's titles at 3:16 (C56). **v1.1:** after claim audit 4 none becomes a row; record Exod 34:6 / Ps 144:7–9 as a low–moderate field and Deut 7:6–8 with Isa 44:1–2 as the background of the titles (moderate as idea).
 5. **Variants list — add**: 3:13 (κύριος / Χριστός / θεός); 3:15 (ἑνί omitted by 𝔓⁴⁶ B); 3:14 (ἑνότητος).
 6. **Neighbours — the Ephesians question**: a fourth Ephesian cluster (Eph 4:1–3; 4:32; 5:18–20), with two NT-exclusive pairings.
 7. **Movements — 3:12–17 as summary**: Move 4 draws on more of the letter here than in any other dug passage; the overview might note 3:12–17 as the letter's summary of church life before the household, *moderate*.
+
+---
+
+## Revision v1.1 — claim audit 4 (31 October 2026)
+
+`[S: audit 4]` = `Colossians/dig-deeper-colossians-claim-audit-4.md`. Backup of v1.0 in `_backup/Colossians-before-audit-4-2026-10-31/`.
+
+| Section | Was | Now |
+|---|---|---|
+| Headline 1 | moderate on Deut 7 as the specific background | Moderate for Israel's titles; low–moderate for Deut 7; Isa 44:1–2 and Paul's triad added |
+| Headline 2 | Exod 34:6 as the LORD's self-description | Kept as `[T]`; framed as a low–moderate field reaching Colossians through Rom 2:4 and Ps 144:7–9; Luke 6:35–36, Matt 18:33, Eph 4:32 added for "as … so" |
+| Tool 11, Exod 34:6 (C54) | moderate / low–moderate | Low–moderate / low |
+| Tool 11, Deut 7:6–8 (C55) | moderate / low–moderate | Unchanged; additions |
+| Tool 11, Psalter titles (C56) | moderate / uncertain | (a) moderate; (b) discarded |
+| Biblical Theology; Difficult Verses 3:16; Convergent Findings; Open Questions 7–8; Tension 4 | queued | Closed |
+
+**Headlines:** none changes its main claim; the confidence lines of Headlines 1 and 2 are adjusted. **Trigger 2 disarmed for point-purpose on 3:12–17.**
 
 ---
 
@@ -700,10 +717,10 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 **Chains verified:** about fifty lemma counts against the SBLGNT index — every content word of 3:12–17, among them ἐκλεκτός, ἀγαπάω, ἅγιος, σπλάγχνον, οἰκτιρμός, χρηστότης, ταπεινοφροσύνη, πραΰτης, μακροθυμία, ἀνέχομαι, χαρίζομαι, μομφή, σύνδεσμος, τελειότης, τέλειος, εἰρήνη, βραβεύω, καλέω, σῶμα, εὐχάριστος, εὐχαριστέω, λόγος, ἐνοικέω, πλουσίως, διδάσκω, νουθετέω, ψαλμός, ὕμνος, ᾠδή, ᾄδω, πνευματικός, χάρις, ὄνομα, ἔργον, πατήρ; and the co-occurrences ψαλμός + ὕμνος + ᾠδή, πραΰτης + ταπεινοφροσύνη, ἀνέχομαι + ἀλλήλων, χαρίζομαι + καθώς, χρηστότης + μακροθυμία, διδάσκω + σοφία, ὄνομα + εὐχαριστέω, λόγος + χάρις, λόγος + ἔργον, ἀγαπάω + ἐκλογή. The string "λόγος τοῦ Χριστοῦ" in all cases. Swete: οἰκτ- (both spellings) with μακροθυμ- (8 verses), with χρηστ-; ἐκλεκτ- with ἁγι- (7 verses); ἐξελε- with ἀγαπ- (Deut 4:37; 10:15); ψαλμ- with ᾠδ- (16 verses); ὕμνοις (12 verses); ταπεινοφρ-; μομφ-; πνευματικ-; clothing verbs with righteousness and salvation. The scan's New Testament mode was run once (top fifteen), with six chapters checked for sense.
 **Positive controls:** ταπεινοφρ- returns Prov 29:23; the οἰκτιρ- stem missed the ει spelling (Exod 34:6) — caught and rerun; the μέμφομαι stem is a floor, not searched; the ὕμνος search used one form only.
 **Apparatus findings:** fifteen NA28 variant units reported (3:12 twice, 3:13 twice, 3:14 twice, 3:15 twice, 3:16 five, 3:17 two), witnesses as printed. No finding rests on an apparatus feature alone.
-**Warrant counts:** [T] 251 · [I] 122 · [S] 65 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1–3]`)
+**Warrant counts:** [T] 253 · [I] 122 · [S] 74 (tags counted in the body; [S] includes `[S: dig]` and `[S: audit 1–3]`)
 
 Health note: text-driven; the `[S]` tags mark the overview's lines, the claim audits' verdicts, the neighbouring digs' findings and general background (Greek views of humility, Pliny's report, arbitration, philosophical schools).
 
 ---
 
-*Dig Deeper: Colossians 3:12–17, v1.0, 31 October 2026. Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+*Dig Deeper: Colossians 3:12–17, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
