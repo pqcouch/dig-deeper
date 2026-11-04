@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus (`12-Colossians-NA28-apparatus.txt`); SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; one spelling in these verses differs in the Anglicised edition ("fulfil", 4:17, already so spelled below) (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.0\
+**Date:** 31 October 2026 · **Version:** 1.2 (4 November 2026: claim audit 5 applied — see *Claim audit 5 (v1.2)*; earlier: 4 November 2026: Patrick's fifth Logos round; see *Revision v1.1*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 4:7–18, "Envoys, greetings and instructions". Thirteenth and last Colossians dig; it follows the 4:2–6 dig of the same day. The Philemon overview and dig (`Philemon/`) are the companion material for the shared names
 
@@ -214,7 +214,7 @@ Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference 
 
 1. **4:7 — διάκονος καὶ σύνδουλος.** ESV "faithful minister and fellow **servant**"; NASB95 "faithful servant and fellow **bond-servant**" `[T]`. The ESV renders δοῦλος-words as "servant" here and at 4:12 ("a servant of Christ Jesus") but "bondservants" at 3:22 `[T]`. **The ESV hides that Tychicus and Epaphras carry the slaves' title (3:22) — the link Headline 2 depends on**; the NASB95 ("bond-servant", "bondslave", "slaves") keeps it `[I]`.
 
-2. **4:8 — the variant.** Both follow NA28 ("that you may know about our circumstances"); the KJV follows the majority, "that he might know your estate" *(from recall)* `[T]` for the moderns. See Textual Variants.
+2. **4:8 — the variant.** Both follow NA28 ("that you may know about our circumstances"); the KJV follows the majority, "that he might know your estate" *(verified, v1.1)* `[T]` for the moderns. See Textual Variants.
 
 3. **4:9 — "our faithful and beloved brother."** Both add "our"; the Greek has the article only (τῷ πιστῷ καὶ ἀγαπητῷ ἀδελφῷ) `[T]`. Harmless `[I]`.
 
@@ -234,7 +234,7 @@ Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference 
 
 11. **4:18 — δεσμῶν.** ESV "Remember my **chains**"; NASB95 "Remember my **imprisonment**" `[T]`. The ESV is literal `[T]`.
 
-**Ancient versions check.** No translation-tradition split on the substance; the KJV's "Nymphas … his house" (4:15) and "your estate" (4:8) follow the majority Greek *(from recall)* `[I]`.
+**Ancient versions check.** No translation-tradition split on the substance; the KJV's "Nymphas … his house" (4:15) and "your estate" (4:8) follow the majority Greek *(verified, v1.1)* `[T]`. The Vulgate also follows the majority at 4:8 (*ut cognoscat quæ circa vos sunt*), and its *Nympham … in domo ejus* (4:15) is ambiguous for gender `[T]`.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. It serves this passage better than the study text in four places: "struggling" (4:12, Echo 12), "mature" (4:12, Echo 11), "the letter from Laodicea" (4:16), and "chains" (4:18). It loses one thing that matters: **"servant" for σύνδουλος and δοῦλος (4:7, 12) hides that the envoys and the founder are called slaves, alongside the household's slaves (3:22) — say "fellow slave" and "slave of Christ" when preaching Headline 2.** **Edition check:** "fulfil" (4:17) is the Anglicised spelling (US "fulfill"); no other difference known `[I]`.
 
@@ -573,13 +573,13 @@ Preach the names as the letter's theology in persons, and let the commands at th
 
 ## Open Questions / Uncertainties
 
-1. **4:8 variant** — "you … us" or "he … you"; moderate. *For Logos:* Metzger, *Textual Commentary*; Dunn.
+1. **4:8 variant** — "you … us" or "he … you"; moderate. *For Logos:* Metzger, *Textual Commentary*; Dunn. **v1.1** `[S: Logos 5]`: Dunn (272) and Pao follow NA28; Lange (82) argues for the other reading on exegetical grounds. **The external evidence is split**: the NA28 text has A B D*·ᶜ F G P 048 33 81 …; γνῷ τὰ περὶ ὑμῶν ("that he may know about you") has 𝔓⁴⁶ א²ᵃ·²ᵇ C D¹ K L Ψ 1739 1881 𝔪 f vg sy `[T]`. The Assistant's "earliest and most reliable manuscripts" for the NA28 text is wrong. *Moderate; unchanged.* Next: the *Lexham Textual Notes* (owned); Metzger is not owned. **Follow-up (pasted, 4 November)** `[S: Logos 5]`: the *Lexham Textual Notes* set out both readings, and add that unaccented ΓΝΩ can be "he may know" or "I may know" (the apparatus prints γνω) `[T]`. *Unchanged.*
 2. **The letter from Laodicea** — unresolved. *For Logos:* any treatment of Ephesians as circular; Lightfoot's excursus.
-3. **συναιχμάλωτος** — literal or figurative; and its shift between Aristarchus (Col) and Epaphras (Phlm). *For Logos:* Moo (PNTC).
-4. **Nympha** — "her" moderate–high; confirm with Metzger.
+3. **συναιχμάλωτος** — literal or figurative; and its shift between Aristarchus (Col) and Epaphras (Phlm). *For Logos:* Moo (PNTC). **v1.1** `[S: Logos 5]`: Pao (422): figurative ("in Christ Jesus" at Phlm 23; Paul's δέσμιος, "prisoner", for himself); Dunn (275–76, 347–48): literal, the companions taking turns, with 4:3, 18; Vos (ownership unknown): constant attendance. *Open; owned holders both ways.* **Follow-up (pasted, 4 November)** `[S: Logos 5]`: Wright (TNTC): possibly metaphorical, "but the literal meaning ('fellow-prisoner-of-war') suggests that he, too, is literally imprisoned" — Wright leans literal, with Dunn. Mark's possible visit, with Phlm 22, shows a place of writing "not too far distant from Colosse".
+4. **Nympha** — "her" moderate–high; confirm with Metzger. **v1.1** `[S: Logos 5]`: Dunn (284) and Pao (318–19) read αὐτῆς ("her") without discussing the variants. Apparatus: αὐτῆς B 0278 6 1739 1881 syʰ sa; αὐτῶν ("their") א A C P 33 81 104 … bo; αὐτοῦ ("his") D F G K L Ψ 𝔪; the masculine accent Νυμφᾶν is 𝔪's, the early uncials being unaccented `[T]`. *Moderate–high; unchanged.*
 5. **The λαο- stem result in the scan** — probably a proper-name fault; not investigated.
 6. **παρηγορία in medical writers** — `[S]`, uncertain; not checked.
-7. **KJV wording; Rev 3:15–22 wording; Deut 31:11** — from recall, not checked in the corpus.
+7. **KJV wording; Rev 3:15–22 wording; Deut 31:11** — from recall, not checked in the corpus. **v1.1:** the KJV wording is verified against the whole KJV of Colossians, now filed `[T]`. Rev 3:15–22 and Deut 31:11 are still unchecked.
 
 **Closed by the corpus in this run:** σύνδουλος + διάκονος in one verse — **only Col 1:7 and 4:7**. ἀσπασμός + χείρ — **only 1 Cor 16:21, Col 4:18, 2 Thess 3:17**. παρηγορ- in Swete — **only 4 Maccabees (5:12; 6:1; 12:3), of the tyrant's coaxing** (a false friend). Who among the six greeters appears in Philemon — **five (all but Jesus Justus)**. ἀνεψιός in Swete — **Num 36:11; Tob 7:2 (and Tob 9:6)**.
 
@@ -613,3 +613,34 @@ Health note: text-driven; the `[S]` tags mark the overview's lines and Echo rati
 ---
 
 *Dig Deeper: Colossians 4:7–18, v1.0, 31 October 2026. Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.1 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.0 | v1.1 |
+|---|---|---|
+| Open Questions 1 (4:8) | moderate | unchanged; Dunn and Pao follow NA28; Lange the other reading; **𝔓⁴⁶ supports γνῷ … ὑμῶν** |
+| Open Questions 3 (συναιχμάλωτος) | open | unchanged; Pao figurative; Dunn and Wright (follow-up) literal |
+| Open Questions 4 (Nympha) | "her" moderate–high | unchanged; apparatus spread recorded |
+| Tool 8; Ancient versions; Open Questions 7 | KJV recalled | **verified**; Vulgate at 4:8 and 4:15 added |
+
+**Library status:** owned and cited here — Dunn, Pao, Lange.
+
+**Headlines:** unchanged.
+
+---
+
+## Claim audit 5 (v1.2)
+
+*Source: `Colossians/dig-deeper-colossians-claim-audit-5.md` (two blind auditors; results reproduced in the main session). This section governs the paragraphs above where they differ. Tag `[S: audit 5]`.*
+
+| Item | Before | After |
+|---|---|---|
+| The frame (C65) | moderate | **moderate, restated**: the shared vocabulary lies in 4:2–13; the greetings of 4:14–18 add nothing; 4:12 echoes 1:9 as strongly as 1:28–2:2 |
+| 3:22–4:1 → 4:9, "the slave addressed, then named" (C71) | weld | **corrected**: Colossians never calls Onesimus a slave (4:9: "the faithful and beloved brother, who is one of you"); the link needs Philemon. Inside the letter δοῦλος ("slave") passes to Epaphras (4:12) |
+| Luke at 4:14 and the setting (C69) | Lukan affinities, moderate | the Lukan idiom is confined to 1:12–14 (moderate–high); across the letter Colossians is the least Lukan of the thirteen Pauline letters |
+
+**Headlines:** unchanged.

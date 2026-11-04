@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these four verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026: Deut 29:29 lowered to low)\
+**Date:** 31 October 2026 · **Version:** 1.2 (claim audit 4 applied, 31 October 2026: Deut 29:29 lowered to low; Patrick's fifth Logos round, 4 November 2026: see *Revision v1.2*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 3:1–4, "Hidden with Christ" — Standard, "⭐ if preached as the hinge of the letter". Ninth Colossians dig; it follows the completed 2:16–23 dig and precedes the undug 3:5–17
 
@@ -178,7 +178,7 @@ Prose with clear parallel construction `[T]`:
 
 7. **KJV (historic witness):** "If ye then be risen with Christ, seek those things which are above … Set your affection on things above" `[T]`. "Affection" for φρονέω narrows a word of thought and disposition to feeling `[I]`.
 
-**Ancient versions check.** The modern versions agree on "seated at the right hand of God" and "hidden with Christ in God". The **Vulgate** reads *quae sursum sunt quaerite … quae sursum sunt sapite … vita vestra abscondita est cum Christo in Deo* *(moderate confidence — from recall; not in the corpus)* — *sapite* ("savour, think") for φρονέω, with "your" life at 3:3 and, at 3:4, *vita vestra* ("your life") `[unverified — check wording]`. No translation-tradition split claimed.
+**Ancient versions check.** The modern versions agree on "seated at the right hand of God" and "hidden with Christ in God". The **Vulgate** reads *quæ sursum sunt quærite … quæ sursum sunt sapite … vita vestra est abscondita cum Christo in Deo* *(v1.2: verified in the Clementine text, now filed; the recalled word order "abscondita est" was wrong)* — *sapite* ("savour, think") for φρονέω, with "your" life at 3:3 and, at 3:4, *vita vestra* ("your life") `[T]`. No translation-tradition split claimed.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. Bearing on the findings: **(a)** "your life" (3:4) keeps the second person, as NA28 prints it — the congregation hears the promise addressed to them; **(b)** "appears … appear" (3:4) is clear but hides the hidden/revealed pair of Headline 4 — **the preacher may want to say "revealed"**; **(c)** the heading at 3:1 cuts 3:1 off from 2:20 on the page — read across it. On "set your minds" (plural) the ESV is closer than the study text. **Edition check:** no word here has a known Anglicised variant; read from the pew Bible before preaching `[I]`.
 
@@ -494,10 +494,10 @@ Present 3:1–4 as the answer to the rival's offer — the "higher" life is alre
 ## Open Questions / Uncertainties
 
 1. **The present imperatives** — continuous force ("keep seeking") or simply general? *Moderate.* *For Logos:* any owned grammar (Robertson's *Grammar*) on 3:1–2.
-2. **"Realised" resurrection** — is the past tense of 3:1 a difference from Romans 6 in theology or only in emphasis? `[S]`. *For Logos:* Dunn (NIGTC), Wright (TNTC), Bird (NCCS) on 2:12; 3:1.
-3. **Deut 29:29** — **closed by claim audit 4:** low; the pair also stands at 2 Macc 12:41, and Col 1:26 / 1 Cor 4:5 suffice `[S: audit 4]`.
+2. **"Realised" resurrection** — is the past tense of 3:1 a difference from Romans 6 in theology or only in emphasis? `[S]`. *For Logos:* Dunn (NIGTC), Wright (TNTC), Bird (NCCS) on 2:12; 3:1. **v1.2** `[S: Logos 5]`: Dunn (NIGTC, 161, 203): a real development from "not yet" to "already", yet the resurrection still lies "as much in the future as in Romans 6" — a change of perspective, not yet of being — and it "need not indicate post-Pauline authorship". Bird (NCCS, 8): Romans has the past-tense "glorified", and "the future horizon remains intact". Wright was not returned. *Emphasis, not a different theology: moderate–high.*
+3. **Deut 29:29** — **closed by claim audit 4:** low; the pair also stands at 2 Macc 12:41, and Col 1:26 / 1 Cor 4:5 suffice `[S: audit 4]`. **v1.2** `[S: Logos 5]`: Dunn (208) cites Deut 29:29 at 3:3–4 for the κρυπτός / φανερός ("hidden" / "open") contrast, with Mark 4:22; Rom 2:28–29; 1 Cor 14:25 — a vocabulary parallel. The audit's *low* stands.
 4. **φανερόω for the parousia** — unique in Paul here; confirm the sense of each of Paul's uses in a lexicon.
-5. **The Vulgate** (*sapite*; *vita vestra*) — from recall; verify if cited.
+5. **The Vulgate** (*sapite*; *vita vestra*) — from recall; verify if cited. **Closed (v1.2):** verified, with one correction — *vita vestra **est abscondita*** (3:3) `[T]`.
 6. **3:4 "your" / "our"** — moderate–high for "your".
 
 **Closed by the corpus in this run:** whether γῆ ("earth") stands elsewhere in Colossians than 1:16, 1:20, 3:2, 3:5 — **no** (positive control: the lemma search returns all four). Whether Psalm 109 (110) is absent from the scan's ranking because it shares nothing — **no**: the scan's stem misses κάθου; the psalm shares the right-hand formula in a different form (read directly).
@@ -532,3 +532,17 @@ Health note: text-driven; the `[S]` tags mark the overview's lines, claim audit 
 ---
 
 *Dig Deeper: Colossians 3:1–4, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.2 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.1 | v1.2 |
+|---|---|---|
+| Open Questions 2 (realised resurrection) | `[S]`, open | **emphasis, not theology: moderate–high** (Dunn; Bird) |
+| Open Questions 3 (Deut 29:29) | low | unchanged; Dunn cites it as a vocabulary parallel |
+| Ancient versions check; Open Questions 5 | Vulgate recalled | **verified, one correction**: *vita vestra est abscondita* |
+
+**Headlines:** unchanged.

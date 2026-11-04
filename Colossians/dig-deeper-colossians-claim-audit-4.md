@@ -2,7 +2,7 @@
 
 **Passages audited:** Col 1:5–14; 3:3–4; 3:12–16; 3:22–4:1; 4:2–6\
 **Date:** 31 October 2026\
-**Version:** 1.0\
+**Version:** 1.1 (4 November 2026: history-of-interpretation rows from Patrick's fifth Logos round)\
 **Purpose:** The fourth claim audit on Colossians. It covers the whole queue of twelve candidates:
 - C44–C46, from claim audit 3;
 - C48–C50, from the 1:1–14 dig;
@@ -27,7 +27,7 @@ C47, C51, C53, C59 and C60 are record-only and are not audited. Trigger 1 had be
 - Each auditor read a brief, a claims file and the corpus only. Neither saw the digs, the overview, the earlier audits, the Logos answers or the other auditor's report.
 - The main session then reproduced the results each verdict rests on (see *Spot Checks*).
 
-**History of interpretation:** none of these twelve claims has yet been put to Patrick's Logos library. The auditors' row carries their recalled scholarship only, tagged `[S]`, and every claim is marked **pending Logos round 5** (question numbers in the section *Questions for Logos round 5*). **No verdict below rests on this row.**
+**History of interpretation:** none of these twelve claims has yet been put to Patrick's Logos library. The auditors' row carries their recalled scholarship only, tagged `[S]`, and every claim is marked **pending Logos round 5** (question numbers in the section *Questions for Logos round 5*). **No verdict below rests on this row.** **v1.1 (4 November 2026):** the rows now carry Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`, §2), tagged `[S: Logos 5]`. No verdict changed.
 
 Warrant tags: `[T]` the text states or shows it · `[I]` a reasonable inference from the text · `[S]` a secondary source or recalled scholarship · `[S: audit 1]`, `[S: audit 2]`, `[S: audit 3]` the earlier Colossians claim audits.
 
@@ -96,7 +96,7 @@ This sharpens audit 3's finding (63–70 % at median ≤ 2) `[S: audit 3]`. **"C
 | Recurrence | Weak | No Job contact elsewhere in Colossians |
 | Thematic coherence | Possible | Master answerable to God |
 | Historical plausibility | Possible | — |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q1) |
+| History of interpretation | `[S]` | **Logos 5:** none found `[S: Logos 5]` |
 | Satisfaction | Weak | Eph 6:9 and Lev 25:43 explain 4:1 as well |
 
 **Verdict:** **Needs reframing.** **Low** (down from low–moderate).
@@ -132,7 +132,7 @@ This sharpens audit 3's finding (63–70 % at median ≤ 2) `[S: audit 3]`. **"C
 | Recurrence | Possible | 3:22 and 3:24 |
 | Thematic coherence | Strong | Service of the Lord |
 | Historical plausibility | Strong | A stock formula |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q2); audit 3's C42 found no owned commentator linking the OT fear of the LORD `[S: audit 3]` |
+| History of interpretation | `[S]` | **Logos 5:** Pao (Deut 6:2, 13, 24; 10:12, 20; 1 Sam 12:24) and Bird (Deut 10:12–13) for the formula; Dunn cites Ps 19:11 for ἀνταπόδοσις as a good outcome (lexical) `[S: Logos 5]`; audit 3's C42 found no owned commentator linking the OT fear of the LORD `[S: audit 3]` |
 | Satisfaction | Possible | It explains "fearing the Lord" directed to Christ |
 
 *(ii) Ps 18:12*
@@ -181,7 +181,7 @@ Rated moderate.
 | Recurrence | Weak | Neither elsewhere in Colossians |
 | Thematic coherence | Possible | Angels in Wis 5:5; people in Ps 15 |
 | Historical plausibility | Possible | Qumran parallel `[S]` |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q3) |
+| History of interpretation | `[S]` | **Logos 5:** believers — Wright, Pao, Dunn, Osborne; open to angels — Bird; Wis 5:5 — Dunn, Witherington; Qumran — Dunn, Pao, Witherington, Bird; Acts 26:18 — Dunn (reporting Aletti), Pao; Ps 15:5 LXX — none `[S: Logos 5]` |
 | Satisfaction | Possible | Acts 26:18 explains more |
 
 **Verdict:** **Confirmed with nuance**, split:
@@ -225,7 +225,7 @@ Rated moderate.
 | Recurrence | Possible | 1:12–14 only, but "inheritance" again at 3:24 |
 | Thematic coherence | Strong | Rescue from a hostile power, transfer, redemption |
 | Historical plausibility | Strong | Exodus as the type of redemption in Paul (1 Cor 10) `[S]` |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q4) |
+| History of interpretation | `[S]` | **Logos 5:** Pao (Exod 6:6 LXX; Isa 41–44; Hos 13:14 LXX) and Osborne (Exod 6:6; 14:30; Deut 7:8); Wright and Witherington without a text `[S: Logos 5]` |
 | Satisfaction | Possible | — |
 
 **Verdict:** **Confirmed with nuance.** **Moderate for the exodus redemption pattern** (Exod 6:6–8; 14:30; Deut 9:26–29; Ps 106 LXX); **low–moderate for Exod 6:6–8 specifically.**
@@ -294,7 +294,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Recurrence | Weak | See C58 (discarded) |
 | Thematic coherence | Strong | The word's growth |
 | Historical plausibility | Possible | — |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q5) |
+| History of interpretation | `[S]` | **Logos 5:** the sower — Dunn (Mark 4:8), Pao (Luke 8:15, with the rival Acts 6:7; 12:24; 19:20); Gen 1:28 — Wright, Pao, Bird, Osborne `[S: Logos 5]` |
 | Satisfaction | Possible | Explains the verb pair better than Genesis |
 
 **Verdict:** **Needs reframing.** **Low–moderate** as an allusion to the sower; **moderate** as an early-Christian idiom of the word bearing fruit and growing, whose likeliest root is the sower tradition (Luke's form the closest).
@@ -324,7 +324,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Volume | Weak | Two common words, in another sense (the law) |
 | Recurrence | Weak | — |
 | Thematic coherence | Weak | Deuteronomy's revealed things are the law; Colossians' are the believers in glory |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q6) |
+| History of interpretation | `[S]` | **Logos 5:** Dunn (NIGTC, 208), as a vocabulary parallel `[S: Logos 5]` |
 | Satisfaction | Weak | Col 1:26 and 1 Cor 4:5 suffice |
 
 **Verdict:** **Needs reframing.** **Low** (down from low–moderate). Keep it at most as a contrastive note.
@@ -357,7 +357,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Volume | Weak — adjectives against nouns |
 | Baseline | The words are the standard divine-attribute vocabulary (Wis 15:1; Rom 2:4) |
 | Alternative explanation | Paul's own usage, and the Jesus-tradition imitation saying |
-| History of interpretation | `[S]` — pending Logos round 5 (Q7) |
+| History of interpretation | `[S]` — **Logos 5:** Gurtner (BKBC, 604: Exod 34:6; Ps 144:9 LXX = Ps 145:9); Osborne (Rom 2:4); Merkle on Ephesians `[S: Logos 5]` |
 
 **Verdict:** **Needs reframing.** **Low–moderate** for the field, framed as "divine-attribute vocabulary, ultimately from the Exod 34:6 tradition, reaching Colossians through Paul (Rom 2:4) and the Greek Psalter (Ps 144:7–9)". **Low** for an allusion to Exod 34:6 itself.
 
@@ -390,7 +390,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Recurrence | Possible | Deut 7:25 and Col 3:5 (idolatry) |
 | Thematic coherence | Strong | Israel's titles given to the church |
 | Historical plausibility | Strong | — |
-| History of interpretation | `[S]` | Pending Logos round 5 (Q8) |
+| History of interpretation | `[S]` | **Logos 5:** Dunn ("the classic covenant text"), Pao, Brown and Osborne all name Deut 7:6; Dunn adds Isa 44:2 `[S: Logos 5]` |
 | Satisfaction | Possible | Paul's own triad explains the wording |
 
 **Verdict:** **Confirmed with nuance.** **Moderate** for the idea (Israel's titles given to the church); **low–moderate** for Deut 7:6–8 as the specific text. Ratings unchanged.
@@ -422,7 +422,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Baseline | Only ψαλμός is bound to the Psalter |
 | Sense | The titles use the words inconsistently |
 | Alternative explanation | Three overlapping words for song |
-| History of interpretation | `[S]` — pending Logos round 5 (Q9) |
+| History of interpretation | `[S]` — **Logos 5:** Beale (BECNT, Patrick's notes) holds the titles reading — true in Rahlfs (Pss 66, 75), not in Swete (Ps 75 only); none argues for Psalms only `[S: Logos 5]` |
 
 **Verdict:** **(a) Confirmed with nuance — moderate.** **(b) Discard — low.**
 
@@ -458,7 +458,7 @@ Wisdom 18 is said to be the most stable scan partner of 1:12–14.
 | Leave-one-out | Collapses on a weighted measure; holds partly on a raw count |
 | Sense | The verb's sense reversed (stall / seize); the σοφοί frame shared |
 | Alternative explanation | Pauline idiom (Eph 5:16); possible secular Greek idiom `[S]` |
-| History of interpretation | `[S]` — pending Logos round 5 (Q10) |
+| History of interpretation | `[S]` — **Logos 5:** Osborne, Pao and Dunn cite Dan 2:8; LSJ records no non-biblical use of the phrase and marks the change of voice (active in Daniel, middle in Paul) `[S: Logos 5]` |
 
 **Verdict:** **(a) Confirmed with nuance — low–moderate as allusion; moderate as the only Greek-Bible precedent for the phrase.** **(b) Needs reframing — low** for Daniel 2 as a field at 4:2–5 (down from moderate). **Audit 1's rating for Daniel 2 as the shape behind 1:26–27 (moderate) is not affected** `[S: audit 1]`. What fails is the claim that its recurrence at 4:2–5 adds evidence.
 
@@ -496,7 +496,7 @@ That is three in five verses, two of them Markan, and so, with C50, possibly a M
 | Baseline | Three such pairings in a quarter of Pauline paragraphs |
 | Sense | Different in all three |
 | Alternative explanation | Pauline and early-church paraenetic stock (1 Thess 5; Eph 6:18–20) |
-| History of interpretation | `[S]` — pending Logos round 5 (Q11) |
+| History of interpretation | `[S]` — **Logos 5:** Dunn (Gethsemane, with Moule, Houlden, Caird) and Pao (Mark 14:38) `[S: Logos 5]` |
 
 **Verdict:** **Discard** the cluster and the "Markan thread" — **low**. Individually:
 - γρηγορέω + prayer: **low–moderate**, as an early-Christian "watch and pray" idiom, plausibly rooted in Jesus' words;

@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.0\
+**Date:** 31 October 2026 · **Version:** 1.2 (4 November 2026: claim audit 5 applied — see *Claim audit 5 (v1.2)*; earlier: 4 November 2026: Patrick's fifth Logos round; see *Revision v1.1*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 3:5–11, "Put off the old self" (Standard). Tenth Colossians dig; it follows the 3:1–4 dig of the same day and precedes the undug 3:12–17
 
@@ -212,7 +212,7 @@ Prose, with three parallel constructions `[T]`:
 
 10. **3:11.** ESV "Here there is not Greek and Jew …"; NASB95 "*a renewal* in which there is no *distinction between* …" — the italics mark supplied words `[T]`. The ESV is closer; the NASB95's "distinction" softens an absolute "there is not" `[I]`.
 
-**Ancient versions check.** The moderns agree on the causal participles at 3:9–10 and on "Christ is all". The **Vulgate** reads *expoliantes vos veterem hominem … et induentes novum* *(moderate confidence — from recall)* — participles, as the Greek, which a Latin reader could take either way `[unverified — check wording]`. No translation-tradition split is claimed.
+**Ancient versions check.** The moderns agree on the causal participles at 3:9–10 and on "Christ is all". The **Vulgate** reads *expoliantes vos veterem hominem … et induentes novum* *(v1.1: verified in the Clementine text, now filed)* — participles, as the Greek, which a Latin reader could take either way `[T]`. The KJV renders the participles as causal: "seeing that ye have put off the old man" (3:9) `[T]`. No translation-tradition split is claimed.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. Bearing on the findings: **(a)** "put to death" (3:5) keeps the decisive imperative of Headline 1 — the congregation hears a command, not a reckoning; but it loses "members"; **(b)** 3:6 omits "upon the sons of disobedience" — say that many manuscripts have it; **(c)** "its creator" (3:10) hides the Genesis "him" — say "the One who created him"; **(d)** "obscene talk" (3:8) narrows a broader word. On 3:11 the ESV is closer than the study text. **Edition check:** no word here has a known Anglicised variant; read from the pew Bible before preaching `[I]`.
 
@@ -553,12 +553,12 @@ Preach the commands with their ground, and end where the passage ends — not wi
 
 ## Open Questions / Uncertainties
 
-1. **3:6 — the bracketed phrase.** Divided. *For Logos:* how Dunn (NIGTC) and Pao (ZECNT) decide.
-2. **3:9–10 — causal or imperatival participles.** Moderate–high for causal. *For Logos:* Wright (TNTC), Bird (NCCS), Robertson's *Grammar*.
-3. **νέος and καινός.** Moderate. *For Logos:* EDNT on both words.
+1. **3:6 — the bracketed phrase.** Divided. *For Logos:* how Dunn (NIGTC) and Pao (ZECNT) decide. **v1.1** `[S: Logos 5]`: Pao (ZECNT, 221) finds a slightly stronger case for omission (𝔓⁴⁶ B; a possible borrowing from Eph 5:6), yet keeps the phrase in brackets with UBS⁴ and NA²⁷. Dunn includes it in his translation, with no discussion in what was returned. The Vulgate (*super filios incredulitatis*) and the KJV include it `[T]`. *Divided; unchanged.* **Follow-up (pasted, 4 November)** `[S: Logos 5]`: Wright (TNTC, n. 57) keeps the phrase: with it, ἐν οἷς ("among whom") and ἐν τούτοις ("in these") in 3:7 have different antecedents, which he prefers to making both refer back to δι᾽ ἅ. The *Lexham Textual Notes*: "two very early manuscripts" omit it; the majority includes it. *Divided; unchanged* — but Wright's is the best internal case for inclusion: with the phrase, 3:7 reads "among whom you also once walked, when you lived in these things", two referents and no redundancy `[I]`.
+2. **3:9–10 — causal or imperatival participles.** Moderate–high for causal. *For Logos:* Wright (TNTC), Bird (NCCS), Robertson's *Grammar*. **v1.1** `[S: Logos 5]`: causal — Wilson (*ESV Expository Commentary*, 11:241–42; owned) and Gaffin (ownership unknown). The Assistant credited these to Wright and Bird, a misfiling, so neither was confirmed. **Follow-up (pasted):** Wright is causal after all — "*since* you have taken off your old self … and have put on the new self", the aorists marking "actions that are unique and unrepeatable", with baptismal imagery. Bird is still unconfirmed. Robertson's *Grammar* comments only on μὴ ψεύδεσθε ("do not lie"). The KJV's "seeing that ye have put off" is causal `[T]`. *Moderate–high; unchanged.*
+3. **νέος and καινός.** Moderate. *For Logos:* EDNT on both words. **v1.1** `[S: Logos 5]`: EDNT (2:462): νέος ("new") new in time, καινός ("new") new in kind; Trench (*Synonyms*, 223–24) develops it. *Moderate; unchanged.* The two words overlap in Koine, so do not build a sermon point on the difference `[S]` (a recalled caution).
 4. **Phrygians as "barbarians" in Greek eyes** — uncertain; verify before using.
 5. **Sir 17:3** (image and clothing in one verse) — a minor rival to Gen 1 at 3:10; moderate–low; record only.
-6. **The Vulgate wording** — from recall.
+6. **The Vulgate wording** — from recall. **Closed (v1.1):** verified in the Clementine text `[T]`.
 
 **Closed by the corpus in this run:** whether Σκύθης has a sense in the Greek Bible beyond the place-name — **yes**: a byword at 2 Macc 4:47 and 3 Macc 7:5 (positive control: the stem search also returns Judg 1:27, Scythopolis, and the false friend σκυθρωπός, both identified and set aside). Whether the scan's failure to rank Genesis 1 means no contact — **no**: claim audit 1 explained the blind spot, and the phrase is verified directly.
 
@@ -592,3 +592,31 @@ Health note: text-driven; the `[S]` tags mark the overview's lines, claim audit 
 ---
 
 *Dig Deeper: Colossians 3:5–11, v1.0, 31 October 2026. Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.1 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.0 | v1.1 |
+|---|---|---|
+| Open Questions 1 (3:6) | divided | unchanged; Pao leans to omission but brackets; the Vulgate and KJV include; Wright keeps it on an internal argument from 3:7 (follow-up) |
+| Open Questions 2 (3:9–10) | causal, moderate–high | unchanged; Wilson and **Wright (pasted, follow-up)** hold it; Bird unconfirmed; **the KJV is causal** |
+| Open Questions 3 (νέος / καινός) | moderate | unchanged; EDNT, Trench; caution added |
+| Ancient versions check; Open Questions 6 | Vulgate recalled | **verified** |
+
+**Headlines:** unchanged.
+
+---
+
+## Claim audit 5 (v1.2)
+
+*Source: `Colossians/dig-deeper-colossians-claim-audit-5.md` (two blind auditors; results reproduced in the main session). This section governs the paragraphs above where they differ. Tag `[S: audit 5]`.*
+
+| Item | Before | After |
+|---|---|---|
+| The speech chain begins here (C68) | λόγος chain from 3:8–9 | λόγος ("word") is **absent from 3:8–9**; the first link is carried by βλασφημία ("slander"), αἰσχρολογία ("obscene talk"), "from your mouth" and ψεύδομαι ("lie"). The thread stands at moderate as a speech-word cluster |
+| 3:10 → 3:12, ἐνδύω ("put on") | weld | confirmed; ordinary Pauline clothing idiom |
+
+**Headlines:** unchanged.

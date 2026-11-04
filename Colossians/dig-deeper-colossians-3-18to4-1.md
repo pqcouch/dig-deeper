@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export), worked first, with the NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament, with the Rahlfs exports as the citation of record where a finding rests on Greek OT wording (Chronicles, Leviticus, Deuteronomy, Isaiah, Psalms); the WLC where the Hebrew is in question\
 **Study text:** NASB95\
 **Pulpit text:** ESV — declared by Patrick for Colossians (his own church). The export in the folder is Crossway's 2025 US text, not the ESV Anglicised; check the church's own edition before quoting from the pulpit\
-**Date:** 27 October 2026 · **Version:** 1.3 (28 October 2026: claim audit 3 applied; 29 October 2026: Patrick's fourth Logos round; 31 October 2026: claim audit 4 applied; see *Revision v1.1*, *v1.2* and *v1.3*)\
+**Date:** 27 October 2026 · **Version:** 1.4 (28 October 2026: claim audit 3 applied; 29 October 2026: Patrick's fourth Logos round; 31 October 2026: claim audit 4 applied; 4 November 2026: his fifth Logos round; see *Revision v1.1* to *v1.4*)\
 **Book-overview context:** In-conversation — the Colossians overview v0.1.1 (Draft, 19 October 2026; revised 21 October 2026), front-loaded at Phase 0.5\
 **Series context:** Fifth and last solo dig in the Colossians sweep, after 1:15–20, 1:24–2:5, 2:6–15 and 2:16–23; the overview's fifth ⭐ HIGH unit ("The household under the Lord", flagged as a pastoral landmine)
 
@@ -246,13 +246,13 @@ Elsewhere in the NT ἀνθρωπάρεσκος ("men-pleaser") occurs only at E
 
 **προσωπολημψία ("partiality")** `[T]` — *high.* It has four NT uses: Rom 2:11; Eph 6:9; Col 3:25; Jas 2:1. The related forms are προσωπολήμπτης ("one who shows partiality", Acts 10:34) and προσωπολημπτέω ("to show partiality", Jas 2:9) (SBLGNT). The compound does not occur in Swete. It is a Christian coinage `[S]` from the LXX idiom λαμβάνειν πρόσωπον ("to receive a face", Lev 19:15) and θαυμάζειν πρόσωπον ("to admire a face", Deut 10:17; 2 Chr 19:7) `[T]` for the idiom; `[S]` for the coinage. The scan control confirms the absence: the tool lists this stem as having no match anywhere in Swete.
 
-**τὸ δίκαιον καὶ τὴν ἰσότητα ("what is just and equal")** `[T]` — ἰσότης ("equality") has three NT uses: 2 Cor 8:13, 14, where it is the "equality" between giving and receiving churches, and Col 4:1 (SBLGNT). In Swete it is rare: Job 36:29; Zech 4:7; Pss Sol 17:46 `[T]`. **v1.2:** at Pss Sol 17:46 (Swete numbering) the Lord's Messiah "will lead them all ἐν ἰσότητι, and there will be no arrogance among them, that any should be oppressed" — the one Swete use of a ruler's treatment of those under him, set against oppression `[T]`; it fits "fair" as well as "equal" `[I]`. Record only. "Equality" is its ordinary sense, and "fairness" or "equity" its extended one `[S]`. The NASB95 ("fairness") and the ESV ("fairly") decide for the extended sense. The KJV's "that which is just and equal" keeps the word (Tool 8) `[unverified — KJV from recall]`. The Clementine Vulgate has *quod justum est et æquum* (verified v1.2); *aequus* spans "equal" and "fair" `[I]`.
+**τὸ δίκαιον καὶ τὴν ἰσότητα ("what is just and equal")** `[T]` — ἰσότης ("equality") has three NT uses: 2 Cor 8:13, 14, where it is the "equality" between giving and receiving churches, and Col 4:1 (SBLGNT). In Swete it is rare: Job 36:29; Zech 4:7; Pss Sol 17:46 `[T]`. **v1.2:** at Pss Sol 17:46 (Swete numbering) the Lord's Messiah "will lead them all ἐν ἰσότητι, and there will be no arrogance among them, that any should be oppressed" — the one Swete use of a ruler's treatment of those under him, set against oppression `[T]`; it fits "fair" as well as "equal" `[I]`. Record only. "Equality" is its ordinary sense, and "fairness" or "equity" its extended one `[S]`. The NASB95 ("fairness") and the ESV ("fairly") decide for the extended sense. The KJV's "that which is just and equal" keeps the word (Tool 8) `[T]` (KJV verified, v1.4). The Clementine Vulgate has *quod justum est et æquum* (verified v1.2); *aequus* spans "equal" and "fair" `[I]`.
 
 **Proper-noun inventory.** Χριστός ("Christ", 3:24) is the only name `[T]`. There are no places and no numbers. The roles — wives, husbands, children, fathers, slaves, masters — are generic. There is no canonical freight to load beyond "the Lord Christ".
 
 ### 8. Translations
 
-**3:18 ὑποτάσσεσθε ("be subject").** NASB95 "be subject to", ESV "submit to", KJV "submit yourselves unto your own husbands" `[unverified — KJV from recall]`. The KJV's "own" reflects the majority's ἰδίοις ("own"), absent from NA28. The middle voice favours "submit yourselves" `[I]`, *moderate*. None of the three says "obey", and the Greek does not either.
+**3:18 ὑποτάσσεσθε ("be subject").** NASB95 "be subject to", ESV "submit to", KJV "submit yourselves unto your own husbands" `[T]` (KJV verified, v1.4). The KJV's "own" reflects the majority's ἰδίοις ("own"), absent from NA28. The middle voice favours "submit yourselves" `[I]`, *moderate*. None of the three says "obey", and the Greek does not either.
 
 **3:19 μὴ πικραίνεσθε ("do not be embittered").** NASB95 "do not be embittered against them" is closer to the passive and to the root πικρ- ("bitter"). The ESV's "do not be harsh with them" and the NIV84's "do not be harsh with them" turn an inward disposition into outward behaviour `[I]`.
 
@@ -266,11 +266,11 @@ Elsewhere in the NT ἀνθρωπάρεσκος ("men-pleaser") occurs only at E
 
 **3:24 τὴν ἀνταπόδοσιν τῆς κληρονομίας ("the reward of the inheritance").** NASB95 "the reward of the inheritance" (literal); ESV "the inheritance as your reward" (it makes the genitive appositional — a defensible decision, already made for the hearer) `[I]`.
 
-**3:24 τῷ κυρίῳ Χριστῷ δουλεύετε ("the Lord Christ you serve").** NASB95 "It is the Lord Christ whom you serve"; ESV "You are serving the Lord Christ"; NIV84 "It is the Lord Christ you are serving"; KJV "for ye serve the Lord Christ" (with the majority's γάρ, "for") `[unverified — KJV from recall]`. **All the English versions read an indicative.** The form is equally an imperative, "serve the Lord Christ!" (Difficult Verses).
+**3:24 τῷ κυρίῳ Χριστῷ δουλεύετε ("the Lord Christ you serve").** NASB95 "It is the Lord Christ whom you serve"; ESV "You are serving the Lord Christ"; NIV84 "It is the Lord Christ you are serving"; KJV "for ye serve the Lord Christ" (with the majority's γάρ, "for") `[T]` (KJV verified, v1.4). **All the English versions read an indicative.** The form is equally an imperative, "serve the Lord Christ!" (Difficult Verses).
 
 **3:25 καὶ οὐκ ἔστιν προσωπολημψία ("and there is no partiality").** ESV "and there is no partiality" keeps a free-standing clause. NASB95 "and that without partiality" attaches it to the repayment and so narrows it `[I]`.
 
-**4:1 τὸ δίκαιον καὶ τὴν ἰσότητα … παρέχεσθε ("grant what is just and equal").** NASB95 "grant … justice and fairness" keeps the nouns and the verb. ESV "treat … justly and fairly" turns the nouns into adverbs and loses "grant", the middle-voice "supply from yourselves". The KJV's "give unto your servants that which is just and equal" `[unverified — KJV from recall]` keeps ἰσότης ("equality").
+**4:1 τὸ δίκαιον καὶ τὴν ἰσότητα … παρέχεσθε ("grant what is just and equal").** NASB95 "grant … justice and fairness" keeps the nouns and the verb. ESV "treat … justly and fairly" turns the nouns into adverbs and loses "grant", the middle-voice "supply from yourselves". The KJV's "give unto your servants that which is just and equal" `[T]` (KJV verified, v1.4) keeps ἰσότης ("equality").
 
 **Ancient versions check.** The modern versions agree on two renderings that carry weight. Both were checked.
 
@@ -832,8 +832,8 @@ High on the lordship; moderate–high on the fear-of-the-LORD transfer; moderate
 
 ## Open Questions / Uncertainties
 
-1. **3:24 δουλεύετε ("serve") — indicative or imperative?** Both are possible; the English versions are unanimous for the indicative, the Vulgate (verified v1.2) for the imperative. *Moderate.* **v1.2:** Dunn and Pao indicative; Rom 16:18; the F G relative. *Slight lean to the indicative; moderate.* Wright and Witherington not returned.
-2. **3:25 — whose wrong?** The slave's (γάρ "for"; Phlm 18), the master's (Eph 6:9), or anyone's. *Moderate.* **v1.2:** the (non-Colossians) works returned read both; no one uses Phlm 18. Owned commentators still to ask.
+1. **3:24 δουλεύετε ("serve") — indicative or imperative?** Both are possible; the English versions are unanimous for the indicative, the Vulgate (verified v1.2) for the imperative. *Moderate.* **v1.2:** Dunn and Pao indicative; Rom 16:18; the F G relative. *Slight lean to the indicative; moderate.* Wright and Witherington not returned. **v1.4** `[S: Logos 5]`: the imperative side is now named — Pao's "majority of recent commentators" (275, n.): Moule, Lohse, Schweizer, O'Brien, Wright, Harris, Moo, Sumney; Dunn's n. (257): Abbott, Lohse, O'Brien, Harris, NEB/REB, with Lightfoot "otherwise". Dunn himself reads a reminder ("it is the Lord Christ whose slaves they are"). *Slight lean to the indicative, moderate; unchanged.*
+2. **3:25 — whose wrong?** The slave's (γάρ "for"; Phlm 18), the master's (Eph 6:9), or anyone's. *Moderate.* **v1.2:** the (non-Colossians) works returned read both; no one uses Phlm 18. Owned commentators still to ask. **v1.4** `[S: Logos 5]`: Dunn (258–59): both slaves and masters; Witherington (194): either, the first "certainly possible in light of 4:1"; Wright (154): slaves first, but "equally relevant" to masters. No one uses Phlm 18. *Both, moderate; unchanged, now with owned holders.*
 3. **4:1 ἰσότης ("equality") — "fairness" or "equality"?** The pulpit text has decided; the word's ordinary sense is "equality". *Moderate — consult BDAG and the commentaries.* **v1.2:** Lange and Osborne take the fuller sense. *Moderate, leaning to the double sense.* BDAG is not owned.
 4. **κύριον ("the Lord") at 3:22 — Christ or God?** In Colossians "the Lord" is Christ (3:24), and the fear-of-the-LORD transfer follows; but the formula could be used of God unreflectively. *Moderate–high for Christ.* v1.1: confirmed by claim audit 3 (κύριον with א* A B C D* F G; θεόν with 𝔓⁴⁶ א² D² K 104 630 𝔪 d vgᶜˡ) `[S: audit 3]`.
 5. **Why Colossians compresses the family lines and keeps the slave section at full length.** The occasion (Onesimus, 4:9; Philemon) explains it well, but the explanation is `[I]`. *Moderate.*
@@ -917,7 +917,7 @@ High on the lordship; moderate–high on the fear-of-the-LORD transfer; moderate
 **Passage text:** Verified.
 - NA28 and SBLGNT were compared word by word: 116 words each, one difference (3:22, singular and plural of "eye-service").
 - NASB95, ESV and NIV84 were quoted from the Logos exports.
-- The KJV was quoted from recall and tagged `[unverified — check wording]`.
+- The KJV was quoted from recall and tagged `[unverified — check wording]`. **v1.4:** verified against the whole KJV of Colossians, now filed.
 - Every Greek OT text cited was read from Swete, and from the Rahlfs export for Chronicles, Leviticus, Deuteronomy, Isaiah and Psalms where the wording carries weight.
 - The Hebrew was read from the WLC.
 
@@ -1029,3 +1029,22 @@ Health note: text-first and Greek-first. As the overview predicted, the passage 
 | Open Questions 9 | C44, C45 queued | Closed |
 
 **Headlines:** unchanged (none rested on C44 or C45).
+
+---
+
+## Revision v1.4 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.3 | v1.4 |
+|---|---|---|
+| Move 4, 1:12 → 3:24 (C40) | Dunn reached through Brown | **Dunn at first hand** (NIGTC, 256–57): "the allusion to it already in 1:12 … strongly suggest[s] … a share in the inheritance promised to Abraham". Brown's summary was accurate |
+| Difficult Verses, 3:24 | slight lean to the indicative, moderate | unchanged; the imperative holders named (Pao's list; Dunn's n.) |
+| Difficult Verses, 3:25 | both, moderate | unchanged; Dunn, Witherington, Wright |
+| Tool 7, the fear of the Lord (C45) | history pending | Pao (Deut 6:2, 13, 24; 10:12, 20; 1 Sam 12:24) and Bird (Deut 10:12–13); Dunn cites Ps 19:11 for ἀνταπόδοσις ("repayment") as a good outcome, a lexical use |
+| Job 31 at 4:1 (C44) | history pending | none found |
+| Tool 8 and Original Languages, KJV at 3:18, 3:24 and 4:1 | from recall | **verified** (four places) |
+
+**Library status:** owned and cited here — Dunn, Pao, Wright, Witherington, Bird.
+
+**Headlines:** unchanged.

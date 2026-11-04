@@ -1,6 +1,7 @@
 # Book Overview: Colossians
 
 **Primary texts:**
+
 - NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the NA28 apparatus (`12-Colossians-NA28-apparatus.txt`);
 - SBLGNT with its word index (`_texts/greek-nt-sblgnt/12-Col.txt`) as the counting layer;
 - Swete's LXX for the Greek Old Testament, with the Rahlfs exports cited where a row rests on the LXX wording.
@@ -8,18 +9,19 @@
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for the Colossians digs (his own church). No sermon is in view in this document. The declaration is carried so that the Pulpit Notes below are ready when one is\
 **Genre:** NT epistle — a pastoral letter to a church the writer has not visited, built around a poetic Christ-confession and a warning against a rival "philosophy"\
-**Mode:** **Finalise** — the text-first Draft (v0.1, 19 October 2026) reconciled against the twelve completed dig-deeper runs, claim audits 1–4 and Patrick's Logos rounds 1–4\
-**Date:** 31 October 2026 (Draft 19 October 2026)\
-**Sweep status:** **complete** — all twelve preaching units have solo digs (1:1–14 to 4:7–18), all five ⭐ HIGH units among them, and the claim-audit queue has been audited four times (C1–C58). See *What Changed in v1.0* and the Colophon\
-**Version:** 1.1 (macro-synthesis added, 31 October 2026)
+**Mode:** **Finalise** — the text-first Draft (v0.1, 19 October 2026) reconciled against the twelve completed dig-deeper runs, claim audits 1–5 and Patrick's Logos rounds 1–5\
+**Date:** 4 November 2026 (Draft 19 October 2026; v1.0 and v1.1, 31 October 2026)\
+**Sweep status:** **complete** — all twelve preaching units have solo digs (1:1–14 to 4:7–18), all five ⭐ HIGH units among them, and the claim-audit queue has been audited five times (C1–C72). See *What Changed in v1.2* and the Colophon\
+**Version:** 1.2 (Finalise, carrying claim audit 5 and Logos round 5, 4 November 2026)
 
 Warrant tags:
+
 - `[T]` the text states or shows it;
 - `[I]` a reasonable inference from the text;
 - `[S]` supplied by a secondary source or by tradition, held provisionally;
 - `[S: dig]` a finding of one of the Colossians digs, named at the point of use — from the overview's standpoint a run is a secondary source, even though it was text-first;
-- `[S: audit 1]` … `[S: audit 4]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-2.md`, `…-3.md`, `…-4.md`), accepted as settled;
-- `[S: Logos 1]` … `[S: Logos 4]` Patrick's Logos rounds (`claude/colossians-logos-answers-round-N…`). Works marked *not owned* were reached through the Study Assistant's search, not from his library.
+- `[S: audit 1]` … `[S: audit 5]` a verdict of the Colossians claim audits (`Colossians/dig-deeper-colossians-claim-audit.md`, `…-2.md`, `…-3.md`, `…-4.md`, `…-5.md`), accepted as settled;
+- `[S: Logos 1]` … `[S: Logos 5]` Patrick's Logos rounds (`claude/colossians-logos-answers-round-N…`; round 5 in `Colossians/colossians-logos-answers-round-5-assessment.md`). Works marked *not owned* were reached through the Study Assistant's search, not from his library.
 
 ---
 
@@ -32,15 +34,17 @@ The NT equivalent of the Tanak block: position in the collection, what it presup
 | **Section** | Pauline corpus, fourth of the four "prison" letters in the canonical order (Ephesians, Philippians, Colossians, then Philemon at the end of the corpus). NA28 and the English Bibles agree on the order: Philippians before, 1 Thessalonians after. The order runs broadly by length, not by date `[S]`. |
 | **Reading implication** | A canonical reader arrives at Colossians having just read Ephesians, and will hear much of it as familiar. That is the danger: the familiar phrases ("head", "body", "fullness", the household code) are here put to a sharper, polemical use against a named rival "philosophy" (2:8). **Read Colossians on its own terms first, and only then alongside Ephesians.** `[I]` |
 | **Presupposes** | (1) A gospel already received through Epaphras (1:5–7; 2:6–7) `[T]`. (2) Psalm 110:1, the enthroned Lord at God's right hand (3:1) `[T]`/`[I]` — see the Intertextual Map. (3) Genesis 1:26–27, humanity made κατ᾽ εἰκόνα ("according to the image"), replanted at 3:10 `[T]`. (4) Circumcision as the covenant sign of Genesis 17 (2:11, 13) `[I]`. (5) The Torah's and the Prophets' calendar of "festival, new moon, Sabbath" (2:16) `[T]`. (6) Earlier instructions about Mark, "Barnabas's cousin" (4:10) `[T]`. (7) A letter "from Laodicea" which the church is to read (4:16) `[T]` — not identifiable from the text. Four identifications are held: a lost letter (Hiebert; Heiser), Ephesians as a circular, Philemon (John Knox's proposal, as recalled), and the later Latin *Epistle to the Laodiceans*, which is a separate, apocryphal work `[S: Logos 3]`. Each reference checked against the NA28. |
-| **Handoff** | Thematic, not lexical. The letter hands on (a) the "Christ is all, and in all" confession (3:11) and (b) a household in which a runaway's master and a fellow-worker named Archippus will reappear in Philemon. Eight names are shared with Philemon — Timothy, Epaphras, Aristarchus, Mark, Luke, Demas, Archippus, Onesimus — verified against the SBLGNT `[T]`. Of the six greeters of 4:10–14, five recur at Phlm 23–24 (all but Jesus Justus), and Aristarchus (Col 4:10) and Epaphras (Phlm 23) exchange the title "fellow prisoner" between the letters `[T]` (4:7–18 dig `[S: dig]`, reproduced). Three lexical links strengthen it: ἀνήκω ("be fitting", Col 3:18; Phlm 8), ἀδικέω ("do wrong", Col 3:25; Phlm 18), and slave + flesh + Lord in one verse only at Eph 6:5, Col 3:22 and Phlm 16 (SBLGNT) `[T]` (3:18–4:1 dig `[S: dig]`). That the two letters went to the same town is `[I]` (Onesimus is "one of you", 4:9). |
+| **Handoff** | Thematic, not lexical. The letter hands on (a) the "Christ is all, and in all" confession (3:11) and (b) a household in which Onesimus, there "no longer as a slave" (Phlm 16), and a fellow-worker named Archippus will reappear in Philemon. That Onesimus was a slave is Philemon's information, not Colossians' `[S: audit 5]`; "runaway" is a reconstruction `[S]`. Eight names are shared with Philemon — Timothy, Epaphras, Aristarchus, Mark, Luke, Demas, Archippus, Onesimus — verified against the SBLGNT `[T]`. Of the six greeters of 4:10–14, five recur at Phlm 23–24 (all but Jesus Justus), and Aristarchus (Col 4:10) and Epaphras (Phlm 23) exchange the title "fellow prisoner" between the letters `[T]` (4:7–18 dig `[S: dig]`, reproduced). Three lexical links strengthen it: ἀνήκω ("be fitting", Col 3:18; Phlm 8), ἀδικέω ("do wrong", Col 3:25; Phlm 18), and slave + flesh + Lord in one verse only at Eph 6:5, Col 3:22 and Phlm 16 (SBLGNT) `[T]` (3:18–4:1 dig `[S: dig]`). That the two letters went to the same town is `[I]` (Onesimus is "one of you", 4:9). |
 | **Neighbours** | Philippians before and 1 Thessalonians after: Timothy is co-sender in all three (Phil 1:1; Col 1:1; 1 Thess 1:1) `[T]`, but the adjacency does no interpretive work. **The real neighbour is Ephesians**, two letters back, and the digs have made the parallel letter-wide (see below). |
 
 **The Ephesians parallel, measured.** The two letters share a near-verbatim paragraph: Col 4:8 = Eph 6:22, seventeen words in the same order (SBLGNT; NA28 agrees) `[T]`. They also share three words found nowhere else in the New Testament:
+
 - ἀποκαταλλάσσω ("to reconcile", Eph 2:16; Col 1:20, 22);
 - ὀφθαλμοδουλία ("external service", Eph 6:6; Col 3:22);
 - ἀνθρωπάρεσκος ("men-pleaser", Eph 6:6; Col 3:22) `[T]`.
 
 The digs found close clusters in every movement:
+
 - Eph 1:4; 2:12–16 at 1:21–23;
 - Eph 3:1–19 at 1:24–2:5 — 24 shared content words against 9–18 for eleven other Pauline passages of the same length; claim audit 1 rates it *high* `[S: audit 1]`;
 - Eph 1:20–2:6 at 2:6–15 (*moderate–high*) `[S: audit 1]`;
@@ -52,7 +56,8 @@ The digs found close clusters in every movement:
 Several Colossian variants are scribal harmonisations *to* Ephesians: 1:14; 3:21; 4:3 (Textual section).
 
 **Which letter used which remains an open question.** No finding in this overview depends on it. The literature is divided `[S: Logos 1]`:
-- Ephesians depends on Colossians (Lincoln; Witherington);
+
+- Ephesians depends on Colossians (Lincoln; Witherington; and, from an owned commentary, Dunn: "written using Colossians as a kind of template (so most)", with Mitton and against Coutts `[S: Logos 5]`);
 - the evidence is insufficient for dependence (Arnold, counting verbatim runs; Best);
 - the older view, one author writing twice (as Furnish reports it).
 
@@ -60,22 +65,36 @@ Several Colossian variants are scribal harmonisations *to* Ephesians: 1:14; 3:21
 
 ## Presenting Situation
 
-**Author:** Paul names himself three times (1:1; 1:23; 4:18), with Timothy as co-sender (1:1) `[T]`. The closing greeting is "in my own hand" (4:18), the same clause as 1 Cor 16:21 and 2 Thess 3:17 (SBLGNT) `[T]`, which implies a scribe wrote the rest `[I]`. Whether Paul wrote the letter, or a later disciple in his name, is disputed in modern scholarship `[S]`. Positions recorded:
+**Author:** Paul names himself three times (1:1; 1:23; 4:18), with Timothy as co-sender (1:1) `[T]`. The closing greeting is "in my own hand" (4:18), the same clause as 1 Cor 16:21 and 2 Thess 3:17 (SBLGNT) `[T]`, which implies a scribe wrote the rest `[I]`. Whether Paul wrote the letter, or a later disciple in his name, is disputed in modern scholarship `[S]`. **v1.2 — Patrick's own commentators.** What each *adopts*, from the pasted conclusions `[S: Logos 5]`:
+
+| Commentator | Author | Place | Date |
+|--------|-----------|--------|-----|
+| Wright (TNTC) | Paul | Ephesus | early 50s |
+| Pao (ZECNT) | Paul, "the best hypothesis" | Rome | AD 60–62, with Philemon |
+| Osborne | Paul | Rome, "definitely the most likely" | AD 60–62 |
+| Witherington | Paul's voice; Timothy probably the secretary; the style chosen for the Lycus valley | not discussed | not given |
+| Bird (NCCS) | Paul, "written in association with others … especially Timothy" | Ephesus, "marginally less problematic" — stated for Philemon; that Colossians goes with it is `[I]` | c. 55–57 — stated for Philemon |
+| Dunn (NIGTC) | Probably composed by Timothy as Paul's secretary, "with a fair degree of license", with Paul adding 4:18. If Paul approved it, it is "'Pauline' in the full sense of the word" | "inclined toward" Rome (his p. 40 not yet seen) | about the same time as Philemon |
+
+**On authorship they divide only on how much of the composition is Paul's own**, and all six put the letter in Paul's lifetime. **On place they split, between Rome and Ephesus, and the date follows the place.** Dunn's n. 47 names the post-Pauline side as the majority (Lohse, Gnilka, Pokorný, Wolter and others), so these six are not a sample of the field.
+
+Other positions recorded, from introductions and not from the owned commentaries:
+
 - **Pauline, written from Rome:** a "slight majority" of those holding Pauline authorship (deSilva; Bartel; Gurtner);
 - **Pauline, from Ephesus:** Comfort, and the Marcionite prologue;
 - **Pauline, from Caesarea:** reported by deSilva;
-- **Deutero-Pauline:** MacDonald — at the end of Paul's life or soon after, possibly Timothy;
-- **Dunn:** Timothy writing during Paul's lifetime, with his approval `[S: Logos 2]`.
+- **Deutero-Pauline:** MacDonald — at the end of Paul's life or soon after, possibly Timothy.
 
-The first four come through introductions and are *not from the owned commentaries* `[S: Logos 3]`. The letter's own claim is plain, and it is the canonical reader's starting point `[T]`.
+These four are `[S: Logos 3]`. The letter's own claim is plain, and it is the canonical reader's starting point `[T]`.
 
-**Circumstance of the writer:** a prisoner — "for which I have also been imprisoned" (δέδεμαι, "I have been bound", 4:3), "my fellow prisoner" (4:10), "remember my imprisonment" (δεσμῶν, "chains", 4:18) `[T]`. The place (Rome, Ephesus or Caesarea) is not stated `[S]`.
+**Circumstance of the writer:** a prisoner — "for which I have also been imprisoned" (δέδεμαι, "I have been bound", 4:3), "my fellow prisoner" (4:10), "remember my imprisonment" (δεσμῶν, "chains", 4:18) `[T]`. The place is not stated `[T]`; the owned commentators hold Rome or Ephesus (above), and Caesarea is reported `[S]`. Whether "fellow prisoner" (4:10) is literal is open: Dunn and Wright lean literal, Pao figurative, and none uses the title to fix the place `[S: Logos 5]`.
 
 **Audience:** "the saints and faithful brethren in Christ who are at Colossae" (1:2) `[T]`, a church in a town near Laodicea and Hierapolis (2:1; 4:13, 15–16) `[T]`. Paul has not visited them: he labours for those "who have not personally seen my face" (2:1), which most naturally includes the Colossians `[I]`. They learned the gospel from Epaphras, "one of your number" (1:7; 4:12) `[T]`. They are largely Gentile `[I]`: they were once "alienated" (1:21), the mystery is revealed "among the Gentiles … Christ in you" (1:27), and they were "dead in … the uncircumcision of your flesh" (2:13) `[T]`. Israel's titles are given to them: "the saints" — every plural ἅγιοι in the letter means believers (1:2, 4, 12, 22, 26; 3:12), so 1:12's "lot of the holy ones" is theirs (*moderate–high* `[S: audit 4]`) — and "the chosen of God, holy and beloved" (3:12) `[T]`.
 
 **Occasion:** Epaphras has reported their faith and love (1:4, 8) `[T]`, and Paul sends Tychicus and Onesimus with news and encouragement (4:7–9) `[T]`. Paul's fuller report is *good*: "rejoicing to see your good discipline and the stability of your faith" (2:5) `[T]` — χαίρω ("rejoice") brackets 1:24–2:5, its only two uses in the letter (1:24; 2:5) `[T]`. **The letter does not describe a church already captured.** It warns: "so that no one will delude you" (2:4), "see to it that no one takes you captive" (2:8), "let no one act as your judge" (2:16), "let no one keep defrauding you" (2:18) `[T]`. Whether the threat is a present faction or a danger in the air is not settled by the text: Paul names no opponent, and the warnings use an indefinite singular (τις, "anyone", 2:8, 16; μηδείς, "no one", 2:4, 18) `[T]`/`[I]`.
 
 **The rival teaching, as the text describes it (2:8–23)** `[T]`:
+
 - a φιλοσοφία ("philosophy", 2:8; the only use in the NT, SBLGNT) "according to the tradition of men" and "the στοιχεῖα (“elementary principles”) of the world" (2:8, 20);
 - rulings on food and drink and on "a festival or a new moon or a Sabbath day" (2:16);
 - ταπεινοφροσύνη ("self-abasement") and "the worship of the angels" (2:18);
@@ -101,6 +120,7 @@ The circumcision paragraph (2:11–13) suggests that circumcision was also in vi
 All from `[S: Logos 3]`.
 
 Two text-based notes bear on the choice without settling it:
+
 - **A Jewish component is supported, without deciding the reconstruction.** In the Greek Old Testament, 4 Maccabees calls Jewish food observance, approvingly, "our philosophy" and "religion" (θρησκεία) (4 Macc 5:6, 22–26, Swete) — the two words Colossians uses pejoratively. *Moderate* `[S: audit 2]` `[S: audit 3]`. The wider "Maccabean field" is the default field of almost any New Testament food passage, so it is *low–moderate* and not part of the situation `[S: audit 2]`. Wisdom 14 and Isaiah 1 are *not* "the polemical partners" of 2:16–23 `[S: audit 3]`.
 - **ταπεινοφροσύνη as "fasting" at 2:18, 23 is *moderate*.** The verbal idiom "humble the soul" for fasting stands at Lev 16:29, 31; 23:27–32; Ps 34:13 LXX; Isa 58:3, 5 (Swete) `[S: Logos 3]`.
 
@@ -108,12 +128,16 @@ Two text-based notes bear on the choice without settling it:
 
 **Purpose:** to keep a young Gentile church walking "in Him" as they began (2:6), by setting before them the Christ in whom creation, reconciliation and the fullness of God are found — so that no rival "philosophy" can persuade them they lack anything — and to show what that sufficiency looks like in speech, household and work `[I]`.
 
-**The letter's idiom, as the audits found it.** Of the external links proposed across four audits, what survives is mostly Paul's own vocabulary, or idiom he shares with the early church. That includes, notably, conversion and mission idiom he shares with **Luke**:
-- Acts 26:18 at 1:12–14 — six of the rarer lemmas in one verse, against three for any other NT verse;
-- Luke 1:68–79 at 1:13–14;
-- Luke 8:15 at 1:6–11 (SBLGNT) `[S: audit 4]`.
+**The letter's idiom, as the audits found it.** Of the external links proposed across five audits, what survives is mostly Paul's own vocabulary, or idiom he shares with the early church. The sharpest case is **the Lukan conversion idiom of 1:12–14**, *moderate–high* `[S: audit 5]`:
 
-Luke is with Paul at the close (4:14) `[T]`. This bears on the letter's setting and proves nothing about authorship `[I]`, *moderate*.
+- Acts 26:18 — six of the rarer lemmas of 1:12–14 in one verse, against three for any other NT verse. Of all Pauline three-verse passages, only one other matches a single verse of Luke–Acts so closely: 1 Cor 11:22–25 with Luke 22:19–20, the Last Supper words;
+- Luke 22:53 — ἡ ἐξουσία τοῦ σκότους ("the authority of darkness"), elsewhere in the NT only at Col 1:13;
+- Acts 8:21 — μερίς ("portion") with κλῆρος ("lot"), elsewhere in the NT only at Col 1:12;
+- Luke 1:68–79 at 1:13–14 — *moderate*, as idiom. ῥύομαι ("rescue") with a λυτρ- word ("redeem") is within chance on its own; the cluster is rare only with forgiveness and darkness (all SBLGNT).
+
+**Across the letter as a whole, Colossians is the least Lukan of the thirteen Pauline letters** `[S: audit 5]`. So "the Lukan affinities of Colossians" is *low*, and Luke 8:15 moves to the shared sower tradition (row 15).
+
+Luke is with Paul at the close (4:14) `[T]`. Dunn reports Aletti, who "wonders whether it points to Lukan authorship", and Pao reads Acts 26:18 as confessional wording `[S: Logos 5]`. Acts 26:18 stands on Christ's lips as Paul's commission, so the contact may be Luke reporting Paul's own conversion vocabulary. Any inference about authorship stays `[I]`.
 
 ---
 
@@ -135,12 +159,14 @@ Luke is with Paul at the close (4:14) `[T]`. This bears on the letter's setting 
 **"In Him".** The phrase ἐν αὐτῷ ("in Him") gathers the first half. **All eight occurrences stand within 1:16–2:15** (1:16, 17, 19; 2:6, 7, 9, 10, 15 — SBLGNT), five of them in 2:6–15. ἐν ᾧ ("in whom") adds 1:14, 2:3 and 2:11; 2:12 may mean "in which", of baptism.
 
 **The two conditionals.** Two matching conditionals turn the warning into the new life:
+
 - Εἰ ἀπεθάνετε σὺν Χριστῷ ("if you have died with Christ", 2:20);
 - Εἰ οὖν συνηγέρθητε τῷ Χριστῷ ("therefore if you have been raised up with Christ", 3:1).
 
 The verb συνεγείρω ("to raise up with") appears only at 2:12 and 3:1 in the letter, and ἀποθνῄσκω ("to die") only at 2:20 and 3:3 (SBLGNT).
 
 **The confession of 1:15–20 is the letter's arsenal.** Its vocabulary is redeployed in the polemic of chapter 2. Each pairing below has been checked by lemma against the SBLGNT:
+
 - πλήρωμα ("fullness") with κατοικέω ("to dwell") — 1:19 → 2:9, the only two occurrences of each word in the letter;
 - κεφαλή ("head") — 1:18 → 2:10, 2:19;
 - ἀρχαί ("rulers") and ἐξουσίαι ("authorities") — created in 1:16, subjected in 2:10, disarmed in 2:15;
@@ -150,15 +176,29 @@ The ground-clause ὅτι ἐν αὐτῷ ("for in Him") stands at 1:16, 1:19 a
 
 **v1.0 — baselined.** σῶμα ("body") is dropped from the list, because it occurs in eight verses of the letter and is too common to carry the argument. Of the confession's 23 rarer content words, the stretch 2:8–14 shares the most. Across the letter's ninety six-verse passages, seven have some partner stretch that matches the concentration. The claim is therefore *high on the specific links* and *moderate–high as a design*. Eph 1:21–23 shows a similar cluster `[S: audit 1]`.
 
-**The personal frame (proposal).** 1:24–2:5 and 4:2–18 frame the letter's personal material: Paul's labour for the readers, then his colleagues'. 4:2–18 shares more of 1:24–2:5's rarer vocabulary than any other seventeen-verse stretch, and 4:12 gathers all four of Paul's labour-words — ἀγωνίζομαι ("strive"), τέλειος ("complete"), πληροφορέω ("fully assure") and θέλημα ("will") — into Epaphras's prayer (1:28–2:2; 1:9) `[T]` (verified by lemma). *Moderate; synthetic* `[S: audit 1]`.
+**The personal frame (proposal) — v1.2, restated.** 4:2–13 picks up the vocabulary of Paul's labour in 1:25–2:7 `[T]` (verified by lemma):
 
-**3:12–17 as the summary of church life (proposal).** In the 3:12–17 dig, Move 4 draws on more of the letter than in any other passage: the opening prayer, the confession, Paul's ministry, the polemic and the putting-off. It is the last word to the whole church before the household `[S: dig]`. *Moderate; synthetic.*
+- μυστήριον ("mystery") with φανερόω ("make manifest") within two verses, at 1:26–27 and 4:3–4, and elsewhere in the NT only at 1 Tim 3:16 — the frame's sharpest strand;
+- ἀγωνίζομαι ("strive") and τέλειος ("mature"), each only in 1:28–29 and 4:12 in the letter;
+- πληροφορέω ("fully assure", 4:12) as the cognate of πληροφορία ("full assurance", 2:2).
+
+Epaphras's prayer also echoes the opening prayer: θέλημα ("will") comes from 1:9, not from this unit. The greetings of 4:14–18 add nothing.
+
+Of twelve Pauline letter-closings, this is the strongest link to an earlier stretch. Within the letter, 1.7 % of window pairs share as many rarer lemmas (at most 50 NT verses), 5.5 % at 100 and 22.8 % at 20, so it does not hold at the strictest threshold. The place-name Laodicea helps: 5.1 % without it at the 50-verse threshold. The comparison with Romans is thematic only. Pao names the links (pp. 315–16) `[S: Logos 5]`. *Moderate* `[S: audit 5]`.
+
+**3:12–17 — v1.2, restated.** The earlier claim, that this unit draws on more of the letter than any other, fails: it is never first on any measure, and 1:24–2:5 and 2:6–15 reach further (*low*) `[S: audit 5]`. Reframed, at *moderate*: 3:12–17 gathers words from the opening prayer, Paul's ministry, the forgiveness of 2:13, the polemic and the putting-off, and turns the polemic's ταπεινοφροσύνη ("humility") to good. It does **not** reach the confession of 1:15–20. It is the last lexically integrated unit before the household code, which shares no rarer lemma with any other unit `[S: audit 5]`.
+
+Audit 5 lists σύνδεσμος ("bond", 2:19 → 3:14) as re-valued too. This overview does not follow it there: the word is not pejorative at 2:19, and audit 2 calls the link a continuation, not a reversal (Echo 44). The point stays open under C78.
+
+**The joints between the units — v1.2.** The twelve units' joints carry *less* rare vocabulary than an average cut point, as one would expect where paragraphs break. The letter's strong verbal links run at a distance (Cross-Pericope Macro-Arguments, 5) `[S: audit 5]`.
 
 **The "hymn".** NA28 sets 1:15–20 as indented poetry, as it prints it `[T]`. The paired openings show two parallel strophes, creation and new creation `[T]`:
+
 - ὅς ἐστιν … πρωτότοκος ("He is … firstborn", 1:15 and 1:18b);
 - ὅτι ἐν αὐτῷ ("for in Him", 1:16 and 1:19).
 
 Calling it a pre-Pauline **hymn** that Paul quotes and edits is a form-critical reconstruction `[S]`. The owned commentators divide `[S: Logos 4]`:
+
 - **Paul's own composition:** Wright, with a four-member frame — ὅς ἐστιν · καὶ αὐτός ἐστιν · καὶ αὐτός ἐστιν · ὅς ἐστιν (1:15, 17, 18a, 18b), which reproduces (SBLGNT) `[T]`; Pao, in effect;
 - **open:** Witherington;
 - **preformed material possible but unprovable:** Dunn.
@@ -172,6 +212,7 @@ The "additions" ("the church", 1:18; "through the blood of his cross", 1:20) are
 *All the fullness of God dwells in Christ — creator, head and reconciler of all things — and you have been filled in Him; so walk in Him as you began: let no one take you captive with something "more", but, having died and been raised with Christ, seek the things above and put on the new humanity in every word, relationship and task, with thanksgiving.*
 
 The keynote is **fullness**. The πληρ- family runs through every movement, **nine occurrences in nine verses** (SBLGNT, verified by lemma) `[T]`:
+
 - πληρόω ("to fill") at 1:9; 1:25; 2:10; 4:17;
 - πλήρωμα ("fullness") at 1:19; 2:9;
 - ἀνταναπληρόω ("to fill up") at 1:24;
@@ -181,6 +222,7 @@ The keynote is **fullness**. The πληρ- family runs through every movement, *
 The family's spread across the letter, from the opening prayer (1:9) to the closing word to Archippus (4:17), is what makes it the spine rather than a stylistic tic. The keynote phrase is ἐν αὐτῷ ("in Him"). The closing confession is that Christ is τὰ πάντα ("all", 3:11), the phrase the confession used for "all things" created and reconciled (1:16, 17, 20); NA28 brackets the article at 3:11 `[T]`.
 
 **Test against the movements.**
+
 - **1:3–23:** the prayer that they be "filled" (1:9) and the confession of the fullness (1:19).
 - **1:24–2:5:** Paul "fills up" afflictions and "fully carries out" the word (1:24–25), so that they reach "full assurance" (2:2).
 - **2:6–23:** "in Him the fullness … in Him you have been filled" (2:9–10).
@@ -193,12 +235,12 @@ Every movement serves the microscript `[I]`. **v1.0:** confirmed by the sweep. T
 
 ## Intertextual Map
 
-| # | Source | Colossians | Live? | Confidence (v1.0) |
+| # | Source | Colossians | Live? | Confidence (v1.2) |
 |---|---|---|---|---|
 | 1 | Psalm 110:1 | 3:1 | — | high (through the NT formula) |
 | 2 | Genesis 1:26–27 (with 5:1) | 3:10; 1:15 | — | high (3:10, audited); moderate (1:15, new grounds) |
 | 3 | Isaiah 29:13 | 2:22 | — | high |
-| 4 | Psalm 68:16 (LXX 67:17), with the Zion-dwelling tradition | 1:19; 2:9 | — | moderate–high (wording); moderate (function) |
+| 4 | Psalm 68:16 (LXX 67:17), with the Zion-dwelling tradition | 1:19; 2:9 | — | moderate–high (1:19, as an echo of Zion as God's chosen dwelling); moderate (temple overtone) |
 | 5 | The treasury-of-wisdom idiom: Prov 2:1–6 · Isa 45:3 · Sir 1:25 · Isa 33:6 | 2:3 | — | moderate (idiom); low–moderate (Isa 45:3 as source) |
 | 5a | **New:** Proverbs 2:1–6, with Theodotion's Daniel 2 and Wisdom 7, as the field of 2:2–3 | 2:2–3 (with 1:28) | — | moderate |
 | 6 | The wisdom field: Sir 24; 1:4 (with Prov 8:22) | 1:15–18 | — | moderate (field); Prov 8 low by measurement |
@@ -208,10 +250,10 @@ Every movement serves the microscript `[I]`. **v1.0:** confirmed by the sweep. T
 | 10 | Deut 10:16; Jer 4:4 (with Deut 30:6; Lev 26:41; Ezek 44:7, 9) | 2:11 | — | uncertain |
 | 11 | The cultic calendar (Hos 2:11; Ezek 45:17; the triad in eight verses) | 2:16 | — | moderate (idiom) |
 | 12 | Daniel 2 (Theodotion 2:28–30; the Old Greek too) | 1:26–28; 2:2–3; (4:5) | — | moderate (shape); low–moderate (wording); 4:5 verb low–moderate |
-| 13 | Inheritance language (Deut 10:9; Wis 5:5; Ps 15 LXX:3–5) | 1:12 | — | moderate (idiom) |
+| 13 | Inheritance language: the "portion and lot" formula (Deut 10:9; 12:12; 18:1; Acts 8:21), with Wis 5:5 and Ps 15 LXX:3–5 | 1:12 | — | moderate (idiom) |
 | 14 | Isa 43:25; Ps 51:9 | 2:14 | — | uncertain |
 | 15 | Gen 1:22, 28 (proposed); the sower tradition | 1:6, 10 | — | Genesis uncertain; sower moderate (idiom), low–moderate (allusion) |
-| 16 | **New:** the exodus redemption (Exod 6:6–8; 14:30; Deut 9:26–29; Ps 106 LXX) | 1:12–14 | — | moderate (pattern; no single source) |
+| 16 | The exodus redemption, anchored in Exod 6:6–8 (Deut 9:26–29 and Esther's Addition C for the portion; Exod 14:30 supporting) | 1:12–14 | — | moderate (pattern, anchored in Exod 6:6–8) |
 
 Swete's LXX (including the books outside the Hebrew canon) unless stated. The notes give, for each row, what the use does, the rarity count and the closest rival. **Every row's rating after v0.1.1 comes from a claim audit or a dig**, tagged where it lands.
 
@@ -236,6 +278,7 @@ Swete's LXX (including the books outside the Hebrew canon) unless stated. The no
 *Rarity and rival.* ἔνταλμα ("commandment") with διδασκαλία ("teaching") stands in **one verse in the LXX — Isa 29:13**. ἔνταλμα occurs in only three NT verses: Matt 15:9; Mark 7:7; Col 2:22 (SBLGNT).
 
 **v1.0 — the wording corrected.**
+
 - Colossians keeps the LXX order of the two nouns (ἐντάλματα … καὶ διδασκαλίας); it moves "of men" to the end, to govern both (τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων) `[T]` `[S: audit 1]`.
 - **Triage, category 3 (the NT's own text):** "teachings" exists only in the Greek. The Hebrew has "a commandment of men learned by rote" `[S: dig]` (2:16–23 dig).
 - Paul uses Isaiah 29 elsewhere: Rom 9:20 (29:16); Rom 11:8 (29:10); 1 Cor 1:19, which quotes 29:14 but writes ἀθετήσω ("I will set aside") for the LXX's κρύψω ("I will hide") `[S: audit 2]`.
@@ -250,6 +293,7 @@ Swete's LXX (including the books outside the Hebrew canon) unless stated. The no
 *Rarity and rival.* εὐδοκέω ("to be pleased") with κατοικέω ("to dwell") occurs in **one verse in the whole of Swete's LXX — Ps 67:17**, which also has ἐν αὐτῷ ("in it").
 
 **v1.0.**
+
 - **The construction, not the pair, is unique.** The frequencies of the two words predict about 1.6 co-occurrences, so the pair alone is at chance; what is unique is εὐδόκησεν governing an infinitive of κατοικέω with an ἐν αὐτῷ phrase `[S: audit 1]`.
 - **The Zion-dwelling companions** `[S: audit 2]`:
   - 2 Macc 14:35 is the nearest construction after Ps 67:17;
@@ -257,14 +301,23 @@ Swete's LXX (including the books outside the Hebrew canon) unless stated. The no
   - Ps 131:13–14 and Hag 1:8 are thematic;
   - Eph 4:8–10 shows recurrence: Ephesians quotes Ps 67:19 `[T]`.
 - 2:9 adds no evidence of its own: it repeats 1:19's verb and subject `[S: dig]`.
-- The dwelling chain runs on to 3:16, ἐνοικείτω ("let it dwell in") `[S: audit 1]`.
+- 2:9 and 3:16: see **v1.2** below.
 - History of interpretation: widely noted — Beale lists eight holders, and none rejects it `[S: Logos 3]`.
 
-*Confidence:* moderate–high on wording; moderate on function. A sermon may use the temple theme, framed as "the nearest wording within a wider tradition" `[S: audit 1]`.
+**v1.2** `[S: audit 5]`:
+
+- **1:19.** Ps 67:17 LXX is the only verse in Swete where εὐδοκέω ("be pleased") and κατοικέω ("dwell") have God as subject together (reproduced in this pass). *Moderate–high*, as an echo of Zion as God's chosen dwelling.
+- **1:19 and 2:9** are one formula: ἐν αὐτῷ … πᾶν τὸ πλήρωμα … κατοικ- ("in him … all the fullness … dwell"). *High* as repetition.
+- **The temple overtone is *moderate*.** κατοικέω has God as subject in about 16 of its 569 Swete verses, and κατοικητήριον ("dwelling-place") is God's in 11 of 19, most of them heaven (1 Kgs 8; 2 Chr 6).
+- **3:16 is indwelling, not temple (*low* as temple).** ἐνοικέω ("dwell in") never has God as subject in Swete (33 verses), and 3:16 has no temple vocabulary. At 2 Cor 6:16 the verb is Paul's own choice (Lev 26:11–12 has ἐμπεριπατήσω, "walk among"; Ezek 37:27 has κατασκήνωσις, "dwelling"), which supports indwelling more than temple. The nearest parallel to 3:16 is Eph 3:17, "that Christ may dwell (κατοικῆσαι) in your hearts". This corrects the inference made in Logos round 5 §14.5.
+- **History.** Pao at 1:19: "Christ fulfills the role of the temple", with Ps 68 as a transfer of God's presence from Sinai to Zion, "now from Zion to Christ himself". He does not join 3:16 to 1:19, and Beale's *Temple* is silent on 3:16 `[S: Logos 5]`.
+
+*Confidence:* moderate–high at 1:19; moderate on the temple overtone. A sermon may use the temple theme at 1:19 and 2:9, framed as "the nearest wording within a wider tradition" `[S: audit 1]`, and should not extend it to 3:16.
 
 **5. The treasury-of-wisdom idiom → 2:3 "in whom are hidden all the treasures of wisdom and knowledge".** Locates in Christ the hidden treasures that a rival "wisdom" (2:23) claims to offer.
 
 **v1.0 — the row restated, in order:**
+
 - **Prov 2:1–6**, the idiom's centre (row 5a);
 - **Isa 45:3**, the only LXX verse joining θησαυρός ("treasure") with ἀπόκρυφος ("hidden"), apart from 1 Macc 1:23 (the temple treasury plundered);
 - **Sir 1:25** ἐν θησαυροῖς σοφίας ("in the treasures of wisdom"), the exact noun pair, *low–moderate* (idiom);
@@ -303,6 +356,7 @@ The sequence argument — treasure-wisdom, then deliverance from the deceiving s
 *Rarity and rival.* πρωτότοκος occurs in five verses of the Psalms in Swete. Four concern Egypt's firstborn, and Ps 88:28 alone is royal; the Psalms of Solomon add two more (13:8; 18:4), of Israel as God's firstborn son.
 
 **v1.0 — raised.**
+
 - Ps 88 LXX is the **first of 1,259 Swete chapters** against 1:15–20 in all six runs of the scan, sharing six rarer words. These include the only LXX verse joining πλήρωμα ("fullness") with founding or creating (88:12–13) `[S: dig]`. Rev 1:5 corroborates it.
 - Claim audit 1 raises the **88:28 contact to *moderate–high***, and rates the psalm as a field partner *moderate* `[S: audit 1]`.
 - Given the general null (*The Instrument*, Colophon), the rank alone would prove little; the row rests on the royal πρωτότοκος and the πλήρωμα verse.
@@ -332,6 +386,7 @@ The sequence argument — treasure-wisdom, then deliverance from the deceiving s
 Isa 1:13–14 has all three across two verses, with πλησμονή ("surfeit", the rare word of 2:23). It is *low–moderate*, because the πλησμονή contact fails on sense `[S: audit 3]`. Isa 66:23 also belongs in the note. NA28 reads νεομηνίας; the SBLGNT has νουμηνίας.
 
 **The owned commentators** `[S: Logos 4]`:
+
 - Wright: "in descending order … the weekly Sabbaths";
 - Witherington and Dunn cite the triad texts;
 - Pao takes the practices, not the days, as the target — a view that rests on an Adventist article (Cole, *AUSS*).
@@ -343,6 +398,7 @@ Isa 1:13–14 has all three across two verses, with πλησμονή ("surfeit",
 *Rarity and rival.* μυστήριον ("mystery") with γνωρίζω ("to make known") stands in **three verses in Swete — Theodotion's Daniel 2:28, 29, 30**; 2:30 also has σοφία ("wisdom").
 
 **v1.0 — corrected.**
+
 - **The Old Greek shares the field.** It has ἐξεφάνθη ("was made manifest", 2:19, 30) and ὁ ἐκφαίνων μυστήρια κρυπτά ("who brings hidden mysteries to light", 2:47) — the φαίνω family, with "hidden". So "Colossians uses φανερόω, not Daniel's ἀποκαλύπτω" is true of Theodotion only, and the two Greek texts split Colossians' vocabulary between them `[S: audit 1]`.
 - **Rivals and context.** Wis 6:22 is an equal rival in a wisdom setting. Eph 3:9 and 1 Cor 2:7 show that 1:26 is Paul's own revelation formula `[S: audit 1]`.
 - **Theodotion's date** — a proto-Theodotionic Daniel in the first century — is possible but not secure `[S]`.
@@ -355,12 +411,17 @@ Isa 1:13–14 has all three across two verses, with πλησμονή ("surfeit",
 *Rarity and rival (v1.0, corrected).* μερίς ("share") with κλῆρος ("lot") stands in **eleven Swete verses** (29 if κληρονομία, "inheritance", is counted), chiefly the Levitical "no portion or lot" formula (Deut 10:9; 14:27–29; 18:1). That makes it idiom. The overview's earlier "35" mixed the cognates in `[S: audit 4]` `[S: dig]`. The exact phrase "the share of the lot" does not occur.
 
 Two Old Testament texts stand beside it, each *low–moderate* `[S: audit 4]`:
+
 - **Wis 5:5** ἐν ἁγίοις ὁ κλῆρος αὐτοῦ ("his lot is among the holy ones") is the only Swete verse placing a lot among the holy ones; there they are probably angels.
 - **Ps 15 LXX:3–5** — "the holy ones in his land" (15:3) and "the Lord is the portion of my inheritance" (ἡ μερὶς τῆς κληρονομίας μου, 15:5) — has Swete's only μερίς governing a genitive κληρ- noun, the construction of 1:12. Its holy ones are human.
 
 **The nearest parallel is in the New Testament:** Acts 26:18, "an inheritance (κλῆρον) among those who have been sanctified", with darkness and light, the authority of Satan, and forgiveness of sins — six of the rarer lemmas of 1:12–14 in one verse, against three for any other NT verse. *Moderate–high*, as conversion idiom Paul shares with Luke `[S: audit 4]`. **The holy ones are believers**, on the letter's own usage (*moderate–high*). OG Dan 7 belongs to 1:13's "kingdom" and "authority" rather than to the lot (*uncertain*) `[S: audit 4]`.
 
 *Confidence:* moderate (idiom).
+
+**v1.2 — the formula, and the direction.** In Deut 9:26–29 and 32:9 Israel *is* God's portion; at Col 1:12 believers *receive* one. So the nearer wording is the receiving formula μερὶς καὶ κλῆρος ("portion and lot": Deut 10:9; 12:12; 18:1), and **Acts 8:21 and Col 1:12 are the only NT verses with both words** (SBLGNT, reproduced) `[S: audit 5]`. Queued as C74. History: the holy ones as believers, Wright, Pao, Dunn and Osborne; open to angels, Bird; Wis 5:5, Dunn and Witherington; Deut 32:9, Pao, Osborne and Brown; Ps 15:5 LXX, none `[S: Logos 5]`.
+
+*Confidence, unchanged:* moderate (idiom).
 
 **14. Isaiah 43:25; Psalm 51:9 (LXX 50:11, "blot out my iniquities") → 2:14 ἐξαλείψας ("having cancelled") the certificate of debt.** Forgiveness pictured as an erased record.
 
@@ -376,18 +437,27 @@ Two Old Testament texts stand beside it, each *low–moderate* `[S: audit 4]`:
 
 **v1.0:** the likelier background is **the sower tradition**. Four of the six NT uses of καρποφορέω outside Colossians are in seed parables, and Luke 8:15 is the only NT verse with καρποφορέω and ὑπομονή ("endurance") (SBLGNT). It is *moderate as an early-Christian idiom* of the word bearing fruit and growing, and *low–moderate as an allusion* `[S: audit 4]`. "With joy" (Luke 8:13) describes the rocky-ground hearers, so that contact is on the wrong soil. Acts' "the word of God grew" (Acts 6:7; 12:24; 19:20) is a rival `[S: audit 4]`.
 
+**v1.2.** This is sower tradition, not a Lukan contact: καρποφορέω and ὑπομονή stand in different Colossian verses (1:6, 10; 1:11), and "bear fruit … hear … word" is in all three Synoptics `[S: audit 5]`. Holders: the sower, Dunn (Mark 4:8) and Pao (Luke 8:15, with the Acts rivals); Genesis, Wright, Pao, Bird and Osborne `[S: Logos 5]`. Four holders do not lift Genesis from *uncertain*, which rests on the wording.
+
 *Confidence:* Genesis uncertain; the sower moderate (idiom), low–moderate (allusion).
 
-**16. The exodus redemption — Exod 6:6–8; 14:30; Deut 9:26–29; Ps 106 LXX → 1:12–14 "who rescued us from the domain of darkness and transferred us … in whom we have redemption".** *New row (audit 4).* The vocabulary of 1:12–14 — rescue from a hostile authority, transfer, redemption, an allotted lot — is exodus-shaped. Each of these words occurs once in the letter (1:1–14 dig `[S: dig]`).
+**16. The exodus redemption, anchored in Exod 6:6–8 → 1:12–14 "who rescued us from the domain of darkness and transferred us … in whom we have redemption".** *Row added by audit 4; restated by audit 5.* The vocabulary of 1:12–14 — rescue from a hostile authority, transfer, redemption, an allotted lot — is exodus-shaped. Each of these words occurs once in the letter (1:1–14 dig `[S: dig]`).
 
-*Rarity and rival.* ῥύομαι ("rescue") with λυτρόω ("redeem") stands in one verse in four Swete verses: Exod 6:6; Ps 68:19; Hos 13:14; OG Dan 3:88 (and Swete's Addition C to Esther, printed as one verse at 4:17). Only Exodus 6 adds κλῆρος, at 6:8 `[S: audit 4]`. Three other texts carry the pattern:
-- **Deut 9:26–29** joins μερίς, κλῆρος and λυτρόω within four verses, of the people brought out of Egypt;
-- **Exod 14:30** has the exact aorist ἐρρύσατο ("rescued");
-- **Ps 106 LXX:2–20** has redemption, rescue and "he brought them out of darkness" (106:14) — the rescued are themselves in the dark, as in Col 1:13.
+*Rarity and rival (v1.2)* `[S: audit 5]`. **ῥύομαι ("rescue") is not an exodus marker in itself:** of its 184 Swete verses, 9.2 % stand in an exodus context, against a baseline of 9.7 %. λυτρόω ("redeem") runs at about twice the baseline (19.8 %). Rescue with redeem within twelve verses gives 18 Old Testament clusters, and only 5 are clearly exodus-related. **Adding the allotted lot narrows it to two:**
 
-In the NT, Luke 1:68–79 is, with Col 1:13–14, the only place where ῥύομαι and a λυτρ- word stand within twelve verses (SBLGNT) `[S: audit 4]`. **No single text owns the pattern, and the scan is blind to it** — the ῥύομαι aorists fall outside its stem (*The Instrument*). Wisdom 17–18 (the plague of darkness retold) is **not** part of the row: its rank rested on the Egyptians' thanksgiving and on false friends (*low*) `[S: audit 4]`. Ps 106 LXX, Deut 9:26–29 and Luke 1:68–79 are queued for audit 5 (C61–C63).
+- **Exod 6:6–8**, the one passage with the whole movement in order: ῥύσομαι ὑμᾶς ἐκ τῆς δουλίας ("I will rescue you from the slavery"), λυτρώσομαι ("I will redeem"), then the land given ἐν κλήρῳ ("as a lot"). Exod 6:6 is named at 1:12–14 by Pao and Osborne `[S: Logos 5]`;
+- **Esther's Addition C** (Swete 4:17, bracketed sub-verses [8]–[10]), which reuses Deut 9 in prayer. It has rescue, authority, the portion "redeemed out of Egypt" and the lot, and no darkness or light. It is the densest Greek Old Testament match, *low–moderate* as prayer idiom (queued, C76).
 
-*Confidence:* moderate (pattern); low–moderate (Exod 6 alone).
+Supporting:
+
+- **Deut 9:26–29** joins μερίς ("portion"), κλῆρος ("lot") and λυτρόω within four verses, of the people brought out of Egypt: *low–moderate*, a prayer cluster and not a source. The direction is reversed (row 13);
+- **Exod 14:30** contributes only the aorist ἐρρύσατο ("rescued").
+
+**Ps 106 LXX leaves the row** (*low*). It has no Egypt, Pharaoh or sea, and its ῥύομαι takes "distresses" and "corruptions", not darkness. With Isa 42:7, 16, an equal partner named by Pao, it belongs to a "redeemed from darkness" idiom whose phrases go to Luke rather than Colossians: Luke 1:79 takes up the words of Ps 106:10, with the participle moved. Luke 1:68–79 is *moderate* as shared idiom with Col 1:13–14 (Presenting Situation) `[S: audit 5]`.
+
+**The light is missing from every text above.** The exodus tradition that supplies it is the darkness plague: Exod 10:23, with Wis 18:1–9 ("for your holy ones there was very great light"; the word is ὁσίοις, not Colossians' ἁγίων). Audit 4 rated Wisdom 17–18 *low* as a field, on the scan; audit 5 re-proposes the plague on its wording, as C75, *low–moderate* and unaudited. **The scan is nearly blind to this whole passage** (*What the scan can and cannot show*), so every rating here rests on direct searches.
+
+*Confidence:* moderate, as a pattern anchored in Exod 6:6–8 (raised from low–moderate as a single text, because the triad with κλῆρος is concentrated there) `[S: audit 5]`.
 
 **Recorded fields, not rows** (rated, so that a dig or sermon does not revive them at a higher rating):
 
@@ -398,11 +468,26 @@ In the NT, Luke 1:68–79 is, with Col 1:13–14, the only place where ῥύομ
 | Wis 7:17 (the physical "elements") | 2:8, 20 | low–moderate (lexical background; not a source) | `[S: audit 3]` |
 | The Exod 34:6 formula, via Ps 144 LXX:7–9 and Rom 2:4 | 3:12–13 | low–moderate (field); low (allusion) | `[S: audit 4]` |
 | Deut 7:6–8 with Isa 44:1–2 (Israel's titles) | 3:12 | moderate (idea); low–moderate (Deut 7) | `[S: audit 4]` |
-| The Greek Psalter's titles | 3:16 | moderate (observation); "Psalms only" discarded | `[S: audit 4]` |
+| The Greek Psalter's titles | 3:16 | moderate (observation); "Psalms only" discarded. State the edition: Rahlfs has all three words in the titles of Pss 66 and 75, Swete only in Ps 75 | `[S: audit 4]` `[S: Logos 5]` |
 | The Deuteronomic "fear and serve with all the heart" (Deut 10:12; 1 Rgns 12:24) | 3:22–24 | moderate | `[S: audit 4]` |
 | The fear of the LORD transferred to Christ (3:22) | 3:22 | moderate–high; a shared Pauline move (2 Cor 5:11; Eph 5:21) | `[S: audit 3]` |
 | The impartial-judge topos (2 Chr 19:7; Deut 10:17; Lev 19:15; Sir 32) | 3:25 | low–moderate (topos) | `[S: audit 3]` |
 | 1 Macc 12 (letters between "brothers") | 4:7–18 | genre only | 4:7–18 dig `[S: dig]` |
+| Philo, *Conf.* 146–147; *Agr.* 51 (Colson's Greek) | 1:15, 18 | concept only: πρωτόγονος against Colossians' πρωτότοκος ("firstborn"), and ἀειδής against ἀόρατος ("invisible"); only εἰκών ("image") and ἀρχή ("beginning") are shared | `[S: Logos 5]` |
+| The deportations, with μεθίστημι ("transfer"; Josephus, *Ant.* 9.235) | 1:13 | low–moderate; the verb in Josephus is unverified, since he is not in the corpus | `[S: Logos 5]` |
+
+**History of interpretation for audit 4's claims (Logos round 5).** These fill one row of the Hays criteria, and **none moves a rating** `[S: Logos 5]`. "None" is the result of one search, not proof that nobody has made the link.
+
+| Claim | Holders from the owned library |
+|---|---|
+| Deut 7:6–8 at 3:12 | Dunn, Pao, Brown, Osborne (the strongest history row) |
+| Exod 34:6 at 3:12 | Gurtner, BKBC (Exod 34:6; Ps 144:9 LXX); Osborne (Rom 2:4); Merkle, on Ephesians |
+| Deuteronomic fear at 3:22–24 | Pao; Bird. Ps 18 LXX: Dunn cites 19:11 for ἀνταπόδοσις ("repayment") as a word only |
+| Deut 29:29 at 3:3–4 | Dunn, as a vocabulary parallel |
+| Dan 2:8 at 4:5 | Osborne, Pao, Dunn. LSJ cites the middle with καιρός only from Col 4:5 and Eph 5:16, and the active at Dan 2:8 |
+| Gethsemane at 4:2 | Dunn ("may echo"), Pao. A holder does not revive the discarded cluster |
+| Job 31 at 4:1 | none |
+
 
 **Tested and set aside** — do not revive these without new evidence:
 
@@ -421,10 +506,15 @@ In the NT, Luke 1:68–79 is, with Col 1:13–14, the only place where ῥύομ
 | The Joshua allotment field | 1:12; 2:18 | low | `[S: audit 3]` |
 | Job 31:13–15 (its "one Maker" is Hebrew-only) | 4:1 | low | `[S: audit 4]` |
 | Ps 18:12 | 3:24 | low | `[S: audit 4]` |
-| Wisdom 17–18 | 1:12–13 | low | `[S: audit 4]` |
+| Wisdom 17–18 as a field | 1:12–13 | low; the darkness plague re-proposed on its wording (C75, unaudited) | `[S: audit 4]` `[S: audit 5]` |
 | Deut 29:29 | 3:3–4 | low | `[S: audit 4]` |
 | Daniel 2 as a field | 4:2–5 | low | `[S: audit 4]` |
 | The "Jesus-tradition cluster" | 4:2–6 | discarded | `[S: audit 4]` |
+| Ps 106 LXX as a source | 1:13–14 | low (idiom; Isa 42:7, 16 an equal partner) | `[S: audit 5]` |
+| Deut 9:26–29 as a source | 1:12–14 | low–moderate (a prayer cluster) | `[S: audit 5]` |
+| "The Lukan affinities of Colossians", as a description of the letter | — | low; moderate–high for 1:12–14 only | `[S: audit 5]` |
+| 3:16 in a temple thread | 3:16 | low | `[S: audit 5]` |
+| The welded seams, as a whole-letter design | — | discarded | `[S: audit 5]` |
 
 **New Testament parallels** — the overview maps only OT sources; these are the measured NT partners the digs relied on (SBLGNT):
 
@@ -438,16 +528,18 @@ In the NT, Luke 1:68–79 is, with Col 1:13–14, the only place where ῥύομ
 | Heb 8:5; 10:1 | 2:17 | Shadow of what is to come |
 | Eph 4:15–16 | 2:19 | The body from the head, near-verbatim |
 | 1 Tim 4:3–5, 8 | 2:21–23 | Abstinence from foods |
-| Acts 26:18; Luke 1:68–79 | 1:12–14 | Conversion idiom `[S: audit 4]` |
-| Luke 8:11–15 | 1:6–11 | The sower |
+| Acts 26:18; Luke 22:53; Acts 8:21; Luke 1:68–79 | 1:12–14 | The Lukan conversion idiom, moderate–high (Luke 1:68–79 moderate) `[S: audit 5]` |
+| Mark 4:8, 20; Luke 8:11–15 | 1:6–11 | The sower, a tradition shared by all three Synoptics `[S: audit 5]` |
 | 2 Cor 5:9–11; Gal 4:1–7 | 3:20–25 | The household code's fear, reward and heirs |
 | 1 Thess 4:12; 5:6, 17; Eph 6:18–20; 2 Thess 3:1 | 4:2–6 | Prayer and outsiders; 2 Thess 3:1 has the same construction as Col 4:3 |
+| Eph 4:29–6:20 | 3:8–4:6 | The same speech sequence (Echo 59) `[S: audit 5]` |
+| Eph 3:17; Rom 8:11; 2 Cor 6:16 | 3:16 | Indwelling (row 4) `[S: audit 5]` |
 | 1 Cor 16:21; 2 Thess 3:17 | 4:18 | Paul's own hand |
 | Philemon | 4:7–18 | The shared names |
 
 **Citation-light — the key finding, now confirmed by the sweep.** Colossians has **no formula quotation** of the Old Testament: no "as it is written", no "Scripture says" `[T]`. Its use of the Scriptures is allusive and woven into its own sentences, most densely in the Christ-confession (1:15–20) and the polemic (2:11–23).
 
-**No source is used twice in a way that survives the rival search and the audits**, so there is no live source in the strict sense. Genesis 1 comes nearest (3:10 high; 1:15 moderate). Isaiah 45, the one other candidate, failed (*low–moderate*) `[S: audit 1]`. Across four audits and fifty-eight candidates, every single exclusive *wording* contact held where it was counted correctly, while most field, pattern and design claims needed reframing `[S: audit 1–4]`.
+**No source is used twice in a way that survives the rival search and the audits**, so there is no live source in the strict sense. Genesis 1 comes nearest (3:10 high; 1:15 moderate). Isaiah 45, the one other candidate, failed (*low–moderate*) `[S: audit 1]`. Across five audits (C1–C72), every single exclusive *wording* contact held where it was counted correctly, while most field, pattern and design claims needed reframing `[S: audit 1–5]`.
 
 The argument is carried far more by **internal repetition** — the fullness family, ἐν αὐτῷ ("in Him"), the mystery thread, put off and put on — than by external citation. For any further dig, **Move 4 (internal echo) is where the yield is.** Do not manufacture Old Testament allusions to fill this map; the sparseness is the finding `[T]`/`[I]`.
 
@@ -460,7 +552,7 @@ The argument is carried far more by **internal repetition** — the fullness fam
 | 3 | 2 Macc 9 (1); Esth 8 (2); 2 Macc 6 (6); 2 Macc 7 (8); Deut 21 (11); 2 Macc 1 (13); Wis 8 (17); Wis 10 (18); 2 Macc 8 (19); 3 Macc 3 (21) | **The Maccabean chapters and Esth 8** — as above (2 Macc 9: Antiochus's "members" wasting, blasphemer, "free": common words in other senses `[S: dig]`). **Deut 21** — discarded at 3:20–21 `[S: audit 3]`. **Wis 10** — ἐβράβευσεν (10:12), the only LXX root of the umpire verbs (Echo 17). **Wis 8** — virtues and wisdom, in other senses. **Genesis 1 and Ps 110** are invisible to the scan here: the form and window faults are recorded under rows 1 and 2. |
 | 4 | 2 Macc 1 (2); 1 Enoch 10 (5); 1 Macc 12 (6); 1 Kgs 8 (9); Wis 17 (9); Dan 2 Theod. (10); Dan 2 OG (16); 2 Macc 2 (18); Susanna (21); 2 Macc 8 (22) | **2 Macc 1–2** and **1 Macc 12** — the inter-community letters of the Maccabean books: an epistolary genre analogue for 4:7–18, not a source. **1 Kgs 8** — Solomon's prayer, common words. **Wis 17** — low with Wis 18. **Dan 2** — row 12's 4:5 line. **Susanna**, **1 Enoch 10** and **2 Macc 8** — common words in other senses. |
 
-**What the scan can and cannot show.** For random Pauline passages of two to five verses, some Swete chapter reaches median rank 2 or better 67–83 % of the time `[S: audit 4]`. A "most stable partner" is therefore evidence only if it is specific to the passage and survives the removal of its strongest word. The scan also fails silently on μεθίστημι ("transfer"), on the aorists and futures of ῥύομαι ("rescue"), on oblique φῶς ("light") and on δέω ("bind") `[S: audit 4]`. **Its chapter-level results confirm the citation-light finding: Colossians has no Old Testament partner that the measurement singles out.**
+**What the scan can and cannot show.** For random Pauline passages of two to five verses, some Swete chapter reaches median rank 2 or better 67–83 % of the time `[S: audit 4]`. A "most stable partner" is therefore evidence only if it is specific to the passage and survives the removal of its strongest word. The scan also fails silently on μεθίστημι ("transfer"), on the aorists and futures of ῥύομαι ("rescue"), on oblique φῶς ("light") and on δέω ("bind") `[S: audit 4]`. **v1.2:** it is therefore nearly blind at 1:12–14. It also does not link ἀπολύτρωσις ("redemption") with λυτρόω ("redeem"), and it miscounts ἀφέστηκεν ("has stood far off", Isa 59:11, 14) as ἄφεσις ("forgiveness"). Do not quote ranks for that passage `[S: audit 5]`. **Its chapter-level results confirm the citation-light finding: Colossians has no Old Testament partner that the measurement singles out.**
 
 ---
 
@@ -471,9 +563,9 @@ Colossians makes Christ both **ground** and **sphere**, and only then **pattern*
 - **Ground.**
   - Christ is "the image of the invisible God", the one "by" whom, "through" whom and "for" whom all things were created. He is "before all things", and "in Him all things hold together" (1:15–17) `[T]`.
   - He is "head of the body, the church", "the beginning, the firstborn from the dead", in whom "all the fullness" was pleased to dwell. Through him God reconciled all things, "having made peace through the blood of His cross" (1:18–20) `[T]`.
-  - The readers are reconciled "in His fleshly body through death" (1:22). θάνατος ("death") occurs only there in the letter (SBLGNT) `[T]` `[S: dig]`.
+  - The readers are reconciled "in His fleshly body through death" (1:22). θάνατος ("death") occurs only there in the letter (SBLGNT) `[T]` `[S: dig]`. **v1.2:** the subject of "reconciled" is open, God or Christ, *moderate* either way (Pulpit Notes) `[S: Logos 5]`. The presentation is final, not present, *moderate–high*: Dunn, Wright and Bird, against Pao `[S: Logos 5]`.
   - In him "all the fullness of Deity dwells in bodily form" (2:9) `[T]`. θεότης ("Deity") occurs nowhere else in the NT (SBLGNT) `[T]`.
-  - At the cross he cancelled the certificate of debt and disarmed the rulers and authorities (2:14–15) `[T]`. Christ as the subject who "stripped off" the powers, in the true middle, is *a slight lean, moderate* `[S: Logos 2]`.
+  - At the cross he cancelled the certificate of debt and disarmed the rulers and authorities (2:14–15) `[T]`. Christ as the subject who "stripped off" the powers, in the true middle, is *a slight lean, moderate* `[S: Logos 2]`; Chrysostom holds it, with the triumph at the cross `[S: Logos 5]`.
   - He is now enthroned at God's right hand (3:1) and will be revealed (3:4) `[T]`.
   - The mystery is Christ: "Christ in you" (1:27), "God's mystery, Christ" (2:2, on the reading of 𝔓⁴⁶ B), and "the mystery of Christ" (4:3) — the thread's last station `[T]`.
 - **Sphere.**
@@ -487,7 +579,7 @@ Colossians makes Christ both **ground** and **sphere**, and only then **pattern*
     - (b) the five virtues of 3:12 are, elsewhere in Paul, the character of God and of Christ — kindness, forbearance and patience at Rom 2:4; compassions at Rom 12:1 and 2 Cor 1:3; "the gentleness of Christ" at 2 Cor 10:1 `[T]`. That is *moderate–high* as the family likeness. The Greek Old Testament's divine-attribute formula (Exod 34:6, via Ps 144:7–9) is a *low–moderate* field behind it `[S: audit 4]`. The imitation pattern "as … so" is closest in Luke 6:35–36, Matt 18:33 and Eph 4:32 `[S: audit 4]`.
   - **Lord.** "The fear of the Lord", Israel's formula, is the slave's fear of Christ (3:22, with "the Lord Christ", 3:24). This is *moderate–high* and a shared Pauline move (2 Cor 5:10–11; Eph 5:21) `[S: audit 3]`. κύριος ("Lord, master") stands nine times in six verses of the household code (SBLGNT) `[T]`.
 
-**Moralism check.** Colossians contains its own warning against moralism. The rival teaching *is* a regimen — "Do not handle, do not taste, do not touch!" — and Paul's verdict is that such rules "are of no value against fleshly indulgence" (2:21–23) `[T]`. **A sermon on 3:5–17 that offers a list of vices to avoid and virtues to cultivate, without the death and resurrection of 2:20–3:4, preaches the very "philosophy" the letter rejects** `[I]`.
+**Moralism check.** Colossians contains its own warning against moralism. The rival teaching *is* a regimen — "Do not handle, do not taste, do not touch!" — and Paul's verdict is that such rules do nothing as a remedy for the flesh, however the last clause of 2:23 is read (2:21–23) `[I]`, *high*. That clause is itself disputed. The pulpit and study texts print "of no value against fleshly indulgence", while the Greek leans to "not in any honour", *moderate* (Pulpit Notes) `[S: Logos 5]`. **A sermon on 3:5–17 that offers a list of vices to avoid and virtues to cultivate, without the death and resurrection of 2:20–3:4, preaches the very "philosophy" the letter rejects** `[I]`.
 
 The commands of chapter 3 are addressed to people who "have died" and "have been raised" (3:1, 3). They are put in clothing language — ἀπεκδύομαι ("to lay aside", 3:9) and ἐνδύω ("to put on", 3:10, 12) — because the new self has already been put on (3:10) `[T]`; the aorist participles of 3:9–10 are causal, *moderate–high* `[S: dig]`. The virtues are put on by those already "chosen, holy and beloved" (3:12) `[T]`. Christ is Lord and life first (3:4, "Christ, who is our life"), and pattern second.
 
@@ -504,6 +596,7 @@ The commands of chapter 3 are addressed to people who "have died" and "have been
 3. **2:16–17 as a verdict on the Lord's Day, or on any modern calendar.** *Bites at:* 2:16–17. It sounds like "the Sabbath is abolished", or, in the other direction, an explanation of why 2:16 cannot touch the Sabbath. This is a tribal landmine `[I]`. What the text says is that the observances are "a shadow of what is to come", that "the substance belongs to Christ", and that no one is to *judge* the believer by them (2:16–17) `[T]`.
 
    **v1.0:**
+
    - **The owned commentators:** Wright explicitly includes the weekly Sabbath; so does Witherington in effect, and Dunn by implication. Pao's "practices, not days" rests on an Adventist article `[S: Logos 4]`.
    - **A Greek-only point:** σάββατα σαββάτων ("sabbath of sabbaths") is used in Swete only of the Day of Atonement (Lev 16:31; 23:32), though the Hebrew שַׁבַּת שַׁבָּתוֹן ("a sabbath of complete rest") is also used of the weekly Sabbath (Exod 31:15; 35:2; Lev 23:3, WLC) `[S: Logos 3]`.
    - **For the preacher:** the dig's "includes the weekly Sabbath" stands at *moderate–high*, and the settled debate is still not the passage's question.
@@ -517,11 +610,12 @@ The commands of chapter 3 are addressed to people who "have died" and "have been
 
    The slave instructions are the longest: 56 of the code's 116 words. They are about the length of Ephesians' slave section (59), while Colossians compresses the other lines — marriage takes 19 words against Ephesians' 189 — so the emphasis is relative. A sermon that follows Ephesians' proportions misreads Colossians `[S: dig]`.
 
-   The slave Onesimus is introduced with the same titles as Tychicus and Epaphras, "faithful and beloved brother", and "one of you" (4:9; 1:7; 4:7, 12) `[T]`. This is a pastoral landmine. The pulpit text says "bondservants" (ESV) where the study text says "slaves" (NASB95); tell the congregation it is the same word, δοῦλος ("slave"). Nor will the ESV let them hear that Tychicus and Epaphras are "fellow slave" and "slave of Christ" (4:7, 12, ESV "servant").
+   Onesimus is introduced with the same titles as Tychicus and Epaphras, "faithful and beloved brother", and "one of you" (4:9; 1:7; 4:7, 12) `[T]`. **v1.2: Colossians never calls him a slave.** That comes from Phlm 16, so say so when the two are joined; inside the letter δοῦλος ("slave") passes to Epaphras (4:12) `[T]` `[S: audit 5]`. This is a pastoral landmine. The pulpit text says "bondservants" (ESV) where the study text says "slaves" (NASB95); tell the congregation it is the same word, δοῦλος ("slave"). Nor will the ESV let them hear that Tychicus and Epaphras are "fellow slave" and "slave of Christ" (4:7, 12, ESV "servant").
 
 5. **1:24 heard as "Christ's sufferings were insufficient".** *Bites at:* 1:24. It sounds like either a scandal or a hasty denial. The verse speaks of "Christ's afflictions" (θλίψεις, "afflictions"), not his cross, filled up in Paul's flesh "on behalf of His body", and the reconciliation was finished at 1:20–22 `[T]`/`[I]`. It is a hard verse; give it a full dig rather than a sentence.
 
    **v1.0 — the controls** `[S: dig]`:
+
    - θλῖψις is never used of the cross;
    - ὑπέρ in Colossians is always of ministers acting for churches;
    - 1:22 → 1:24 crosses "body" and "flesh";
@@ -532,7 +626,8 @@ The commands of chapter 3 are addressed to people who "have died" and "have been
 6. **1:23 ("if indeed you continue") preached either as a threat or as nothing.** *Bites at:* 1:21–23. The condition is real, and its object is staying "not moved away from the hope of the gospel" — the same concern as 2:6–7 and 2:18 `[T]`/`[I]`. It is the letter's warning in a single verse, not a separate doctrine of assurance.
 
    **v1.0** `[S: dig]`:
-   - εἴ γε is confident in Paul's usage (Eph 3:2; 4:21);
+
+   - εἴ γε ("if indeed"; five uses in the SBLGNT) is confident at 2 Cor 5:3, Eph 3:2 and 4:21, but **not at Gal 3:4** (Pao, p. 109), and particles do not change the class of a condition (Robertson). So 1:23 is a real call to continue, spoken with confidence, *moderate–high* `[S: Logos 5]`. Wright: "This promise, like most, has a condition";
    - the foundation is already laid (a perfect participle);
    - the participle "not being moved" is present.
 
@@ -548,7 +643,7 @@ The commands of chapter 3 are addressed to people who "have died" and "have been
 
 ## Early↔Late Echo Table
 
-All lexical claims verified by lemma against the SBLGNT, and against the NA28 where it differs (see the next section). **v1.0:** the 23 Draft rows are kept, nine are amended, and 47 rows are added from the digs. Every added row was re-verified by lemma at each reference for this Finalise (61 chains, none failing).
+All lexical claims verified by lemma against the SBLGNT, and against the NA28 where it differs (see the next section). **v1.0:** the 23 Draft rows are kept, nine are amended, and 47 rows are added from the digs. Every added row was re-verified by lemma at each reference for this Finalise (61 chains, none failing). **v1.2:** rows 31, 59, 62, 64 and 65 restated and rows 71–73 added after claim audit 5, each re-checked by lemma or phrase in this pass.
 
 | # | Early | Later | Relationship | Confidence |
 |---|---|---|---|---|
@@ -593,6 +688,7 @@ All lexical claims verified by lemma against the SBLGNT, and against the NA28 wh
 **8.** 1:21–22 ποτε … νυνὶ δέ ("formerly … yet now") → 3:7–8 ποτε … νυνὶ δέ ("once … but now"). **Replants** — the two "formerly … but now" turns, and the only two occurrences of each word in the letter: the first of reconciliation, the second of conduct. *Confidence:* high.
 
 **9. v1.0 — reworded as the mystery thread.** μυστήριον ("mystery") stands at 1:26, 1:27, 2:2 and 4:3, with the hidden-and-revealed vocabulary attached `[T]`:
+
 - 1:26: τὸ μυστήριον τὸ ἀποκεκρυμμένον ("the mystery … hidden") … νῦν δὲ ἐφανερώθη ("now manifested");
 - 2:3: θησαυροὶ … ἀπόκρυφοι ("hidden treasures");
 - 3:3–4: ἡ ζωὴ ὑμῶν κέκρυπται … φανερωθήσεσθε ("your life is hidden … you will be revealed");
@@ -622,11 +718,12 @@ Swete has the root only twice, and only a stem-anywhere search finds either: ἐ
 
 **Neither the ESV nor the NASB95 lets the congregation hear it** ("disqualify" / "rule"; "defrauding … of your prize" / "rule"). *Confidence:* high (lexically); moderate–high (antithesis).
 
-**18.** 2:18, 23 ταπεινοφροσύνη ("self-abasement") → 3:12 ταπεινοφροσύνη ("humility"). **Reverses** — the same word, false and true: three occurrences, these three verses. Both translations change the English between chapters, and the congregation will not hear the echo. *v1.0:* the reclaiming is *moderate* as design, and it stands whether 2:18 means "fasting" (moderate) or a counterfeit humility. The whole 3:12–16 "reversal of 2:18–23" is *low–moderate*: only this word and λόγος with σοφία (row 49) are true reversals `[S: audit 2]` `[S: Logos 3]`. *Confidence:* high (word); moderate (as reclaiming).
+**18.** 2:18, 23 ταπεινοφροσύνη ("self-abasement") → 3:12 ταπεινοφροσύνη ("humility"). **Reverses** — the same word, false and true: three occurrences, these three verses. Both translations change the English between chapters, and the congregation will not hear the echo. *v1.0:* the reclaiming is *moderate* as design, and it stands whether 2:18 means "fasting" (moderate) or a counterfeit humility. **v1.2:** audit 5 queues the re-valuation as C78, suggesting *moderate–high*; it is unaudited, so *moderate* stands. The whole 3:12–16 "reversal of 2:18–23" is *low–moderate*: only this word and λόγος with σοφία (row 49) are true reversals `[S: audit 2]` `[S: Logos 3]`. *Confidence:* high (word); moderate (as reclaiming).
 
 **19.** 2:11 περιτομή ("circumcision"); 2:13 ἀκροβυστία ("uncircumcision") → 3:11 "no distinction between … circumcised and uncircumcised"; 4:11 οἱ ὄντες ἐκ περιτομῆς ("from the circumcision") — the Jewish fellow-workers. **Develops** — a circumcision made without hands (2:11), a people in which the distinction no longer divides (3:11), and Jewish co-workers named with gratitude (4:11). *Confidence:* high (lexically); the sequence `[I]`.
 
 **20.** *v1.0 — the origin added.* The thanksgiving family (εὐχαριστέω, εὐχαριστία, εὐχάριστος) runs as follows:
+
 - **1:3** "we give thanks to God the Father";
 - **1:12** "giving thanks to the Father";
 - **2:7** περισσεύοντες ἐν εὐχαριστίᾳ ("overflowing with gratitude");
@@ -653,7 +750,7 @@ Swete has the root only twice, and only a stem-anywhere search finds either: ἐ
 | 28 | 1:5, 23 → 1:27 | ἐλπίς (the letter's three: hope of the gospel → "Christ in you, the hope of glory") | Develops | high | 1:24–2:5 |
 | 29 | 1:11 → 1:29 | δύναμις with κατά ("according to his power") | Develops | moderate–high | 1:1–14; 1:24–2:5 |
 | 30 | 1:11 → 3:12 | μακροθυμία ("patience"; the letter's two) — prayed for → put on | Answers | high | 3:12–17 |
-| 31 | 1:12–14 ↔ 2:13 | the "you" → "us" shift at forgiveness, with scribal levelling at both | Repeats | high (pronouns); moderate–high (design) | 1:1–14 |
+| 31 | 1:12–14 ↔ 2:13 | the "you" → "us" shift at the two *indicative* statements of forgiveness, with scribal levelling at both. Apart from "God our Father" (1:2), every other first-person plural in the letter is apostolic, so the inclusive "we" stands only at 1:13–14 and 2:13–14. Not at 3:13, where the comparison needs "you". The move is Paul's habit (1 Thess 1:9–10; Gal 1:3–4; Eph 2:1–5). The NASB95 levels it at 1:12; the KJV at both | Repeats | high (pronouns, apparatus); moderate–high (inclusive "we" only here); low–moderate (as a design peculiar to Colossians) `[S: audit 5]` | 1:1–14; 2:6–15 |
 | 32 | 1:7 → 4:7 | σύνδουλος + διάκονος ("fellow slave", "minister") with πιστός, ἀγαπητός — Epaphras's titles given to Tychicus (σύνδουλος + διάκονος in one verse: NT only these two) | Frames | high | 1:1–14; 4:7–18 |
 | 33 | 1:13 → 4:11 | βασιλεία ("kingdom"; the letter's two) | Frames | high (words) | 1:1–14; 4:7–18 |
 | 34 | 1:6 → 2:8, 20 | κόσμος ("world"; the gospel in all the world → the elements of the world) | Contrasts | moderate | 1:1–14 |
@@ -681,20 +778,24 @@ Swete has the root only twice, and only a stem-anywhere search finds either: ἐ
 | 56 | 1:28; 4:12 → 3:14 | τέλειος → τελειότης ("complete" → "the bond of completeness") | Develops | moderate | 3:12–17 |
 | 57 | 1:16, 20 → 3:2, 5 | ἐπὶ τῆς γῆς ("on earth"; the letter's four uses of γῆ) — what Christ created and reconciled → not the things on earth → the members on earth | Develops | high (words) | 3:1–4 |
 | 58 | 1:9–10; 2:2 → 3:10 | ἐπίγνωσις ("knowledge"; the letter's four) — prayed for → the goal of the renewal | Answers | high (words) | 3:5–11 |
-| 59 | 3:8–9 → 3:16 → 4:3 → 4:6 | speech: foul talk and lies → the word of Christ → "a door for the word" → "your word" (λόγος) | Develops | high (words); moderate (as design) | 3:5–11; 4:2–6 |
+| 59 | 3:8–9 → 3:16–17 → 4:3–4 → 4:6 | a speech thread carried by a *cluster* of speech words: βλασφημία ("slander"), αἰσχρολογία ("obscene talk") and ψεύδομαι ("lie") → the word of Christ → "a door for the word" → "your word". λόγος ("word") is absent from 3:8–9 and changes sense along the thread; ἐν χάριτι (3:16; 4:6) is its most specific link; δεῖ ("must", by form) only at 4:4, 6. 3:16–4:6 is denser in λόγος than about 96 % of 24-verse Pauline stretches, though the letter as a whole runs at twice the Pauline rate. Eph 4:29–6:20 has the same sequence | Develops | high (counts); moderate (as design; Paul's paraenetic pattern) `[S: audit 5]` | 3:5–11; 3:12–17; 4:2–6 |
 | 60 | 3:6 → 3:8 | ὀργή (God's "wrath" → your "anger"; the letter's two) | Within 3:5–11 | high (words) | 3:5–11 |
 | 61 | 1:9 → 3:16 | σοφία + πνευματικός ("all spiritual wisdom" → "in all wisdom … spiritual songs") | Answers | high (words) | 3:12–17 |
-| 62 | 1:5–6 → 3:16 → 4:6 | λόγος with χάρις ("the word" and "grace" heard → sung → spoken) | Frames | moderate | 3:12–17; 4:2–6 |
+| 62 | 1:5–6 → 3:16 → 4:6 | λόγος with χάρις ("the word" and "grace" heard → sung → spoken). *v1.2:* if 3:16 is "with thankfulness" (a slight lean) and 4:6 is "gracious", this is a play on χάρις, not one sense carried through `[I]` | Frames | moderate | 3:12–17; 4:2–6 |
 | 63 | 1:16, 20 → 3:17 | δι᾽ αὐτοῦ ("through him": creation, reconciliation → thanks) | Develops | moderate | 3:12–17 |
-| 64 | 3:17 → 3:23 | ὃ ἐὰν ποιῆτε ("whatever you do"; NT only these two) | Answers | high (words); moderate–high (pick-up); moderate (the whole code as 3:17 applied) | 3:18–4:1; `[S: audit 3]` |
-| 65 | 3:11 → 3:22–4:1 → 4:9 | δοῦλος ("slave, free" → the slaves addressed → Onesimus "faithful and beloved brother, one of you") | Answers | high | 3:18–4:1; 4:7–18 |
+| 64 | 3:17 → 3:23 | πᾶν ὅ τι ἐὰν ποιῆτε → ὃ ἐὰν ποιῆτε ("whatever you do"). *v1.2:* the two forms differ; a relative with ἐὰν ποιῆτε stands in the NT only in these two (SBLGNT; John 13:17 and 15:14 are conditionals) | Answers | high (words); moderate–high (pick-up); moderate (the whole code as 3:17 applied) | 3:18–4:1; `[S: audit 3]` `[S: audit 5]` |
+| 65 | 3:11 → 3:22–4:1 → 4:12 | δοῦλος ("slave, free" → the slaves addressed → Epaphras, "a slave of Christ"). *v1.2:* Onesimus, "faithful and beloved brother, one of you" (4:9), is never called a slave in Colossians; that link needs Phlm 16 | Answers | high (words); the Onesimus link rests on Philemon `[S: audit 5]` | 3:18–4:1; 4:7–18 |
 | 66 | 1:12 → 3:24 | κλῆρος ("lot") → κληρονομία ("inheritance") — the slaves among the heirs | Answers | moderate | 3:18–4:1; `[S: audit 3]` |
 | 67 | 1:10 → 3:20, 22 | ἀρεσκ- ("pleasing" the Lord → well-pleasing; men-pleasers) | Resonance | low–moderate (design) | 3:18–4:1; `[S: audit 3]` |
 | 68 | 1:3, 1:9 → 4:2–3 | προσεύχομαι / προσευχή — Paul praying for them → they for him | Answers | high | 4:2–6 |
 | 69 | 1:27 → 4:7, 9 | γνωρίζω ("make known"; the letter's three) — God making the mystery known → the envoys making the news known | Develops | moderate | 4:7–18 |
 | 70 | 1:2 → 4:18 | χάρις ("grace to you" → "grace be with you") | Frames | high | 4:7–18 |
+| 71 | 1:26–27 → 4:3–4 | μυστήριον ("mystery") with φανερόω ("make manifest") within two verses; elsewhere in the NT only 1 Tim 3:16 | Frames | moderate–high (queued, C77, unaudited) | audit 5 |
+| 72 | 3:16 → 4:6 | ἐν χάριτι, in seven NT verses (SBLGNT); see row 62 for the senses | Repeats | high (words); moderate (as a link) | audit 5 |
+| 73 | 2:8 → 2:20 | τὰ στοιχεῖα τοῦ κόσμου ("the elements of the world"), across the unit boundary; also Gal 4:3 | Frames | high (words) | 2:6–15; 2:16–23; audit 5 |
 
 **Proposed by the digs, recorded but not adopted as rows:**
+
 - 1:9 → 2:18, spiritual understanding against the mind of the flesh — different lemmas, so moderate at most;
 - 2:9 → 2:17, σωματικῶς ("bodily") → σῶμα ("body") — moderate, within row 5's σῶμα caution;
 - 2:8 → 2:15, "take captive" against "triumph" — different lemmas, moderate;
@@ -713,6 +814,7 @@ Swete has the root only twice, and only a stem-anywhere search finds either: ἐ
 They stay in the digs, where their context is given.
 
 **Hold 1:3–14 open against chapter 4 — confirmed.** The letter ends by doing what it opened by praying for:
+
 - Epaphras prays the 1:9 prayer (row 1);
 - the church is to "walk in wisdom" (4:5; cf. 1:9–10);
 - the word that bore fruit "in all the world" (1:6) is to go out through "a door for the word" (4:3);
@@ -739,27 +841,29 @@ A word-by-word comparison of the two editions, verse by verse, finds **six diffe
 | 3:22 | ὀφθαλμοδουλίᾳ | ὀφθαλμοδουλίαις |
 | 4:12 | Χριστοῦ [Ἰησοῦ] | Χριστοῦ |
 
-- **1:7.** NA28 prints ὑμῶν **against 𝔓⁴⁶ א\* A B D\* F G**, which read ἡμῶν. The ESV follows NA28; the NASB95 follows the older witnesses. The choice is between Epaphras as Paul's deputy ("our behalf") and Epaphras as the church's minister ("your behalf").
-- **1:22.** SBLGNT follows 𝔓⁴⁶ B. The passive leaves the sentence grammatically broken, which explains why the active looks like a correction `[S]`.
+- **1:7.** NA28 prints ὑμῶν **against 𝔓⁴⁶ א\* A B D\* F G**, which read ἡμῶν. The ESV follows NA28; the NASB95 follows the older witnesses. The choice is between Epaphras as Paul's deputy ("our behalf") and Epaphras as the church's minister ("your behalf"). **v1.2:** Robertson calls ἡμῶν "clearly correct", and the *Lexham Textual Notes* print it. *Uncertain* `[S: Logos 5]`.
+- **1:22.** SBLGNT follows 𝔓⁴⁶ B. The passive leaves the sentence grammatically broken, which explains why the active looks like a correction `[S]`. **v1.2:** Dunn and Pao both print the active and concede the passive's text-critical claim; Dunn calls the correction "wholly justified". Divided `[S: Logos 5]`. For the subject, see Pulpit Notes.
 - **2:16.** "and drink" / "or drink"; the spelling of "new moon".
 - **3:16.** The bracketed article. **v1.0:** the two editions also **punctuate 3:16 differently in two places**:
   - "in all wisdom" goes with the teaching in NA28, with the dwelling in SBLGNT;
   - the songs go with the singing in NA28, with the teaching and admonishing in SBLGNT.
 
   The ESV follows NA28's punctuation for the songs, the NASB95 SBLGNT's (3:12–17 dig `[S: dig]`).
+  **v1.2** `[S: Logos 5]`: "in all wisdom" with the teaching is *moderate–high* (Pao; Wright; compare 1:28). The songs as the means of teaching is a slight lean, *moderate* (Pao; Patrick's notes from Beale), with the songs also sung. ἐν [τῇ] χάριτι as "with thankfulness" is a slight lean, *moderate* (Pao; the frame of 3:15, 17), and the article has 𝔓⁴⁶ א² B D\* F G Ψ 6 1505 1739 behind it.
+
 - **3:22.** Singular / plural "eye-service".
 - **4:12.** Bracketed name.
 
 ### Variants that bear on findings (NA28 apparatus)
 
 - **2:2 — "the mystery of God, Christ".** NA28 prints τοῦ θεοῦ, Χριστοῦ ("of God, Christ"), with **𝔓⁴⁶ B** alone among the Greek witnesses. The apparatus records seven other readings — "of God, which is Christ"; "of God the Father of Christ"; "of the God and Father and of Christ" (the majority text); "of Christ"; "of God" — every one of which reads as an attempt to explain the short text. **This is the reading that most directly identifies the mystery with Christ himself.** The ESV ("God's mystery, which is Christ") and the NASB95 ("God's mystery, that is, Christ Himself") both follow it `[T: as NA28 prints it]`.
-- **2:18 — ἃ ἑόρακεν ἐμβατεύων ("taking his stand on visions he has seen").** The majority text and the corrected Sinaiticus add μή ("what he has *not* seen", as in the KJV). NA28 follows 𝔓⁴⁶ א\* A B D\*. The shorter reading points to visionary experience; the longer to speculation. **v1.0:** the initiation sense of ἐμβατεύω is *low*. Dunn and Pao both reject it, and the Claros inscriptions are mid-second century `[S: Logos 3]`.
+- **2:18 — ἃ ἑόρακεν ἐμβατεύων ("taking his stand on visions he has seen").** The majority text and the corrected Sinaiticus add μή ("what he has *not* seen", as in the KJV). NA28 follows 𝔓⁴⁶ א\* A B D\*. The shorter reading points to visionary experience; the longer to speculation. **v1.0:** the initiation sense of ἐμβατεύω is *low*. Dunn and Pao both reject it, and the Claros inscriptions are mid-second century `[S: Logos 3]`. **v1.2:** Chrysostom's text has the negative, and he reads "the worship of the angels" as an objective genitive. The genitive stays *uncertain*, and the handling is unchanged `[S: Logos 5]`.
 - **2:10 — ὅς ("who") / ὅ ("which").** 𝔓⁴⁶ B D F G read the neuter, which makes *the fullness* head of every power. NA28's ὅς is *moderate*. 𝔓⁴⁶ and B read ὅ at both 1:27 and 2:10, and NA28 follows them only at 1:27. ὅ ἐστιν is this letter's formula (1:24, 27; 3:14), which may explain the neuter as assimilation `[S: Logos 2]` `[S: Logos 3]`.
 - **1:14 — "through His blood".** Added by a few late witnesses (614 630 1505 2464), which the apparatus marks as from Eph 1:7. It is absent from NA28, the ESV and the NASB95 (present in the KJV). It is not part of Colossians' text; the blood is at 1:20.
-- **1:12 — "qualified you" (ὑμᾶς, NA28: א B) / "qualified us" (ἡμᾶς: A C D and the majority).** ESV "you"; NASB95 "us". Then 1:13 has ἡμᾶς ("us") in every witness. The shift between "you" and "us" is part of the passage, and the variant is a scribe smoothing it out `[I]` (Echo row 31).
+- **1:12 — "qualified you" (ὑμᾶς, NA28: א B) / "qualified us" (ἡμᾶς: A C D and the majority).** ESV "you"; NASB95 "us". Then 1:13 has ἡμᾶς ("us") in every witness. The shift between "you" and "us" is part of the passage, and the variant is a scribe smoothing it out `[I]` (Echo row 31). **v1.2:** the KJV and the Vulgate (*dignos nos fecit*) also read "us", and the KJV levels 2:13 too ("you … you"), so its readers hear no shift at either place `[S: Logos 5]`.
 - **1:20 — the second [δι᾽ αὐτοῦ] ("through him").** Bracketed in NA28. It is omitted by B D\* F G I L and others, Latin and Sahidic, and read by 𝔓⁴⁶ א A C and the majority. It is probably original on internal evidence `[S: Logos 1]`. Arguments that "through the blood of his cross" is a gloss lean partly on this uncertain phrase `[S: Logos 4]`.
 - **3:4 — "your life" (ὑμῶν, NA28: 𝔓⁴⁶ א C D\*) / "our life" (ἡμῶν: B and the majority).** ESV "your"; NASB95 "our".
-- **3:6 — "upon the sons of disobedience".** Bracketed in NA28; omitted by 𝔓⁴⁶ B. The ESV omits it in its text; the NASB95 includes it. The phrase is identical at Eph 5:6.
+- **3:6 — "upon the sons of disobedience".** Bracketed in NA28; omitted by 𝔓⁴⁶ B. The ESV omits it in its text; the NASB95 includes it. The phrase is identical at Eph 5:6. **v1.2:** Pao gives omission a slightly stronger case, yet keeps the brackets. Wright keeps the phrase on internal grounds: with it, ἐν οἷς ("among whom") and ἐν τούτοις ("in these things") at 3:7 can have different antecedents. Divided `[S: Logos 5]`.
 - **3:11 — "male and female".** A Western addition (D\* F G 629, Latin witnesses), marked by the apparatus as from Gal 3:28. The scribes heard Genesis 1:27 / Galatians 3:28 behind 3:10–11, which is indirect early support for the Genesis row of the Intertextual Map `[I]`.
 - **3:13 — "the Lord forgave you" (κύριος, NA28: 𝔓⁴⁶ A B D\*) / "Christ" (the majority; the KJV) / "God" (א\*) / "God in Christ" (33, from Eph 4:32).** Both translations read "the Lord". In Colossians κύριος is regularly Christ.
 - **3:14 — ὅ ("which") corrected to ὅς / ἥτις; τελειότητος ("of completeness") / ἑνότητος ("of unity", D\* F G).** The Western reading interprets the phrase; the NASB95's "the perfect bond of unity" comes close to it `[S: dig]`.
@@ -767,9 +871,9 @@ A word-by-word comparison of the two editions, verse by verse, finds **six diffe
 - **3:16 — "the word of Christ"** — substitutes "of the Lord" (א\* I 1175) and "of God" (A C\* 33). "The word of Christ" is unique in the NT (SBLGNT), and the substitutions show the scribes noticed it.
 - **3:21 — ἐρεθίζετε / παροργίζετε ("provoke" / "provoke to anger").** A harmonisation to Eph 6:4.
 - **3:22 — κύριον / θεόν ("the Lord" / "God").** The majority reads θεόν, and the KJV's "fearing God" makes the transfer of the fear of the Lord to Christ disappear. The Clementine Vulgate reads *timentes Deum* `[S: Logos 4]`.
-- **3:24 — γάρ ("for").** Added by the majority (the KJV's "for ye serve"). The Vulgate, *Domino Christo servite*, is imperative. There is a slight lean to the indicative, *moderate* — Dunn and Pao; Rom 16:18 `[S: Logos 4]`.
+- **3:24 — γάρ ("for").** Added by the majority (the KJV's "for ye serve"). The Vulgate, *Domino Christo servite*, is imperative. There is a slight lean to the indicative, *moderate* — Dunn and Pao; Rom 16:18 `[S: Logos 4]`. **v1.2:** the imperative side is now named: Moule, Lohse, Schweizer, O'Brien, Wright, Harris, Moo and Sumney (Pao's footnote). The lean rests on the clause, not on numbers `[S: Logos 5]`.
 - **4:3 — δι᾽ ὅ ("on account of which") / δι᾽ ὅν ("on account of whom")** (B F G); **+ ἐν παρρησίᾳ ("with boldness")** (A, from Eph 6:19).
-- **4:8 — "that you may know about us" (NA28; A B D\* F G P) / "that he may know about you" (𝔓⁴⁶ א² C D¹ and the majority; the KJV's "your estate").** Divided; *moderate*. NA28's reading equals Eph 6:22 `[S: dig]`.
+- **4:8 — "that you may know about us" (NA28; A B D\* F G P) / "that he may know about you" (𝔓⁴⁶ א² C D¹ and the majority; the KJV's "your estate").** Divided; *moderate*. NA28's reading equals Eph 6:22 `[S: dig]`. **v1.2:** the *Lexham Textual Notes* add that unaccented ΓΝΩ can be read γνῷ ("he may know") or γνῶ ("I may know") `[S: Logos 5]`.
 - **4:12 — πεπληροφορημένοι ("fully assured") / πεπληρωμένοι ("filled", 𝔓⁴⁶ and the majority; the KJV's "complete").** The variant would put πληρόω into Epaphras's prayer `[S: dig]`.
 - **4:15 — Nympha and "her" house.** NA28 reads αὐτῆς ("her"), with B 0278 6 1739 1881. The majority text has αὐτοῦ ("his", the man Nymphas), and א A C have αὐτῶν ("their"). The name's accent decides the person's sex, and the earliest uncials print no accent. "Her" is likely original, *moderate–high*. The ESV and NASB95 both read "Nympha … her house" `[S: dig]`.
 
@@ -778,12 +882,13 @@ A word-by-word comparison of the two editions, verse by verse, finds **six diffe
 These are notes for the preacher about what the congregation will hear, not translation verdicts. **v1.0:** the digs found that **the ESV pulpit text serves this letter better than the study text more often than not**. Where it is better, it is mostly because it keeps a repeated Greek word as one English word.
 
 **Where the ESV keeps what the NASB95 loses:**
+
 - **The fullness thread.** It is audible in the ESV at 1:9 ("filled"), 1:19, 2:9 ("fullness"), 2:10 ("you have been filled in him") and 4:17 ("fulfil"). The NASB95 breaks it at 2:10 ("made complete"), and uses "complete" for two different Greek words (τέλειος at 1:28; πεπληρωμένοι at 2:10). Neither translation lets the thread be heard at 1:24, 1:25, 2:2 or 4:12.
 - **Struggle and maturity.** The ESV keeps "struggling … struggle … struggling" (1:29; 2:1; 4:12) and "mature … mature" (1:28; 4:12); the NASB95 breaks both.
 - **"Knit together"** (2:2; 2:19).
 - **3:5 — νεκρώσατε.** ESV "Put to death" (an imperative, as the Greek). The NASB95's "consider the members … as dead to" softens the command, and changes the list into what one is dead to.
 - **3:10 — "the One who created him".** Here the NASB95 is closer: the ESV's "its creator" hides the Genesis "him" (αὐτόν).
-- **4:2 "watchful"**, which lets Gethsemane be heard.
+- **4:2 "watchful"**, which lets Gethsemane be heard, as a single echo at most: the wider "Jesus-tradition cluster" was discarded `[S: audit 4]`.
 - **4:5 "Walk"**, the letter's chain (1:10; 2:6; 3:7; 4:5); the NASB95 has "conduct yourselves".
 - **4:4, 6 "ought … ought"**, Paul's δεῖ ("must") and the church's.
 - **4:16 "the letter from Laodicea"**; the NASB95's "my letter" decides who wrote it.
@@ -791,18 +896,20 @@ These are notes for the preacher about what the congregation will hear, not tran
 - **1:17–18a.**
 
 **Where the ESV hides something the preacher should supply:**
+
 - **1:16** levels the perfect ἔκτισται ("have been created").
 - **1:20** moves "whether on earth or in heaven" and loses the closing reversal; it also omits the bracketed "through him".
-- **1:11–12 — the punctuation.** NA28 puts a full stop before μετὰ χαρᾶς ("with joy") and attaches it to "giving thanks". The ESV and NASB95 divide on it.
+- **1:11–12 — the punctuation.** NA28 puts a full stop before μετὰ χαρᾶς ("with joy") and attaches it to "giving thanks". The ESV and NASB95 divide on it. **v1.2:** a slight lean to the thanksgiving, *low–moderate*: Pao for it, while Wright says it is "impossible to tell" `[S: Logos 5]`.
 - **1:27 — "Christ in you".** The "you" is plural.
 - **2:1, 2:5.** "Flesh" is lost ("face to face"; "absent in body"). The ESV's "body" at 2:5 collides with "His body, the church" (1:24).
 - **2:13 "God made you alive".** The ESV supplies a subject the Greek leaves unexpressed.
-- **2:15.** "Disarmed" is the same verb as 3:9's "put off". "In him" could be "in it", the cross.
+- **2:15.** "Disarmed" is the same verb as 3:9's "put off". "In him" could be "in it", the cross. **v1.2:** Chrysostom takes Christ as subject, in the true middle ("having put off from Himself"), with the triumph at the cross; his English does not settle "in him" or "in it" `[S: Logos 5]`.
 - **2:17 "substance".** Both versions lose σῶμα, so the triple "body" (2:17, 19, 23) is audible only in the KJV.
 - **2:18 "sensuous mind".** It turns the ascetic's *fleshly* mind into a sensual one and loses the irony. The English-only echo of "qualified" (1:12) and "disqualify" (2:18) is not in the Greek.
 - **2:20 "regulations"**, after 2:14's "legal demands", breaks the δόγμα link the NASB95 keeps ("decrees … decrees").
+- **2:23 "of no value in stopping the indulgence of the flesh".** The ESV, NASB95 and NIV84 all print this reading. **v1.2:** LSJ gives τιμή no sense "efficacy" and has no τιμή … πρός. ἐν τιμῇ means "in honour" in LSJ and in all five other Greek-Bible uses checked. So the clause leans to "not in any honour" (reading 2, with reading 3 behind it: the KJV, the Vulgate, and Chrysostom for reading 3), *moderate*, and "of no value" falls to *low–moderate*. This goes against Dunn, Pao, Wright and every modern English version, and BDAG, not owned, could restore it, so it is a lexical lean and not a settled result `[S: Logos 5]`. **Preach what every reading shares:** severity to the body does nothing as a remedy for the flesh, *high*. If the clause itself is explained, say that the Greek most naturally reads "not in any honour".
 - **3:14 "binds everything together in perfect harmony"** is a paraphrase; the NASB95's "perfect bond of unity" interprets too. The Greek is "the bond of perfection".
-- **3:16 "with thankfulness"** hides "with grace" (cf. 4:6).
+- **3:16 "with thankfulness".** Both versions take ἐν χάριτι so, probably rightly (*a slight lean, moderate*: Pao `[S: Logos 5]`). The congregation will not hear that the phrase returns at 4:6, where the ESV has "gracious" (Echo 72).
 - **3:18–4:1 — κύριος** is one word for "masters", "Master" and "Lord"; tell the congregation.
 - **3:20** "pleases the Lord" loses "in the Lord".
 - **3:22 "earthly masters"** loses "according to the flesh", the flesh/heaven frame and the Philemon link.
@@ -812,19 +919,22 @@ These are notes for the preacher about what the congregation will hear, not tran
 - **4:7, 12 "servant"** for σύνδουλος / δοῦλος hides the slaves' title (Trap 4).
 
 **Where the two divide and the Greek allows both:**
+
 - **1:19.** ESV "in him all the fullness of God was pleased to dwell"; NASB95 "it was the Father's good pleasure for all the fullness to dwell in Him". The Greek names neither God nor the Father, and each translation supplies one, in a different place. **v1.0:** the owned technical commentators returned (Dunn, Pao, Wright) agree on "the fullness" as subject — a periphrasis for God — so the ESV's reading is *moderate–high* `[S: Logos 4]`. At 1:20, εἰς αὐτόν ("to himself") leans to the Son (Pao; Dunn), *moderate*, where all three English versions read "to Himself", meaning God `[S: Logos 4]`.
+- **1:22 — who reconciled?** The ESV ("in his body of flesh") and the NASB95 ("in His fleshly body") both have "he" and leave it open. **v1.2:** the subject moves from "God, *moderate–high*" (the dig's first rating) to **open: God or Christ, *moderate* either way.** For Christ: Dunn, Pao and Bird, with Eph 2:16. For God: Wright, and the shape of 1:20. The verb stands only at 1:20, 1:22 and Eph 2:16 (SBLGNT) `[T]`. The move rests on how much weight Ephesians should carry, so it could fairly be contested `[S: Logos 5]`. The preaching point holds either way. In a church using the NIV84, the version has decided for God ("by Christ's physical body").
 - **2:8, 20 — τὰ στοιχεῖα τοῦ κόσμου.** ESV "the elemental spirits of the world"; NASB95 "the elementary principles of the world". **This is the largest interpretive gap in the letter.** The pulpit text has decided for personal spiritual powers; the study text has decided for principles, an interpretation in the other direction. The Greek allows both `[S]`, so tell the congregation.
   - The ESV's reading is the majority of recent commentary (Arnold). "Physical elements" (O'Brien) and "elementary principles" (Carr, Wink, Forbes) are still held `[S: Logos 1]`.
   - Dunn reads the elements as the cosmic elements, with Wis 7:17 cited `[S: Logos 3]`.
   - In the Greek Old Testament στοιχεῖον has the physical sense (Wis 7:17; 19:18; 4 Macc 12:13), without making Wisdom a source `[S: audit 3]`.
   - The evidence for a "spirits" sense before the second century is for the association of spirits with the elements (Jub 2:2; 1 En 60:11–12), not for the word `[S: Logos 1]`.
-- **3:16 — the songs.** NASB95: the songs are the *means* of teaching and admonishing. ESV: they are what is sung.
+  - Chrysostom reads the sun and moon, because they govern the observance of days: an ancient holder for a calendar sense `[S: Logos 5]`.
+- **3:16 — the songs.** NASB95: the songs are the *means* of teaching and admonishing. ESV: they are what is sung. **v1.2:** a slight lean to the NASB95's reading, *moderate*, with the songs also sung `[S: Logos 5]`.
 - **2:18, 23 / 3:12 — ταπεινοφροσύνη.** ESV "asceticism … asceticism … humility"; NASB95 "self-abasement … self-abasement … humility". The congregation will not hear that the false "humility" and the true one are the same word (Echo 18).
 - **2:18 / 3:15 — καταβραβεύω / βραβεύω.** ESV "disqualify" / "rule"; the umpire image is lost (Echo 17).
 - **3:22–4:1 — δοῦλος.** ESV "bondservants"; NASB95 "slaves". It is one word; see Trap 4.
 - **1:7, 1:12, 3:4, 3:6.** Textual, not translational: see the variants above. The ESV follows NA28's printed text at 1:7, 1:12 and 3:4, and drops NA28's bracketed words at 3:6.
 
-**The KJV follows the majority text** at 1:14, 3:13 ("Christ"), 3:15 ("God"), 3:16 ("to the Lord"), 3:22 ("fearing God"), 3:24 ("for"), 4:8 ("your estate") and 4:15 ("Nymphas … his house"). A congregation with older Bibles will hear these.
+**The KJV follows the majority text** at 1:14, 3:13 ("Christ"), 3:15 ("God"), 3:16 ("to the Lord"), 3:22 ("fearing God"), 3:24 ("for"), 4:8 ("your estate") and 4:15 ("Nymphas … his house"). A congregation with older Bibles will hear these. **v1.2:** all are now checked against the filed KJV and Clementine Vulgate of the whole letter. The KJV also has "made us meet" (1:12), "you … you" (2:13), "seeing that" (3:9, causal) and "not in any honour" (2:23) `[S: Logos 5]`.
 
 ---
 
@@ -832,31 +942,32 @@ These are notes for the preacher about what the congregation will hear, not tran
 
 | Verses | Working title | Weight | Dig |
 |--------|---------------|--------|-----|
-| 1:1–14 | Thanks, prayer and the transfer of kingdoms | Standard | v1.1 |
-| 1:15–20 | The image, the firstborn, the fullness | ⭐ HIGH | done |
-| 1:21–23 | Reconciled — if you continue | Standard | v1.0 |
-| 1:24–2:5 | The mystery, which is Christ | ⭐ HIGH (1:24; the 2:2 reading) | done |
-| 2:6–15 | Filled in him: circumcised, buried, raised, forgiven | ⭐ HIGH | done |
-| 2:16–23 | Shadow and substance; rules that cannot save | ⭐ HIGH | done |
-| 3:1–4 | Hidden with Christ | Standard (⭐ if preached as the hinge of the letter) | v1.1 |
-| 3:5–11 | Put off the old self | Standard | v1.0 |
-| 3:12–17 | Put on: love, peace, word, thanks | Standard | v1.1 |
-| 3:18–4:1 | The household under the Lord | ⭐ HIGH (pastoral landmine) | v1.3 |
-| 4:2–6 | Prayer and an open door | Standard | v1.1 |
-| 4:7–18 | Names on the road | Standard | v1.0 |
+| 1:1–14 | Thanks, prayer and the transfer of kingdoms | Standard | v1.3 |
+| 1:15–20 | The image, the firstborn, the fullness | ⭐ HIGH | v1.8 |
+| 1:21–23 | Reconciled — if you continue | Standard | v1.1 |
+| 1:24–2:5 | The mystery, which is Christ | ⭐ HIGH (1:24; the 2:2 reading) | v1.8 |
+| 2:6–15 | Filled in him: circumcised, buried, raised, forgiven | ⭐ HIGH | v1.8 |
+| 2:16–23 | Shadow and substance; rules that cannot save | ⭐ HIGH | v1.5 |
+| 3:1–4 | Hidden with Christ | Standard (⭐ if preached as the hinge of the letter) | v1.2 |
+| 3:5–11 | Put off the old self | Standard | v1.2 |
+| 3:12–17 | Put on: love, peace, word, thanks | Standard | v1.3 |
+| 3:18–4:1 | The household under the Lord | ⭐ HIGH (pastoral landmine) | v1.4 |
+| 4:2–6 | Prayer and an open door | Standard | v1.3 |
+| 4:7–18 | Names on the road | Standard | v1.2 |
 
 Natural units cross the chapter boundaries twice: 1:24–2:5 and 3:18–4:1. The versification is not the seam.
 
 **v1.0 — three notes** `[S: dig]`:
+
 - **1:1–14 ends mid-sentence:** the relative chain carries the thanksgiving into the confession (1:14/1:15).
 - **1:21–23 is a hinge:** preached alone, it should open with 1:19–20 and close by pointing to 1:24–25 and 2:6–8.
-- **4:7–18 is not an appendix:** its names carry 3:11 and the household code into persons. Seven of the overview's echoes land there, among them the slave Onesimus introduced with the founder's titles.
+- **4:7–18 is not an appendix:** its names carry 3:11 and the household code into persons. Seven of the overview's echoes land there, among them Onesimus, introduced with the founder's titles (that he is a slave comes from Philemon).
 
 ---
 
 ## Cross-Pericope Macro-Arguments
 
-*Twelve arguments that no single passage establishes but the twelve solo digs jointly show — the connective tissue of the series. Condensed here; the evidence-linked long form is `Colossians/colossians-dig-deeper-macro-synthesis.md` (31 October 2026). Confidence key: NT-authorised = high (none occurs, since the letter quotes no Old Testament text); converging text-first = strong; looser = moderate. Pericopes are numbered §1 (1:1–14) to §12 (4:7–18) in preaching-unit order.*
+*Twelve arguments that no single passage establishes but the twelve solo digs jointly show — the connective tissue of the series. Condensed here; the evidence-linked long form is `Colossians/colossians-dig-deeper-macro-synthesis.md` (v1.1, 4 November 2026). Confidence key: NT-authorised = high (none occurs, since the letter quotes no Old Testament text); converging text-first = strong; looser = moderate. Pericopes are numbered §1 (1:1–14) to §12 (4:7–18) in preaching-unit order.*
 
 | # | Argument | Anchor pericopes | Confidence |
 |---|----------|------------------|------------|
@@ -864,30 +975,78 @@ Natural units cross the chapter boundaries twice: 1:24–2:5 and 3:18–4:1. The
 | 2 | **Fullness and "in Him".** The πληρ- family ("fill, fullness") in nine verses from 1:9 to 4:17; all eight ἐν αὐτῷ ("in Him") in 1:16–2:15; "Christ is all" (3:11) taking up "all things" (1:16–20) | §1, §2, §4, §5, §8, §12 | strong |
 | 3 | **Gift before command.** In every movement the imperatives stand on aorists, perfects and passives of what God has done (1:12–13; 2:11–15; 3:1–4; 3:9–10, 12); the letter's own polemic against a regimen (2:20–23) becomes the rule for preaching its ethics | §1, §3, §5, §6, §7, §8, §9, §10 | strong |
 | 4 | **"With Christ".** Buried, raised and made alive with him (2:12–13); "if you died with Christ" / "if you were raised with Christ" (2:20; 3:1); hidden and revealed with him (3:3–4); the old self stripped off, as Christ stripped the powers (ἀπεκδύομαι, NT only 2:15; 3:9). Unlike Eph 2:6, believers are not seated | §5, §6, §7, §8 | strong |
-| 5 | **The seams are welded.** Each joint picks up a rare word from the passage before: 1:14/15; 1:20/21–22; 1:23/25; 2:5/6–7; 2:8/20, 22; 2:20/3:1; 3:2/5; 3:10/12; 3:17/23 ("whatever you do", NT only these two); 3:22–4:1/4:9 | §1–§10, §12 | strong (each weld); moderate (as a whole-letter design, not baselined) |
+| 5 | **Rare phrases repeated at a distance, not welded seams.** The letter's strong links run across a unit or more: 1:23/25; 2:8/20; 2:14/20; 2:15/3:9; 3:17/23. Measured, the joints themselves carry less rare vocabulary than an average cut point (0.27 shared words against 0.47; 89 % of random sets of cuts do as well, at lemmas in at most 50 NT verses) `[S: audit 5]`. A few joints are real links: 1:14/15; 1:20/21–22; 2:20/3:1 | §2–§10 | high (the named pairs: 1:23/25; 2:20/3:1; 3:17/23; ἀποκαταλλάσσω at 1:20, 22); **discarded as a design of seams** `[S: audit 5]`; distance repetition as a device is unmeasured, so *moderate* at most |
 | 6 | **Salvation in a body, on the earth.** "In the body of his flesh through death" (1:22, θάνατος, "death", only here); Paul's flesh for Christ's body (1:24); σῶμα ("body") three ways and set against σάρξ ("flesh", 2:17–23); "on earth" what Christ created and reconciled (1:16, 20; 3:2, 5) | §3, §4, §6, §7, §8 | strong |
 | 7 | **Israel's names for a Gentile church.** The saints and their lot (1:2, 12; *moderate–high* `[S: audit 4]`); a circumcision made without hands (2:11); "chosen, holy and beloved" (3:12); the inheritance given to slaves (3:24); "of the circumcision" among the fellow workers (4:11) | §1, §5, §9, §10, §12 | strong (pattern); moderate (each OT source) |
-| 8 | **Israel's Lord named as Christ.** The dwelling of Ps 67:17 LXX (1:19); "the fear of the Lord" to "the Lord Christ" (3:22–24, *moderate–high* `[S: audit 3]`); "as the Lord forgave you" (3:13, with 2:13); the virtues as God's and Christ's character (3:12); κύριος ("Lord, master") nine times in the household code | §2, §5, §9, §10 | strong (pattern); moderate to moderate–high (each instance) |
-| 9 | **The ministry handed to the church.** Teach and admonish "in all wisdom" (NT only 1:28; 3:16); thanks to the Father (1:3, 12 → 3:17); prayer returned (1:3, 9 → 4:2–3); "the word" → "your word", Paul's "must" and theirs (4:3–6); Epaphras prays the letter (4:12); Tychicus given Epaphras's titles (1:7 → 4:7) | §1, §4, §9, §11, §12 | strong (handing-over); moderate (the 1:24–2:5 / 4:2–18 frame `[S: audit 1]`) |
-| 10 | **"Christ is all" lived out in persons.** Circumcision 2:11 → 3:11 → 4:11; slave 3:11 → 3:22–4:1 → Onesimus, "faithful and beloved brother, one of you" (4:9); the superiors restrained, one impartial Lord over both (3:25; 4:1) | §5, §8, §10, §12 | strong |
+| 8 | **Israel's Lord named as Christ.** The dwelling of Ps 67:17 LXX (1:19, *moderate–high* `[S: audit 5]`); "the fear of the Lord" to "the Lord Christ" (3:22–24, *moderate–high* `[S: audit 3]`); "as the Lord forgave you" (3:13, with 2:13); the virtues as God's and Christ's character (3:12); κύριος ("Lord, master") nine times in the household code | §2, §5, §9, §10 | strong (pattern); moderate to moderate–high (each instance) |
+| 9 | **The ministry handed to the church.** Teach and admonish "in all wisdom" (NT only 1:28; 3:16); thanks to the Father (1:3, 12 → 3:17); prayer returned (1:3, 9 → 4:2–3); "the word" → "your word", Paul's "must" and theirs (4:3–6); Epaphras prays the letter (4:12); Tychicus given Epaphras's titles (1:7 → 4:7) | §1, §4, §9, §11, §12 | strong (handing-over); moderate (the frame, restated as 1:25–2:7 with 4:2–13 `[S: audit 5]`) |
+| 10 | **"Christ is all" lived out in persons.** Circumcision 2:11 → 3:11 → 4:11; slave 3:11 → 3:22–4:1 → Epaphras (4:12), and Onesimus, "faithful and beloved brother, one of you" (4:9), whom Philemon shows to be a slave; the superiors restrained, one impartial Lord over both (3:25; 4:1) | §5, §8, §10, §12 | strong |
 | 11 | **The rival's words answered.** The false umpire and the true (καταβραβεύω / βραβεύω, "disqualify" / "rule", 2:18; 3:15, *moderate–high*); ταπεινοφροσύνη ("self-abasement" → "humility", 2:18, 23; 3:12, *moderate*); λόγος with σοφία ("word" with "wisdom", 2:23; 3:16, *moderate*); δόγμα → δογματίζομαι ("decree" → "submit to decrees", 2:14 → 2:20) | §4, §5, §6, §9 | moderate (the whole of 3:12–16 as a designed reversal is low–moderate `[S: audit 2]`) |
-| 12 | **How Colossians argues.** Internal repetition, not citation: every run found its yield in internal echo; the Echo Table grew from 23 to 70 rows while the Intertextual Map lost seventeen proposals; Ephesian clusters in seven of the twelve passages; exclusive wording contacts held through four audits, while designs and fields needed reframing | all twelve | strong (measured) |
+| 12 | **How Colossians argues.** Internal repetition, not citation: every run found its yield in internal echo; the Echo Table grew from 23 to 73 rows while the Intertextual Map lost seventeen proposals; Ephesian clusters in seven of the twelve passages; exclusive wording contacts held through five audits, while designs and fields needed reframing | all twelve | strong (measured) |
 
 **Candidates, not yet macro:**
-- the exodus redemption — §1 only;
+
+- the exodus redemption — §1 only (moderate, anchored in Exod 6:6–8 `[S: audit 5]`);
 - the Davidic king — §1–§2;
 - the mystery thread — the words recur in three passages, but the design is low–moderate `[S: audit 1]`;
-- the dwelling chain (1:19; 2:9; 3:16) — 2:9 is mediated by 1:19; a target for audit 5;
+- the indwelling thread (1:19; 2:9 → 3:16) — high on 1:19 and 2:9 as repetition, low at 3:16 as temple `[S: audit 5]`;
 - Daniel 2 — §4 only;
-- the Lukan affinities — §1 only.
+- the Lukan conversion idiom — §1 only (1:12–14, moderate–high); low as a description of the letter `[S: audit 5]`.
 
 **This book launches no Old Testament programme**, and no argument is NT-authorised in the strict sense.
 
-**For the series as a whole:** Colossians makes one claim — all the fullness of God is in Christ, and in him you have been filled — and makes it before the warning, so that nothing is left for a philosophy, a regimen or a power to add. The life that follows is union, not achievement. The letter welds each passage to the last, refuses both escape from the body and war on it, gives Gentiles Israel's names, and gives Christ the LORD's place. It ends by handing its own ministry to the church and showing its theology in named people. The preacher's discipline follows from the letter itself:
+**For the series as a whole:** Colossians makes one claim — all the fullness of God is in Christ, and in him you have been filled — and makes it before the warning, so that nothing is left for a philosophy, a regimen or a power to add. The life that follows is union, not achievement. It repeats its rare phrases across its units, refuses both escape from the body and war on it, gives Gentiles Israel's names, and gives Christ the LORD's place. It ends by handing its own ministry to the church and showing its theology in named people. The preacher's discipline follows from the letter itself:
+
 - preach the ground as long as the command;
-- read the last verse of the previous unit first;
+- where a real link runs (1:14/15; 1:20/21; 2:20/3:1), read the last verse of the previous unit first;
 - supply the repeated Greek words the English hides;
 - leave out the Old Testament allusions the letter does not make.
+
+---
+
+## What Changed in v1.2
+
+This Finalise carries the propagation table and the ten recommended revisions of claim audit 5 (C61–C72), and the items Logos round 5 and its follow-up set aside for the overview. The audit's verdicts are accepted as settled. **In one line: the overview's design claims mostly failed the chance baseline, and its exclusive wording contacts held.**
+
+**Audit 5's ten revisions — all adopted, with three adjustments noted below:**
+
+| # | Section | Change |
+|---|---|---|
+| 1 | Presenting Situation, "The letter's idiom" | "Conversion and mission idiom he shares with Luke" becomes the Lukan conversion idiom of 1:12–14; the letter as a whole is the least Lukan of the thirteen |
+| 2 | Row 16 | Anchored in Exod 6:6–8 and raised to *moderate*; Ps 106 LXX removed; ῥύομαι stated not to be an exodus marker |
+| 3 | Row 13 | The "portion and lot" formula added, with the reversed direction of Deut 9 |
+| 4 | Echo 31 | Restated: two indicative statements; not 3:13; Paul's habit; *low–moderate* as Colossian design |
+| 5 | Echo 59 | Restated as a speech-word cluster with ἐν χάριτι; the Ephesians sequence noted |
+| 6 | Arc Map, the frame | Restated as 1:25–2:7 with 4:2–13; θέλημα from 1:9; Romans thematic only |
+| 7 | Arc Map, 3:12–17 | "More than any other unit" removed (*low*); restated at *moderate*; not 1:15–20 |
+| 8 | Macro-argument 5 | "Welded seams" discarded as a design; distance echoes and the preaching payoff kept |
+| 9 | Candidates | The dwelling chain restated as an indwelling thread; 1:19 / Ps 67:17 at *moderate–high* |
+| 10 | Scan note | The blindness at 1:12–14; δεῖ under δέω; Rom 16:25–27 missing from the corpus's SBLGNT layer (Colophon) |
+
+**From Logos round 5 and its follow-up:**
+
+- **Presenting Situation:** authorship, place and date now have holders from the owned commentaries, with Dunn placed among those holding a Pauline letter through a secretary.
+- **Trap 6:** the qualifier on εἴ γε.
+- **Recorded fields:** Philo's Greek (concept, not wording); the deportations at 1:13; the Psalter titles' dependence on the edition.
+- **History rows:** added for audit 4's claims; none moves a rating.
+- **Pulpit Notes and The Text:** 1:22 (subject open); 2:23 (a lean to "not in any honour"); 3:16; 3:6; 3:24; 1:7; 4:8; and the Vulgate and KJV now checked throughout.
+
+**Adjudicated here — where this pass departs from, or adds to, what it was handed:**
+
+| Point | What it was handed | What this pass did, and why |
+|---|---|---|
+| σύνδεσμος ("bond") at 2:19 → 3:14 | Audit 5 (C66, C78) calls it re-valued with ταπεινοφροσύνη | **Not followed.** The word is not pejorative at 2:19, and audit 2 calls the link a continuation (Echo 44). Left to C78 |
+| Distance echo as "the letter's real linking device" | Audit 5, and the 2:6–15 dig's patch | **Capped at *moderate*.** The pairs are verified, but no baseline was run on distance echo as a device, so the rule for design claims applies |
+| "ὃ ἐὰν ποιῆτε, NT only these two" (Echo 64) | Audits 3 and 5 | **Corrected.** 3:17 reads ὅ τι ἐὰν ποιῆτε and 3:23 ὃ ἐὰν ποιῆτε. The exclusivity holds for a relative with ἐὰν ποιῆτε, not for one identical phrase |
+| Luke 1:79 "repeats Ps 106:10 exactly" | Audit 5 | **Corrected.** The words are the same, but the participle has moved and its case differs |
+| The moralism check quoted "of no value against fleshly indulgence" as `[T]` | v1.1 | **Corrected.** After Logos round 5 that wording is one reading of a disputed clause. The point is restated at `[I]`, *high*, on what every reading shares |
+| The slave Onesimus | v1.1 tagged "the slave Onesimus" `[T]`, and "a runaway's master" | **Corrected** after audit 5: Colossians never calls him a slave. Trap 4, Echo 65, macro-argument 10 and the Handoff are reworded. "Runaway" is marked as a reconstruction |
+
+**Formatting:** 52 lists that ran into the paragraph above them in the .odt and .html (the .md read correctly) now render as lists. No wording changed.
+
+**Unchanged:** the microscript, the movements, the keynote, the preaching units and their weightings. Audit 5 tested the letter's architecture, not its argument, and nothing it found touches these.
+
+**The 1:21–23 dig's 1:22 verdict** moved on commentators' evidence, and the assessment itself says an auditor could fairly ask whether "open" over-corrects. It is carried here as stated, not as settled.
 
 ---
 
@@ -904,6 +1063,7 @@ Natural units cross the chapter boundaries twice: 1:24–2:5 and 3:18–4:1. The
 This Finalise carries the twelve digs' Book-Overview Tensions, the propagation tables of claim audits 1–4, and the book-level material of Logos rounds 2–4 (round 1 was applied in v0.1.1). Every tension was adjudicated as follows; the full worklist is in `_audit/finalise-v1/worklist.md`.
 
 **Adopted.**
+
 - **Canonical Position.**
   - The Ephesians parallel is now letter-wide and measured (clusters in seven passages).
   - The Philemon handoff is strengthened.
@@ -943,6 +1103,7 @@ This Finalise carries the twelve digs' Book-Overview Tensions, the propagation t
 - **Preaching Units.** Three notes added; the weightings are unchanged.
 
 **Not adopted.** Each was rejected by an audit or by the gate:
+
 - the 1:15–20 dig's ἀόρατος note at Gen 1:2;
 - Isa 45 as a live source;
 - the Isa 29:13 → 29:14 sequence;
@@ -959,26 +1120,30 @@ This Finalise carries the twelve digs' Book-Overview Tensions, the propagation t
 
 ## Colophon
 
-**Version:** 1.1 · **Date:** 31 October 2026 (Draft 19 October 2026; v0.1.1, 21 October 2026; v1.0 the same day) · **Mode:** Finalise, with the macro-synthesis added
+**Version:** 1.2 · **Date:** 4 November 2026 (Draft 19 October 2026; v0.1.1, 21 October 2026; v1.0 and v1.1, 31 October 2026) · **Mode:** Finalise
 
 **Sources consulted:**
-- **The twelve Colossians digs:** 1:1–14 v1.1; 1:15–20; 1:21–23 v1.0; 1:24–2:5; 2:6–15; 2:16–23; 3:1–4 v1.1; 3:5–11 v1.0; 3:12–17 v1.1; 3:18–4:1 v1.3; 4:2–6 v1.1; 4:7–18 v1.0 — each at its latest version.
-- **Claim audits 1–4**, 21–31 October 2026, covering C1–C58.
-- **Patrick's Logos rounds 1–4**, 21–29 October 2026, with their assessments. Works marked *not owned* reached him through the Study Assistant's search, not from his library.
+
+- **The twelve Colossians digs:** 1:1–14 v1.3; 1:15–20 v1.8; 1:21–23 v1.1; 1:24–2:5 v1.8; 2:6–15 v1.8; 2:16–23 v1.5; 3:1–4 v1.2; 3:5–11 v1.2; 3:12–17 v1.3; 3:18–4:1 v1.4; 4:2–6 v1.3; 4:7–18 v1.2.
+- **Claim audits 1–5**, 21 October – 4 November 2026, covering C1–C72.
+- **Patrick's Logos rounds 1–5**, 21 October – 4 November 2026, with their assessments and the round-5 follow-up. Works marked *not owned* reached him through the Study Assistant's search, not from his library.
 - The Philemon overview, for the handoff.
 - No commentary was opened directly in this run.
 
-**Warrant counts (v1.0):** `[T]` 76 · `[I]` 34 · `[S]` 12 · `[S: dig]` 49 · `[S: audit 1–4]` 104 · `[S: Logos 1–4]` 34 (with 11 split `[T]`/`[I]` tags). In v0.1.1 the external `[S]` tags were mostly recalled scholarship; they are now chiefly runs and audits.
+**Warrant counts (v1.2, counted by search on this file):** `[T]` 82 · `[I]` 40 · `[S]` 14 · `[S: dig]` 49 · `[S: audit 1–5]` 141 · `[S: Logos 1–5]` 68 (with 12 split `[T]`/`[I]` tags). In v0.1.1 the external `[S]` tags were mostly recalled scholarship; they are now chiefly runs and audits.
 
 **Primary texts opened:**
+
 - NA28 (Logos export) with its full apparatus, read first;
 - SBLGNT with its word index (all 27 NT books);
 - Swete's LXX (the whole corpus);
 - the Rahlfs exports, where a row rests on the LXX wording;
 - the WLC, for the Hebrew checks;
-- NASB95 and ESV (Logos exports; the ESV export is the US edition).
+- NASB95 and ESV (Logos exports). **The ESV export is the US edition, so every ESV wording in the Pulpit Notes needs checking against the ESV (Anglicised), which is on pre-order;**
+- the Clementine Vulgate and the KJV of the whole letter, Chrysostom's Homilies VI–VII in the NPNF English, and Colson's Philo (the three page scans), all filed in Logos round 5.
 
 **Chains verified (Draft):** about ninety lemmas were counted in the letter, and every chain in the Arc Map, Microscript and Echo Table was checked by lemma against the SBLGNT word index. About fifty NT-wide counts were made from the SBLGNT index. **Positive controls:**
+
 - The first exact-form lemma searches for ποτέ ("formerly") and δογματίζω ("to submit to decrees") returned nothing. Accent-insensitive re-searches returned ποτέ at 1:21 and 3:7, and the index files the verb at 2:20 under δογματίζομαι. The first results were a search fault, not an absence.
 - The first count of πρωτότοκος ("firstborn") in the Psalms returned none because the hit list had been cut short. The full list gave five verses in the Psalms, with two more in the Psalms of Solomon.
 - The first search for περιτέμνω ("to circumcise") with "heart" returned nothing, because the LXX writes σκληροκαρδία ("hardness of heart") as one word.
@@ -986,40 +1151,67 @@ This Finalise carries the twelve digs' Book-Overview Tensions, the propagation t
 The LXX counts are floors on word-beginnings.
 
 **Chains verified (v1.0 gate):**
+
 - **Echo rows:** all 47 added rows, and the amendments to rows 9, 11, 12, 20 and 23, were re-verified by lemma at every reference: 61 chains, none failing (SBLGNT).
 - **Exclusivity claims re-run on the letter:** σύνεσις ("understanding"), ἐνέργεια ("working"), ζάω ("live"), ὀργή ("wrath"), μακροθυμία ("patience"), βασιλεία ("kingdom") and παρακαλέω ("encourage") each in two verses; κτίσις ("creation") in two; νεκρός ("dead"), ἐλπίς ("hope"), γνωρίζω ("make known"), ἔργον ("work"), βλέπω ("see") and κόσμος ("world") each in three; γῆ ("earth") in four; χάρις ("grace") in five (1:2, 6; 3:16; 4:6, 18). All held.
 - **A correction made at the gate:** δόξα ("glory") stands at 1:11 as well as at 1:27 and 3:4. Row 41 claims the 1:27 → 3:4 link only, not exclusivity.
 - **Further checks:** κύριος in the household code — nine occurrences in six verses (3:18, 20, 22, 23, 24; 4:1), sixteen in the letter. χαίρω ("rejoice") at 1:24 and 2:5 only. θάνατος ("death") at 1:22 only. Isa 29:13 (Swete) against Col 2:22: the noun order is kept and "of men" is moved.
 
-**The density scan:** the NT mode was run once per chapter (Col 1–4) against all 1,259 Swete chapters; the top ten of each stability table are accounted for in the Intertextual Map. **Known limits:**
+**Chains verified (v1.2 gate):** re-run for this Finalise on the SBLGNT index, with a positive control first (κατοικέω at 1:19 and 2:9):
+
+- μερίς + κλῆρος: Acts 8:21 and Col 1:12 only;
+- ἡ ἐξουσία τοῦ σκότους, by ordered phrase: Luke 22:53 and Col 1:13 only;
+- μυστήριον + φανερόω within two verses: Col 1:26–27, Col 4:3–4 and 1 Tim 3:16 only;
+- ἐν χάριτι, by ordered phrase: seven verses, including 3:16 and 4:6;
+- δεῖ, by form: 4:4 and 4:6 only;
+- λόγος: seven verses of the letter, none in 3:8–9;
+- θέλημα: 1:1, 1:9, 4:12, so not in 1:24–2:5;
+- δοῦλος: 3:11, 3:22, 4:1, 4:12, so not at 4:9;
+- τέλειος and ἀγωνίζομαι: 1:28 and 1:29 respectively, each with 4:12;
+- ἐνοικέω: Rom 8:11; 2 Cor 6:16; Col 3:16; 2 Tim 1:5, 14;
+- ἀποκαταλλάσσω: Col 1:20, 22; Eph 2:16;
+- κατενώπιον: Eph 1:4; Col 1:22; Jude 24;
+- εἴ γε: five verses;
+- first-person plurals in the letter: inclusive only at 1:13–14 and 2:13–14, as audit 5 reports.
+
+In Swete, read directly: Ps 67:17; Exod 6:6, 8; Exod 10:23; Deut 9:26, 29; 10:9; Isa 42:7, 16; Ps 106:6, 10, 14, 20; Wis 18:1. **Two shape claims failed this gate** and are corrected above (Echo 64; Luke 1:79). Audit 5's baselines are accepted as settled, not re-run.
+
+
+**The density scan:** not re-run for v1.2, because its input has not changed. In v1.0 the NT mode was run once per chapter (Col 1–4) against all 1,259 Swete chapters; the top ten of each stability table are accounted for in the Intertextual Map. **Known limits:**
+
 - the general null — a median rank of 2 or better for 67–83 % of random Pauline passages `[S: audit 4]`;
 - the long verses of Swete's Esther Additions;
 - the Maccabean default field `[S: audit 2]`;
 - silent stem floors (μεθίστημι; the ῥύομαι aorists and futures; oblique φῶς; δέω) `[S: audit 4]`.
+- *v1.2:* the near-blindness at 1:12–14; δεῖ filed under δέω in the SBLGNT index, so it must be counted by form; the corpus's SBLGNT layer lacks Rom 16:25–27, so any frame test of Romans misses its μυστήριον and φανερόω; Swete prints Esther's Addition C as bracketed sub-verses inside 4:17, so Rahlfs's lettered references cannot be checked from the corpus `[S: audit 5]`.
 
 **Comparison of editions:** NA28 and the SBLGNT compared word by word in all 95 verses — six differences in the wording, plus the two punctuation differences at 3:16.
 
-**The claim audits' pattern, across four rounds:**
+**The claim audits' pattern, across five rounds:**
+
 - every single exclusive *wording* contact held where it was counted correctly;
 - most rarity "only"s and "most stable partner" claims needed correcting;
 - field and design claims mostly needed reframing.
 
 This overview's ratings follow that pattern.
 
-**First targets for claim audit 5:** design proposals in v1.0 and the open queue.
-1. The personal frame 1:24–2:5 / 4:2–18 (*moderate*).
-2. 3:12–17 as the summary of church life (*moderate*).
-3. Echo row 31, the "you" → "us" design (*moderate–high*).
-4. Echo row 59, the speech chain as design (*moderate*).
-5. The Lukan affinities (*moderate*).
-6. Row 16, the exodus redemption pattern (*moderate*).
-7. Queue C61–C63 (Ps 106 LXX; Deut 9:26–29; Luke 1:68–79).
-8. *v1.1:* macro-argument 5 as a whole-letter design (the welded seams), and the dwelling chain (1:19; 2:9; 3:16), both from the macro-synthesis.
+**Claim audit 5 is done** (4 November 2026), and every target named in v1.0 and v1.1 was tested. **The queue for a sixth audit holds seven unaudited candidates**, and by Patrick's rule of about ten it is not yet due:
+
+- C73, ἡ ἐξουσία τοῦ σκότους, Luke 22:53 at 1:13;
+- C74, the "portion and lot" formula at 1:12;
+- C75, the darkness plague (Exod 10:23; Wis 18:1–9) at 1:12–13;
+- C76, Esther's Addition C at 1:12–14;
+- C77, μυστήριον + φανερόω at 1:26–27 and 4:3–4;
+- C78, the re-valued ταπεινοφροσύνη, and whether σύνδεσμος belongs with it;
+- C79, Wis 1:4 at 2:9, 14.
+
+**This pass adds one target:** distance repetition as the letter's device (macro-argument 5), which has no baseline.
 
 **Still owed:**
-- **Logos round 5** — history of interpretation for C44–C58 (eleven questions, listed in claim audit 4).
-- **A commentator-only question on authorship, place and date**: round 4 did not return it.
-- **Rahlfs checks** for the Wisdom, Sirach and Maccabees rows, which rest on Swete alone.
-- ~~The macro-synthesis~~ — done in v1.1 (31 October 2026).
 
-**Health note:** finalised, sweep-confirmed and audit-governed. The overview's internal threads (fullness; "in Him"; the mystery thread; put off and put on) were confirmed by every dig. The intertextual map ended thinner and better rated than it began: one new row, one restated as an idiom, one raised, and seventeen proposals set aside. The echo table roughly trebled. Most of the `[S]` tags are now runs and audits rather than recalled scholarship, which is what a finalised overview should look like.
+- **Dunn, p. 40:** his place of writing. BDAG s.v. τιμή (not owned): the one check that could restore "of no value" at 2:23. Bird on 3:9–10 (unconfirmed). 1 Enoch 102:5, which Swete's 1 Enoch does not reach.
+- **The ESV (Anglicised)**, when it arrives: re-check the Pulpit Notes.
+- **Rahlfs checks** for the Wisdom, Sirach, Maccabees, Exodus and Esther rows, which rest on Swete alone.
+- **Beale's BECNT:** marked *not owned* in round 4, yet Patrick's round-5 notes come from it. Its status needs settling.
+
+**Health note:** finalised, sweep-confirmed and audit-governed through five audits. The overview's internal threads (fullness; "in Him"; the mystery thread; put off and put on) were confirmed by every dig. Audit 5 tested the overview's own architecture and took most of it down to size: the seams discarded, the summary unit and the Lukan affinities restricted, the frame kept at *moderate* in narrower terms. What rose is one anchor (Exod 6:6–8) and one local idiom (the Lukan idiom of 1:12–14). **The text-first count of what this letter does stays what it was: it argues by its own repeated words**, and the design language around those words is now better measured and more modest. Two limits remain on the pulpit side: the ESV wordings are from the US edition, and the 2:23 and 1:22 changes run against most of the commentators or rest on them, so both are flagged as open.

@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus (`12-Colossians-NA28-apparatus.txt`); SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament (Old Greek and Theodotion texts of Daniel)\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026; see *Revision v1.1*)\
+**Date:** 31 October 2026 · **Version:** 1.3 (4 November 2026: claim audit 5 applied — see *Claim audit 5 (v1.3)*; earlier: claim audit 4 applied, 31 October 2026; Patrick's fifth Logos round, 4 November 2026; see *Revision v1.1* and *v1.2*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 4:2–6, "Prayer and an open door" (Standard). Twelfth Colossians dig; it follows the 3:12–17 dig of the same day and the earlier 3:18–4:1 dig, and precedes the undug 4:7–18
 
@@ -192,19 +192,19 @@ Prose, with parallel constructions `[T]`:
 
 3. **4:3 — λαλῆσαι … λαλῆσαι (4:3–4).** ESV "to **declare** the mystery … how I ought to **speak**"; NASB95 "**speak** forth … I ought to **speak**" `[T]`. **The ESV uses two English verbs for one Greek verb, hiding the inclusio** (Tool 5).
 
-4. **4:3 — δι᾽ ὃ καὶ δέδεμαι.** ESV "on account of which I am in prison"; NASB95 "for which I have also been imprisoned"; KJV "for which I am also in bonds" *(KJV from recall)* `[T]`. The ESV drops καί ("also") `[T]`. Only the KJV keeps the binding image `[I]`.
+4. **4:3 — δι᾽ ὃ καὶ δέδεμαι.** ESV "on account of which I am in prison"; NASB95 "for which I have also been imprisoned"; KJV "for which I am also in bonds" *(KJV verified, v1.2)* `[T]`. The ESV drops καί ("also") `[T]`. Only the KJV keeps the binding image `[I]`.
 
 5. **4:4 — ὡς δεῖ με λαλῆσαι.** ESV "that I may make it clear, **which is how I ought to speak**"; NASB95 "that I may make it clear **in the way I ought to speak**" `[T]`. The ESV's relative clause reads as a comment ("clarity is my duty"); the NASB95 as manner — the Greek ὡς is manner `[I]`, moderate. Both render φανερώσω "make it clear", losing the "manifest" chain of 1:26 and 3:4 (ESV "revealed … appears … appear"; NASB95 "manifested … revealed … revealed") `[T]` — the 1:24–2:5 dig made the same point `[S: dig]`.
 
 6. **4:5 — περιπατεῖτε.** ESV "**Walk** in wisdom"; NASB95 "**Conduct yourselves** with wisdom" `[T]`. **Here the pulpit text is closer: the ESV keeps the fourth link of the letter's "walk" chain (1:10; 2:6; 3:7; 4:5), which the NASB95 loses** `[I]`.
 
-7. **4:5 — τὸν καιρὸν ἐξαγοραζόμενοι.** ESV "making the best use of the time"; NASB95 "making the most of the opportunity"; KJV "redeeming the time" *(from recall)* `[T]` for the moderns. The NASB95's "opportunity" catches καιρός; the ESV's "time" is broader `[I]`. Neither keeps the commercial verb `[T]`.
+7. **4:5 — τὸν καιρὸν ἐξαγοραζόμενοι.** ESV "making the best use of the time"; NASB95 "making the most of the opportunity"; KJV "redeeming the time" *(verified, v1.2)* `[T]` for the moderns. The NASB95's "opportunity" catches καιρός; the ESV's "time" is broader `[I]`. Neither keeps the commercial verb `[T]`.
 
 8. **4:6 — ὁ λόγος ὑμῶν … ἐν χάριτι.** ESV "Let your **speech** always be **gracious**"; NASB95 "Let your **speech** always be **with grace**" `[T]`. Both lose "word" (λόγος) and so the link to "the word" of 4:3 and 3:16 (Headline 3); the ESV's "gracious" also loses the noun χάρις shared with 3:16 and 1:6 `[I]`. The NASB95's "as though" before "seasoned" is supplied `[T]`.
 
 9. **4:6 — πῶς δεῖ.** ESV "how you **ought** to answer" (and 4:4 "how I **ought** to speak"); NASB95 "how you **should** respond" (and 4:4 "I **ought** to speak") `[T]`. **The ESV keeps the δεῖ parallel between Paul and the church; the NASB95 breaks it** `[I]`.
 
-**Ancient versions check.** The Vulgate's *tempus redimentes* (4:5) gave the KJV "redeeming the time" *(from recall — moderate confidence)* `[unverified — check wording]`. No translation-tradition split on the substance.
+**Ancient versions check.** The Vulgate's *tempus redimentes* (4:5) gave the KJV "redeeming the time" *(verified, v1.2)* `[T]`. No translation-tradition split on the substance.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. It serves this passage well in three places — "watchful" (Gethsemane), "walk" (the letter's chain), and "ought … ought" (the parallel of 4:4 and 4:6). Bearing on the findings: **(a)** "declare … speak" hides one verb — say "speak" both times; **(b)** "speech" (4:6) hides "word" — say "your word"; **(c)** "gracious" hides "grace"; **(d)** "make it clear" hides "manifest" (1:26). **Edition check:** no word here has a known Anglicised variant; read from the pew Bible before preaching `[I]`.
 
@@ -553,13 +553,13 @@ Start where the passage starts — prayer — and do not reduce 4:5–6 to a met
 
 ## Open Questions / Uncertainties
 
-1. **ἐξαγοράζομαι τὸν καιρόν** — "buying up" (moderate–high) against "redeeming from evil". *For Logos:* BDAG; Dunn (NIGTC); Pao (ZECNT); any commentator on Dan 2:8 and Col 4:5.
-2. **Daniel 2 at 4:2–5 (C57)** — **closed by claim audit 4:** field low; verb low–moderate; secular-idiom question flagged for research. *For Logos:* whether any commentator links Col 4:5 to Dan 2:8 (and Beale on Daniel 2 in Colossians).
-3. **The Jesus-tradition cluster (C58)** — **closed by claim audit 4:** discarded (baseline 25 %).
+1. **ἐξαγοράζομαι τὸν καιρόν** — "buying up" (moderate–high) against "redeeming from evil". *For Logos:* BDAG; Dunn (NIGTC); Pao (ZECNT); any commentator on Dan 2:8 and Col 4:5. **v1.2** `[S: Logos 5]`: "buying up" — Wright (TNTC, 157: "snapped up like a bargain", not that time is evil and must be redeemed), Pao (296: "buying out", with no theological redemption here; Eph 5:16), Dunn (265: "gain or reclaim time"); "redeeming" — Osborne (133, with Gal 3:13; 4:4–5). *Moderate–high for "buying up"; unchanged, now with owned holders.* **Follow-up (pasted, 4 November)** `[S: Logos 5]`: LSJ (580): "buy up" is a non-biblical sense (Plutarch, *Crassus* 2). The middle with τὸν καιρόν is cited only from Col 4:5 and Eph 5:16, "but" the active at Dan 2:8; both Greek texts of Dan 2:8 have ἐξαγοράζετε, and Col 4:5 the middle `[T]`. No non-biblical use of the phrase with καιρός is recorded.
+2. **Daniel 2 at 4:2–5 (C57)** — **closed by claim audit 4:** field low; verb low–moderate; secular-idiom question flagged for research. *For Logos:* whether any commentator links Col 4:5 to Dan 2:8 (and Beale on Daniel 2 in Colossians). **v1.2** `[S: Logos 5]`: Osborne, Pao and Dunn cite Dan 2:8 at 4:5. Dunn's "gain … time" carries Daniel's stalling sense toward Paul's without comment; Pao keeps them apart. *Audit ratings unchanged.* **Follow-up (pasted, 4 November)** `[S: Logos 5]`: LSJ marks the change of voice (active in Daniel, middle in Paul). Dan 2:8 stays the only Greek precedent for the phrase, in another voice and another sense.
+3. **The Jesus-tradition cluster (C58)** — **closed by claim audit 4:** discarded (baseline 25 %). **v1.2** `[S: Logos 5]`: Dunn (262: Gethsemane "may" be echoed; with Moule, Houlden, Caird) and Pao (Mark 14:38). A commentary commonplace; it does not revive the cluster, which failed its baseline.
 4. **"Seasoned with salt"** — the image's sense; Greek idiom for wit `[S]` not checked in sources.
 5. **The two ἵνα clauses (4:3–4)** — relation moderate.
 6. **Scope of γρηγορέω** — prayer only, or eschatological as well; moderate–high for both.
-7. **The KJV and Vulgate wording** — from recall, not checked in the corpus.
+7. **The KJV and Vulgate wording** — from recall, not checked in the corpus. **Closed (v1.2):** verified against the whole KJV and Vulgate, now filed `[T]`.
 
 **Closed by the corpus in this run:** whether ἐξαγοράζω occurs in the Greek OT — **yes, only at Dan 2:8 in both Greek texts, with καιρόν**. Whether ὡς δεῖ με λαλῆσαι occurs outside Colossians — **only Eph 6:20**. Whether salt and seasoning stand together elsewhere in the NT — **only Mark 9:50 and Luke 14:34**. The scan's δεω stem fault — **identified** (δέω/δεῖ appear in Swete under other stems).
 
@@ -608,3 +608,32 @@ Health note: text-driven; the `[S]` tags mark the overview's lines, the claim au
 ---
 
 *Dig Deeper: Colossians 4:2–6, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.2 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.1 | v1.2 |
+|---|---|---|
+| Open Questions 1 (ἐξαγοράζομαι) | moderate–high for "buying up" | unchanged; Wright, Pao, Dunn; Osborne for "redeeming" |
+| Open Questions 2 (C57) | audit ratings | unchanged; three owned commentators cite Dan 2:8 |
+| Open Questions 3 (C58) | discarded | unchanged; Dunn and Pao hold the Gethsemane echo |
+| Tool 8; Ancient versions; Open Questions 7 | KJV and Vulgate recalled | **verified** |
+
+**Headlines:** unchanged.
+
+---
+
+## Claim audit 5 (v1.3)
+
+*Source: `Colossians/dig-deeper-colossians-claim-audit-5.md` (two blind auditors; results reproduced in the main session). This section governs the paragraphs above where they differ. Tag `[S: audit 5]`.*
+
+| Item | Before | After |
+|---|---|---|
+| The speech chain (C68) | high on words, moderate as design | unchanged in rating, **restated**: a speech-word cluster (3:8–9 → 3:16–17 → 4:3–4 → 4:6), with ἐν χάριτι (3:16; 4:6) its sharpest link; λόγος changes sense along it; 3:16–4:6 is denser in λόγος than about 96 % of 24-verse Pauline stretches, but Colossians as a whole runs at twice the Pauline rate; **Eph 4:29–6:20 has the same sequence**, so it is Paul's paraenetic pattern |
+| δεῖ ("must"), 4:4 and 4:6 | only two uses | confirmed **by form**; the lemma index files δεῖ under δέω with δέδεμαι ("I am bound", 4:3) — count by form |
+| μυστήριον + φανερόω (4:3–4) | — | with 1:26–27 the frame's sharpest strand (C77, queued) |
+
+**Headlines:** unchanged.

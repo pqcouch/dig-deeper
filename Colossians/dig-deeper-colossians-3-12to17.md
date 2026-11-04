@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus (`12-Colossians-NA28-apparatus.txt`); SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; nothing in these verses is known to differ in the Anglicised edition (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026; see *Revision v1.1*)\
+**Date:** 31 October 2026 · **Version:** 1.3 (4 November 2026: claim audit 5 applied — see *Claim audit 5 (v1.3)*; earlier: claim audit 4 applied, 31 October 2026; Patrick's fifth Logos round, 4 November 2026; see *Revision v1.1* and *v1.2*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The overview's unit 3:12–17, "Put on: love, peace, word, thanks" (Standard). Eleventh Colossians dig; it follows the 3:5–11 dig of the same day and precedes the already-dug 3:18–4:1
 
@@ -226,7 +226,7 @@ The letter's τέλειος at 1:28 and 4:12 favours completeness as the goal `[
 
 ### 8. Translations
 
-1. **3:12 — σπλάγχνα οἰκτιρμοῦ.** ESV "compassionate hearts"; NASB95 "a heart of compassion"; KJV "bowels of mercies" *(KJV from recall)* `[T]` for the moderns. Both moderns keep the sense. Neither can show the link to Philemon's σπλάγχνα (Phlm 7, 12, 20) `[I]`.
+1. **3:12 — σπλάγχνα οἰκτιρμοῦ.** ESV "compassionate hearts"; NASB95 "a heart of compassion"; KJV "bowels of mercies" *(KJV verified, v1.2)* `[T]` for the moderns. Both moderns keep the sense. Neither can show the link to Philemon's σπλάγχνα (Phlm 7, 12, 20) `[I]`.
 
 2. **3:12 — πραΰτης.** ESV "meekness"; NASB95 "gentleness" `[T]`. "Meekness" connects with Matt 5:5 and 11:29 in English. "Gentleness" is closer in modern usage `[I]`. No difference in substance.
 
@@ -244,9 +244,9 @@ The letter's τέλειος at 1:28 and 4:12 favours completeness as the goal `[
 
 9. **3:17 — word order.** ESV "giving thanks to God the Father through him"; NASB95 "giving thanks through Him to God the Father" `[T]`. The ESV follows the Greek order `[T]`.
 
-10. **3:13, 3:16, 3:17 in the KJV.** The KJV follows the majority readings: "even as Christ forgave you" (3:13), "singing with grace in your hearts to the Lord" (3:16), "giving thanks to God and the Father" (3:17) *(from recall — moderate confidence)* `[I]`. A congregation with older Bibles in hand will hear these differences.
+10. **3:13, 3:16, 3:17 in the KJV.** The KJV follows the majority readings: "even as Christ forgave you" (3:13), "singing with grace in your hearts to the Lord" (3:16), "giving thanks to God and the Father" (3:17) *(verified, v1.2)* `[T]`. The KJV also has "the peace **of God**" at 3:15 (θεοῦ, 𝔪) `[T]`. A congregation with older Bibles in hand will hear these differences.
 
-**Ancient versions check.** The moderns agree on the substance throughout. The Vulgate reads *verbum Christi habitet in vobis abundanter* at 3:16 *(from recall — moderate confidence)* `[unverified — check wording]`. No translation-tradition split is claimed.
+**Ancient versions check.** The moderns agree on the substance throughout. The Vulgate reads *verbum Christi habitet in vobis abundanter* at 3:16 *(verified, v1.2)* `[T]`. No translation-tradition split is claimed.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. On the findings:
 - **(a)** 3:12's "humility" will not sound like 2:18's "asceticism" — say that it is the same word.
@@ -663,15 +663,15 @@ Begin with the names (chosen, holy, beloved) and the forgiveness (3:13). The gar
 
 ## Open Questions / Uncertainties
 
-1. **"In all wisdom" — with the dwelling or the teaching?** NA28 and both versions: the teaching; SBLGNT: the dwelling. 1:28 favours the teaching. Moderate. *For Logos:* Moo (PNTC), Pao (ZECNT), Harris (EGGNT).
-2. **The songs — means of teaching (NASB95, SBLGNT) or what is sung (ESV, NA28)?** Moderate either way. *For Logos:* the same, and Dunn (NIGTC).
-3. **ἐν [τῇ] χάριτι — "with thankfulness", "in the grace", or "graciously"?** Moderate. *For Logos:* BDAG χάρις; Pao.
-4. **τῆς τελειότητος — the genitive's sense.** Moderate. *For Logos:* BDAG σύνδεσμος and τελειότης; Lightfoot.
-5. **3:15 — ἑνί ("one").** Moderate; NA28 prints it unbracketed against 𝔓⁴⁶ B. *For Logos:* Metzger, *Textual Commentary*.
+1. **"In all wisdom" — with the dwelling or the teaching?** NA28 and both versions: the teaching; SBLGNT: the dwelling. 1:28 favours the teaching. Moderate. *For Logos:* Moo (PNTC), Pao (ZECNT), Harris (EGGNT). **v1.2** `[S: Logos 5]`: with the teaching — Pao (ZECNT, 248–49, making this dig's 1:28 argument) and Wright (TNTC, 148–49, as summarised). Dunn was not returned. The KJV ("dwell in you richly in all wisdom; teaching") takes it with the dwelling `[T]`. *Moderate → moderate–high for the teaching.*
+2. **The songs — means of teaching (NASB95, SBLGNT) or what is sung (ESV, NA28)?** Moderate either way. *For Logos:* the same, and Dunn (NIGTC). **v1.2** `[S: Logos 5]`: the means of teaching — Pao (the datives; Eph 5:19; 1 Cor 14:26; with "singing" one would expect accusatives); Beale (BECNT, from Patrick's notes: "by means of … teaching and admonishing in OT psalms"); and the KJV ("teaching … in psalms … singing") `[T]`. Wright's position was the Assistant's inference, not quoted. *Slight lean to the means, moderate.* For the pulpit: the ESV punctuates the songs with the singing. **Follow-up (pasted, 4 November)** `[S: Logos 5]`: Pao's pages give four grounds: Eph 5:19; 1 Cor 14:26; the instrumental datives; and the parallel ἐν … participle structure (BDF §491). He allows that the songs are also sung ("To God, they are to sing these songs"). His nn. 50–51 name the holders: with the singing — Harris, Lohse, Schweizer, Sumney; with the teaching — Lightfoot, O'Brien, Barth–Blanke, MacDonald, Callow, Moo. *Unchanged.*
+3. **ἐν [τῇ] χάριτι — "with thankfulness", "in the grace", or "graciously"?** Moderate. *For Logos:* BDAG χάρις; Pao. **Follow-up (pasted, 4 November)** `[S: Logos 5]`: Pao (249–50): "with gratitude" — the thanksgiving frame (vv. 15, 17) and Paul's χάρις for thanks (Rom 6:17; 7:25; 1 Cor 10:30; 15:57; 2 Cor 2:14; 8:16; 9:15; 2 Tim 1:3). "Grace" (KJV; Lightfoot) is stronger if the article is read, and the article has strong support — 𝔓⁴⁶ א² B D* F G Ψ 6 1505 1739, as in the NA28 apparatus `[T]`. The ESV and NASB95 have "thankfulness" `[T]`. *Open → slight lean to "with thankfulness", moderate.*
+4. **τῆς τελειότητος — the genitive's sense.** Moderate. *For Logos:* BDAG σύνδεσμος and τελειότης; Lightfoot. **v1.2** `[S: Logos 5]`: Lange (70): the bond "which unites all the graces into completeness". Dunn's p. 130, as returned, is probably his comment on 2:2; Pao (244): love's "supreme significance". *Moderate; unchanged.*
+5. **3:15 — ἑνί ("one").** Moderate; NA28 prints it unbracketed against 𝔓⁴⁶ B. *For Logos:* Metzger, *Textual Commentary*. **v1.2:** not found in Patrick's library; Metzger is not owned. The Vulgate (*in uno corpore*) and the KJV ("in one body") include ἑνί ("one") `[T]`. *Moderate; unchanged.* Next: the *Lexham Textual Notes* (owned).
 6. **The word of Christ (3:16) in place of the Spirit-filling (Eph 5:18).** The parallel is `[T]`; what it means — that the Spirit fills by the word, or that the letters simply differ — is `[I]`, uncertain. Do not preach an equation.
-7. **The Psalter-titles observation (C56)** — **closed by claim audit 4:** observation moderate; "Psalms only" discarded.
-8. **Exodus 34:6 (C54) and Deuteronomy 7 (C55)** — **closed by claim audit 4:** Exod 34:6 field low–moderate, allusion low; Deut 7 idea moderate, specific text low–moderate.
-9. **KJV and Vulgate wording** — from recall.
+7. **The Psalter-titles observation (C56)** — **closed by claim audit 4:** observation moderate; "Psalms only" discarded. **v1.2** `[S: Logos 5]`: Beale (BECNT, from Patrick's notes) holds the titles reading — **in Rahlfs only**. Rahlfs has all three words in the titles of Pss 66 and 75; Swete's Vaticanus has them only in Ps 75 (66:1 reads ψαλμὸς τῷ Δαυείδ, "a psalm of David") `[T]`. Brown, Merkle (on Ephesians) and Exell take the words as overlapping; none argues for Psalms only. *Unchanged; state the edition when citing.*
+8. **Exodus 34:6 (C54) and Deuteronomy 7 (C55)** — **closed by claim audit 4:** Exod 34:6 field low–moderate, allusion low; Deut 7 idea moderate, specific text low–moderate. **v1.2** `[S: Logos 5]`: Exod 34:6 — Gurtner (BKBC, 604; owned), with Pss 24:6; 50:1; 102:4; 144:9 in the Greek numbering. Ps 144:9 LXX is Ps 145:9, and 144:8 LXX is the Exod 34:6 formula (οἰκτίρμων … μακρόθυμος, "compassionate … patient") `[T]`. Also Osborne (Rom 2:4). Deut 7 — Dunn (228: "the classic covenant text"; Isa 44:2 for "beloved"), Pao (240–41), Brown, Osborne (Deut 7:6; 14:2; 26:18–19). *Audit ratings unchanged; history recorded in claim audit 4 v1.1.*
+9. **KJV and Vulgate wording** — from recall. **Closed (v1.2):** all verified against the whole KJV and Vulgate, now filed `[T]`.
 10. **Esther 8 as a layout artefact** — inferred from Swete's verse numbering, not read through.
 
 **Closed by the corpus in this run:** whether 1:28 and 3:16 are the only NT verses joining teaching and admonishing in all wisdom — **yes** (reproduced from claim audit 2). Whether "the word of Christ" occurs elsewhere in the NT — **no** (all case forms searched). Whether ταπεινοφροσύνη is absent from Swete — **yes** (positive control: the cognate at Prov 29:23). Whether the LORD's character formula carries 3:12's vocabulary — **yes**, three of five virtues across Ps 144:8–9 and Exod 34:6 (after a spelling fault in the first search was caught and corrected).
@@ -724,3 +724,40 @@ Health note: text-driven; the `[S]` tags mark the overview's lines, the claim au
 ---
 
 *Dig Deeper: Colossians 3:12–17, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.2 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.1 | v1.2 |
+|---|---|---|
+| Open Questions 1 ("in all wisdom") | moderate | **moderate–high for the teaching** (Pao; Wright; NA28; 1:28) |
+| Open Questions 2 (the songs) | moderate either way | **slight lean to the means, moderate** (Pao; Beale's notes; the KJV) |
+| Open Questions 3 (ἐν [τῇ] χάριτι) | moderate, open | **slight lean to "with thankfulness", moderate** (Pao, pasted; follow-up) |
+| 3:16 ἐνοικείτω and the dwelling chain (follow-up) | — | Pao does not join 3:16 to 1:19 / 2:9. He compares Rom 8:11, 2 Cor 6:16 and 1 Cor 3:16 — two of them temple texts (2 Cor 6:16 has ἐνοικέω inside "we are the temple of the living God") `[T]`; the temple link at 3:16 is an inference `[I]`. Beale's *Temple*: no reference to 3:16. For claim audit 5 |
+| Open Questions 4 (the bond) | moderate | unchanged; Lange |
+| Open Questions 5 (ἑνί) | moderate | unchanged; not found; the Vulgate and KJV include it |
+| Open Questions 7 (C56) | observation moderate | unchanged; Beale holds it, **in Rahlfs only** |
+| Open Questions 8 (C54, C55) | audit ratings | unchanged; Gurtner reaches Ps 145 (as 144 LXX); four owned holders for Deut 7 |
+| Tool 8; Ancient versions; Open Questions 9 | KJV and Vulgate recalled | **verified**; KJV 3:15 "peace of God" added |
+
+**Library status:** owned and cited here — Dunn, Pao, Wright, Brown, Osborne, Gurtner (BKBC), Lange, Merkle (on Ephesians), Exell. Beale's BECNT from Patrick's own notes (marked not owned in round 4).
+
+**Headlines:** unchanged.
+
+---
+
+## Claim audit 5 (v1.3)
+
+*Source: `Colossians/dig-deeper-colossians-claim-audit-5.md` (two blind auditors; results reproduced in the main session). This section governs the paragraphs above where they differ. Tag `[S: audit 5]`.*
+
+| Item | Before | After |
+|---|---|---|
+| 3:12–17 as the summary of church life (C66) | moderate | **low** as "draws on more of the letter than any other unit" (it ranks 5th–7th of twelve; 1:24–2:5 and 2:6–15 reach further); **moderate** reframed: it gathers the opening prayer, Paul's ministry, the forgiveness of 2:13, the polemic and the putting-off, and is the last lexically integrated unit before the household code, which shares no rarer lemma with any other unit. **It does not reach 1:15–20** |
+| ταπεινοφροσύνη ("humility") and σύνδεσμος ("bond") | — | condemned or used in the polemic (2:18, 23; 2:19) and commended here (3:12, 14): a deliberate re-valuation (C78, queued, moderate–high) |
+| ἐν χάριτι (3:16; 4:6) | — | the speech thread's most specific link (seven NT verses). If 3:16 is "with thankfulness" (v1.2) and 4:6 "gracious", the link is a play on χάρις, not one sense carried through `[I]` |
+| 3:16 and the dwelling chain (C72) | candidate temple thread | **low** as temple: ἐνοικέω ("dwell in") is never used of God in Swete, and 3:16 has no temple vocabulary. An **indwelling** thread with 1:19 and 2:9 (cf. Eph 3:17) |
+
+**Headlines:** unchanged.

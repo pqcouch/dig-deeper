@@ -3,7 +3,7 @@
 **Primary texts:** NA28 (Logos export, `_texts/logos-exports/02-New-Testament/12-Colossians-NA28.txt`), worked first, with the full NA28 apparatus; SBLGNT with its word index as the counting layer (Colossians and the whole NT); Swete's LXX for the Greek Old Testament\
 **Study text:** NASB95\
 **Pulpit text:** ESV (Anglicised) — declared by Patrick for this engagement. The ESV export in the corpus is the US edition; the passage contains no word that the two editions are known to spell differently (see Tool 8)\
-**Date:** 31 October 2026 · **Version:** 1.1 (claim audit 4 applied, 31 October 2026; see *Revision v1.1*)\
+**Date:** 31 October 2026 · **Version:** 1.3 (4 November 2026: claim audit 5 applied — see *Claim audit 5 (v1.3)*; earlier: claim audit 4 applied, 31 October 2026; Patrick's fifth Logos round, 4 November 2026; see *Revision v1.1* and *v1.2*)\
 **Book-overview context:** In-conversation — `Colossians/book-overview-colossians.md` v0.1.1 (Draft, revised 21 October 2026)\
 **Series context:** The book's opening unit, dug last of the six solo digs so far (1:15–20; 1:24–2:5; 2:6–15; 2:16–23; 3:18–4:1 are done). The overview weights it Standard. Because it is the opening, it is the permanent neighbour of every other passage, and Move 4 here looks forward rather than back
 
@@ -49,7 +49,7 @@ The exegetically strongest claims, each surfaced by more than one tool:
 
 3. **The prayer asks for exactly what the letter then tells them they already have, and plants the very words the rival teaching will claim.** `[T]` for the words; `[I]` for the strategy. Surfaced by: Vocabulary, Repetition, Move 4. Paul prays that they "may be filled" (πληρωθῆτε, 1:9) and tells them at 2:10 that they "have been filled" (πεπληρωμένοι) in him. ἐπίγνωσις ("knowledge") stands at 1:9, 1:10, 2:2 and 3:10; σοφία ("wisdom") first at 1:9, then at 1:28, 2:3, **2:23 (the rival's "appearance of wisdom")**, 3:16 and 4:5; περιπατέω ("to walk") first at 1:10, then at the hinge 2:6. The prayer names the goods — fullness, knowledge, wisdom, a worthy walk — before anyone can offer them as extras. *High confidence on the words.*
 
-4. **The passage does not end at 1:14: a chain of relative clauses carries the thanksgiving straight into the confession of the Son, and at the moment of rescue Paul changes "you" to "us".** `[T]` Surfaced by: Structure, Linking Words, Textual Variants, Move 4. "The Father **who** qualified you … **who** rescued us … the Son of his love, **in whom** we have redemption … **who** is the image" (1:12–15): in neither edition is there a full stop at the end of 1:14. And the pronoun moves from ὑμᾶς ("you", 1:12) to ἡμᾶς ("us", 1:13) and ἔχομεν ("we have", 1:14) — **the same shift that happens at 2:13, the letter's other statement of forgiveness** ("he made *you* alive … having forgiven *us*"). At both places the manuscripts show scribes levelling the pronoun one way or the other (NA28 apparatus). *High confidence on the grammar and the pronouns; moderate–high that the shift is deliberate.*
+4. **The passage does not end at 1:14: a chain of relative clauses carries the thanksgiving straight into the confession of the Son, and at the moment of rescue Paul changes "you" to "us".** `[T]` Surfaced by: Structure, Linking Words, Textual Variants, Move 4. "The Father **who** qualified you … **who** rescued us … the Son of his love, **in whom** we have redemption … **who** is the image" (1:12–15): in neither edition is there a full stop at the end of 1:14. And the pronoun moves from ὑμᾶς ("you", 1:12) to ἡμᾶς ("us", 1:13) and ἔχομεν ("we have", 1:14) — **the same shift that happens at 2:13, the letter's other statement of forgiveness** ("he made *you* alive … having forgiven *us*"). At both places the manuscripts show scribes levelling the pronoun one way or the other (NA28 apparatus). *High confidence on the grammar and the pronouns; moderate–high that the shift is deliberate.* **v1.3 (claim audit 5)** `[S: audit 5]`: the shift is confirmed in the critical text, and the inclusive "we" occurs in Colossians only here and at 2:13–14 (both auditors, independently). But the move is Paul's habit when stating the saving act (1 Thess 1:9–10; Gal 1:3–4; Eph 2:1–5), it does not recur at the third forgiveness statement (3:13), and the NASB95 levels it at 1:12 ("qualified us"). Read it as Pauline confessional idiom, not a design peculiar to Colossians (*low–moderate* as design; *high* on the pronouns).
 
 5. **The language of rescue is concentrated in 1:12–14 and stands nowhere else in the letter.** `[T]` Surfaced by: Vocabulary, Repetition, Tool 11. ἁμαρτία ("sin") occurs **once in Colossians**, at 1:14 (SBLGNT and NA28; the majority text adds "of sins" at 2:11). So, once each, do ἄφεσις ("forgiveness"), ἀπολύτρωσις ("redemption"), ῥύομαι ("to rescue"), μεθίστημι ("to transfer"), σκότος ("darkness"), φῶς ("light"), μερίς ("share") and κλῆρος ("lot"). The field these words make — rescue from a hostile authority, transfer into a kingdom, redemption, an allotted inheritance — is exodus-shaped (Exod 6:6–8 has rescue, redemption and the land given "as a lot"; Exod 14:30, Deut 9:26–29 and Ps 106 LXX carry the same pattern), but **no Old Testament text is quoted or closely reproduced** (Tool 11, moderate; claim audit 4: moderate for the exodus pattern, low–moderate for Exod 6 alone `[S: audit 4]`). *High confidence on the concentration; moderate on the exodus colouring.*
 
@@ -222,7 +222,7 @@ The NASB95 (study text), the ESV (pulpit text) and the KJV (historic witness) co
 
 10. **1:2 and 1:14 in the KJV.** The KJV adds "and the Lord Jesus Christ" at 1:2 and "through his blood" at 1:14; it omits "and increasing" at 1:6 `[T]`. All three follow the later manuscript tradition (Textual Variants).
 
-**Ancient versions check.** The modern versions agree on "his beloved Son" (1:13), a rendering that carries some weight (Tool 7). The **Vulgate** reads *in regnum Filii dilectionis suae*, "into the kingdom of the Son of his love", keeping the noun *(moderate confidence — from recall; the Clementine text for this passage is not in the corpus)*. At 1:12 the Vulgate reads *qui dignos nos fecit*, "who made us worthy", following the ἡμᾶς reading and rendering ἱκανόω by "worthy" *(moderate — recall)*. **Translation-tradition split** (minor): the Latin tradition hears "made worthy" where the Greek says "made sufficient"; a preacher drawing on older Latin-shaped theology may meet the "worthiness" vocabulary here and should note that the Greek word is of sufficiency, not merit `[I]`. *Uncertain — consider verifying both against the Clementine export if a Vulgate check is wanted.*
+**Ancient versions check.** The modern versions agree on "his beloved Son" (1:13), a rendering that carries some weight (Tool 7). The **Vulgate** reads *in regnum Filii dilectionis suae*, "into the kingdom of the Son of his love", keeping the noun *(v1.2: verified in the Clementine text, now filed as `12-Colossians-Vulgate-Clementine.txt`)* `[T]`. At 1:12 the Vulgate reads *qui dignos nos fecit*, "who made us worthy", following the ἡμᾶς reading and rendering ἱκανόω by "worthy" *(verified, v1.2)* `[T]`. **Translation-tradition split** (minor): the Latin tradition hears "made worthy" where the Greek says "made sufficient"; a preacher drawing on older Latin-shaped theology may meet the "worthiness" vocabulary here and should note that the Greek word is of sufficiency, not merit `[I]`. **v1.2:** both verified `[T]`.
 
 **Pulpit divergence note.** The pulpit text is the **ESV (Anglicised)**. Three divergences from the NASB95 bear on findings: **(a)** "with joy" attached to endurance (1:11) where the study text attaches it to thanksgiving — tell the congregation the Greek can be punctuated either way; **(b)** "qualified you" (1:12), which preserves the you → us shift of Headline 4 — the ESV here lets the congregation hear what the study text hides; **(c)** "on your behalf" (1:7), which makes Epaphras the church's own minister. On the relative chain at 1:13 the ESV, though it starts a new sentence, keeps 1:13–14 with 1:12 where the NASB95 heads them away. **Edition check:** the corpus holds the US ESV. The passage contains none of the words the Anglicised edition is known to respell (no *-or/-our* or *-ize/-ise* forms) `[I]`; *uncertain whether any wording differs — read the passage from the Anglicised pew Bible before preaching.*
 
@@ -641,15 +641,15 @@ Preach the passage as the ground of assurance before the warnings, not as a poli
 
 ## Open Questions / Uncertainties
 
-1. **The punctuation of 1:11–12** — with joy endurance, or with joy thanksgiving? Genuinely open; Pauline parallels both ways. *For a Logos round:* what do Dunn (NIGTC), Pao (ZECNT), Wright (TNTC) and Bird (NCCS) decide, and on what grounds?
-2. **"The saints in light" (1:12)** — believers, angels or both? This dig leans to believers on the letter's own usage; **claim audit 4: moderate–high** `[S: audit 4]`. *For Logos:* the Qumran "lot of the holy ones" (1QS 11:7–8; 1QH) — which owned commentators cite it, and to what conclusion?
-3. **1:7 ὑμῶν / ἡμῶν** — Epaphras "on your behalf" or "on our behalf"? *Uncertain.* *For Logos:* which reading Dunn and Pao adopt, and whether any owned work explains why the NA28 text reads ὑμῶν against 𝔓⁴⁶ א* A B.
+1. **The punctuation of 1:11–12** — with joy endurance, or with joy thanksgiving? Genuinely open; Pauline parallels both ways. *For a Logos round:* what do Dunn (NIGTC), Pao (ZECNT), Wright (TNTC) and Bird (NCCS) decide, and on what grounds? **v1.2** `[S: Logos 5]`: Pao (ZECNT, 73) takes μετὰ χαρᾶς ("with joy") with the thanksgiving: each of the three earlier participial phrases carries a prepositional phrase, and Paul gives thanks "with joy" at Phil 1:4. Dunn and Bird were not returned; Wright (follow-up, pasted): "it is impossible to tell … it makes little overall difference". NA28 punctuates before Μετὰ χαρᾶς; the KJV ("longsuffering with joyfulness; Giving thanks") takes it with what precedes `[T]`. *Slight lean to the thanksgiving, low–moderate; still open.*
+2. **"The saints in light" (1:12)** — believers, angels or both? This dig leans to believers on the letter's own usage; **claim audit 4: moderate–high** `[S: audit 4]`. *For Logos:* the Qumran "lot of the holy ones" (1QS 11:7–8; 1QH) — which owned commentators cite it, and to what conclusion? **v1.2** `[S: Logos 5]`: believers — Wright (TNTC, 64–65, n. 12, against the angelic reading), Pao (74–75: from 1:2, 4, and the land texts Deut 32:9; Josh 19:9), Dunn (77: human saints, with Qumran as a picture of shared worship), Osborne (28); open to angels — Bird (42–43: 1QS 11:7–8; light with angels at 1QS 3:20; cf. 2:18). Wis 5:5 is cited by Dunn and Witherington; Qumran by Dunn, Pao, Witherington and Bird, with references. *Believers, moderate–high; unchanged, now with owned holders.* 1QH is cited under two numbering systems; check against one edition before quoting.
+3. **1:7 ὑμῶν / ἡμῶν** — Epaphras "on your behalf" or "on our behalf"? *Uncertain.* *For Logos:* which reading Dunn and Pao adopt, and whether any owned work explains why the NA28 text reads ὑμῶν against 𝔓⁴⁶ א* A B. **v1.2** `[S: Logos 5]`: Dunn and Pao were not returned; Robertson (*Word Pictures*) holds ἡμῶν ("our") "clearly correct". The Vulgate (*pro vobis*) and the KJV ("for you") follow ὑμῶν ("your") with the Latin and Byzantine witnesses `[T]`. *Uncertain; unchanged.* Next: the *Lexham Textual Notes* (owned). **Follow-up (pasted, 4 November)** `[S: Logos 5]`: the *Lexham Textual Notes* print ὑπὲρ ἡμῶν as their text ("attested by many early manuscripts"), without argument. *Unchanged.*
 4. **The middle voice of καρποφορούμενον (1:6)** — significant or stylistic? *Uncertain.*
 5. **The dative τῇ ἐπιγνώσει (1:10)** — instrumental ("by the knowledge") or sphere ("in")? *Moderate.*
 6. **διὰ τὴν ἐλπίδα (1:5)** — does hope ground faith and love, or the thanksgiving? *Moderate* for the former.
-7. **μεθίστημι (1:13)** and a background in royal deportations of peoples — *uncertain*; *for Logos:* whether any owned commentator makes the case, and with what ancient evidence.
-8. **The Vulgate at 1:12–13** (*dignos nos fecit*; *Filii dilectionis suae*) — from recall; verify against the Clementine text if the Latin tradition is to be mentioned.
-9. **The Anglicised ESV** — confirm that the pew Bible's wording of 1:1–14 matches the US export used here.
+7. **μεθίστημι (1:13)** and a background in royal deportations of peoples — *uncertain*; *for Logos:* whether any owned commentator makes the case, and with what ancient evidence. **v1.2** `[S: Logos 5]`: Barclay (NDSB, 129), Barnes (246: Josephus, *Ant.* 9.11.1) and O'Brien, through Anders (294: *Ant.* 9.235, Tiglath-pileser moving the Transjordanian tribes, "the same verb"), make the case with a named text. Josephus is not in the corpus, so "the same verb" is unverified. *Uncertain → low–moderate.*
+8. **The Vulgate at 1:12–13** (*dignos nos fecit*; *Filii dilectionis suae*) — from recall; verify against the Clementine text if the Latin tradition is to be mentioned. **Closed (v1.2):** both verified in the Clementine text (`_texts/logos-exports/02-New-Testament/12-Colossians-Vulgate-Clementine.txt`) `[T]`.
+9. **The Anglicised ESV** — confirm that the pew Bible's wording of 1:1–14 matches the US export used here. **v1.2:** not owned in Logos; on pre-order. *Open.*
 10. **The three allusion candidates — closed by claim audit 4:** Exod 6:6–8 low–moderate (the exodus pattern moderate); Wis 17:2–18:9 low; the sower low–moderate as allusion, moderate as idiom `[S: audit 4]`. New queue from the audit: Ps 106 LXX (C61), Deut 9:26–29 (C62), Luke 1:68–79 (C63).
 
 **Closed by the corpus in this run:** whether the exact phrase ἀφ᾽ ἧς ἡμέρας ("from the day") recurs in the NT — **no**, Col 1:6 and 1:9 only (SBLGNT); positive control passed (the same text search returns both Colossian verses, and a shorter form of the phrase returns four others). Whether ἁμαρτία ("sin") occurs elsewhere in Colossians — **no** (SBLGNT and NA28; control passed — the same lemma search returns Rom 3:9 and 3:20).
@@ -703,3 +703,44 @@ Health note: text-driven. Most findings rest on the Greek of the passage and on 
 ---
 
 *Dig Deeper: Colossians 1:1–14, v1.1, 31 October 2026 (claim audit 4 applied). Primary texts NA28 and SBLGNT; study text NASB95; pulpit text ESV (Anglicised).*
+
+---
+
+## Revision v1.2 — Logos round 5 (4 November 2026)
+
+*Source: Patrick's fifth Logos round (`Colossians/colossians-logos-answers-round-5-assessment.md`), checked against the NA28 text and apparatus, the SBLGNT, Swete and the Rahlfs Psalter, with the whole Clementine Vulgate and KJV of Colossians now filed in `_texts/logos-exports/02-New-Testament/`. Changes are made in place and tagged `[S: Logos 5]`. No claim-audit rating is changed.*
+
+| Where | v1.1 | v1.2 |
+|---|---|---|
+| Open Questions 1 (with joy) | genuinely open | **slight lean to the thanksgiving, low–moderate** (Pao; NA28's punctuation) |
+| Open Questions 2 (the saints) | believers moderate–high; holders wanted | unchanged; owned holders named both ways |
+| Open Questions 3 (1:7) | uncertain | unchanged; Robertson for ἡμῶν; the Vulgate and KJV for ὑμῶν |
+| Open Questions 7 (μεθίστημι) | uncertain | **low–moderate** (Barclay; Barnes; O'Brien via Anders; Josephus, *Ant.* 9.235) |
+| Ancient versions check; Open Questions 8 | Vulgate recalled | **verified** (Clementine) |
+| Lukan affinities (1:12–14 and Acts 26:18) | no holder | Dunn reports Aletti, who "wonders whether it points to Lukan authorship"; Pao (76) reads Acts 26:18 as shared confessional wording. For claim audit 5; any authorship inference stays `[I]` |
+| "You → us" (1:12–13) | no holder | Osborne (28) and Wilson (*ESV EC*, 11:215–16) read the shift as deliberate and inclusive. **For the preacher:** the KJV levels it ("made us meet … delivered us", following ἡμᾶς at 1:12 with A C D F G K L P Ψ 𝔪 lat), and so does the Vulgate (*dignos nos fecit*) `[T]` |
+| C46, C48, C50 (claim audit 4) | history pending | holders recorded in claim audit 4 v1.1 |
+
+**Library status:** owned and cited here — Dunn, Pao, Wright, Witherington, Bird, Osborne, Barclay, Barnes, Anders, Robertson (*Word Pictures*), Wilson (*ESV Expository Commentary*). Aletti and O'Brien at second hand.
+
+**Headlines:** unchanged.
+
+---
+
+## Claim audit 5 (v1.3)
+
+*Source: `Colossians/dig-deeper-colossians-claim-audit-5.md` (two blind auditors; results reproduced in the main session). This section governs the paragraphs above where they differ. Tag `[S: audit 5]`.*
+
+| Item | Before | After |
+|---|---|---|
+| Headline 4, "you" → "us" (C67) | moderate–high as design | pronouns **high**; inclusive "we" only at 1:13–14 and 2:13–14 **moderate–high**; Colossian design **low–moderate** (Paul's habit; not at 3:13) |
+| Ps 106 LXX (C61) | low–moderate (queued) | **low**, as "redeemed from darkness" idiom shared with Luke 1:74–79; Isa 42:7, 16 an equal partner |
+| Deut 9:26–29 (C62) | moderate (queued) | **low–moderate**; the receiving formula μερὶς καὶ κλῆρος ("portion and lot", Deut 10:9; Acts 8:21 — the only other NT verse with both words) explains 1:12 better |
+| Luke 1:68–79 (C63) | moderate | **moderate**, as idiom; the rescue + redeem pair alone is within chance; rare only with forgiveness and darkness |
+| Lukan affinities (C69) | moderate | **moderate–high for 1:12–14** (Acts 26:18; Luke 22:53, "the authority of darkness", the only other NT use; Acts 8:21); **low for the letter** (Colossians is the least Lukan of the thirteen Pauline letters overall); Luke 8:15 → shared sower tradition |
+| Exodus pattern (C70), Headline 5 | four texts, moderate | **moderate, anchored in Exod 6:6–8** (rescue + redeem + lot); Ps 106 removed; ῥύομαι ("rescue") alone is not an exodus marker in Swete |
+| Instrument | — | the scan is nearly blind at 1:12–14 (ἐρρύσατο, μεθίστημι, ἀπολύτρωσις/λυτρόω unlinked; a false "forgiveness" at Isa 59); ranks for this passage should not be quoted |
+
+**Candidates queued by the audit (C73–C76):** Luke 22:53; the "portion and lot" formula; the darkness plague (Exod 10:23; Wis 18:1–9); Esther Addition C.
+
+**Headlines:** Headline 4 qualified (above); Headline 5's texts renamed; ratings otherwise unchanged. Trigger 2 for point-purpose on 1:1–14 is cleared by this patch.

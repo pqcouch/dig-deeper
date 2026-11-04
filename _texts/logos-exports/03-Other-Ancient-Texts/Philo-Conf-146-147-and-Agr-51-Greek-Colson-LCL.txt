@@ -1,0 +1,59 @@
+Philo, De confusione linguarum 145-148 and De agricultura 50-52 -- GREEK, with Colson's facing English.
+Source: F. H. Colson and G. H. Whitaker, Philo (Loeb Classical Library), vol. 4 (Conf., pp. 88-91) and vol. 3 (Agr.),
+page scans from the Internet Archive (archive.org/details/PhiloSupplement01Genesis, "Philo (12 volumes in 1)", accessed by
+Patrick 3 November 2026), pasted in colossians-logos-questions-round-5.odt (Colossians Logos round 5, check 5).
+The three scans are filed beside this file:
+  Philo-Conf-145-146-Colson-LCL4-pp88-89.jpg
+  Philo-Conf-147-148-Colson-LCL4-pp90-91.jpg   (page numbers cropped from the scan; 90-91 inferred from the run of pages)
+  Philo-Agr-50-52-Colson-LCL3.jpg             (page numbers cropped from the scan)
+TRANSCRIPTION: typed from the scans on 4 November 2026, accents checked by eye. The scans are the copy of record; check a
+word against them before quoting it. [427] is the Mangey page number printed in the margin. Lines cut off at the edge of a
+scan are marked [...].
+
+== De confusione linguarum 145-148 (LCL 4:88-90) ==
+
+[145] οἱ δὲ ἐπιστήμῃ κεχρημένοι τοῦ ἑνὸς υἱοὶ θεοῦ προσαγορεύονται δεόντως, καθὰ καὶ Μωυσῆς ὁμολογεῖ φάσκων· "υἱοί
+ἐστε κυρίου τοῦ θεοῦ" καὶ "θεὸν τὸν γεννήσαντά σε" καὶ "οὐκ αὐτὸς οὗτός σου πατήρ;" ἕπεται μέντοι τοῖς οὕτω τὴν
+ψυχὴν διατεθεῖσι μόνον τὸ καλὸν ἀγαθὸν εἶναι νομίζειν, ὅπερ τῷ τέλει τῆς ἡδονῆς πρὸς ἐμπειροπολέμων ἀνδρῶν
+ἀντιτειχίζεται πρὸς ἀνατροπὴν καὶ καθαίρεσιν ἐκείνου.
+[146] [427] κἂν μηδέπω μέντοι τυγχάνῃ τις ἀξιόχρεως ὢν υἱὸς θεοῦ προσαγορεύεσθαι, σπουδαζέτω κοσμεῖσθαι κατὰ τὸν
+ΠΡΩΤΟΓΟΝΟΝ αὐτοῦ λόγον, τὸν ἀγγέλων πρεσβύτατον, ὡς ἂν ἀρχάγγελον, πολυώνυμον ὑπάρχοντα· καὶ γὰρ ἀρχὴ καὶ ὄνομα
+θεοῦ καὶ λόγος καὶ ὁ κατ᾽ εἰκόνα ἄνθρωπος καὶ ὁ ὁρῶν, Ἰσραήλ, προσαγορεύεται.
+[147] διὸ προήχθην ὀλίγῳ πρότερον ἐπαινέσαι τὰς ἀρετὰς τῶν φασκόντων ὅτι "πάντες ἐσμὲν υἱοὶ ἑνὸς ἀνθρώπου"· καὶ
+γὰρ εἰ μήπω ἱκανοὶ θεοῦ παῖδες νομίζεσθαι γεγόναμεν, ἀλλά τοι τῆς ΑΕΙΔΟΥΣ ΕΙΚΟΝΟΣ αὐτοῦ, λόγου τοῦ ἱερωτάτου· θεοῦ
+γὰρ εἰκὼν λόγος ὁ πρεσβύτατος.
+[148] καὶ πολλαχοῦ μέντοι τῆς νομοθεσίας υἱοὶ πάλιν Ἰσραὴλ καλοῦνται, τοῦ ὁρῶντος οἱ ἀκούοντες, ἐπειδὴ μεθ᾽ ὅρασιν
+ἀκοὴ δευτερείοις τετίμηται καὶ τὸ διδασκόμενον τοῦ χωρὶς ὑφηγήσεως ἐναργεῖς τύπους τῶν ὑποκειμέ[νων ...]
+
+(Capitals mark the two words that answer round 5's question: πρωτόγονον at 146 and ἀειδοῦς εἰκόνος at 147. In the printed
+text they are in ordinary lower case: πρωτόγονον; ἀειδοῦς εἰκόνος.)
+
+Colson's English (facing page): 146 "let him press to take his place under God's First-born, the Word, who holds the eldership
+among the angels, their ruler as it were. And many names are his, for he is called, 'the Beginning,' and the Name of God,
+and His Word, and the Man after His image, and 'he that sees,' that is Israel." 147 "... yet we may be sons of His invisible
+image, the most holy Word. For the Word is the eldest-born image of God."
+
+== De agricultura 50-52 (LCL 3) ==
+
+[50] Οὕτως μέντοι τὸ ποιμαίνειν ἐστὶν ἀγαθόν, ὥστε οὐ βασιλεῦσι μόνον καὶ σοφοῖς ἀνδράσι καὶ ψυχαῖς τέλεια
+κεκαθαρμέναις ἀλλὰ καὶ θεῷ τῷ πανηγεμόνι δικαίως ἀνατίθεται. τούτου δὲ ἐγγυητὴς οὐχ ὁ τυχὼν ἀλλὰ προφήτης ἐστίν, ᾧ
+καλὸν πιστεύειν, ὁ τὰς ὑμνῳδίας ἀναγράψας· λέγει γὰρ ὧδε· "κύριος ποιμαίνει με, καὶ οὐδέν με ὑστερήσει."
+[51] τοῦτο μέντοι τὸ ᾆσμα παντὶ φιλοθέῳ μελετᾶν ἐμπρεπές, τῷ δὲ κόσμῳ καὶ διαφερόντως· καθάπερ γάρ τινα ποίμνην γῆν
+καὶ ὕδωρ καὶ ἀέρα καὶ πῦρ καὶ ὅσα ἐν τούτοις φυτά τε αὖ καὶ ζῷα, τὰ μὲν θνητὰ τὰ δὲ θεῖα, ἔτι δὲ οὐρανοῦ φύσιν καὶ
+ἡλίου καὶ σελήνης περιόδους καὶ τῶν ἄλλων ἀστέρων τροπάς τε αὖ καὶ χορείας ἐναρμονίους ὁ ποιμὴν καὶ βασιλεὺς θεὸς
+ἄγει κατὰ δίκην καὶ νόμον, προστησάμενος τὸν ὀρθὸν αὐτοῦ λόγον καὶ ΠΡΩΤΟΓΟΝΟΝ ΥΙΟΝ, ὃς τὴν ἐπιμέλειαν τῆς ἱερᾶς
+ταύτης ἀγέλης οἷά τις μεγάλου βασιλέως ὕπαρχος διαδέξεται· καὶ γὰρ εἴρηταί που· "ἰδοὺ ἐγώ εἰμι, ἀποστέλλω ἄγγελόν
+μου εἰς πρόσωπόν σου τοῦ φυλάξαι σε ἐν τῇ ὁδῷ."
+[52] λεγέτω τοίνυν καὶ ὁ κόσμος ἅπας, ἡ μεγίστη καὶ τελειοτάτη τοῦ ὄντος θεοῦ ποίμνη[, ...]
+
+(Capitals: πρωτόγονον υἱόν, "firstborn son", at 51.)
+
+Colson's English (facing page) at 51: "... setting over it His true Word and Firstborn Son Who shall take upon Him its
+government like some viceroy of a great king; for it is said in a certain place: 'Behold I AM, I send My Angel before thy
+face to guard thee in the way' (Exod. xxiii. 20)."
+
+== What the Greek settles (round 5) ==
+- Philo's word for "firstborn" is πρωτόγονος at Conf. 146 and Agr. 51. Colossians 1:15, 18 has πρωτότοκος.
+- Colson's "invisible image" at Conf. 147 translates ἀειδοῦς (ἀειδής, "unseen, formless"). Colossians 1:15 has ἀοράτου (ἀόρατος).
+- Yonge's "eternal image" presumably reflects ἀιδίου in the text he translated (Mangey's?). That is an inference from his
+  English; the reading behind it has not been seen.
