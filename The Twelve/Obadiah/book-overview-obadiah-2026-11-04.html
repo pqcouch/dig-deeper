@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Overview: Obadiah</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#book-overview-obadiah">Book Overview: Obadiah</a></li>
+    <li><a href="#canonical-position">Canonical Position</a></li>
+    <li><a href="#presenting-situation">Presenting Situation</a></li>
+    <li><a href="#structural-arc-map">Structural Arc Map</a></li>
+    <li><a href="#microscript">Microscript</a></li>
+    <li><a href="#intertextual-map">Intertextual Map</a></li>
+    <li><a href="#hebrew-and-greek-side-by-side">Hebrew and Greek Side by Side</a></li>
+    <li><a href="#christological-trajectory">Christological Trajectory</a></li>
+    <li><a href="#preaching-traps">Preaching Traps</a></li>
+    <li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
+    <li><a href="#preaching-units">Preaching Units</a></li>
+    <li><a href="#pulpit-and-study-text">Pulpit and Study Text</a></li>
+    <li><a href="#open-questions-for-the-digs">Open Questions for the Digs</a></li>
+    <li><a href="#what-changed-in-v1.1">What Changed in v1.1</a></li>
+    <li><a href="#what-changed-in-v1.2">What Changed in v1.2</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="book-overview-obadiah">Book Overview: Obadiah</h1>
+<p><strong>Primary texts:</strong> WLC Hebrew and Swete LXX from the corpus, read first; BHS with apparatus and Rahlfs from the Logos exports, for citation <strong>Study text:</strong> NASB95 <strong>Pulpit text:</strong> ESV (declared by Patrick; the export is Crossway’s 2025 US text, not the ESV Anglicised) <strong>Genre:</strong> Prophetic vision against a nation; poetic oracle turning to prose-like territorial promise <strong>Mode:</strong> Draft, built fresh from the Hebrew <strong>Date:</strong> 4 November 2026 (v1.2, patched the same day from claim audit 1) <strong>Sweep status:</strong> One dig in hand: <code>dig-deeper-obadiah-1-1to21-2026-11-04</code>. v1.0 was built without sight of the July overview and dig, now in <code>_superseded/</code>. v1.1 read the July overview, not the July dig</p>
+<p>Warrant tags: <code>[T]</code> the text states or shows it · <code>[I]</code> an inference from the text · <code>[S]</code> supplied by a secondary source, held provisionally. Counts are from the WLC unless another edition is named. Obadiah’s versification is the same in Hebrew and English. <strong>References elsewhere follow the Hebrew:</strong> Joel 3:5 = English 2:32; Joel 4:n = 3:n; Ps 7:17 = 7:16; Ps 22:19, 29 = 22:18, 28; Ps 41:10 = 41:9; Deut 23:8 = 23:7; Mal 3:19 = 4:1. At 21 verses (WLC) it is the shortest book in the Hebrew Bible; Haggai, the next, has 38.</p>
+<hr />
+<h2 id="canonical-position">Canonical Position</h2>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Statement</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td>Nevi’im, Latter Prophets, fourth of the Twelve in the order BHS prints: Hosea, Joel, Amos, Obadiah, Jonah <code>[T]</code>. English order agrees. Swete’s Greek differs: Hosea, Amos, Micah, Joel, Obadiah, Jonah <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>Obadiah is heard after Amos’s closing promise that Israel will possess “the remnant of Edom”, and before a book in which a prophet is sent to a foreign city. A reader will connect the two, though adjacency in the Twelve has no general lexical effect <code>[I, low–moderate as design]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td>That Esau and Jacob are brothers (Gen 25:26; 27:41–42; Num 20:14; Deut 23:8; Amos 1:11). That Mount Seir was YHWH’s own grant to Esau (Deut 2:5; Josh 24:4), which makes v. 19 a reversal of a gift and not merely a conquest. Joseph, Ephraim, Benjamin and Gilead as tribal land (Josh 16:10; 2 Sam 2:9). Zion as YHWH’s holy mountain (Joel 4:17; Ps 2:6). A fall of Jerusalem with exiles (vv. 11, 20) <code>[T for the references; I for the reader's knowledge]</code></td>
+</tr>
+<tr class="even">
+<td><strong>Handoff</strong></td>
+<td>Thematic only. The nations are judged here and a nation is spared in Jonah. No lexical handoff was found: Jonah ranks sixteenth by rare shared vocabulary with Obadiah, and Jonah 1 has none at all <code>[T for the measure; I for the theme]</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Neighbours</strong></td>
+<td>Amos before: real and verbal (see the Intertextual Map). Jonah after: thematic. In the Greek order Joel stands immediately before Obadiah; in the Hebrew order Amos stands between them. Joel is first of all books by rate of rare shared vocabulary, so the Greek adjacency is worth noting, though no inference is drawn from it <code>[T]</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Canonical and compositional order may diverge here.</strong> Obadiah stands among books with eighth-century superscriptions (Hos 1:1; Amos 1:1), but its own superscription has no king. Its content may well be sixth-century. Both facts are reported and neither is used to resolve the other.</p>
+<hr />
+<h2 id="presenting-situation">Presenting Situation</h2>
+<p><strong>Author.</strong> חֲזוֹן עֹבַדְיָה (“the vision of Obadiah”, v. 1) gives a name and nothing else: no father, no home, no king <code>[T]</code>. עֹבַדְיָה (“Obadiah”, “servant of Yah”) is a common name, and identifying him with the steward of 1 Kgs 18:3 is a tradition, not a finding <code>[S, low]</code>.</p>
+<p><strong>Voice.</strong> The opening שָׁמַעְנוּ (“we have heard”, v. 1) puts the prophet among hearers. Jer 49:14 has the singular שָׁמַעְתִּי (“I have heard”), and so does the Greek of Obadiah, ἤκουσα (“I heard”) <code>[T]</code>. YHWH then speaks in the first person: נְתַתִּיךָ (“I have made you”, v. 2), אוֹרִידְךָ (“I will bring you down”, v. 4), עַמִּי (“my people”, v. 13), קָדְשִׁי (“my holy”, v. 16) <code>[T]</code>.</p>
+<p><strong>Addressee and audience.</strong> Edom is addressed as “you” through v. 15, and is only spoken about from v. 17 on <code>[T]</code>. Nothing suggests Edom was ever meant to hear it. The natural audience is those who suffered what vv. 11–14 describe <code>[I]</code>.</p>
+<p><strong>Occasion.</strong> On the page: strangers took Jerusalem’s wealth, foreigners entered its gates, and lots were cast over it (v. 11). Edom joined in (vv. 11–14). גָלֻת יְרוּשָׁלִַם (“the exiles of Jerusalem”, v. 20) exist <code>[T]</code>. No conqueror is named, and בָּבֶל (“Babylon”) does not occur <code>[T]</code>.</p>
+<p><strong>Date: contested, and it should stay visible as contested.</strong> Three options are live:</p>
+<ul>
+<li><strong>After Jerusalem’s fall in 586 BC</strong> <code>[I, moderate; the leaning of this draft]</code>. The noun גָּלוּת (“exile”) with יְרוּשָׁלִַם (“Jerusalem”) stands in three verses, Obad 20, Jer 40:1 and Ezek 33:21, the latter two of that event. Jer 1:3 has the cognate verbal form גְּלוֹת (“going into exile”) of the same event. Edom’s guilt over “the day of Jerusalem” appears at Ps 137:7, and Lam 4:21–22 and Ezek 35 treat it similarly <code>[T for the texts]</code>. Renkema places the composition about three decades after the fall, before Nabonidus’s move against Edom in 554/3 <code>[S, via Cook's review]</code>.</li>
+<li><strong>The reign of Jehoram, mid-ninth century</strong> <code>[S, minority among evangelicals but defended]</code>. Edom revolts (2 Kgs 8:20; 2 Chr 21:8), and Philistines and Arabs carry off the property of the king’s house (2 Chr 21:16–17), though that passage names neither Jerusalem nor Edom in the raid. Collins argues this date from the grammar of vv. 12–14 and from the book’s placement <code>[S]</code>.</li>
+<li><strong>A later setting</strong>, reaching the fourth century, is also proposed <code>[S]</code>.</li>
+</ul>
+<p>Terminology shows that the 586 reading fits; it does not prove it. Amos 1:6, 9, in a book dated to Uzziah and Jeroboam (Amos 1:1), already use גָּלוּת (“exile”) with Edom <code>[T]</code>.</p>
+<p><strong>Pressure.</strong> A people has been destroyed, and its brother helped, and the mountain stands untouched. Does YHWH see what happened on that day, and is it the last word? <code>[I]</code></p>
+<p><strong>Purpose.</strong> To tell the survivors that the day of their ruin was not the decisive day: YHWH’s day is, and when it comes the kingdom will be his <code>[I]</code>.</p>
+<hr />
+<h2 id="structural-arc-map">Structural Arc Map</h2>
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 30%" />
+<col style="width: 55%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Movement</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Heading and summons</td>
+<td>The report from YHWH; nations rise against Edom</td>
+</tr>
+<tr class="even">
+<td>2–9</td>
+<td>Edom brought down</td>
+<td>Height (2–4), plunder and betrayal (5–7), wisdom and warriors destroyed (8–9). Marked by נְאֻם־יְהוָה (“declares the LORD”) at vv. 4 and 8</td>
+</tr>
+<tr class="odd">
+<td>10–14</td>
+<td>The charge</td>
+<td>The reason, given only now: violence to the brother, on <em>his</em> day</td>
+</tr>
+<tr class="even">
+<td>15–16</td>
+<td>The hinge</td>
+<td>יוֹם־יְהוָה (“the day of the LORD”) comes on all nations; what was done returns</td>
+</tr>
+<tr class="odd">
+<td>17–18</td>
+<td>Zion and the houses</td>
+<td>Escape, holiness, fire on stubble. Closed by כִּי יְהוָה דִּבֵּר (“for the LORD has spoken”)</td>
+</tr>
+<tr class="even">
+<td>19–21</td>
+<td>The land and the kingdom</td>
+<td>The map refilled across south and north (Negev, Shephelah, Ephraim, Samaria, Benjamin, Gilead), ending וְהָיְתָה לַיהוָה הַמְּלוּכָה (“and the kingdom will be the LORD’s”)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Device.</strong> Sentence first, charge second, then the day that answers both <code>[I]</code>. Two formal threads run through it <code>[T]</code>:</p>
+<ul>
+<li><strong>יוֹם (“day”)</strong> occurs 12 times: v. 8, ten times in vv. 11–14, and v. 15. Edom’s day-of-Judah phrases are ended by the day of YHWH.</li>
+<li><strong>הַר (“mountain”)</strong> occurs 7 times: הַר עֵשָׂו (“mountain of Esau”) at vv. 8, 9, 19 and 21, the holy mountain at v. 16, and הַר צִיּוֹן (“Mount Zion”) at vv. 17 and 21. The last verse holds both mountains in one line.</li>
+</ul>
+<p><strong>Baseline on the three blocks.</strong> Verses 1–9, 10–14 and 15–21 are the best division by vocabulary: first of 91 contiguous cuts by distance from each cut’s own shuffle. But shuffling verses is too easy a test, since most stretches pass it. Against the best cuts of arbitrary 21-verse stretches of the Latter Prophets, the realistic odds are about 1 in 20 <code>[T for the measure; I for its meaning]</code>. יוֹם (“day”) crosses 14|15, so v. 15 is a join as well as a turn. The division is moderate–high, supported by content as much as by count.</p>
+<p><strong>Contested seams.</strong> Whether מִקָּטֶל (“by slaughter”, v. 9) ends v. 9 or opens v. 10: the Greek and Syriac join it to v. 10, as BHS notes. Verse 15a addresses all nations and v. 15b returns to the singular “you”, so some move or split it (Cook’s review speaks of v. 15a as a “hinge line”) <code>[S]</code>. Neither the WLC file nor the BHS export marks a paragraph division inside the book, so no Masoretic break helps here <code>[T, these witnesses only]</code>.</p>
+<hr />
+<h2 id="microscript">Microscript</h2>
+<p>Because Edom, who sat high and thought no one could bring him down, stood with the strangers on his brother’s day, YHWH will bring him down on the day of YHWH, when what he did returns on his own head. A remnant on Mount Zion will possess the land, and the kingdom will be the LORD’s.</p>
+<p><em>Test against the movements:</em> v. 1 (summons), 2–9 (brought down), 10–14 (brother’s day), 15–16 (returns), 17–18 (remnant on Zion), 19–21 (land and kingdom). All six serve it.</p>
+<hr />
+<h2 id="intertextual-map">Intertextual Map</h2>
+<p><strong>Density scan.</strong> “Rare pair” below means two content words sharing a verse in no more than five verses of the Hebrew Bible. A scan measures shared vocabulary, not borrowing. <strong>Jeremiah 49 ranks first of 862 chapters of ten verses or more, at 1.90 rare pairs per verse; second place stands at 0.28.</strong> All 74 of its pairs attach to Obad 1–5 and 8, and none to vv. 10–21 <code>[T]</code>. Whatever Obadiah shares with Jeremiah, the charge and the kingdom are not part of it.</p>
+<p><strong>By book, by rate</strong>, Joel is first (8 pairs in 73 verses), ahead of Jeremiah. Amos ranks eleventh and Jonah sixteenth <code>[T]</code>. Short books are noisy on this measure (Ruth comes sixth), so this is a pointer only.</p>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 24%" />
+<col style="width: 13%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Jer 49:7–16</strong></td>
+<td>vv. 1–6, 8</td>
+<td>Yes</td>
+<td>High for the contact; none for direction</td>
+</tr>
+<tr class="even">
+<td><strong>Joel 3:5</strong></td>
+<td>v. 17</td>
+<td>Yes</td>
+<td>Moderate–high; direction open</td>
+</tr>
+<tr class="odd">
+<td><strong>Joel 4:3, 4, 7, 12, 14, 17, 19</strong></td>
+<td>vv. 11, 15, 17, 10, 21</td>
+<td>Yes</td>
+<td>Moderate–high, cumulative</td>
+</tr>
+<tr class="even">
+<td><strong>Amos 9:12</strong></td>
+<td>vv. 1, 17–19</td>
+<td>Yes</td>
+<td>Moderate as contact; <em>low–moderate</em> as designed handoff</td>
+</tr>
+<tr class="odd">
+<td><strong>Amos 1:6, 9, 11–12; 5:6; 9:2</strong></td>
+<td>vv. 14, 20; 10; 9; 18; 4</td>
+<td>Yes</td>
+<td>Moderate to high</td>
+</tr>
+<tr class="even">
+<td><strong>Num 24:17–21</strong></td>
+<td>vv. 4, 8, 18, 19</td>
+<td>Single cluster</td>
+<td>Moderate–high</td>
+</tr>
+<tr class="odd">
+<td><strong>Gen 25–36; Num 20:14</strong></td>
+<td>vv. 2, 6, 9–10, 18</td>
+<td>Yes</td>
+<td>High for the brother tradition; moderate for “small”</td>
+</tr>
+<tr class="even">
+<td><strong>Deut 2:5; Josh 24:4</strong></td>
+<td>v. 19</td>
+<td>Yes</td>
+<td>Moderate to high</td>
+</tr>
+<tr class="odd">
+<td><strong>Lam 2:22; 4:21–22; Lam 2:3</strong></td>
+<td>vv. 14; 12; 18</td>
+<td>Yes</td>
+<td>Moderate; the flame reversal low–moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Ps 137:7</strong></td>
+<td>vv. 11–14</td>
+<td>No</td>
+<td>Moderate; conceptual</td>
+</tr>
+<tr class="odd">
+<td><strong>Ezek 35; 25:12–14</strong></td>
+<td>vv. 13, 12, 15; 9</td>
+<td>Yes</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 14:13–15; Job 39:27–28; Ezek 31</strong></td>
+<td>vv. 3–4</td>
+<td>Pooled</td>
+<td>Moderate; Isa 14 closest in shape</td>
+</tr>
+<tr class="odd">
+<td><strong>Jer 38:22</strong></td>
+<td>v. 7</td>
+<td>With Jer 49</td>
+<td>Moderate–high; direction open</td>
+</tr>
+<tr class="even">
+<td><strong>Ps 41:10</strong></td>
+<td>v. 7</td>
+<td>No</td>
+<td>Low–moderate; rests on the MT’s “your bread”</td>
+</tr>
+<tr class="odd">
+<td><strong>Ps 22:29</strong></td>
+<td>v. 21</td>
+<td>No</td>
+<td>Low–moderate: an exact shared acclamation</td>
+</tr>
+<tr class="even">
+<td><strong>Judg 2:16, 18; Neh 9:27</strong></td>
+<td>v. 21</td>
+<td>No</td>
+<td>Moderate; the nearer model for “deliverers… to judge”</td>
+</tr>
+<tr class="odd">
+<td><strong>Lev 24:19; Ezek 35:15; Ps 7:17; Judg 1:7</strong></td>
+<td>v. 15</td>
+<td>No</td>
+<td>Low–moderate each; idiom and law together</td>
+</tr>
+<tr class="even">
+<td><strong>Deut 32:35; Jer 18:17</strong></td>
+<td>vv. 13, 15</td>
+<td>No</td>
+<td>Low–moderate</td>
+</tr>
+<tr class="odd">
+<td><strong>Gen 27:41</strong></td>
+<td>vv. 3, 10, 15</td>
+<td>With Gen 25–36</td>
+<td>Low for the verse</td>
+</tr>
+<tr class="even">
+<td><strong>Prov 17:5; 24:17; Job 31:3</strong></td>
+<td>vv. 12–13</td>
+<td>No</td>
+<td>Low–moderate; a shared word and censure, not a wisdom form</td>
+</tr>
+<tr class="odd">
+<td><strong>Mic 7:8–10</strong></td>
+<td>vv. 10, 12</td>
+<td>No</td>
+<td>Moderate–high</td>
+</tr>
+<tr class="even">
+<td><strong>Hab 2:17</strong></td>
+<td>v. 10</td>
+<td>No</td>
+<td>Moderate; 2:9 a motif only</td>
+</tr>
+<tr class="odd">
+<td><strong>Isa 51:17–23; Jer 25:28–29; 49:12; Joel 4:3; Amos 4:1</strong></td>
+<td>v. 16</td>
+<td>Jer 49 is live</td>
+<td>Uncertain; slight lean to Judah, low–moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Judg 1; Josh 16:10; Jer 32:44; 33:13</strong></td>
+<td>vv. 19–20</td>
+<td>No</td>
+<td>Low–moderate for Judg 1; Jeremiah’s restoration lists are the nearer model</td>
+</tr>
+<tr class="odd">
+<td><strong>Isa 10:17–20</strong></td>
+<td>vv. 17–18</td>
+<td>No</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 63:1–5</strong></td>
+<td>v. 21</td>
+<td>No</td>
+<td>Low–moderate from Obad 21; a canonical reflection</td>
+</tr>
+<tr class="odd">
+<td><strong>Isa 5:24; 47:14</strong></td>
+<td>v. 18</td>
+<td>No</td>
+<td>Moderate; pooled image</td>
+</tr>
+<tr class="even">
+<td><strong>Isa 15:1</strong></td>
+<td>v. 5</td>
+<td>No</td>
+<td>Moderate; oracle register</td>
+</tr>
+<tr class="odd">
+<td><strong>Mal 1:2–4</strong></td>
+<td>vv. 8–10, 19</td>
+<td>No</td>
+<td>Moderate–high with Obad 10</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What each use does, with rarity and closest rival:</strong></p>
+<ul>
+<li><strong>Jer 49:7–16</strong>. The same oracle against Edom. Obadiah’s order runs 49:14–16, then back to 49:9, 10, 7. First of 862. קָטֹן נְתַתִּיךָ בַּגּוֹיִם (“small I have made you among the nations”) stands verbatim in both, two verses only. Direction of dependence: <strong>open</strong>.</li>
+<li><strong>Joel 3:5</strong>. Escape on Mount Zion. פְּלֵיטָה (“those who escape”) with הַר צִיּוֹן (“Mount Zion”): four verses. The ordered תִּהְיֶה פְלֵיטָה (“there will be those who escape”) stands in Joel 3:5 and Obad 17 only. Rivals Isa 37:32 = 2 Kgs 19:31 say “from Mount Zion”. Joel adds כַּאֲשֶׁר אָמַר יְהוָה (“as the LORD has said”), which marks a citation in Joel without naming its source.</li>
+<li><strong>Joel 4:3, 4, 7, 12, 14, 17, 19</strong>. Live on cumulative grounds: Joel 4 stays between 6th and 12th of 922 chapters when any one shared word is removed. גְּמוּל (“recompense”) with רֹאשׁ (“head”): Joel 4:4, 7 and Obad 15 only, the strongest item, and the Greek agrees. מֵחֲמַס (“because of violence”) with an objective genitive at Joel 4:19 and Obad 10. יַדּוּ גוֹרָל (“cast lots”): three verses, but Nah 3:10 has the closer frame. The near-day line is a formula (five verses verbatim) and adds nothing.</li>
+<li><strong>Amos 9:12</strong>. Amos ends with Edom and Obadiah comes next, so a reader will connect them. But יָרַשׁ (“possess”) with אֱדוֹם (“Edom”) in one verse is what chance would give (expected 0.82), and adjacent books in the Twelve share no more rare vocabulary than non-adjacent ones (mean rank 34.7 of 66; chance 33.5). Do not say Obadiah “unfolds that clause”.</li>
+<li><strong>Amos 1:6, 9, 11–12; 5:6; 9:2</strong>. הִסְגִּיר (“hand over”) with גָּלוּת (“exiles”) and Edom: Amos 1:6, 9 only. A brother pursued (1:11). Fire and Joseph (5:6): two verses. מִשָּׁם אוֹרִידֵם (“from there I will bring them down”, 9:2), near-verbatim. Rival for 9:2 is Jer 49:16, which is exact.</li>
+<li><strong>Num 24:17–21</strong>. Star, Edom a possession, survivor destroyed, “set your nest in the rock” (to the Kenite). שָׂרִיד (“survivor”) with יַעֲקֹב (“Jacob”): Num 24:19 and Obad 18 only. שִׂים (“set”) with קִנֶּךָ (“your nest”), the odd form at Obad 4: Num 24:21 and Obad 4 only; in Swete θῇς… νοσσιάν σου (“you set your nest”) likewise. Star, nest and survivor in one five-verse window: Num 24:17–21 only. The window ranks 13th of about 19,500 by raw count and 95th when weighted by rarity. Both auditors reached it separately. The senses are transferred boldly: the star is a ruler in Numbers and Edom’s false height here.</li>
+<li><strong>Gen 25–36; Num 20:14</strong>. The family. Jacob is הַקָּטָן (“the younger”, “small”; Gen 27:15, 42), and now Esau is made קָטֹן (“small”, v. 2). תֵּימָן (“Teman”) from Esau’s line (Gen 36:11). אָחִיךָ יִשְׂרָאֵל (“your brother Israel”, Num 20:14), said to Edom’s king, is the nearest frame for אָחִיךָ יַעֲקֹב (“your brother Jacob”).</li>
+<li><strong>Deut 2:5; Josh 24:4</strong>. The grant of Esau’s mountain, reversed. יָרַשׁ (“possess”), עֵשָׂו (“Esau”) and הַר (“mountain”) in one verse: Josh 24:4 and Obad 19 only (Deut 2:5 uses the cognate noun).</li>
+<li><strong>Lam 2:22; 4:21–22; Lam 2:3</strong>. The same catastrophe from two sides. פָּלִיט (“fugitive”) with שָׂרִיד (“survivor”) and יוֹם (“day”): Lam 2:22 and Obad 14 only. Lam 4:21–22 addresses Edom directly, with the cup; “rejoice” with Edom by the verb is Lam 4:21 only, though the noun שִׂמְחָה (“joy”) joins Edom at Ezek 35:15 and 36:5. יַעֲקֹב (“Jacob”) with לֶהָבָה (“flame”): Lam 2:3 and Obad 18 only; but the reversal is a reader’s construal, and Isa 10:17 is closer in shape.</li>
+<li><strong>Ps 137:7</strong>. Edom and “the day of Jerusalem”. Edom, יוֹם (“day”) and Jerusalem in one verse: Ps 137:7 only. Obadiah spreads them over vv. 1–12, so the scan sees no rare pair.</li>
+<li><strong>Ezek 35; 25:12–14</strong>. Edom’s calamity-gloating; magnified mouth; “as you… so I will do”. תֵּימָן (“Teman”) with כָּרַת (“cut off”): Ezek 25:13 and Obad 9. גָּדַל (“magnify”) with פֶּה (“mouth”): four verses.</li>
+<li><strong>Isa 14:13–15; Job 39:27–28; Ezek 31</strong>. Height and descent. Isa 14:13 אָמַרְתָּ בִלְבָבְךָ (“you said in your heart”) with כּוֹכְבֵי־אֵל (“stars of God”), then 14:15 תּוּרָד (“you will be thrust down”). כּוֹכָב (“star”) with לֵב (“heart”): Isa 14:13 only. This is the best model for Obadiah’s pluses against Jer 49. נֶשֶׁר (“eagle”) with גָּבַהּ (“build high”): Jer 49:16, Obad 4 and Job 39:27 only.</li>
+<li><strong>Jer 38:22</strong>. הִסִּיתוּךָ וְיָכְלוּ לְךָ אַנְשֵׁי שְׁלֹמֶךָ (“they have misled and overpowered you, the men at peace with you”) against Obad 7 הִשִּׁיאוּךָ יָכְלוּ לְךָ אַנְשֵׁי שְׁלֹמֶךָ (“they have deceived you, they have overpowered you, the men at peace with you”). Three words identical but for a waw, with a deception verb before them; ἄνδρες εἰρηνικοί (“men of peace”) in Swete at those two verses only. Jer 38:22 is a saying, so a shared proverb is possible.</li>
+<li><strong>Ps 41:10</strong>. A motif only. אִישׁ (“man”), שָׁלוֹם (“peace”) and לֶחֶם (“bread”): Ps 41:10 and Obad 7, but לַחְמְךָ (“your bread”) has no equivalent in the Greek, and BHS proposes לֹחֲמֶיךָ (“those fighting you”).</li>
+<li><strong>Ps 22:29</strong>. The closing line. לַיהוָה הַמְּלוּכָה (“to the LORD the kingdom”), same order, two verses. But it is two words in a formula frame (compare Ps 3:9; Prov 21:31), one in eight of Obadiah’s two-word sequences stands in exactly one other verse, and the psalm shows no other contact. An exact shared acclamation, not an allusion. Isa 34:12, on Edom, is the thematic negative.</li>
+<li><strong>Judg 2:16, 18; Neh 9:27</strong>. Saviours who judge. יָשַׁע (“save”) with שָׁפַט (“judge”): eight verses, led by Judges. Plural מוֹשִׁיעִים (“deliverers”): Neh 9:27 and Obad 21 only.</li>
+<li><strong>Lev 24:19; Ezek 35:15; Ps 7:17; Judg 1:7</strong>. Measure for measure. Lev 24:19 כַּאֲשֶׁר עָשָׂה כֵּן יֵעָשֶׂה לּוֹ (“as he has done, so it shall be done to him”) is the near-formal twin of v. 15a, in the same passive stem. Ezek 35:15 is to Edom. Ps 7:17 יָשׁוּב עֲמָלוֹ בְרֹאשׁוֹ (“his mischief will return upon his own head”) is the best syntax for v. 15b, though שׁוּב (“return”) with רֹאשׁ (“head”) is common. The four-word “only” at Ps 7:17 is an artefact of scattered words; יָרַד (“descend”) there has another sense. Joel 4:4, 7 is nearer in vocabulary.</li>
+<li><strong>Deut 32:35; Jer 18:17</strong>. A plausible background only. Obad 13’s exact בְּיוֹם אֵידָם (“in the day of their disaster”) is at Jer 18:17; Deut 32:35 has כִּי קָרוֹב יוֹם אֵידָם (“for the day of their calamity is near”) without the preposition. The near-day line is a formula. Rom 12:19 quotes this verse’s first colon, so it does not connect to Obad 15 by allusion.</li>
+<li><strong>Gen 27:41</strong>. Low. “Said in his heart” is idiom (30 verses), and Isa 14:13 is closer; “near” differs in form and sense; “brother” belongs to the whole Edom tradition. A reader may hear Esau’s resolve behind v. 10, but the wording does not require this verse.</li>
+<li><strong>Prov 17:5; 24:17; Job 31:3</strong>. A shared word and censure. שָׂמֵחַ לְאֵיד לֹא יִנָּקֶה (“he who rejoices at calamity will not go unpunished”, Prov 17:5). אַל־תִּשְׂמַח (“do not rejoice”, Prov 24:17). נֵכֶר (“misfortune”) with אֵיד (“calamity”): Job 31:3 only. Also prophetic: Mic 7:8; Jer 49:8. Prov 27:10 was tested and discarded: its sense runs the other way.</li>
+<li><strong>Mic 7:8–10</strong>. An enemy gloating over a fallen Zion. אַל־תִּשְׂמְחִי (“do not rejoice”), and בּוּשָׁה (“shame”) as the subject of כָּסָה (“cover”): Mic 7:10 and Obad 10 only (at Ezek 7:18 the subject is “horror”). The sense matches, and it survives because of shape, not vocabulary mass.</li>
+<li><strong>Hab 2:17</strong>. חֲמַס לְבָנוֹן יְכַסֶּךָּ (“the violence done to Lebanon will overwhelm you”) against Obad 10: violence, objective genitive, “cover” with second-person object. In Swete καλύψει σε (“will cover you”) at Hab 2:17 and Obad 10, each with ἀσέβεια (“impiety”); one translator of the Twelve may explain that. Hab 2:9 is a motif only, and 2:16 has been dropped.</li>
+<li><strong>Isa 51:17–23; Jer 25:28–29; 49:12; Joel 4:3; Amos 4:1</strong>. Who drank? כּוֹס (“cup”) is not in Obadiah, but all the wrath uses of “drink” elsewhere have a cup, wine or wrath nearby, so its absence argues against neither reading. For Judah: the plural contrasting with “all the nations”, one sense of the verb, and Jer 49:12. For revellers: Joel 4:3, Amos 2:8 and 4:1, and the Greek singular ἔπιες (“you drank”). Both are defensible.</li>
+<li><strong>Judg 1; Josh 16:10; Jer 32:44; 33:13</strong>. Mostly the ordinary vocabulary of land. Judg 1 has Negev, Shephelah, Benjamin, Ephraim, Canaanite, Jerusalem and בֵּית יוֹסֵף (“house of Joseph”) with יָרַשׁ (“possess”), which goes modestly beyond that. But nothing in Obadiah marks anything as unfinished. Jeremiah’s restoration lists are the nearer model, with עָרֵי הַנֶּגֶב (“the cities of the Negev”) at Jer 13:19; 32:44; 33:13 and Obad 20.</li>
+<li><strong>Isa 10:17–20</strong>. וְהָיָה אוֹר־יִשְׂרָאֵל לְאֵשׁ וּקְדוֹשׁוֹ לְלֶהָבָה (“the light of Israel will become a fire and his Holy One a flame”), with אָכַל (“consume”), then פְּלֵיטַת בֵּית־יַעֲקֹב (“the escaped of the house of Jacob”). Closest in shape to Obad 17–18 for a people’s fire and the escaped.</li>
+<li><strong>Isa 63:1–5</strong>. Edom judged is the link, not wording. Isa 63:3, 5 denies any helper, so it is a contrast with Obad 21’s plural deliverers. Isa 63 to Rev 19 is firm. Rev 19 names Babylon, not Edom. Offer it as reflection only.</li>
+<li><strong>Isa 5:24; 47:14</strong>. Stubble and fire. אֵשׁ (“fire”), לֶהָבָה (“flame”) and קַשׁ (“stubble”): these three verses.</li>
+<li><strong>Isa 15:1</strong>. Night, destruction, ruin (of Moab). שָׁדַד (“destroy”) with דָּמָה (“ruin”): two verses, these.</li>
+<li><strong>Mal 1:2–4</strong>. Esau and Jacob brothers; Esau’s mountains; the Twelve’s closing Edom text. אָח (“brother”) with Esau and Jacob outside Genesis: Mal 1:2 only. Mal 3:19 adds קַשׁ (“stubble”) with זֵדִים (“arrogant ones”, cognate of זָדוֹן, “arrogance”, v. 3), that pair in Mal 3:19 only. The real link is אָח (“brother”) with יַעֲקֹב (“Jacob”) outside Genesis: Obad 10 and Mal 1:2 only. Mal 3:19 is rated low. Edom does not <em>frame</em> the Twelve: it clusters in books 2–4, then returns as the only nation named in Malachi.</li>
+</ul>
+<p><strong>Top ten of the scan, accounted for</strong> (chapters of ten verses or more): Jer 49, Ezek 25, Job 39, Lam 2 and Joel 4 enter the map. Ezek 31 enters as analogue (a tree lifted high and brought down). Jer 40 enters only for background: גָּלוּת יְרוּשָׁלִַם (“the exile of Jerusalem”) at 40:1 and Judeans in Edom at 40:11. Isa 57 is scattered common words, though יִירַשׁ הַר־קָדְשִׁי (“will possess my holy mountain”, 57:13) is worth a look in a dig. Dan 12 is incidental. Josh 16, set aside as incidental in v1.0, now enters the map: its verse is about land not taken.</p>
+<p><strong>A scan’s blind spot.</strong> Lowering the floor to five verses puts <strong>Joel 3 second of 922</strong>, a five-verse chapter the ten-verse floor excludes. Isa 15 and Isa 18 also appear (Isa 18’s envoy is incidental). <strong>The scan has a second blind spot:</strong> it compares verse with verse, so it cannot see words Obadiah spreads over adjoining verses. Scoring five-verse windows finds such clusters (Num 24:17–21). Word sets drawn from scattered verses are candidates only: 14.2 % of the verses of the Hebrew Bible hold a three-word set from Obadiah’s vocabulary found in no other verse.</p>
+<p><strong>Book-level finding.</strong> Obadiah is not citation-light. It is densely allusive in vv. 1–9, carried there by Jeremiah 49, and in vv. 15–21 by Joel and Lamentations. Verses 10–14 are not short of rare contacts (59 pairs, about 12 per verse, against about 9 and 10 for the other blocks once Jeremiah 49 is set aside), but those contacts are scattered: no chapter concentrates them, and the top of that block’s scan (Dan 12, Ps 54, Nah 3) is mostly incidental. <strong>The charge has no dominant outside partner, unlike the sentence before it</strong> <code>[T for the measure; I for its meaning]</code>, though Mic 7:8–10 is a real partner, and Prov 17:5 and 24:17 share its censure. Passage runs should lean on Move 4 there. <em>This corrects a first-draft claim that vv. 10–14 had the fewest contacts, which the count did not support.</em></p>
+<p><strong>NT.</strong> No marked citation of Obadiah was found in reading, but this was not swept and is <code>[unverified]</code>. Check Jones’s <em>OT Quotations and Allusions in the NT</em>.</p>
+<hr />
+<h2 id="hebrew-and-greek-side-by-side">Hebrew and Greek Side by Side</h2>
+<p><strong>Obadiah’s own pluses against Jer 49</strong> <code>[T]</code>. Two items stand in Obadiah and not in Jeremiah’s parallel: the taunt מִי יוֹרִדֵנִי אָרֶץ (“Who will bring me down to earth?”, v. 3), and בֵּין כּוֹכָבִים (“among the stars”, v. 4). Both raise the height from which he falls. Jer 49 also has no יַעֲקֹב (“Jacob”), no צִיּוֹן (“Zion”), and its only אָח (“brother”) at 49:10 is Esau’s own kin. Whichever way the dependence ran, in Obadiah the old oracle has been given a brother.</p>
+<p><strong>Where the Greek changes the reading</strong> (Rahlfs cited, Swete compared) <code>[T]</code>:</p>
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verse</th>
+<th>Hebrew</th>
+<th>Greek</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3, 7</td>
+<td>הִשִּׁיא (“deceive”) twice</td>
+<td>ἐπῆρεν (“lifted up”) then ἀντέστησαν (“stood against”)</td>
+<td>Hebrew’s link is lost</td>
+</tr>
+<tr class="even">
+<td>7, 11</td>
+<td>Different verbs</td>
+<td>ἀντέστησαν (“stood against”) and ἀντέστης (“you stood against”)</td>
+<td>A new link: allies do to Edom what Edom did</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>לַחְמְךָ (“your bread”)</td>
+<td>Absent</td>
+<td>The table is gone</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>עַמִּי (“my people”)</td>
+<td>λαῶν (“of peoples”)</td>
+<td>“My” is lost</td>
+</tr>
+<tr class="odd">
+<td>14, 18</td>
+<td>שָׂרִיד (“survivor”) twice</td>
+<td>τοὺς φεύγοντας (“those fleeing”), πυροφόρος (“fire-bearer”)</td>
+<td>Hebrew’s reversal is lost</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>וְלָעוּ (“and swallow”)</td>
+<td>καταβήσονται (“will go down”)</td>
+<td>Echoes κατάξω (“I will bring down”, vv. 3–4)</td>
+</tr>
+<tr class="odd">
+<td>16</td>
+<td>תָּמִיד (“continually”)</td>
+<td>Rahlfs πάντα τὰ ἔθνη οἶνον (“all the nations… wine”); <strong>Swete lacks these words</strong></td>
+<td>Editions diverge</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>מוֹרָשֵׁיהֶם (“their possessions”)</td>
+<td>τοὺς κατακληρονομήσαντας αὐτούς (“those who dispossessed them”)</td>
+<td>See below</td>
+</tr>
+<tr class="odd">
+<td>20</td>
+<td>סְפָרַד (“Sepharad”)</td>
+<td>Εφραθα (“Ephratha”)</td>
+<td>Place changes</td>
+</tr>
+<tr class="even">
+<td>21</td>
+<td>מוֹשִׁעִים (“saviours”), בְּהַר (“on the mount”)</td>
+<td>Rahlfs ἄνδρες σεσῳσμένοι (“men saved”), Swete ἀνασωζόμενοι (“those being saved”); ἐξ ὄρους (“from the mount”)</td>
+<td>Saviours become saved; they go up <em>from</em> Zion, not onto it</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Apparatus, as BHS prints it</strong> <code>[T for the note; not checked across manuscripts]</code>:</p>
+<ul>
+<li><ol start="22" type="a">
+<li>17: reads מוֹרִשֵׁיהֶם (“their dispossessors”), citing Murabba’at and the versions.</li>
+</ol></li>
+<li><ol start="22" type="a">
+<li>11: ketiv שַׁעֲרוֹ (“his gate”), against the printed qere שְׁעָרָיו (“his gates”).</li>
+</ol></li>
+<li><ol start="22" type="a">
+<li>20: marks הַחֵל הַזֶּה (“this host”) as corrupt. <strong>Nothing should be built on v. 20’s wording.</strong></li>
+</ol></li>
+<li><ol start="22" type="a">
+<li>19: marks several phrases as probable glosses.</li>
+</ol></li>
+<li><ol start="22" type="a">
+<li>21: notes the Greek’s “saved”.</li>
+</ol></li>
+</ul>
+<p>Murabba’at and the Greek together make v. 17 a real textual question and a target for a Logos pass: <em>Lexham Textual Notes</em> and any Göttingen reading through a library (Göttingen <em>Duodecim</em> is not in his Logos).</p>
+<hr />
+<h2 id="christological-trajectory">Christological Trajectory</h2>
+<p><strong>Type: trajectory, with contrast. No direct prophecy of a messiah.</strong> מֶלֶךְ (“king”) does not occur in the book, and no Davidic figure appears <code>[T]</code>. The hope is theocentric: not the saviours but YHWH holds הַמְּלוּכָה (“the kingdom”) <code>[T]</code>.</p>
+<ul>
+<li><strong>The kingdom</strong> <code>[I, high]</code>. “And the kingdom will be the LORD’s” is taken up in the NT’s language: ἐγένετο ἡ βασιλεία… τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ (“the kingdom has become… of our Lord and of his Christ”, Rev 11:15), and Jesus reigns ἐπὶ τὸν οἶκον Ἰακώβ (“over the house of Jacob”, Luke 1:33). The same two words stand at Ps 22:29, as an exact shared acclamation. Neither NT text is marked as citing Obadiah.</li>
+<li><strong>Saviours on Zion</strong> <code>[I, moderate]</code>. The plural belongs to the judges pattern (Judg 2:16; Neh 9:27), and it longs for a final one. Zech 9:9 puts the single king coming to Zion as נוֹשָׁע (“saved”, “victorious”), and the Greek of Obad 21 makes those who go up “saved” as well. The move from plural to one is a canonical inference, not Obadiah’s.</li>
+<li><strong>The brother who does not stand aloof</strong> <code>[I, moderate; contrast]</code>. Edom stood מִנֶּגֶד (“aloof”) on his brother’s day. Jesus is made like his brothers in every respect (τοῖς ἀδελφοῖς ὁμοιωθῆναι, “to be made like his brothers”, Heb 2:17).</li>
+<li><strong>Descent</strong> <code>[I, moderate; contrast]</code>. “Who will bring me down?” is answered for Edom by force. Luke 1:52 sings the same reversal, and the Son comes down of his own will.</li>
+<li><strong>The drinking</strong> <code>[I, uncertain]</code>. Verse 16 says all nations will drink, and Jesus asks that τὸ ποτήριον (“the cup”) pass (Mark 14:36). But כּוֹס (“cup”) is not in Obadiah. It comes from Jer 49:12 and Lam 4:21, and the addressee of v. 16 is disputed. This may only be made through those texts.</li>
+<li><strong>One saviour, from Edom</strong> <code>[I, low–moderate from Obad 21; reflection]</code>. Obadiah’s plural deliverers follow the Judges pattern. Isa 63:1–5 has one who comes from Edom, רַב לְהוֹשִׁיעַ (“mighty to save”), who treads alone with no helper, and Rev 19:13, 15 applies that garment and winepress firmly to the Word of God, though Rev 19 names Babylon. This is a contrast and a canonical reflection, not Obadiah’s direction. Greek Obad 21 has no deliverers at all.</li>
+<li><strong>The returning deeds</strong> <code>[I, moderate; contrast]</code>. “Your dealings will return on your own head” (v. 15). For those in Christ, what should return on us returned on him (2 Cor 5:21; Isa 53:6). A theological reading; the line comes from the July overview.</li>
+<li><strong>What became of Edom</strong> <code>[T for each text; I for the connection]</code>. Ἰδουμαία (“Idumea”) occurs once in the NT, among the crowds coming to Jesus (Mark 3:8). And at Jerusalem, James quotes Amos 9:12 in a Greek where “possess the remnant of Edom” has become “the remnant of humanity may seek the Lord” (Acts 15:17, οἱ κατάλοιποι τῶν ἀνθρώπων, “the remnant of humanity”). This is Amos, not Obadiah, but it is the NT’s own handling of the verse Obadiah expands, and the possession language is answered by the calling of the nations. A preacher should not skip from v. 19 to a map, or to Edom’s elimination, without passing through this.</li>
+</ul>
+<p><strong>Moralism check.</strong> The temptation is “don’t be proud, don’t gloat.” True, but Obadiah does not end on an instruction. Its last word is an announcement about who reigns. The gospel grounding is that no one is safe by height, the day comes on <em>all</em> the nations (v. 15), and escape is found on the mountain YHWH calls his own (v. 17), which is given and not achieved.</p>
+<hr />
+<h2 id="preaching-traps">Preaching Traps</h2>
+<ol type="1">
+<li><strong>“A sermon on pride.”</strong> It sounds right, and vv. 2–4 support it. But the charge in the book is not pride. It is violence to a brother, vv. 10–14. <em>Bites at vv. 2–4, if the sermon never reaches v. 10.</em></li>
+<li><strong>“The sin of standing by.”</strong> A good word, but it stops at v. 11. The eight prohibitions escalate from watching, to rejoicing, to entering, to looting, to blocking the road and handing over survivors. <em>Bites at vv. 11–14.</em></li>
+<li><strong>A licence for vengeance.</strong> “As you have done, it will be done to you” is YHWH’s act. Prov 24:29 forbids the same words on a human tongue, and Rom 12:19, quoting Deut 32:35, forbids personal revenge. <em>Bites at vv. 15, 18, and in pastoral settings with people who have been deeply wronged. Give the comfort honestly, without turning it into permission.</em></li>
+<li><strong>Mapping modern nations.</strong> Vv. 19–20 read as a map of the present Middle East, or Edom as a code for a current people. The text has no such key, and v. 20 is textually damaged. <em>Bites at vv. 17–21.</em></li>
+<li><strong>Edom as a theological cipher.</strong> Esau as “the flesh”, Herod as Edom’s heir (Herod’s Idumaean descent is <code>[S]</code>, and the NT does not make the argument), or Romans 9 as the book’s key. Obadiah’s charge is historic conduct, not birth, and אָהֵב (“love”) and שָׂנֵא (“hate”) are not here. <em>Bites at vv. 1, 10, 18.</em></li>
+<li><strong>Hearing the tenses as settled.</strong> ESV presents vv. 5–7 as past, and NASB95 as future. Both render vv. 12–14 “do not”, though the events appear to be past from v. 11. Is Edom fallen, or falling? Are these warnings, or a vivid replay? The sermon has to decide and say so. <em>Bites at vv. 5–7, 12–14.</em> Likewise the “cup” at v. 16, which the text does not name.</li>
+<li><strong>Ducking the judgement.</strong> Softening or skipping v. 18 because it is uncomfortable. It sounds kind, but without it the comfort to the wounded is empty. Read it, take the image seriously, and carry it to the NT’s handling. <em>Bites at vv. 15–18.</em></li>
+</ol>
+<hr />
+<h2 id="earlylate-echo-table">Early↔︎Late Echo Table</h2>
+<p>All verified by lemma in the WLC unless marked cognate. Addressee check: Edom is singular “you” through v. 15, the verb at v. 16 is plural, and no one is “you” after that <code>[T]</code>. אֱדוֹם (“Edom”) occurs only at vv. 1 and 8; thereafter he is only עֵשָׂו (“Esau”), Jacob’s brother, seven times from v. 6 <code>[T]</code>.</p>
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Early</th>
+<th>Later</th>
+<th>Relationship</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>מִי יוֹרִדֵנִי (“who will bring me down”, v. 3)</td>
+<td>מִשָּׁם אוֹרִידְךָ (“from there I will bring you down”, v. 4)</td>
+<td>Answers, at once</td>
+<td>High</td>
+</tr>
+<tr class="even">
+<td>הִשִּׁיאֶךָ (“has deceived you”, heart, v. 3)</td>
+<td>הִשִּׁיאוּךָ (“deceive you”, allies, v. 7)</td>
+<td>Replants: self-deception, then allies’. These two only in the book</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>אֵין תְּבוּנָה (“no understanding”, v. 7)</td>
+<td>תְּבוּנָה (“understanding”) destroyed, v. 8</td>
+<td>Link word across the seam</td>
+<td>High</td>
+</tr>
+<tr class="even">
+<td>קָטֹן… בַּגּוֹיִם (“small among the nations”, v. 2)</td>
+<td>כְּאַחַד מֵהֶם (“as one of them”, v. 11); כָּל־הַגּוֹיִם (“all the nations”, vv. 15, 16)</td>
+<td>Among them, one of them, judged with them</td>
+<td>Moderate; <code>[I]</code></td>
+</tr>
+<tr class="odd">
+<td>וְהַאֲבַדְתִּי (“I will destroy”, v. 8)</td>
+<td>בְּיוֹם אָבְדָם (“day of their destruction”, v. 12)</td>
+<td>Penalty precedes crime; same verb</td>
+<td>High on the word; moderate as reversal</td>
+</tr>
+<tr class="even">
+<td>יִכָּרֶת, וְנִכְרַתָּ (“be cut off”, “you will be cut off”, vv. 9, 10)</td>
+<td>לְהַכְרִית (“to cut down”, v. 14)</td>
+<td>The sentence names the crime</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>עֲמָדְךָ מִנֶּגֶד (“you stood aloof”, v. 11)</td>
+<td>תַּעֲמֹד עַל־הַפֶּרֶק (“stand at the fork”, v. 14)</td>
+<td>Escalates: from far off to blocking the road</td>
+<td>High</td>
+</tr>
+<tr class="even">
+<td>strangers בָּאוּ (“entered”), חֵילוֹ (“his wealth”), v. 11</td>
+<td>אַל־תָּבוֹא (“do not enter”), בְחֵילוֹ (“his wealth”), v. 13</td>
+<td>Edom does what the strangers did. גַּם־אַתָּה (“you too”) at vv. 11 and 13</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>פְּלִיטָיו (“his fugitives”, v. 14)</td>
+<td>פְלֵיטָה (“those who escape”, v. 17)</td>
+<td>Cognate. Those Edom hunted are found on Zion</td>
+<td>High as cognate; moderate as design</td>
+</tr>
+<tr class="even">
+<td>שְׂרִידָיו (“his survivors”, v. 14)</td>
+<td>לֹא־יִהְיֶה שָׂרִיד (“no survivor”, v. 18)</td>
+<td>Reverses, exactly, on the same word</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>הֲלוֹא יַשְׁאִירוּ (“would they not leave”, v. 5)</td>
+<td>לֹא־יִהְיֶה שָׂרִיד (“no survivor”, v. 18)</td>
+<td>Even grape-pickers leave something; this will not. Different words</td>
+<td>Moderate</td>
+</tr>
+<tr class="even">
+<td>הַר עֵשָׂו (“mountain of Esau”, vv. 8, 9)</td>
+<td>vv. 19, 21</td>
+<td>Cut off from it; possessed; judged from Zion</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>יָרַד (“bring down”, vv. 3–4)</td>
+<td>עָלָה (“go up”, v. 21)</td>
+<td>Descent for Esau, ascent to Zion. Different words</td>
+<td>Moderate; <code>[I]</code></td>
+</tr>
+<tr class="even">
+<td>אָחִיךָ יַעֲקֹב (“your brother Jacob”, v. 10)</td>
+<td>בֵּית יַעֲקֹב (“house of Jacob”) and בֵּית עֵשָׂו (“house of Esau”), vv. 17–18</td>
+<td>The family named again as two houses. בֵּית עֵשָׂו (“house of Esau”) occurs nowhere else in the Hebrew Bible</td>
+<td>High</td>
+</tr>
+<tr class="odd">
+<td>קוּמוּ (“rise up”, v. 1)</td>
+<td>עָלוּ (“go up”, v. 21)</td>
+<td>Nations rise against; saviours go up</td>
+<td>Uncertain</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Design note.</strong> The “reversal” reading is real but narrower than it feels. By raw count, vv. 10–14 and 15–21 share only three content words, <em>fewer</em> than chance would give (mean 8.0). The links are few, pointed and placed. Talion is the book’s stated principle at v. 15, rated high. As a lexical design it is low–moderate: only כָּרַת (“cut off”) and שָׂרִיד (“survivor”) are real mirrors, פְּלֵיטָה (“those who escape”) is a reversal in the victim’s favour, and אָבַד (“destroy”) is weak.</p>
+<hr />
+<h2 id="preaching-units">Preaching Units</h2>
+<p><strong>As one sermon:</strong> Obadiah 1–21, ⭐ HIGH. It is short enough, and its force comes from the three parts together.</p>
+<p><strong>As a short series:</strong></p>
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 41%" />
+<col style="width: 41%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Title</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1–9</td>
+<td>Who Will Bring Me Down?</td>
+<td>Standard, unless Jeremiah 49 is being worked; then ⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>10–14</td>
+<td>On Your Brother’s Day</td>
+<td>⭐ HIGH: the tense question, and no dominant outside partner to lean on</td>
+</tr>
+<tr class="odd">
+<td>15–21</td>
+<td>The Kingdom Will Be the LORD’s</td>
+<td>⭐ HIGH: v. 16 addressee, v. 17 text, v. 20 crux, v. 21 Greek</td>
+</tr>
+</tbody>
+</table>
+<p>The chapter-less book has no versification seam to resist, but vv. 9–10 and 15–16 cross what the verse numbers suggest.</p>
+<hr />
+<h2 id="pulpit-and-study-text">Pulpit and Study Text</h2>
+<p>These are notes to the preacher on what the congregation will hear, not verdicts on translation.</p>
+<ul>
+<li><strong>v. 1.</strong> קוּמוּ וְנָקוּמָה (“rise and let us rise”). NASB95: “Arise and let us go”. ESV: “Rise up! Let us rise”. ESV keeps the repetition.</li>
+<li><strong>v. 2.</strong> נְתַתִּיךָ (“I have made you”), perfect. NASB95: “I will make”. ESV: “I will make”. Both future. Neither signals the perfect.</li>
+<li><strong>vv. 5–7.</strong> Perfects. NASB95: “will be ruined”, “will be ransacked”. ESV: “have been destroyed”, “has been pillaged”. <strong>ESV: it has happened. NASB95: it will</strong>.</li>
+<li><strong>v. 7.</strong> אֵין תְּבוּנָה בּוֹ (“no understanding in him”). NASB95: “(There is no understanding in him.)”. ESV: “you have no understanding”. ESV turns the aside into direct address.</li>
+<li><strong>v. 11.</strong> ketiv “gate” / qere “gates”. NASB95: “gate”. ESV: “gates”. Small; see the apparatus note above.</li>
+<li><strong>v. 12.</strong> וְאַל (“and do not”). NASB95: “Do not”. ESV: “But do not”. ESV adds a contrast that וְ (“and”) may not carry.</li>
+<li><strong>vv. 13–14.</strong> “their” once, then “his”. NASB95: “their” throughout. ESV: “their”, then “his”. ESV keeps the shift to one person.</li>
+<li><strong>v. 14.</strong> תַּסְגֵּר (“hand over”). NASB95: “imprison”. ESV: “hand over”. ESV matches the use in Amos 1:6, 9.</li>
+<li><strong>v. 17.</strong> מוֹרָשֵׁיהֶם (“their possessions”). NASB95: “their possessions”. ESV: “their own possessions”. ESV’s “own” is an interpretation, and the variant (dispossessors) is not visible.</li>
+<li><strong>vv. 19–20.</strong> Syntax disputed. NASB95: “those of the Shephelah the Philistine plain”. ESV: “shall possess the land of the Philistines”. Different maps. v. 20’s subjects differ too.</li>
+<li><strong>v. 21.</strong> לִשְׁפֹּט (“to judge”). NASB95: “to judge”. ESV: “to rule”. <strong>ESV’s congregation does not hear “judge”</strong>, and so loses the Judges link.</li>
+</ul>
+<hr />
+<h2 id="open-questions-for-the-digs">Open Questions for the Digs</h2>
+<ol type="1">
+<li><strong>Verses 12–14: past or future?</strong> אַל (“not”) with the jussive normally prohibits. The NET note takes these as rhetorical, addressed back into a past event; Collins argues from the same grammar for a real warning and so a ninth-century date <code>[S, both]</code>. Verse 11’s perfects favour the past <code>[I, moderate]</code>. Do not preach this as settled.</li>
+<li><strong>Verse 16: who drank?</strong> The verb שְׁתִיתֶם (“you drank”) is plural, after singular “you” in v. 15 <code>[T]</code>. The dig leans slightly to Judah, at low to moderate confidence. Options: Edom revelling; Judah under judgement (Jer 49:12, “those who did not deserve to drink”); the nations <code>[S: NET note lists these and rejects Judah since God's people are nowhere else addressed]</code>. <strong>The plural and Jer 49:12 both weigh on the Judah reading, and the draft leaves it open.</strong></li>
+<li><strong>Direction of dependence with Jer 49, and with Joel 3:5.</strong> Open. Renkema has Obadiah adapting Jeremiah, and Collins the reverse <code>[S]</code>. Joel’s “as the LORD has said” points to a prior word, but not necessarily Obadiah’s. A Synoptic Mode run on Obad 1–9 // Jer 49:7–16 is the proper tool.</li>
+<li><strong>Verse 17’s text</strong>, and <strong>v. 20’s</strong>. Logos questions, not corpus ones.</li>
+<li><strong>Any NT use.</strong> Check Jones.</li>
+</ol>
+<hr />
+<h2 id="what-changed-in-v1.1">What Changed in v1.1</h2>
+<ul>
+<li><strong>Versification</strong> stated for references outside Obadiah.</li>
+<li><strong>Map:</strong> added Ps 7:17 and Judg 1:7; Deut 32:35; Gen 27:41; Prov 27:10, 24:17, 29; Mic 7:8–10; Hab 2:9, 16, 17; Isa 51:17–23 with Jer 25:28–29; the land left undone; Isa 63:1–5; Mal 3:19.</li>
+<li><strong>Corrected:</strong> Josh 16 is no longer called incidental.</li>
+<li><strong>Traps:</strong> added ducking the judgement, from the July overview.</li>
+<li><strong>Christological trajectory:</strong> added Isa 63 to Rev 19, and the returning deeds, the latter from the July overview.</li>
+<li><strong>Microscript:</strong> now causal, following מֵחֲמַס (“because of violence”) at v. 10.</li>
+<li><strong>Scan:</strong> the verse-against-verse blind spot is stated.</li>
+</ul>
+<p>All new rows were verified by lemma in the WLC.</p>
+<h2 id="what-changed-in-v1.2">What Changed in v1.2</h2>
+<p>Claim audit 1 applied. Up: Num 24:17–21; Jer 38:22 now stands alone. Down: Joel 3:5 and Joel 4 to moderate–high; Amos 9:12 as design; Ps 22:29; Ps 41:10; Gen 27:41; Deut 32:35; Hab 2; Ps 7:17; Lam 2:3 as reversal; the land left undone; Isa 63 from Obad 21; the talion mirror; Edom as frame. Discarded: Prov 27:10. Added: Isa 10:17–20; Prov 17:5; Job 31:3; Num 20:14; Ezek 35:15. Restated: the block odds and the 14|15 boundary.</p>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<ul>
+<li><strong>Version:</strong> 1.2. <strong>Date:</strong> 4 November 2026. <strong>Mode:</strong> Draft, patched from the comparison, the first dig and claim audit 1 (<code>dig-deeper-obadiah-claim-audit</code>).</li>
+<li><strong>Independence.</strong> v1.0 was built without opening the July overview, the July dig, the Twelve overview or the Twelve orientation frame. v1.1 has been compared with the July overview (<code>comparison-obadiah-book-overviews-2026-11-04</code>). The July dig and the two Twelve documents remain unopened. The July files are in <code>_superseded/</code>.</li>
+<li><strong>Primary texts opened:</strong> WLC, Swete, SBLGNT, and from the Logos exports BHS with apparatus, Rahlfs, NASB95 and ESV.</li>
+<li><strong>Sources consulted (checking stage, web only, after the draft):</strong> Cook’s review of Renkema, <em>Obadiah</em> (JHS); the NET Bible notes on Obad 12–16; Collins, “The Date of Obadiah” (blog, footnoted, not peer-reviewed). <strong>No commentary was read directly and Logos was not queried.</strong> Every <code>[S]</code> is thin for that reason.</li>
+<li><strong>Warrant counts:</strong> [T] 29 · [I] 22 · [S] 11 (tag instances, mixed tags counted under each).</li>
+<li><strong>Chains verified:</strong> 59 lemmas, 204 references checked verse by verse against the WLC lemma index, with a positive control passed. One failed and was restated: Jer 1:3 carries the verbal form, not the noun גָּלוּת (“exile”). Ordered phrases checked plain and skeletal. Absences (מֶלֶךְ “king”, בָּבֶל “Babylon”, כּוֹס “cup”, אָהֵב “love”, שָׂנֵא “hate” in Obadiah; יַעֲקֹב “Jacob”, צִיּוֹן “Zion” in Jer 49) stated after the same control. Greek read directly in the Rahlfs export, Swete and SBLGNT.</li>
+<li><strong>Audit:</strong> all the design claims have now been tested, in audit 1. Verdicts are carried into this version.</li>
+<li><strong>Baselines run:</strong> three-block cohesion (20,000 shuffles, and all 91 contiguous cuts), passed; reversal by vocabulary count, not supported (see Echo Table).</li>
+<li><strong>Limits.</strong> The corpus holds one Hebrew manuscript tradition, so apparatus findings name BHS. The scan cannot see a pair that straddles two verses, a single rare word, or syntax.</li>
+<li><strong>Health note:</strong> Draft, text-first, with the checking stage thin. It awaits a Logos pass and a sweep before finalising.</li>
+</ul>
+
+</main>
+</div>
+</body>
+</html>
