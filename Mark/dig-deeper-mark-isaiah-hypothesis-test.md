@@ -8,6 +8,17 @@
 **Mode.** Hypothesis test. The inventory was built from the text first. Secondary literature was not opened; what it says is set out as questions for Logos.
 **Date.** 6 November 2026. Draft v1.0.
 
+> **Post-audit note (6 November 2026).** This report is left unchanged as a record. Claim audit 2 (`Mark/dig-deeper-mark-claim-audit-2.md`) has tested its six claims, and where the two disagree the audit supersedes this report. In brief:
+>
+> - **Frame.** It holds and is strengthened: Isaiah's weighting towards the prologue is significant against the movements' lengths.
+> - **Substrate.** Isaiah is the most-used source and, with Exodus, the most widely spread. "Most evenly spread" is **withdrawn**, because the 0.29 benchmark was misread.
+> - **Architecture.**
+>   - Isa 42:16 survives only as part of a Greek-led cluster (Isa 35:5–8; 40:3–4; 42:16–18). "The only text in Hebrew or Greek" fails across two verses, because of Jer 31:8–9 in the Hebrew.
+>   - The Isa 35 sequence is downgraded to uncertain.
+>   - Isa 52:7 is reframed as a herald complex (40:9–10; 52:7; 61:1).
+>   - Isa 49 / 53:12 at 3:27 stays uncertain.
+>   - The "way" phrase ἐν τῇ ὁδῷ ("on the way") is the continuation of Exod 23:20, not the wording of Isa 40:3, so falsifier F2 is partly met.
+
 ---
 
 ## The Hypothesis and How It Was Tested

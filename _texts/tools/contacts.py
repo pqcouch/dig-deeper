@@ -132,16 +132,87 @@ def cmd_scan(spec, K=5, minv=10, top=20):
 GNT_IDX = os.path.join(ROOT, 'greek-nt-sblgnt', '_index')
 LXX_DIR = os.path.join(ROOT, 'greek-lxx-swete')
 _KEEP_POS = ('N-', 'V-', 'A-')            # nouns, verbs, adjectives
-_SKIP = {'εἰμί', 'γίνομαι', 'ἔχω', 'λέγω', 'ποιέω', 'πᾶς', 'αὐτός', 'ἐγώ', 'σύ', 'οὗτος', 'ὅς', 'τίς', 'τις'}
+_SKIP = {'δεῖ', 'εὐθύς (adv.)', 'εἰμί', 'γίνομαι', 'ἔχω', 'λέγω', 'ποιέω', 'πᾶς', 'αὐτός', 'ἐγώ', 'σύ', 'οὗτος', 'ὅς', 'τίς', 'τις'}
 _ENDS = ['ομαι', 'μαι', 'ευω', 'σσω', 'ττω', 'οω', 'εω', 'αω', 'μι', 'ευς', 'ος', 'ον', 'ης', 'ις', 'υς',
          'ια', 'ας', 'ων', 'η', 'α', 'ω', 'ς']
 
 def _strip(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if not unicodedata.combining(c)).lower()
 
+# --- stem rules, revised 6 Nov 2026 after the Mark claim audit 2 (auditors A and B) ---------------
+# Faults found: (1) short noun stems caught false friends (ὁδ- caught ὀδόντες, "teeth") and missed
+# forms (ὁδῷ); (2) βασιλεία's stem caught βασιλεύς ("king"); (3) verb stems missed future/aorist
+# consonant changes (ἀναβλέψατε), internal augments (ἀνέβλεψεν), vowel augments (ἤγγικεν),
+# reduplication (λελυτρωμένοι), and short verbs (δέω, "bind"). Nouns and adjectives of the first
+# and second declensions (and -ευς, -υς) are now matched as stem + a declension ending; a long stem
+# (6+ letters) still matches as a prefix, so cognates are still merged where false friends are rare.
+_DECL = [
+    ('εια', ['εια', 'ειας', 'ειαν', 'ειαι', 'ειων', 'ειαις']),
+    ('ια',  ['ια', 'ιας', 'ιαν', 'ιαι', 'ιων', 'ιαις']),
+    ('ευς', ['ευς', 'εως', 'ει', 'εα', 'εις', 'εων', 'ευσιν', 'ευσι', 'εας', 'ευ']),
+    ('υς',  ['υς', 'υ', 'υν', 'εια', 'ειας', 'ειαν', 'ειαι', 'ειων', 'ειαις', 'εος', 'εως', 'ει', 'εα',
+             'εις', 'εων', 'εσιν', 'υος', 'υι', 'υες', 'υων', 'υσιν', 'υας']),
+    ('ος',  ['ος', 'ου', 'ω', 'ον', 'ε', 'οι', 'ων', 'οις', 'ους', 'ει', 'εσιν', 'εσι', 'η']),
+    ('ον',  ['ον', 'ου', 'ω', 'α', 'ων', 'οις']),
+    ('η',   ['η', 'ης', 'ην', 'αι', 'ων', 'αις', 'ας']),
+    ('α',   ['α', 'ας', 'αν', 'αι', 'ων', 'αις', 'ης', 'η']),
+]
+_ADJ_FEM = ['η', 'ης', 'ην', 'αι', 'αις', 'ας', 'α', 'αν']          # -ος adjectives: feminine forms
+_OVERRIDE = {                                                       # short verbs: explicit stems
+    'δεω': ['δησ', 'εδησ', 'δεδε', 'δεδη', 'εδεθ', 'δεθη', 'δεθεν'],  # "bind" (δεῖ and δέομαι split off below)
+}
+_PREPS = [('αντι', 'αντε'), ('ανα', 'ανε'), ('απο', 'απε'), ('δια', 'διε'), ('κατα', 'κατε'), ('μετα', 'μετε'),
+          ('παρα', 'παρε'), ('περι', 'περιε'), ('επι', 'επε'), ('υπερ', 'υπερε'), ('υπο', 'υπε'), ('προ', 'προε'),
+          ('εισ', 'εισε'), ('συν', 'συνε'), ('συμ', 'συνε'), ('συλ', 'συνε'), ('εκ', 'εξε'), ('εξ', 'εξε'),
+          ('εν', 'ενε'), ('εμ', 'ενε'), ('απ', 'απε'), ('αφ', 'αφε'), ('επ', 'επε'), ('εφ', 'εφε'),
+          ('καθ', 'καθε'), ('κατ', 'κατε'), ('μεθ', 'μεθε'), ('μετ', 'μετε'), ('ανθ', 'ανθε'), ('αντ', 'αντε')]
+_VOWEL_AUG = [('αι', 'η'), ('αυ', 'ηυ'), ('ευ', 'ηυ'), ('οι', 'ω'), ('α', 'η'), ('ε', 'η'), ('ο', 'ω')]
+_VOWELS = 'αεηιουω'
+
+def _alternants(st):
+    """Future/aorist/perfect consonant changes at the end of a verb stem."""
+    out = [st]
+    last = st[-1:]
+    if last in 'πβφ': out.append(st[:-1] + 'ψ')
+    elif last in 'κγχ': out.append(st[:-1] + 'ξ')
+    elif last in 'τδθ': out.append(st[:-1] + 'σ')
+    elif last == 'ζ':
+        out += [st[:-1] + 'σ', st[:-1] + 'ξ']
+        if st.endswith('ιζ'): out.append(st[:-1] + 'κ')            # perfect -ικα (ἤγγικα)
+    return out
+
+def _augments(p):
+    """Simple, vowel and internal augments, and reduplication, for one verb stem."""
+    out = {p}
+    if p[0] in _VOWELS:
+        for a, b in _VOWEL_AUG:
+            if p.startswith(a): out.add(b + p[len(a):]); break
+    else:
+        out.add('ε' + p)
+        if len(p) >= 4 and p[0] not in 'ρψξζ' and p[1] not in _VOWELS + 'ρλμν' and False: pass
+        if p[0] not in 'ρψξζ' and p[1:2] not in ('σ',):
+            out.add(p[0] + 'ε' + p)                                 # reduplication (λελυ-, δεδε-)
+    for pre, aug in _PREPS:
+        rest = p[len(pre):]
+        if p.startswith(pre) and len(rest) >= 3 and rest[0] not in _VOWELS:
+            out.add(aug + rest)
+            if rest[0] not in 'ρψξζ': out.add(pre + rest[0] + 'ε' + rest)   # internal reduplication
+            break
+    return out
+
 def _stems(lemma, pos):
-    """Return (key, [prefixes]) for a lemma; key merges cognates."""
+    """Return (key, [prefixes]) for a lemma; key merges cognates. '=' marks an exact form."""
     s = _strip(lemma)
+    if s in _OVERRIDE and pos.startswith('V'):
+        return s, list(_OVERRIDE[s])
+    if pos.startswith(('N', 'A')):
+        for end, endings in _DECL:
+            if s.endswith(end) and len(s) > len(end) + 1:
+                st = s[:-len(end)]
+                ends = list(endings) + (_ADJ_FEM if end == 'ος' and pos.startswith('A') else [])
+                forms = ['=' + st + e for e in ends]
+                if len(st) >= 6: forms.append(st + end[:1] if end in ('ια', 'εια') else st)
+                return st + end[:1], forms
     if len(s) <= 3:
         return s, ['=' + s, '=' + s + 'ς', '=' + s + 'ν']          # exact forms only (γη, γης, γην)
     st, end = s, ''
@@ -152,27 +223,41 @@ def _stems(lemma, pos):
         return st + 'ον', [st + 'ον', st + 'ων']                   # εἰκών: εικον-/εικων-, never εἴκοσι
     pre = [st]
     if st.endswith('ζ'): pre.append(st[:-1] + 'σ')                # κτιζ- / κτισ-
-    if pos.startswith('V'):
-        pre += ['ε' + p for p in pre]                              # simple augment
     key = pre[1] if st.endswith('ζ') else st                       # κτίζω and κτίσις share 'κτισ'
+    if pos.startswith('V'):
+        alts = []
+        for p0 in pre:
+            for a in _alternants(p0): alts.append(a)
+        pre = sorted({x for a in alts for x in _augments(a)})
     return key, pre
 
 def _nt_target(spec):
+    """Book, Book:ch, Book:ch-ch, Book:ch:v-v, or Book:ch:v-ch:v (a span across chapters)."""
     b, _, rest = spec.partition(':')
     lo = hi = None
     if rest:
-        c, _, v = rest.partition(':')
-        if v:
-            v1, _, v2 = v.partition('-'); lo, hi = (int(c), int(v1)), (int(c), int(v2 or v1))
+        a, _, z = rest.partition('-')
+        if ':' in a:
+            c1, v1 = (int(x) for x in a.split(':'))
+            if not z: lo, hi = (c1, v1), (c1, v1)
+            elif ':' in z: c2, v2 = (int(x) for x in z.split(':')); lo, hi = (c1, v1), (c2, v2)
+            else: lo, hi = (c1, v1), (c1, int(z))
         else:
-            c1, _, c2 = c.partition('-'); lo, hi = (int(c1), 0), (int(c2 or c1), 999)
+            lo, hi = (int(a), 0), (int(z or a), 999)
     out = []
     for f in sorted(glob.glob(os.path.join(GNT_IDX, '*.tsv'))):
         for l in open(f, encoding='utf-8'):
             p = l.rstrip('\n').split('\t')
             if len(p) < 4 or p[0] == 'ref' or p[0].split(' ')[0] != b: continue
             cv = tuple(int(x) for x in p[0].split(' ')[1].split(':'))
-            if lo is None or lo <= cv <= hi: out.append((p[2], p[3]))
+            if lo is None or lo <= cv <= hi:
+                lemma, w = p[2], _strip(p[1])
+                if lemma == 'δέω':                                 # the index files δεῖ and δέομαι under δέω
+                    if w.startswith(('δει', 'εδει')): lemma = 'δεῖ'
+                    elif w.startswith(('δεη', 'εδεη', 'δεομ')): lemma = 'δέομαι'
+                if lemma == 'εὐθύς' and w == 'ευθυς':                 # adverbial εὐθύς, "immediately", which the
+                    lemma = 'εὐθύς (adv.)'                           # index tags as an adjective: not "straight"
+                out.append((lemma, p[3]))
     return out
 
 def _lxx_units():

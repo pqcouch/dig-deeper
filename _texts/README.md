@@ -473,3 +473,13 @@ The NA28 PDFs can nonetheless be decoded reliably, because each symbol glyph has
   - **Tags:** none; the highlighting filter is now off.
 - **Book titles and Inscriptio in the NA28 apparatus:** there is no Inscriptio for Romans (confirmed in Logos). Book titles are not needed, since the filename and header already name the book, so the letters need no re-export.
 
+## Additions, 6 November 2026
+
+- **`logos-exports/.../01-Isaiah-LXX-verses.txt`.** The Rahlfs–Hanhart Isaiah export, split one verse per line ("Isa 1:1<TAB>text") by `tools/split_rahlfs.py`. The export beside it is unchanged and remains the copy of record. The file has 1,289 verses: Isa 2:22 and 56:12 are lacking in the Greek, and in Swete too. Logos's dagger (†) is kept as printed. Use it for Rahlfs counts in Isaiah; cite readings as Rahlfs. The splitter refuses files that combine two books (Reigns, Chronicles).
+- **`tools/contacts.py` NT mode, stem rules revised** after Mark claim audit 2. The pre-change copy is `contacts.py.bak-2026-11-06`.
+  - Short noun and adjective stems now match only stem + declension ending, so ὁδός finds ὁδῷ and never ὀδόντες.
+  - Verb stems allow future and aorist consonant changes, vowel and internal augments, and reduplication.
+  - δέω ("bind") has explicit forms. The SBLGNT index's δεῖ and δέομαι, filed under δέω, are re-assigned, and adverbial εὐθύς is skipped.
+  - Spans across chapters run.
+  - Positive controls: Heb 1:1–14 still ranks Ps 44 LXX first. Col 1:15–20 ranks Ps 88 LXX first by median, in five of six runs (it was six of six before).
+  - Counts are still floors: suppletive and nasal-infix forms (ἀπῆλθον, παρέλαβεν) are still missed. A sense check is still required.
