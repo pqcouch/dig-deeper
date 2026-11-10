@@ -1,0 +1,296 @@
+#!/usr/bin/env python3
+"""Markdown -> .odt in the house style.
+
+  python3 make_odt.py report.md [report.odt]
+  python3 make_odt.py --sermon manuscript.md [manuscript.odt]
+
+--sermon applies the manuscript rules from the sermon-review skill on top of the
+house style: title centred, scripture quotations (Markdown blockquotes) italic
+and indented. Without it, reports render exactly as before.
+
+Custom paragraph styles available in any document through pandoc fenced divs,
+e.g. ::: {custom-style="Attribution"} ... ::: --
+  Subtitle      centred 14 pt italic line under the title
+  Amen          centred bold closing line
+  Attribution   10 pt italic (version footer; put a `***` rule before it)
+  SummaryLabel  10 pt bold label ("Summary for publication:")
+  Summary       10 pt italic, indented 0.6 cm
+
+House style: A5 portrait; margins 15 mm top, 10 mm bottom/left/right;
+Liberation Serif (18 pt title, 14 pt bold headings, 12 pt body, 10 pt footnotes);
+1.15 line spacing; 0 above / 2 mm below paragraphs; footnote hanging indent
+0.6 cm; language en-GB; widow/orphan control at 2 lines.
+
+Works by letting pandoc build the document, then patching styles.xml in place --
+the same shape as the .docx pipeline, so the two stay in step.
+"""
+# 2026-11-09: '+lists_without_preceding_blankline' so a list directly under a paragraph
+#   renders as a list (pandoc's default needs a blank line; ~2,000 lists in the library ran in).
+import os, re, shutil, subprocess, sys, tempfile, zipfile
+
+# The canonical house .odt converter. Skills that cannot rely on the prep folder
+# being connected carry a GENERATED copy of this file, stamped with the version
+# and hash below; see bundle_converter.py. Bump the version on any behavioural
+# change, then regenerate every bundled copy.
+HOUSE_ODT_VERSION = "2026-10-26.1"
+# 2026-10-26.1: Text body / First paragraph now carry the house spacing (pandoc's
+#   reference doc gave them ~1.5 mm above and below, overriding Standard);
+#   custom manuscript styles added; --sermon flag (centred title, italic quotations).
+
+import xml.etree.ElementTree as ET
+
+NS = {
+ 'office':'urn:oasis:names:tc:opendocument:xmlns:office:1.0',
+ 'style':'urn:oasis:names:tc:opendocument:xmlns:style:1.0',
+ 'fo':'urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0',
+ 'text':'urn:oasis:names:tc:opendocument:xmlns:text:1.0',
+ 'svg':'urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0',
+ 'office':'urn:oasis:names:tc:opendocument:xmlns:office:1.0',
+}
+for k, v in NS.items():
+    ET.register_namespace(k, v)
+def q(t):
+    p, l = t.split(':'); return '{%s}%s' % (NS[p], l)
+
+PAGE = {'fo:page-width':'14.8cm','fo:page-height':'21cm','style:print-orientation':'portrait',
+        'fo:margin-top':'1.5cm','fo:margin-bottom':'1cm','fo:margin-left':'1cm','fo:margin-right':'1cm'}
+# Three script classes, and LibreOffice treats them separately. Western covers
+# Latin and Greek; Asian covers CJK; COMPLEX (CTL) covers Hebrew, Arabic, Syriac.
+# pandoc's reference document leaves the complex font at Tahoma, so pointed Hebrew
+# silently renders in the wrong face at the wrong size unless it is set here too.
+BODY_T = {'style:font-name':'Liberation Serif','fo:font-size':'12pt',
+          'style:font-name-asian':'Liberation Serif','style:font-size-asian':'12pt',
+          'style:font-name-complex':'Liberation Serif','style:font-size-complex':'15pt',
+          'fo:language':'en','fo:country':'GB',
+          'style:language-complex':'he','style:country-complex':'IL'}
+BODY_P = {'fo:line-height':'115%','fo:margin-top':'0cm','fo:margin-bottom':'0.2cm',
+          'fo:orphans':'2','fo:widows':'2','fo:text-align':'justify'}
+
+def sub(el, tag):
+    found = el.find(q(tag))
+    if found is None:
+        found = ET.SubElement(el, q(tag))
+    return found
+
+def apply(el, tag, attrs):
+    child = sub(el, tag)
+    for k, v in attrs.items():
+        child.set(q(k), v)
+
+HOUSE = 'Liberation Serif'
+
+def ensure_font_face(root):
+    """Declare the house font as an ODF font face.
+
+    `style:font-name` is a *reference* to a declared face. pandoc's reference
+    document declares Tahoma, Arial, Times New Roman and friends but not
+    Liberation Serif, so the reference dangles. LibreOffice papers over that for
+    western text (its own default is Liberation Serif anyway) but falls back to
+    its configured default *complex* font for Hebrew -- which is how pointed
+    Hebrew kept coming out in Tahoma even with every style attribute set right.
+    """
+    decls = root.find(q('office:font-face-decls'))
+    if decls is None:
+        decls = ET.Element(q('office:font-face-decls'))
+        root.insert(0, decls)
+    for ff in decls.findall(q('style:font-face')):
+        if ff.get(q('style:name')) == HOUSE:
+            return
+    ff = ET.SubElement(decls, q('style:font-face'))
+    ff.set(q('style:name'), HOUSE)
+    ff.set(q('svg:font-family'), "'%s'" % HOUSE)
+    ff.set(q('style:font-family-generic'), 'roman')
+    ff.set(q('style:font-pitch'), 'variable')
+
+def sweep(root):
+    """House rule: Hebrew is set three points larger than the English around it.
+
+    Complex-script size is a separate attribute from the western one, so every
+    style that states a western size gets a complex size three points above it,
+    and any complex face pandoc hard-coded is normalised to the house font.
+    """
+    for tp in root.iter(q('style:text-properties')):
+        cur = tp.get(q('style:font-name-complex'))
+        if cur and cur.startswith('Tahoma'):
+            tp.set(q('style:font-name-complex'), HOUSE)
+        west = tp.get(q('fo:font-size')) or ''
+        m = re.fullmatch(r'([0-9]+(?:\.[0-9]+)?)pt', west)
+        if m:
+            tp.set(q('style:font-size-complex'), '%gpt' % (float(m.group(1)) + 3))
+
+def patch_content(content_path):
+    tree = ET.parse(content_path); root = tree.getroot()
+    ensure_font_face(root)
+    sweep(root)
+    tree.write(content_path, xml_declaration=True, encoding='UTF-8')
+
+def small(pt, **extra):
+    d = dict(BODY_T, **{'fo:font-size':'%gpt' % pt, 'style:font-size-asian':'%gpt' % pt,
+                        'style:font-size-complex':'%gpt' % (pt + 3)})
+    d.update(extra); return d
+
+# Custom paragraph styles reachable from Markdown with ::: {custom-style="Name"}.
+# pandoc writes the reference in content.xml but defines no style, so without
+# these the paragraphs fall back to Standard.
+CUSTOM = {
+    'Subtitle':     ({'fo:text-align':'center','fo:margin-top':'0cm','fo:margin-bottom':'0.5cm'},
+                     small(14, **{'fo:font-style':'italic','style:font-style-complex':'italic'})),
+    'Amen':         ({'fo:text-align':'center','fo:margin-top':'0.4cm','fo:margin-bottom':'0.6cm'},
+                     small(12, **{'fo:font-weight':'bold','style:font-weight-complex':'bold'})),
+    'Attribution':  ({'fo:text-align':'justify','fo:line-height':'100%','fo:margin-top':'0.1cm','fo:margin-bottom':'0.3cm'},
+                     small(10, **{'fo:font-style':'italic','style:font-style-complex':'italic'})),
+    'SummaryLabel': ({'fo:text-align':'left','fo:margin-top':'0.2cm','fo:margin-bottom':'0.1cm','fo:keep-with-next':'always'},
+                     small(10, **{'fo:font-weight':'bold','style:font-weight-complex':'bold'})),
+    'Summary':      ({'fo:text-align':'justify','fo:line-height':'100%','fo:margin-left':'0.6cm','fo:margin-top':'0cm','fo:margin-bottom':'0.1cm'},
+                     small(10, **{'fo:font-style':'italic','style:font-style-complex':'italic'})),
+}
+
+def add_custom_styles(root):
+    styles = root.find(q('office:styles'))
+    for st in list(styles.findall(q('style:style'))):
+        if st.get(q('style:name')) in CUSTOM:
+            styles.remove(st)
+    for name, (pp, tp) in CUSTOM.items():
+        st = ET.SubElement(styles, q('style:style'))
+        st.set(q('style:name'), name); st.set(q('style:family'), 'paragraph')
+        st.set(q('style:parent-style-name'), 'Standard')
+        apply(st, 'style:paragraph-properties', pp)
+        apply(st, 'style:text-properties', tp)
+
+QUOTE_INDENT = '0.75cm'
+
+def patch(styles_path, title_h1=False, sermon=False):
+    tree = ET.parse(styles_path); root = tree.getroot()
+    # page geometry
+    for pl in root.iter(q('style:page-layout')):
+        apply(pl, 'style:page-layout-properties', PAGE)
+    # document default
+    for ds in root.iter(q('style:default-style')):
+        if ds.get(q('style:family')) == 'paragraph':
+            apply(ds, 'style:text-properties', BODY_T)
+            apply(ds, 'style:paragraph-properties',
+                  {k: v for k, v in BODY_P.items() if k != 'fo:text-align'})
+    for st in root.iter(q('style:style')):
+        name = st.get(q('style:name')) or ''
+        fam = st.get(q('style:family'))
+        if fam != 'paragraph':
+            continue
+        if name == 'Standard':
+            apply(st, 'style:text-properties', BODY_T); apply(st, 'style:paragraph-properties', BODY_P)
+        elif name in ('Text_20_body', 'First_20_paragraph'):
+            # Nearly all running text sits in these, not in Standard, and pandoc's
+            # reference document gives Text body its own 0.0598in above and below,
+            # which overrides the house 0 / 2 mm. Restate the house values here.
+            apply(st, 'style:paragraph-properties', BODY_P)
+        elif name == 'Quotations' and sermon:
+            apply(st, 'style:paragraph-properties',
+                  {'fo:margin-left':QUOTE_INDENT,'fo:margin-right':'0.5cm','fo:margin-top':'0cm',
+                   'fo:margin-bottom':'0.2cm','fo:text-indent':'0cm','fo:text-align':'left'})
+            apply(st, 'style:text-properties',
+                  {'fo:font-style':'italic','style:font-style-complex':'italic'})
+        elif name in ('Title', 'Subtitle'):
+            apply(st, 'style:text-properties', dict(BODY_T, **{
+                'fo:font-size':'18pt','style:font-size-asian':'18pt',
+                'style:font-size-complex':'21pt','fo:font-weight':'bold',
+                'style:font-weight-complex':'bold'}))
+            apply(st, 'style:paragraph-properties', {'fo:text-align':'left','fo:margin-bottom':'0.4cm'})
+        elif re.match(r'^Heading_20_[1-6]$', name):
+            # In a document whose only H1 is its first line, that H1 IS the
+            # document title. pandoc emits a Title paragraph only when the source
+            # carries YAML `title:`, which these reports never do, so without this
+            # the title inherited the 14 pt heading size (reported 7 Sep, 10 Sep and
+            # 16 Oct 2026). Documents that use several H1s as section headings keep
+            # every heading at 14 pt, as the house rule requires.
+            pt = 18 if (title_h1 and name == 'Heading_20_1') else 14
+            apply(st, 'style:text-properties', dict(BODY_T, **{
+                'fo:font-size':'%dpt' % pt,'style:font-size-asian':'%dpt' % pt,
+                'style:font-size-complex':'%dpt' % (pt + 3),'fo:font-weight':'bold',
+                'style:font-weight-complex':'bold'}))
+            hp = {'fo:margin-top':'0.35cm','fo:margin-bottom':'0.15cm','fo:line-height':'115%',
+                  'fo:keep-with-next':'always','fo:border-bottom':'none'}
+            if sermon and title_h1 and name == 'Heading_20_1':
+                hp['fo:text-align'] = 'center'
+            apply(st, 'style:paragraph-properties', hp)
+        elif name in ('Footnote', 'Footnote_20_Symbol', 'Endnote'):
+            apply(st, 'style:text-properties', dict(BODY_T, **{
+                'fo:font-size':'10pt','style:font-size-asian':'10pt',
+                'style:font-size-complex':'13pt'}))
+            apply(st, 'style:paragraph-properties',
+                  {'fo:margin-left':'0.6cm','fo:text-indent':'-0.6cm','fo:line-height':'100%',
+                   'fo:margin-top':'0cm','fo:margin-bottom':'0.1cm'})
+    # Sweep: pandoc's reference document hard-codes a Tahoma complex font on a
+    # handful of styles (List and Index among them, which is where most Hebrew in
+    # a report actually sits). Inheritance never reaches them, so normalise the
+    # complex face everywhere it is stated.
+    add_custom_styles(root)
+    ensure_font_face(root)
+    sweep(root)
+    tree.write(styles_path, xml_declaration=True, encoding='UTF-8')
+
+def patch_quote_indents(content_path):
+    """pandoc writes each blockquote as an automatic style with a hard-coded
+    0.5in left margin, which overrides Quotations. In sermon mode, bring it to
+    the house indent."""
+    body = open(content_path, encoding='utf-8').read()
+    body = re.sub(r'(<style:style style:name="P\d+" style:family="paragraph" '
+                  r'style:parent-style-name="Quotations">\s*<style:paragraph-properties[^>]*?)'
+                  r'fo:margin-left="0\.5in"', r'\1fo:margin-left="%s"' % QUOTE_INDENT, body)
+    open(content_path, 'w', encoding='utf-8').write(body)
+
+def main():
+    args = sys.argv[1:]
+    sermon = '--sermon' in args
+    args = [a for a in args if a != '--sermon']
+    if not args:
+        sys.exit(__doc__)
+    src = args[0]
+    dst = args[1] if len(args) > 1 else os.path.splitext(src)[0] + '.odt'
+    tmp = tempfile.mkdtemp()
+    try:
+        # Pre-flight, same as the HTML path: these reports use bare `---` lines as
+        # section separators, and pandoc can read one as a YAML metadata delimiter
+        # and SILENTLY SWALLOW the block after it. Normalise every standalone
+        # hyphen-rule to `***`, which is unambiguous. Pipe tables contain `|` and
+        # are untouched.
+        md = open(src, encoding='utf-8').read()
+        md = re.sub(r'(?m)^[ \t]*-{3,}[ \t]*$', '***', md)
+        # Count the sections pandoc should produce. Headings quoted inside a
+        # blockquote (proposed replacement text, in these documents) DO become
+        # real headings in the .odt, so they count; headings inside a fenced code
+        # block do not, so the fences come out first.
+        counted = re.sub(r'(?ms)^(```+|~~~+).*?^\1[ \t]*$', '', md)
+        n_h2_src = len(re.findall(r'(?m)^[ \t]*(?:>[ \t]*)*## (?!#)', counted))
+        # The title rule: exactly one H1, and it is the first heading in the file.
+        h1s = re.findall(r'(?m)^[ \t]*(?:>[ \t]*)*# (?!#)', counted)
+        first_heading = re.search(r'(?m)^[ \t]*(?:>[ \t]*)*(#+) ', counted)
+        title_h1 = len(h1s) == 1 and bool(first_heading) and first_heading.group(1) == '#'
+        fixed = os.path.join(tmp, 'source.md')
+        with open(fixed, 'w', encoding='utf-8') as fh:
+            fh.write(md)
+        subprocess.run(['pandoc', fixed, '-f', 'markdown+lists_without_preceding_blankline', '-t', 'odt', '-o', dst,
+                        '--metadata', 'lang=en-GB'], check=True)
+        with zipfile.ZipFile(dst) as z:
+            names = z.namelist(); z.extractall(tmp)
+        patch(os.path.join(tmp, 'styles.xml'), title_h1=title_h1, sermon=sermon)
+        patch_content(os.path.join(tmp, 'content.xml'))
+        if sermon:
+            patch_quote_indents(os.path.join(tmp, 'content.xml'))
+        # Verify before writing back: every `##` section in the source must have
+        # produced a level-2 heading in the document.
+        body = open(os.path.join(tmp, 'content.xml'), encoding='utf-8').read()
+        n_h2_out = len(re.findall(r'text:outline-level="2"', body))
+        if n_h2_out != n_h2_src:
+            sys.exit('REFUSED %s: %d "##" sections in source but %d level-2 '
+                     'headings in the document - content was dropped'
+                     % (dst, n_h2_src, n_h2_out))
+        with zipfile.ZipFile(dst, 'w', zipfile.ZIP_DEFLATED) as z:
+            z.write(os.path.join(tmp, 'mimetype'), 'mimetype', zipfile.ZIP_STORED)
+            for n in names:
+                if n != 'mimetype':
+                    z.write(os.path.join(tmp, n), n)
+    finally:
+        shutil.rmtree(tmp)
+    print('wrote', dst)
+
+if __name__ == '__main__':
+    main()

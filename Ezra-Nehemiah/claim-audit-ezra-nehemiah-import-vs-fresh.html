@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Audit: the Ezra–Nehemiah Import against the Fresh Build</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#claim-audit-the-ezranehemiah-import-against-the-fresh-build">Claim Audit: the Ezra–Nehemiah Import against the Fresh Build</a></li>
+    <li><a href="#verdict-in-one-paragraph">Verdict in one paragraph</a></li>
+    <li><a href="#claims-confirmed-by-the-fresh-build">1. Claims confirmed by the fresh build</a></li>
+    <li><a href="#claims-the-fresh-build-corrects">2. Claims the fresh build corrects</a></li>
+    <li><a href="#claims-the-corpus-cannot-test">3. Claims the corpus cannot test</a></li>
+    <li><a href="#what-each-document-has-that-the-other-lacks">4. What each document has that the other lacks</a></li>
+    <li><a href="#amendments-made-to-the-fresh-build-as-a-result-of-this-audit">5. Amendments made to the fresh build as a result of this audit</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="claim-audit-the-ezranehemiah-import-against-the-fresh-build">Claim Audit: the Ezra–Nehemiah Import against the Fresh Build</h1>
+<p><strong>Subject:</strong> <code>book-overview-ezra-nehemiah.md</code> of 3 August 2026 (imported; now in <code>Ezra-Nehemiah/_superseded/</code>), tested against the text-first build of 19 September 2026 <strong>Primary texts:</strong> WLC Hebrew and Aramaic, with the WLC lemma index; Swete LXX; Logos BHS, BHS apparatus and Rahlfs-Hanhart exports <strong>Study text:</strong> NASB95 <strong>Date:</strong> 19 September 2026 <strong>Method:</strong> The replacement overview was built clean-room — the import was moved unread into <code>_superseded/</code> before work began and opened only after the new overview had been written, rendered and saved. Everything below is therefore a comparison of two independent readings, not a revision of one into the other.</p>
+<hr />
+<h2 id="verdict-in-one-paragraph">Verdict in one paragraph</h2>
+<p>The import is a good document of a different kind. It is a <strong>thirteen-week preaching-series plan</strong> in the Schnittjer–Dempster–Eskenazi idiom, with a teaching point, a purpose statement, a posture map and a series big question; the replacement is a <strong>text-first orientation document</strong> built from the Hebrew, the Aramaic and both Greek forms, with every recurrence claim checked by lemma before it was written down. They are not rivals at most points. Where they can be compared, the import’s structural instincts are largely sound and its theological reading is serious; but a handful of its checkable claims do not survive contact with the text, one of them a load-bearing one, and its confidence is uniformly higher than its evidence. The two findings the fresh build most wants from it — the Deuteronomy 30:6 observation and the Isaiah 56–66 “compliant reader” reading — are genuine and are noted below as contributions, not errors.</p>
+<hr />
+<h2 id="claims-confirmed-by-the-fresh-build">1. Claims confirmed by the fresh build</h2>
+<p>These were checked against the corpus and hold.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Import claim</th>
+<th>Verification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The book is one work, one scroll in the oldest Hebrew manuscripts</td>
+<td>Confirmed, and strengthened: the WLC and the BHS text export both give <strong>280 + 405 = 685 verses</strong>, and the Masoretic midpoint marker at <strong>Neh 3:32 is verse 343 of 685, with exactly 342 verses on each side</strong> — arithmetic that only works if the two are counted as one book. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>“Of approximately 685 verses…”</td>
+<td>The <strong>685</strong> is exact. <code>[T]</code> The accompanying 600/85 split of documents to narration is Schnittjer’s judgement, not checkable from the corpus; it is not disputed here, only unverified.</td>
+</tr>
+<tr class="odd">
+<td>Language shifts: Hebrew → Aramaic (4:8) → Hebrew (6:19) → Aramaic (7:12) → Hebrew (7:27 to end)</td>
+<td><strong>Exactly right.</strong> Checked by morphological code across every word of the book: the Aramaic is Ezra 4:8–6:18 and 7:12–26, 67 verses, 1,212 of 9,066 words, and there is none anywhere in Nehemiah. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>Ezra 6:14 is a hinge, and the singular “king” is appended to three kings</td>
+<td>Confirmed in the Aramaic: וּמִטְּעֵם כּוֹרֶשׁ וְדָרְיָוֶשׁ וְאַרְתַּחְשַׁשְׂתְּא <strong>מֶלֶךְ</strong> פָּרָס — one singular noun for three names. <code>[T]</code></td>
+</tr>
+<tr class="odd">
+<td>The repeated list (Ezra 2 // Neh 7) forms an inclusio around the middle</td>
+<td>Confirmed and quantified: 543 and 545 words on a skeletal comparison, <strong>69% word-level identity</strong>, divergences almost entirely numerical. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>Ezra 3:12–13 and Neh 12:43 are a deliberate “heard far away” echo</td>
+<td>Confirmed, and sharper than stated: <strong>מֵרָחוֹק occurs exactly twice in the book</strong>, at those two verses and nowhere else. <code>[T]</code></td>
+</tr>
+<tr class="odd">
+<td>Priestly apostasy bookends the narrative — Jeshua’s family first on the list (Ezra 10:18), Eliashib’s grandson last (Neh 13:28)</td>
+<td>Both references check out, and the observation is good. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>Nehemiah 1:8–9 appeals to Deuteronomy’s exile-and-return promise but stops short of Deut 30:6</td>
+<td><strong>Confirmed, and this is the import’s best single observation.</strong> Neh 1:9 and Deut 30:4 are the <strong>only two verses in the Hebrew Bible containing בִּקְצֵה הַשָּׁמַיִם</strong>, so the citation is certain; and heart-circumcision is indeed never cited. <code>[T]</code></td>
+</tr>
+<tr class="odd">
+<td>The narrator calls the Persian ruler “king of Assyria” at Ezra 6:22</td>
+<td>Confirmed: מֶלֶךְ־אַשּׁוּר. <code>[T]</code> A genuinely sharp catch.</td>
+</tr>
+<tr class="even">
+<td>No Levites volunteered at the river Ahava (Ezra 8:15)</td>
+<td>Confirmed: וּמִבְּנֵי לֵוִי לֹא־מָצָאתִי שָׁם. <code>[T]</code></td>
+</tr>
+<tr class="odd">
+<td>Twelve-goat offerings “for all Israel” at Ezra 6:17 and 8:35</td>
+<td>Both confirmed. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>Ezra 7:10 gives the model study → do → teach</td>
+<td>Confirmed. <code>[T]</code></td>
+</tr>
+<tr class="odd">
+<td>The final four books of the Writings in BHS order are Esther, Daniel, Ezra–Nehemiah, Chronicles</td>
+<td>Confirmed against the corpus’s Tanak layout. <code>[T]</code></td>
+</tr>
+<tr class="even">
+<td>Every commitment of the Neh 10 oath is broken in Neh 13</td>
+<td><strong>Substantially confirmed but overstated</strong> — see §3.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="claims-the-fresh-build-corrects">2. Claims the fresh build corrects</h2>
+<h3 id="all-the-people-as-one-at-neh-81-is-not-the-first-time-the-claim-is-falsified">2.1 “All the people as one” at Neh 8:1 is <strong>not</strong> the first time — the claim is falsified</h3>
+<p>The import says twice that the gathering of Neh 8:1 is a unity achieved for the first time, “only after the inclusio closes”, and builds a vocabulary transition on it (“the people as one” → “Nehemiah alone”).</p>
+<p><strong>The phrase occurs twice in the book, and the first is Ezra 3:1.</strong> כְּאִישׁ אֶחָד (“as one man”) stands at <strong>Ezra 3:1</strong> — the gathering to build the altar — and at <strong>Neh 8:1</strong> — the gathering to hear the Law. Nowhere else. <code>[T — verified against the whole book]</code> The looser כְּאֶחָד (“as one”) stands four more times (Ezra 2:64; 3:9; 6:20; Neh 7:66).</p>
+<p>What makes this worth correcting rather than simply deleting is that <strong>the corrected form is better than the claim</strong>. Two gatherings “as one man”, one at each end of the bracket: the first to build an altar in fear of the peoples of the lands, the second to hear the book read. That is a real inclusio, and it supports the import’s own structural instinct far better than a “first time” that is not first. The fresh build has been amended to carry it.</p>
+<h3 id="ezra-11s-stirred-up-the-spirit-allusion-is-mis-aimed">2.2 Ezra 1:1’s “stirred up the spirit” allusion is mis-aimed</h3>
+<p>The import credits the allusion to <strong>Isaiah 45:13 and Haggai 1:14</strong>. Haggai 1:14 is right — וַיָּעַר יְהוָה אֶת־רוּחַ, the same idiom. Isaiah 45:13 uses the verb of Cyrus but not the phrase.</p>
+<p><strong>What the import misses is the one that matters.</strong> Searched across all 23,213 verses of the WLC, the idiom <em>stir + אֶת־רוּחַ</em> occurs at 1 Chr 5:26; <strong>Jer 51:11</strong>; 2 Chr 21:16; 2 Chr 36:22; Hag 1:14; and Ezra 1:1, 1:5. <strong>Jeremiah 51:11 reads הֵעִיר יְהוָה אֶת־רוּחַ מַלְכֵי מָדַי — “the LORD has stirred up the spirit of the kings of the Medes”</strong> — of the Medo-Persian power that would take Babylon. Ezra 1:1 says in the same breath that it is fulfilling “the word of the LORD <strong>by the mouth of Jeremiah</strong>” and then uses Jeremiah’s own phrase for the same event. <code>[T — verified]</code> That is the allusion the verse is signalling, and it is stronger than either of the two the import names. The fresh build has been amended to carry it.</p>
+<h3 id="the-exodus-12-plundering-typology-is-overstated">2.3 The Exodus 12 “plundering” typology is overstated</h3>
+<p>The import treats Ezra 1:6 as a typological replay of Exod 12:35–36, listed without qualification among the book’s presuppositions.</p>
+<p>Ezra 1:6 reads וְכָל־סְבִיבֹתֵיהֶם <strong>חִזְּקוּ בִידֵיהֶם</strong> בִּכְלֵי־כֶסֶף בַּזָּהָב — “all those around them <strong>strengthened their hands</strong> with articles of silver, with gold”. The Exodus verbs are entirely different (שָׁאַל, “ask”, and נָצַל, “strip”), the direction is opposite (given willingly, not extracted), and <strong>כְּלֵי כֶסֶף is not a distinctive phrase</strong>: it stands in ten verses across the Hebrew Bible, including Gen 24:53, 2 Sam 8:10 and 1 Kgs 10:25 as well as Exod 3:22, 11:2 and 12:35. <code>[T — verified]</code> A conceptual echo is defensible; a typological replay is not demonstrable from the wording. <strong>Confidence should be moderate, not asserted.</strong></p>
+<h3 id="he-confesses-his-own-predatory-lending-510-overreads-the-verse">2.4 “He confesses his own predatory lending (5:10)” overreads the verse</h3>
+<p>Neh 5:10 reads: וְגַם־אֲנִי אַחַי וּנְעָרַי נֹשִׁים בָּהֶם כֶּסֶף וְדָגָן נַעַזְבָה־נָּא אֶת־הַמַּשָּׁא הַזֶּה — “I too, my brothers and my servants are lending them money and grain; let us leave off this exaction” (NASB95: “Please, let us leave off this usury”).</p>
+<p>The verse says Nehemiah was a creditor and that he proposes a remedy <strong>including himself</strong>. It does not say he charged what he has just condemned in the nobles — the seizure of fields and the enslaving of children (5:3–5). “Confesses his own predatory lending” is a reading, and a fairly strong one, presented as description. <strong>Warrant should be <code>[I]</code>, not <code>[T]</code>.</strong></p>
+<h3 id="the-grammar-behind-the-ezra-91-analogy-claim-is-imprecise">2.5 The grammar behind the Ezra 9:1 “analogy” claim is imprecise</h3>
+<p>The import argues that “the preposition ‘like’ (כ) in 9:1 shows this is analogy, not identification” — the marriages are about apostasy, not ethnicity.</p>
+<p>The conclusion is almost certainly right; <strong>the grammar cited for it is not.</strong> In Ezra 9:1 the כ stands on כְּתוֹעֲבֹתֵיהֶם (“according to their abominations”), while the nations themselves are governed by the ל of לַכְּנַעֲנִי. The כ is doing work, but not the work claimed.</p>
+<p><strong>A better argument for the same conclusion is available from the list itself.</strong> Ezra 9:1 names Canaanite, Hittite, Perizzite, Jebusite, <strong>Ammonite, Moabite, Egyptian</strong>, Amorite. That is Deuteronomy 7:1’s seven nations with the Girgashite and the Hivite dropped and <strong>three nations added that come from Deuteronomy 23</strong> — the very chapter Neh 13:1–3 will later quote by name. <code>[T — both lists checked against the WLC]</code> The list is a splice of two Torah laws, not a census of the neighbours: several of those nations no longer existed as such. The point the import wants to make is made better by the list than by the preposition.</p>
+<h3 id="the-going-up-word-play-has-no-textual-footing">2.6 The “going up” word-play has no textual footing</h3>
+<p>The vocabulary plan makes עָלָה (“go up”) the <strong>problem word</strong>, on the thesis that “going up geographically does not mean going up spiritually”.</p>
+<p>עָלָה is certainly frequent — <strong>27 occurrences in 26 verses</strong>. <code>[T — verified by lemma]</code> But in every one of them it means physical ascent: up from Babylon, up to Jerusalem, up onto the wall, an offering brought up. The book never uses it of spiritual ascent, and so never sets up the contrast the plan depends on. A series built on that word-play would be preaching an English pun. <strong>The book’s own problem word is available and verified: מַעַל, “unfaithfulness”, 7 verses — Ezra 9:2, 9:4, 10:2, 10:6, 10:10; Neh 1:8; 13:27</strong> (the import’s own list of five omits Ezra 10:2 and 10:10, both inside the scene it is discussing).</p>
+<h3 id="every-oath-broken-is-one-word-too-strong">2.7 “Every oath broken” is one word too strong</h3>
+<p>The clause-by-clause collapse is real and checks out for the three main groups:</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sworn (Neh 10, MT numbering)</th>
+<th>Broken (Neh 13)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>10:31 — no intermarriage</td>
+<td>13:23–27</td>
+</tr>
+<tr class="even">
+<td>10:32 — no Sabbath trading</td>
+<td>13:15–21</td>
+</tr>
+<tr class="odd">
+<td>10:38–40 — dues brought in; “we will not neglect the house of our God”</td>
+<td>13:10–11</td>
+</tr>
+</tbody>
+</table>
+<p>But <strong>the wood offering of Neh 10:35 is not shown broken — it is shown being arranged, by Nehemiah, in the book’s second-to-last clause (13:31)</strong>, and the third-of-a-shekel levy of 10:33 is never revisited. <code>[T]</code> “Every commitment… systematically broken” should read “each of the three main clause groups, in order”. The precise version is more striking than the sweeping one, because it can be laid out in a table and checked.</p>
+<hr />
+<h2 id="claims-the-corpus-cannot-test">3. Claims the corpus cannot test</h2>
+<p>Recorded so a reader knows what carries no verification either way, not as criticism.</p>
+<ul>
+<li><strong>“Of the roughly 112-year narrative span, only about 23 years are narrated”</strong> (Schnittjer). A chronological reconstruction, not a textual datum.</li>
+<li><strong>“Roughly 600 of 685 verses are source documents, 85 editorial narration”</strong> (Schnittjer). Depends on a definition of “source document” the corpus cannot apply.</li>
+<li><strong>“Eleven days of collective Scripture study”</strong> in Neh 8–9. The text gives day 1 (8:2), day 2 (8:13), seven days plus an eighth (8:18), and the twenty-fourth (9:1). Eleven is a defensible count but the arithmetic is not stated in the text; it needs its source’s method attached.</li>
+<li><strong>Dating the readership to c. 330–300 BC</strong>, and Jaddua (Neh 12:11, 22) to c. 330 BC. Historical reconstruction. <code>[S]</code></li>
+<li><strong>“One scroll in the oldest Hebrew manuscripts — Aleppo Codex, Leningrad Codex.”</strong> Not contradicted, but the corpus holds only one manuscript tradition and cannot report manuscript spread. A Logos pass on the Masorah supports the unity from a different direction: the Masorah finalis gives a combined 685-verse total and marks Neh 3:32 as the midpoint. <code>[S — Batten in Hastings 1:821; Manor, 291; Lohr &amp; Kaminsky; Young, 378]</code></li>
+<li><strong>“Enemies recognise the returnees are repeating what David and Solomon accomplished” (Ezra 4:20).</strong> The verse says “mighty kings have been over Jerusalem, ruling over all Beyond the River”. It does not name David or Solomon. <code>[I]</code>, not <code>[T]</code>.</li>
+</ul>
+<hr />
+<h2 id="what-each-document-has-that-the-other-lacks">4. What each document has that the other lacks</h2>
+<p><strong>Only in the import</strong></p>
+<ul>
+<li>The Isaiah 56–66 reading of Nehemiah as a “compliant reader” of the rebuild vision — walls, confession, Sabbath, watchmen — with the point that Isaiah also asks for hearts that tremble (66:2), which the book cannot produce. This is a real contribution and the fresh build does not have it. Untested here: it needs a claim audit of its own, since it rests on a chain of six Isaiah references.</li>
+<li>The Deut 30:6 observation (see §1), which the fresh build reached independently only as far as Deut 30:1–4.</li>
+<li>A complete thirteen-week series apparatus: teaching point, purpose statement, posture map, big question, weekly questions. The fresh build stops at preaching units and does not attempt this — that is <code>/point-purpose</code> work, downstream.</li>
+<li>A named secondary-source layer (Schnittjer, Dempster, Eskenazi) carried throughout.</li>
+</ul>
+<p><strong>Only in the fresh build</strong></p>
+<ul>
+<li>Mechanical verification. Twenty-four recurrence and citation claims checked by lemma and phrase against the corpus before the document was written; the edition named on every count.</li>
+<li>The Aramaic fixed by morphology rather than by chapter reference, with the three Aramaic Leitwörter counted — טְעֵם ×17, אָסְפַּרְנָא ×7, בְּטֵל ×6 — and the point that the middle of Ezra is a contest of decrees conducted in the empire’s own administrative language.</li>
+<li>The Masoretic midpoint arithmetic (Neh 3:32 = verse 343 of 685).</li>
+<li><strong>Both Greek forms.</strong> Esdras B as one continuous 23-chapter book in Rahlfs; 1 Esdras mapped block by block, including its relocation of Ezra 4:7–24 and its total removal of Nehemiah, with the current state of the priority question from Eskenazi, Japhet and Blenkinsopp. The import does not mention the Greek at all.</li>
+<li>The verified vocabulary distributions: חוֹמָה in 28 verses, <strong>every one in Nehemiah and none in Ezra</strong>; גָּדֵר once, at Ezra 9:9; כַּכָּתוּב ×5; אוּרִים ×2 and never resolved; אֱלֹהֵי הַשָּׁמַיִם ×12 with <strong>none after Neh 2:20</strong>.</li>
+<li>Two apparatus-level textual notes with their witnesses named (Neh 9:17 בְּמִרְיָם / בְּמִצְרַיִם; the ketiv וחסד), and the MT/English versification table for Nehemiah.</li>
+<li>The Deuteronomy citation chains verified across the whole Hebrew Bible: תִדְרֹשׁ שְׁלֹמָם (Deut 23:7 // Ezra 9:12) and לֹא קִדְּמוּ (Deut 23:5 // Neh 13:2) each occur in <strong>only those two places</strong>.</li>
+</ul>
+<hr />
+<h2 id="amendments-made-to-the-fresh-build-as-a-result-of-this-audit">5. Amendments made to the fresh build as a result of this audit</h2>
+<p>Two, both arising from testing an import claim and finding the corrected form better than the claim. Both were verified against the corpus before being written in, and neither is taken from the import’s wording.</p>
+<ol type="1">
+<li><strong>כְּאִישׁ אֶחָד as an inclusio</strong> — Ezra 3:1 // Neh 8:1, the only two occurrences; added to the early↔︎late echo table.</li>
+<li><strong>Jeremiah 51:11 as the source of Ezra 1:1’s idiom</strong> — added to the intertextual map at high confidence, with the observation that Ezra 1:1 names Jeremiah in the same sentence.</li>
+</ol>
+<p>The overview has been re-rendered as <strong>v1.1</strong> in all three formats.</p>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Version</strong> 1.0 · <strong>Date</strong> 19 September 2026 · <strong>Mode</strong> Claim audit, one document against one document</p>
+<p><strong>Method note.</strong> The audit direction is single: the import’s checkable claims were tested against the corpus, and the fresh build’s claims had already been tested before it was written. No claim of the import was accepted into the fresh build on the import’s authority; the two amendments in §5 were each independently verified first.</p>
+<p><strong>Claims tested:</strong> 22. <strong>Confirmed:</strong> 13. <strong>Corrected:</strong> 7. <strong>Untestable from the corpus:</strong> 6 (recorded, not counted against).</p>
+<p><strong>Chains verified for this audit.</strong> כְּאִישׁ אֶחָד and כְּאֶחָד across the whole book; the stir-the-spirit idiom across all 23,213 WLC verses; כְּלֵי כֶסֶף across the whole Hebrew Bible; עָלָה and מַעַל by lemma across the book; the Deut 7:1 and Ezra 9:1 nation lists word by word; Neh 10 // Neh 13 clause by clause; Ezra 6:14, 6:17, 8:15, 8:35, 10:18, 13:28 and Neh 5:10 read in the Hebrew.</p>
+<p><strong>Health note.</strong> One falsified claim (§2.1), one mis-aimed allusion that concealed a better one (§2.2), and five overstatements of confidence. Nothing that invalidates the import as a series plan; everything that justifies rebuilding the overview from the text. The Isaiah 56–66 chain in §4 remains untested and is the obvious candidate for the next audit.</p>
+
+</main>
+</div>
+</body>
+</html>

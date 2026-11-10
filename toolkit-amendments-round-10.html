@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Toolkit Amendments, Round 10</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#toolkit-amendments-round-10">Toolkit Amendments, Round 10</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#the-evidence">The evidence</a></li>
+    <li><a href="#amendment-af-shape-words-need-an-ordered-phrase-search">Amendment AF — shape words need an ordered phrase search</a></li>
+    <li><a href="#amendment-ag-a-headline-is-rewritten-not-governed-from-below">Amendment AG — a headline is rewritten, not governed from below</a></li>
+    <li><a href="#amendment-ah-an-audits-own-design-claims-go-to-the-queue">Amendment AH — an audit’s own design claims go to the queue</a></li>
+    <li><a href="#changelog-entry-for-dig-deeperreferenceschangelog.md-at-the-top">CHANGELOG entry (for dig-deeper/references/CHANGELOG.md, at the top)</a></li>
+    <li><a href="#how-it-would-be-installed">How it would be installed</a></li>
+    <li><a href="#what-this-round-does-not-change">What this round does not change</a></li>
+    <li><a href="#critical-assessment">Critical assessment</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="toolkit-amendments-round-10">Toolkit Amendments, Round 10</h1>
+<p><strong>Date:</strong> 9 November 2026<br />
+<strong>Status:</strong> <strong>Accepted 9 November 2026; packaged for installation.</strong> AH is adopted on trial (withdraw if the next three claim audits raise no new design claim). Packages and the pre-round backup are in <code>_skill-backup/</code>: <code>dig-deeper-round-10-2026-11-09.skill</code>, <code>book-overview-0.3.3-round-10-2026-11-09.plugin</code>, <code>backup-pre-round-10-2026-11-09.tgz</code>; point-purpose by proposal card. <strong>Installed and verified 9 November 2026, 10:05:</strong> the installed dig-deeper folder is byte-identical to the package; book-overview 0.3.3 (the copy in use, and the copy the skill loader reads) is identical to the package; point-purpose matches the proposal card (the loader quotes the <code>name</code> field, a formatting difference only). The old 0.3.2 folder remains in the sync cache, unused.<br />
+<strong>Source run:</strong> the Colossians Finalise pass of 4 November 2026 (overview v1.2; macro-synthesis v1.1), with claim audit 5 and its dig patches<br />
+<strong>Lettering:</strong> AF–AH. AD and AE are each used twice already (round 8’s document and the round-9 CHANGELOG entry), so this round starts at AF to avoid a third collision.<br />
+<strong>Files affected:</strong> <code>dig-deeper/SKILL.md</code>; <code>dig-deeper/references/claim-audit-format.md</code>; <code>dig-deeper/references/CHANGELOG.md</code>; <code>book-overview/references/modes-and-interfaces.md</code>; <code>point-purpose/SKILL.md</code>. Checked against the installed copies on 9 November 2026, not against earlier notes.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>What fails now</th>
+<th>Amendment</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>AF</strong></td>
+<td>A claim audit “reproduces” an <em>only</em>, <em>identical</em> or <em>exactly</em> by lemma, so a changed or reordered phrase passes</td>
+<td>Shape words need an ordered phrase search, in the dig gate and in every audit spot check</td>
+<td>Two shape errors survived claim audits 3 and 5</td>
+</tr>
+<tr class="even">
+<td><strong>AG</strong></td>
+<td>Audit patches go into a table at the foot of a dig, and the headline above keeps the superseded wording, which point-purpose reads first</td>
+<td>Headline-level changes are rewritten in place; Finalise lists any stale headline; point-purpose reads governing sections first</td>
+<td>Eight digs patched this way on 4 November</td>
+</tr>
+<tr class="odd">
+<td><strong>AH</strong></td>
+<td>An audit introduces a new <em>design</em> claim and propagates it straight into a dig, without the baseline it requires of every other design claim</td>
+<td>New design claims raised by an audit are queued, not propagated, and capped at moderate</td>
+<td>Audit 5’s “distance echo is the letter’s real linking device”</td>
+</tr>
+</tbody>
+</table>
+<p>All three come from errors found in one run. AF rests on two independent errors of the same kind, and is the firmest. AG and AH each rest on one pass, but their faults are mechanical, not interpretive.</p>
+<hr />
+<h2 id="the-evidence">The evidence</h2>
+<h3 id="af-two-shape-claims-that-survived-the-audits">AF — two shape claims that survived the audits</h3>
+<ol type="1">
+<li><strong>“ὃ ἐὰν ποιῆτε (‘whatever you do’), NT only Col 3:17 and 3:23.”</strong> This stood in the 3:18–4:1 dig, in claim audit 3 (C41), in the overview’s Echo 64, and in claim audit 5, where Auditor B listed it among the confirmed “only”s and the main session “reproduced” it. The two verses do not read the same: NA28 and SBLGNT print καὶ πᾶν ὅ τι ἐὰν ποιῆτε at 3:17 and ὃ ἐὰν ποιῆτε at 3:23. What is exclusive is a relative pronoun with ἐὰν ποιῆτε; John 13:17 and 15:14 have ἐὰν ποιῆτε as a condition. The NA28 apparatus shows the majority text (D¹ K L 𝔪) assimilating 3:23 to 3:17, καὶ πᾶν ὅ τι, so the scribes heard the link too. <strong>The link holds; the shape claim did not.</strong></li>
+<li><strong>“Luke 1:79 repeats Ps 106:10 exactly”</strong> (claim audit 5, C61, Auditor A). Ps 106:10 LXX reads καθημένους ἐν σκότει καὶ σκιᾷ θανάτου; Luke 1:79 reads τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις. The words are the same, but the participle has moved to the end and is dative, not accusative.</li>
+</ol>
+<p><strong>Why the checks missed them.</strong> Both were checked by lemma. A lemma check confirms that the words are present, and is blind to order and form. The book-overview gate already has the rule that would have caught them (round 8, AC, Phase 10.5 (a): <em>identical</em>, <em>verbatim</em>, <em>the same phrase</em> and <em>only</em> are shape claims, licensed only by an ordered phrase search). <strong>The dig-deeper gate and the claim-audit spot checks do not</strong>, and the audit’s reproduction step is where both errors were passed as confirmed.</p>
+<h3 id="ag-patches-that-leave-the-headline-behind">AG — patches that leave the headline behind</h3>
+<p>Claim audit 5 was applied to eight digs on 4 November by appending a section headed “Claim audit 5 (vN)” whose first line says it “governs the paragraphs above where they differ”. The headlines above were left as they were. In the 1:1–14 dig, Headline 4 still reads the “you” → “us” shift as <em>moderate–high</em> design; the table below lowers that to <em>low–moderate</em>. The point-purpose skill’s Phase 1, row 1 tells it to read <strong>Headline Findings, So What, candidate FCF, Christological Reading and Preaching Pitfalls</strong> — not the governing table at the foot. Run as written, point-purpose on 1:1–14 would build its Teaching Point from the superseded headline.</p>
+<p>The Finalise pass found the tables and checked them against the propagation table, but its procedure gave it no step for noticing that a headline had gone stale.</p>
+<h3 id="ah-a-design-claim-introduced-by-an-audit">AH — a design claim introduced by an audit</h3>
+<p>Claim audit 5 discarded the “welded seams” as a design, rightly, on a 20,000-cut baseline. In the same verdict it described <strong>distance echo as “the letter’s real linking device”</strong>, and that sentence went into the 2:6–15 dig’s patch. Distance echo as a <em>device</em> is itself a design claim, and no baseline was run on it. The Finalise pass capped it at <em>moderate</em>, but only because it noticed. A second, smaller case: the audit grouped σύνδεσμος (“bond”, 2:19 → 3:14) with ταπεινοφροσύνη as “re-valued”, though audit 2 had called that link a continuation. It went to the queue (C78), which is the right place, so no harm followed.</p>
+<p>The rule that a design claim is capped at <em>moderate</em> until baselined is written for the claims an audit <em>tests</em>. It says nothing about the claims an audit <em>makes</em>.</p>
+<hr />
+<h2 id="amendment-af-shape-words-need-an-ordered-phrase-search">Amendment AF — shape words need an ordered phrase search</h2>
+<h3 id="af1-dig-deeperskill.md-phase-10.5-gate-item-e3">AF1 · <code>dig-deeper/SKILL.md</code>, Phase 10.5, gate item (e3)</h3>
+<p><strong>Find</strong> (inside item (e3)):</p>
+<blockquote>
+<p>(קְדוֹשׁ יִשְׂרָאֵל is 25 verses of Isaiah, not the 24 a plene-only search returns: 49:7 spells it קְדֹשׁ);</p>
+</blockquote>
+<p><strong>Replace with:</strong></p>
+<blockquote>
+<p>(קְדוֹשׁ יִשְׂרָאֵל is 25 verses of Isaiah, not the 24 a plene-only search returns: 49:7 spells it קְדֹשׁ); <strong>and the words <em>identical</em>, <em>verbatim</em>, <em>exactly</em>, <em>the same phrase</em>, and any <em>only</em> that rests on a phrase rather than a word, are claims about shape, which a lemma check cannot verify: they are licensed only by an ordered phrase search on the surface text (Hebrew normalised as above, plain and skeletal; Greek accent-stripped), and where the lemmas match but the order or the forms differ the report says <em>reordered</em>, <em>partial</em> or <em>in a different form</em> — “ὃ ἐὰν ποιῆτε, NT only Col 3:17, 23” passed three checks by lemma while 3:17 reads ὅ τι ἐὰν ποιῆτε (round 10, AF)</strong>;</p>
+</blockquote>
+<h3 id="af2-dig-deeperreferencesclaim-audit-format.md-after-the-paragraph-beginning-spot-checks-and-positive-controls-are-written-as-prose">AF2 · <code>dig-deeper/references/claim-audit-format.md</code>, after the paragraph beginning “<strong>Spot checks and positive controls are written as prose</strong>”</h3>
+<p><strong>Insert:</strong></p>
+<blockquote>
+<p><strong>A verdict that confirms a shape word is reproduced by an ordered phrase search, not by lemma.</strong> Where an auditor’s finding says <em>only</em>, <em>identical</em>, <em>verbatim</em>, <em>exactly</em> or <em>the same phrase</em>, the main session’s spot check runs the phrase in order on the surface text and quotes both places as they stand. A lemma reproduction confirms that the words are present and cannot see a reordered or altered form. Colossians claim audit 5 “reproduced” two shape claims this way, and both were wrong in shape: ὃ ἐὰν ποιῆτε at Col 3:17, 23 (3:17 has ὅ τι), and Luke 1:79 “exactly” Ps 106:10 (the participle moved and changed case).</p>
+</blockquote>
+<p><strong>Also add to the auditors’ brief</strong> (the claims-file preamble the main session writes for each blind auditor): <em>“Where you report that a phrase is identical, verbatim, exact or found only in certain places, quote each occurrence in full as the text prints it.”</em></p>
+<hr />
+<h2 id="amendment-ag-a-headline-is-rewritten-not-governed-from-below">Amendment AG — a headline is rewritten, not governed from below</h2>
+<h3 id="ag1-dig-deeperreferencesclaim-audit-format.md-section-confidence-change-propagation-after-its-first-paragraph">AG1 · <code>dig-deeper/references/claim-audit-format.md</code>, section “Confidence Change Propagation”, after its first paragraph</h3>
+<p><strong>Insert:</strong></p>
+<blockquote>
+<p><strong>Patching a dig.</strong> When a verdict changes what a dig’s <strong>Headline Findings</strong>, <strong>So What</strong> or <strong>candidate FCF</strong> says or rates, the patch rewrites that paragraph in place and marks it (<em>“v1.3 — claim audit 5: …”</em>), keeping the earlier wording only if the change needs it to be understood. A table appended at the foot that “governs the paragraphs above” is acceptable for body sections (the tools, Open Questions, Book-Overview Tensions), never for these three, because they are what <code>point-purpose</code> lifts. The propagation table gets a column, <strong>Headline touched?</strong>, answered yes or no for each dig, so the patch list cannot omit one.</p>
+</blockquote>
+<h3 id="ag2-book-overviewreferencesmodes-and-interfaces.md-finalise-upgrade-procedure-new-step-7">AG2 · <code>book-overview/references/modes-and-interfaces.md</code>, Finalise / Upgrade procedure, new step 7</h3>
+<p><strong>Insert after step 6:</strong></p>
+<blockquote>
+<ol start="7" type="1">
+<li><strong>List stale headlines.</strong> For each dig whose later sections (an audit table, a “What Changed” section) govern earlier ones, check its Headline Findings, So What and candidate FCF against the governing wording. List any that now disagree in the colophon under <strong>Stale headlines</strong>, and either patch them in the same pass or name them as owed before <code>point-purpose</code> runs on that unit. A finalised overview resting on digs whose own headlines contradict their patches is not ready to hand on.</li>
+</ol>
+</blockquote>
+<h3 id="ag3-point-purposeskill.md-phase-1-row-1">AG3 · <code>point-purpose/SKILL.md</code>, Phase 1, row 1</h3>
+<p><strong>Find:</strong></p>
+<blockquote>
+<div class="line-block">1 | <strong>Locate the exegesis.</strong> Prefer a <code>dig-deeper</code> report; read its Headline Findings, So What, candidate FCF, Christological Reading, and Preaching Pitfalls. |</div>
+</blockquote>
+<p><strong>Replace with:</strong></p>
+<blockquote>
+<div class="line-block">1 | <strong>Locate the exegesis.</strong> Prefer a <code>dig-deeper</code> report. <strong>First read any section that governs earlier ones</strong> — headed “Claim audit N”, “What Changed in vN” or “Revision vN” — then read its Headline Findings, So What, candidate FCF, Christological Reading, and Preaching Pitfalls. Where a governing section changes a headline’s rating or wording, build from the governing version, and say so in the backbone. |</div>
+</blockquote>
+<p>AG3 is a safeguard for the reports already patched the old way. AG1 stops new ones.</p>
+<hr />
+<h2 id="amendment-ah-an-audits-own-design-claims-go-to-the-queue">Amendment AH — an audit’s own design claims go to the queue</h2>
+<h3 id="ah1-dig-deeperreferencesclaim-audit-format.md-section-summary-new-paragraph-after-recommended-book-overview-revisions">AH1 · <code>dig-deeper/references/claim-audit-format.md</code>, section “Summary”, new paragraph after “Recommended book-overview revisions”</h3>
+<p><strong>Insert:</strong></p>
+<blockquote>
+<h3 id="new-claims-raised-by-the-audit">New claims raised by the audit</h3>
+<p>An audit often proposes something while testing something else. <strong>A new single contact</strong> is queued with a suggested rating, as now. <strong>A new design claim</strong> — a device, a pattern, a structure, a “real” explanation offered in place of one discarded — is queued too, capped at <em>moderate</em> until its own chance baseline has run, and <strong>is not written into the propagation table or into any dig’s patch</strong>. The rule that holds design claims to a baseline applies to the claims an audit makes, not only to those it tests. Colossians claim audit 5 discarded the “welded seams” on a 20,000-cut baseline and in the same verdict called distance echo “the letter’s real linking device”, with no baseline, and that sentence reached a dig.</p>
+</blockquote>
+<hr />
+<h2 id="changelog-entry-for-dig-deeperreferenceschangelog.md-at-the-top">CHANGELOG entry (for <code>dig-deeper/references/CHANGELOG.md</code>, at the top)</h2>
+<blockquote>
+<p><em>Revised November 2026, round 10 (shape words in audits; headlines left behind by patches; an audit’s own design claims), from the Colossians Finalise pass of 4 November 2026.</em> <strong>(AF)</strong> Gate item (e3) gains the shape-word rule the book-overview gate has had since round 8 (AC); <code>claim-audit-format.md</code> requires shape verdicts to be reproduced by ordered phrase search, and auditors to quote each occurrence. Evidence: ὃ ἐὰν ποιῆτε at Col 3:17, 23 (3:17 has ὅ τι) and Luke 1:79 against Ps 106:10 (participle moved, case changed) both passed audit checks by lemma. <strong>(AG)</strong> Headline Findings, So What and candidate FCF are patched in place; the propagation table records whether a headline was touched; Finalise lists stale headlines; <code>point-purpose</code> reads governing sections first. Evidence: eight Colossians digs patched by appended tables, with the 1:1–14 Headline 4 left at its superseded rating. <strong>(AH)</strong> Design claims raised by an audit are queued, capped at moderate and kept out of patches. Evidence: “distance echo is the letter’s real linking device” (audit 5) reached the 2:6–15 dig without a baseline.</p>
+</blockquote>
+<hr />
+<h2 id="how-it-would-be-installed">How it would be installed</h2>
+<p>The route learned on 7 September still applies: a proposal card replaces <code>SKILL.md</code> only, so the reference-file edits need packages.</p>
+<ul>
+<li><strong>dig-deeper:</strong> one <code>.skill</code> package carrying <code>SKILL.md</code> (AF1), <code>claim-audit-format.md</code> (AF2, AG1, AH1) and <code>CHANGELOG.md</code>. Backup of the installed folder first, in <code>_skill-backup/</code>.</li>
+<li><strong>book-overview:</strong> a <code>.plugin</code> package (version 0.3.2 → 0.3.3) carrying <code>modes-and-interfaces.md</code> (AG2).</li>
+<li><strong>point-purpose:</strong> AG3 is a <code>SKILL.md</code>-only edit, so a proposal card can carry it.</li>
+</ul>
+<p>After installation, check the installed files directly, not this document’s status line (the round-1 lesson).</p>
+<hr />
+<h2 id="what-this-round-does-not-change">What this round does not change</h2>
+<ul>
+<li><strong>The house converters.</strong> The fix for lists running into the paragraph above them was applied on 9 November 2026 to <code>_house-style/make_odt.py</code> and <code>make_html.py</code> (pandoc option <code>+lists_without_preceding_blankline</code>). That is house tooling, not a skill, and is recorded here only so the two are not confused.</li>
+<li><strong>The Colossians files themselves.</strong> Claim audit 5 still says “exactly” and “only these two”; three digs still carry the ποιῆτε claim; the 1:1–14 headlines still need rewriting under AG1. That is the tidying pass, which follows this round.</li>
+<li><strong>The seven amendments proposed by the Daniel claim audit (1 November).</strong> Not reviewed here; they are still unapplied.</li>
+</ul>
+<hr />
+<h2 id="critical-assessment">Critical assessment</h2>
+<ul>
+<li><strong>AF is well founded:</strong> two independent errors of one kind, and the rule already exists one skill over. The cost is a phrase search per shape claim.</li>
+<li><strong>AG3 makes point-purpose read more,</strong> and a report with several governing sections (the 1:15–20 dig has eight revisions) could become hard to read in order. AG1 is the real fix; AG3 can be withdrawn once the existing digs have had their headlines rewritten.</li>
+<li><strong>AH rests on one sentence in one audit.</strong> It is cheap, since it only moves new design claims from the patch to the queue, but it is not yet shown to be needed often. It could be marked <em>adopted on trial</em> and withdrawn if the next three audits raise no new design claim.</li>
+<li><strong>None of this was tested on a live run.</strong> Rounds 2 and 5 adopted rules on trial for that reason; AH is the one this round would mark so.</li>
+</ul>
+
+</main>
+</div>
+</body>
+</html>

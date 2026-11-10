@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Proverbs — Dig-Deeper Macro-Synthesis</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#proverbs-dig-deeper-macro-synthesis">Proverbs — Dig-Deeper Macro-Synthesis</a></li>
+    <li><a href="#how-to-read-this-document">How to read this document</a></li>
+    <li><a href="#the-new-testament-reaches-proverbs-through-the-greek-and-the-three-exceptions-are-what-make-the-rule-worth-stating">1. The New Testament reaches Proverbs through the Greek — and the three exceptions are what make the rule worth stating</a></li>
+    <li><a href="#the-book-asks-whether-a-man-can-certify-his-own-wisdom-answers-no-nine-times-and-never-supplies-the-verdict-from-inside">2. The book asks whether a man can certify his own wisdom, answers no nine times, and never supplies the verdict from inside</a></li>
+    <li><a href="#the-fear-of-the-lord-frames-the-book-and-at-the-end-it-stops-being-a-thing-and-becomes-a-description-of-a-person">3. The fear of the LORD frames the book, and at the end it stops being a thing and becomes a description of a person</a></li>
+    <li><a href="#the-frame-and-the-field-speak-different-dialects-and-the-books-last-movement-returns-to-the-frames">4. The frame and the field speak different dialects — and the book’s last movement returns to the frame’s</a></li>
+    <li><a href="#the-collection-boundaries-a-preacher-plans-by-are-masoretic-and-every-run-met-the-greek-disagreeing">5. The collection boundaries a preacher plans by are Masoretic, and every run met the Greek disagreeing</a></li>
+    <li><a href="#the-book-withdraws-direct-address-as-it-proceeds-and-hands-the-reader-the-cases">6. The book withdraws direct address as it proceeds, and hands the reader the cases</a></li>
+    <li><a href="#the-poor-are-the-books-test-case-and-the-vocabulary-shifts-at-the-very-end">7. The poor are the book’s test case, and the vocabulary shifts at the very end</a></li>
+    <li><a href="#the-book-binds-itself-by-repetition-rather-than-by-citation-and-the-repetitions-cross-every-seam">8. The book binds itself by repetition rather than by citation — and the repetitions cross every seam</a></li>
+    <li><a href="#the-book-points-to-christ-by-contrast-and-by-an-unanswered-question-never-by-typology-and-every-run-refused-the-same-three-moves">9. The book points to Christ by contrast and by an unanswered question — never by typology, and every run refused the same three moves</a></li>
+    <li><a href="#candidate-threads-not-yet-macro">Candidate threads — not yet macro</a></li>
+    <li><a href="#what-the-sweep-did-not-find">What the sweep did not find</a></li>
+    <li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
+    <li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="proverbs-dig-deeper-macro-synthesis">Proverbs — Dig-Deeper Macro-Synthesis</h1>
+<p><em>What the nine full solo <code>/dig-deeper</code> runs across Proverbs, taken together, demonstrate about the book — the cross-pericope arguments invisible at the level of a single passage and unmistakable once the whole sweep is laid side by side. Companion to the Proverbs Book Overview (v3.0) and to the nine dig-deeper reports. Text-first; confidence-flagged.</em></p>
+<p><strong>Primary texts:</strong> Westminster Leningrad Codex (Hebrew) · Swete, <em>The Old Testament in Greek</em> · SBLGNT. Apparatus readings from the Logos export of <em>BHS</em>. <strong>Study text:</strong> NASB95 · <strong>Pulpit text:</strong> N/A — no single sermon in view <strong>Date:</strong> 27 September 2026 · <strong>Version:</strong> 2.0, superseding the synthesis of 20 August 2026, which rested on digs this round has replaced. <em>That round counted ten runs to this one’s nine, because it dug 25:1–27:27 and 28:1–29:27 separately; the Hezekiah collection is now worked whole.</em></p>
+<hr />
+<h2 id="how-to-read-this-document">How to read this document</h2>
+<p>Each section below is a <strong>macro-argument</strong>: a pattern that no single passage establishes but that the sweep demonstrates jointly. They are emergent rather than imposed — every one was found by laying the runs’ <em>Convergent Findings</em> and <em>Book-Overview Tensions</em> side by side and asking what recurred, and each had to clear a hard gate of <strong>three or more pericopes</strong> before it was written up. Patterns resting on one or two are listed at the end as <em>candidate threads</em>, flagged as not yet macro, rather than promoted.</p>
+<p><strong>Confidence key.</strong> <strong>High</strong> — the link is New Testament-authorised, or it is a textual fact about an edition that can be read off the page. <strong>Strong</strong> — several runs reached the finding independently, text-first. <strong>Moderate</strong> — a real trajectory, but looser, or resting partly on inference.</p>
+<p><strong>Warrant tags carry forward from the runs.</strong> <code>[T]</code> derivable from the text; <code>[I]</code> inferred from it; <code>[S]</code> supplied by a secondary source, named. A finding that was <code>[S]</code> in a run is <code>[S]</code> here; nothing has been laundered into confidence by being repeated.</p>
+<p><strong>The nine runs, with the numbering used throughout.</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>§</th>
+<th>Pericope</th>
+<th>Sermon</th>
+<th>Run date</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>§1</strong></td>
+<td>1:1–7, the prologue</td>
+<td>2</td>
+<td>18 Sep 2026</td>
+</tr>
+<tr class="even">
+<td><strong>§2</strong></td>
+<td>ch. 2, the agenda</td>
+<td>3</td>
+<td>18 Sep 2026</td>
+</tr>
+<tr class="odd">
+<td><strong>§3</strong></td>
+<td>1:1–9:18, the frame</td>
+<td>4</td>
+<td>18 Sep 2026</td>
+</tr>
+<tr class="even">
+<td><strong>§4</strong></td>
+<td>10:1–15:33, Solomon I, first half</td>
+<td>5</td>
+<td>18 Sep 2026</td>
+</tr>
+<tr class="odd">
+<td><strong>§5</strong></td>
+<td>16:1–22:16, Solomon I, second half</td>
+<td>5</td>
+<td>18 Sep 2026</td>
+</tr>
+<tr class="even">
+<td><strong>§6</strong></td>
+<td>22:17–24:34, the Words of the Wise</td>
+<td>6</td>
+<td>23 Sep 2026</td>
+</tr>
+<tr class="odd">
+<td><strong>§7</strong></td>
+<td>25:1–29:27, the Hezekiah collection</td>
+<td>7</td>
+<td>27 Sep 2026</td>
+</tr>
+<tr class="even">
+<td><strong>§8</strong></td>
+<td>30:1–31:9, Agur and Lemuel’s mother</td>
+<td>8</td>
+<td>27 Sep 2026</td>
+</tr>
+<tr class="odd">
+<td><strong>§9</strong></td>
+<td>31:10–31, the closing acrostic</td>
+<td>9</td>
+<td>27 Sep 2026</td>
+</tr>
+</tbody>
+</table>
+<p><em>Coverage is complete: every preaching unit in the series has a full solo run, and 10:1–22:16 has two plus an umbrella pass. No ⭐ HIGH-weight passage is missing.</em> A claim audit (3 September 2026) is consumed as settled where it bears.</p>
+<hr />
+<h2 id="the-new-testament-reaches-proverbs-through-the-greek-and-the-three-exceptions-are-what-make-the-rule-worth-stating">1. The New Testament reaches Proverbs through the Greek — and the three exceptions are what make the rule worth stating</h2>
+<p><strong>Claim.</strong> Every New Testament <strong>quotation</strong> of Proverbs that this project has verified depends on the Septuagint’s wording, and in four cases on a Greek reading the Hebrew does not support. <em>(2 Cor 9:7 is the one adaptation rather than a verbatim quotation in that group, and it is the strongest case of the four, since the Hebrew does not contain the saying at all.)</em> Three uses do not fit that shape, and each fails it differently — which is why the generalisation has to be stated with its exceptions rather than without them.</p>
+<p><strong>Converging evidence.</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>NT text</th>
+<th>Proverbs</th>
+<th>Which text it follows</th>
+<th>§</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Heb 12:5–6</strong></td>
+<td>3:11–12</td>
+<td><strong>Greek only.</strong> Swete: μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται (“and scourges every son whom he receives”); Hebrews has it verbatim. <strong>The Hebrew has no scourging in it</strong>: וּכְאָב אֶת־בֵּן יִרְצֶה (“and as a father the son in whom he delights”) <code>[T]</code>, WLC + Swete + SBLGNT</td>
+<td>§3</td>
+</tr>
+<tr class="even">
+<td><strong>Jas 4:6 ‖ 1 Pet 5:5</strong></td>
+<td>3:34</td>
+<td><strong>Greek.</strong> ὑπερηφάνοις ἀντιτάσσεται ταπεινοῖς δὲ δίδωσιν χάριν, verbatim in both (with ὁ θεός for Swete’s Κύριος). <strong>The Hebrew’s first colon is אִם־לַלֵּצִים הוּא־יָלִיץ — he scoffs at the scoffers, not resists the proud</strong> <code>[T]</code></td>
+<td>§3</td>
+</tr>
+<tr class="odd">
+<td><strong>1 Pet 4:18</strong></td>
+<td>11:31</td>
+<td><strong>Greek</strong>, word for word. The Hebrew says the righteous is recompensed <strong>בָּאָרֶץ</strong>, “on the earth” <code>[T]</code></td>
+<td>§4, §9</td>
+</tr>
+<tr class="even">
+<td><strong>2 Cor 9:7</strong></td>
+<td>22:8</td>
+<td><strong>A Greek plus with no Hebrew behind it at all</strong> — Swete’s ἄνδρα ἱλαρὸν καὶ δότην <strong>εὐλογεῖ</strong> ὁ θεός against Paul’s ἱλαρὸν γὰρ δότην <strong>ἀγαπᾷ</strong> ὁ θεός <code>[T]</code>. <em>A close adaptation rather than a verbatim quotation: three of the four significant words are shared and the verb is not</em></td>
+<td>§5</td>
+</tr>
+<tr class="odd">
+<td><strong>Rom 2:6</strong></td>
+<td>24:12</td>
+<td><strong>Greek</strong>, blended with Swete Ps 61:13. In Hebrew the two verses <strong>share no lexeme</strong>; in Greek four words are identical <code>[T]</code></td>
+<td>§6</td>
+</tr>
+<tr class="even">
+<td><strong>1 Pet 2:17</strong></td>
+<td>24:21</td>
+<td><strong>Greek</strong>, and then divided: one Hebrew imperative governing YHWH and the king becomes φοβεῖσθε / τιμᾶτε <code>[T]</code></td>
+<td>§6</td>
+</tr>
+<tr class="odd">
+<td><strong>Rom 12:20</strong></td>
+<td>25:21–22</td>
+<td><strong>Greek</strong> <code>[T]</code></td>
+<td>§7</td>
+</tr>
+<tr class="even">
+<td><strong>1 Pet 3:3–4; 1 Tim 2:9–10</strong></td>
+<td>31:10, 31:30</td>
+<td><strong>Greek</strong> — πολυτελές against Swete’s πολυτελῶν; θεοσέβειαν and δι’ ἔργων ἀγαθῶν against the Greek of 31:30 <code>[T]</code></td>
+<td>§9</td>
+</tr>
+</tbody>
+</table>
+<p><strong>And the three that do not fit.</strong></p>
+<ul>
+<li><strong>1 Pet 4:8 ← Prov 10:12 follows the Hebrew.</strong> ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν answers וְעַל כָּל־פְּשָׁעִים תְּכַסֶּה אַהֲבָה — and <strong>Swete’s 10:12 has friendship covering the non-contentious, with no sins in it</strong> <code>[T]</code> (§4). <em>Eleven verses later the same letter quotes the Greek of 11:31. One short epistle, two citations, going opposite ways.</em></li>
+<li><strong>2 Pet 2:22 ← Prov 26:11 is not a quotation.</strong> Its wording matches neither Swete nor the Hebrew closely, it is introduced as a <strong>παροιμία</strong> rather than as Scripture, and it is paired with a non-biblical proverb <code>[T]</code> (§7).</li>
+<li><strong>John 3:13 ← Prov 30:4 runs both ways at once.</strong> The shape of the question — one person who both ascends and descends — is matched in the Greek; <strong>the singular “his son” that makes the answer Christologically pointed is the Hebrew’s, the Greek having τοῖς τέκνοις αὐτοῦ</strong> <code>[T]</code>, <code>[S: BHS]</code> at 30:4ᶜ (§8).</li>
+</ul>
+<p><strong>Confidence: high</strong> — every wording above was read from its own edition, and the pattern is New Testament-authorised rather than constructed.</p>
+<p><strong>Payoff.</strong> Two things, and the second matters more in a pulpit than the first. <strong>A preacher quoting a New Testament use of Proverbs is usually quoting the Greek</strong>, so a sermon that says “as Proverbs says” and then reads the congregation’s Old Testament will sometimes be reading a different sentence. And <strong>the divergences are not translator’s carelessness but interpretation</strong>: Hebrews’ discipline text, James’s “God opposes the proud”, and Paul’s cheerful giver all rest on Greek readings that say more, or other, than the Hebrew. <em>Say so. It is more interesting than the flattened version, and a congregation can follow it in one sentence.</em></p>
+<hr />
+<h2 id="the-book-asks-whether-a-man-can-certify-his-own-wisdom-answers-no-nine-times-and-never-supplies-the-verdict-from-inside">2. The book asks whether a man can certify his own wisdom, answers no nine times, and never supplies the verdict from inside</h2>
+<p><strong>Claim.</strong> Running from the prologue to the acrostic is a single thread on self-assessment: nine verses say a man’s estimate of himself is worthless, one verse asks who could ever say otherwise and is never answered, and the book’s last movement supplies a verdict — spoken by somebody else. <strong>This is the book’s spine, and no single collection shows it.</strong></p>
+<p><strong>Converging evidence.</strong> The formula is <em>X in his own eyes</em> — the preposition בְּ with עַיִן and a pronominal suffix. It stands in <strong>thirteen verses of Proverbs</strong>; <strong>nine of them are self-assessment</strong>, and they are spread across every collection <code>[T]</code>, WLC, lemma-verified for this synthesis:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verse</th>
+<th>Wording</th>
+<th>§</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>3:7</strong></td>
+<td>אַל־תְּהִי חָכָם בְּעֵינֶיךָ — <em>do not be wise in your own eyes</em> (2ms: the one time it is a command)</td>
+<td>§3</td>
+</tr>
+<tr class="even">
+<td><strong>12:15</strong></td>
+<td>the fool’s way is right in his own eyes</td>
+<td>§4</td>
+</tr>
+<tr class="odd">
+<td><strong>16:2</strong></td>
+<td>all a man’s ways are <strong>clean</strong> (זַךְ) in his own eyes</td>
+<td>§5</td>
+</tr>
+<tr class="even">
+<td><strong>21:2</strong></td>
+<td>every man’s way is right in his own eyes</td>
+<td>§5</td>
+</tr>
+<tr class="odd">
+<td><strong>26:5, 26:12, 26:16</strong></td>
+<td>the fool, the man wise in his own eyes, the sluggard</td>
+<td>§7</td>
+</tr>
+<tr class="even">
+<td><strong>28:11</strong></td>
+<td>the rich man is wise in his own eyes — <em>and a poor man with understanding sees through him</em></td>
+<td>§7</td>
+</tr>
+<tr class="odd">
+<td><strong>30:12</strong></td>
+<td>a generation <strong>pure in its own eyes</strong> and not washed of its filth</td>
+<td>§8</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The unanswered question stands between them.</strong> <strong>20:9</strong> — מִי־יֹאמַר זִכִּיתִי לִבִּי טָהַרְתִּי מֵחַטָּאתִי (“who can say, <em>I have cleansed my heart, I am pure from my sin</em>?”) — uses the <strong>root of 16:2’s adjective</strong>, and all four occurrences of that root in Proverbs fall inside §5 <code>[T]</code>. <strong>The book never answers it.</strong></p>
+<p><strong>And the last collection turns the thread inside out.</strong> 27:2 forbids the self-praise the thread has been exposing — יְהַלֶּלְךָ זָר וְלֹא־פִיךָ — and §9 shows the rule <strong>kept</strong>: three of the book’s nine הלל verses are 31:28, 30 and 31, every one of them somebody else speaking, and the woman never evaluates herself <code>[T]</code>.</p>
+<p><strong>Six pericopes: §3, §4, §5, §7, §8, §9. Confidence: strong</strong> — reached independently in four runs before being drawn together, and the count was re-verified from the lemma index for this document.</p>
+<p><strong>Payoff.</strong> This is the series’ through-line and the answer to its Big Question. <strong>It also decides how the book is preached:</strong> a collection of sayings read as a self-audit is being read against its own repeated warning. And it is where the gospel enters without being imported — 20:9 is a question the book leaves open and the New Testament closes.</p>
+<hr />
+<h2 id="the-fear-of-the-lord-frames-the-book-and-at-the-end-it-stops-being-a-thing-and-becomes-a-description-of-a-person">3. The fear of the LORD frames the book, and at the end it stops being a thing and becomes a description of a person</h2>
+<p><strong>Claim.</strong> The motto is not merely repeated at the start and finish; it is carried by a <strong>noun</strong> for fourteen verses, withdrawn for the whole of the Hezekiah collection, and returns in the book’s second-to-last verse as an <strong>adjective predicated of somebody</strong>.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>יִרְאַת יְהוָה — the noun 3374 in construct with the divine name — stands in exactly fourteen verses of Proverbs: 1:7, 1:29, 2:5, 8:13, 9:10, 10:27, 14:26, 14:27, 15:16, 15:33, 16:6, 19:23, 22:4, 23:17</strong> <code>[T]</code>, WLC, lemma-verified for this synthesis. <strong>The last is 23:17</strong> — thirty-four verses before the Hezekiah collection opens (§7).</li>
+<li><strong>The motto sits at every structural hinge the runs identified</strong>: 1:7 closing the prologue (§1), 9:10 closing the frame (§3), 15:33 closing the first half of Solomon I — <strong>and the Greek moves it past the seam, printing it at Swete 16:4</strong> (§4) <code>[T]</code>, Swete.</li>
+<li><strong>§7 found it absent from all 138 verses of 25:1–29:27</strong>, with the noun יִרְאָה, the adjective יָרֵא, מוּסָר and בִּינָה absent alongside it <code>[T]</code>.</li>
+<li><strong>§8 has Agur revoking the frame’s thesis in the frame’s own words</strong> — דַּעַת קְדֹשִׁים stands in <strong>two verses of the whole Hebrew Bible</strong>, 9:10 where it <em>is</em> understanding and 30:3 where he says he has not got it <code>[T]</code>.</li>
+<li><strong>§9 closes the book with it in a different form.</strong> 31:30’s יִרְאַת is lemma <strong>3373, the adjective</strong>, not 3374 — and the adjective stands in only four verses of Proverbs: 13:13, 14:2, 14:16, <strong>31:30</strong> <code>[T]</code>, verified for this synthesis from the morphology. <em>The book’s motto ends attached to a person rather than named as a thing.</em></li>
+</ul>
+<p><strong>Six pericopes: §1, §3, §4, §7, §8, §9. Confidence: strong.</strong></p>
+<p><strong>Payoff.</strong> The motto is usually preached as a bookend and a slogan. <strong>The sweep shows it behaving like an argument</strong>: stated, repeated, withheld for five chapters while the reader is made to judge without it, revoked by the book’s last sage, and finally not stated at all but <em>observed in somebody’s life</em>. A series can trace that, and the tracing is the series.</p>
+<hr />
+<h2 id="the-frame-and-the-field-speak-different-dialects-and-the-books-last-movement-returns-to-the-frames">4. The frame and the field speak different dialects — and the book’s last movement returns to the frame’s</h2>
+<p><strong>Claim.</strong> Chapters 1–9 teach the reader a vocabulary the sentence collections barely use, and the collections use a vocabulary the frame barely uses. <strong>The closing acrostic is written in the frame’s dialect, not the collections’</strong> — which is what makes it the book’s ending rather than an appendix.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The split is countable.</strong> מַעְגָּל (“track”) stands in <strong>seven verses of chs 1–9 and none at all in chs 10–31</strong>; אֹרַח (“path”) is 4.3× denser in the frame; נְתִיבָה five against one. Running the other way: צַדִּיק is in 1.6% of the frame’s verses and 9.4% of the rest, רָשָׁע 2.7% against 10.6%, כְּסִיל 1.6% against 6.8% <code>[T]</code> (§3).</li>
+<li><strong>The character words are the field’s engine.</strong> 60.3% of the verses of §4 carry a righteous/wicked/wise/fool word, against 44.5% in §5 and 27.0% in the frame <code>[T]</code>.</li>
+<li><strong>And the divine name runs the other way from the assumption.</strong> יְהוָה stands in 7.4% of the frame’s verses and 10.3% of the rest <code>[T]</code> (§3). <em>Whatever makes chapters 1–9 the theological frame, it is not the frequency of the name.</em></li>
+<li><strong>§9 is written in the frame’s words.</strong> Five chains, each lemma-verified against the whole book, tie the acrostic to personified Wisdom: <strong>פְּנִינִים</strong> (3:15, 8:11 / 31:10), <strong>שַׁעַר</strong> (1:21, 8:3 / 31:23, 31), <strong>שׂחק</strong> (1:26, 8:30–31 / 31:25), <strong>אשׁר</strong> piel and <strong>תמך</strong> (both in 3:18, of Wisdom / 31:28, 31:19), <strong>מצא</strong> (3:13, 8:17, 8:35 / 31:10’s מִי יִמְצָא) <code>[T]</code>.</li>
+</ul>
+<p><strong>Four pericopes: §3, §4, §5, §9. Confidence: strong.</strong></p>
+<p><strong>Payoff.</strong> <strong>The frame is not an introduction to be hurried through; it is the lens the rest of the book is to be read with</strong>, and the book says so by returning to it at the close. A series that gives chapters 1–9 one sermon and the collections five has the proportion the book itself suggests — <em>provided the last sermon is preached as the frame’s return and not as a poem about marriage.</em></p>
+<hr />
+<h2 id="the-collection-boundaries-a-preacher-plans-by-are-masoretic-and-every-run-met-the-greek-disagreeing">5. The collection boundaries a preacher plans by are Masoretic, and every run met the Greek disagreeing</h2>
+<p><strong>Claim.</strong> The divisions that organise a Proverbs series — the superscriptions, the seams, the order of the last three units — are features of the Hebrew tradition. <strong>The Greek arranges the book differently at five separate points, and each of the five was found independently by the run working there.</strong></p>
+<p><strong>Converging evidence.</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Where</th>
+<th>What the Greek does</th>
+<th>§</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>10:1</strong></td>
+<td><strong>No superscription at all</strong> — no מִשְׁלֵי שְׁלֹמֹה, no heading, no break; Swete runs straight out of Folly’s house at 9:18 into Υἱὸς σοφὸς εὐφραίνει πατέρα <code>[T]</code></td>
+<td>§4</td>
+</tr>
+<tr class="even">
+<td><strong>15:33 / 16:1</strong></td>
+<td>MT 15:33 stands at <strong>Swete 16:4</strong>, behind material the MT puts at 16:6–8 — <em>the motto is moved across the seam</em> <code>[T]</code></td>
+<td>§4</td>
+</tr>
+<tr class="odd">
+<td><strong>24:22 / 24:23</strong></td>
+<td><strong>Fourteen verses of Agur (MT 30:1–14) stand between them</strong>; MT 24:23 resumes only at Swete 24:38. <strong>And the displacement lands exactly on the Hebrew’s only setumah</strong> <code>[T]</code></td>
+<td>§6</td>
+</tr>
+<tr class="even">
+<td><strong>25:1–29:27</strong></td>
+<td>Placed <strong>after</strong> the Agur and Lemuel material rather than before it, so the Greek reader meets Hezekiah’s collection immediately before the acrostic <code>[T]</code>, Swete; <code>[S: BHS]</code> 30:1ᵃ</td>
+<td>§7</td>
+</tr>
+<tr class="odd">
+<td><strong>30:1; 31:1; 31:10–31</strong></td>
+<td><strong>No Agur and no Lemuel superscription</strong>; the acrostic stands as Swete 29:28–49, and inside it <strong>31:25 and 31:26 are transposed into the פ-before-ע order of Lamentations 2–4</strong> <code>[T]</code>, Swete; <code>[S: BHS]</code> 31:25ᵃ</td>
+<td>§8, §9</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Five pericopes: §4, §6, §7, §8, §9. Confidence: high</strong> — these are facts about an edition, readable off the page, not inferences.</p>
+<p><strong>Payoff.</strong> <strong>Both traditions end the book with the acrostic; what differs is what the reader has just been reading.</strong> And the practical note is sharper than it sounds: the seven headings that give a Proverbs series its shape are <strong>not</strong> neutral furniture, and a sermon that rests on “the collection begins here” is resting on the Masoretic arrangement. <em>Say it once, early in the series, and it costs nothing afterwards.</em> The one place it becomes a decision is the §6 setumah, where two independent traditions mark the same join by different means — the strongest structural convergence the sweep found.</p>
+<hr />
+<h2 id="the-book-withdraws-direct-address-as-it-proceeds-and-hands-the-reader-the-cases">6. The book withdraws direct address as it proceeds, and hands the reader the cases</h2>
+<p><strong>Claim.</strong> Proverbs begins by telling a son what to do and ends by giving a reader something to look at. The withdrawal is gradual, measurable at every stage, and it is the book’s pedagogy rather than an accident of compilation.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The father stops speaking inside the frame.</strong> בְּנִי occurs fifteen times in chs 1–9 and <strong>its last is 7:1</strong>; after 7:27 the father never addresses the son again, and chapters 8 and 9 belong to the two women <code>[T]</code> (§3).</li>
+<li><strong>The first Solomonic collection addresses nobody.</strong> No vocative, no addressee, <strong>0.5% of verses carrying a second-person form</strong>, and <strong>two paragraph markers in 184 verses</strong> <code>[T]</code> (§4). <em>“A deposit, not an argument.”</em></li>
+<li><strong>The Words of the Wise reverse it briefly and sharply</strong> — <strong>26.8% of verses carrying אַל, the book’s highest by a factor of two, 48.8% carrying a second-person form, and five vocatives</strong> <code>[T]</code> (§6). <strong>And then it never happens again.</strong></li>
+<li><strong>The Hezekiah collection withdraws it in two stages.</strong> The imperative rate falls <strong>15.9% → 12.0% → 1.8%</strong> across §6, 25–27 and 28–29, and <strong>the book’s vocative בְּנִי retires at 27:11</strong> <code>[T]</code> (§7).</li>
+<li><strong>The last teaching in the book is given by two outsiders</strong>, and its closing command is to open your mouth <em>for somebody else</em> (31:8–9) <code>[T]</code> (§8).</li>
+<li><strong>And the acrostic issues no command to its subject at all.</strong> Twenty-two verses, every verb about her indicative or participial, <strong>one imperative — תְּנוּ־לָהּ (31:31) — plural, and addressed to the audience</strong> <code>[T]</code> (§9).</li>
+</ul>
+<p><strong>Six pericopes: §3, §4, §6, §7, §8, §9. Confidence: strong.</strong></p>
+<p><strong>Payoff.</strong> <strong>The book trains judgement by progressively refusing to exercise it for you.</strong> That is the single most useful thing the sweep has to say to a preacher, because it converts the collections’ apparent shapelessness into a method — <em>the material stops telling you and starts showing you</em> — and it gives the last sermon its grammar: the only instruction in the book’s final poem is given to the person reading it.</p>
+<hr />
+<h2 id="the-poor-are-the-books-test-case-and-the-vocabulary-shifts-at-the-very-end">7. The poor are the book’s test case, and the vocabulary shifts at the very end</h2>
+<p><strong>Claim.</strong> Proverbs talks about poverty throughout in its sociological words, and reaches for the <strong>covenant</strong> words of the Torah and the Psalter only as it closes. The shift is countable and it lands on the book’s last movement.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The everyday words are spread across the collections.</strong> דַּל stands in <strong>fourteen</strong> verses and רוּשׁ in <strong>sixteen</strong>, almost all of them between 10:1 and 29:27 <code>[T]</code>, WLC, lemma-verified for this synthesis.</li>
+<li><strong>The covenant words are not.</strong> עָנִי stands in <strong>eight</strong> verses — 3:34, 14:21, 15:15, 16:19, 22:22, 30:14, 31:9, 31:20 — and <strong>אֶבְיוֹן in four: 14:31, 30:14, 31:9, 31:20.</strong> <strong>Three of אֶבְיוֹן’s four are in the last two chapters, and the two words stand together in exactly three verses — 30:14, 31:9 and 31:20</strong> <code>[T]</code>. <em>And neither word occurs anywhere in the 138 verses of the Hezekiah collection</em> (§7).</li>
+<li><strong>The chain that runs to Solomon I’s last verse.</strong> 14:31 → 17:5 → 22:2 → 22:16, with חֵרֵף עֹשֵׂהוּ (“reproaches his Maker”) identical at 14:31 and 17:5 and עֹשֵׁק דָּל (“oppressing the poor”) at 14:31 and 22:16 <code>[T]</code> (§5). <strong>It crosses the 15:33/16:1 seam and lands on the collection’s closing verse.</strong></li>
+<li><strong>And the next collection opens where it left off.</strong> 22:16 ends Solomon I on oppressing the poor; <strong>22:22 is the Words of the Wise’s first prohibition — do not rob the poor</strong> <code>[T]</code> (§6).</li>
+<li><strong>The Hezekiah collection gives the theme its one throne.</strong> 29:7’s דַּעַת is the collection’s only occurrence of the word, and its subject is the poor man’s cause; 29:14 is the throne that stands <code>[T]</code> (§7).</li>
+<li><strong>The last two units frame themselves on it.</strong> 30:14’s generation whose teeth devour the עֲנִיִּים and אֶבְיוֹנִים; 31:9’s command to defend them; <strong>31:20 the hinge of the acrostic, where the working hands turn outward and the only thing in the poem leaves the house without being sold</strong> <code>[T]</code> (§8, §9).</li>
+</ul>
+<p><strong>Six pericopes: §4, §5, §6, §7, §8, §9. Confidence: strong.</strong></p>
+<p><strong>Payoff.</strong> A series can carry this from week to week without contriving it, and the last three sermons carry it hardest. <strong>The theological weight is in the shift</strong>: the book’s ordinary economic observation turns, at the close, into the vocabulary of covenant obligation — and the two movements that use those words are the two that also contain the book’s only command to speak for somebody with no voice and its only command to pay somebody what their work is worth.</p>
+<hr />
+<h2 id="the-book-binds-itself-by-repetition-rather-than-by-citation-and-the-repetitions-cross-every-seam">8. The book binds itself by repetition rather than by citation — and the repetitions cross every seam</h2>
+<p><strong>Claim.</strong> Proverbs is citation-light: it quotes an earlier Scripture <strong>once</strong> in thirty-one chapters. What holds it together is internal repetition — self-quotation, doublets and near-doublets — and those repetitions cross the collection boundaries in a pattern the runs can now describe.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The citation-light finding was confirmed by every run that tested it</strong> (§1, §2, §3, §4, §6) <code>[T]</code>. <strong>The one act of quotation in the book is Agur’s</strong>, at 30:5, from Ps 18:31 ‖ 2 Sam 22:31 — and he changes exactly two things: <strong>יְהוָה → אֱלוֹהַּ</strong>, and <strong>כֹּל moved off the people and onto the word</strong> <code>[T]</code> (§8).</li>
+<li><strong>The one live external source is Deuteronomy</strong> — the boundary law, the weights, the Shema’s לוּחַ (Deut 6:8–9, by lemma, at 3:3 ‖ 7:3), “do not add” at 30:6, Deut 28:63’s נָסַח at 2:22, and Deut 8:11–17’s satiety-forgetting sequence at 30:8–9 <code>[T]</code> (§2, §3, §8). <strong>Three pericopes; it clears the gate and nothing else does.</strong></li>
+<li><strong>The collections quote themselves.</strong> §4 verified <strong>eight</strong> self-quotations, including <strong>13:14 ‖ 14:27 — identical but for the subject</strong> (the teaching of the wise / the fear of the LORD), <strong>10:1a ‖ 15:20a</strong>, and <strong>14:12 repeated exactly at 16:25, across the seam</strong> <code>[T]</code>.</li>
+<li><strong>The doublets are directional.</strong> <strong>Every whole-verse doublet the Hezekiah collection shares with Solomon I comes from 16:1–22:16 — four of them — and none from 10:1–15:33</strong> <code>[T]</code> (§5). §7 found <strong>seven</strong> bicola or half-bicola recurring elsewhere in the book <strong>and none at all shared with 22:17–24:34 or with chapters 1–9</strong> <code>[T]</code>.</li>
+<li><strong>And the two women’s invitation is a doublet.</strong> 9:4 and 9:16 are <strong>word-for-word identical in what the two women say</strong>; the narrator’s frame around each is not — 9:16 adds two conjunctions <code>[T]</code> (§3). <em>This corrected a claim the earlier files carried, and the correction sharpens the point.</em></li>
+</ul>
+<p><strong>Five pericopes: §2, §3, §4, §5, §7 (with §8 supplying the single citation). Confidence: strong.</strong></p>
+<p><strong>Payoff.</strong> Two. <strong>For the preacher:</strong> the right question of a Proverbs verse is usually not “what Scripture is behind this?” but “where else does the book say this, and what changed?” — and the runs show that the answer is often a single swapped word carrying the whole freight. <strong>For the method:</strong> §7 found that <strong>three of its seven repetitions fall below a 0.70 consonantal threshold and clear it only on a skeletal pass</strong> that collapses plene/defective spelling and prefixed waw <code>[T]</code>. A doublet list built consonantally alone reports four, not seven — and would report, falsely, that the Hezekiah collection shares no doublet with 10:1–15:33.</p>
+<hr />
+<h2 id="the-book-points-to-christ-by-contrast-and-by-an-unanswered-question-never-by-typology-and-every-run-refused-the-same-three-moves">9. The book points to Christ by contrast and by an unanswered question — never by typology, and every run refused the same three moves</h2>
+<p><strong>Claim.</strong> Proverbs has no prophecy, no type in an established category, and no Christophany. What it has is a question it cannot answer and a category it cannot fill — and the runs converge on that rather than on personified Wisdom, which is the doorway most often used and the one the sweep declined.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The anti-moralism hinge is in the text, not imported.</strong> 2:6’s כִּי — <em>“<strong>if</strong> you seek her as silver … <strong>then</strong> you will find the knowledge of God, <strong>for</strong> the LORD gives wisdom”</em> — <strong>grounds the search rather than rewarding it</strong> <code>[T]</code> (§2). <em>The book’s own syntax forbids the sermon that makes wisdom a wage.</em></li>
+<li><strong>The frame’s Wisdom is handled with restraint.</strong> §3 worked chapter 8 and <strong>declined the identification of Wisdom with Christ</strong>, keeping the trajectory (personification → 1 Cor 1:30; Col 2:3) and refusing the equation <code>[T]</code>/<code>[I]</code>.</li>
+<li><strong>The unanswered question is 20:9</strong>, and it stands in the collection where the self-assessment thread is densest <code>[T]</code> (§5).</li>
+<li><strong>The book’s only verse about confession is 28:13</strong>, and רחם (“to have compassion”) <strong>occurs once in the whole of Proverbs</strong>, there <code>[T]</code> (§7).</li>
+<li><strong>The clearest doorway is a question, not a figure.</strong> 30:4 asks for <strong>one person who both went up and came down</strong>, and that shape is matched by John 3:13 and by neither of its two nearest rivals — Deut 30:12 has an ascent only, Bar 3:29 brings <em>wisdom</em> down <code>[T]</code> (§8).</li>
+<li><strong>And the close supplies a verdict rather than a type.</strong> §9’s poem is not a picture of Christ and not the church; what it stages is <strong>a life assessed, in public, by somebody with the standing to do it</strong> — the shape of Matt 25:21, and the answer to 27:2’s rule <code>[T]</code>/<code>[I]</code>.</li>
+</ul>
+<p><strong>Six pericopes: §2, §3, §5, §7, §8, §9. Confidence: strong</strong>, with the John 3:13 link <strong>high</strong> on the shape-argument and moderate on intention.</p>
+<p><strong>Payoff.</strong> <strong>The sweep’s Christological method is itself a finding</strong>: it consistently ranked a New Testament-authorised link above a preacher-constructed typology, and it refused the three moves this book most invites — <em>be like the ant</em>, <em>Wisdom is Jesus</em>, and <em>Proverbs 31 as a wife-template</em>. Each refusal is textual rather than pastoral, and each has a one-sentence form a preacher can use from the front. <strong>The positive statement they leave standing is the series’ own: the book cannot certify anybody, asks who could, and is answered from outside itself.</strong></p>
+<hr />
+<h2 id="candidate-threads-not-yet-macro">Candidate threads — not yet macro</h2>
+<p>Listed rather than promoted. Each is real and each is recorded so the next round does not have to rediscover it; none is offered as a cross-pericope argument on the evidence in hand.</p>
+<ul>
+<li><strong>The mouth.</strong> פתח (“to open”) stands in <strong>four verses of Proverbs — 24:7, 31:8, 31:9, 31:26</strong> <code>[T]</code> (§6, §8, §9): the fool who <em>cannot</em> open his mouth in the gate, the king twice commanded to, and the woman who does. <strong>It clears the three-pericope gate on the count</strong>, and it is recorded here rather than as an argument in its own right because it is a strand of §6’s withdrawal of address rather than an independent pattern. <em>If a future round finds it carrying more, promote it.</em></li>
+<li><strong>תּוֹרָה unpossessed.</strong> The noun stands in twelve verses. <strong>The first is 1:8, a mother’s, and the last is 31:26, a woman’s</strong> <code>[T]</code> (§3, §9) — and in between, §7 found four occurrences (28:4, 7, 9; 29:18) where the תּוֹרָה has no owner named. <strong>Whether the book means Israel’s law there is not stated, and §7 flagged rather than resolved it.</strong> Three pericopes, but the middle term is an open question rather than a finding.</li>
+<li><strong>The king.</strong> §5 found the divine name and the king given the same chapter in that order (16:1–7, then 16:10–15), and the two put in one sentence at 21:1; §7 opens on the glory of kings at 25:2–7; §8’s second oracle instructs one. <strong>Three pericopes on distribution — but no run made the king load-bearing</strong>, and a pattern nobody found while working the text is exactly what this mode exists not to manufacture. <em>Flagged for the next round.</em></li>
+<li><strong>Job next door.</strong> §1 confirmed the <em>fear … turn from evil</em> chain against Job 28:28 — which reads יִרְאַת אֲדֹנָי, <strong>the only occurrence of that construct in the WLC</strong> <code>[T]</code> — and §8 found four separate contacts in forty-two verses (אֱלוֹהַּ at 30:5; נִפְלְאוּ מִמֶּנִּי against Job 42:3; hand-to-mouth against Job 21:5 and 40:4; מָרֵי נָפֶשׁ and עָמָל against Job 3:20). <strong>Two pericopes. It fails the gate and is recorded because the Tanak adjacency makes it worth testing</strong> on 15:15, 16:19 and the 28:13 confession in a future round.</li>
+<li><strong>The Psalter.</strong> §2 (Ps 37 behind 2:21–22, with Proverbs using שׁכן where the psalm uses ירשׁ) and §8 (Ps 18:31 ‖ 2 Sam 22:31 at 30:5). Two pericopes.</li>
+<li><strong>The two-edged gift vocabulary.</strong> §1’s finding that three of the four competences the prologue offers — עָרְמָה, מְזִמָּה, תַּחְבֻּלוֹת — are later used of wicked men, and §2’s that מְזִמָּה returns at 2:11 as a guard. Two pericopes, and one of the sharpest things the sweep found. <em>It belongs in the overview’s echo table; it is not a macro-argument.</em></li>
+</ul>
+<h2 id="what-the-sweep-did-not-find">What the sweep did not find</h2>
+<p>Three of the pattern-categories yield little or nothing for this book, and saying so is part of the report.</p>
+<ul>
+<li><strong>Recurring narrative motifs — none.</strong> Proverbs has no narrative after 7:6–23, so election patterns, measure-for-measure sequences and type-scenes have nothing to attach to. The one near-narrative (the woman at the window) is a demonstration inside an instruction.</li>
+<li><strong>Originated theological programmes — thin, and for a reason.</strong> The categories the canon completes — temple, exodus, covenant, seed, kingdom — are almost absent. <strong>בְּרִית stands once in the whole book, at 2:17, and it is a covenant being broken</strong> <code>[T]</code> (§2). <em>This is a real finding rather than a gap: the book’s theological work is done by the fear of the LORD and by the created order, not by the covenant-historical categories.</em></li>
+<li><strong>Diction-driven structure — present, but as seam-welds rather than as puns.</strong> The book welds its units by repeating whole lines across seams (§8 above), not by paronomasia. No run found a name/place/act pun of the Torah kind.</li>
+</ul>
+<hr />
+<h2 id="cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Macro-argument</th>
+<th>Anchor pericopes</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>1</strong></td>
+<td>The New Testament reaches Proverbs through the Greek — with three named exceptions</td>
+<td>§3, §4, §5, §6, §7, §8, §9</td>
+<td><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td><strong>2</strong></td>
+<td>Nine verses deny self-certification; 20:9 asks the question; 31:28–31 supplies the verdict from outside</td>
+<td>§3, §4, §5, §7, §8, §9</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>3</strong></td>
+<td>The fear of the LORD frames the book and ends as an adjective predicated of a person</td>
+<td>§1, §3, §4, §7, §8, §9</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="even">
+<td><strong>4</strong></td>
+<td>Frame and field speak different dialects, and the closing poem returns to the frame’s</td>
+<td>§3, §4, §5, §9</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>5</strong></td>
+<td>The collection boundaries are Masoretic; the Greek differs at five points</td>
+<td>§4, §6, §7, §8, §9</td>
+<td><strong>high</strong></td>
+</tr>
+<tr class="even">
+<td><strong>6</strong></td>
+<td>Direct address is progressively withdrawn; the reader is handed the cases</td>
+<td>§3, §4, §6, §7, §8, §9</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>7</strong></td>
+<td>The poor are the test case, and the vocabulary turns covenantal at the close</td>
+<td>§4, §5, §6, §7, §8, §9</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="even">
+<td><strong>8</strong></td>
+<td>The book binds itself by internal repetition, not citation; the doublets are directional</td>
+<td>§2, §3, §4, §5, §7</td>
+<td><strong>strong</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>9</strong></td>
+<td>Christ is reached by contrast and by an unanswered question, never by typology</td>
+<td>§2, §3, §5, §7, §8, §9</td>
+<td><strong>strong</strong> (John 3:13 shape-argument <strong>high</strong>)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</h2>
+<p>Laid side by side, the nine runs describe a book with a single pedagogy and a single problem. <strong>The problem is stated in the prologue and never withdrawn: a man cannot certify his own wisdom.</strong> Nine verses across every collection say so, one verse asks who could say otherwise and is never answered, and the book’s last teacher — the wisest voice it has — opens his mouth to say he never learned it. <strong>The pedagogy is the withdrawal of help.</strong> The father stops speaking a third of the way through; the collections address nobody; the imperative rate falls to 1.8%; the vocative retires at 27:11; and the final poem issues no command to the person it describes and one command to the person reading it. <em>Proverbs teaches judgement by progressively refusing to exercise it for you</em> — which is why the collections look shapeless to a reader expecting a syllabus, and why the shapelessness is the point.</p>
+<p><strong>Three things follow for the preaching.</strong> First, the frame is the lens and not the introduction: the book itself returns to chapters 1–9’s vocabulary in its closing twenty-two verses, so a series that treats the acrostic as a domestic appendix has missed the book’s own ending. Second, <strong>the gospel does not have to be imported</strong>: 20:9 is a question the book asks and leaves standing, 30:4 is a question of a shape only one person answers, and 31:28–31 is a verdict pronounced from outside on a life that could not pronounce it on itself. Third, <strong>the poor are how the book keeps the whole thing honest</strong> — the theme runs through every collection in ordinary words and turns, in the last two chapters, into the vocabulary of covenant obligation, landing on the only two commands in the book’s closing movement: speak for someone who has no voice, and pay someone what their work is worth.</p>
+<p>And one thing follows for the method. <strong>The sweep vindicated the corpus and embarrassed the memory.</strong> Every substantial correction this round made — the 9:4 ‖ 9:16 near-doublet, the seven-not-four doublet count, the fourteen-not-sixteen יִרְאַת יְהוָה verses, the NT-reception generalisation, the NIV84 rendering at 31:26 — came from opening a file rather than from recalling a fact. <em>A pattern that cannot survive a lemma search is not a pattern, and the four occasions this round when a positive control passed while the answer was still wrong are recorded in the run notes so the gate can be tightened.</em></p>
+<hr />
+<p><em>Provenance: emergent from the nine dig-deeper runs of 18–27 September 2026 and reconciled with the Proverbs Book Overview (v2.0, superseded here by v3.0) and the claim audit of 3 September 2026. Supersedes the macro-synthesis of 20 August 2026 (ten runs), which rested on digs this round has replaced; the August files are archived in <code>_superseded/</code>. New Testament-authorised links marked high; converging text-first findings strong; looser trajectories moderate. Four aggregations that no single run made — the self-assessment formula’s nine verses, the fourteen יִרְאַת יְהוָה verses against the adjective’s four, the poverty-vocabulary distribution, and the Heb 12:5–6 and Jas 4:6 ‖ 1 Pet 5:5 wordings — were verified against <code>_texts/</code> for this document and are tagged <code>[T]</code> accordingly. Offered as connective tissue for the series, not as a replacement for the passage-level runs.</em></p>
+
+</main>
+</div>
+</body>
+</html>

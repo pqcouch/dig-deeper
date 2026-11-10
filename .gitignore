@@ -1,0 +1,35 @@
+# Third-party source material (copyrighted, not for publishing)
+Acts/_sources/
+John/_sources/
+
+# OS / iCloud junk
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon?
+
+
+# Print/edit copies stay local, not published
+*.odt
+
+# Working material that is not part of the published site (added 10 November 2026)
+/_texts/
+/_audit/
+/_backup/
+/_skill-backup/
+/_skill-examples/
+/_to_delete/
+/Claude outputs/
+**/_backup/
+**/_superseded/
+**/_to_delete/
+**/_sources/
+**/__pycache__/
+# Archives, packages and bulky formats
+*.tgz
+*.skill
+*.plugin
+*.pdf
+*.bak
+*.before-*
+*.rtf

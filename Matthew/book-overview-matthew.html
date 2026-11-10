@@ -1,0 +1,2157 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Overview: Matthew</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#book-overview-matthew">Book Overview: Matthew</a></li>
+    <li><a href="#the-greek-text-what-is-being-read">The Greek Text — What Is Being Read</a></li>
+    <li><a href="#canonical-position">Canonical Position</a></li>
+    <li><a href="#presenting-situation">Presenting Situation</a></li>
+    <li><a href="#structural-arc-map">Structural Arc Map</a></li>
+    <li><a href="#microscript">Microscript</a></li>
+    <li><a href="#intertextual-map">Intertextual Map</a></li>
+    <li><a href="#christological-trajectory">Christological Trajectory</a></li>
+    <li><a href="#preaching-traps">Preaching Traps</a></li>
+    <li><a href="#earlylate-echo-table">Early↔︎Late Echo Table</a></li>
+    <li><a href="#where-the-english-hides-the-greek">Where the English Hides the Greek</a></li>
+    <li><a href="#preaching-units">Preaching Units</a></li>
+    <li><a href="#checking-stage-reconciliation">Checking Stage — Reconciliation</a></li>
+    <li><a href="#colophon">Colophon</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="book-overview-matthew">Book Overview: Matthew</h1>
+<p><strong>Primary texts:</strong> NA28 text and apparatus (<code>logos-exports/02-New-Testament/01-Matthew-NA28.txt</code>, <code>01-Matthew-NA28-apparatus.txt</code>), read whole, as the text this overview describes. SBLGNT with the MorphGNT word index (<code>_texts/greek-nt-sblgnt/01-Matt.txt</code>, <code>_index/01-Matt.tsv</code>) as the observation layer for every count, since it is the only lemmatised Greek in the corpus; every count was then checked against the NA28 wording. Swete LXX for every Old Testament source, with a 4-gram sweep of all of Matthew against all of Swete. Rahlfs–Hanhart (<code>logos-exports/…/*-LXX.txt</code>) wherever the Greek Old Testament is cited. WLC for every Hebrew form, gated with <code>find.py verify</code>. <strong>Study text:</strong> NASB95 (<code>01-Matthew-NASB95.txt</code>), confirmed as the 1995 edition by its colophon, “1995 update”. <strong>Pulpit text:</strong> N/A — no sermon is in view. For the coming series you have declared the <strong>ESV</strong>. The Logos export in the folder is Crossway’s 2025 US text, not the ESV Anglicised. Divergences that matter are listed under <em>Where the English Hides the Greek</em>. <strong>Genre:</strong> Narrative gospel. It opens by calling itself a βίβλος γενέσεως (“book of the genesis, record of the origin”, 1:1). Its narrative is punctuated by five long blocks of teaching, each closed by the same formula. <strong>Mode:</strong> Draft v0.2 — the text-first v0.1, upgraded from the claim audit. <strong>Not finalised</strong>: the structure, the Christological trajectory and the preaching traps have not yet been tested by a fresh sweep or by solo digs. <strong>Date:</strong> 1 October 2026 <strong>Sweep status:</strong> A whole-book sweep (<code>Matthew/dig-deeper-matthew-whole-book.md</code>, 16 July 2026) and a solo dig on 1:1–17 (same folder, July 2026) exist. Both predate the September 2026 method: they read the ESV as substrate and had no corpus. They were <strong>not</strong> used as input. They were opened only at the checking stage, and what they add or contradict is listed under <em>Checking Stage</em>. <strong>Claim audit done</strong> (<code>Matthew/dig-deeper-matthew-claim-audit.md</code>, 1 October 2026): 22 claims, three independent auditors. <strong>No fresh sweep and no solo ⭐ digs yet.</strong> Changes from v0.1 are listed in the Colophon; rows and sentences added or re-rated in this version are tagged <code>[S: audit]</code>.</p>
+<hr />
+<h2 id="the-greek-text-what-is-being-read">The Greek Text — What Is Being Read</h2>
+<p>The overview reads Matthew in the NA28. It read the whole book in that edition before any English was opened. Counts are made by lemma in the SBLGNT index and then confirmed in the NA28 wording; where the two editions differ in a way that touches a count, the difference is stated. Eight textual facts affect what “Matthew” is, and each is stated here once.</p>
+<p><strong>1. Verse count.</strong> The NA28 and the SBLGNT both have <strong>1,068 verses</strong> <code>[T]</code>. Neither prints 17:21, 18:11 or 23:14. The NASB95 prints all three in square brackets, which gives it 1,071 verses; the ESV omits them <code>[T]</code>. The SBLGNT text has 18,329 words <code>[T]</code>.</p>
+<p><strong>2. What the NA28 prints in brackets.</strong> Three whole passages and two shorter readings are printed but marked as doubtful <code>[T]</code>:</p>
+<ul>
+<li><strong>12:47</strong> (the report that his mother and brothers stand outside). It is omitted by א* B L Γ ff¹ k syˢ·ᶜ sa.</li>
+<li><strong>16:2b–3</strong> (the red sky at evening and morning). It is omitted by א B Γ ƒ¹³ 579 syˢ·ᶜ sa mae boᵖᵗ, and by Origen.</li>
+<li><strong>21:44</strong> (the one who falls on the stone). It is omitted by D 33 it syˢ, Origen and the Syriac Eusebius.</li>
+<li><strong>6:33</strong> [τοῦ θεοῦ] (“of God”). The SBLGNT omits it. So the NA28 has five instances of “the kingdom of God” (6:33; 12:28; 19:24; 21:31; 21:43), and the SBLGNT four.</li>
+<li><strong>27:16–17</strong> [Ἰησοῦν] (“Jesus”) before Βαραββᾶν (“Barabbas”). The full name is read by Θ ƒ¹ 700* syˢ, and Origen knew it. If it stands, Pilate’s question is “Jesus Barabbas, or Jesus who is called Christ?” (27:17).</li>
+</ul>
+<p>Nothing in this overview rests on any bracketed text, except one intertextual row (21:44, Daniel 2), which is flagged where it stands.</p>
+<p><strong>3. Ἀσάφ (“Asaph”, 1:7–8) and Ἀμώς (“Amos”, 1:10).</strong> NA28 prints the names of a psalmist and a prophet where 1 Chr 3:10, 14 has the kings Asa and Amon (Swete 1 Chr 3:10 Ἀσά (“Asa”); 3:14 Ἀμνών (“Amnon”, for Amon)) <code>[T]</code>. NA28’s Ἀσάφ (“Asaph”) is read by 𝔓¹ᵛⁱᵈ א B C ƒ¹·¹³ 700; the majority text reads Ἀσά (“Asa”). Its Ἀμώς (“Amos”) is read by א B C Γ Δ Θ ƒ¹ 33; the majority reads Ἀμών (“Amon”) <code>[T]</code>. The ESV prints “Asaph” and “Amos”; the NASB95 prints “Asa” and “Amon”. Whether the evangelist meant to evoke the Psalms and the Prophets, or the forms are spelling variants of the kings’ names, is <code>[S]</code> and contested. <strong>Nothing rests on it</strong>, but the pulpit text will say “Asaph”, and someone will ask.</p>
+<p><strong>4. 6:13 — the doxology.</strong> NA28 ends the Lord’s Prayer at ἀπὸ τοῦ πονηροῦ (“from the evil one / from evil”), with א B D Z 0170 ƒ¹ lat and Origen <code>[T]</code>. The doxology, ὅτι σοῦ ἐστιν ἡ βασιλεία… (“for yours is the kingdom…”), is read by K L W Δ Θ ƒ¹³ 33 𝔪, and the apparatus cross-refers it to 1 Chr 29:11–13. The NASB95 prints it in brackets; the ESV omits it.</p>
+<p><strong>5. 27:49 — the spear.</strong> A sentence borrowed from John 19:34 (the soldier pierces his side and water and blood come out) stands in א B C L Γ. NA28 does not print it <code>[T]</code>. This is a place where NA28 sets aside its two chief witnesses, and it is worth knowing before 27:45–56 is preached.</p>
+<p><strong>6. 24:36 — οὐδὲ ὁ υἱός (“nor the Son”).</strong> NA28 prints it, with א*·²ᵇ B D Θ ƒ¹³; the majority text omits it <code>[T]</code>. Both English versions include it.</p>
+<p><strong>7. 27:9 — Ἰερεμίου (“of Jeremiah”).</strong> The name is all but unanimous. A handful of witnesses read Ζαχαρίου (“of Zechariah”, 22 syʰᵐᵍ) or Ἠσαΐου (“of Isaiah”, 21 l), or drop the name (Φ 33 a b syˢ·ᵖ) <code>[T]</code>. The attribution is original on the evidence. The words quoted are mostly Zech 11:12–13 (see the Intertextual Map).</p>
+<p><strong>8. The title.</strong> NA28 prints κατὰ Μαθθαῖον (“according to Matthew”). It is absent from the first hands of א and B and supplied by their correctors <code>[T]</code>. The title is not part of the text.</p>
+<p><strong>Rule adopted.</strong> This overview treats the NA28 text as the book, brackets included, and says so wherever a bracket matters.</p>
+<hr />
+<h2 id="canonical-position">Canonical Position</h2>
+<p>The NT equivalent of the Tanak block: position in the collection, what the book presupposes, what it hands on.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Section</strong></td>
+<td>The Gospels. Matthew stands first of the four in the received order, and so first in the New Testament. It is also first in the Western order found in Codex D (Matthew, John, Luke, Mark) <code>[S]</code>.</td>
+</tr>
+<tr class="even">
+<td><strong>Reading implication</strong></td>
+<td>Read first, Matthew is the <strong>hinge between the Testaments</strong>, and its first line says so. Βίβλος γενέσεως (“book of the genesis”, 1:1) occurs in Swete only at Gen 2:4 and 5:1, and the second of these opens a genealogy (Hebrew סֵפֶר תּוֹלְדֹת (“book of the generations”), Gen 5:1) <code>[T]</code>. Matthew’s own genealogy then follows the line of 1 Chr 1–3 and Ruth 4:18–22 <code>[T]</code>. The book reads <strong>forward from the end of the Scriptures</strong>. It also reads forward from <strong>both</strong> of the ends those Scriptures have. <strong>(a)</strong> In the BHS order, the Tanak closes with Chronicles. Chronicles opens with a genealogy from Adam (1 Chr 1:1) and closes with Cyrus: כָּל־מַמְלְכוֹת הָאָרֶץ נָתַן לִי (“all the kingdoms of the earth he has given me”)… וְהוּא־פָקַד עָלַי (“and he has charged me”)… יְהוָה אֱלֹהָיו עִמּוֹ (“the LORD his God be with him”), and then the last word, וְיָעַל (“and let him go up”, 2 Chr 36:23) <code>[T]</code>. Matthew closes: ἐδόθη μοι πᾶσα ἐξουσία (“all authority has been given to me”)… πορευθέντες (“go”)… ὅσα ἐνετειλάμην ὑμῖν (“all that I commanded you”)… ἐγὼ μεθʼ ὑμῶν εἰμι (“I am with you”, 28:18–20) <code>[T]</code>. <strong>The claim audit lowered this to low–moderate</strong> <code>[S: audit]</code>, for four reasons. First, it depends on Chronicles standing last, which it does only in the BHS (Talmudic) order. Second, the Greek does not carry it evenly: Swete reads the dative, πάσαις ταῖς βασιλείαις τῆς γῆς (“to all the kingdoms of the earth”), so that Cyrus speaks <em>to</em> the kingdoms; only Rahlfs, πάσας τὰς βασιλείας τῆς γῆς ἔδωκέν μοι (“all the kingdoms of the earth he has given me”), and the Hebrew make them what is given <code>[T]</code>. Third, each shared element has a closer source of its own. For 28:18–19 the source of record is <strong>Dan 7:14 OG</strong>, ἐδόθη αὐτῷ ἐξουσία … πάντα τὰ ἔθνη (“authority was given to him … all the nations”), the only ἐδόθη (“was given”) with ἐξουσία (“authority”) in Swete. For 28:20 the closer sources are Hag 1:13, ἐγώ εἰμι μεθ᾽ ὑμῶν (“I am with you”), and Hag 2:4, μεθ᾽ ὑμῶν ἐγώ εἰμι (“I am with you”), in the rebuilding after Cyrus, and Gen 28:15, ἰδοὺ ἐγὼ μετὰ σοῦ (“behold, I am with you”) <code>[T]</code>. Fourth, the genealogy follows Ruth 4:18–22 and takes its heading from Genesis as much as it follows Chronicles <code>[T]</code>. The cluster of giving, commanding, presence and going recurs at about seven places in Swete. Keep (a), if at all, as a resonance at the scale of the canon that depends on one order, not as an allusion. <strong>(b)</strong> In the English order, the Old Testament closes with Malachi, whose last words name Moses and Elijah (Mal 3:22–23 Hebrew; Swete 4:4 for Elijah) <code>[T]</code>. In Matthew, John is “Elijah who is to come” (11:14; 17:10–13), and Moses and Elijah appear together on the mountain (17:3) <code>[T]</code>. <strong>Prefer neither order to the exclusion of the other.</strong> The BHS sequence is the Talmudic one, and Codex Leningradensis itself puts Chronicles <em>first</em> among the Writings (see <code>_texts/README.md</code>). The reading in (a) depends on that sequence <code>[S]</code>. The Malachi reading (b) was not audited and stands as written.</td>
+</tr>
+<tr class="odd">
+<td><strong>Presupposes</strong></td>
+<td>(1) <strong>The Scriptures as a story that has an ending still to come.</strong> The narrator says ἵνα πληρωθῇ τὸ ῥηθέν (“that what was spoken might be fulfilled”) or its equivalent ten times: 1:22; 2:15; 2:17; 2:23; 4:14; 8:17; 12:17; 13:35; 21:4; 27:9 <code>[T]</code>. γέγραπται (“it is written”) stands nine times, of Scripture (2:5; 4:4, 6, 7, 10; 11:10; 21:13; 26:24, 31); the tenth γράφω (“to write”, 27:37) is the charge over the cross <code>[T]</code>. Jesus asks οὐκ ἀνέγνωτε (“have you not read?”) or its equivalent at 12:3, 5; 19:4; 21:16, 42; 22:31 <code>[T]</code>. (2) <strong>Abraham and David</strong> as the two names of promise (1:1): Ἀβραάμ (“Abraham”) in 6 verses (1:1, 2, 17; 3:9; 8:11; 22:32), Δαυίδ (“David”) in 15 verses (17 occurrences) <code>[T]</code>. (3) <strong>The exile.</strong> μετοικεσία Βαβυλῶνος (“deportation to Babylon”) occurs four times, all in 1:11–17 <code>[T]</code>. The genealogy is told as a history that has passed through Babylon. (4) <strong>The Law and the Prophets</strong> as one whole: 5:17; 7:12; 11:13; 22:40 <code>[T]</code>. Μωϋσῆς (“Moses”) is named in 7 verses <code>[T]</code>. (5) <strong>Daniel 7.</strong> The Son of Man “coming on the clouds of heaven” (24:30; 26:64) is assumed to be known, not explained <code>[T]</code>.</td>
+</tr>
+<tr class="even">
+<td><strong>Handoff</strong></td>
+<td>Forward, to <strong>the nations</strong> and <strong>the end of the age</strong>. The gospel of the kingdom will be preached ἐν ὅλῃ τῇ οἰκουμένῃ (“in the whole world”, 24:14), and the woman’s deed will be told ἐν ὅλῳ τῷ κόσμῳ (“in the whole world”, 26:13) <code>[T]</code>. The last command is μαθητεύσατε πάντα τὰ ἔθνη (“make disciples of all the nations”, 28:19), and the last promise runs ἕως τῆς συντελείας τοῦ αἰῶνος (“to the end of the age”, 28:20) <code>[T]</code>. The book has no ascension and no departure scene: it ends with Jesus present <code>[T]</code>. Within the canon it hands on to Mark.</td>
+</tr>
+<tr class="odd">
+<td><strong>Neighbours</strong></td>
+<td>Before it: Malachi (English order) or Chronicles (Tanak order) — see <em>Reading implication</em>. After it: Mark. Most of Mark’s narrative reappears in Matthew <code>[S]</code>. <strong>The direction of dependence</strong> (Markan priority, which most hold; or Matthew first, with the Augustinian and Griesbach hypotheses) is a named open question. It is reported here and not resolved, and nothing in this overview depends on it. One datum from the corpus belongs here: Mark’s quotation of Isa 56:7 includes πᾶσιν τοῖς ἔθνεσιν (“for all the nations”, Mark 11:17); Matthew’s (21:13) lacks it <code>[T]</code>. Yet Matthew is the Gospel that <strong>ends</strong> with πάντα τὰ ἔθνη (“all the nations”). The phrase is kept for the last line <code>[I]</code>.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="presenting-situation">Presenting Situation</h2>
+<p><strong>Author.</strong> The book is anonymous. The narrator never speaks in the first person <code>[T]</code>. Two details sit at the place a reader would look for an author <code>[T]</code>:</p>
+<ul>
+<li>At the call of the tax collector, Matthew names him Μαθθαῖον (“Matthew”, 9:9), where Mark has Λευίν (“Levi”, Mark 2:14).</li>
+<li>In the list of the Twelve, Matthew alone adds ὁ τελώνης (“the tax collector”) after his own name (10:3; compare Mark 3:18).</li>
+</ul>
+<p>Both were checked in the SBLGNT. The attribution to the apostle Matthew comes from Papias as Eusebius reports him: Matthew “compiled the sayings in the Hebrew dialect” (<em>Hist. eccl.</em> 3.39.16) <code>[S]</code>. What that sentence means, and how it fits a Greek Gospel, is disputed <code>[S]</code>. The picture of the scribe μαθητευθεὶς τῇ βασιλείᾳ τῶν οὐρανῶν (“discipled for the kingdom of heaven”), who brings out καινὰ καὶ παλαιά (“new things and old”, 13:52), is often read as the author’s self-portrait <code>[S]</code>. That is attractive and unprovable, <strong>moderate</strong>.</p>
+<p><strong>Audience.</strong> The text shows readers who stand <strong>inside</strong> Jewish practice, and a community that stands <strong>apart</strong> from the synagogue:</p>
+<ul>
+<li><strong>Jewish custom is not explained.</strong> Matthew’s handwashing dispute (15:2) has no gloss. Mark at the same point explains the practice “of the Pharisees and all the Jews” (Mark 7:3–4) <code>[T]</code>. Semitic terms pass unglossed: ῥακά (“raca”, 5:22), μαμωνᾶς (“mammon”, 6:24), κορβανᾶς (“the temple treasury”, 27:6) <code>[T]</code>. Matthew glosses only three times: Ἐμμανουήλ (“Immanuel”, 1:23), Γολγοθᾶ (“Golgotha”, 27:33), and the cry from the cross (27:46). Mark has ten such glosses <code>[T]</code>.</li>
+<li><strong>The Sabbath is still kept.</strong> “Pray that your flight may not be … on a Sabbath” (24:20) <code>[T]</code>. That this assumes readers who observe it is <code>[I]</code>, moderate–high.</li>
+<li><strong>The synagogue is “theirs”.</strong> Jesus teaches ἐν ταῖς συναγωγαῖς αὐτῶν (“in <em>their</em> synagogues”, 4:23; 9:35; also 10:17; 12:9; 13:54), and to the scribes and Pharisees it is “<em>your</em> synagogues” (23:34) <code>[T]</code>. The narrator uses Ἰουδαῖοι (“Jews”) in his own voice only once, and from outside: the guards’ story “has been spread παρὰ Ἰουδαίοις (”among Jews“) to this day” (28:15) <code>[T]</code>. Elsewhere “King of the Jews” is spoken only by Gentiles (2:2; 27:11, 29, 37). The chief priests say “King of Israel” (27:42) <code>[T]</code>. The narrator writes as a Jewish believer at a distance from the synagogue, <code>[I]</code>, moderate–high.</li>
+<li><strong>There is an ἐκκλησία (“church, assembly”).</strong> It is built on “this rock” (16:18) and given a procedure for discipline (18:15–17) <code>[T]</code>.</li>
+<li><strong>The reader is placed after the events.</strong> The field is called “the Field of Blood ἕως τῆς σήμερον (”to this day“)” (27:8), and the guards’ tale is told μέχρι τῆς σήμερον ἡμέρας (“to this day”, 28:15) <code>[T]</code>. The book was written at some remove from what it tells, <code>[I]</code>, high.</li>
+</ul>
+<p><strong>Occasion.</strong> It is not stated. The text shows several pressures at once <code>[T]</code>:</p>
+<ul>
+<li>persecution “in their synagogues” and before governors and kings (10:17–18; 23:34);</li>
+<li>false prophets and ἀνομία (“lawlessness”), in four verses (7:23; 13:41; 23:28; 24:12), with love growing cold (24:12);</li>
+<li>a mixed community of wheat and weeds that must not be weeded early (13:24–30, 36–43);</li>
+<li>sin within the brotherhood, and forgiveness (18);</li>
+<li>“little faith”. ὀλιγόπιστος (“of little faith”) occurs at 6:30; 8:26; 14:31; 16:8, and ὀλιγοπιστία (“littleness of faith”) at 17:20. Doubt is named at the very end (28:17);</li>
+<li>a rival account of the empty tomb still current (28:11–15).</li>
+</ul>
+<p>The <strong>date</strong> is <code>[S]</code> and disputed. Many put it after AD 70, reading the king who “burned their city” (22:7) and 24:1–2 as looking back; some put it before, citing the temple tax (17:24–27) and the altar (5:23–24) as live practice. The <strong>provenance</strong> (Antioch is the usual proposal) is <code>[S]</code>. Nothing here depends on either.</p>
+<p><strong>Pressure.</strong> The dominant tension, <code>[I]</code> high: <strong>How can Jesus — rejected by Israel’s leaders, handed to the Gentiles and crucified — be Israel’s Messiah, the son of David and son of Abraham in whom the Law and the Prophets are fulfilled; and how is his community to live, with a righteousness greater than the scribes’, as a mixed and doubting body that must now go to the nations?</strong> The book’s answers are its fulfilment formulae, its δεῖ (“it is necessary”, 16:21; 26:54), the ransom (20:28) and the covenant blood “for the forgiveness of sins” (26:28), and the risen Lord’s authority and presence (28:18–20) <code>[T]</code>.</p>
+<p><strong>Purpose.</strong> To show that the crucified and raised Jesus is God-with-us, the one in whom the Scriptures are fulfilled, and to form the reader as a disciple who hears his words and does them (7:24), and who makes disciples of all the nations under his authority and in his presence (28:18–20). <code>[I]</code></p>
+<hr />
+<h2 id="structural-arc-map">Structural Arc Map</h2>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 35%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Movement</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1–4:16</td>
+<td>Prologue: who he is and where he comes from</td>
+<td>The genealogy (Abraham → David → Babylon → the Christ). Five dreams, all in 1:20–2:22, and five fulfilment formulae, from 1:22 to 4:14. Egypt and the return. John’s call, the baptism and the Voice: “This is my beloved Son”. Forty days and forty nights of testing, answered three times from Deuteronomy. The withdrawal to “Galilee of the nations” (4:15). Every title the book will use is planted here</td>
+</tr>
+<tr class="even">
+<td>4:17–11:1</td>
+<td>The kingdom proclaimed in word and deed</td>
+<td>ἀπὸ τότε ἤρξατο (“from that time he began”) to preach (4:17). An inclusio, verbatim at 4:23 and 9:35, frames the Sermon on the Mount (5–7) and the deeds of chapters 8–9. The authority of 7:29 in word is matched by the authority of 9:6–8 in deed. Then the Twelve receive the same authority, and the same words (10:1), and are sent (the mission discourse, 10:5–42)</td>
+</tr>
+<tr class="odd">
+<td>11:2–16:20</td>
+<td>The kingdom divides: rejection and recognition</td>
+<td>John asks “Are you the one who is coming?” (11:3). Woes on the cities, and “Come to me” (11:20–30). The Sabbath clashes end in the first plot to destroy him (12:14), and the Servant song is cited in full (12:17–21). The parables discourse divides hearers from non-hearers (13). Nazareth takes offence (13:57) and John is killed (14). The feedings and the walking on the sea lead to “Truly you are God’s Son” (14:33). Peter’s confession closes the movement: “You are the Christ, the Son of the living God” (16:16)</td>
+</tr>
+<tr class="even">
+<td>16:21–20:34</td>
+<td>The way to Jerusalem: the Son of Man must suffer</td>
+<td>A second ἀπὸ τότε ἤρξατο (“from that time he began”, 16:21), now to show “that he must go to Jerusalem and suffer”. There are three passion predictions (16:21; 17:22–23; 20:18–19). The Transfiguration and the Voice again (17:5). The community discourse on the little ones and forgiveness (18). It closes on the ransom saying (20:28) and two blind men who follow him (20:34)</td>
+</tr>
+<tr class="odd">
+<td>21:1–25:46</td>
+<td>Jerusalem: the King, the temple and the judgement</td>
+<td>The King comes πραΰς (“meek”, 21:5). The temple is cleansed and a fig tree is withered. Three parables of judgement follow (21:28–22:14), and controversies with every party, ending when “no one dared to ask him any more” (22:46). Seven woes, and the lament over Jerusalem (23). The discourse on the temple’s fall, the end of the age and the coming of the Son of Man closes with the sheep and the goats (24–25)</td>
+</tr>
+<tr class="even">
+<td>26:1–28:20</td>
+<td>The passion and the commission</td>
+<td>The fifth formula, now with πάντας (“all”), closes the teaching (26:1). Anointing, Passover and the covenant cup “for the forgiveness of sins” (26:28). Gethsemane: “your will be done” (26:42). Arrest, flight, trials and Peter’s denials. Judas’s silver. Pilate, the crowd and the blood. The cross: earthquake, opened tombs, and the centurion’s “Truly this was God’s Son” (27:54). The guard and the empty tomb. The bribe. The mountain in Galilee: all authority, all the nations, and “I am with you always” (28:16–20)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The five discourses</strong> <code>[T]</code>. Each closes with Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς (“and it happened, when Jesus had finished…”):</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Discourse</th>
+<th>Formula</th>
+<th>Audience</th>
+<th>What it closes on</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>5:1–7:27 (the Sermon on the Mount)</td>
+<td>7:28, τοὺς λόγους τούτους (“these words”)</td>
+<td>the disciples, with the crowds overhearing (5:1–2; 7:28)</td>
+<td>the house on the rock, ὁ ἀκούων … καὶ ποιῶν (“the one who hears … and does”, 7:24–27)</td>
+</tr>
+<tr class="even">
+<td>10:5–42 (the mission)</td>
+<td>11:1, διατάσσων (“instructing”)</td>
+<td>the Twelve (10:1, 5)</td>
+<td>the cup of cold water given to “one of these little ones” (10:42)</td>
+</tr>
+<tr class="odd">
+<td>13:1–52 (the parables)</td>
+<td>13:53, τὰς παραβολὰς ταύτας (“these parables”)</td>
+<td>the crowds (13:2–35), then the disciples in the house (13:36–52)</td>
+<td>the scribe “discipled for the kingdom”, with things new and old (13:52)</td>
+</tr>
+<tr class="even">
+<td>18:1–35 (the community)</td>
+<td>19:1, τοὺς λόγους τούτους (“these words”)</td>
+<td>the disciples (18:1)</td>
+<td>the unforgiving servant, “from your hearts” (18:35)</td>
+</tr>
+<tr class="odd">
+<td>24:1–25:46 (the end of the age), with 23 as its threshold</td>
+<td>26:1, <strong>πάντας</strong> τοὺς λόγους τούτους (“<strong>all</strong> these words”)</td>
+<td>the disciples privately (24:3), after 23 to “the crowds and his disciples” (23:1)</td>
+<td>the sheep and the goats, “eternal punishment … eternal life” (25:46)</td>
+</tr>
+</tbody>
+</table>
+<p>The phrase τοὺς λόγους τούτους (“these words”) occurs at 7:24, 7:26, 7:28, 19:1 and 26:1 <code>[T]</code>. The formula picks up the Sermon’s own last demand: hear these words and do them.</p>
+<p><strong>Device.</strong> <strong>Alternating panels</strong>: five blocks of teaching, each sealed by the formula, set inside a narrative that moves Galilee → Jerusalem → Galilee <code>[T]</code>. Three further devices are laid over the panels <code>[T]</code>:</p>
+<ul>
+<li><strong>Two hinges.</strong> ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς (“from that time Jesus began”) stands at 4:17 (to preach) and 16:21 (to show that he must suffer), and nowhere else. ἀπὸ τότε (“from that time”) alone recurs once more, at 26:16, of Judas.</li>
+<li><strong>An inclusio.</strong> 1:23 Ἐμμανουήλ … μεθʼ ἡμῶν ὁ θεός (“Immanuel … God with us”) and 28:20 ἐγὼ μεθʼ ὑμῶν εἰμι (“I am with you”). The book opens and closes on presence.</li>
+<li><strong>A mountain frame.</strong> On a mountain the devil offers πάσας τὰς βασιλείας τοῦ κόσμου (“all the kingdoms of the world”, 4:8). On a mountain the risen Jesus says ἐδόθη μοι πᾶσα ἐξουσία (“all authority has been given to me”, 28:16–18). Between them Jesus goes up a mountain to teach (5:1), to pray (14:23), to heal (15:29), to be transfigured (17:1), and to speak of the end (24:3).</li>
+</ul>
+<p>Inside the second movement, the frame 4:23 = 9:35 (διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν, “teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every sickness”) is verbatim <code>[T]</code>. The phrase πᾶσαν νόσον καὶ πᾶσαν μαλακίαν (“every disease and every sickness”) then appears a third time, and last, as the authority given to the Twelve (10:1) <code>[T]</code>. Christ’s ministry is framed, then handed on.</p>
+<p><strong>Contested readings of the shape</strong> <code>[S]</code>:</p>
+<ul>
+<li><strong>A “Pentateuch” of five books</strong>, which casts Jesus as a new Moses. The fivefold formula is <code>[T]</code>. As “five books of Moses” the reading is <strong>low</strong> <code>[S: audit]</code>. The formula itself is not Mosaic: ἐτέλεσεν (“finished”) does not occur in the LXX, and Καὶ ἐγένετο ὅτε (“and it happened when”) occurs twelve times in Swete, never in the Torah. The first instance has a Q precursor (Luke 7:1). The discourses do not map onto Genesis–Deuteronomy, and the count of five depends on how 23–25 are divided <code>[T]</code>. As a <strong>Moses frame</strong> it is <strong>moderate</strong>, <code>[I]</code>: Moses-like teaching opened on a Sinai-coloured mountain (5:1) and closed with Deuteronomy’s wording (26:1; see the Intertextual Map, Deut 31:1 / 32:45).</li>
+<li><strong>A tripartite structure</strong> (1:1–4:16; 4:17–16:20; 16:21–28:20), keyed to the two ἀπὸ τότε (“from that time”) hinges (Kingsbury) <code>[S]</code>. The arc above keeps both hinges and divides further.</li>
+<li><strong>Chiastic schemes</strong> for the whole book <code>[S]</code>. None was tested here, and none is adopted.</li>
+<li><strong>Whether chapter 23 belongs to the fifth discourse.</strong> The audience changes at 24:3 and the scene at 24:1 <code>[T]</code>; the formula comes only at 26:1 <code>[T]</code>. This overview treats 23 as the threshold of the discourse, not its first part. Flag <strong>moderate</strong>.</li>
+</ul>
+<hr />
+<h2 id="microscript">Microscript</h2>
+<p><em>The book of the genesis of Jesus the Messiah, son of David and son of Abraham, who is God-with-us: born to save his people from their sins, he re-lives Israel’s story — Egypt, the waters, the wilderness, the mountain — and fulfils the Law and the Prophets. With an authority no scribe has, he proclaims the kingdom of heaven in word and deed, and teaches a righteousness that must be heard and done. Israel’s leaders reject him; the Son of Man must suffer, and he gives his life as a ransom and pours out his covenant blood for the forgiveness of sins. Raised, and given all authority in heaven and on earth, he sends his disciples from Galilee of the nations to make disciples of all the nations, teaching them to keep all that he commanded, and he is with them to the end of the age.</em></p>
+<p><strong>Keynotes, verified by lemma in the SBLGNT and checked in the NA28:</strong></p>
+<ul>
+<li>ἡ βασιλεία τῶν οὐρανῶν (“the kingdom of heaven”): <strong>32 occurrences in 31 verses</strong>, from 3:2 to 25:1. It is not found in any other New Testament book. Alongside it, ἡ βασιλεία τοῦ θεοῦ (“the kingdom of God”) occurs 4 times in the SBLGNT (12:28; 19:24; 21:31; 21:43), and 5 in the NA28, with [6:33] <code>[T]</code>.</li>
+<li>πληρόω (“to fulfil”): <strong>16 verses</strong>. They are 1:22; 2:15, 17, 23; 3:15; 4:14; 5:17; 8:17; 12:17; 13:35; 13:48; 21:4; 23:32; 26:54, 56; 27:9. Ten are the narrator’s formula. Two are Jesus’ own programme: πληρῶσαι πᾶσαν δικαιοσύνην (“to fulfil all righteousness”, 3:15) and οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι (“I did not come to abolish but to fulfil”, 5:17). Add ἀναπληροῦται (“is being fulfilled”, 13:14) <code>[T]</code>.</li>
+<li>δικαιοσύνη (“righteousness”): <strong>7 verses</strong>. They are 3:15; 5:6, 10, 20; 6:1, 33; 21:32 <code>[T]</code>. Five of the seven stand in chapters 5–6.</li>
+<li>ὁ υἱὸς τοῦ ἀνθρώπου (“the Son of Man”): <strong>30 occurrences in 28 verses</strong>, from 8:20 to 26:64 <code>[T]</code>.</li>
+<li>προσκυνέω (“to worship, bow down”): <strong>13 verses</strong> <code>[T]</code>. In 10 of them Jesus is the one worshipped, or is pretended to be (2:2, 8, 11; 8:2; 9:18; 14:33; 15:25; 20:20; 28:9, 17). The hinge is 4:9–10. The devil asks to be worshipped, and Jesus answers, κύριον τὸν θεόν σου προσκυνήσεις (“you shall worship the Lord your God”). After that, Jesus receives worship and never refuses it <code>[T]</code>.</li>
+<li>μαθητεύω (“to make a disciple, to be discipled”): <strong>3 verses</strong>, 13:52; 27:57; 28:19 <code>[T]</code>. It is used in no other Gospel <code>[T]</code>.</li>
+</ul>
+<p><strong>Test against the movements.</strong> The prologue gives the genesis, the names (Jesus, Immanuel) and the re-lived exodus (2:15, 20). The proclamation movement is the kingdom of heaven in word and deed (4:17, 23; 5–9), and righteousness that is heard and done (5:20; 7:24). The rejection movement divides those who receive from those who refuse (11–13), and ends at the confession (16:16). The way to Jerusalem is the Son of Man who must suffer, and the ransom (16:21; 20:28). Jerusalem is the King, the temple and the judgement (21–25). The passion is the covenant blood for the forgiveness of sins (26:28), and the commission is the risen Lord’s authority, the nations and his presence (28:18–20). Every movement serves the microscript.</p>
+<hr />
+<h2 id="intertextual-map">Intertextual Map</h2>
+<p>Matthew is <strong>citation-dense</strong>, more than any other Gospel. The narrator’s own fulfilment formula stands ten times (1:22; 2:15; 2:17; 2:23; 4:14; 8:17; 12:17; 13:35; 21:4; 27:9). γέγραπται (“it is written”) stands nine times of Scripture. Jesus asks “have you not read?” six times (12:3, 5; 19:4; 21:16, 42; 22:31). The antitheses of 5:21–48 cite the Torah six times as ἐρρέθη (“it was said”) <code>[T]</code>. The quotations cluster in three places: <strong>the prologue</strong> (1–4, five formulae and four further citations), <strong>the controversies and the Jerusalem week</strong> (12; 15; 19; 21–22), and <strong>the passion</strong> (26–27), which is told in the words of Zechariah and the Psalms <code>[T]</code>. Between those clusters, the narrative chapters 8–11 and 13–18 lean on allusion and on the book’s own internal repetitions.</p>
+<p><strong>How Matthew uses his Scriptures.</strong> This is a text-first finding for the whole sweep, and it needed both Greek editions to state correctly.</p>
+<ul>
+<li><strong>Where Matthew quotes in Jesus’ mouth, or with γέγραπται (“it is written”), he generally follows the Greek.</strong> Isa 6:9–10 at 13:14–15; Isa 29:13 at 15:8–9, including the LXX’s μάτην (“in vain”), where the Hebrew has no such word; Ps 8:3 at 21:16, where αἶνον (“praise”) renders a Hebrew that reads עֹז (“strength”); Ps 118:22–23 at 21:42; Ps 110:1 at 22:44 <code>[T]</code>.</li>
+<li><strong>Where the narrator quotes with his own formula, he several times stands nearer the Hebrew than either Greek text in the corpus.</strong> Each case below was checked in Swete <strong>and</strong> in Rahlfs, and the Hebrew was gated by lemma with <code>find.py</code> <code>[T]</code>:
+<ul>
+<li><strong>2:15.</strong> ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου (“out of Egypt I called my son”). The Hebrew of Hos 11:1 reads לִבְנִי (“my son”). Both Swete and Rahlfs read τὰ τέκνα αὐτοῦ (“his children”). The sonship that the citation exists to make depends on the Hebrew.</li>
+<li><strong>2:18.</strong> οὐκ ἤθελεν παρακληθῆναι (“she would not be comforted”). The Hebrew of Jer 31:15 reads לְהִנָּחֵם (“to be comforted”). Both Greek texts have παύσασθαι (“to cease”; Swete and Rahlfs 38:15).</li>
+<li><strong>8:17.</strong> τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν (“he took our weaknesses and carried our diseases”). The Hebrew of Isa 53:4 reads חֳלָיֵנוּ (“our sicknesses”) and מַכְאֹבֵינוּ (“our pains”). Both Greek texts have τὰς ἁμαρτίας ἡμῶν φέρει (“he bears our sins”). Matthew cites the verse of a <strong>healing</strong> summary, so his point needs the Hebrew.</li>
+<li><strong>12:18–20.</strong> Isa 42:1–3 without the Greek’s Ἰακὼβ … Ἰσραήλ (“Jacob … Israel”). The Hebrew has עַבְדִּי (“my servant”) with no name, and Matthew’s ὁ παῖς μου (“my servant”) likewise has none. But at 42:4b Matthew follows the Greek: τῷ ὀνόματι αὐτοῦ ἔθνη ἐλπιοῦσιν (“in his name the nations will hope”), where the Hebrew reads וּלְתוֹרָתוֹ אִיִּים יְיַחֵילוּ (“and the coastlands wait for his torah”). The quotation is <strong>mixed</strong>. At 61 words it is the longest Old Testament quotation in Matthew <code>[T]</code>.</li>
+<li><strong>21:5.</strong> ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου (“on a donkey and on a colt, the foal of a beast of burden”). The Hebrew of Zech 9:9 has עַל־חֲמוֹר וְעַל־עַיִר בֶּן־אֲתֹנוֹת (“on a donkey, on a colt, the son of she-asses”). Both Greek texts read ἐπὶ ὑποζύγιον καὶ πῶλον νέον (“on a beast of burden and a young colt”). The two animals of 21:2, 7 follow the Hebrew parallelism.</li>
+<li><strong>26:31.</strong> πατάξω τὸν ποιμένα (“I will strike the shepherd”), singular. The Hebrew of Zech 13:7 has הַךְ אֶת־הָרֹעֶה (“strike the shepherd”). Both Swete and Rahlfs have πατάξατε τοὺς ποιμένας (“strike the shepherds”). This is the same finding as Mark 14:27.</li>
+<li><strong>27:9–10.</strong> εἰς τὸν ἀγρὸν τοῦ κεραμέως (“for the potter’s field”). The Hebrew of Zech 11:13 has אֶל־הַיּוֹצֵר (“to the potter”). Both Greek texts have εἰς τὸ χωνευτήριον (“into the furnace”). The potter, and so the field, exist only in the Hebrew.</li>
+<li><strong>27:46.</strong> ηλι ηλι (“Eli, Eli”) is the Hebrew אֵלִי (“my God”) of Ps 22:2. Mark has the Aramaic ἐλωΐ (“Eloi”, Mark 15:34). λεμα σαβαχθανι (“why have you forsaken me”) is Aramaic in both.</li>
+</ul></li>
+<li><strong>Two apparent “Hebrew” cases are really Swete–Rahlfs divergences, and are withdrawn as such</strong> <code>[T]</code>:
+<ul>
+<li><strong>9:13; 12:7.</strong> ἔλεος θέλω καὶ οὐ θυσίαν (“I desire mercy and not sacrifice”). The Hebrew of Hos 6:6 has וְלֹא־זָבַח (“and not sacrifice”). Swete reads ἢ θυσίαν (“rather than sacrifice”), but <strong>Rahlfs reads καὶ οὐ θυσίαν (“and not sacrifice”)</strong>, exactly as Matthew does.</li>
+<li><strong>1:23.</strong> ἐν γαστρὶ ἕξει (“will be with child”). Swete reads λήμψεται (“will conceive”); <strong>Rahlfs reads ἕξει (“will be with child”)</strong>, as Matthew does.</li>
+</ul>
+A search of Swete alone would have reported both as Matthew departing from the LXX. 4:15 is a third case: Matthew’s ὁδὸν θαλάσσης (“the way of the sea”, Isa 8:23 Hebrew דֶּרֶךְ הַיָּם) is in Rahlfs but missing from Swete. <strong>13:43 is a fourth</strong> <code>[S: audit]</code>: Matthew’s ἐκλάμψουσιν (“they will shine out”) is the verb of Theodotion Dan 12:3 in <strong>Rahlfs</strong>; Swete’s Theodotion reads λάμψουσιν (“they will shine”).</li>
+<li><strong>Where the Greek names someone else</strong> <code>[S: audit]</code>. At 23:35 the murdered Zechariah is identified with 2 Chr 24:20–22 only through the Hebrew, זְכַרְיָה בֶּן־יְהוֹיָדָע (“Zechariah son of Jehoiada”). Swete and Rahlfs both name the priest Ἀζαρίαν (“Azariah”) <code>[T]</code>.</li>
+<li><strong>Matthean moves towards a source</strong> <code>[S: audit]</code>. In two places Matthew alters inherited or common wording so that it stands nearer one text <code>[T]</code>:
+<ul>
+<li><strong>11:29</strong> (in Jesus’ mouth, and Matthew’s own material). εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν (“you will find rest for your souls”) keeps the frame of Jer 6:16 LXX and corrects its noun from ἁγνισμόν (“purification”) to the Hebrew מַרְגּוֹעַ (“rest”), a word found only there in the Hebrew Bible. Isa 28:12 (Hebrew) is a companion: “this is rest; give rest to the weary”, and “they would not hear”. So the first bullet above has an exception: in Jesus’ mouth, at 11:29, Matthew follows the Hebrew.</li>
+<li><strong>9:36.</strong> Matthew changes Mark 6:34’s ὡς (“as”) to ὡσεί (“like”), and ὡσεὶ πρόβατα (“like sheep”) occurs in Swete only at Num 27:17 and Ps 79:2.</li>
+</ul></li>
+<li><strong>One deliberate departure from every text.</strong> At 4:10 Jesus answers, κύριον τὸν θεόν σου <strong>προσκυνήσεις</strong> (“you shall <strong>worship</strong> the Lord your God”). The Hebrew of Deut 6:13 has תִּירָא (“you shall fear”), and Swete and Rahlfs both have φοβηθήσῃ (“you shall fear”) <code>[T]</code>. The verb answers the devil’s ἐὰν πεσὼν <strong>προσκυνήσῃς</strong> μοι (“if you will fall down and <strong>worship</strong> me”, 4:9). That some LXX manuscripts (Alexandrinus) read προσκυνήσεις (“you shall worship”) is <code>[S]</code> and was not checked in the corpus. Either way, the word becomes the chain that runs to 28:17 (see the Microscript).</li>
+</ul>
+<p><strong>Consequence for the digs.</strong> In Matthew, Tool 11 Move 2 must read <strong>Swete, Rahlfs and the WLC</strong> together. A search of one Greek text can misreport a reading in either direction: it hid the Hebrew at 2:15, 2:18, 8:17, 21:5, 26:31 and 27:9, it invented a “departure” at 9:13 and 1:23, and it misreported Theodotion at 13:43 <code>[I]</code>.</p>
+<p><strong>The Synoptic check</strong> <code>[S: audit]</code>. Before an allusion is rated, compare Matthew with Mark (and with Luke, for the sayings they share). The claim audit found that the check changed eight ratings. Four echoes are <strong>inherited from Mark</strong>, so they belong to the tradition before they belong to Matthew: Isa 50:6 (26:67), the “many” of Isa 53 (20:28 is Mark 10:45 verbatim), Gen 37:20 (21:38) and Deut 18:15 (17:5). Four are <strong>Matthew’s own moves</strong> towards a source: Num 27:17 (ὡσεί (“like”), 9:36), Isa 61:2 (οἱ πενθοῦντες … παρακληθήσονται, “those who mourn … will be comforted”, 5:4, against Luke 6:21’s “those who weep … will laugh”), Ps 69:22 (χολή (“gall”) for Mark’s myrrh, 27:34) and Zech 12:10–12 (the clause added at 24:30). The pattern of failure in the audit was the same as Mark’s: a single source named where the evidence shows a composite, or Matthean wording that was really Mark’s. Both are invisible from inside one Gospel.</p>
+<p>Sources are listed in <strong>Tanak order</strong> (BHS). Locations were found by a systematic 4-gram sweep of all of Matthew against all of Swete, supplemented by a deliberate hunt for type-scene, name and number allusions that share no wording. Every row’s verbal overlap was then checked verse against verse in Swete, accent-stripped, and in Rahlfs and the WLC where the readings diverge. Swete’s versification is used where it differs, and flagged. Confidence: <em>high</em> means a quotation or distinctive shared wording; <em>moderate</em> means shared wording plus conceptual fit; <em>uncertain</em> means conceptual only. <strong>v0.2:</strong> every row rated above <em>moderate</em> in v0.1, and the three structural or canonical claims, were put through the claim audit of 1 October 2026. Rows changed by it are tagged <code>[S: audit]</code>; untagged rows are as v0.1 had them.</p>
+<h3 id="torah">Torah</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Matthew</th>
+<th>What the use does</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Gen 2:4; 5:1 — βίβλος γενέσεως (“book of the genesis”)</td>
+<td>1:1 (γένεσις (“genesis, birth”) again at 1:18)</td>
+<td>The book’s first two words occur in Swete only at these two places. The second opens Adam’s genealogy (Hebrew סֵפֶר תּוֹלְדֹת (“book of the generations”)). Matthew begins as Genesis begins its family history</td>
+<td><strong>Live</strong> (Genesis)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Gen 1:27; 2:24</td>
+<td>19:4–5</td>
+<td>“From the beginning” set against Moses’ concession (19:8). Verbatim with the LXX: ἄρσεν καὶ θῆλυ ἐποίησεν (“he made them male and female”) and εἰς σάρκα μίαν (“into one flesh”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Gen 4:8–10 (Abel)</td>
+<td>23:35</td>
+<td>“From the blood of righteous Abel”: the first murdered man opens the indictment, which runs to the last (2 Chr 24)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Gen 4:24 — ἑβδομηκοντάκις ἑπτά (“seventy times seven”)</td>
+<td>18:22</td>
+<td>Verbatim, and found in Swete only here. Lamech’s song of limitless <strong>vengeance</strong> becomes the measure of limitless <strong>forgiveness</strong>. The Hebrew is שִׁבְעִים וְשִׁבְעָה (“seventy and seven”), that is 77. Gen 4:24 has Matthew’s two steps: ἑπτάκις (“seven times”), then ἑβδομηκοντάκις ἑπτά (“seventy times seven”). Luke 17:4 has only ἑπτάκις (“seven times”): <strong>the escalation is Matthew’s</strong> <code>[S: audit]</code></td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Gen 6–7 (Noah, the flood)</td>
+<td>24:37–39</td>
+<td>κατακλυσμός (“flood”) and κιβωτός (“ark”). Those “taken” in the flood were swept away (ἦρεν ἅπαντας, “took them all away”, 24:39)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Gen 12:3; 28:14 — πᾶσαι αἱ φυλαὶ τῆς γῆς (“all the tribes of the earth”)</td>
+<td>24:30</td>
+<td>The Abrahamic blessing formula (in Swete only at Gen 12:3; 28:14; Ps 71:17) is put inside Zechariah’s mourning (Zech 12:10–12). The tribes promised blessing now mourn at the sight of the Son of Man. <strong>Reframed</strong> <code>[S: audit]</code>: Matthew’s whole clause can be built from Zechariah 12–14 alone (Rahlfs Zech 12:14 πᾶσαι αἱ φυλαί (“all the tribes”); Zech 14:17 ἐκ πασῶν φυλῶν τῆς γῆς (“from all the tribes of the earth”)), and in Genesis the verb is “be blessed”, not “mourn”. The Hebrew מִשְׁפָּחָה (“clan, family”) links Gen 12:3; 28:14 with Zech 12:12; 14:17. An overtone, not a second source; “blessing turned to mourning” is <code>[I]</code></td>
+<td><strong>Live</strong></td>
+<td>low–moderate (overtone)</td>
+</tr>
+<tr class="odd">
+<td>Gen 18:18; 22:18; 26:4 — πάντα τὰ ἔθνη (“all the nations”)</td>
+<td>28:19; cf. 1:1 (“son of Abraham”); 8:11</td>
+<td>The promise to Abraham’s seed, and the last command. The phrase is common in the LXX, so the link rests on 1:1 <code>[I]</code></td>
+<td><strong>Live</strong></td>
+<td>uncertain–moderate</td>
+</tr>
+<tr class="even">
+<td>Gen 16:11; 17:19 — the annunciation formula</td>
+<td>1:21</td>
+<td>τέξεται δὲ υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ (“she will bear a son, and you will call his name …”): Ishmael and Isaac, then Immanuel (Isa 7:14). A type-scene</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Gen 22:2 — τὸν υἱόν σου τὸν ἀγαπητόν (“your beloved son”)</td>
+<td>3:17; 17:5</td>
+<td>The Voice’s ἀγαπητός (“beloved”) is the LXX’s word for Isaac (Hebrew יְחִידְךָ, “your only one”). Read with Ps 2:7 and Isa 42:1</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Gen 37:20 — δεῦτε ἀποκτείνωμεν αὐτόν (“come, let us kill him”)</td>
+<td>21:38–39</td>
+<td>The tenants speak the words of Joseph’s brothers. Found by the 4-gram sweep. <strong>Inherited from Mark 12:7, and strengthened by Matthew</strong> <code>[S: audit]</code>: ἰδόντες τὸν υἱόν (“seeing the son”, 21:38), which Mark lacks, matches Gen 37:18, “they saw him … to kill him”; and Matthew’s order, καὶ λαβόντες αὐτὸν ἐξέβαλον … καὶ ἀπέκτειναν (“and taking him, they threw him out … and killed him”, 21:39), follows Gen 37:24, καὶ λαβόντες αὐτόν (“and taking him”), the phrase’s only Swete occurrence, against Mark’s “killed, then cast out”. Thematic rival: Naboth’s vineyard (1 Kgs 21; Swete 3 Kgdms 20), with the theme but not the words</td>
+<td><strong>Live</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Gen 38 (Tamar); 38:8</td>
+<td>1:3; 22:24</td>
+<td>Tamar is the first woman in the genealogy. At 22:24 the Sadducees’ ἐπιγαμβρεύσει (“he shall marry [her] as next of kin”) echoes Gen 38:8 γάμβρευσαι (“marry her as next of kin”), with Deut 25:5</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Exod 1:22</td>
+<td>2:16</td>
+<td>A king orders the boys killed. The two share a pattern, not wording <code>[I]</code></td>
+<td><strong>Live</strong> (Exodus)</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Exod 3:6</td>
+<td>22:32</td>
+<td>The bush text as proof of the resurrection</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Exod 4:19 — τεθνήκασιν γὰρ … οἱ ζητοῦντες … τὴν ψυχήν (“for those seeking … the life … are dead”)</td>
+<td>2:20</td>
+<td>Moses’ recall to Egypt becomes Joseph’s recall from Egypt. τεθνήκασιν (“they are dead”) occurs in canonical Swete only at Exod 4:19 and 1 Sam 4:17. The plural is kept, though only Herod has died. <strong>Strengthened</strong> <code>[S: audit]</code>: <strong>Rahlfs</strong> Exod 4:19 opens with a plus that Swete lacks, μετὰ δὲ τὰς ἡμέρας τὰς πολλὰς ἐκείνας ἐτελεύτησεν ὁ βασιλεὺς Αἰγύπτου (“after those many days the king of Egypt died”): a king’s death, then τεθνήκασιν (“they are dead”), the order of 2:19–20. And Exod 2:15, ἐζήτει ἀνελεῖν Μωυσῆν· ἀνεχώρησεν δὲ Μωυσῆς (“he sought to kill Moses; but Moses withdrew”), stands behind 2:13–14, ζητεῖν … ἀπολέσαι … ἀνεχώρησεν (“to seek … to destroy … he withdrew”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Exod 19:3; 24:18; 34:4 — ἀνέβη εἰς τὸ ὄρος (“he went up into the mountain”)</td>
+<td>5:1</td>
+<td>The exact aorist form occurs three times in Swete, all of Moses at Sinai; the teacher of 5–7 goes up, and Torah follows (“it was said … but I say”). <strong>Re-rated</strong> <code>[S: audit]</code>: any form of ἀναβαίνω (“to go up”) with εἰς τὸ ὄρος (“into the mountain”) gives 25 Swete verses; the Hebrew of Exod 19:3 has no mountain (עָלָה אֶל־הָאֱלֹהִים, “went up to God”); and the phrase is ordinary Gospel Greek (Mark 3:13; Luke 9:28). The setting carries the allusion more than the words. <strong>14:23 is dropped</strong>: there Matthew changes Mark 6:46 ἀπῆλθεν (“he went away”) to ἀνέβη (“he went up”), but the scene is prayer and nothing Sinaitic follows</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Exod 34:28; Deut 9:9, 18 (and 1 Kgs 19:8) — forty days and forty nights</td>
+<td>4:2</td>
+<td>Moses’ fasts on the mountain, and Elijah’s journey to Horeb. Matthew alone has “and forty nights” (compare Mark 1:13)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Exod 20:12–16; Deut 5:16–20</td>
+<td>5:21, 27; 15:4; 19:18–19</td>
+<td>The commandments: in the antitheses, against tradition, and to the rich young man</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Exod 21:16 Swete (Hebrew 21:17)</td>
+<td>15:4</td>
+<td>ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω (“whoever speaks evil of father or mother, let him die”)</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Exod 21:24 (Lev 24:20; Deut 19:21)</td>
+<td>5:38</td>
+<td>ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ (“an eye for an eye”)</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Exod 23:20 (with Mal 3:1)</td>
+<td>11:10</td>
+<td>ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου (“I send my messenger before your face”). John is the wilderness angel and Malachi’s forerunner</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Exod 24:8 — τὸ αἷμα τῆς διαθήκης (“the blood of the covenant”)</td>
+<td>26:28</td>
+<td>The Sinai covenant meal is renewed at the table. In Swete the phrase occurs only at Exod 24:8. Matthew alone adds εἰς ἄφεσιν ἁμαρτιῶν (“for the forgiveness of sins”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Exod 24:16; 34:29–35; 40:29 Swete</td>
+<td>17:1–6</td>
+<td>Merged with the Deut 18:15 row below <code>[S: audit]</code></td>
+<td><strong>Live</strong></td>
+<td>see Deut 18:15</td>
+</tr>
+<tr class="odd">
+<td>Lev 13–14</td>
+<td>8:4</td>
+<td>“Show yourself to the priest … the gift Moses commanded”</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Lev 19:18 — ἀγαπήσεις τὸν πλησίον σου (“you shall love your neighbour”)</td>
+<td>5:43; 19:19; 22:39</td>
+<td>Cited three times, the last as the second great commandment. At 5:43 it is joined to an unwritten “and hate your enemy”</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Lev 19:12; Num 30:3; Deut 23:22</td>
+<td>5:33</td>
+<td>Oaths and vows</td>
+<td>—</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Num 27:17 — ὡσεὶ πρόβατα οἷς οὐκ ἔστιν ποιμήν (“like sheep that have no shepherd”)</td>
+<td>9:36; cf. 10:6; 15:24</td>
+<td>Moses’ prayer for a successor. Swete’s next verse names him: τὸν Ἰησοῦν υἱὸν Ναυή (“Joshua [Ἰησοῦς] son of Nun”, Num 27:18). The clause recurs at 1 Kgs 22:17 / 2 Chr 18:16, but with ὡς (“as”). <strong>Raised</strong> <code>[S: audit]</code>: ὡσεὶ πρόβατα (“like sheep”) occurs in Swete only at Num 27:17 and Ps 79:2, and Matthew changed Mark 6:34’s ὡς (“as”) to ὡσεί (“like”). The Hebrew of Num 27:17 and 1 Kgs 22:17 is identical, so the case for Numbers rests on the Greek. The Joshua link rests on the context, not the name: Num 27:15–23 commissions a leader, and Matthew follows 9:36 with workers for the harvest and the commissioning of the Twelve (9:38–10:5)</td>
+<td><strong>Live</strong> (Numbers)</td>
+<td>high (phrase); moderate (the Ἰησοῦς (“Joshua, Jesus”) link)</td>
+</tr>
+<tr class="odd">
+<td>Num 23:7; 24:17 — Balaam “from the east”; ἀνατελεῖ ἄστρον (“a star shall rise”)</td>
+<td>2:1–2, 9</td>
+<td>A seer from the east and a rising star. The two passages share ἀνατολή (“east, rising”) and a star, though Numbers has ἄστρον (“star”) and Matthew ἀστήρ (“star”)</td>
+<td>—</td>
+<td>uncertain–moderate</td>
+</tr>
+<tr class="even">
+<td>Num 28:9–10</td>
+<td>12:5</td>
+<td>The priests “profane” the Sabbath and are guiltless</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Deut 6:5</td>
+<td>22:37</td>
+<td>The first and great commandment</td>
+<td><strong>Live</strong> (Deuteronomy)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Deut 6:13</td>
+<td>4:10</td>
+<td>προσκυνήσεις (“you shall worship”), against φοβηθήσῃ (“you shall fear”) in Swete and Rahlfs and תִּירָא (“you shall fear”) in the Hebrew. See above</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Deut 6:16; 8:3</td>
+<td>4:7; 4:4</td>
+<td>The three answers to the tempter are all from Deut 6–8: the Son passes the test the wilderness generation failed <code>[T]</code> for the sources, <code>[I]</code> for the reading</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Deut 18:15 — αὐτοῦ ἀκούσεσθε (“you shall hear him”); with Exod 24:16; 34:29–30; 40:29 Swete (the Sinai setting)</td>
+<td>17:1–6</td>
+<td>ἀκούετε αὐτοῦ (“hear him”): the prophet like Moses, spoken over Jesus with Moses present. αὐτοῦ ἀκούσεσθε (“you shall hear him”) occurs in Swete only at Deut 13:4 and 18:15; Acts 3:22 and 7:37 read Deut 18:15 of Christ. <strong>Merged and re-grounded</strong> <code>[S: audit]</code>: the two words come from Mark 9:7, and the case rests on <strong>Matthew’s own Sinai colouring</strong>, which Mark lacks. ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος (“his face shone like the sun”, 17:2; Mark has no face, and Luke 9:29 says only that its appearance changed); compare Moses’ face, Exod 34:29–30. ἐφοβήθησαν σφόδρα (“they were greatly afraid”, 17:6); compare Exod 34:30 ἐφοβήθησαν (“they were afraid”). μεθʼ ἡμέρας ἕξ (“after six days”, 17:1); compare the cloud on Sinai six days, Exod 24:16. ἐπεσκίασεν (“overshadowed”, 17:5); compare Exod 40:29 Swete (Hebrew 40:35), ἐπεσκίαζεν ἐπ᾽ αὐτὴν ἡ νεφέλη (“the cloud overshadowed it”)</td>
+<td><strong>Live</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>Deut 19:15</td>
+<td>18:16</td>
+<td>“On the evidence of two or three witnesses”</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Deut 21:6–9; with Deut 27:25</td>
+<td>27:24–25</td>
+<td>Elders νίψονται τὰς χεῖρας (“shall wash their hands”) over innocent blood, so that it may not lie on the people. Pilate washes; “all the people” take the blood on themselves (27:25). <strong>Reframed as the ritual background</strong> <code>[S: audit]</code>. What holds: Deut 21:7 ἀποκριθέντες ἐροῦσιν … τὸ αἷμα τοῦτο (“answering they shall say … this blood”), the only Swete verse with τὸ αἷμα τοῦτο (“this blood”) as a phrase (Num 35:33 has τὸ γὰρ αἷμα τοῦτο, “for this blood”); compare 27:25 ἀποκριθεὶς πᾶς ὁ λαὸς εἶπεν (“all the people answered and said”). What does not: the Greek of Deut 21:8–9 has αἷμα ἀναίτιον (“guiltless blood”), not Matthew’s ἀθῷος (“innocent”); that link runs only through the Hebrew דָּם נָקִי (“innocent blood”). <strong>Pilate’s sentence</strong> is closest to 2 Sam 3:28, ἀθῷός εἰμι ἐγὼ … ἀπὸ τῶν αἱμάτων (“I am innocent … of the blood”), and Sus Th 46 (see <em>Outside the Tanak</em>); washing ἐν ἀθῴοις (“in innocence”) is Ps 25:6; 72:13 (Swete numbering). <strong>For 27:25</strong>, Deut 27:25 is the stronger single co-text: a curse on whoever takes a bribe to strike αἵματος ἀθῴου (“innocent blood”), καὶ ἐροῦσιν πᾶς ὁ λαός (“and all the people shall say”), the only Swete verse joining “all the people” with innocent blood. It fits Judas’ silver as well (27:3–4). Compare Jer 26:15 (Swete 33:15), innocent blood “upon you” at a prophet’s trial</td>
+<td><strong>Live</strong></td>
+<td>moderate–high (Deut 21, as ritual); moderate (Deut 27:25, unaudited)</td>
+</tr>
+<tr class="odd">
+<td>Deut 24:1</td>
+<td>5:31; 19:7</td>
+<td>The certificate of divorce, twice</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Deut 25:5</td>
+<td>22:24</td>
+<td>Levirate law, in the Sadducees’ question</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Deut 31:1 Swete and Rahlfs; 32:45 Hebrew</td>
+<td>26:1 (the fifth formula)</td>
+<td>Swete and Rahlfs Deut 31:1: συνετέλεσεν Μωυσῆς λαλῶν πάντας τοὺς λόγους τούτους (“Moses finished speaking all these words”). The Hebrew of 32:45 reads וַיְכַל מֹשֶׁה לְדַבֵּר אֶת־כָּל־הַדְּבָרִים הָאֵלֶּה (“Moses finished speaking all these words”; כָּלָה, “to finish”, gated). The WLC of 31:1 reads differently (וַיֵּלֶךְ, “and he went”), <strong>but the BHS apparatus (31:1 note a–a) records 𝔔𝔊 וַיְכַל מֹשֶׁה לְדַבֵּר (“and Moses finished speaking”)</strong> <code>[S: audit]</code> <code>[unchecked — apparatus spread]</code>. The last discourse ends as Moses’ last speech ends, and in both a death follows (Deut 31:2; Matt 26:2). <strong>Raised</strong> <code>[S: audit]</code>; for 26:1 only, since only 26:1 has πάντας (“all”). The phrase alone is common (25 Swete verses), and “finish speaking” formulae are many (Gen 49:33 of Jacob is a candidate for 11:1)</td>
+<td><strong>Live</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Deut 32:5 — γενεὰ σκολιὰ καὶ διεστραμμένη (“a crooked and perverse generation”)</td>
+<td>17:17</td>
+<td>γενεὰ ἄπιστος καὶ διεστραμμένη (“an unbelieving and perverse generation”). In canonical Swete, διεστραμμένη (“perverse”) with γενεά (“generation”) is found only at Deut 32:5. <strong>Raised</strong> <code>[S: audit]</code>: Deut 32:20 adds γενεὰ ἐξεστραμμένη ἐστίν, υἱοὶ οἷς οὐκ ἔστιν πίστις (“a perverted generation, sons in whom there is no faith”), so <strong>the Song of Moses supplies both of Matthew’s adjectives</strong>. Luke 9:41 also adds “and perverse” against Mark 9:19, a minor agreement, so the addition may be pre-Matthean</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<h3 id="neviim-former-prophets">Nevi’im — Former Prophets</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Matthew</th>
+<th>What the use does</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Judg 13:5 — ναζ(ε)ίρ (“Nazirite”)</td>
+<td>2:23</td>
+<td>“He will be called a Ναζωραῖος (”Nazarene“)”, “through the prophets”, plural. No single text matches <code>[T]</code>. The proposals are Judg 13:5 (Samson, also “to save Israel”) and Isa 11:1 נֵצֶר (“branch”) <code>[S]</code></td>
+<td>—</td>
+<td>uncertain</td>
+</tr>
+<tr class="even">
+<td>1 Sam 21:1–6</td>
+<td>12:3–4</td>
+<td>David and the bread of the Presence</td>
+<td><strong>Live</strong> (Samuel)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>2 Sam 5:2 — σὺ ποιμανεῖς τὸν λαόν μου τὸν Ἰσραήλ (“you shall shepherd my people Israel”)</td>
+<td>2:6</td>
+<td>Joined to Mic 5:1. The ruler from Bethlehem is David’s kind of shepherd</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>2 Sam 17:23 — ἀπήγξατο (“he hanged himself”)</td>
+<td>27:5</td>
+<td>Ahithophel, David’s counsellor who went over to his enemy, hanged himself. In Swete ἀπήγξατο (“he hanged himself”) occurs only here and at Tob 3:10, where it is imagined speech (Sinaiticus: αὐτὴ ἀπήγξατο, “she hanged herself”, said of Sarah, who then decides against it). <strong>Only 2 Sam 17:23 narrates a hanging that happened.</strong> Judas does the same: καὶ ἀπελθὼν ἀπήγξατο (“and going away he hanged himself”); compare ἀπῆλθεν … καὶ ἀπήγξατο (“he went away … and hanged himself”). The Hebrew חָנַק (“to strangle”) is the Hebrew Bible’s only self-hanging. <strong>Raised</strong> <code>[S: audit]</code></td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>1 Kgs 10:1–13 (the queen of Sheba)</td>
+<td>12:42</td>
+<td>“Something greater than Solomon is here”</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>1 Kgs 19:8</td>
+<td>4:2</td>
+<td>Elijah’s forty days and forty nights (see Exod 34:28)</td>
+<td><strong>Live</strong> (Elijah)</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>2 Kgs 1:8 — ζώνην δερματίνην … τὴν ὀσφὺν αὐτοῦ (“a leather belt … his waist”)</td>
+<td>3:4</td>
+<td>John is dressed as Elijah. Matthew names him at 11:14 and 17:10–13</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<h3 id="neviim-latter-prophets">Nevi’im — Latter Prophets</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Matthew</th>
+<th>What the use does</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Isa 7:14; 8:8, 10</td>
+<td>1:23</td>
+<td>ἡ παρθένος (“the virgin”), with LXX and Rahlfs; Hebrew הָעַלְמָה (“the young woman”). ἐν γαστρὶ ἕξει (“will be with child”) follows Rahlfs, not Swete. καλέσουσιν (“they will call”) follows neither the Greek (καλέσεις, “you will call”) nor the Hebrew (וְקָרָאת, “she will call”). μεθʼ ἡμῶν ὁ θεός (“God with us”) is the Greek of Isa 8:8, 10. The book’s first frame</td>
+<td><strong>Live</strong> (Isaiah: about 20 places)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 8:23–9:1 (Hebrew; English 9:1–2)</td>
+<td>4:15–16</td>
+<td>ὁδὸν θαλάσσης (“the way of the sea”) is in the Hebrew and Rahlfs, not in Swete. Matthew’s ὁ καθήμενος (“sitting”) is in neither; compare Isa 42:7 and Ps 107:10 (Swete 106:10), καθημένους ἐν σκότει (“sitting in darkness”). “Galilee of the nations” opens the ministry</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 40:3</td>
+<td>3:3</td>
+<td>The voice in the wilderness</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 6:9–10</td>
+<td>13:14–15</td>
+<td>The hardening text, close to the LXX, at the turn of the parables discourse</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 29:13</td>
+<td>15:8–9</td>
+<td>The lips and the heart, with the LXX’s μάτην (“in vain”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 42:1–4; 42:7</td>
+<td>12:18–21; 3:17; 17:5; cf. 4:16</td>
+<td>The Servant, cited at length (see above). ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου (“my beloved, in whom my soul is well pleased”, 12:18) uses the Voice’s words of 3:17 and 17:5. ἀγαπητός (“beloved”) and εὐδοκέω (“to be well pleased”) both occur only at 3:17, 12:18 and 17:5 <code>[T]</code></td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 53:4</td>
+<td>8:17</td>
+<td>Hebrew, not Greek (see above). The Servant bears sickness by healing it</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 53:10–12 — “many”</td>
+<td>20:28; 26:28</td>
+<td>λύτρον ἀντὶ πολλῶν (“a ransom for many”) and περὶ πολλῶν (“for many”). <strong>Reframed as one strand of a composite</strong> <code>[S: audit]</code>. 20:28 is Mark 10:45 verbatim; at 26:28 Matthew changes Mark’s ὑπέρ (“for”) to περί (“for”) and adds εἰς ἄφεσιν ἁμαρτιῶν (“for the forgiveness of sins”). ἁμαρτι- (“sin”) beside πολλῶν (“of many”) occurs in Swete only at Isa 53:12, and רַבִּים (“many”) stands at Isa 52:14, 15; 53:11, 12. But λύτρον (“ransom”) is not in Isa 52:13–53:12. The cup draws also on Exod 24:8 (“the blood of the covenant”), the sin-offering language of Lev 4, and Dan 9:27 (Theodotion διαθήκην πολλοῖς, “a covenant for many”; Hebrew בְּרִית לָרַבִּים, “a covenant for the many”), from the chapter Matthew names at 24:15. The ransom draws on Exod 30:12 λύτρα τῆς ψυχῆς αὐτοῦ (“a ransom for his life”) and Num 3:12</td>
+<td><strong>Live</strong></td>
+<td>high (as a component); moderate (as the source)</td>
+</tr>
+<tr class="odd">
+<td>Isa 50:6 — εἰς ῥαπίσματα … ἐμπτυσμάτων (“to slaps … of spitting”)</td>
+<td>26:67; 27:30; cf. 5:39</td>
+<td>ἐνέπτυσαν … ἐράπισαν (“they spat … they slapped”). In Swete the phrase occurs only at Isa 50:6, and “slaps” is the Greek’s own (the Hebrew has לְמֹרְטִים, “to those who pluck [the beard]”). <strong>Reframed</strong> <code>[S: audit]</code>: Mark 14:65 already has the spitting and Isaiah’s noun ῥαπίσμασιν (“with slaps”); Matthew turns it into a verb, and at 20:19 he drops Mark 10:34’s “they will spit”. The echo belongs to the passion tradition Matthew inherits. For 27:30 compare Mic 5:1 Swete (Hebrew 4:14), the judge of Israel struck ἐπὶ σιαγόνα (“on the cheek”) with a rod, beside the Micah verse quoted at 2:6. <strong>Candidate, unaudited:</strong> ῥαπ- (“slap”) with σιαγών (“cheek”) occurs in Swete only at Isa 50:6 and Hos 11:4, so 5:39 may already look to Isa 50:6 (see the Echo Table)</td>
+<td><strong>Live</strong></td>
+<td>high (the tradition); moderate (Matthew’s own wording)</td>
+</tr>
+<tr class="even">
+<td>Isa 53:9</td>
+<td>27:57</td>
+<td>Matthew alone calls Joseph of Arimathea πλούσιος (“rich”; compare Mark 15:43). The Greek is τοὺς πλουσίους ἀντὶ τοῦ θανάτου αὐτοῦ (“the rich for his death”)</td>
+<td><strong>Live</strong></td>
+<td>uncertain–moderate</td>
+</tr>
+<tr class="odd">
+<td>Isa 35:5–6; 61:1; 26:19</td>
+<td>11:5</td>
+<td>Blind, lame, deaf, dead, and “the poor have good news” — the answer to John is Isaiah’s catalogue</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 61:1–2, 7</td>
+<td>5:3–5</td>
+<td>πτωχοί (“the poor”), πενθοῦντες (“those who mourn”), παρακαλέσαι (“to comfort”). <strong>Raised, as the frame of 5:3–5</strong> <code>[S: audit]</code>: πτωχ- (“poor”) with εὐαγγελ- (“good news”) occurs in Swete only at Isa 61:1, and 61:2 has παρακαλέσαι πάντας τοὺς πενθοῦντας (“to comfort all who mourn”). Matthew moves towards Isaiah: Luke 6:21 has “those who weep … you will laugh”. 11:5 repeats πτωχοὶ εὐαγγελίζονται (“the poor have good news preached”). Companions: Isa 61:7 κληρονομήσουσι τὴν γῆν (“they shall inherit the land”) with Ps 37:11 for 5:5; Isa 66:2 and Ps 34:19 (Swete 33:19, ταπεινοὺς τῷ πνεύματι, “the humble in spirit”) for τῷ πνεύματι (“in spirit”). The Hebrew עֲנָוִים (“the humble, poor”) stands behind both Isa 61:1 (πτωχοῖς, “to the poor”) and Ps 37:11 (πραεῖς, “the meek”), so 5:3 and 5:5 may spread one Hebrew word over two beatitudes <code>[I]</code></td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 66:1 (with Ps 48:3)</td>
+<td>5:34–35</td>
+<td>Heaven his throne, earth his footstool</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 14:13–15</td>
+<td>11:23</td>
+<td>Capernaum “exalted to heaven … down to Hades”, the taunt over the king of Babylon</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 5:1–2</td>
+<td>21:33</td>
+<td>The vineyard, its hedge, winepress and tower</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 13:10; 34:4</td>
+<td>24:29</td>
+<td>Sun, moon and stars, and the powers of heaven</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 27:13 — τῇ σάλπιγγι τῇ μεγάλῃ (“with the great trumpet”)</td>
+<td>24:31</td>
+<td>The great trumpet that gathers the scattered</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Isa 56:7 + Jer 7:11</td>
+<td>21:13</td>
+<td>House of prayer, den of robbers. Matthew lacks Mark’s “for all the nations” (see <em>Canonical Position</em>)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Isa 62:11 + Zech 9:9</td>
+<td>21:5</td>
+<td>εἴπατε τῇ θυγατρὶ Σιών (“say to the daughter of Zion”) from Isa 62:11, then Zechariah’s king. Matthew omits Zechariah’s δίκαιος καὶ σῴζων (“righteous and saving”) and keeps πραΰς (“meek”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Isa 60:6; Ps 72:10–11</td>
+<td>2:11</td>
+<td>χρυσίον καὶ λίβανον (“gold and frankincense”); kings bring gifts and προσκυνήσουσιν (“will worship”)</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Isa 11:1 — נֵצֶר (“branch”)</td>
+<td>2:23</td>
+<td>See Judg 13:5</td>
+<td>—</td>
+<td>uncertain</td>
+</tr>
+<tr class="even">
+<td>Jer 31:15 (Swete and Rahlfs 38:15)</td>
+<td>2:18</td>
+<td>Rachel weeping. Hebrew, not Greek (see above). The second formula naming Jeremiah</td>
+<td><strong>Live</strong> (Jeremiah: named 3 times)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Jer 6:16</td>
+<td>11:29</td>
+<td>ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν (“rest for your souls”): the Hebrew is מַרְגּוֹעַ לְנַפְשְׁכֶם (“rest for your souls”); both Greek texts have ἁγνισμόν (“purification”). The “ancient paths” of Jeremiah become Jesus’ yoke. <strong>Raised</strong> <code>[S: audit]</code>: מַרְגּוֹעַ (“rest”) occurs in the Hebrew Bible only at Jer 6:16; Matthew keeps the LXX frame and corrects the noun; 11:28–30 has no Lukan parallel. Sir 51:23–27 supplies the companion frame (the invitation, the yoke, the rest), and Isa 28:12 (Hebrew) a complementary source: rest for the weary, refused, as the cities of 11:20–24 refuse</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Jer 22:5; 12:7</td>
+<td>23:38</td>
+<td>“Your house is left to you desolate”</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Jer 18:1–4; 19:1–13; 32:6–15</td>
+<td>27:9–10</td>
+<td>The potter, the broken jar at the Potsherd Gate (in the valley of Hinnom), the purchased field. Matthew names Jeremiah; the wording is Zech 11:12–13. Why Jeremiah is named is an open crux <code>[S]</code></td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Jer 31:31</td>
+<td>26:28</td>
+<td>NA28 has τῆς διαθήκης (“of the covenant”) without καινῆς (“new”). The link is conceptual</td>
+<td><strong>Live</strong></td>
+<td>uncertain–moderate</td>
+</tr>
+<tr class="odd">
+<td>Ezek 37:12–13 — ἀνοίγω ὑμῶν τὰ μνήματα (“I open your graves”)</td>
+<td>27:52–53</td>
+<td>τὰ μνημεῖα ἀνεῴχθησαν (“the tombs were opened”), and the saints enter the holy city. Matthew alone has this scene</td>
+<td><strong>Live</strong> (Ezekiel)</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ezek 34:5, 17</td>
+<td>9:36; 25:32–33</td>
+<td>Shepherdless sheep, and the LORD judging “between sheep and sheep, rams and goats”</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Ezek 17:23; 31:6 (with Dan 4)</td>
+<td>13:32</td>
+<td>Birds nesting in the branches</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+</tbody>
+</table>
+<h3 id="neviim-the-twelve-mt-order">Nevi’im — The Twelve (MT order)</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Matthew</th>
+<th>What the use does</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Hos 11:1</td>
+<td>2:15</td>
+<td>“My son” (Hebrew), not “his children” (Greek). The Son re-lives Israel’s exodus. The citation is retrospective in Hosea; the fulfilment is typological, not predictive <code>[T]</code>/<code>[I]</code></td>
+<td><strong>Live</strong> (Hosea)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Hos 6:6</td>
+<td>9:13; 12:7</td>
+<td>“Mercy and not sacrifice”, twice, each time as μάθετε / εἰ ἐγνώκειτε (“go and learn” / “if you had known”). Matches Rahlfs and the Hebrew; Swete differs</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Jonah 2:1 (English 1:17); 3:5</td>
+<td>12:39–41; 16:4</td>
+<td>“Three days and three nights in the belly of the sea monster” (verbatim with the LXX), and Nineveh repented. “Something greater than Jonah”. Ἰωνᾶς (“Jonah”) is named in 4 verses (12:39, 40, 41; 16:4)</td>
+<td><strong>Live</strong> (Jonah)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Mic 5:1 (English 5:2) + 2 Sam 5:2</td>
+<td>2:6</td>
+<td>Bethlehem, now οὐδαμῶς ἐλαχίστη (“by no means least”), reversing Micah’s צָעִיר (“little”). ἡγεμόσιν (“rulers”) where the Hebrew has אַלְפֵי (“thousands, clans”)</td>
+<td><strong>Live</strong> (Micah)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Mic 7:6</td>
+<td>10:35–36</td>
+<td>“A man’s enemies will be those of his own household”</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Zech 9:9</td>
+<td>21:5</td>
+<td>See Isa 62:11. Two animals, as the Hebrew has them</td>
+<td><strong>Live</strong> (Zechariah: 8 places)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Zech 11:12–13</td>
+<td>26:15; 27:9–10</td>
+<td>ἔστησαν … τριάκοντα ἀργυρ- (“they weighed out thirty silver pieces”): Zechariah’s wage. The potter is Hebrew, not Greek (see above)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Zech 12:10–14; 14:17</td>
+<td>24:30</td>
+<td>κόψονται (“they will mourn”), with “all the tribes of the earth”. <strong>Raised</strong> <code>[S: audit]</code>: Matthew adds the clause (Mark 13:26 and Luke 21:27 lack it). κόψονται (“they will mourn”) with “looking at me” occurs only at Zech 12:10, and κατὰ φυλὰς φυλάς (“tribe by tribe”) only at 12:12. Rahlfs Zech 12:14 πᾶσαι αἱ φυλαί (“all the tribes”) and Zech 14:17 ἐκ πασῶν φυλῶν τῆς γῆς (“from all the tribes of the earth”) complete the clause from Zechariah alone (the Genesis formula is an overtone; see the Torah). John 19:37 and Rev 1:7 independently join Zech 12:10 to the coming with clouds</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Zech 13:7</td>
+<td>26:31</td>
+<td>The struck shepherd. Hebrew singular (see above). Matthew adds τῆς ποίμνης (“of the flock”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Zech 14:5</td>
+<td>25:31</td>
+<td>ἥξει Κύριος … καὶ πάντες οἱ ἅγιοι μετ᾽ αὐτοῦ (“the Lord will come … and all the holy ones with him”) → “the Son of Man … and all the angels with him”</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Zech 2:10 (Hebrew; Swete 2:6)</td>
+<td>24:31</td>
+<td>ἐκ τῶν τεσσάρων ἀνέμων (“from the four winds”). In Swete the phrase occurs only at Zech 2:6</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Zech 1:1 — Ζαχαρίαν τὸν τοῦ Βαραχίου (“Zechariah son of Barachiah”)</td>
+<td>23:35</td>
+<td>The patronymic of the prophet attached to the priest murdered in 2 Chr 24. Hebrew בֶּרֶכְיָה (“Berechiah”, Zech 1:1) and יְהוֹיָדָע (“Jehoiada”, 2 Chr 24:20), both gated. An open crux. <strong>Candidate</strong> <code>[S: audit]</code>: Isa 8:2 LXX, Ζαχαρίαν υἱὸν Βαραχίου (“Zechariah son of Barachiah”), a μάρτυς (“witness”), is formally closer to Matthew’s υἱοῦ Βαραχίου (“son of Barachiah”) than Zech 1:1. Luke 11:51 has no patronymic</td>
+<td><strong>Live</strong></td>
+<td>high (that both texts are in view); uncertain (why)</td>
+</tr>
+<tr class="odd">
+<td>Mal 3:1</td>
+<td>11:10</td>
+<td>With Exod 23:20 (see above)</td>
+<td><strong>Live</strong> (Malachi)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Mal 3:23–24 (Swete 4:4–5)</td>
+<td>11:14; 17:10–12</td>
+<td>Elijah sent before the day; ἀποκαταστήσει (“he will restore”, 17:11), which in Swete’s Prophets occurs only at Mal 4:5. John is Elijah, and he “has already come”</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ketuvim-bhs-order">Ketuvim (BHS order)</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Where in Matthew</th>
+<th>What the use does</th>
+<th>Live?</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ps 2:7</td>
+<td>3:17; 17:5</td>
+<td>“My Son” from the royal psalm, heard with Isa 42:1 and Gen 22:2</td>
+<td><strong>Live</strong> (Psalms)</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>Ps 6:9 (Swete)</td>
+<td>7:23</td>
+<td>ἀποχωρεῖτε ἀπʼ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν (“depart from me, you workers of lawlessness”). Swete: ἀπόστητε ἀπ᾽ ἐμοῦ πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν (“depart from me, all you workers of lawlessness”). The sufferer’s prayer is in the Judge’s mouth</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 8:3; 8:7</td>
+<td>21:16; 22:44</td>
+<td>Out of the mouth of infants: Greek αἶνον (“praise”), not Hebrew עֹז (“strength”). At 22:44 Matthew’s ὑποκάτω τῶν ποδῶν σου (“under your feet”) replaces Ps 110’s ὑποπόδιον (“footstool”) with the wording of Ps 8:7</td>
+<td><strong>Live</strong></td>
+<td>high (21:16); moderate (22:44)</td>
+</tr>
+<tr class="even">
+<td>Ps 22 (Swete 21) — vv. 2, 8, 9, 19</td>
+<td>27:46; 27:39; 27:43; 27:35</td>
+<td>The passion told in the psalm: the cry (Hebrew ηλι, “Eli”), the wagging heads, “he trusted in God, let him deliver him”, the divided garments</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 24:4 (Swete 23:4) — καθαρὸς τῇ καρδίᾳ (“pure in heart”)</td>
+<td>5:8</td>
+<td>The pure in heart will see God; in the psalm they ascend the hill of the LORD. <strong>Raised for the purity clause</strong> <code>[S: audit]</code>: καθαρὸς τῇ καρδίᾳ (“pure in heart”) occurs only at Swete Ps 23:4, and Ps 73:1’s בָּרֵי לֵבָב (“pure in heart”) is rendered εὐθέσι τῇ καρδίᾳ (“upright in heart”). “Will see God” escalates the psalm’s “those who seek the face of the God of Jacob” (23:6, Greek only)</td>
+<td><strong>Live</strong></td>
+<td>high (purity); moderate (“see God”)</td>
+</tr>
+<tr class="even">
+<td>Ps 37:11 (Swete 36:11)</td>
+<td>5:5</td>
+<td>οἱ πραεῖς … κληρονομήσουσιν γῆν (“the meek … will inherit the land/earth”). Near-verbatim</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 42:6, 12; 43:5</td>
+<td>26:38</td>
+<td>περίλυπός ἐστιν ἡ ψυχή μου (“my soul is very sorrowful”)</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 48:3 (Swete 47:3)</td>
+<td>5:35</td>
+<td>πόλις … τοῦ μεγάλου βασιλέως (“the city of the great King”)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 69:22 (Swete 68:22)</td>
+<td>27:34</td>
+<td>οἶνον μετὰ χολῆς (“wine mixed with gall”); Swete has εἰς τὸ βρῶμά μου χολήν (“gall for my food”). Mark has ἐσμυρνισμένον οἶνον (“wine mixed with myrrh”, Mark 15:23). Matthew’s word is the psalm’s. <strong>Raised</strong> <code>[S: audit]</code>: χολή (“gall”) with ὄξος (“sour wine”) occurs in Swete only at Ps 68:22; Matthew’s ἔδωκαν … πιεῖν … χολῆς (“they gave … to drink … gall”) takes the aorist, the drinking and the gall from the psalm’s first line, and 27:48 (ὄξους … ἐπότιζεν, “sour wine … gave him to drink”, shared with Mark) its second. The NA28 apparatus at 27:34 shows A W Γ Δ 𝔪 reading ὄξος (“sour wine”), marked “(Ps 69,22)”: the scribes heard the psalm too</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Ps 72:10–11 (Swete 71)</td>
+<td>2:11</td>
+<td>See Isa 60:6</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Ps 78:2 (Swete 77:2)</td>
+<td>13:35</td>
+<td>The first line is the LXX’s verbatim. The second, ἐρεύξομαι κεκρυμμένα ἀπὸ καταβολῆς (“I will utter things hidden from the foundation”), is independent of both the LXX and the Hebrew. “The prophet” is Asaph</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Ps 91:11–12 (Swete 90)</td>
+<td>4:6</td>
+<td>The devil quotes Scripture</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 107:3, 10 (Swete 106)</td>
+<td>8:11; 4:16</td>
+<td>ἀπὸ ἀνατολῶν καὶ δυσμῶν (“from east and west”); καθημένους ἐν σκότει (“sitting in darkness”)</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 110:1 (Swete 109)</td>
+<td>22:44; 26:64</td>
+<td>David’s Lord at the right hand: first a riddle to the Pharisees, then a claim before the high priest</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 118:22–23 (Swete 117)</td>
+<td>21:42</td>
+<td>The rejected stone</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Ps 118:26</td>
+<td>21:9; 23:39</td>
+<td>εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου (“blessed is he who comes in the name of the Lord”), verbatim at both places: the entry and the lament</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Ps 130:8 (Swete 129:8)</td>
+<td>1:21</td>
+<td>“He will redeem Israel from all his iniquities” → “he will save his people from their sins”</td>
+<td><strong>Live</strong></td>
+<td>uncertain–moderate</td>
+</tr>
+<tr class="even">
+<td>Ps 62:13 (Swete 61:13); Prov 24:12</td>
+<td>16:27</td>
+<td>ἀποδώσει ἑκάστῳ κατὰ … (“he will repay each according to …”). Matthew has τὴν πρᾶξιν (“the deed”), not τὰ ἔργα (“the works”)</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>Ruth 4:18–22 (with 1 Chr 2:5–15)</td>
+<td>1:3–6</td>
+<td>The Perez–David line, and Ruth named (1:5). Swete 1 Chr 2:11–12 and Ruth 4:21 use the same ἐγέννησεν (“begot”) chain</td>
+<td>—</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Dan 7:13–14</td>
+<td>24:30; 26:64; 28:18; also 10:23; 16:27–28; 19:28; 25:31</td>
+<td>ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ (“on the clouds of heaven”) at 24:30 and 26:64 is the Old Greek’s ἐπί (“on”), not Theodotion’s μετά (“with”). Mark 14:62 has μετά (“with”). At 28:18 ἐδόθη μοι … ἐξουσία (“authority was given to me”), with πάντα τὰ ἔθνη (“all the nations”, 28:19), is the Old Greek of 7:14: ἐδόθη αὐτῷ ἐξουσία, καὶ πάντα τὰ ἔθνη (“authority was given to him, and all the nations”), in Swete and Rahlfs. Theodotion has ἡ ἀρχή (“the dominion”) and λαοί (“peoples”). ἐδόθη (“was given”) with ἐξουσία (“authority”) occurs in Swete only at OG Dan 7:14: <strong>the source of record for 28:18–19</strong> (see <em>Canonical Position</em>) <code>[S: audit]</code></td>
+<td><strong>Live</strong> (Daniel)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Dan 9:27; 11:31; 12:11</td>
+<td>24:15</td>
+<td>τὸ βδέλυγμα τῆς ἐρημώσεως (“the abomination of desolation”), “spoken through Daniel the prophet”. The exact phrase is in Swete only at Dan 12:11</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Dan 12:2</td>
+<td>25:46; cf. 19:16, 29</td>
+<td>ζωὴν αἰώνιον (“eternal life”). In canonical Swete this occurs only at Dan 12:2 (OG and Theodotion)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Dan 12:3 (Rahlfs Theodotion); with Mal 3:19–21 (Swete 4:1–3)</td>
+<td>13:41–43</td>
+<td>The righteous ἐκλάμψουσιν ὡς ὁ ἥλιος (“will shine out like the sun”). <strong>Corrected and raised</strong> <code>[S: audit]</code>: <strong>Rahlfs</strong> Theodotion Dan 12:3 reads ἐκλάμψουσιν (“they will shine out”), Matthew’s exact verb, with ἀπὸ τῶν δικαίων τῶν πολλῶν (“of the many righteous”); Swete’s Theodotion reads λάμψουσιν (“they will shine”). ἐκλάμπω (“to shine out”) occurs in the New Testament only here. The sun is not Daniel’s (his simile is the brightness of the firmament); compare Mal 3:19–21, where the doers of ἀνομία (“lawlessness”) are burned and for the God-fearers ἥλιος δικαιοσύνης (“the sun of righteousness”) rises, the sequence of 13:41–43 (co-text, unaudited)</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>Dan 3:6 (and 3:11, 15, 20–21)</td>
+<td>13:42, 50</td>
+<td>κάμινον τοῦ πυρός (“the furnace of fire”). In Swete the phrase occurs only in Daniel 3 (13 verses). <strong>Raised</strong> <code>[S: audit]</code>: OG Dan 3:6 ἐμβαλοῦσιν αὐτὸν εἰς τὴν κάμινον τοῦ πυρός (“they will throw him into the furnace of fire”); Matthew βαλοῦσιν αὐτοὺς εἰς τὴν κάμινον τοῦ πυρός (“they will throw them into the furnace of fire”). The NA28 apparatus at 13:42 shows minuscule 700 reading εμβαλουσιν (“they will throw in”), a scribe assimilating to Daniel. <strong>For preaching:</strong> in Daniel the furnace is the persecutor’s weapon against the faithful; in Matthew it is God’s judgement on the lawless. The role is reversed</td>
+<td><strong>Live</strong></td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>Dan 2:34–35, 44</td>
+<td><strong>[21:44]</strong></td>
+<td>λικμήσει (“will crush, winnow”) is Theodotion’s verb at 2:44. <strong>The verse is bracketed in NA28</strong></td>
+<td><strong>Live</strong></td>
+<td>moderate (and textually uncertain)</td>
+</tr>
+<tr class="even">
+<td>Dan 4:9, 18</td>
+<td>13:32</td>
+<td>Birds nest in the tree (with Ezek 17; 31)</td>
+<td><strong>Live</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>1 Chr 1–3</td>
+<td>1:1–16</td>
+<td>The genealogy follows Chronicles’ line <code>[T]</code>. It drops Ahaziah, Joash and Amaziah between Joram and Uzziah (1 Chr 3:11–12), and Jehoiakim between Josiah and Jeconiah (1 Chr 3:15–16) <code>[T]</code></td>
+<td><strong>Live</strong> (Chronicles)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>2 Chr 24:20–22</td>
+<td>23:35</td>
+<td>Zechariah son of Jehoiada, stoned “in the court of the house of the LORD”; his last words, “May the LORD see and avenge” (2 Chr 24:22) → “all the righteous blood … will come upon this generation” (23:35–36). <strong>Through the Hebrew only</strong> <code>[S: audit]</code>: Swete and Rahlfs 2 Chr 24:20 name the priest Ἀζαρίαν (“Azariah”), and Luke 11:51 ἐκζητηθήσεται (“it will be required”) follows the Hebrew יִדְרֹשׁ (“he will require”), not the Greek κρινάτω (“let him judge”). If 2 Chr 24 is meant, “from Abel to Zechariah” runs from the Tanak’s first book to its last <code>[I]</code>, but only in the BHS order (Leningrad puts Chronicles first among the Writings; the LXX puts it after Kings). Its best support: Zechariah son of Jehoiada is <strong>not</strong> the last prophet killed in time, since Uriah son of Shemaiah is later (Jer 26:23), so the span reads better by book than by date. Luke has the same pair, so the span belongs to the shared tradition. The patronymic is Zech 1:1’s or Isa 8:2’s (see above)</td>
+<td><strong>Live</strong></td>
+<td>high (2 Chr 24 in view, Hebrew only); low–moderate (the canon-span, order-dependent)</td>
+</tr>
+<tr class="odd">
+<td>2 Chr 36:23</td>
+<td>28:18–20</td>
+<td>The Tanak’s last verse and Matthew’s last three. <strong>Lowered</strong> <code>[S: audit]</code>: Swete’s dative, the closer sources (Dan 7:14 OG; Hag 1:13; 2:4; Gen 28:15) and the dependence on one canonical order. See <em>Canonical Position</em></td>
+<td><strong>Live</strong></td>
+<td>low–moderate</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Outside the Tanak — Swete’s wider canon.</strong> Two echoes are often cited, and both are real in Swete; v0.2 adds a third. They are flagged because they stand outside the Hebrew canon:</p>
+<ul>
+<li><strong>Sir 51:23–27; 6:28 → 11:28–30.</strong> Wisdom calls, ὑπόθετε ὑπὸ ζυγόν (“put your neck under the yoke”), and says εὗρον ἐμαυτῷ πολλὴν ἀνάπαυσιν (“I found much rest for myself”). Jesus says “take my yoke … you will find rest”. Moderate. The Jeremiah row above is the Tanak source of the same words.</li>
+<li><strong>Sus Th 46 → 27:24</strong> <code>[S: audit]</code>. Ἀθῷος ἐγὼ ἀπὸ τοῦ αἵματος ταύτης (“I am innocent of this woman’s blood”), Daniel’s cry at Susanna’s trial, is almost Pilate’s line, ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου (“I am innocent of this blood”). The Tanak has the formula at 2 Sam 3:28 (see Deut 21:6–9). Verbally the closest text of all; unaudited as a source, so held at moderate until the next audit.</li>
+<li><strong>Wis 2:18 → 27:43.</strong> “If the righteous man is God’s son, he will help him and deliver him”. Matthew adds “for he said, ‘I am God’s Son’” to Ps 22:9. Uncertain–moderate.</li>
+</ul>
+<p><strong>Live sources, in summary</strong> <code>[T]</code>. <strong>Isaiah</strong> (about 20 places, named 6 times) is the spine, from 1:23 to 27:57. Next come the <strong>Psalms</strong> (2, 8, 22, 110 and 118, each twice or more), <strong>Deuteronomy</strong> (the temptation, the commandments, divorce, witnesses, blood-guilt, and the last formula) and <strong>Daniel</strong> (7, 9–12, 3, 2, 4; concentrated in 24–26 and the commission). The rest are <strong>Zechariah</strong> (9, 11, 12, 13, 14, 2, and 1:1; concentrated in 21–27), <strong>Exodus</strong> (4:19, 19–24, 34), <strong>Genesis</strong> (from 1:1 to 24:37), <strong>Hosea</strong> (11:1; 6:6 twice), <strong>Jeremiah</strong> (named three times), <strong>Micah</strong>, <strong>Jonah</strong>, <strong>Malachi with Elijah</strong> and <strong>Chronicles</strong> (first and last). A dig finding a new echo of any of these should give it an elevated prior.</p>
+<p><strong>Three concentrations the digs should expect</strong> <code>[I]</code>. <strong>The prologue</strong> (1:1–4:16) packs Genesis, Chronicles and Ruth, Isaiah 7–9, Hosea 11, Jeremiah 31, Micah 5, Exodus 4 and Deuteronomy 6–8 into a hundred verses. <strong>The Jerusalem week</strong> (21–23) turns on Isaiah 5, 56 and 62, Jeremiah 7, Zechariah 9, and Psalms 8, 110 and 118. <strong>The passion</strong> (26–27) is told in Zechariah 11 and 13, Psalms 22, 42–43 and 69, Isaiah 50 and 53, Exodus 24, Deuteronomy 21 and 27, and 2 Samuel 17. Between them, the narrative of 8–11 and 13–18 is carried more by <strong>internal repetition</strong> than by citation, and there Move 4 will do more work than Move 2.</p>
+<hr />
+<h2 id="christological-trajectory">Christological Trajectory</h2>
+<p>Matthew is a Gospel, so Christ is its subject rather than its horizon. The question for the overview is <em>how</em> the book presents him. It does so in four registers.</p>
+<ul>
+<li><strong>Ground — God with us.</strong> The child is named twice. He is Ἰησοῦς (“Jesus”), “for he will save his people from their sins” (1:21), and he is Ἐμμανουήλ … μεθʼ ἡμῶν ὁ θεός (“Immanuel … God with us”, 1:23) <code>[T]</code>. The book never leaves that claim. Where two or three gather in his name, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν (“there I am in their midst”, 18:20). The last line is ἐγὼ μεθʼ ὑμῶν εἰμι (“I am with you”, 28:20) <code>[T]</code>. Along the way he is greater than the temple (12:6), than Jonah and than Solomon (12:41–42). He is David’s κύριος (“Lord”, 22:43–45) and walks on the sea saying ἐγώ εἰμι (“I am”, 14:27) <code>[T]</code>. And he receives προσκύνησις (“worship”), never refusing it, after he has told the devil that only the Lord God is to be worshipped (4:10) <code>[T]</code>. Matthew lets the juxtaposition make the claim. <code>[I]</code>, high.</li>
+<li><strong>Israel’s story, re-lived and completed.</strong> The Son goes down to Egypt and is called out (2:15, Hosea’s “my son”), and is recalled as Moses was, “for those who sought the child’s life are dead” (2:20; Exod 4:19, with Exod 2:15 behind 2:13–14) <code>[S: audit]</code>. He passes through the waters (3:13–17) and is tested forty days and forty nights in the wilderness, answering from Deuteronomy each time (4:1–11). He goes up the mountain (5:1), in the words Swete uses only of Moses at Sinai (moderate <code>[S: audit]</code>), and gives Torah with ἐγὼ δὲ λέγω ὑμῖν (“but I say to you”, six times in 5:21–48) <code>[T]</code>. The pattern is <strong>typological</strong>: Matthew’s “fulfilment” includes the fulfilment of a history (Hos 11:1), not only of predictions <code>[T]</code> for the citation’s own context, <code>[I]</code> for the method. Moses and Elijah appear with him and then vanish, leaving αὐτὸν Ἰησοῦν μόνον (“Jesus himself alone”, 17:8) <code>[T]</code>.</li>
+<li><strong>The suffering King and Servant.</strong> He is Son of David (8 times of Jesus: 1:1; 9:27; 12:23; 15:22; 20:30, 31; 21:9, 15) and “King of the Jews” from his birth (2:2) to his cross (27:37) <code>[T]</code>. Twice the Voice calls him “my beloved Son, in whom I am well pleased” (3:17; 17:5). The narrator puts the same words on Isaiah’s Servant (12:18) <code>[T]</code>. The Servant “took our weaknesses” by healing (8:17) and gives his life λύτρον ἀντὶ πολλῶν (“a ransom for many”, 20:28; Mark 10:45 verbatim). His blood of the covenant is poured out περὶ πολλῶν εἰς ἄφεσιν ἁμαρτιῶν (“for many, for the forgiveness of sins”, 26:28) <code>[T]</code>. That answers the name of 1:21 (see the Echo Table). Isa 53’s “many” is one strand in these two sayings, woven with Exod 24:8, the sin-offering and Dan 9:27, not their single source <code>[S: audit]</code>. The Son of Man must suffer (16:21), and the same Son of Man is the one who comes on the clouds (24:30; 26:64). In the end he is given “all authority in heaven and on earth” (28:18), in the wording of the Old Greek of Dan 7:14 <code>[T]</code>.</li>
+<li><strong>Pattern.</strong> “Take up his cross and follow me” (16:24). “It is enough for the disciple to be like his teacher” (10:25). “Whoever would be great among you must be your servant … just as the Son of Man came … to serve” (20:26–28) <code>[T]</code>. The pattern is made visible in two places where Jesus does what he taught <code>[T]</code>. He told disciples that if anyone ῥαπίζει (“slaps”) them, they should turn the other cheek (5:39), and before the council they ἐράπισαν (“slapped”) him and he did not answer (26:63, 67). He taught disciples to pray “your will be done” (6:10), and in Gethsemane he prays γενηθήτω τὸ θέλημά σου (“your will be done”, 26:42). ῥαπίζω (“to slap”) occurs only at 5:39 and 26:67, and γενηθήτω τὸ θέλημά σου (“your will be done”) only at 6:10 and 26:42 <code>[T]</code>.</li>
+</ul>
+<p><strong>Son of God — and who says it.</strong> God says it (3:17; 17:5). The devil says it as a condition: εἰ υἱὸς εἶ τοῦ θεοῦ (“if you are the Son of God”, 4:3, 6). Demons say it (8:29). <strong>The disciples say it in the boat</strong>, and worship him: ἀληθῶς θεοῦ υἱὸς εἶ (“truly you are God’s Son”, 14:33). Peter says it (16:16). The high priest asks it under oath (26:63). The mockers say the devil’s condition again, εἰ υἱὸς εἶ τοῦ θεοῦ (“if you are the Son of God”, 27:40), and quote his claim (27:43). The centurion and those with him say ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (“truly this was God’s Son”, 27:54) <code>[T]</code>. Unlike Mark, where the disciples’ hearts are “hardened” after the sea-walk (Mark 6:52), Matthew’s disciples confess before the cross <code>[T]</code>. The confession at the cross is then not the first but the <strong>echo</strong> of the confession in the boat: ἀληθῶς θεοῦ υἱός (“truly God’s Son”) occurs only at 14:33 and 27:54 <code>[T]</code>.</p>
+<p><strong>Moralism check.</strong> Matthew invites three forms of moralism.</p>
+<ul>
+<li><strong>“Be more righteous than the Pharisees.”</strong> This preaches 5:20 as a moral target. It fails because the Sermon begins with blessing, not demand: μακάριοι οἱ πτωχοὶ τῷ πνεύματι (“blessed are the poor in spirit”, 5:3), “for theirs <strong>is</strong> the kingdom”. And the one who “fulfils all righteousness” is Jesus (3:15) before anyone else is asked for it <code>[T]</code>.</li>
+<li><strong>“Have enough faith”</strong> (Peter on the water, 14:28–31). This fails because Matthew’s word for the disciples is ὀλιγόπιστοι (“of little faith”): four times, with ὀλιγοπιστία (“littleness of faith”) once more at 17:20. Each time Jesus acts for them anyway: he stills the storm, he catches Peter, he explains the bread (8:26; 14:31; 16:8–10) <code>[T]</code>. The last scene says οἱ δὲ ἐδίστασαν (“but some doubted”, 28:17), and he still commissions them all <code>[T]</code>.</li>
+<li><strong>“Be like the magi / the centurion / the Canaanite woman.”</strong> This fails because each is a recipient before they are an example, and Matthew’s last word is not their faith but his authority and presence (28:18, 20) <code>[T]</code>.</li>
+</ul>
+<p>The order of the book’s imperatives is the corrective. Blessing comes before the demand (5:3–12 before 5:13–48). Rest comes before the yoke: δεῦτε πρός με … κἀγὼ ἀναπαύσω ὑμᾶς (“come to me … and I will give you rest”, 11:28, before 11:29). Authority comes before the commission (28:18 before 28:19), and presence after it (28:20) <code>[T]</code> for the order, <code>[I]</code> for the reading. Christ is hero, not merely example.</p>
+<hr />
+<h2 id="preaching-traps">Preaching Traps</h2>
+<ol type="1">
+<li><p><strong>The Sermon on the Mount as either a new law or an impossible one.</strong> One version preaches 5–7 as rules for a better life; the other as a standard set only to drive hearers to despair. <em>Bites at:</em> 5:17–48, especially 5:20 and 5:48; 7:13–27. <em>Why it is wrong:</em> the Sermon is addressed to the blessed (5:3–12), and it ends by demanding not perfection but <strong>hearing and doing</strong> (7:24–27). Its τέλειοι (“perfect, complete”, 5:48) is the Father’s undivided love for enemies (5:43–47), and the same word comes again only once, at 19:21 <code>[T]</code>. <em>Corrective:</em> preach it as the righteousness of the kingdom given to disciples, which Jesus “fulfils” (3:15; 5:17) and which the disciples are later sent to teach the nations to keep (28:20). The Sermon’s own last image (7:24) and the commission’s last command (28:20) are the same act.</p></li>
+<li><p><strong>The formula quotations as proof-texts of prediction.</strong> This preaches “Jesus fulfilled 300 prophecies” and treats 2:15, 2:18 and 2:23 as forecasts. <em>Bites at:</em> 1:22–2:23; 8:17; 12:17–21; 13:35; 21:4–5; 27:9–10. <em>Why it is wrong:</em> Hos 11:1 looks back on the exodus. Jer 31:15 mourns the exile. “Nazarene” is “through the prophets” in general (2:23). Ps 78:2 is a psalm of Asaph that Matthew calls “the prophet” <code>[T]</code>. Matthew’s πληρόω (“to fulfil”) includes the completing of a pattern and the filling-full of a story <code>[I]</code>. <em>Corrective:</em> preach each citation in its own context first, then show what Matthew sees completed. Expect the pattern of Israel’s history, the exodus and the exile, more often than a forecast. And note where Matthew reads the Hebrew (see the Intertextual Map): the point of 2:15 depends on it.</p></li>
+<li><p><strong>27:25 and chapter 23 turned against “the Jews”.</strong> This preaches “his blood be on us and on our children” as a curse on a people, and the woes as an ethnic charge. <em>Bites at:</em> 21:43; 23:1–39; 27:24–25; 28:15. <em>Why it is wrong:</em> the speaker is πᾶς ὁ λαός (“all the people”) in a Jerusalem crowd persuaded by the chief priests (27:20) <code>[T]</code>. The book’s first promise is that Jesus “will save <strong>his people</strong> (τὸν λαὸν αὐτοῦ) from their sins” (1:21). The blood they call down is the blood “poured out for many for the forgiveness of sins” (26:28) <code>[T]</code>. Matthew’s narrator, his disciples and his Messiah are Jews, and the woes are addressed to “scribes and Pharisees, hypocrites”, which is a charge any religious reader can earn <code>[T]</code>/<code>[I]</code>. The Torah behind the scene cuts the same way <code>[S: audit]</code>: in Deut 21:6–9 the elders wash and pray that innocent blood may <em>not</em> lie on the people, and in Deut 27:25 “all the people” say Amen to a curse on the bribe for innocent blood (compare Judas’ silver). Matthew’s scene inverts a rite of release; it does not pronounce a verdict on a race <code>[I]</code>. <em>Corrective:</em> preach 27:25 with 1:21 and 26:28, the irony that the text itself sets up. Name the historic misuse from the pulpit, and aim the woes where Matthew aims them, at religion that “says and does not do” (23:3). <strong>A pastoral landmine.</strong></p></li>
+<li><p><strong>Matthew 24 as a timetable, and “one taken, one left” as rapture.</strong> <em>Bites at:</em> 24:3–44, especially 24:15, 24:29–31, 24:34 and 24:40–41. <em>Why it is wrong:</em> the discourse turns on βλέπετε μή τις ὑμᾶς πλανήσῃ (“see that no one leads you astray”, 24:4) and γρηγορεῖτε (“keep awake”, 24:42; 25:13). “Of that day and hour no one knows, not even … the Son” (24:36) <code>[T]</code>. In the Noah analogy that governs 24:40–41, those “taken” are the ones the flood ἦρεν ἅπαντας (“took away, all of them”, 24:39) <code>[T]</code>. <em>Corrective:</em> preach 24–25 as the call to watchfulness and faithful service, and read 24:40–41 by 24:37–39.</p></li>
+<li><p><strong>16:18 as a confessional battleground, or skipped to avoid one.</strong> <em>Bites at:</em> 16:13–20; 18:15–20. <em>Why it is wrong:</em> both the Petrine-office reading and the “confession, not Peter” reading drop the book’s own thread. πέτρα (“rock”) is first the foundation of the house of the one who hears and does (7:24–25). The keys given to Peter (16:19) are given in the same words to the assembly (18:18). And the next scene calls Peter σκάνδαλον (“a stumbling-block”, 16:23) <code>[T]</code>. <em>Corrective:</em> preach the confession, the person and the gift together, as Matthew does, and let 18:18 interpret 16:19.</p></li>
+<li><p><strong>The Great Commission as “Go”.</strong> This makes πορευθέντες (“having gone, go”) the point, as a mandate for foreign travel. <em>Bites at:</em> 28:16–20. <em>Why it is wrong:</em> the only imperative is μαθητεύσατε (“make disciples”). πορευθέντες (“going”), βαπτίζοντες (“baptising”) and διδάσκοντες (“teaching”) are participles <code>[T]</code>. The grammar can be over-pressed both ways, since an aorist participle before an imperative often shares its force <code>[S]</code>. But the command is grounded in the authority of 28:18 (οὖν, “therefore”) and sustained by the presence of 28:20 <code>[T]</code>. <em>Corrective:</em> preach the authority, the discipling, the teaching “to keep all that I commanded” (which points back to the five discourses) and the presence, together.</p></li>
+<li><p><strong>25:31–46 as either pure social ethics or pure missions.</strong> <em>Bites at:</em> 25:31–46; 10:40–42; 18:5–6. <em>Why it is wrong:</em> the question who “these least of my brothers” are is contested <code>[S]</code>. The text supplies data both ways. Jesus calls his disciples ἀδελφοί μου (“my brothers”, 12:49–50; 28:10), and the “little ones” who receive a cup of water in his name are disciples (10:42) <code>[T]</code>. Yet the judged are πάντα τὰ ἔθνη (“all the nations”), and both groups are surprised (25:37, 44) <code>[T]</code>. <em>Corrective:</em> present the options honestly. Do not build a programme on one of them.</p></li>
+</ol>
+<hr />
+<h2 id="earlylate-echo-table">Early↔︎Late Echo Table</h2>
+<p>Openings are the densest planting ground. Matthew’s first four chapters name almost every title, place, power and party the book will use. Every lexical claim below was checked by lemma in the SBLGNT index and in the NA28 wording, and the counts are those editions’ (1,068 verses).</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Early</th>
+<th>Later</th>
+<th>Relationship</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:23 Ἐμμανουήλ … μεθʼ ἡμῶν ὁ θεός (“Immanuel … God with us”)</td>
+<td>17:17 ἕως πότε μεθʼ ὑμῶν ἔσομαι; (“how long shall I be with you?”); 18:20 ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν (“there I am among them”); 26:29 μεθʼ ὑμῶν (“with you”); 28:20 ἐγὼ μεθʼ ὑμῶν εἰμι (“I am with you”)</td>
+<td><strong>Frames.</strong> μεθʼ ἡμῶν / ὑμῶν (“with us / you”) occurs only at these four places. The presence that strains under unbelief (17:17) is promised without end (28:20)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>1:21 σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν (“he will save his people from their sins”)</td>
+<td>26:28 εἰς ἄφεσιν ἁμαρτιῶν (“for the forgiveness of sins”); 27:25 πᾶς ὁ λαός … τὸ αἷμα αὐτοῦ (“all the people … his blood”); 27:40, 42 σῶσον σεαυτόν … ἑαυτὸν οὐ δύναται σῶσαι (“save yourself … he cannot save himself”)</td>
+<td><strong>Resolves, with irony.</strong> ἄφεσις (“forgiveness”) occurs only at 26:28. The name is explained at the table. “His people” call down the blood that saves, and the mockers say he cannot save himself, which is how he saves others</td>
+<td>high (verbal); moderate–high (reading)</td>
+</tr>
+<tr class="odd">
+<td>1:1 υἱοῦ Ἀβραάμ (“son of Abraham”)</td>
+<td>8:11 “many from east and west will recline with Abraham”; 28:19 πάντα τὰ ἔθνη (“all the nations”)</td>
+<td><strong>Resolves.</strong> Abraham’s son ends by sending to the nations promised to Abraham’s seed</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>1:1, 20 υἱοῦ / υἱὸς Δαυίδ (“son of David”: Jesus, then Joseph)</td>
+<td>9:27; 12:23; 15:22; 20:30, 31; 21:9, 15: the blind, a crowd, a Canaanite woman, children; 22:41–45 David’s Lord</td>
+<td><strong>Replants.</strong> The royal title is cried by the marginal, mostly in pleas for mercy, and then reframed as a riddle the Pharisees cannot answer</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>1:19 Ἰωσὴφ … δίκαιος (“Joseph … righteous”)</td>
+<td>27:19 τῷ δικαίῳ ἐκείνῳ (“that righteous man”); 27:57–59 Ἰωσήφ (“Joseph”) of Arimathea buries him</td>
+<td><strong>Frames.</strong> A righteous Joseph receives him at his birth, and a Joseph lays him in the tomb. Ἰωσήφ (“Joseph”) is used of the husband (1:16–2:19) and of the man from Arimathea (27:57, 59); the other two uses are a brother (13:55) and a son of the other Mary (27:56). <strong>Unadvertised</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>1:20; 2:12, 13, 19, 22 κατʼ ὄναρ (“in a dream”)</td>
+<td>27:19 Pilate’s wife suffers κατʼ ὄναρ (“in a dream”)</td>
+<td><strong>Frames.</strong> ὄναρ (“dream”) occurs only at these six places. Five dreams guard the child at the beginning. The sixth, and last, is a Gentile woman’s, and it calls him “righteous”</td>
+<td>high (verbal); moderate (reading)</td>
+</tr>
+<tr class="odd">
+<td>2:2 ὁ τεχθεὶς βασιλεὺς τῶν Ἰουδαίων (“the one born King of the Jews”), asked by Gentile magi</td>
+<td>27:11, 29, 37: Pilate, the soldiers, the charge over the cross; 27:42 βασιλεὺς Ἰσραήλ (“King of Israel”), from the chief priests</td>
+<td><strong>Frames.</strong> “King of the Jews” is spoken only by Gentiles: magi at the birth, Romans at the death. His own leaders say “King of Israel”</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>2:3–4 ἐταράχθη καὶ πᾶσα Ἱεροσόλυμα (“he was troubled, and all Jerusalem”); συναγαγὼν πάντας τοὺς ἀρχιερεῖς καὶ γραμματεῖς (“gathering all the chief priests and scribes”)</td>
+<td>21:10 ἐσείσθη πᾶσα ἡ πόλις (“the whole city was shaken”); 26:3, 57; 27:62; 28:12 συνήχθησαν (“they gathered”)</td>
+<td><strong>Replants.</strong> The city troubled at the birth is shaken at the entry. The chief priests and scribes who knew where the Christ would be born (2:5–6) gather again to plot, to try, to seal the tomb and to bribe the guard</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>2:13 ζητεῖν τὸ παιδίον τοῦ ἀπολέσαι αὐτό (“to seek the child, to destroy him”); 2:16 Herod ἐνεπαίχθη (“was mocked”)</td>
+<td>12:14 ὅπως αὐτὸν ἀπολέσωσιν (“how they might destroy him”); 27:20 τὸν δὲ Ἰησοῦν ἀπολέσωσιν (“but destroy Jesus”); 20:19; 27:29, 31, 41 ἐμπαίζω (“to mock”)</td>
+<td><strong>Rehearses and reverses.</strong> ἀπόλλυμι (“to destroy”) with Jesus as object occurs only at 2:13, 12:14 and 27:20. Herod “was mocked” by the magi; at the end the mockers mock Jesus. ἐμπαίζω (“to mock”) occurs only at these five places</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>2:9 ὁ ἀστὴρ … προῆγεν αὐτούς (“the star went ahead of them”)</td>
+<td>26:32 προάξω ὑμᾶς εἰς τὴν Γαλιλαίαν (“I will go ahead of you into Galilee”); 28:7 προάγει ὑμᾶς (“he is going ahead of you”)</td>
+<td><strong>Replants.</strong> The star that led the Gentiles to the child gives way to the risen Lord who leads the disciples to the mountain</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>2:10 ἐχάρησαν χαρὰν μεγάλην σφόδρα (“they rejoiced with exceedingly great joy”)</td>
+<td>28:8 μετὰ φόβου καὶ χαρᾶς μεγάλης (“with fear and great joy”)</td>
+<td><strong>Frames.</strong> χαρὰ μεγάλη (“great joy”) occurs only at 2:10 and 28:8: joy at the child found, joy at the tomb found empty</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>2:22–23 the withdrawal to Galilee; 4:15 Γαλιλαία τῶν ἐθνῶν (“Galilee of the nations”)</td>
+<td>28:7, 10, 16 Galilee; 28:19 πάντα τὰ ἔθνη (“all the nations”)</td>
+<td><strong>Resolves.</strong> The ministry begins in “Galilee of the nations” and the commission is given in Galilee, to the nations</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>3:11 βαπτίσει ἐν πνεύματι ἁγίῳ (“he will baptise with the Holy Spirit”); 1:18, 20 ἐκ πνεύματος ἁγίου (“from the Holy Spirit”)</td>
+<td>28:19 βαπτίζοντες … τοῦ ἁγίου πνεύματος (“baptising … of the Holy Spirit”)</td>
+<td><strong>Frames.</strong> βαπτίζω (“to baptise”) occurs only in chapter 3 and at 28:19. The name of Father, Son and Spirit, first spoken over the baptised Son (3:16–17), is the name the nations are baptised into</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>3:15 πληρῶσαι πᾶσαν δικαιοσύνην (“to fulfil all righteousness”)</td>
+<td>5:17 πληρῶσαι (“to fulfil”); 5:20 ἡ δικαιοσύνη (“your righteousness”); 21:32 John came ἐν ὁδῷ δικαιοσύνης (“in the way of righteousness”)</td>
+<td><strong>Replants.</strong> The first words Jesus speaks in Matthew become the programme of the Sermon</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>3:17 οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα (“this is my beloved Son, in whom I am well pleased”)</td>
+<td>12:18 the Servant, ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν (“my beloved, in whom [my soul] is well pleased”); 17:5 the same words as 3:17, + ἀκούετε αὐτοῦ (“hear him”)</td>
+<td><strong>Replants.</strong> ἀγαπητός (“beloved”) and εὐδοκέω (“to be well pleased”) occur only at these three places. The narrator puts the Father’s words into Isaiah’s Servant song</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>4:3, 6 εἰ υἱὸς εἶ τοῦ θεοῦ (“if you are the Son of God”)</td>
+<td>27:40 εἰ υἱὸς εἶ τοῦ θεοῦ, κατάβηθι (“if you are the Son of God, come down”); 27:43</td>
+<td><strong>Reverses.</strong> The tempter’s condition, found only at these three places, is spoken again by passers-by at the cross. The testing is resumed and passed</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>4:5 εἰς τὴν ἁγίαν πόλιν (“into the holy city”), taken by the devil</td>
+<td>27:53 the raised saints εἰσῆλθον εἰς τὴν ἁγίαν πόλιν (“entered the holy city”)</td>
+<td><strong>Answers.</strong> ἁγία πόλις (“holy city”) occurs only at these two places. <strong>Unadvertised</strong></td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>4:8–9 εἰς ὄρος ὑψηλόν … πάσας τὰς βασιλείας τοῦ κόσμου … δώσω … ἐὰν … προσκυνήσῃς (“to a high mountain … all the kingdoms of the world … I will give … if you will worship”)</td>
+<td>28:16–18 εἰς τὸ ὄρος (“to the mountain”) … προσεκύνησαν (“they worshipped”) … ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς (“all authority in heaven and on earth has been given to me”)</td>
+<td><strong>Answers.</strong> What was refused from the devil is given by the Father, and it is greater: heaven as well as earth. The worship demanded on the first mountain is given to Jesus on the last</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>4:10 ὕπαγε, σατανᾶ (“go, Satan”)</td>
+<td>16:23 ὕπαγε ὀπίσω μου, σατανᾶ (“get behind me, Satan”), to Peter</td>
+<td><strong>Replants.</strong> Σατανᾶς (“Satan”) occurs at 4:10, 12:26 and 16:23. Peter’s rebuke of the cross is the wilderness temptation again</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>4:19 δεῦτε ὀπίσω μου (“come behind me”); 4:20, 22 ἀφέντες … ἠκολούθησαν (“leaving … they followed”)</td>
+<td>16:24 ὀπίσω μου ἐλθεῖν (“to come behind me”); 26:56 οἱ μαθηταὶ πάντες ἀφέντες αὐτὸν ἔφυγον (“all the disciples left him and fled”)</td>
+<td><strong>Reverses.</strong> The first call is undone in its own words: ἀφέντες (“leaving”) now has Jesus as its object</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>4:23 = 9:35 διδάσκων … κηρύσσων … θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν (“teaching … proclaiming … healing every disease and every sickness”)</td>
+<td>10:1 the Twelve given authority θεραπεύειν πᾶσαν νόσον καὶ πᾶσαν μαλακίαν (“to heal every disease and every sickness”); 28:20 διδάσκοντες (“teaching”)</td>
+<td><strong>Replants.</strong> μαλακία (“sickness”) occurs only at 4:23, 9:35 and 10:1. Jesus’ ministry, framed twice, is handed on to the Twelve, and last of all his <strong>teaching</strong> is handed on to the nations</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>5:1 ἀνέβη εἰς τὸ ὄρος (“he went up into the mountain”) … ἐδίδασκεν (“he was teaching”); 7:28–29 ὡς ἐξουσίαν ἔχων (“as one having authority”)</td>
+<td>28:16–20 τὸ ὄρος (“the mountain”) … ἐξουσία (“authority”) … διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν (“teaching them to keep all that I commanded you”)</td>
+<td><strong>Frames.</strong> The authority of the teacher on the first mountain of teaching is the authority of the risen Lord on the last. What he taught there is what the nations are to be taught</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>5:19 ποιήσῃ καὶ διδάξῃ (“does and teaches”); 7:24 ἀκούει … καὶ ποιεῖ (“hears … and does”)</td>
+<td>23:3 ποιήσατε καὶ τηρεῖτε … λέγουσιν γὰρ καὶ οὐ ποιοῦσιν (“do and keep … for they say and do not do”); 28:20 τηρεῖν (“to keep”)</td>
+<td><strong>Replants.</strong> Doing and teaching are the measure of greatness in the kingdom and the charge against the scribes, and they become the commission</td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>5:39 ῥαπίζει (“slaps”); 5:41 ἀγγαρεύσει (“compels [you] to carry”)</td>
+<td>26:67 ἐράπισαν (“they slapped him”); 27:32 ἠγγάρευσαν (“they compelled”) Simon to carry his cross</td>
+<td><strong>Enacts.</strong> ῥαπίζω (“to slap”) and ἀγγαρεύω (“to compel to carry”) each occur only at these two places. The Sermon’s examples of non-retaliation happen in the passion: to Jesus, who does not resist, and to a passer-by, who carries the cross. <strong>Unadvertised in English</strong>. <strong>v0.2 candidate</strong> <code>[S: audit]</code>: ῥαπ- (“slap”) with σιαγών (“cheek”) occurs in Swete only at Isa 50:6 and Hos 11:4, so both ends may stand under the Servant’s “I gave my cheeks to slaps” (unaudited)</td>
+<td>high (verbal); moderate (reading)</td>
+</tr>
+<tr class="odd">
+<td>6:10 γενηθήτω τὸ θέλημά σου (“your will be done”); 6:13 μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν (“do not lead us into temptation”)</td>
+<td>26:42 γενηθήτω τὸ θέλημά σου (“your will be done”); 26:41 ἵνα μὴ εἰσέλθητε εἰς πειρασμόν (“that you may not enter into temptation”)</td>
+<td><strong>Enacts.</strong> Both phrases occur only in the Lord’s Prayer and in Gethsemane. Jesus prays his own prayer, and the disciples, told to pray it, sleep</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>7:21–23 κύριε κύριε (“Lord, Lord”) … οὐδέποτε ἔγνων ὑμᾶς (“I never knew you”)</td>
+<td>25:11–12 κύριε κύριε … οὐκ οἶδα ὑμᾶς (“Lord, Lord … I do not know you”)</td>
+<td><strong>Replants.</strong> κύριε κύριε (“Lord, Lord”) occurs only at 7:21, 7:22 and 25:11. The Sermon’s last warning is the bridegroom’s last word</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>7:24–25 ἐπὶ τὴν πέτραν (“on the rock”)</td>
+<td>16:18 ἐπὶ ταύτῃ τῇ πέτρᾳ (“on this rock”); 27:51 αἱ πέτραι ἐσχίσθησαν (“the rocks were split”); 27:60 a tomb hewn ἐν τῇ πέτρᾳ (“in the rock”)</td>
+<td><strong>Replants.</strong> πέτρα (“rock”) occurs only at these five places. The house is built on the rock, and so is the church. At his death the rocks split, and his tomb is cut in the rock</td>
+<td>moderate</td>
+</tr>
+<tr class="even">
+<td>8:24 σεισμὸς μέγας (“a great shaking”), the storm; 8:26 ὀλιγόπιστοι (“you of little faith”)</td>
+<td>27:51, 54 ἐσείσθη … τὸν σεισμόν (“was shaken … the earthquake”); 28:2 σεισμὸς … μέγας (“a great earthquake”); 28:4 ἐσείσθησαν (“they shook”)</td>
+<td><strong>Frames.</strong> The word for the storm is the word for the earthquakes at the cross and the tomb. σεισμός (“shaking, earthquake”) occurs at 8:24, 24:7, 27:54 and 28:2. <strong>Unadvertised in English</strong> (“storm” / “earthquake”)</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>14:31 ὀλιγόπιστε, εἰς τί ἐδίστασας; (“you of little faith, why did you doubt?”)</td>
+<td>28:17 οἱ δὲ ἐδίστασαν (“but some doubted”)</td>
+<td><strong>Resolves.</strong> διστάζω (“to doubt”) occurs only at these two places. Peter’s doubt on the water becomes the disciples’ doubt on the mountain, and both times Jesus comes to them (14:31; 28:18)</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>14:33 ἀληθῶς θεοῦ υἱὸς εἶ (“truly you are God’s Son”)</td>
+<td>27:54 ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (“truly this was God’s Son”)</td>
+<td><strong>Frames.</strong> The phrase occurs only at these two places: disciples in the boat after a sea-storm, then Gentile soldiers at the cross after an earthquake</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>9:36 ὡσεὶ πρόβατα μὴ ἔχοντα ποιμένα (“like sheep without a shepherd”); 10:6; 15:24 τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ (“the lost sheep of the house of Israel”); 2:6 ποιμανεῖ (“will shepherd”)</td>
+<td>25:32 ὁ ποιμήν (“the shepherd”) separating sheep from goats; 26:31 πατάξω τὸν ποιμένα (“I will strike the shepherd”)</td>
+<td><strong>Resolves.</strong> ποιμήν (“shepherd”) occurs only at 9:36, 25:32 and 26:31. The shepherd of the shepherdless is struck, and is the judge of the nations</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>10:5–6 εἰς ὁδὸν ἐθνῶν μὴ ἀπέλθητε (“do not go on the way of the nations”); 15:24</td>
+<td>28:19 μαθητεύσατε πάντα τὰ ἔθνη (“make disciples of all the nations”)</td>
+<td><strong>Resolves.</strong> The restriction is lifted by the risen Lord, in the same word, ἔθνη (“nations”)</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>10:22 ὁ δὲ ὑπομείνας εἰς τέλος οὗτος σωθήσεται (“the one who endures to the end will be saved”)</td>
+<td>24:13, the same words</td>
+<td><strong>Replants.</strong> ὑπομένω (“to endure”) occurs only at these two places. The mission discourse and the last discourse share their promise</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>10:32–33 ὅστις δʼ ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων (“whoever denies me before men”)</td>
+<td>26:70, 72 ἠρνήσατο ἔμπροσθεν πάντων … μετὰ ὅρκου (“he denied before them all … with an oath”)</td>
+<td><strong>Enacts.</strong> ἀρνέομαι (“to deny”) occurs only at 10:33, 26:70 and 26:72. Peter does the very thing 10:33 warns of, ἔμπροσθεν (“before”) all, and with the oath forbidden at 5:33–37</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>10:38; 16:24 λαμβάνει / ἀράτω τὸν σταυρὸν αὐτοῦ (“takes / let him take up his cross”)</td>
+<td>27:32 Simon of Cyrene, ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ (“to carry his cross”)</td>
+<td><strong>Answers.</strong> αἴρω τὸν σταυρόν (“to take up the cross”) occurs only at 16:24 and 27:32. The one who carries the cross behind Jesus is not a disciple but a man pressed into service</td>
+<td>high (verbal); moderate (reading)</td>
+</tr>
+<tr class="even">
+<td>11:29 πραΰς (“meek, gentle”); 5:5 οἱ πραεῖς (“the meek”)</td>
+<td>21:5 ὁ βασιλεύς σου … πραΰς (“your King … meek”)</td>
+<td><strong>Replants.</strong> πραΰς (“meek”) occurs only at these three places. The meek who inherit the earth follow the meek teacher, who enters as the meek King</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>12:14 συμβούλιον ἔλαβον … ὅπως αὐτὸν ἀπολέσωσιν (“they took counsel … how to destroy him”)</td>
+<td>22:15; 27:1, 7; 28:12 συμβούλιον λαβόντες (“having taken counsel”)</td>
+<td><strong>Resolves.</strong> The phrase occurs only at these five places, from the first plot to the bribe that buries the resurrection</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>12:39–40 the sign of Jonah, τρεῖς ἡμέρας καὶ τρεῖς νύκτας (“three days and three nights”); 16:4</td>
+<td>27:63–64 μετὰ τρεῖς ἡμέρας ἐγείρομαι (“after three days I will rise”), the opponents quoting him; 28:6 ἠγέρθη γὰρ καθὼς εἶπεν (“for he has risen, as he said”)</td>
+<td><strong>Resolves.</strong> The only sign promised to “this generation” is given, and his opponents are the ones who remembered the promise</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>12:45 γίνεται τὰ ἔσχατα … χείρονα τῶν πρώτων (“the last state becomes worse than the first”)</td>
+<td>27:64 ἔσται ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης (“the last deception will be worse than the first”)</td>
+<td><strong>Reverses.</strong> The chief priests use Jesus’ own verdict on “this evil generation” against him. χείρων (“worse”) occurs at 9:16, 12:45 and 27:64. <strong>Unadvertised</strong></td>
+<td>moderate–high</td>
+</tr>
+<tr class="even">
+<td>13:39–40, 49 συντέλεια (τοῦ) αἰῶνος (“the end of the age”), the harvest</td>
+<td>24:3 the disciples’ question; 28:20 ἕως τῆς συντελείας τοῦ αἰῶνος (“to the end of the age”)</td>
+<td><strong>Resolves.</strong> The phrase occurs only at these five places, and in the New Testament συντέλεια (“end, consummation”) occurs elsewhere only at Heb 9:26 (τῶν αἰώνων, “of the ages”). The age that ends in judgement in the parables is the age through which Jesus is present</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>13:52 γραμματεὺς μαθητευθείς (“a scribe made a disciple”)</td>
+<td>27:57 Joseph ἐμαθητεύθη (“had been made a disciple”); 28:19 μαθητεύσατε (“make disciples”)</td>
+<td><strong>Resolves.</strong> μαθητεύω (“to make a disciple”) occurs only at these three places, and nowhere else in the Gospels</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>16:16 ὁ υἱὸς τοῦ θεοῦ τοῦ ζῶντος (“the Son of the living God”), Peter’s confession</td>
+<td>26:63 κατὰ τοῦ θεοῦ τοῦ ζῶντος … ὁ υἱὸς τοῦ θεοῦ (“by the living God … the Son of God”), the high priest’s oath; 26:69–75 Peter’s denials</td>
+<td><strong>Reverses.</strong> θεοῦ τοῦ ζῶντος (“of the living God”) occurs only at 16:16 and 26:63. Peter’s confession becomes the high priest’s question, asked while Peter is denying him in the courtyard</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>16:21; 17:23; 20:19 τῇ τρίτῃ ἡμέρᾳ ἐγερθῆναι / ἐγερθήσεται (“on the third day be raised / he will be raised”)</td>
+<td>26:32; 28:6–7 ἠγέρθη … καθὼς εἶπεν (“he has been raised … as he said”)</td>
+<td><strong>Resolves.</strong> The three predictions are fulfilled “as he said”</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>17:2 ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος (“his face shone like the sun”); 13:43 the righteous ἐκλάμψουσιν ὡς ὁ ἥλιος (“will shine out like the sun”; Rahlfs Theodotion Dan 12:3 <code>[S: audit]</code>)</td>
+<td>28:3 the angel ὡς ἀστραπὴ … λευκὸν ὡς χιών (“like lightning … white as snow”)</td>
+<td><strong>Replants.</strong> The glory of the righteous is first seen on Jesus; the tomb’s messenger shares it</td>
+<td>moderate</td>
+</tr>
+<tr class="odd">
+<td>17:6–7 the disciples ἔπεσαν … ἐφοβήθησαν (“fell … were afraid”); καὶ προσῆλθεν ὁ Ἰησοῦς … μὴ φοβεῖσθε (“and Jesus came to them … do not be afraid”)</td>
+<td>28:10 μὴ φοβεῖσθε (“do not be afraid”); 28:18 καὶ προσελθὼν ὁ Ἰησοῦς (“and Jesus, coming to them”)</td>
+<td><strong>Frames.</strong> προσέρχομαι (“to come to, approach”) occurs 51 times in Matthew, but <strong>Jesus is its subject only at 17:7 and 28:18</strong>: twice on a mountain, each time to frightened or doubting disciples. Everyone else comes to Jesus; twice he comes to them</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>20:21, 23 εἷς ἐκ δεξιῶν σου καὶ εἷς ἐξ εὐωνύμων (“one at your right and one at your left”)</td>
+<td>27:38 two λῃσταί (“robbers”), εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων (“one at the right and one at the left”); 25:33–34, 41</td>
+<td><strong>Answers.</strong> εὐώνυμος (“left”) occurs only at these five places. The places the mother of James and John asked for are filled by two robbers on crosses</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>20:22 τὸ ποτήριον ὃ ἐγὼ μέλλω πίνειν (“the cup that I am about to drink”)</td>
+<td>26:27–28 the covenant cup; 26:39 παρελθάτω ἀπʼ ἐμοῦ τὸ ποτήριον τοῦτο (“let this cup pass from me”)</td>
+<td><strong>Resolves.</strong> The cup of the request is the cup of the covenant and of Gethsemane</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>20:28 λύτρον ἀντὶ πολλῶν (“a ransom for many”)</td>
+<td>26:28 περὶ πολλῶν … εἰς ἄφεσιν ἁμαρτιῶν (“for many … for the forgiveness of sins”)</td>
+<td><strong>Resolves.</strong> The “many” of the ransom are the “many” of the cup (Isa 53:11–12, one strand with Exod 24:8 and Dan 9:27 <code>[S: audit]</code>). 20:28 is Mark’s wording; the forgiveness clause at 26:28 is Matthew’s</td>
+<td>high</td>
+</tr>
+<tr class="odd">
+<td>21:9 εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου (“blessed is he who comes in the name of the Lord”); 11:3 ὁ ἐρχόμενος (“the one who is coming”)</td>
+<td>23:39 the same words: “you will not see me … until you say …”</td>
+<td><strong>Replants.</strong> The crowd’s cry at the entry becomes the condition of the city’s seeing him again</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>23:35 πᾶν αἷμα δίκαιον … ἐφʼ ὑμᾶς (“all righteous blood … upon you”)</td>
+<td>27:4 αἷμα ἀθῷον (“innocent blood”); 27:6, 8 the price of blood, the Field of Blood; 27:24 ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου (“I am innocent of this blood”); 27:25 τὸ αἷμα αὐτοῦ ἐφʼ ἡμᾶς (“his blood on us”)</td>
+<td><strong>Resolves.</strong> The blood of the righteous comes to a climax in the blood of this righteous man (27:19). ἀθῷος (“innocent”) occurs only at 27:4 and 27:24. Read with 26:28 (see Trap 3). The Torah frame is Deut 21:6–9 and 27:25; Pilate’s words are nearest 2 Sam 3:28 and Sus Th 46 <code>[S: audit]</code></td>
+<td>high (verbal); handle with care (reading)</td>
+</tr>
+<tr class="odd">
+<td>26:15 τριάκοντα ἀργύρια (“thirty pieces of silver”)</td>
+<td>27:3–9 the silver returned, thrown into the ναός (“sanctuary”), and spent on a field; 28:12, 15 ἀργύρια ἱκανά (“a large sum of silver”) paid to the guards</td>
+<td><strong>Frames.</strong> ἀργύριον (“silver”) occurs at 25:18 and 25:27 (the parable), and then only in the passion and the resurrection. Silver buys the betrayal and silver buys the lie</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>26:64 ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου (“you will see the Son of Man”)</td>
+<td>27:4 σὺ ὄψῃ (“you will see [to it]”); 27:24 ὑμεῖς ὄψεσθε (“you will see [to it]”); 28:7 ἐκεῖ αὐτὸν ὄψεσθε (“there you will see him”); 28:10 κἀκεῖ με ὄψονται (“there they will see me”)</td>
+<td><strong>Replants.</strong> The future of ὁράω (“to see”) runs through the end of the book. The priests and Pilate use it to wash their hands, and the risen Lord uses it to promise himself. <strong>Unadvertised in English</strong> (“See to that yourself!”)</td>
+<td>moderate–high</td>
+</tr>
+<tr class="odd">
+<td>26:56 πάντες ἀφέντες αὐτὸν ἔφυγον (“all left him and fled”); 26:70–74 Peter</td>
+<td>28:10 ἀπαγγείλατε τοῖς ἀδελφοῖς μου (“tell my brothers”); 28:16 οἱ δὲ ἕνδεκα (“the eleven”)</td>
+<td><strong>Answers.</strong> Those who fled are called “my brothers” (as in 12:49–50) and are gathered as eleven on the mountain</td>
+<td>high</td>
+</tr>
+<tr class="even">
+<td>27:36, 54; 28:4 τηροῦντες (“keeping watch [over him]”), the guards</td>
+<td>28:20 τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν (“to keep all that I commanded you”)</td>
+<td><strong>Reverses.</strong> τηρέω (“to keep, guard”) occurs only at 19:17, 23:3, 27:36, 27:54, 28:4 and 28:20. Soldiers “kept” his body, and the nations are to “keep” his words</td>
+<td>moderate</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Addressee differentiation.</strong> The opening names distinct parties:</p>
+<ul>
+<li>Abraham and David (1:1);</li>
+<li>four women, Tamar, Rahab, Ruth and “the wife of Uriah” (1:3–6);</li>
+<li>Joseph, “a righteous man” (1:19);</li>
+<li>Gentile magi (2:1);</li>
+<li>King Herod, and “all Jerusalem” (2:3);</li>
+<li>“all the chief priests and scribes of the people” (2:4);</li>
+<li>John, and the Pharisees and Sadducees who come to his baptism (3:7);</li>
+<li>the devil (4:1).</li>
+</ul>
+<p>Most resolve specifically, as follows.</p>
+<ul>
+<li><strong>Abraham</strong> resolves in the nations of 8:11 and 28:19, and in Exod 3:6, “the God of Abraham … of the living” (22:32).</li>
+<li><strong>David</strong> resolves in the cries of the blind and the Canaanite woman, and in “David’s Lord” (22:45).</li>
+<li><strong>The four women</strong> — none of them an Israelite wife of an Israelite, and two of them Canaanite by the narrative of the Tanak (Tamar, Gen 38; Rahab, Josh 2) <code>[T]</code>/<code>[I]</code> — are answered by the Canaanite woman of 15:22. She is called Χαναναία (“Canaanite”) only here in the New Testament <code>[T]</code>. They are answered too by the women at the cross and the tomb, who are the first witnesses (27:55–56, 61; 28:1–10) <code>[T]</code>.</li>
+<li><strong>The magi</strong> are answered by the centurion and those with him (27:54), and by “all the nations” (28:19).</li>
+<li><strong>Herod</strong>, who “was troubled” and “mocked”, is answered by Pilate, who “was greatly amazed” (27:14), and by the soldiers’ mockery.</li>
+<li><strong>The chief priests and scribes</strong>, who know the text of Micah and do not go to Bethlehem (2:4–6), resolve in 28:11–15. They know the facts of the empty tomb and pay to bury them <code>[T]</code>.</li>
+<li><strong>The Pharisees and Sadducees</strong> called γεννήματα ἐχιδνῶν (“brood of vipers”) by John (3:7) are called the same by Jesus (12:34; 23:33). The phrase occurs only at these three places.</li>
+<li><strong>The devil</strong>, refused on the mountain (4:8–10), is answered by the authority given on the mountain (28:18).</li>
+</ul>
+<p>Hold 1:1–4:16 open against 26–28. The book ends on a mountain in Galilee of the nations, with the Son of Abraham and David worshipped, the doubting gathered, and God with them. <code>[I]</code></p>
+<hr />
+<h2 id="where-the-english-hides-the-greek">Where the English Hides the Greek</h2>
+<p>These are not verdicts on the translations. They are places where a reader of the English alone cannot see a thread this overview relies on. The ESV column is the pulpit text you have declared for the series.</p>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ref</th>
+<th>Greek</th>
+<th>NASB95</th>
+<th>ESV (2025 US)</th>
+<th>What is lost</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1; 1:18</td>
+<td>βίβλος γενέσεως (“book of the genesis”); γένεσις (“genesis, birth”)</td>
+<td>“the record of the genealogy”; “the birth”</td>
+<td>“the book of the genealogy”; “the birth”</td>
+<td>That 1:1 is the wording of Gen 2:4 and 5:1, and that 1:18 repeats its noun. The ESV keeps “book”</td>
+</tr>
+<tr class="even">
+<td>1:7–8, 10</td>
+<td>Ἀσάφ, Ἀμώς (NA28)</td>
+<td>“Asa”, “Amon”</td>
+<td>“Asaph”, “Amos”</td>
+<td><strong>The ESV prints the names of a psalmist and a prophet</strong> (NA28’s reading). The congregation will hear them. See <em>The Greek Text</em> §3</td>
+</tr>
+<tr class="odd">
+<td>2:2, 9</td>
+<td>ἐν τῇ ἀνατολῇ (“in the east / at its rising”)</td>
+<td>“in the east”</td>
+<td>“when it rose”</td>
+<td>The ESV breaks the ἀνατολή (“east”) chain (2:1; 8:11; 24:27) but keeps the echo of Num 24:17, ἀνατελεῖ ἄστρον (“a star shall rise”). Both renderings are defensible</td>
+</tr>
+<tr class="even">
+<td>5:39; 26:67</td>
+<td>ῥαπίζω (“to slap”)</td>
+<td>“slaps”; “slapped”</td>
+<td>“slaps”; “slapped”</td>
+<td>Kept by both</td>
+</tr>
+<tr class="odd">
+<td>5:41; 27:32</td>
+<td>ἀγγαρεύω (“to compel to carry”)</td>
+<td>“forces”; “pressed into service”</td>
+<td>“forces”; “compelled”</td>
+<td><strong>Lost by both.</strong> The only two uses of the verb</td>
+</tr>
+<tr class="even">
+<td>6:13</td>
+<td>the doxology</td>
+<td>in [brackets]</td>
+<td>omitted</td>
+<td>The ESV follows NA28. The congregation that says the doxology every week will not hear it read here</td>
+</tr>
+<tr class="odd">
+<td>8:24; 27:54; 28:2</td>
+<td>σεισμός (“shaking, earthquake”)</td>
+<td>“a great storm”; “earthquake”; “earthquake”</td>
+<td>“a great storm”; “earthquake”; “earthquake”</td>
+<td>The storm and the earthquakes are one word (both)</td>
+</tr>
+<tr class="even">
+<td>13:52; 27:57; 28:19</td>
+<td>μαθητεύω (“to make a disciple”)</td>
+<td>“become a disciple”; “become a disciple”; “make disciples”</td>
+<td>“trained for”; “was a disciple”; “make disciples”</td>
+<td>The ESV breaks the chain at 13:52. The NASB95 keeps it</td>
+</tr>
+<tr class="odd">
+<td>14:31; 28:17</td>
+<td>διστάζω (“to doubt”)</td>
+<td>“doubt”; “were doubtful”</td>
+<td>“doubt”; “doubted”</td>
+<td>Kept by the ESV, loosened by the NASB95</td>
+</tr>
+<tr class="even">
+<td>16:18; 11:23</td>
+<td>Πέτρος … πέτρα (“Peter … rock”); πύλαι ᾅδου (“gates of Hades”)</td>
+<td>“Peter … rock”; “gates of Hades”</td>
+<td>“Peter … rock”; “gates of hell”</td>
+<td>The wordplay (both). The ESV’s “hell” at 16:18 hides that ᾅδης (“Hades”) is the word it renders “Hades” at 11:23</td>
+</tr>
+<tr class="odd">
+<td>17:21; 18:11; 23:14</td>
+<td>not in NA28 or SBLGNT</td>
+<td>in [brackets]</td>
+<td>omitted</td>
+<td>The NASB95 shows the verses with their doubt; the ESV’s numbering skips them</td>
+</tr>
+<tr class="even">
+<td>18:22</td>
+<td>ἑβδομηκοντάκις ἑπτά (“seventy times seven”), the wording of Gen 4:24</td>
+<td>“up to seventy times seven”</td>
+<td>“seventy-seven times”</td>
+<td>The ESV gives the Hebrew value of Gen 4:24 (77); the NASB95 keeps the Greek form. Either way, Lamech’s number is the point, and the congregation will hear “seventy-seven” <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>23:35; 27:5, 51</td>
+<td>ναός (“sanctuary”) against ἱερόν (“temple”)</td>
+<td>“temple”; “temple sanctuary”; “temple”</td>
+<td>“sanctuary”; “temple”; “temple”</td>
+<td>Neither version marks the distinction consistently. ναός (“sanctuary”) occurs only at 23:16–21, 23:35, 26:61, 27:5, 27:40 and 27:51</td>
+</tr>
+<tr class="even">
+<td>26:1</td>
+<td>πάντας τοὺς λόγους τούτους (“all these words”)</td>
+<td>“all these words”</td>
+<td>“all these sayings”</td>
+<td>The NASB95 keeps the wording of Moses’ last speech (Deut 31:1 Swete and Rahlfs, with the 𝔔𝔊 reading in BHS; 32:45 Hebrew) <code>[S: audit]</code></td>
+</tr>
+<tr class="odd">
+<td>27:4, 24</td>
+<td>σὺ ὄψῃ / ὑμεῖς ὄψεσθε (“you will see [to it]”)</td>
+<td>“See to that yourself!” / “see to that yourselves”</td>
+<td>“See to it yourself” / “see to it yourselves”</td>
+<td>The chain with 26:64 and 28:7, 10, “you will see” (both)</td>
+</tr>
+<tr class="even">
+<td>27:16–17</td>
+<td>[Ἰησοῦν] Βαραββᾶν (“[Jesus] Barabbas”), bracketed in NA28</td>
+<td>“Barabbas”</td>
+<td>“Barabbas”</td>
+<td>That NA28 seriously considers “Jesus Barabbas or Jesus who is called Christ” (both)</td>
+</tr>
+<tr class="odd">
+<td>27:46</td>
+<td>ηλι ηλι (“Eli, Eli”), Hebrew</td>
+<td>“ELI, ELI”</td>
+<td>“Eli, Eli”</td>
+<td>Kept. Compare Mark’s ἐλωΐ (“Eloi”)</td>
+</tr>
+<tr class="even">
+<td>14:33; 27:54</td>
+<td>ἀληθῶς θεοῦ υἱός (“truly God’s Son”), with no article, at both</td>
+<td>“You are certainly God’s Son!”; “Truly this was the Son of God!”</td>
+<td>“Truly you are the Son of God”; “Truly this was the Son of God!”</td>
+<td><strong>The NASB95 breaks the exact repetition; the ESV keeps it.</strong> Both hide the anarthrous form, which is <code>[S]</code> debated (as at Mark 15:39)</td>
+</tr>
+<tr class="odd">
+<td>22:44</td>
+<td>ὑποκάτω τῶν ποδῶν σου (“under your feet”), NA28</td>
+<td>“beneath Your feet”</td>
+<td>“under your feet”</td>
+<td>That Matthew’s wording here is Ps 8:7’s, not Ps 110:1’s “footstool” (both keep the Greek; readers who know the psalm will notice the difference)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="preaching-units">Preaching Units</h2>
+<p>This is a full series. Units follow Matthew’s own seams, which often cross chapter boundaries. ⭐ HIGH marks a unit that needs a full solo <code>/dig-deeper</code> before the pulpit. The five discourses are each divided into preachable parts.</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 48%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verses</th>
+<th>Working title</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1:1–17</td>
+<td>The book of the genesis</td>
+<td>⭐ HIGH (old dig exists — re-run under the current method)</td>
+</tr>
+<tr class="even">
+<td>1:18–25</td>
+<td>Jesus, Immanuel</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>2:1–12</td>
+<td>The King of the Jews and the magi</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>2:13–23</td>
+<td>Out of Egypt; Rachel weeping; a Nazarene</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>3:1–17</td>
+<td>The voice in the wilderness; the beloved Son</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>4:1–11</td>
+<td>If you are the Son of God</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>4:12–25</td>
+<td>Light in Galilee of the nations; “Come behind me”</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>5:1–12</td>
+<td>The blessed</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>5:13–20</td>
+<td>Salt, light, and the Law fulfilled</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>5:21–48</td>
+<td>“But I say to you”</td>
+<td>⭐ HIGH (may be split at 5:33)</td>
+</tr>
+<tr class="odd">
+<td>6:1–18</td>
+<td>In secret; the Lord’s Prayer</td>
+<td>Standard (⭐ for 6:9–13)</td>
+</tr>
+<tr class="even">
+<td>6:19–34</td>
+<td>Treasure, the eye, and anxiety</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>7:1–12</td>
+<td>Judging, asking, the golden rule</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>7:13–29</td>
+<td>Two ways, two trees, two houses</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>8:1–17</td>
+<td>The leper, the centurion, the fever — “he took our weaknesses”</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>8:18–9:8</td>
+<td>Who is this? Following, the storm, Gadara, authority to forgive</td>
+<td>Standard (⭐ for 9:1–8)</td>
+</tr>
+<tr class="odd">
+<td>9:9–17</td>
+<td>Mercy and not sacrifice</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>9:18–38</td>
+<td>Daughter, son of David, and the shepherdless crowd</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>10:1–23</td>
+<td>Sent like sheep among wolves</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>10:24–42</td>
+<td>Not peace but a sword; the cup of cold water</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>11:1–19</td>
+<td>Are you the one who is coming?</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>11:20–30</td>
+<td>Woe, revelation, and rest</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>12:1–21</td>
+<td>Lord of the Sabbath; the Servant</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>12:22–50</td>
+<td>The strong man, the unforgivable word, the sign of Jonah, my brothers</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>13:1–23</td>
+<td>The sower: hearing and not hearing</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>13:24–43</td>
+<td>Wheat and weeds; mustard and leaven</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>13:44–58</td>
+<td>Treasure, pearl, net — new and old; rejected at home</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>14:1–21</td>
+<td>John beheaded; five thousand fed</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>14:22–36</td>
+<td>“It is I”; little faith; “truly God’s Son”</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>15:1–20</td>
+<td>What defiles</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>15:21–39</td>
+<td>The Canaanite woman; the God of Israel glorified</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>16:1–12</td>
+<td>Signs and leaven</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>16:13–28</td>
+<td>“You are the Christ” — and “get behind me”</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>17:1–13</td>
+<td>Transfigured; Elijah has come</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>17:14–27</td>
+<td>Little faith; the temple tax</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>18:1–14</td>
+<td>The little ones</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>18:15–35</td>
+<td>Bound and loosed; seventy times seven</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>19:1–15</td>
+<td>From the beginning; the children</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>19:16–20:16</td>
+<td>The rich young man; the first last; the vineyard workers</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>20:17–34</td>
+<td>A ransom for many; two blind men</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>21:1–17</td>
+<td>Your King comes, meek</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>21:18–22:14</td>
+<td>The fig tree, two sons, the tenants, the wedding feast</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>22:15–46</td>
+<td>Caesar, the resurrection, the great commandment, David’s Lord</td>
+<td>Standard (may be split)</td>
+</tr>
+<tr class="even">
+<td>23:1–39</td>
+<td>The woes, and the lament over Jerusalem</td>
+<td>⭐ HIGH (see Trap 3)</td>
+</tr>
+<tr class="odd">
+<td>24:1–35</td>
+<td>The temple, the end, and the coming of the Son of Man</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>24:36–25:13</td>
+<td>Of that day no one knows; the ten virgins</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>25:14–30</td>
+<td>The talents</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>25:31–46</td>
+<td>The sheep and the goats</td>
+<td>⭐ HIGH (see Trap 7)</td>
+</tr>
+<tr class="odd">
+<td>26:1–16</td>
+<td>Anointed for burial; thirty pieces of silver</td>
+<td>Standard</td>
+</tr>
+<tr class="even">
+<td>26:17–35</td>
+<td>The blood of the covenant for the forgiveness of sins</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>26:36–56</td>
+<td>Gethsemane: your will be done</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>26:57–75</td>
+<td>The confession and the denial</td>
+<td>Standard</td>
+</tr>
+<tr class="odd">
+<td>27:1–26</td>
+<td>Judas, Pilate, and the blood</td>
+<td>⭐ HIGH (see Trap 3)</td>
+</tr>
+<tr class="even">
+<td>27:27–56</td>
+<td>The King of the Jews crucified; “truly God’s Son”</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="odd">
+<td>27:57–28:15</td>
+<td>The tomb, the guard, the earthquake, the lie</td>
+<td>⭐ HIGH</td>
+</tr>
+<tr class="even">
+<td>28:16–20</td>
+<td>All authority; all the nations; always</td>
+<td>⭐ HIGH</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="checking-stage-reconciliation">Checking Stage — Reconciliation</h2>
+<p><strong>Dig-deeper runs.</strong> The whole-book sweep of 16 July 2026 and the 1:1–17 dig of July 2026 were opened only at this stage. Both predate the September 2026 method. They read the ESV as substrate, with a single commentary (Cooper, <em>Matthew</em>, Hodder Bible Commentary, 2024, introduction only) at their checking stage, and they had no corpus. They are <strong>not</strong> consumed as sweep input. What they agree with, add, and get wrong:</p>
+<ul>
+<li><strong>Agreement.</strong> The sweep’s Immanuel inclusio (1:23 / 28:20), the five-discourse formula, the two “from that time” hinges, the 4:23 / 9:35 frame, and the internal echoes 1:21 → 26:28 and 4:8–9 → 28:18 are all confirmed here from the Greek <code>[T]</code>.</li>
+<li><strong>Correction.</strong> The sweep’s opening sentence speaks of “the sixty-one chapters”. Matthew has twenty-eight. This is a slip, not a finding, but it confirms that the old sweep was not checked against the text it describes.</li>
+<li><strong>Correction.</strong> The sweep presents the Old Testament citations as LXX-based, with παρθένος (“virgin”) at 1:23 as “the hinge”. The text-first reading here finds that Matthew’s formula citations follow the <strong>Hebrew</strong> at least six times (2:15; 2:18; 8:17; 21:5; 26:31; 27:9–10), and that two apparent departures from “the LXX” (9:13; 1:23) are agreements with Rahlfs against Swete. The sweep could not see either fact from the ESV.</li>
+<li><strong>Agreement, sharpened.</strong> The sweep calls 12:18–21 “the longest OT quotation in the Gospel”. Confirmed: 61 words in the SBLGNT, against 34 for Isa 6:9–10 at 13:14b–15. The sweep reads it as LXX-shaped; it is mixed (see the Intertextual Map).</li>
+<li><strong>Added here, not in the sweep.</strong> The canon-ends reading (Chronicles and Malachi). The echo chains that are visible only in the Greek: ῥαπίζω (“to slap”) and ἀγγαρεύω (“to compel”); σεισμός (“shaking, earthquake”); προσέρχομαι (“to come to”) with Jesus as subject only at 17:7 and 28:18; “King of the Jews” only in Gentile mouths; the ὄψεσθε (“you will see”) chain; συμβούλιον λαμβάνω (“to take counsel”) ×5; χείρων (“worse”) at 12:45 / 27:64. And the Deuteronomy wording of the fifth formula (26:1).</li>
+<li><strong>The sweep’s Cooper-derived positions</strong> (the four-section structure after Weren; “kingdom of the heavens” as a spatial reality, after Pennington; Antioch; “disciples who make disciples” as the single purpose) are not adopted. They are <code>[S]</code>, single-source, and were not tested here.</li>
+</ul>
+<p><strong>Claim audit (v0.2).</strong> Three independent auditors, with no sight of this overview or the old sweep, tested 22 claims against the corpus; the main session re-ran twenty of the decisive checks, and nineteen reproduced exactly (the twentieth, Tobit’s ἀπήγξατο (“he/she hanged himself/herself”), corrected the auditor, not the overview). Verdicts: 6 confirmed, 10 confirmed with nuance, 6 needing reframing, none discarded. Its verdicts are consumed here as settled <code>[S: audit]</code>. <strong>No overview claim was contradicted outright.</strong> Three facts were corrected (Theodotion Dan 12:3 is Rahlfs’ ἐκλάμψουσιν (“they will shine out”), not Swete’s; the Greek of 2 Chr 24:20 names Azariah; Swete 2 Chr 36:23 is dative), and four claims were reframed from a single source to a composite (Deut 21:6–9; Isa 50:6; Isa 53; 2 Chr 36:23). Eighteen new candidates surfaced; they are recorded in the audit and the project queue, and only those the audit itself relied on are mentioned here, marked <em>unaudited</em>.</p>
+<p><strong>Commentaries.</strong> None was opened in this run. Where a scholarly position is mentioned, it comes from general knowledge of the literature and is tagged <code>[S]</code>. These include: Papias on Matthew; the date and provenance; the Western order; the synoptic problem; Kingsbury’s tripartite structure; the Pentateuch reading of the five discourses; the Asaph/Amos question; the identity of “the least of these”; the aorist-participle question at 28:19; the Jeremiah attribution at 27:9; and the Zechariah crux at 23:35.</p>
+<p><strong>Recommended checks in Logos before the digs rely on them:</strong></p>
+<ol type="1">
+<li><strong>27:9–10.</strong> Why “Jeremiah”? Get the state of the question (Jer 18–19; 32; a composite citation) from a major commentary (France, Davies–Allison, Hagner).</li>
+<li><strong>23:35.</strong> “Zechariah son of Barachiah” — 2 Chr 24, Zech 1:1 or Isa 8:2? The audit settled that 2 Chr 24 is in view through the Hebrew, and lowered the canon-span to low–moderate; the state of the question on the patronymic, and on the antiquity of the BHS order, remains for Logos.</li>
+<li><strong>2 Chr 36:23 ↔︎ 28:18–20.</strong> Whether commentators note the parallel, and on what canonical sequence they rely. Lowered to low–moderate by the audit; low priority now that Dan 7:14 OG carries 28:18–19.</li>
+<li><strong>Deut 31:1.</strong> The manuscript spread behind the BHS 𝔔𝔊 note וַיְכַל (“and he finished”), from the Qumran and Göttingen evidence. The 26:1 row cites it as BHS prints it.</li>
+<li><strong>1:7–8, 10.</strong> Ἀσάφ / Ἀμώς (“Asaph / Amos”): the NA28 evidence in full, and Metzger.</li>
+<li><strong>Deut 6:13 in the LXX.</strong> Which manuscripts read προσκυνήσεις (“you shall worship”), from the Rahlfs or Göttingen apparatus.</li>
+<li><strong>Hos 6:6 and Isa 7:14 in the LXX.</strong> The Göttingen apparatus, where it exists, for ἢ / καὶ οὐ (“rather than / and not”) and λήμψεται / ἕξει (“will conceive / will be with child”). The overview’s correction rests on Rahlfs against Swete.</li>
+<li><strong>16:2b–3; 21:44; 27:16–17.</strong> The NA28 brackets, before any of those verses is preached.</li>
+<li><strong>28:19.</strong> The aorist participle πορευθέντες (“going”) with an imperative — the grammar question (Wallace, <em>Greek Grammar Beyond the Basics</em>).</li>
+</ol>
+<hr />
+<h2 id="colophon">Colophon</h2>
+<p><strong>Version:</strong> 0.2.0 · <strong>Date:</strong> 1 October 2026 · <strong>Mode:</strong> Draft v0.2 (upgrade from the claim audit; not finalised) · v0.1.0: 1 October 2026, Draft (text-first) <strong>Sources consulted:</strong> the biblical text; the Matthew claim audit (v0.2). The July 2026 sweep and 1:1–17 dig were opened at the checking stage and are reported there, not consumed. No commentaries were opened. Every scholarly position mentioned is tagged <code>[S]</code> and listed under <em>Checking Stage</em>. <strong>Warrant counts (v0.2):</strong> <code>[T]</code> 119 · <code>[I]</code> 25 · <code>[S]</code> 22 · <code>[S: audit]</code> 49 (tag occurrences in the finished file, this line included). The <code>[S: audit]</code> tags mark what v0.2 took from the claim audit; everything else is the v0.1 text-first Draft. The intertextual and echo tables carry their warrant in the confidence column rather than in tags. <strong>Primary texts opened:</strong></p>
+<ul>
+<li>NA28 Matthew, read in full (1,068 verses), with the NA28 apparatus for the title and for 1:7–10, 1:16, 1:18, 1:25, 5:22, 5:44, 6:13, 12:47, 13:35, 16:2–3, 19:9, 21:29–31, 21:44, 23:35, 24:36, 27:9, 27:16–17, 27:24, 27:46, 27:49 and 28:19.</li>
+<li>SBLGNT Matthew with the MorphGNT index for every count, compared word by word with the NA28: 219 verses differ, almost all by elision or movable ν.</li>
+<li>NASB95 Matthew, read for the comparisons.</li>
+<li>ESV Matthew, for the pulpit-text comparisons.</li>
+<li>Swete, for every Old Testament row, including a 4-gram sweep of all of Matthew against all of Swete.</li>
+<li>Rahlfs–Hanhart exports for Isa 7:14; 8:23; 42:1–4; 53:4; Jer 6:16; 38:15; Hos 6:6; 11:1; Zech 9:9; 11:13; 13:7; Mic 5:1; Deut 6:13; Exod 4:19; Pss 8:3; 21:2, 9; 77:2; Dan 7:13–14. <strong>v0.2:</strong> also Dan 3:6 (OG); Dan 12:3 (Theodotion); 2 Chr 24:20; 36:23, re-read for this upgrade.</li>
+<li>WLC, for every Hebrew form quoted.</li>
+<li>Mark and Luke (SBLGNT), for the comparisons at Mark 1:13; 2:14; 3:18; 6:51–52; 7:3–4; 13:26; 14:62; 15:23, 34, 43 and Luke 4:2; 9:29.</li>
+</ul>
+<p><strong>Chains verified:</strong></p>
+<ul>
+<li><strong>71 lemma chains</strong> in Matthew were checked by an exact-set gate script against the SBLGNT index: every “occurs only at” and every count in the Microscript, Structural Arc Map, Intertextual Map and Echo Table. All passed. A positive control (Ἰησοῦς (“Jesus”), 152 occurrences) passed.</li>
+<li><strong>33 phrase chains</strong> were checked in both the SBLGNT and the NA28 wording. All agree, except “the kingdom of God”, where NA28’s bracketed [6:33] gives five against four. That is reported.</li>
+<li><strong>Two New Testament-wide claims</strong> were checked across the SBLGNT index: “kingdom of heaven” occurs only in Matthew (32), and μαθητεύω (“to make a disciple”) occurs only in Matthew (3) and at Acts 14:21.</li>
+<li><strong>Swete-wide uniqueness claims</strong> were checked by accent-stripped search: βίβλος γενέσεως (“book of the genesis”); ἑβδομηκοντάκις ἑπτά (“seventy times seven”); ἀνέβη εἰς τὸ ὄρος (“he went up into the mountain”); τεθνήκασιν (“they are dead”); τὸ αἷμα τῆς διαθήκης (“the blood of the covenant”); ἀπήγξατο (“he hanged himself”); κάμινον τοῦ πυρός (“the furnace of fire”); ἐκ τῶν τεσσάρων ἀνέμων (“from the four winds”); ζωὴν αἰώνιον (“eternal life”); βδέλυγμα τῆς ἐρημώσεως (“abomination of desolation”); εἰς ῥαπίσματα (“to slaps”); πᾶσαι αἱ φυλαὶ τῆς γῆς (“all the tribes of the earth”); γενεά (“generation”) with διεστραμμένη (“perverse generation”).</li>
+<li><strong>Hebrew claims</strong> were checked with <code>find.py verify</code>: 41 checks passed. They are: בֵּן (“son”) and קָרָא (“to call”) at Hos 11:1; חֳלִי (“sickness”) and מַכְאֹב (“pain”) at Isa 53:4; מַרְגּוֹעַ (“rest”) at Jer 6:16; נָחַם (“to comfort”) at Jer 31:15; זֶבַח (“sacrifice”) and לֹא (“not”) at Hos 6:6; חֲמוֹר (“donkey”), עַיִר (“colt”) and אָתוֹן (“she-ass”) at Zech 9:9; יוֹצֵר (“potter”) at Zech 11:13; נָכָה (“to strike”) and רֹעֶה (“shepherd”) at Zech 13:7; אֵל (“God”) and עָזַב (“to forsake”) at Ps 22:2; עֹז (“strength”) at Ps 8:3; רָצָה (“to delight”) and בָּחִיר (“chosen”) at Isa 42:1; תּוֹרָה (“torah”) and אִי (“coastland”) at Isa 42:4; נָתַן (“to give”), פָּקַד (“to charge”), עִם (“with”), עָלָה (“to go up”) and מַמְלָכָה (“kingdom”) at 2 Chr 36:23; עַלְמָה (“young woman”) at Isa 7:14; אֶלֶף (“thousand”) and צָעִיר (“little”) at Mic 5:1; רָעָה (“to shepherd”) at 2 Sam 5:2; שִׁבְעִים (“seventy”) at Gen 4:24; מוּת (“to die”) and בָּקַשׁ (“to seek”) at Exod 4:19; זְכַרְיָה (“Zechariah”) and יְהוֹיָדָע (“Jehoiada”) at 2 Chr 24:20; בֶּרֶכְיָה (“Berechiah”) at Zech 1:1; נָזִיר (“Nazirite”) at Judg 13:5; נֵצֶר (“branch”) at Isa 11:1; חִידָה (“riddle”) and קֶדֶם (“of old”) at Ps 78:2; כָּלָה (“to finish”) at Deut 32:45.</li>
+<li><strong>v0.2 re-gate.</strong> The new Swete chains this version asserts were re-run on the device by accent-stripped search, and all held: ὡσεὶ πρόβατα (“like sheep”, Num 27:17; Ps 79:2); καὶ λαβόντες αὐτόν (“and taking him”, Gen 37:24 only); γενεὰ ἐξεστραμμένη (“perverted generation”, Deut 32:20 and Ode 2:20); τὸ αἷμα τοῦτο (“this blood”, Deut 21:7 only as a phrase); ἀθῷος ἐγώ (“I am innocent”, Sus Th 46 only); ἀθῷός εἰμι (“I am innocent”, 2 Sam 3:28; Jer 2:35); ἐν ἀθῴοις (“in innocence”, Ps 25:6; 72:13); καθαρὸς τῇ καρδίᾳ (“pure in heart”, Ps 23:4 only); ἐδόθη αὐτῷ ἐξουσία (“authority was given to him”, Dan 7:14 only); ἀνεχώρησεν δὲ Μωυσῆς (“but Moses withdrew”, Exod 2:15); ἐπεσκια- (“overshadow”, Exod 40:29; Ps 139:8); ῥαπ- (“slap”) with σιαγών (“cheek”, Isa 50:6; Hos 11:4); Ζαχαρίαν υἱὸν Βαραχίου (“Zechariah son of Barachiah”, Isa 8:2 only); Ἀζαρίαν (“Azariah”) at 2 Chr 24:20 in Swete and Rahlfs. In the Rahlfs exports: ἐκλάμψουσιν (“they will shine out”) at Theodotion Dan 12:3; ἐμβαλοῦσιν αὐτὸν εἰς τὴν κάμινον (“they will throw him into the furnace”) at OG Dan 3:6; the accusative πάσας τὰς βασιλείας τῆς γῆς (“all the kingdoms of the earth”) at 2 Chr 36:23. Two claims tightened in the process: Hag 2:4 has the order μεθ᾽ ὑμῶν ἐγώ εἰμι (“with you I am”), and Num 35:33 has τὸ γὰρ αἷμα τοῦτο (“for this blood”). The audit’s own Hebrew checks (נָקִי (“innocent”) at Deut 21:8–9 and 27:25; מַרְגּוֹעַ (“rest”) once only; רגע (“to rest”) at Isa 28:12; מִשְׁפָּחָה (“clan”) at Gen 12:3; 28:14; Zech 12:12; 14:17; רַבִּים (“many”) at Isa 52:14–53:12; חָנַק (“to strangle”) at 2 Sam 17:23) are listed in the audit file.</li>
+<li><strong>Controls.</strong> The negative control <code>verify 1121 Hos:11:2</code> failed, as it should, with exit status 1. One Hebrew check failed at first, and has been withdrawn: הָלַךְ (“to go”) at Deut 31:1, tried under the number 1980, which is the wrong Strong’s number for that form. The text of the verse is quoted from the WLC instead.</li>
+<li><strong>Corpus traps met.</strong> Swete and Rahlfs diverge at Hos 6:6, Isa 7:14, Isa 8:23 and (found by the audit) Theodotion Dan 12:3, and they differ in case at 2 Chr 36:23. Each would have produced a false finding from Swete alone. They are stated in the Intertextual Map. The NA28 export prints a new chapter’s number with a normal space and its verses with a no-break space; a parser that ignored the difference mis-assigned 23:1–2. Swete numbers the Psalms by the LXX, Mal 3:22–24 as 4:4–6, and Zech 2:10 as 2:6.</li>
+</ul>
+<p><strong>Changes in v0.2.0</strong> (1 October 2026), all from the claim audit and tagged <code>[S: audit]</code>:</p>
+<ul>
+<li><strong>Raised:</strong> Num 27:17 (to high for the phrase; the Joshua link to moderate); Deut 31:1 / 32:45 (to moderate–high, with the BHS 𝔔𝔊 note); Deut 32:5 (to high, with 32:20); 2 Sam 17:23 (to high); Isa 61:1–2 (to high, as the frame of 5:3–5); Jer 6:16 (to high, with Sir 51 and Isa 28:12); Zech 12:10–14 (to high, with 12:14 and 14:17); Ps 24:4 (to high for purity); Ps 69:22 (to high, with 27:48); Dan 12:3 (to high, citing Rahlfs Theodotion); Dan 3:6 (to high).</li>
+<li><strong>Strengthened, rating kept:</strong> Exod 4:19 (Rahlfs plus; Exod 2:15); Gen 4:24 (Luke 17:4; the value 77); Gen 37:20 (Gen 37:18, 24; inherited from Mark); Deut 18:15 (merged with the Exod 34 row; Exod 24:16; 40:29 Swete).</li>
+<li><strong>Reframed or lowered:</strong> Exod 19 ascent (to moderate; 14:23 dropped); the five books of Moses (low as five books, moderate as a Moses frame); Deut 21:6–9 (ritual background, with 2 Sam 3:28, Sus Th 46, Deut 27:25 and Jer 26:15); Isa 50:6 (high for the tradition, moderate for Matthew’s wording; Mic 5:1); Isa 53 “many” (high as a component, moderate as the source; Exod 24:8, Lev 4, Dan 9:27, Exod 30:12, Num 3:12); Gen 12:3 / 28:14 (to low–moderate, an overtone); 2 Chr 24:20–22 (Hebrew only; Isa 8:2 as a patronymic candidate); the Abel-to-Zechariah canon-span (to low–moderate); 2 Chr 36:23 (to low–moderate; <em>Canonical Position</em> (a) rewritten, with Dan 7:14 OG as the source of record for 28:18–19). The 4:8 ↔︎ 2 Chr 36:23 link, tested by the audit as part of the same claim, is dropped and is not asserted here.</li>
+<li><strong>Method:</strong> the Synoptic check is added to <em>How Matthew uses his Scriptures</em>, with Dan 12:3, 2 Chr 24:20, Jer 6:16 and Num 27:17 added to its lists.</li>
+<li><strong>Other sections touched:</strong> the Arc Map’s contested readings; the Christological Trajectory (Israel’s story; the Servant); Trap 3; the Echo Table rows 5:39 ↔︎ 26:67, 17:2 / 13:43, 20:28 → 26:28 and 23:35 → 27:25; the English table (26:1, and a new 18:22 row); <em>Outside the Tanak</em> (Susanna).</li>
+<li><strong>Unchanged:</strong> the text decisions, presenting situation, arc map, microscript, preaching units and the Malachi reading (b). None has yet been tested by a sweep or a solo dig.</li>
+</ul>
+<p><strong>Health note:</strong> Draft v0.2 — the intertextual map’s above-moderate rows are now audited, and every change is tagged. The structure, the Christological trajectory and the traps are still text-first Draft claims. <strong>Next:</strong> a fresh whole-book sweep under the current method, consuming this v0.2; then a claim audit of the sweep’s proposals together with the 18 audit-generated candidates; then the ⭐ solo digs and, ideally, a macro-synthesis. Finalise only after those, and after the Logos checks on 27:9, 23:35, Deut 31:1 and the NA28 brackets.</p>
+
+</main>
+</div>
+</body>
+</html>

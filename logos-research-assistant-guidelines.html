@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asking the Logos Research Assistant</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#asking-the-logos-research-assistant">Asking the Logos Research Assistant</a></li>
+    <li><a href="#what-the-assistant-is-and-is-not">What the Assistant Is, and Is Not</a></li>
+    <li><a href="#before-you-ask-is-logos-the-right-tool">Before You Ask: Is Logos the Right Tool?</a></li>
+    <li><a href="#framing-the-question">Framing the Question</a></li>
+    <li><a href="#question-templates">Question Templates</a></li>
+    <li><a href="#reading-the-answer">Reading the Answer</a></li>
+    <li><a href="#bringing-the-answers-back">Bringing the Answers Back</a></li>
+    <li><a href="#questions-the-assistant-usually-cannot-answer">Questions the Assistant Usually Cannot Answer</a></li>
+    <li><a href="#one-line-checklist">One-Line Checklist</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="asking-the-logos-research-assistant">Asking the Logos Research Assistant</h1>
+<p><strong>Purpose:</strong> A reference sheet for putting dig-deeper questions to the Logos Research (Study) Assistant and judging what comes back. <strong>Drawn from:</strong> the Job and Matthew rounds of October 2026, and the house logos-research skill. <strong>Date:</strong> 2 October 2026</p>
+<hr />
+<h2 id="what-the-assistant-is-and-is-not">What the Assistant Is, and Is Not</h2>
+<p>The Assistant searches the prose of your library: commentaries, dictionaries, study Bibles and monographs. It then writes a summary with numbered citations. Three things follow from how it works.</p>
+<ul>
+<li><strong>It returns what ranks highest, not what is best.</strong> Ask about 27:9–10 without naming a source, and you get the Holman Old Testament Commentary and <em>Hard Sayings</em>. You do not get France or Davies–Allison.</li>
+<li><strong>It falls back on general knowledge when the library is silent.</strong> It does so without always saying so. An answer with no footnotes is the Assistant’s own opinion.</li>
+<li><strong>It reasons from the English by default.</strong> In the Job round it treated the NASB95’s editorial heading over chapter 28 as if it were the text.</li>
+</ul>
+<p>So use it for <strong>the state of a scholarly question</strong>: who holds which view, and on what evidence. Do not use it for <strong>facts about the text</strong>. Those are answered better, and more cheaply, from the corpus.</p>
+<hr />
+<h2 id="before-you-ask-is-logos-the-right-tool">Before You Ask: Is Logos the Right Tool?</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>The question is about…</th>
+<th>Best route</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A count, a word chain, where a word occurs</td>
+<td>The <code>_texts/</code> corpus: Claude can answer from it in one command</td>
+</tr>
+<tr class="even">
+<td>A manuscript reading in Matthew, Mark or Luke</td>
+<td>The NA28 apparatus already in <code>_texts/logos-exports/</code></td>
+</tr>
+<tr class="odd">
+<td>A textual variant in another book</td>
+<td>The Logos <strong>Exegetical Guide</strong>, Textual Variants section (it uses no AI credits)</td>
+</tr>
+<tr class="even">
+<td>An LXX variant (Göttingen, Rahlfs apparatus)</td>
+<td>Open the edition itself in Logos, if you own it, at the verse</td>
+</tr>
+<tr class="odd">
+<td>Paragraph markers, accents, the Masorah</td>
+<td>Read BHS on screen; commentaries rarely discuss these</td>
+</tr>
+<tr class="even">
+<td>What commentators think, and why</td>
+<td><strong>The Research Assistant</strong></td>
+</tr>
+<tr class="odd">
+<td>Historical or cultural background</td>
+<td><strong>The Research Assistant</strong></td>
+</tr>
+<tr class="even">
+<td>Whether scholars have noticed an allusion</td>
+<td><strong>The Research Assistant</strong> (this fills the “history of interpretation” criterion the audits leave unchecked)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="framing-the-question">Framing the Question</h2>
+<ol type="1">
+<li><strong>One question per turn.</strong> Compound questions run slowly and come back half-answered. Split them, and use follow-ups in the same conversation to narrow.</li>
+<li><strong>Name the source.</strong> Write “What does Davies and Allison (ICC) say about…”, not “Why does Matthew…”. If you do not own the work, the Assistant says so or falls back, and you learn that too.</li>
+<li><strong>Name the series when you want a tier.</strong> “Which major critical commentaries (ICC, NICNT, WBC, BECNT) discuss…” keeps out study Bibles and popular works.</li>
+<li><strong>Use the scope control.</strong> Set “All books” to a collection: make one called <em>Matthew commentaries</em> once, then select it for every Matthew question.</li>
+<li><strong>Give the reference in plain form</strong>, e.g. “Matthew 27:9–10”. For a word, give the English gloss with the Greek or Hebrew in brackets: “the participle translated ‘go’ (πορευθέντες) in Matthew 28:19”.</li>
+<li><strong>Ask for views and evidence, not for a verdict.</strong> Write “What are the main explanations, who holds each, and what evidence do they give?”. Avoid “Is it true that…?” and “Explain why…”, which invite agreement.</li>
+<li><strong>Ask neutrally.</strong> Do not put the hoped-for answer into the question. “Does Matthew 28:18–20 echo 2 Chronicles 36:23?” invites a yes. “Which commentators discuss a link between Matthew 28:18–20 and 2 Chronicles 36:23, and do any reject it?” does not.</li>
+<li><strong>For an allusion, ask three things:</strong> who proposes it; whether anyone argues it is shared idiom instead; and, where it matters, which direction the dependence runs.</li>
+<li><strong>For a direction of dependence, ask for the argument, not the date.</strong> The Assistant tends to settle direction by assuming which book is older. Ask: “What textual arguments are given for the direction of dependence between Job 3 and Jeremiah 20:14–18?”</li>
+<li><strong>Ask for page numbers</strong> when you will cite the work: “with page references”.</li>
+</ol>
+<hr />
+<h2 id="question-templates">Question Templates</h2>
+<p>These rephrase the questions that proved hard this autumn.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Need</th>
+<th>Template</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A named commentator’s view</td>
+<td>What does [author] ([series]) say about [issue] in [ref]?</td>
+<td>What does Davies and Allison (ICC) say about why Matthew 27:9 attributes the quotation to Jeremiah?</td>
+</tr>
+<tr class="even">
+<td>The state of a debate</td>
+<td>What are the main explanations of [issue] in [ref], who holds each, and what evidence do they give?</td>
+<td>What are the main explanations of “Zechariah son of Barachiah” in Matthew 23:35, and who holds each?</td>
+</tr>
+<tr class="odd">
+<td>An allusion</td>
+<td>Which commentators discuss a link between [ref] and [OT ref], what wording do they point to, and does anyone reject it?</td>
+<td>Which commentators discuss a link between Matthew 8:24–25 and Jonah 1:4–6, and does anyone reject it?</td>
+</tr>
+<tr class="even">
+<td>Grammar</td>
+<td>How do the standard grammars (Wallace, BDF, Robertson) classify [form] in [ref]?</td>
+<td>How does Wallace classify the aorist participle translated “go” in Matthew 28:19?</td>
+</tr>
+<tr class="odd">
+<td>A textual point in prose</td>
+<td>What does Metzger’s <em>Textual Commentary</em> say about [ref]?</td>
+<td>What does Metzger’s <em>Textual Commentary</em> say about Asaph and Amos in Matthew 1:7–10?</td>
+</tr>
+<tr class="even">
+<td>An LXX variant</td>
+<td>What does the Göttingen Septuagint apparatus record at [ref] for [reading]?</td>
+<td>What does the Göttingen apparatus record at Isaiah 7:14 for “will conceive” / “will have in the womb”? (Use only if you own Ziegler’s <em>Isaias</em>.)</td>
+</tr>
+<tr class="odd">
+<td>Background</td>
+<td>What was [custom / institution] in first-century Judaism, and what is the evidence for it?</td>
+<td>What was the temple tax in first-century Judaism, and what is the evidence for it?</td>
+</tr>
+<tr class="even">
+<td>A follow-up</td>
+<td>You mentioned [author]. What exactly does he say on page [n], and what reasons does he give?</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="reading-the-answer">Reading the Answer</h2>
+<p>Run these checks before trusting a sentence.</p>
+<ol type="1">
+<li><strong>Is it cited?</strong> A sentence without a footnote number is general knowledge. Treat it as an unsupported claim.</li>
+<li><strong>What tier is the source?</strong> A critical commentary or a specialist monograph carries weight. A study Bible, a popular commentary or a “hard sayings” book does not, on a technical question. Note the series beside every source.</li>
+<li><strong>Did it answer your question?</strong> In the Job round, a question about paragraph markers came back as an answer about 27:1.</li>
+<li><strong>Is it reasoning from the English?</strong> Look for headings, chapter titles, or an English word (such as “Ten Commandments” for עֲשֶׂרֶת הַדְּבָרִים, “the ten words”) treated as the text.</li>
+<li><strong>Is a date assumption doing the work?</strong> “Ezekiel predates Job, so Job borrowed” is an assumption, not evidence.</li>
+<li><strong>Watch the inflating words.</strong> Phrases such as “broad scholarly agreement”, “structurally intentional” and “clearly” are often the Assistant’s own glosses on one source. Check how many footnotes stand behind them.</li>
+<li><strong>Does it contradict itself?</strong> It sometimes gives a direction of dependence in one paragraph and its opposite in the next.</li>
+<li><strong>Does a claim about the text match the text?</strong> Any wording, count or manuscript claim should be checked against the corpus. Claude can do this in one step when you bring the answer back.</li>
+</ol>
+<hr />
+<h2 id="bringing-the-answers-back">Bringing the Answers Back</h2>
+<ul>
+<li><strong>Paste the whole answer, with its footnotes.</strong> Numbers in square brackets such as [1] are fine; they will be read as pointers to the notes.</li>
+<li><strong>Put the question you asked above each answer.</strong> How it was asked affects how far it can be trusted.</li>
+<li><strong>Tag each block with its source</strong>, in one word, as the lean-upload checklist asks. For example: <code>[Logos RA]</code>, or <code>[commentary: Cooper]</code> for your own excerpts.</li>
+<li><strong>Say which questions got no usable answer.</strong> A gap is useful information: it tells Claude where to go next.</li>
+<li><strong>What happens next.</strong> Claude tests each answer against the corpus. It records cited views as <code>[S: author]</code> and folds them into the overview or the queue at the next Finalise pass. An answer never replaces a finding from the text; it confirms, nuances or resists one.</li>
+</ul>
+<hr />
+<h2 id="questions-the-assistant-usually-cannot-answer">Questions the Assistant Usually Cannot Answer</h2>
+<ul>
+<li><strong>How widely a reading is attested in the manuscripts.</strong> Use the apparatus or the Exegetical Guide.</li>
+<li><strong>Counts and word distributions.</strong> Use the corpus.</li>
+<li><strong>Masoretic paragraphing and accents.</strong> Use BHS on screen, or an Aleppo-based edition.</li>
+<li><strong>Anything resting on a work you do not own.</strong> The Assistant may answer anyway from general knowledge, so check for footnotes.</li>
+</ul>
+<hr />
+<h2 id="one-line-checklist">One-Line Checklist</h2>
+<p><strong>Before:</strong> is this a question about scholars (Logos) or about the text (corpus)? <strong>Ask:</strong> one question; named source or series; scoped collection; views and evidence; neutral wording; page numbers. <strong>Read:</strong> cited? what tier? on the question? from the English? a date assumption? an inflated summary? matches the text? <strong>Return:</strong> whole answer, with its footnotes, under the question asked, tagged.</p>
+
+</main>
+</div>
+</body>
+</html>
