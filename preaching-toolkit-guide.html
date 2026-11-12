@@ -60,11 +60,11 @@
 </nav>
 <main>
 <h1 id="the-preaching-toolkit-workflow-quick-reference">The Preaching Toolkit: Workflow Quick Reference</h1>
-<p><strong>Four skills, one system:</strong> <code>book-overview</code> · <code>dig-deeper</code> · <code>point-purpose</code> · <code>sermon-review</code> <strong>Substrate:</strong> the original languages, from <code>_texts/</code> · <strong>Study text:</strong> NASB95 (1995, not the 2020 revision) · <strong>Pulpit text:</strong> declared per engagement <strong>House output:</strong> <code>.md</code> (canonical) · <code>.odt</code> · <code>.html</code></p>
-<p><em>Rewritten 13 September 2026, at the close of the September process review. The version it replaces dated from 23 July and predated the whole of it.</em></p>
+<p><strong>Four skills, one system:</strong> <code>book-overview</code> · <code>dig-deeper</code> · <code>point-purpose</code> · <code>sermon-review</code> <strong>Two review frameworks:</strong> <code>faithful-exposition</code> (PT: Cooper, Davies, Styles) · <code>sailhamer-analysis</code> (OT texts) <strong>Substrate:</strong> the original languages, from <code>_texts/</code> · <strong>Study text:</strong> NASB95 (1995, not the 2020 revision) · <strong>Pulpit text:</strong> declared per engagement <strong>House output:</strong> <code>.md</code> (canonical) · <code>.odt</code> · <code>.html</code></p>
+<p><em>Rewritten 13 September 2026, at the close of the September process review. The version it replaces dated from 23 July and predated the whole of it. Updated 12 November 2026 for the independent framework review of sermon plans (first run on Obadiah); the previous text is in <code>_backup/</code>.</em></p>
 <hr />
 <h2 id="the-order-at-a-glance">The order at a glance</h2>
-<p>Book overview → make it visible to the project → book sweep → solo passage digs → finalise the overview → point-purpose → sermon-review.</p>
+<p>Book overview → make it visible to the project → book sweep → solo passage digs → finalise the overview → point-purpose → <strong>independent framework review → plan v1.1</strong> → sermon-review.</p>
 <p>The overview is <strong>first in and last out</strong>: it orients everything downstream, and the completed passage work flows back to finalise it. Treat it as a planning document to be <em>tested</em>, not fixed truth.</p>
 <hr />
 <h2 id="before-anything-the-substrate">Before anything: the substrate</h2>
@@ -168,9 +168,26 @@
 <blockquote>
 <p>“Finalise the Philippians book overview using the completed digs.” “Pull the threads together — give me a macro-synthesis of the Philippians digs.”</p>
 </blockquote>
-<p><strong>6. Per sermon: point-purpose, then sermon-review.</strong></p>
+<p><strong>6. Per sermon: point-purpose.</strong> The backbone now includes a <strong>Seven-Second Sermon</strong> (Davies), <em>them then</em> and <em>us now</em>, which doubles as a test that the Teaching Point and Purpose Statement are one sermon. Phase 1 reads the dig’s Headline Findings and also any Quotation/Allusion or OT-to-OT entry the dig marks as a control on preaching.</p>
 <blockquote>
-<p>“Turn the dig-deeper report on Philippians 2:1–11 into a sermon backbone.” <em>(point-purpose)</em> “Here’s my sermon draft — review it and produce a final manuscript.” <em>(sermon-review)</em></p>
+<p>“Turn the dig-deeper report on Philippians 2:1–11 into a sermon backbone.” <em>(point-purpose)</em></p>
+</blockquote>
+<p><strong>7. Independent framework review (point-purpose Phase 11).</strong> The plan goes to a reviewer <strong>that did not draft it</strong>: a fresh agent with only the plan, the <code>faithful-exposition</code> skill and, for an OT text, <code>sailhamer-analysis</code>, plus read access to the dig, overview and <code>_texts/</code>. If no agent can be spawned, take the plan to a <strong>new conversation in the Sermon Analysis project</strong>:</p>
+<blockquote>
+<p>“Please apply both frameworks to this sermon backbone.” <em>(OT)</em> · “PT only.” <em>(NT)</em></p>
+</blockquote>
+<p>The review is a separate file and never edits the plan. Two rules it must keep:</p>
+<ul>
+<li><strong>It uses the existing ratings.</strong> Before recommending a canonical link or a design claim, it checks whether the dig, overview or a claim audit has already rated it, and uses that rating and direction. A fresh reviewer is independent of the plan, not of the exegesis.</li>
+<li><strong>It lists its new claims as unverified</strong> (Hebrew, Greek or intertextual), with what to check. Nothing resting on one goes into the plan until <code>find.py</code> and the Logos exports have confirmed it.</li>
+</ul>
+<p><strong>8. You decide; the plan becomes v1.1.</strong> Accepted recommendations are applied as v1.1 of the same file, with a <em>What Changed in v1.1</em> table naming the review item behind each change. The previous version goes to <code>_superseded/</code>.</p>
+<blockquote>
+<p>“Fold the accepted recommendations into v1.1 of the plan.”</p>
+</blockquote>
+<p><strong>9. Sermon-review.</strong></p>
+<blockquote>
+<p>“Here’s my sermon draft — review it and produce a final manuscript.” <em>(sermon-review)</em></p>
 </blockquote>
 <hr />
 <h2 id="the-gates">The gates</h2>
@@ -205,14 +222,24 @@
 <td>A citation treated as a proof-text, without source context, book usage and OT-to-OT</td>
 </tr>
 <tr class="even">
+<td><strong>Seven-Second Sermon</strong></td>
+<td>point-purpose 5.5</td>
+<td>A Teaching Point and Purpose Statement that will not sit in one Question / Answer / So what table: not yet one sermon</td>
+</tr>
+<tr class="odd">
 <td><strong>Anti-moralism</strong></td>
 <td>point-purpose Phase 8</td>
 <td>A Teaching Point whose payoff is “be like X”</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Pulpit-text check</strong></td>
 <td>point-purpose 8.5 · sermon-review criterion 10</td>
 <td>A point resting on wording the congregation’s version does not carry</td>
+</tr>
+<tr class="odd">
+<td><strong>Independent review</strong></td>
+<td>point-purpose Phase 11</td>
+<td>A plan judged only by the run that drafted it; a review recommendation resting on an unverified claim or overriding an audited rating</td>
 </tr>
 <tr class="even">
 <td><strong>Section count</strong></td>
@@ -259,11 +286,11 @@
 <p>Hebrew is set three points above the surrounding English in every house format. The converters handle it; nothing special is needed in the Markdown.</p>
 <hr />
 <h2 id="its-a-loop-not-a-line">It’s a loop, not a line</h2>
-<pre><code>book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► sermon-review
-      ▲                           │                        │                 │
-      └────── runs feed back ──────┘        pulpit text ────┴─────────────────┘
-              (Finalise / macro-synthesis)</code></pre>
-<p>The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved. The pulpit text enters at the sermon end and is checked twice on the way to the pulpit.</p>
+<pre><code>book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► review ──► v1.1 ──► sermon-review
+      ▲                           │    ▲                   │          (fresh)              │
+      └────── runs feed back ──────┘    └─ ratings checked ─┘                               │
+              (Finalise / macro-synthesis)       pulpit text ───────────────────────────────┘</code></pre>
+<p>The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved. The pulpit text enters at the sermon end and is checked twice on the way to the pulpit. The framework review reads back into the dig: it may recommend, but it may not overrule an audited rating.</p>
 <hr />
 <h2 id="where-to-keep-the-files">Where to keep the files</h2>
 <p>Keep everything for a book <strong>together in one folder per book</strong>, inside a single prep folder connected to the project. This is what makes the loop automatic: dig-deeper picks up the overview at Phase 0.5, reconciles each passage against its <em>neighbouring</em> reports (especially the opening chapter) at its checking stage, and the finalise/macro-synthesis passes read the whole set.</p>
@@ -346,6 +373,16 @@
 <td>Sermon plan</td>
 <td><code>point-purpose-[book]-[chapter]-[verses].odt</code></td>
 <td><code>point-purpose-john-6.odt</code></td>
+</tr>
+<tr class="even">
+<td><strong>Plan review</strong></td>
+<td><code>[book]-[verses]-point-purpose-two-framework-analysis.md</code>, beside the plan; copy in the Sermon Analysis project</td>
+<td><code>obadiah-1to21-point-purpose-two-framework-analysis.md</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Revised plan</strong></td>
+<td>Same filename; version and <em>What Changed</em> inside; previous version to <code>_superseded/[name]-v1-0.md</code></td>
+<td><code>_superseded/point-purpose-obadiah-1to21-v1-0.md</code></td>
 </tr>
 <tr class="even">
 <td><strong>Library-wide audit</strong></td>

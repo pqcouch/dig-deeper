@@ -1,16 +1,17 @@
 # The Preaching Toolkit: Workflow Quick Reference
 
 **Four skills, one system:** `book-overview` · `dig-deeper` · `point-purpose` · `sermon-review`
+**Two review frameworks:** `faithful-exposition` (PT: Cooper, Davies, Styles) · `sailhamer-analysis` (OT texts)
 **Substrate:** the original languages, from `_texts/` · **Study text:** NASB95 (1995, not the 2020 revision) · **Pulpit text:** declared per engagement
 **House output:** `.md` (canonical) · `.odt` · `.html`
 
-*Rewritten 13 September 2026, at the close of the September process review. The version it replaces dated from 23 July and predated the whole of it.*
+*Rewritten 13 September 2026, at the close of the September process review. The version it replaces dated from 23 July and predated the whole of it. Updated 12 November 2026 for the independent framework review of sermon plans (first run on Obadiah); the previous text is in `_backup/`.*
 
 ---
 
 ## The order at a glance
 
-Book overview → make it visible to the project → book sweep → solo passage digs → finalise the overview → point-purpose → sermon-review.
+Book overview → make it visible to the project → book sweep → solo passage digs → finalise the overview → point-purpose → **independent framework review → plan v1.1** → sermon-review.
 
 The overview is **first in and last out**: it orients everything downstream, and the completed passage work flows back to finalise it. Treat it as a planning document to be *tested*, not fixed truth.
 
@@ -68,9 +69,24 @@ Read `_texts/README.md` at the start. It states what each layer is and, more use
 > "Finalise the Philippians book overview using the completed digs."
 > "Pull the threads together — give me a macro-synthesis of the Philippians digs."
 
-**6. Per sermon: point-purpose, then sermon-review.**
+**6. Per sermon: point-purpose.** The backbone now includes a **Seven-Second Sermon** (Davies), *them then* and *us now*, which doubles as a test that the Teaching Point and Purpose Statement are one sermon. Phase 1 reads the dig's Headline Findings and also any Quotation/Allusion or OT-to-OT entry the dig marks as a control on preaching.
 
 > "Turn the dig-deeper report on Philippians 2:1–11 into a sermon backbone." *(point-purpose)*
+
+**7. Independent framework review (point-purpose Phase 11).** The plan goes to a reviewer **that did not draft it**: a fresh agent with only the plan, the `faithful-exposition` skill and, for an OT text, `sailhamer-analysis`, plus read access to the dig, overview and `_texts/`. If no agent can be spawned, take the plan to a **new conversation in the Sermon Analysis project**:
+
+> "Please apply both frameworks to this sermon backbone." *(OT)* · "PT only." *(NT)*
+
+The review is a separate file and never edits the plan. Two rules it must keep:
+- **It uses the existing ratings.** Before recommending a canonical link or a design claim, it checks whether the dig, overview or a claim audit has already rated it, and uses that rating and direction. A fresh reviewer is independent of the plan, not of the exegesis.
+- **It lists its new claims as unverified** (Hebrew, Greek or intertextual), with what to check. Nothing resting on one goes into the plan until `find.py` and the Logos exports have confirmed it.
+
+**8. You decide; the plan becomes v1.1.** Accepted recommendations are applied as v1.1 of the same file, with a *What Changed in v1.1* table naming the review item behind each change. The previous version goes to `_superseded/`.
+
+> "Fold the accepted recommendations into v1.1 of the plan."
+
+**9. Sermon-review.**
+
 > "Here's my sermon draft — review it and produce a final manuscript." *(sermon-review)*
 
 ---
@@ -84,8 +100,10 @@ Each stage refuses to ship work that fails its own checks. Knowing what they are
 | **Chain verification** | overview Phase 10.5 · dig Phase 10.5 (e3) | A claim that a word recurs across verses, unverified by lemma. A failing reference is *removed*, never hedged |
 | **Apparatus spread** | dig (e4) | A finding resting on *parashoth*, accents, ketiv/qere or Masorah that names "the Masoretic text" rather than its witness |
 | **The OT Citation Triad** | dig Tool 11 | A citation treated as a proof-text, without source context, book usage and OT-to-OT |
+| **Seven-Second Sermon** | point-purpose 5.5 | A Teaching Point and Purpose Statement that will not sit in one Question / Answer / So what table: not yet one sermon |
 | **Anti-moralism** | point-purpose Phase 8 | A Teaching Point whose payoff is "be like X" |
 | **Pulpit-text check** | point-purpose 8.5 · sermon-review criterion 10 | A point resting on wording the congregation's version does not carry |
+| **Independent review** | point-purpose Phase 11 | A plan judged only by the run that drafted it; a review recommendation resting on an unverified claim or overriding an audited rating |
 | **Section count** | both converters | An `.odt` or `.html` that has silently lost a section to a stray `---` |
 
 **The chain gate is the one to understand.** A *passage-level* claim rests on one verified stretch of text. A *synthetic* claim — a chain, an arc, a count across a book — is assembled across passages, and this project's audits agree across three books that synthetic claims fail at a much higher rate. The intertextual map and the echo table in a book overview are exactly that: synthetic claims, built at speed, and then handed downstream as settled input. An unverified chain in an overview is not a local defect; it is a defect with a delivery mechanism.
@@ -118,13 +136,13 @@ Hebrew is set three points above the surrounding English in every house format. 
 ## It's a loop, not a line
 
 ```
-book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► sermon-review
-      ▲                           │                        │                 │
-      └────── runs feed back ──────┘        pulpit text ────┴─────────────────┘
-              (Finalise / macro-synthesis)
+book-overview ──Phase 0.5──► dig-deeper ──findings──► point-purpose ──► review ──► v1.1 ──► sermon-review
+      ▲                           │    ▲                   │          (fresh)              │
+      └────── runs feed back ──────┘    └─ ratings checked ─┘                               │
+              (Finalise / macro-synthesis)       pulpit text ───────────────────────────────┘
 ```
 
-The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved. The pulpit text enters at the sermon end and is checked twice on the way to the pulpit.
+The first pass of the overview is a Draft, written to be corrected. Each dig tests it; the finalise pass rewrites it with what the sweep proved. The pulpit text enters at the sermon end and is checked twice on the way to the pulpit. The framework review reads back into the dig: it may recommend, but it may not overrule an audited rating.
 
 ---
 
@@ -182,6 +200,8 @@ Use these exact patterns (lower-case, hyphenated) so the skills recognise relate
 | Claim audit | `dig-deeper-[book]-claim-audit.md` | `dig-deeper-jonah-claim-audit.md` |
 | Macro-synthesis | `[book]-dig-deeper-macro-synthesis.md` | `ruth-dig-deeper-macro-synthesis.md` |
 | Sermon plan | `point-purpose-[book]-[chapter]-[verses].odt` | `point-purpose-john-6.odt` |
+| **Plan review** | `[book]-[verses]-point-purpose-two-framework-analysis.md`, beside the plan; copy in the Sermon Analysis project | `obadiah-1to21-point-purpose-two-framework-analysis.md` |
+| **Revised plan** | Same filename; version and *What Changed* inside; previous version to `_superseded/[name]-v1-0.md` | `_superseded/point-purpose-obadiah-1to21-v1-0.md` |
 | **Library-wide audit** | `dig-deeper-[scope]-audit.md`, at the root | `dig-deeper-ot-chain-audit.md` |
 
 Verse ranges use `to` (e.g. `4-1to9`); single verses drop the range (e.g. `dig-deeper-john-3-16.md`). A two-passage report is named by what the pair is *about*, because it belongs to neither book alone — and the name stays the same wherever it is hosted.
