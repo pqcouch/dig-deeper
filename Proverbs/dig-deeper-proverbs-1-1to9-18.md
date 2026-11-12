@@ -3,11 +3,30 @@
 **Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/03-Proverbs.txt`, with its lemma-and-morphology index); Swete LXX (`_texts/greek-lxx-swete/19-Proverbs.txt`); BHS text and apparatus from the Logos exports of 15–16 September 2026.
 **Study text:** NASB95
 **Pulpit text:** NIV84 — the first preaching of this sermon is at a church using the 1984 edition.
-**Date:** 18 September 2026
+**Date:** 18 September 2026 · **Version 1.1, 12 November 2026** — claim audit 2 applied (see *What Changed in v1.1*)
 **Book-overview context:** `book-overview-proverbs` v2.0 (17 September 2026), in conversation; four threads front-loaded at Phase 0.5.
 **Series context:** Sermon 4 of nine, and the largest unit in the series — 256 verses preached whole, by the preacher's own decision that the congregation should hear the book as a book. Under the series' division of labour this sermon owns the question *Who is calling?*
 
 **Scope note.** The unit is the whole of 1:1–9:18, because that is the sermon. Two parts of it already have full solo runs from this session — `dig-deeper-proverbs-1-1to7` and `dig-deeper-proverbs-2` — and those are **consumed at Phase 0.5 rather than re-worked**; their findings are cited here as established and are not re-derived. What this report adds is the work that only becomes possible when the nine chapters are read as one movement: the speaker map, the escalation of the three public calls, the father's silence, and the vocabulary that separates the frame from the field. Warrant tags: `[T]` derivable from the text itself · `[I]` a reasonable inference from the text · `[S]` supplied by a secondary source.
+
+---
+
+## What Changed in v1.1
+
+**Claim audit 2** (`dig-deeper-proverbs-claim-audit-2`, 12 November 2026; two blind auditors, twelve claims, decisive results reproduced) tested the allusion and design claims this report carries into the sermon 4 backbone. Its verdicts are applied in place below with `[S: audit 2]` tags. **Where a tool section has not been revised, this table governs it.**
+
+| Report v1.0 said | v1.1 | Audit item |
+|---|---|---|
+| 1:20–21 ‖ 8:1–3: seven lemmas "across two two-verse spans" | **Five verses** (three of the seven stand only in 8:3). The reprise rests on **תִּתֵּן קוֹלָהּ ("she gives her voice"), 1:20 and 8:1 only in the canon**, on the seven-lemma set falling in a seven-verse window nowhere else, and on three Greek wordings unique to these verses (ὑμνεῖται, παρεδρεύει, πύλαις δυναστῶν). The bare lemma count is not stable evidence. **Moderate–high** | P5 |
+| 9:18 "the unit's only true narrator's comment" | **Withdrawn.** 1:20–21, 8:1–3, 9:1–3 and 9:13–15 are narrated, and 9:4, 16 carry the frame אָמְרָה לּוֹ ("she says to him"). **9:18 repeats the father**: וְלֹא־יָדַע כִּי ("and he does not know that") occurs only at 7:23, 9:18 and 28:22 | P6 |
+| Ch. 9 "addressed to no one"; 9:7–12 "neither woman" | **9:7–12 commands a "you"** (9:8–9) and 9:11 כִּי־בִי ("for by me") is Wisdom's, while its promise שְׁנוֹת חַיִּים ("years of life") is the father's (only 3:2; 4:10; 9:11). The voice is blended | P6 |
+| 1:12 → 9:18 the Sheol inclusio, high | **Discarded as an inclusio** (low): שְׁאוֹל also at 5:5 and 7:27; a permutation baseline reproduces the first-and-last pattern (p ≈ 0.5). **Kept as the death-word of the woman's house** (5:5; 7:27; 9:18), entered by the gang's boast, whose source is Korah (Num 16:30) | P7 |
+| 9:10 → 1:7 "the motto restated" | **The frame's strongest bracket** (moderate–high; rank stable): the only two verses in Proverbs joining the fear of the LORD to a "beginning" word. **A formula**, with Ps 111:10 nearer 9:10a. The Masoretic break falls after 9:9 | P8 |
+| Deut 6:8–9 → 3:3; 6:21; 7:3, "three of the father's addresses" | **Confirmed, high on the words — strongest at 7:3 and 6:20–22.** At 3:3 the things bound are חֶסֶד וֶאֱמֶת ("kindness and truth"), and 3:3's tablet line is absent from Swete and Rahlfs (BHS: "dl (ex 7,3)"). Add **6:22 ↔ Deut 6:7** and **7:3 ↔ Exod 31:18; Deut 9:10** (finger + tablet + write only these three) | P1 |
+| 9:1 חָכְמוֹת → 14:1, the built house | **Phrase high**: בָּנְתָה בֵיתָהּ ("she has built her house") only 9:1 and 14:1. **But 14:1 is pointed חַכְמוֹת** ("the wisest of"), not Wisdom's name; BHS proposes the identity | P12 |
+| John 1:3 as the register of 8:22–31 | **Low–moderate for Prov 8**; John builds on Gen 1:1; the NT's nearest contacts with 8:22 are Col 1:15–18 and Rev 3:14 | P4 |
+| Pitfall: "both set a table, both send or call" | **False.** Only Wisdom builds, prepares and sends; Folly sits and calls | P11 |
+| — | **New:** Luke 11:49 // Matt 23:34 — Jesus speaks as "the Wisdom of God" (moderate), not as Proverbs' figure (low); Luke 14 shares Prov 9's scene, not its wording (low–moderate); Ps 1 low–moderate, Ps 34:12 the nearer psalm; ידע ("know") not a leading word (low), but "not knowing" marks the wrong house (4:19; 5:6; 7:23; 9:13; 9:18) | P2, P3, P9, P10 |
 
 ---
 
@@ -35,7 +54,7 @@ Two hundred and fifty-six verses are too long to quote whole; the report quotes 
 
 1. **The father stops speaking, and Wisdom finishes his sentence for him.** `[T]`, WLC. בְּנִי ("my son") occurs fifteen times in chs 1–9 and **its last occurrence is 7:1**; the plural בָּנִים ("sons") occurs four times as a vocative, at 4:1, 5:7, 7:24 and 8:32. The formula וְעַתָּה בָנִים שִׁמְעוּ־לִי ("Now then, my sons, listen to me") stands **three times and only three times in the book** — 5:7 and 7:24 in the father's mouth, and **8:32 in Wisdom's**. After 7:27 the father never addresses the son again; chapters 8 and 9 belong to the two women. Surfaced by: Structure, Repetition, Tone, Who Am I?, Tool 11 Move 4. *High confidence.*
 
-2. **The three public calls are one escalating sequence, and the escalation is verifiable word by word.** `[T]`, WLC. 1:20–21 and 8:1–3 share **seven lemmas** — רנן ("to cry aloud"), קוֹל ("voice"), נתן ("to give"), רֹאשׁ ("top"), שַׁעַר ("gate"), פֶּתַח ("entrance"), קרא ("to call") — across two two-verse spans. The sequence then runs to 9:3, where Wisdom no longer shouts but *sends servants*, and to 9:15, where Folly does the same. Surfaced by: Structure, Repetition, Tool 11, Vocabulary. *High confidence.*
+2. **The three public calls are one escalating sequence, and the escalation is verifiable word by word.** `[T]`, WLC. 1:20–21 and 8:1–3 share **seven lemmas** — רנן ("to cry aloud"), קוֹל ("voice"), נתן ("to give"), רֹאשׁ ("top"), שַׁעַר ("gate"), פֶּתַח ("entrance"), קרא ("to call") — across five verses (1:20–21; 8:1–3), and they share the exact phrase **תִּתֵּן קוֹלָהּ ("she gives her voice"), found only at 1:20 and 8:1 in the canon**; the Greek adds three wordings unique to these verses `[S: audit 2]`. The sequence then runs to 9:3, where Wisdom no longer shouts but *sends servants*, and to 9:14–15, where **Folly takes over her setting** — מְרֹמֵי קָרֶת ("the heights of the city", 9:3 and 9:14 only) — **but sends no one; she sits and calls** `[S: audit 2]`. Surfaced by: Structure, Repetition, Tool 11, Vocabulary. *Moderate–high confidence* `[S: audit 2]` *— on the phrase, not the bare lemma count.*
 
 3. **The two invitations in chapter 9 are the same sentence, and the frame around them is not.** `[T]`, WLC. 9:4 מִי־פֶתִי יָסֻר הֵנָּה חֲסַר־לֵב אָמְרָה לּוֹ and 9:16 מִי־פֶתִי יָסֻר הֵנָּה **וַ**חֲסַר־לֵב **וְ**אָמְרָה לּוֹ. **The invitation — the four words the two women actually say — is word-for-word identical. The narrator's frame around each speaker is not: 9:16 adds two conjunctions.** The book's central problem is stated as a doublet, and the doublet is exact where it matters. Surfaced by: Repetition, Structure, Parallels, Tool 11 Move 4. *High confidence. (This corrects the fuller "word for word identical" claim carried in the earlier file — see Book-Overview Tensions.)*
 
@@ -107,7 +126,7 @@ Two hundred and fifty-six verses are too long to quote whole; the report quotes 
 | **7:27** | — | **The father's last words in the book** |
 | 8:1–36 | **Wisdom** | Second public call; the longest first-person speech |
 | 9:1–6 | Narrator + **Wisdom** | She builds, sends, and calls |
-| 9:7–12 | Aphoristic voice | Neither woman; the unit's one stretch of sentence-literature |
+| 9:7–12 | Aphoristic voice, blended | Commands a "you" (9:8–9); 9:11 "by me" is Wisdom's, its "years of life" the father's (3:2; 4:10) `[S: audit 2]` |
 | 9:13–18 | **Folly** | The mirror call |
 
 **The device: a handover.** The unit is not a chiasm and not a linear argument. It is a **transfer of voice**. The father speaks for six chapters, is interrupted twice by Wisdom, and then stops — and Wisdom takes his closing formula with her. The measurement that shows it is the first/second-person density per chapter `[T]`, WLC, counting person-marked verbs and pronominal suffixes:
@@ -135,9 +154,9 @@ Over 256 verses a connector-by-connector trace is not useful; three patterns are
 
 Bicolon parallelism is continuous. Three pairings carry the unit:
 
-**1:20–21 ‖ 8:1–3 — the same call, escalated.** Not a parallel within a verse but between two openings, and it is verified lemma by lemma `[T]`, WLC: רנן ("cry aloud", 1:20, 8:3), נתן קוֹל ("lift up voice", 1:20, 8:1), רֹאשׁ ("top", 1:21, 8:2), שַׁעַר ("gate", 1:21, 8:3), פֶּתַח ("entrance", 1:21, 8:3), קרא ("call", 1:21, 8:1). **Seven lemmas across four verses.** What changes is the posture: in ch. 1 she is in the noisy street and is refused; in ch. 8 she stands on the heights, beside the road, at the crossroads, and argues.
+**1:20–21 ‖ 8:1–3 — the same call, escalated.** Not a parallel within a verse but between two openings, and it is verified lemma by lemma `[T]`, WLC: רנן ("cry aloud", 1:20, 8:3), נתן קוֹל ("lift up voice", 1:20, 8:1), רֹאשׁ ("top", 1:21, 8:2), שַׁעַר ("gate", 1:21, 8:3), פֶּתַח ("entrance", 1:21, 8:3), קרא ("call", 1:21, 8:1). **Seven lemmas across five verses** — and the exact phrase תִּתֵּן קוֹלָהּ ("she gives her voice") at 1:20 and 8:1 only `[S: audit 2]`. What changes is the posture: in ch. 1 she is in the noisy street and is refused; in ch. 8 she stands on the heights, beside the road, at the crossroads, and argues.
 
-**9:1–6 ‖ 9:13–18 — the mirror.** Both women have a house (בַּיִת, vv.1, 14), both are at a high place (מְרֹמֵי קָרֶת, vv.3, 14 — identical phrase), both address the same person in the same words (vv.4, 16), both offer food and drink `[T]`. The differences are three: Wisdom **builds** (בָּנְתָה) and Folly merely **sits**; Wisdom's food is slaughtered and mixed and paid for, Folly's is stolen (מַיִם־גְּנוּבִים, v.17); and only one of the two houses has a footnote — v.18.
+**9:1–6 ‖ 9:13–18 — the mirror.** Both women have a house (בַּיִת, vv.1, 14), both are at a high place (מְרֹמֵי קָרֶת, vv.3, 14 — identical phrase), both address the same person in the same words (vv.4, 16), both offer food and drink `[T]`. The differences are more than three `[S: audit 2]`: Wisdom **builds** (בָּנְתָה), slaughters, mixes, **sets a table and sends**; Folly **sits** and calls, and sends no one; Wisdom speaks in imperatives (vv.5–6), Folly in a claim (v.17); Wisdom's food is slaughtered and mixed, Folly's is stolen (מַיִם־גְּנוּבִים, v.17); and the one ends in "live" (v.6), the other in v.18.
 
 **Antithetical parallelism is rare here and that is a finding.** The form that will dominate from 10:1 is almost absent from the frame; the frame prefers synonymous and synthetic lines `[T]`. The one place it arrives in force is 2:21–22, at the close of the chapter, which the ch. 2 run identified as the field's form arriving early `[S: ch. 2 dig]`.
 
@@ -145,10 +164,10 @@ Bicolon parallelism is continuous. Three pairings carry the unit:
 
 ### 6. Narrator's Comment
 
-**Rare, and two of them matter.** The unit is speech, not narrative, so authorial intrusion is unusual — which makes the exceptions loud `[T]`:
+**Rarer than speech, and two of them matter.** The unit is mostly speech; narration introduces Wisdom (1:20–21; 8:1–3) and stages chapter 9 (9:1–3, 13–15, with the frames at 9:4, 16) `[S: audit 2]`. Two moments carry weight `[T]`:
 
 - **7:6–9.** The father steps out of exhortation into first-person narrative: כִּי בְּחַלּוֹן בֵּיתִי בְּעַד אֶשְׁנַבִּי נִשְׁקָפְתִּי ("For at the window of my house I looked out through my lattice"). It is the only sustained narrative in the unit, and it exists so that the son sees the young man from outside, as the father saw him.
-- **9:18.** וְלֹא־יָדַע כִּי־רְפָאִים שָׁם בְּעִמְקֵי שְׁאוֹל קְרֻאֶיהָ ("But he does not know that the dead are there, That her guests are in the depths of Sheol"). **This is the unit's only true narrator's comment** — a piece of information given to the reader and withheld from the character. It is the last sentence before the proverbs begin, and it is the reason they are needed. *High confidence; this is the structural payoff of the whole frame.*
+- **9:18.** וְלֹא־יָדַע כִּי־רְפָאִים שָׁם בְּעִמְקֵי שְׁאוֹל קְרֻאֶיהָ ("But he does not know that the dead are there, That her guests are in the depths of Sheol"). A piece of information given to the reader and withheld from the character — **and it repeats the father's own sentence**: 7:23 closes his window-story with וְלֹא־יָדַע כִּי־בְנַפְשׁוֹ הוּא ("and he does not know that it will cost him his life"); the clause וְלֹא־יָדַע כִּי stands only at 7:23, 9:18 and 28:22, each time chapter-final in the frame `[S: audit 2]`. **The father has fallen silent, and the narrator ends the frame in his words.** It is the last sentence before the proverbs begin, and it is the reason they are needed. *High confidence on the echo; v1.0's "only true narrator's comment" is withdrawn* `[S: audit 2]`.
 
 ---
 
@@ -211,7 +230,7 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 | אָבִיךָ וְאַל־תִּטֹּשׁ תּוֹרַת אִמֶּךָ | 1:8, 6:20 | Opens the first and the seventh address |
 | מֵאִשָּׁה זָרָה מִנָּכְרִיָּה אֲמָרֶיהָ הֶחֱלִיקָה | 2:16, 7:5 | The clause becomes a scene |
 | אֲמָרַי וּמִצְוֺתַי תִּצְפֹּן אִתָּךְ | 2:1, 7:1 | Opens chs 2 and 7 identically |
-| כָּתְבֵם עַל־לוּחַ לִבֶּךָ | 3:3, 7:3 | The Sinai-tablet image, twice |
+| כָּתְבֵם עַל־לוּחַ לִבֶּךָ | 3:3, 7:3 | The Sinai-tablet image, twice — but 3:3's line is absent from the Greek, and BHS marks it as imported from 7:3 `[S: audit 2]` |
 | **וְעַתָּה בָנִים שִׁמְעוּ־לִי** | **5:7, 7:24, 8:32** | **Headline 1** |
 
 *(Caveat on method: the phrase search strips the standalone paragraph letters פ and ס, which would corrupt any phrase containing a word-internal standalone פ; none of the results above is affected, but a repetition of that shape could have been missed. Low risk, stated for the record.)*
@@ -236,11 +255,11 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 
 *What it adds:* the frame grounds its road-and-two-women argument in creation twice — once briefly (3:19–20) and once at length (8:22–31). **The point is not cosmology for its own sake but authority: the voice calling in the street was there when the world was made.** That is the argument of ch. 8 and it is why ch. 8 sits where it does.
 
-**Deuteronomy 6:8–9 → 3:3; 6:21; 7:3** *(high confidence on the verbal link)*
+**Deuteronomy 6:6–9 (with 11:18–20) and Exodus 31:18 → 6:20–22; 7:3; 3:3** *(high confidence on the verbal link, strongest at 7:3 and 6:20–22)* `[S: audit 2]`
 
 *Source context:* the Shema's command to bind the words on hand and forehead and write them on doorposts.
 
-*Book usage:* קשר ("bind") at 3:3, 6:21, 7:3 and כתב ("write") at 3:3, 7:3 — verified by lemma against Deut 6:8–9 `[T]`, WLC. **Three of the father's addresses open by giving his own teaching the posture of covenant law**, and the writing surface is the לוּחַ ("tablet") of the heart, לוּחַ being the Sinai word (Exod 31:18) `[T]`.
+*Book usage:* קשר ("bind") at 3:3, 6:21, 7:3 and כתב ("write") at 3:3, 7:3 — verified by lemma against Deut 6:8–9 `[T]`, WLC. **Binding and writing a teaching occur together in the canon only in Deut 6:8–9, Deut 11:18–20, Prov 3:3 and Prov 7:3** `[S: audit 2]`, and the writing surface is the לוּחַ ("tablet") of the heart (only 3:3; 7:3; Jer 17:1), לוּחַ being the Sinai word. **7:3 is the closest**: אֶצְבַּע ("finger") + לוּחַ ("tablet") + כתב ("write") stand together only at Exod 31:18, Deut 9:10 and Prov 7:3 `[S: audit 2]`. **6:22** adds the Shema's day — "when you walk… when you lie down… when you wake" (walk + lie down + rise only Deut 6:7; 11:19; 1 Sam 3:6) `[S: audit 2]`. Two cautions: at **3:3** the things bound are חֶסֶד וֶאֱמֶת ("kindness and truth"), not the father's words; and 3:3's tablet line is absent from Swete and Rahlfs (BHS: "> 𝔊^BS, dl (ex 7,3)"). The Greek uses Deuteronomy's ἀφάπτω ("fasten") at 3:3 and 6:21 (only Deut 6:8; 11:18; Prov 3:3; 6:21 in Swete) and has no "tablet" anywhere in Proverbs `[S: audit 2]`.
 
 *OT-to-OT:* Jer 31:33 writes the torah on the heart with the same two lemmas, כתב and לֵב, verified `[S: overview, confirmed]`.
 
@@ -253,10 +272,10 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 - `Internal:` **5:7 / 7:24 → 8:32** — *the handover*. Headline 1 `[T]`. *High confidence.*
 - `Internal:` **1:28 → 8:17** — *answers §earlier*, and it is the sharpest reversal in the unit. At 1:28 Wisdom says of those who refused her יְשַׁחֲרֻנְנִי וְלֹא יִמְצָאֻנְנִי ("they will seek me diligently but they will not find me"); at 8:17 she says וּמְשַׁחֲרַי יִמְצָאֻנְנִי ("and those who diligently seek me will find me"). **The same two lemmas — שׁחר and מצא — negated in the first speech and affirmed in the second** `[T]`, WLC, verified in both. *High confidence. This is also the frame's own answer to the hardest thing in it (1:26), and it should be preached as such.*
 - `Internal:` **1:11–14 → 9:13–18** — *answers §earlier*. The book's first quoted invitation is the sinners' לְכָה אִתָּנוּ ("Come with us"), and its last is Folly's מִי־פֶתִי יָסֻר הֵנָּה. **The frame opens and closes with someone inviting the young man in** `[T]`. *Moderate-to-high confidence; the inclusio is thematic and the vocabulary differs.*
-- `Internal:` **1:12 → 9:18** — *answers §earlier*. The gang boast נִבְלָעֵם כִּשְׁאוֹל חַיִּים ("Let us swallow them alive like Sheol"); the frame ends with Folly's guests בְּעִמְקֵי שְׁאוֹל ("in the depths of Sheol") `[T]`, both verified for שְׁאוֹל. **What the gang offered to do, Folly has already done.** *High confidence.*
+- `Internal:` **1:12 → 5:5 → 7:27 → 9:18** — *the woman's-house refrain*. The gang boast נִבְלָעֵם כִּשְׁאוֹל חַיִּים ("Let us swallow them alive like Sheol", echoing Korah, Num 16:30); thereafter שְׁאוֹל belongs to the strange woman's path and house (5:5; 7:27), and the frame ends with Folly's guests בְּעִמְקֵי שְׁאוֹל ("in the depths of Sheol") and the רְפָאִים ("dead") of 2:18 `[T]`. *Moderate.* **v1.0's two-point inclusio 1:12 → 9:18 is discarded**: the first-and-last pattern is what chance produces `[S: audit 2]`.
 - `Internal:` **3:18 → 11:30; 13:12; 15:4** — *planted for later*. The tree of life passes from the frame into the field `[T]`. *High confidence.*
-- `Internal:` **9:1 חָכְמוֹת בָּנְתָה בֵיתָהּ → 14:1; 24:3; 31:10–31** — *planted for later*. בנה + בַּיִת verified at 9:1, 14:1, 24:3 `[T]`. Wisdom's built house becomes a proverb and then a household. *High confidence.*
-- `Internal:` **9:10 → 1:7** — *answers §earlier*. The motto restated with different nouns at the frame's close `[S: 1:1–7 dig]`. *High confidence.*
+- `Internal:` **9:1 חָכְמוֹת בָּנְתָה בֵיתָהּ → 14:1; 24:3; 31:10–31** — *planted for later*. בָּנְתָה בֵיתָהּ ("she has built her house") occurs only at 9:1 and 14:1 in the canon `[S: audit 2]`; בנה + בַּיִת also at 24:3. Wisdom's built house becomes a proverb and then a household. *High confidence on the phrase.* **Note the pointing:** 14:1 reads חַכְמוֹת נָשִׁים ("the wisest of women"), the adjective, not Wisdom's name; BHS proposes reading 9:1's form. The echo is one of about twenty word-for-word frame–field links, not demonstrably a planted design `[S: audit 2]`.
+- `Internal:` **9:10 → 1:7** — *answers §earlier*. The motto restated with its nouns swapped at the frame's close `[S: 1:1–7 dig]`. **The frame's strongest bracket**: the only two verses in Proverbs joining יִרְאַת יְהוָה ("the fear of the LORD") to a "beginning" word, ranked 4th–16th of all frame verse pairs under two settings — though it is a formula, and Ps 111:10 is nearer 9:10a `[S: audit 2]`. *Moderate–high.*
 
 ---
 
@@ -416,7 +435,7 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 *Contribution:* the argument of ch. 8 is an argument from *authority by antiquity*, and it is the answer to 9:4/9:16.
 
 **(3) The word written on the heart.**
-*Where the unit sits:* 3:3; 6:21; 7:3, with Deuteronomy's two verbs and Sinai's noun `[T]`. *Before:* Deut 6:8–9; Exod 31:18. *After:* Jer 31:33 with the same two lemmas `[T]`; and 2 Cor 3:3 `[S]`.
+*Where the unit sits:* 6:20–22; 7:3 (and 3:3), with Deuteronomy's two verbs, the Shema's day, and Sinai's finger and tablet `[S: audit 2]`. *Before:* Deut 6:6–9; 11:18–20; Exod 31:18; Deut 9:10. *After:* Jer 31:33 `[T]`; and 2 Cor 3:3 `[S]` — which draws on Exodus, Ezekiel and Jer 38:33 LXX, not on the Greek of Proverbs, which has no "tablet" `[S: audit 2]`.
 *Contribution:* the father's instruction is given the posture of covenant law, which is either a large claim or a clue about who is really speaking.
 
 ### Schnittjer Pass
@@ -429,9 +448,9 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 
 **How the unit points to Christ.**
 
-- **The voice with a history (8:22–31).** The unit's answer to two identical invitations is that one speaker was present at the making of the world. The New Testament's language for Christ draws on exactly this register — πάντα δι᾽ αὐτοῦ ἐγένετο ("all things came into being through Him", John 1:3) `[T]`, SBLGNT — without exegeting Prov 8. **Preach the trajectory: the world was made wisely, and the wisdom by which it was made has come to us in a person.** *Moderate-to-high confidence on the trajectory; the identification is a category error and the Greek's ἔκτισέν με shows why.*
+- **The voice with a history (8:22–31).** The unit's answer to two identical invitations is that one speaker was present at the making of the world. The New Testament names Christ "the wisdom of God" (1 Cor 1:24, 30), and its nearest language to Prov 8:22 is Col 1:15–18 ("firstborn of all creation… all things were created through him") and Rev 3:14 — without exegeting Prov 8 `[S: audit 2]`. *v1.0 cited John 1:3 here; the audit puts John 1:1–3 low–moderate for Prov 8: John builds on Gen 1:1, and "all things came into being through him" has no counterpart in Prov 8* `[S: audit 2]`. In the Gospels Jesus also speaks in Wisdom's place (Luke 11:49 // Matt 23:34; moderate), though not as the figure of Prov 8–9 (low) `[S: audit 2]`. **Preach the trajectory: the world was made wisely, and the wisdom by which it was made has come to us in a person.** *Moderate-to-high confidence on the trajectory; the identification is a category error and the Greek's ἔκτισέν με shows why.*
 - **The handover of voice (Headline 1).** The father speaks, then falls silent, and the voice that continues is Wisdom's, using his words. The resonance with a Son who says οὐκ ἐλάλησα, ἀλλ᾽ ὁ πέμψας με πατὴρ ("I did not speak on My own initiative, but the Father who sent Me", John 12:49) is real and should be named as resonance, not as allusion `[I]`, moderate confidence. *It is homiletically strong and exegetically modest; say which it is.*
-- **The contrast — the guest at 9:18.** The frame ends with a man who does not know he is among the dead. Nothing in chs 1–9 retrieves him. **The unit's most Christ-shaped feature is the shape of the hole it leaves.**
+- **The contrast — the guest at 9:18.** The frame ends with a man who does not know he is among the dead, in the father's own words from 7:23. Nothing in chs 1–9 retrieves him — and the frame says so: כָּל־בָּאֶיהָ לֹא יְשׁוּבוּן ("none who go to her return", 2:19) `[T]`. Wisdom offers a turning before the door (1:23); no one comes back out of the other house. **The unit's most Christ-shaped feature is the shape of the hole it leaves.**
 
 **Trajectory.** *Anticipates:* a voice that can be trusted because of who it is, and a discernment the hearer does not have. *Christ fulfils:* the wisdom of God in person, and the Spirit who gives the ear. *Remains:* two invitations, still public, still similar.
 
@@ -446,7 +465,7 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 ### Difficult / Contested Verses
 
 - **8:22–31.** The *locus classicus*. קָנָנִי ("possessed me" / "created me") and אָמוֹן (8:30, "master workman" / "nursling") are both genuinely contested, and the Greek's ἔκτισέν με is why the fourth century argued about it. The overview holds the section at moderate confidence `[S: overview]`; the sermon should say plainly that this is a poem's personification and not a description of the pre-incarnate Son.
-- **9:7–12.** Six verses of sentence-literature in the middle of the tableau, addressed to no one in the scene. Whether they are an interlude, a later insertion, or the narrator's aside is genuinely open; the text gives no marker. *See Open Questions.*
+- **9:7–12.** Six verses of sentence-literature in the middle of the tableau, addressed to no one *in the scene* but to a "you" (9:8–9, 11–12), with 9:10's motto at their centre and a voice that blends Wisdom's "by me" with the father's promise (9:11) `[S: audit 2]`. Whether they are an interlude, a later insertion, or an aside is genuinely open; the Masoretic break falls after 9:9, not 9:6 `[S: audit 2]`. *See Open Questions.*
 - **The strange-woman passages (2:16–19; 5; 6:20–35; 7).** Four passages, roughly 70 verses, in a unit of 256. Pastorally this needs deliberate handling: the text's emphasis falls on her **speech** and her **abandonment**, and the unit's symmetry gives the perverse *man* equal weight at 2:12–15. Preach the pair.
 - **1:20–33.** Wisdom's threat — "I will laugh at your calamity" (1:26) — is the hardest thing in the unit to read aloud. It is a prophetic-oracle register, and **the frame answers it itself**: the seeking that fails at 1:28 succeeds at 8:17, in the same two words (Move 4). Preach 1:26 with 8:17 in hand, not on its own.
 
@@ -455,11 +474,11 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 ## Convergent Findings
 
 - **The unit is a handover of voice** — surfaced by Structure (the speaker map), Repetition (the three וְעַתָּה בָנִים), the person-marker profile (ch. 8's inversion), Tone, Who Am I?, and Move 4.
-- **The three public calls escalate and then change method** — surfaced by Parallels, Repetition (seven shared lemmas), Vocabulary (רנן, קרא), Historical Background (the gate as civic space), and Tool 11.
+- **The three public calls escalate and then change method** — surfaced by Parallels, Repetition (seven shared lemmas and the unique phrase "she gives her voice" `[S: audit 2]`), Vocabulary (רנן, קרא), Historical Background (the gate as civic space), and Tool 11.
 - **The two invitations are identical where it matters** — surfaced by Repetition, Parallels, Structure, Original Audience and the Christological moralism check; and it is what makes the moralism check bite.
 - **The frame and the field speak different dialects** — surfaced by Vocabulary, Repetition, Genre and the Positional Necessity Check; מַעְגָּל's absolute absence from chs 10–31 is the cleanest single datum.
-- **The unit ends by showing, not pleading** — surfaced by Narrator's Comment (9:18 as the only true authorial aside), Tone, Structure and Who Am I?
-- **The father's instruction is given covenant posture** — surfaced by Tool 11 (Deut 6:8–9 by lemma), Vocabulary (לוּחַ), Biblical Theology and Repetition (3:3 ‖ 7:3).
+- **The unit ends by showing, not pleading** — surfaced by Narrator's Comment (9:18 repeating the father's 7:23 `[S: audit 2]`), Tone, Structure and Who Am I? *But the showing is followed by commands in 9:7–12 and preceded by the appeal of 8:32–36 and 9:6; the frame both pleads and shows* `[S: audit 2]`.
+- **The father's instruction is given covenant posture** — surfaced by Tool 11 (Deut 6 and 11 by lemma; Exod 31:18 at 7:3 `[S: audit 2]`), Vocabulary (לוּחַ), Biblical Theology and Repetition (3:3 ‖ 7:3; 6:21–22).
 
 ---
 
@@ -468,8 +487,8 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 ### Pitfall: Making Folly obviously bad
 
 - **What it looks like:** Wisdom dignified and Folly tawdry; two invitations the congregation is expected to tell apart at a glance.
-- **Why it's wrong:** 9:4 and 9:16 are **the same four words** `[T]`. Both women have a house, both are at the high point of the city, both set a table, both send or call. The chapter's entire force is that the invitations are indistinguishable by their sound.
-- **The corrective:** read 9:4 and 9:16 one after the other, aloud, and let the room sit with it. Then ask what does distinguish them — and answer from ch. 8, not from tone of voice.
+- **Why it's wrong:** 9:4 and 9:16 are **the same four words** `[T]`. Both women have a house, both are at the high point of the city — the identical phrase, 9:3 and 9:14 — and both open with the same words. The invitations are indistinguishable by their sound. *(v1.0 added "both set a table, both send or call": false — only Wisdom sets a table and sends; Folly sits and calls* `[S: audit 2]`*.)*
+- **The corrective:** read 9:4 and 9:16 one after the other, aloud, and let the room sit with it. Then ask what does distinguish them — and answer from the text: what each host does, serves and leads to (9:1–6 against 9:13–18), the fear of the LORD between them (9:10), and ch. 8's voice that was there first; not from tone of voice `[S: audit 2]`.
 
 ### Pitfall: Preaching the unit as nine chapters of advice
 
@@ -492,14 +511,14 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 ### Pitfall: Stopping at 9:6
 
 - **What it looks like:** ending the sermon on Wisdom's invitation, because it is the warm place to end.
-- **Why it's wrong:** the unit does not end there. It ends at 9:18 with a man at a table who does not know where he is — the only true narrator's comment in 256 verses, and the reason the rest of the book follows `[T]`.
-- **The corrective:** end where the frame ends. The congregation should leave standing in the street with two doors open, not seated at one of the tables.
+- **Why it's wrong:** the unit does not end there. It ends at 9:18 with a man at a table who does not know where he is — the father's sentence from 7:23, now spoken over Folly's guests, and the reason the rest of the book follows `[T]` `[S: audit 2]`.
+- **The corrective:** end where the frame ends — but do not leave the appeal unpressed. The text applies itself at 8:32–36 and 9:6 ("leave your simple ways and live"); press that call, and let 9:18 be the last sentence.
 
 ---
 
 ## Open Questions / Uncertainties
 
-- **What is 9:7–12 doing?** Six aphoristic verses inside the tableau, addressed to no one in the scene, with no marker. Interlude, insertion or aside — the text does not say, and the corpus cannot settle it. Two commentaries.
+- **What is 9:7–12 doing?** Six aphoristic verses inside the tableau, addressed to no one in the scene but to a "you", with no marker of their edges. Interlude, insertion or aside — the text does not say, and the corpus cannot settle it. Two commentaries. *Audit 2 adds three data* `[S: audit 2]`: the WLC/BHS petuchah falls after **9:9**, not 9:6 (so the Masoretic division is 9:1–9 / 9:10–18); 9:11's speaker is blended (Wisdom's "by me", the father's "years of life"), and BHS notes the Greek's different reading there; and BHS records one manuscript omitting 9:9–10 and one 9:10–12.
 - **Why חָכְמוֹת at 1:20 and 9:1 but חָכְמָה at 8:1?** The form occurs five times in the WLC `[T]`; the alternation within the unit is unexplained, and the Greek's ὑμνεῖται at 1:20 suggests the versions found the form difficult too.
 - **אָמוֹן at 8:30.** "Master workman" or "little child"? A genuine crux, held at moderate confidence in the overview `[S: overview]`, and one the sermon can name rather than resolve.
 - **Is the ten-lecture/five-interlude analysis of 1:8–9:18 the text's own division?** It is the standard critical account `[S]` and the vocatives partly support it, but the vocative count (15 singular, 4 plural) does not map cleanly onto ten. The report has used the speaker map instead, which is derived from the text alone.
@@ -510,12 +529,17 @@ All counts WLC, all recurrences verified by lemma or by normalised phrase search
 
 ## Book-Overview Tensions
 
-**One correction and three extensions.**
+**One correction and three extensions** — *with four further items from claim audit 2 (5–8 below).*
 
 1. **Correction — 9:4 ‖ 9:16.** The overview (and the file it inherits from) states that the two are "in Hebrew as in English, word for word identical". They are not: 9:16 adds a waw to חֲסַר־לֵב and another to אָמְרָה `[T]`, WLC. **The claim should be restated as: the invitation the two women speak is word-for-word identical; the narrator's frame around each is not.** The point survives and sharpens. *(This was already flagged in the v2.0 rebuild; this run confirms it independently from the unit's own text.)*
 2. **Extension — the handover of the vocative formula.** וְעַתָּה בָנִים שִׁמְעוּ־לִי at 5:7, 7:24 and 8:32, three occurrences in the book, two the father's and one Wisdom's `[T]`. The overview's echo table does not carry it, and it is the strongest structural evidence for the unit's shape.
 3. **Extension — the frame/field vocabulary split, with numbers.** מַעְגָּל 7 verses in chs 1–9 and none in 10–31; אֹרַח 4.3× denser; צַדִּיק, רָשָׁע and כְּסִיל almost absent from the frame `[T]`. The overview describes the difference qualitatively; these figures make it auditable.
 4. **Extension — the divine-name density runs the other way.** יְהוָה is in 7.4% of the frame's verses and 10.3% of the rest `[T]`. Worth a line in the overview, because the natural assumption is the opposite.
+
+5. **Extension — Echo Table rows** `[S: audit 2]`: 1:20 ‖ 8:1 תִּתֵּן קוֹלָהּ ("she gives her voice", high); 7:23 ‖ 9:18 וְלֹא־יָדַע כִּי ("and he does not know that", moderate–high); 1:7 ‖ 9:10 (moderate–high, with Ps 111:10); 9:1 ‖ 14:1 בָּנְתָה בֵיתָהּ (phrase high; MT pointing differs).
+6. **Extension — intertextual map** `[S: audit 2]`: Deut 6:6–9; 11:18–20 and Exod 31:18 / Deut 9:10 at 6:20–22 and 7:3 (high).
+7. **Caution — the Christological row** `[S: audit 2]`: John 1:1–3 low–moderate for Prov 8 (Gen 1:1 governs); Col 1:15–18 and Rev 3:14 nearer 8:22; Luke 11:49 // Matt 23:34 moderate for "Jesus as the Wisdom of God", low for Proverbs' figure.
+8. **Caution — patterns not to carry** `[S: audit 2]`: the Sheol inclusio, ידע ("know") as a leading word, and Ps 1–2 as a seam (Ps 34:12 is the nearer psalm, untested).
 
 Otherwise the run confirms the overview throughout: the citation-light finding, the two-women structure, the Christological cautions on ch. 8, and the canonical-position block.
 
@@ -530,6 +554,7 @@ Otherwise the run confirms the overview throughout: the citation-light finding, 
 **Depth floors:** Met — Tools 1, 2, 3, 5, 6, 7, 9, 10, 11, 15 and 16 substantial; 5 Headline Findings; 5 Preaching Pitfalls.
 **Chains verified:** 21 chains, 88 references checked by lemma or morphology against `_texts/` — the vocative inventory for all 256 verses; וְעַתָּה בָנִים שִׁמְעוּ־לִי (3 occurrences, phrase search); the seven-lemma 1:20–21 ‖ 8:1–3 link (רנן, קוֹל, נתן, רֹאשׁ, שַׁעַר, פֶּתַח, קרא); קרא across 1:21, 8:1, 8:4, 9:3, 9:15; frame-versus-field density for 27 lemmas; the 24 paragraph markers; 9:4 ‖ 9:16 character by character; the five verbatim repetitions within the unit; תְּהוֹם at 3:20, 8:24, 8:27 and Gen 1:2; קשר and כתב at 3:3, 6:21, 7:3 against Deut 6:8–9; לוּחַ at 3:3, 7:3 and Exod 31:18; בנה + בַּיִת at 9:1, 14:1, 24:3; שְׁאוֹל at 1:12 and 9:18; the per-chapter person-marker profile. **No chain failed at this level;** the two failures caught in this session's earlier runs (the imperative claim and the Psalm 37 verb) are recorded in those reports.
 **Apparatus findings:** Two. The 24 paragraph markers in chs 1–9 and the mid-verse marker at 10:1 — witness named as WLC's printing of the Leningrad layout, stated as reading tradition rather than authorial, manuscript spread not independently checked, and not load-bearing (the speaker map and the vocatives establish the structure without them).
+**Claim audit 2 (12 Nov 2026):** the allusion and design claims carried into the sermon 4 backbone were audited by two blind auditors (P1–P12) and the verdicts applied in place in this v1.1 with `[S: audit 2]` tags; the counts below are v1.0's and were not re-run.
 **Warrant counts:** [T] 75 · [I] 14 · [S] 39; 30 explicit confidence flags.
 
 **A note on the [S] count, because it is unusually high and the skill asks for it to be explained rather than left to look bad.** Of the 39 `[S]` tags, **13 are citations of this session's own two consumed runs** (`[S: 1:1–7 dig]`, `[S: ch. 2 dig]`), 8 are the book overview, 6 are the BHS apparatus, and 11 are secondary literature carried at second hand. **The consumed-run citations are the opposite of source-dependence: they are there so that a reader can see exactly which findings were re-used rather than re-derived, and therefore which of the unit-level findings are this report's own.** Strip them out and the working ratio is [T] 75 · [I] 14 · [S] 26 — which is what the independent work looks like.
