@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Audit: Ruth</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#claim-audit-ruth">Claim Audit: Ruth</a></li>
+    <li><a href="#part-1-baselines-run-in-the-main-session">Part 1 — Baselines run in the main session</a></li>
+    <li><a href="#part-2-blind-auditor-2-field-and-design-claims">Part 2 — Blind auditor 2: field and design claims</a></li>
+    <li><a href="#part-3-blind-auditor-1-single-contacts">Part 3 — Blind auditor 1: single contacts</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#part-4-logos-round-1-added-v1.1-13-november-2026">Part 4 — Logos round 1 (added v1.1, 13 November 2026)</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="claim-audit-ruth">Claim Audit: Ruth</h1>
+<p><strong>Passages audited:</strong> the whole book — <code>book-overview-ruth.md</code> (v1.1→v1.2), <code>dig-deeper-ruth-sweep.md</code> (ten units), <code>dig-deeper-ruth-3-1to9.md</code> (solo dig). All three produced 13 November 2026. <strong>Date:</strong> 13 November 2026. <strong>Purpose:</strong> to test the thirty claims queued in <code>claim-audit-queue-ruth.md</code> before the overview is finalised and before any of this work reaches a pulpit. All three triggers of the standing rule had fired: volume (28 queued against a threshold of about ten), load-bearing (four candidates carry headlines), and Finalise (the sweep lists eight extensions for the overview’s next pass).</p>
+<p><strong>Why this audit matters more than usual on this book.</strong> The overview, the sweep and the solo dig were produced in one session, by one process, on one day, and the sweep’s own Book-Overview Tensions section reported finding no contradictions. A process that re-reads its own output can only agree with it. Two blind auditors were therefore run one after the other, each told what the other was not doing, and neither permitted to open the <code>Ruth/</code> report folder. Every decisive verdict was then reproduced in the main session before it was accepted.</p>
+<p><strong>Editions.</strong> Every count, chain and rank below is made against the Westminster Leningrad Codex as indexed in <code>_texts/hebrew-wlc/</code> (WLC), and says so. Where a finding turns on a ketiv/qere or an apparatus reading, it is cited from the BHS apparatus export in <code>_texts/logos-exports/</code>, which is the citation of record. The WLC is an observation layer: it holds one manuscript tradition and can never report how widely an apparatus feature is attested.</p>
+<p><strong>The rare-pair scan.</strong> Several verdicts turn on a density scan, so its definition is stated once here. A word-pair counts if both lemmas stand together in no more than K verses of the whole Hebrew Bible; density is rare pairs per verse of the partner chapter; lemmas occurring in more than 1,500 verses are excluded as stop-words. Ranks were taken at K=5 and K=10 and at verse floors of 5, 10 and 20, which give 919, 859 and 602 chapters. <strong>A rank is not evidence until it beats a null and holds at more than one setting</strong> — this was the instruction both auditors were given, and it is what three of the verdicts below turn on.</p>
+<hr />
+<h2 id="part-1-baselines-run-in-the-main-session">Part 1 — Baselines run in the main session</h2>
+<p>A chance baseline is a computation, not a judgement, so running one in the proposing session is not circular. Three were run before either auditor was briefed, and the auditors were given them as results rather than as claims, so the blind rounds were not spent re-deriving them.</p>
+<h3 id="r1-the-ten-pattern">R1 — the “ten” pattern</h3>
+<p><strong>Source:</strong> overview, Structural Arc Map (design proposal) and Early↔︎Late echo table; carried by the sweep. <strong>Claim:</strong> ten years in Moab (1:4), ten elders at the gate (4:2), and ten names from Perez to David (4:18–22) with Boaz seventh and David tenth, constitute a numerical design.</p>
+<p><strong>Baseline — every numeral in Ruth, by lemma (WLC):</strong> שְׁנַיִם (“two”) 9 occurrences, at 1:1, 2, 3, 5 (twice), 7, 8, 19 and 4:11; אֶחָד (“one”) 2, at 1:4 and 2:13; עֶשֶׂר (“ten”) 2, at 1:4 and 4:2; שֵׁשׁ (“six”) 2, at 3:15 and 17; שֶׁבַע (“seven”) 1, at 4:15.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — in substance a withdrawal of the design.</p>
+<p><strong>Reasoning:</strong> ten is not the book’s number. It occurs twice, tied with שֵׁשׁ (“six”) and one above שֶׁבַע (“seven”), against nine occurrences of שְׁנַיִם (“two”), eight of them in chapter 1. The ten <em>names</em> of 4:18–22 are not an occurrence of the word at all: the text never says “ten” of the genealogy, so that leg is a count the reader supplies. Nor is Boaz’s seventh position marked: the genealogy runs nine identical הוֹלִיד (“fathered”) formulas with no expansion anywhere, Boaz included — compare Genesis 5, where the seventh from Adam carries an expanded entry. The one formal irregularity in the list falls at the sixth name, not the seventh: שַׂלְמָה at 4:20 against שַׂלְמוֹן at 4:21.</p>
+<p><strong>Honest residue:</strong> 1:4 and 4:2 both use עֶשֶׂר (“ten”) <code>[T]</code>; the list has ten names and Boaz stands seventh <code>[T]</code>. Nothing beyond that.</p>
+<p><strong>Action:</strong> applied in overview v1.2 — the “design proposal” paragraph replaced by a recorded distribution, and the Early↔︎Late echo table’s final row rewritten. It may not reach a sermon as a pattern.</p>
+<h3 id="r3-one-verb-per-movement">R3 — one verb per movement</h3>
+<p><strong>Source:</strong> sweep, cross-passage finding 1. <strong>Claim:</strong> each movement has its own verb and they barely overlap — שׁוּב (“return”) 12 of 15 in chapter 1, לָקַט (“glean”) 12 of 12 in chapter 2, שָׁכַב (“lie down”) 8 of 8 in chapter 3, קָנָה (“acquire”) 6 of 6 in chapter 4, גָּאַל (“redeem”) 20 of 21 in chapters 3–4.</p>
+<p><strong>Baseline — how rare is single-chapter confinement in Ruth?</strong> Of the 86 lemmas occurring four or more times in the book, nine (10%) are wholly confined to one chapter: לָקַט (“glean”, 12, ch. 2), שָׁכַב (“lie down”, 8, ch. 3), קָצַר (“reap”, 7, ch. 2), קָנָה (“acquire”, 6, ch. 4), נַעַר (“young man”, 6, ch. 2), עַיִן (“eye”, 4, ch. 2), מַרְגְּלֹת (“place of the feet”, 4, ch. 3), זָקֵן (“elder”, 4, ch. 4), גֹּרֶן (“threshing floor”, 4, ch. 3).</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — the inference withdrawn, the distributions kept.</p>
+<p><strong>Reasoning:</strong> the three thematic verbs are in the list, and so are reapers, young men, eyes, elders and the threshing floor. Single-chapter confinement is not a mark of thematic design in Ruth; it is what a narrative with distinct settings produces, because the furniture of each scene changes with the scene. For completeness, שׁוּב (“return”) is 80% rather than 100% in chapter 1 and גָּאַל (“redeem”) 62% in chapter 4, so neither is in the confined set at all.</p>
+<p><strong>Action:</strong> applied — sweep cross-passage finding 1 rewritten as a distribution with the scene-furniture comparison beside it. <strong>Headline touched? No.</strong></p>
+<h3 id="r4-the-exodusgenesis-frame">R4 — the Exodus–Genesis frame</h3>
+<p><strong>Source:</strong> sweep, cross-passage finding 4. <strong>Claim:</strong> the book frames itself between two Torah books — Exodus at the opening (the visitation formula at 1:6) and Genesis at the close (the toledot heading at 4:18).</p>
+<p><strong>Baseline — where does Ruth touch the Torah?</strong> Thirteen verified contacts: 1:6 (Exod 4:31); 1:14 with 2:11 (Gen 2:24); 2:3 (Lev 19:9; 23:22); 2:11 (Gen 12:1); 2:20 (Gen 24:27 as an ordered phrase; Lev 25:25); 3:12 (Lev 25:25); 4:3 (Lev 25, sold and redeemed); 4:5 and 4:10 (Deut 25:5–10); 4:7–8 (Deut 25:9, by contrast); 4:11 (Gen 35:19; 48:7); 4:12 (Gen 38, by name); 4:18 (the toledot heading; Gen 46:12; Num 26:21).</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — the frame withdrawn.</p>
+<p><strong>Reasoning:</strong> Torah contacts run through the whole book and are densest in chapter 4, not at the two ends. The two contacts the claim privileges are real and strong, but they are two members of a set of thirteen, and nothing distinguishes the book’s first and last Torah contacts from the eleven between them. A frame requires the ends to be marked; here they are simply the first and last of a continuous series.</p>
+<p><strong>Action:</strong> applied — the frame withdrawn, the two contacts kept separately on their own merits. <strong>Headline touched? Yes</strong> — sweep Headline 3 states both contacts without calling them a frame, so the headline stands as written; the cross-passage finding is what changed.</p>
+<hr />
+<h2 id="part-2-blind-auditor-2-field-and-design-claims">Part 2 — Blind auditor 2: field and design claims</h2>
+<p><strong>Brief:</strong> R2, R19, R20, R21, R24, R25, R27, R28, plus two registers auditor 1 had surfaced while testing single contacts (R29 Hannah, R30 Ezekiel 16). Block tests, chance baselines, rank stability. The auditor was told it had not been given the single contacts, that it must not open the <code>Ruth/</code> folder, and that a rank is not evidence until it beats a null and holds at more than one setting.</p>
+<p><strong>Why there are no Hays tables in this part.</strong> The seven Hays criteria test whether text A alludes to text B. Every claim here is a claim about a <em>pattern</em> — a block, a programme, a chain, a concentration, a type-scene, a register — and the question a pattern faces is not availability or volume but whether it occurs more often than chance would supply. Each row therefore carries a measurement and a baseline in place of the table. Where a pattern claim rests on an underlying wording contact, that contact is counted by lemma set or ordered phrase and reported with the row.</p>
+<h3 id="r2-proverbsruth-canonical-adjacency">R2 — Proverbs–Ruth canonical adjacency</h3>
+<p><strong>Source:</strong> overview, Canonical Position and intertextual map — and, more awkwardly, this toolkit’s own reference files, which assert it. Current rating: moderate, unbaselined. <strong>Claim:</strong> Proverbs 31:10’s אֵשֶׁת חַיִל (“woman of worth”) is answered by Ruth 3:11, the two books standing adjacent in the Writings.</p>
+<p><strong>Measurement.</strong> אֵשֶׁת חַיִל as an ordered phrase stands in exactly three verses of the WLC — Prov 12:4, Prov 31:10, Ruth 3:11 — on the plain pass and on the consonant-skeleton pass alike. The two books share a second idiom: עָשָׂה חַיִל (“do valiantly”) in six verses — Num 24:18, 1 Sam 14:48, Ps 118:15, 118:16, Prov 31:29, Ruth 4:11. And a third contact nobody appears to have noticed: יָדַע (“know”) with שַׁעַר (“gate”) in one verse stands in <strong>four verses of the WLC — Josh 2:5, Amos 5:12, Prov 31:23 (“her husband is known in the gates”) and Ruth 3:11 (“all the gate of my people know”)</strong>.</p>
+<p><strong>Baseline.</strong> At book level Proverbs is a weak partner: its best chapter ranks 76th of 859 at K=5 and 123rd at K=10, and Proverbs 31 itself ranks 132nd and 123rd. Narrowing both sides reverses this. With the acrostic Prov 31:10–31 as target, <strong>Ruth 3 ranks first of 832 chapters at K=5 (density 0.222) and first of 832 at K=10 (0.278)</strong>; Ruth 1, 2 and 4 score zero at K=5. Against eight other Proverbs blocks of comparable size (2:1–22; 3:1–22; 7; 8:1–22; 10:1–22; 15:1–22; 23:1–22; 30:10–31), Ruth 3 scores <strong>zero rare pairs against six and one pair against the other two</strong>, ranking 47th and 49th. Only the acrostic puts Ruth 3 first.</p>
+<p><strong>Verdict:</strong> <strong>Confirmed with nuance</strong> — moderate–high for the lexical relation; the adjacency argument untestable here.</p>
+<p><strong>Reasoning:</strong> the relation is stronger than the claim says, and it is in a different place. It holds between <em>Proverbs 31:10–31 and Ruth 3</em>, which are each other’s top partner through four or five rare pairs, not between the two books, where Proverbs is unremarkable. <strong>The corpus cannot test canonical order at all.</strong> It can say only that the layout it follows places Ruth after Proverbs; whether that sequence is older than the Talmudic order of <em>Baba Batra</em> 14b, which puts Ruth <em>first</em> among the Writings, is a manuscript-and-tradition question. Any claim resting on adjacency must name the sequence it depends on — which is Logos question L1, still unrun and still the decisive test.</p>
+<p><strong>Action:</strong> overview — restate as a Prov 31:10–31 ↔︎ Ruth 3 relation at moderate–high, add the יָדַע/שַׁעַר contact and the עָשָׂה חַיִל idiom, and make the Canonical Position section name BHS’s sequence explicitly as the one it assumes. Do not preach the adjacency until L1 is answered.</p>
+<h3 id="r19-judges-1719-as-a-live-block">R19 — Judges 17–19 as a live block</h3>
+<p><strong>Source:</strong> overview intertextual map. Current: moderate–high for 1:1–2; the block capped at moderate, unbaselined as design. <strong>Claim:</strong> Judges 17–19 is a live source block behind Ruth’s opening.</p>
+<p><strong>Measurement.</strong> Judges 19 is <strong>first of 919 chapters at the five-verse floor and first of 859 at the ten-verse floor at K=5</strong> (density 0.700, 21 pairs), and first of 859 and first of 602 at K=10 (density 1.467); at K=3 it falls to 7th of 859. The density is made of domestic narrative furniture — Bethlehem, גּוּר (“sojourn”), נַעַר/נַעֲרָה (“young man/young woman”), שׁוּב (“return”), יָשַׁב (“dwell”), לוּן (“lodge”), רָחַץ (“wash”), יָטַב (“be merry”) — together with eight pairs whose partner is a particle or pronoun.</p>
+<p><strong>Two tests.</strong> Suppress Bethlehem entirely and Judges 19 stays <strong>first of 859 at K=10 (1.233) and second at K=5 (0.567)</strong>, but Judges 17 <strong>collapses from 18th to 247th at K=5 and from 4th to 59th at K=10</strong>; at K=3 it scores zero and ranks 460th. Separately, the ordered phrase מִבֵּית לֶחֶם יְהוּדָה (“from Bethlehem of Judah”) stands in <strong>eight verses</strong> — Judg 17:7, 17:8, 17:9, 19:1, 19:18, 1 Sam 17:12, Ruth 1:1, 1:2 — and the longer sequence with לָגוּר (“to sojourn”) in exactly two: <strong>Judg 17:8 and Ruth 1:1</strong>.</p>
+<p><strong>The null.</strong> Judges 19’s rank against nineteen arbitrary narrative targets of comparable size ran from 1st to 368th, median 25th of 859. It ranks <strong>first against Genesis 24 at density 0.867 — higher than the 0.700 it reaches with Ruth</strong> — and the main session’s own ten nulls put it 1st against Gen 24, 2nd against 1 Sam 25, 2nd against 2 Sam 13, 5th against Esther 2 and 7th against 1 Sam 9–10.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — low–moderate as design; the Ruth 1:1 ~ Judges 17:8 contact moderate–high.</p>
+<p><strong>Reasoning:</strong> the rank is real and reproducible, and it does not beat its null. A chapter that comes first against Genesis 24 with a <em>higher</em> density than it manages against Ruth is telling us about Judges 19’s vocabulary, not about Ruth’s sources. The block claim also inverts the evidence: Judges 19’s standing survives the removal of Bethlehem and is unexplained by it, while Judges 17’s standing is <em>entirely</em> that formula, and its one real contact is a single clause at Ruth 1:1 reproducing Judg 17:8 almost word for word. The better finding is being hidden by the worse one.</p>
+<p><strong>Action:</strong> overview and sweep unit 1 — demote Judges 17 from “live source block” to one verbal contact at moderate–high; report Judges 19 as a vocabulary-register observation with its null attached, not as a source. This is the third time this project has quoted a rank its null refuses.</p>
+<h3 id="r20-genesis-as-a-live-source-and-as-a-programme">R20 — Genesis as a live source, and as a programme</h3>
+<p><strong>Source:</strong> overview; sweep; dig. Current: live source confirmed by the sweep; programme unbaselined. <strong>Claim:</strong> Genesis is Ruth’s most-used source, and its use amounts to a programme.</p>
+<p><strong>Measurement.</strong> Per-book mean chapter density against the whole of Ruth at K=5: <strong>1 Samuel 0.125, 2 Samuel 0.120, Judges 0.114, Esther 0.110, Genesis 0.102</strong>, Deuteronomy 0.084. At K=10 the order is the same: 1 Samuel 0.309, Judges 0.284, 2 Samuel 0.283, Genesis 0.226, Deuteronomy 0.209. In Ruth’s top fifty partner chapters Genesis supplies eight, more than any other book — but Genesis is 50 of the 859 chapters, so that is 2.75× expectation against <strong>3.33× for 1 Samuel</strong>, 2.45× for Judges and 2.24× for Joshua. Of the thirteen settled Torah contacts six are with Genesis; Genesis is 27% of the Torah’s chapters and supplies 46%, which is 1.7×.</p>
+<p><strong>The null.</strong> The same per-book profile was computed for five arbitrary targets (Esth 1–3, 1 Sam 9–10, 2 Kgs 4–5, Gen 24, 2 Sam 13–14). <strong>Genesis is not the top partner book for any target, Ruth included</strong> — the top slots go to Jeremiah, Esther, 1 Samuel, Judges and Esther respectively. Genesis densities across those five nulls ran 0.039 to 0.103, and <strong>2 Samuel 13–14 yields a Genesis density of 0.103 against Ruth’s 0.102</strong> — so Ruth’s figure sits <em>inside</em> the null band, not above it.</p>
+<p><strong>Verdict:</strong> <strong>Confirmed with nuance</strong> for Genesis as a live source, resting on the contacts rather than on density; <strong>Discard</strong> the programme.</p>
+<p><strong>Reasoning:</strong> “Ruth’s most-used source” is an artefact of length. Genesis gets the most top-fifty chapters because it has the most chapters, and per chapter it is the fifth-densest partner, behind Samuel, Judges and Esther. The Samuel–Judges–Esther–Kings profile is what <em>any</em> Hebrew narrative yields. On density alone Ruth’s Genesis relation is indistinguishable from an arbitrary narrative’s, which is the main session’s one substantive correction to this auditor: it rated the live source on the ground that Ruth’s Genesis figure clears the null band, and under a different choice of nulls it does not. What carries the Genesis relation is therefore the six individually verified contacts, five of them at the seams of 2:11 and chapter 4 — and six contacts spread over fifty chapters of the canon’s most-quoted narrative book is not more than Genesis’s size and kind supply by chance. Nothing in the distribution suggests a programme.</p>
+<p><strong>Action:</strong> overview intertextual map — keep Genesis as a live source, state that the warrant is the six contacts and not density, and delete the programme. Any sermon claim that Ruth is “written out of Genesis” goes.</p>
+<h3 id="r21-the-four-use-עזב-chain">R21 — the four-use עָזַב chain</h3>
+<p><strong>Source:</strong> overview. Current: design, untested. <strong>Claim:</strong> עָזַב (“leave, forsake”) occurs four times with four different subjects, spread across the book — a deliberate chain.</p>
+<p><strong>Measurement.</strong> עָזַב stands in exactly four verses of Ruth — 1:16, 2:11, 2:16, 2:20 — all four verified against the reading text. The subjects are <strong>three, not four</strong>: Ruth at 1:16 (לְעָזְבֵךְ, “to forsake you”, of Naomi) and Ruth again at 2:11 (וַתַּעַזְבִי, “and you left your father and your mother”); the harvesters at 2:16; and YHWH’s חֶסֶד (“covenant-kindness”) at 2:20. The spread is two chapters, 1 and 2 — not the whole book.</p>
+<p><strong>Baseline.</strong> Ruth has 21 lemmas occurring exactly four times. Of those, 4 are confined to a single chapter, <strong>16 span exactly two chapters</strong>, and 1 spans more. Across all 86 lemmas occurring four or more times, 9 are confined to one chapter, 22 span two, 30 span three and 25 span all four.</p>
+<p><strong>Verdict:</strong> <strong>Discard</strong> — high confidence.</p>
+<p><strong>Reasoning:</strong> four occurrences over two adjacent chapters is what sixteen of Ruth’s twenty-one four-occurrence lemmas do; it is the single commonest distribution a word of that frequency has in this book, so it carries no information. The subject count is wrong as well, and the three uses at 2:11, 2:16 and 2:20 are in any case three different senses — abandon a parent, leave grain behind, withdraw kindness — which is lexical range, not a chain.</p>
+<p><strong>Action:</strong> overview — remove the chain. The individual sense at 2:20 (YHWH’s חֶסֶד not forsaken) keeps its own value and is untouched by this.</p>
+<h3 id="r24-ידע-as-chapter-3s-leading-root">R24 — יָדַע as chapter 3’s leading root</h3>
+<p><strong>Source:</strong> 3:1–9 dig. Current: moderate, capped by the sound-claim rules. <strong>Claim:</strong> יָדַע (“know”) is chapter 3’s leading root, five of its eight occurrences falling there, with the kinship terms of 2:1 and 3:2 from the same root as the chapter’s concealment verbs.</p>
+<p><strong>Measurement.</strong> יָדַע stands in eight verses of Ruth — 2:1, 2:11, 3:3, 3:4, 3:11, 3:14, 3:18, 4:4 — so five in chapter 3, as claimed. The nominal side is stronger than the claim states. The WLC prints Ruth 2:1 as the unpointed ketiv מידע, and the BHS apparatus at 2:1 records <em>mlt Mss ut Q</em> מוֹדַע <em>; K</em> מְיֻדָּע. Ruth 3:2’s מֹדַעְתָּנוּ (“our kinswoman”) is a <strong>hapax legomenon in the Hebrew Bible</strong>, and its masculine counterpart מוֹדַע stands elsewhere only at Prov 7:4. Three distinct nominal forms of the root, two of them unique or near-unique, cluster on Boaz.</p>
+<p><strong>Baseline.</strong> For each of the 86 lemmas occurring four or more times in Ruth, the binomial probability of its densest chapter’s share was computed against that chapter’s length (the chapters run 22, 23, 18 and 22 verses). יָדַע’s five-of-eight in chapter 3 gives p = 0.013. <strong>Nineteen of the 86 lemmas are at least this concentrated</strong>, and יָדַע is the second-least concentrated of the nineteen — behind, among others, לָקַט (“glean”, 12, all in ch. 2), יָלַד (“bear”, 14, 13 in ch. 4), שָׁכַב (“lie down”, 8, all in ch. 3), גָּאַל (“redeem”, 21, 13 in ch. 4) and קָנָה (“acquire”, 6, all in ch. 4). With 86 lemmas tested, about one chance hit at p = 0.013 is expected; nineteen observed tell us Ruth’s vocabulary is scene-bound throughout.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — moderate for the lexical double duty; <strong>Discard</strong> the concentration.</p>
+<p><strong>Reasoning:</strong> the concentration is not distinctive, and “leading root” is a frequency claim the baseline refuses. What is distinctive, and better than the claim, is that a hapax kinship noun at 3:2 and a ketiv/qere pair at 2:1 come from the very root chapter 3 then uses five times for concealment — “do not make yourself known to the man” against “our kinswoman”. That is one root doing lexical double duty, which the distribution supports without any appeal to frequency.</p>
+<p><strong>Action:</strong> dig — rewrite the finding as double duty, name the BHS reading it stands on at 2:1, and drop the five-of-eight concentration.</p>
+<h3 id="r25-descent-and-ascent">R25 — descent and ascent</h3>
+<p><strong>Source:</strong> 3:1–9 dig. Current: moderate, untested as design. <strong>Claim:</strong> יָרַד (“go down”) at 3:3 and 3:6 and עָלָה (“go up”) at 4:1 are the only occurrences of either, marking a descent to the threshing floor answered by an ascent to the gate.</p>
+<p><strong>Measurement.</strong> Both are confirmed as the only occurrences. יָרַד with גֹּרֶן (“threshing floor”) in one verse stands in <strong>Ruth 3:3 and 3:6 only in the whole WLC</strong> — but עָלָה with שַׁעַר (“gate”) stands in <strong>seventeen</strong> verses, so Boaz’s move at 4:1 is an ordinary idiom. The book’s actual motion vocabulary is יָלַךְ (“go”, 15), בּוֹא (“come”, 18), שׁוּב (“return”, 15) and יָצָא (“go out”, 4); the two great journeys, Bethlehem to Moab and back, use neither יָרַד nor עָלָה. <strong>And the ketiv at 3:3 is first person:</strong> the WLC prints וירדתי unpointed, and the BHS apparatus at 3:3 records <em>Q mlt Mss</em> וְיָרַדְתְּ<em>; K</em> ‑תִּי — so the consonantal text has Naomi say “and <em>I</em> shall go down to the threshing floor.”</p>
+<p><strong>Baseline.</strong> 132 of Ruth’s 308 distinct lemmas occur once and 62 twice — 194 of 308, 63% of the book’s vocabulary. A verb used twice beside a verb used once is the modal shape of a lemma in this book.</p>
+<p><strong>Verdict:</strong> <strong>Discard</strong> as design — high confidence.</p>
+<p><strong>Reasoning:</strong> two occurrences and one occurrence in an 85-verse book is the commonest thing vocabulary does here, so the pattern has no statistical content. Both verbs are doing plain topography — the floor is outside and below the town, the gate is in it — and the ascent half is a seventeen-verse idiom. Worse for the claim, the ketiv makes the first descent Naomi’s rather than Ruth’s, so the consonantal text does not deliver a single descending subject at all; a report resting on this would have to argue the qere first, and say so.</p>
+<p><strong>Action:</strong> dig — withdraw the descent/ascent design. The 3:3/3:6 collocation keeps its own small value as the canon’s only pairing of the verb with the threshing floor.</p>
+<h3 id="r27-the-betrothal-type-scene-with-a-displaced-well">R27 — the betrothal type-scene with a displaced well</h3>
+<p><strong>Source:</strong> 3:1–9 dig, tagged <code>[S]</code>. Current: moderate at best — a scholarly construct. <strong>Claim:</strong> Ruth 2 runs the betrothal type-scene of Genesis 24, Genesis 29 and Exodus 2, with the well displaced into the field.</p>
+<p><strong>Measurement.</strong> Against Ruth 2, <strong>Genesis 24 ranks 29th of 859 at K=5 (density 0.134) and 7th of 859 at K=10 (0.373)</strong>; Genesis 29 ranks 219th and 182nd; <strong>Exodus 2 ranks 288th and 357th, with zero density at K=5</strong>. Against Ruth 3: Gen 24 33rd and 15th; Gen 29 224th and 382nd, zero at both; Exod 2 111th and 248th. The water vocabulary holds: שָׁאַב (“draw water”) occurs in 18 verses of the WLC, <strong>seven of them in Genesis 24</strong> (24:11, 13, 19, 20, 43, 44, 45) and one at Ruth 2:9; and שָׁתָה (“drink”) with שָׁאַב in one verse stands in <strong>five verses only — Gen 24:19, Gen 24:44, 2 Sam 23:16, Ruth 2:9 and 1 Chr 11:18</strong>, the last two being one episode, David and the well of Bethlehem. Genesis 29 and Exodus 2 do not use שָׁאַב at all: Gen 29 uses שָׁקָה (“water the flocks”) and Exod 2 uses דָּלָה (“draw up”). Ruth has no בְּאֵר (“well”) at all; Gen 29 has four and Exod 2 one.</p>
+<p><strong>The null.</strong> Genesis 24’s rank against ten arbitrary single-chapter narrative targets gave a median of 114th at K=5 and 78th at K=10, with the best null 29th and 21st. Ruth 2’s 29th and 7th beats every null at K=10 and ties the best at K=5, so Genesis 24 clears its null — narrowly.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — the Genesis 24 contact moderate; <strong>Discard</strong> the type-scene.</p>
+<p><strong>Reasoning:</strong> two of the three exemplars register nothing, and Exodus 2 scores literally zero shared rare vocabulary with Ruth 2 — a nil result with the positive controls passing in the same run. What the corpus supports is narrower and better: Ruth 2:9’s “drink from what the young men draw” uses Genesis 24’s own distinctive verb in Genesis 24’s own distinctive pairing with “drink”, a collocation in five verses of the Hebrew Bible. That is a lexical contact with one chapter, not a structural pattern — and it is strengthened by the fact that the only other member of the set is the Bethlehem-well episode of 2 Samuel 23:15–16, a neighbour the type-scene framing hides.</p>
+<p><strong>Action:</strong> dig — replace the type-scene with the Genesis 24 lexical contact, note the Bethlehem-well set, and keep the <code>[S]</code> tag off a finding the text now supports directly.</p>
+<h3 id="r28-the-narrators-four-interventions">R28 — the narrator’s four interventions</h3>
+<p><strong>Source:</strong> 3:1–9 dig. Current: moderate–high, untested as design. This is the dig’s argument against the sexual reading of 3:7–9. <strong>Claim:</strong> four narratorial interventions cluster around 3:1–9, a deliberate suspension of the book’s reticence.</p>
+<p><strong>Measurement.</strong> Every narratorial aside outside direct speech was classified across the book. <strong>Exposition:</strong> 1:1–2; 2:1 (אִישׁ גִּבּוֹר חַיִל, “a mighty man of worth”); 2:3b; <strong>4:7</strong>, a whole verse of antiquarian explanation and the most overt intervention in the book; 4:17b. <strong>Motive or perception supplied:</strong> 1:6; 1:18; 2:18. <strong>Inner state:</strong> 1:5; 3:7 (וַיִּיטַב לִבּוֹ, “his heart was merry”); 3:8 (וַיֶּחֱרַד … וַיִּלָּפֵת, “the man was startled and twisted about”). <strong>הִנֵּה (“behold”) as a perception marker:</strong> five in the book, of which the narrator owns three — 2:4, 3:8, 4:1, one apiece in chapters 2, 3 and 4; the other two (1:15, 3:2) are inside Naomi’s speech. <strong>Providence notices:</strong> 2:3 (וַיִּקֶר מִקְרֶהָ, “and her chance chanced”); 4:13, the only narratorial act of God in the book. Totals by chapter are 4, 5, 4, 4 — per verse 0.18, 0.22, 0.22, 0.18.</p>
+<p><strong>Baseline.</strong> The book’s own four chapters, normalised by verse count. Chapters 2 and 3 are level and all four are within one device of each other.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — moderate for the individual observations; <strong>Discard</strong> the cluster.</p>
+<p><strong>Reasoning:</strong> the distribution is flat. The narrator intervenes about once every five verses throughout, and the narratorial “behold” falls exactly once in each of the last three chapters. Chapter 3 is not a suspension of reticence, because the book is not reticent. Two corrections follow: <strong>Ruth 3:10 is Boaz’s direct speech, not a narrator’s verdict</strong> — the verse opens וַיֹּאמֶר (“and he said”) — so the claim’s four items are three; and 3:8’s “the man was startled” is itself an inner-state notice the claim does not count, while the book’s two heaviest interventions, the antiquarian note at 4:7 and the conception notice at 4:13, both fall in chapter 4.</p>
+<p><strong>Action:</strong> <strong>dig Headline — rewrite in place.</strong> The argument against the sexual reading may no longer run through a cluster of interventions. It must run instead through what 3:8–9 and 3:10 actually say, with 3:10 attributed to Boaz. This is the one verdict in the audit that touches a headline’s substance rather than its wording.</p>
+<h3 id="r29-a-hannah-1-samuel-12-register-new-raised-by-auditor-1">R29 — a Hannah / 1 Samuel 1–2 register (new, raised by auditor 1)</h3>
+<p><strong>Measurement.</strong> The three underlying wording claims verify. כִּי־פָקַד יְהוָה אֶת as an ordered phrase: three verses — Exod 4:31, 1 Sam 2:21, Ruth 1:6. אֶפְרָתִי: five verses — Judg 12:5, 1 Sam 1:1, 1 Sam 17:12, 1 Kgs 11:26, Ruth 1:2 — though at Judg 12:5 and 1 Kgs 11:26 it means “Ephraimite”, so only three are Bethlehem usages. שֶׁבַע (“seven”) with עֲקָרָה (“barren”) in one verse: <strong>1 Sam 2:5 alone in the whole WLC</strong> — but “seven” with “sons” stands in 73 verses, so the Ruth 4:15 link is thematic, not verbal. <strong>A fourth contact, previously unreported:</strong> חֵן (“favour”) with שִׁפְחָה (“maidservant”) in one verse stands in <strong>three verses — Gen 32:6 [Eng 32:5], 1 Sam 1:18 (Hannah to Eli) and Ruth 2:13</strong>; מָצָא (“find”) with שִׁפְחָה gives the same three.</p>
+<p><strong>Measurement, scan.</strong> Against the whole of Ruth, 1 Samuel 1 ranks 25th of 859 at K=5 and 26th at K=10 — but 1 Sam 21 (10th/12th), 1 Sam 20 (14th/9th), 1 Sam 22 and 1 Sam 28 all rank above it. <strong>1 Samuel 2 ranks 224th of 859 at K=5 and 106th at K=10.</strong> By chapter, 1 Samuel 1 ranks <strong>8th of 859 against Ruth 2</strong> at K=5 and 13th at K=10; 130th/67th against Ruth 1; 378th/139th against Ruth 3; 344th/494th against Ruth 4.</p>
+<p><strong>The null.</strong> 1 Samuel 1’s rank against ten arbitrary targets ran 7th to 441st, median 170th — Ruth 2’s 8th beats nine of ten. 1 Samuel 2’s ranks against the same ten ran 16th to 442nd, and <strong>Ruth’s 224th is worse than two of the ten arbitrary nulls.</strong> Per chapter, 1 Samuel is Ruth’s densest partner book of all, so a high-ranking 1 Samuel chapter is the book-wide expectation.</p>
+<p><strong>Verdict:</strong> <strong>Needs reframing</strong> — moderate, and only for 1 Samuel 1.</p>
+<p><strong>Reasoning:</strong> the cumulative instinct is half right. 1 Samuel 1 clears its null against Ruth 2, and the new fourth contact strengthens it — Ruth 2:13 and 1 Sam 1:18 share a three-verse collocation <em>and</em> a speech situation, a woman deferring to a man of standing. But 1 Samuel 2 fails outright, ranking below two arbitrary nulls, and the Ruth 4:15 link rests on a shared number inside a 73-verse collocation. The register is also not Hannah’s: four 1 Samuel chapters about Saul and David rank above 1 Sam 1 against Ruth, so what the corpus shows is a book-wide affinity with Samuel’s narrative idiom, with two rare wording contacts happening to land in its first chapter.</p>
+<p><strong>Action:</strong> sweep unit 4 and overview — record as “1 Samuel 1 contacts, three of them, within a general Samuel affinity”, at moderate. Drop 1 Samuel 2 from the case. Add the Ruth 2:13 ~ 1 Sam 1:18 contact.</p>
+<h3 id="r30-an-ezekiel-16-register-new-raised-by-auditor-1">R30 — an Ezekiel 16 register (new, raised by auditor 1)</h3>
+<p><strong>Measurement.</strong> The three wording claims verify exactly. אֶרֶץ (“land”) with מוֹלֶדֶת (“birthplace”) with אָב (“father”) with אֵם (“mother”) in one verse: <strong>two verses of the WLC, Ezek 16:3 and Ruth 2:11.</strong> פָּרַשׂ (“spread”) with כָּנָף (“wing”): twelve verses, of which Ezek 16:8 and Ruth 3:9 are the only two where a person spreads a garment-wing over a person — the rest are cherubim, an eagle, a hawk, Moab and Edom. רָחַץ (“wash”) with סוּךְ (“anoint”): <strong>three verses — 2 Sam 12:20, Ezek 16:9 and Ruth 3:3.</strong></p>
+<p><strong>Measurement, scan.</strong> Against the whole of Ruth, <strong>Ezekiel 16 ranks 291st of 859 at K=5 (density 0.063) and 349th of 859 at K=10 (0.127)</strong>. It is not even Ezekiel’s best chapter against Ruth: Ezek 4 ranks 29th and Ezek 8 80th at K=5. By chapter it ranks 514th against Ruth 1 with zero density, 260th against Ruth 2, 158th against Ruth 3 and 174th against Ruth 4. Ezekiel’s per-chapter mean density against Ruth, 0.033, is the lowest of any major narrative or prophetic book bar Psalms and Numbers.</p>
+<p><strong>The null.</strong> Chance for a chapter drawn at random is a rank near 430th of 859. Ezekiel 16 sits at 291st and 349th — marginally above chance, and below where thirty-odd Ezekiel chapters sit on one setting or the other. With 63 verses it is among the longest chapters in the canon, so it has more opportunities for a rare pair than almost any rival and still produces one of Ezekiel’s lowest rates.</p>
+<p><strong>Verdict:</strong> <strong>Discard</strong> as a field claim — high confidence. The three individual contacts stand on their own.</p>
+<p><strong>Reasoning:</strong> Ezekiel 16 ranks where a long chapter ranks. The scan gives it no standing as a register at any setting, and it is beaten by Ezekiel chapters nobody has proposed as a source. What the three contacts share is subject matter — a woman, a birth-land, washing and anointing, a garment spread in marriage — and a 63-verse chapter about a foundling woman taken to wife is exactly where that vocabulary lives.</p>
+<p><strong>Action:</strong> keep Ezek 16:8 ~ Ruth 3:9 (which is R9, the dig’s Headline 2) and Ezek 16:9 ~ Ruth 3:3 (R14) as individually rare wording contacts at their existing ratings. Drop the register. <strong>Dig Headline 2 is unaffected:</strong> it rests on the single contact, not on the register.</p>
+<hr />
+<h2 id="part-3-blind-auditor-1-single-contacts">Part 3 — Blind auditor 1: single contacts</h2>
+<p><strong>Brief:</strong> R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R23, R26 — wording, rarity counts, named rivals, and the Greek, with the instruction that where it reported a phrase identical, verbatim, exact or found only in certain places it must quote each occurrence as the text prints it.</p>
+<p><strong>Outcome of the round:</strong> five rows reframed, four of them because of a rival the proposing run had never tested; eleven rows stood; two outright errors found. Both errors were in the solo dig, and both were mine.</p>
+<h3 id="the-main-sessions-gate-on-this-round">The main session’s gate on this round</h3>
+<p>Fifteen decisive claims were reproduced independently, all fifteen confirmed. One detail in the auditor’s reasoning was wrong and is corrected here: it described 2 Samuel 14:7’s שֵׁם (“name”) as a ketiv, where the unpointed word in that verse is the verb שׂום (“to put”). The substance of its point is unaffected.</p>
+<p>The reproduced items, as prose a reader can check against the text:</p>
+<ul>
+<li><strong>Deuteronomy 24:19–21 supplies the whole of Ruth 2’s gleaning scene in three consecutive verses:</strong> 24:19 has קָצַר (“reap”), קָצִיר (“harvest”), עֹמֶר (“sheaf”) and the triad הַגֵּר הַיָּתוֹם וְהָאַלְמָנָה (“the sojourner, the orphan and the widow”); 24:20 has חָבַט (“when you beat your olive tree”) with the same triad; 24:21 the vineyard with the triad again. Deuteronomy 24 also ranks 26th of 859 against Ruth 2 at K=5.</li>
+<li><strong>שָׁלַף (“draw out”) stands in 24 verses of the WLC; twenty have a sword as the object; the only two with a sandal are Ruth 4:7 and 4:8</strong> (the remaining two are Ps 129:6 and Job 20:25).</li>
+<li><strong>חָמוֹת (“mother-in-law”) and כַּלָּה (“daughter-in-law”) share no verse in Ruth — zero</strong> — so Micah 7:6 is the only verse in the canon that pairs the two words on which the whole book is built.</li>
+<li><strong>שִׁבְעָה בָנִים (“seven sons”) as an ordered phrase returns Job 1:2 alone</strong> on the plain pass; Psalm 17:14 appears only on the skeletal pass and was read and rejected as a spelling false positive.</li>
+<li><strong>כִּי־פָקַד יְהוָה אֶת as an ordered phrase stands in three verses — Exod 4:31, 1 Sam 2:21, Ruth 1:6</strong> — so the chain the sweep reported as two verses is three.</li>
+<li><strong>מִבֵּית לֶחֶם יְהוּדָה (“from Bethlehem of Judah”) stands in eight verses</strong>, and with לָגוּר (“to sojourn”) in exactly two, Judg 17:8 and Ruth 1:1.</li>
+</ul>
+<p><strong>Positive controls.</strong> Every nil and every “only” above was run against a reference known to contain the item before the absence was reported. The corpus load itself was controlled on verse count: a first run returned 13,917 verses instead of 23,213 because the index was globbed one directory level too shallow and silently omitted all twenty-one books of the Nevi’im. Every figure in that run was wrong in the same direction — it would have made this auditor appear mistaken on nearly every count — and the control is what caught it. <strong>A corpus-wide count is not reportable until the verse total has been printed and checked.</strong></p>
+<h3 id="the-verdicts-this-file-can-state">The verdicts this file can state</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Claim</th>
+<th>Prior rating</th>
+<th>Verdict</th>
+<th>New confidence</th>
+<th>Decisive evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>R5</td>
+<td>Exod 4:31 at 1:6 — “heard” + “visited” + YHWH</td>
+<td>moderate–high</td>
+<td><strong>Confirmed with nuance</strong></td>
+<td>moderate–high</td>
+<td>The ordered phrase is in <strong>three</strong> verses, not two: 1 Sam 2:21 joins Exod 4:31 and Ruth 1:6. The contact holds; the count was understated.</td>
+</tr>
+<tr class="even">
+<td>R6</td>
+<td>The Genesis toledot heading at 4:18</td>
+<td>high on the formula</td>
+<td><strong>Confirmed with nuance</strong></td>
+<td>high on the formula; the exclusivity claim withdrawn</td>
+<td>The formula stands. But “the only book outside the Torah to use it” is false: 1 Chr 1:29 אֵלֶּה תֹּלְדוֹתָם is a heading, with eight further occurrences of the noun in Chronicles. And Genesis 2:4 is fully plene, so the plene/defective contrast the sweep drew does not run as stated. Gen 11:27 and 25:19 are the models.</td>
+</tr>
+<tr class="odd">
+<td>R7</td>
+<td>Mic 7:6 and חָמוֹת</td>
+<td>high on the count; moderate–high on the inversion</td>
+<td><strong>Confirmed</strong> and sharpened</td>
+<td>high</td>
+<td>חָמוֹת and כַּלָּה share <strong>zero</strong> verses in Ruth, so Mic 7:6 is the canon’s only verse pairing them. This strengthens rather than weakens the reading.</td>
+</tr>
+<tr class="even">
+<td>R10</td>
+<td>Deut 22:30 [Heb 23:1] / 27:20 as the idiom the text avoids</td>
+<td>high on the lexical facts; moderate–high on the avoidance</td>
+<td><strong>Confirmed</strong>, with a reference error corrected</td>
+<td>unchanged</td>
+<td>גָּלָה with כָּנָף stands in exactly two verses. But the dig cited “Deut 23:1” in Hebrew numbering throughout: WLC Deuteronomy 22 ends at v29, so Hebrew 23:1 is <strong>English 22:30</strong>. Corrected in all eight places, with a versification note added to the front matter.</td>
+</tr>
+<tr class="odd">
+<td>R13</td>
+<td>Deut 25:5–10 at 4:5–10</td>
+<td>overview high; sweep lowered to moderate</td>
+<td><strong>Needs reframing</strong> — the rival stands</td>
+<td>moderate</td>
+<td>The sandal verb differs: Deut 25:9 uses חָלַץ (“pull off”), Ruth 4:7–8 שָׁלַף (“draw out”), which is elsewhere the sword verb in twenty of its twenty-four verses. Deut 25:6 and 2 Sam 14:7 remain equal rivals for the “raise up the name” idiom.</td>
+</tr>
+<tr class="even">
+<td>R18</td>
+<td>Isa 17:5 / 27:12 gleaning as image</td>
+<td>uncertain</td>
+<td><strong>Needs reframing</strong></td>
+<td>moderate, and relocated</td>
+<td>Deuteronomy 24:19–21 is the source of Ruth 2’s gleaning vocabulary. Isaiah is not a rival to Ruth but a second user of the same Torah legal stock, and is the only prophetic text drawing on it.</td>
+</tr>
+<tr class="odd">
+<td>R26</td>
+<td>1 Sam 2:5 at 4:15</td>
+<td>moderate–low</td>
+<td><strong>Needs reframing</strong></td>
+<td>low–moderate, thematic only</td>
+<td>Job 1:2 is closer on wording — שִׁבְעָה בָנִים as an ordered phrase returns Job alone — while “seven” with “sons” spans 73 verses. The Hannah link is thematic, not verbal.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-gap-in-this-part-stated-plainly">The gap in this part, stated plainly</h3>
+<p><strong>Nine of auditor 1’s sixteen rows are not transcribed above: R8, R9, R11, R12, R14, R15, R16, R17 and R23.</strong> Their verdicts were given and gated in session, but the auditor’s report is no longer recoverable to this file and its agent is no longer reachable, so restating them here would mean reconstructing wording I cannot check. I have not guessed them, and this file must not be treated as final until they are entered.</p>
+<p>Two of the nine matter more than the rest: <strong>R9</strong> (Ezek 16:8 at 3:9) carries the solo dig’s Headline 2 and was <em>raised</em> by the dig above the overview’s rating, which the standing rule says must be audited before it enters an overview above moderate; Part 2’s R30 verdict leaves the single contact standing but does not substitute for R9’s own round. <strong>R23</strong> (“uncover the ear” at 4:4) was idiom-capped and is unlikely to move.</p>
+<p>Until the nine are entered, the propagation table below carries only the rows this file can defend, and the overview’s Finalise pass should not treat the audit as complete.</p>
+<hr />
+<h2 id="summary">Summary</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Verdict</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Confirmed</td>
+<td>1 (R7)</td>
+</tr>
+<tr class="even">
+<td>Confirmed with nuance</td>
+<td>4 (R2, R5, R6, R20 live source)</td>
+</tr>
+<tr class="odd">
+<td>Needs reframing</td>
+<td>9 (R1, R3, R4, R13, R18, R19, R24, R26, R27, R28, R29 — of which R1, R3, R4, R24, R27, R28 and R29 are reframings that withdraw a pattern and keep an observation)</td>
+</tr>
+<tr class="even">
+<td>Uncertain — flag for research</td>
+<td>1 (R2’s adjacency leg, pending Logos L1)</td>
+</tr>
+<tr class="odd">
+<td>Discard</td>
+<td>5 (R20 programme, R21, R25, R28 cluster, R30 register)</td>
+</tr>
+<tr class="even">
+<td>Not yet entered</td>
+<td>9 (R8, R9, R11, R12, R14, R15, R16, R17, R23)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Of the twenty-one claims this file settles, no design claim survived as design.</strong> Every one of the eight pattern claims tested — the “ten” numerology, the verb-per-movement scheme, the Exodus–Genesis frame, the Judges block, the Genesis programme, the עָזַב chain, the descent/ascent pair, the יָדַע concentration, the betrothal type-scene, the narratorial cluster, and both new registers — was withdrawn or reduced to an observation. Every exclusive single wording contact that was tested held, and three were sharpened. That is the same split the Lamentations audit produced, and it is now a pattern across books worth stating in the standing rule: <strong>this project’s single contacts are reliable and its pattern claims are not.</strong></p>
+<h3 id="confidence-change-propagation">Confidence Change Propagation</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Claim</th>
+<th>Previous confidence</th>
+<th>New confidence</th>
+<th>Sections to update</th>
+<th>Headline touched?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>R1 “ten” pattern</td>
+<td>capped design proposal</td>
+<td>withdrawn as design; distribution only</td>
+<td>overview: Arc Map design line; Early↔︎Late echo final row; colophon</td>
+<td>overview: <strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R3 verb per movement</td>
+<td>design, untested</td>
+<td>withdrawn; distribution kept</td>
+<td>sweep: cross-passage finding 1</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R4 Exod–Gen frame</td>
+<td>design, untested</td>
+<td>withdrawn; two contacts kept</td>
+<td>sweep: cross-passage finding 4</td>
+<td><strong>Yes</strong> — Headline 3 stands as written; wording checked</td>
+</tr>
+<tr class="even">
+<td>R2 Proverbs–Ruth</td>
+<td>moderate, book-level</td>
+<td>moderate–high for Prov 31:10–31 ↔︎ Ruth 3; adjacency uncertain pending L1</td>
+<td>overview: Canonical Position (name the BHS sequence), intertextual map; sweep: unit 7</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R5 Exod 4:31 at 1:6</td>
+<td>moderate–high, “two verses”</td>
+<td>moderate–high, <strong>three verses</strong></td>
+<td>sweep: unit 1, Headline 3; overview: intertextual map</td>
+<td><strong>Yes</strong> — count corrected in Headline 3</td>
+</tr>
+<tr class="even">
+<td>R6 toledot at 4:18</td>
+<td>high; “only book outside the Torah”</td>
+<td>high on the formula; exclusivity withdrawn</td>
+<td>sweep: unit 10, Headline 3; overview: intertextual map</td>
+<td><strong>Yes</strong> — restated</td>
+</tr>
+<tr class="odd">
+<td>R7 Mic 7:6 חָמוֹת</td>
+<td>high / moderate–high</td>
+<td>high, sharpened</td>
+<td>sweep: cross-passage finding 3</td>
+<td><strong>Yes</strong> — strengthened</td>
+</tr>
+<tr class="even">
+<td>R10 Deut 22:30 [Heb 23:1]</td>
+<td>high / moderate–high</td>
+<td>unchanged; reference corrected</td>
+<td>dig: Headline 1, front matter, eight citations</td>
+<td><strong>Yes</strong> — reference only</td>
+</tr>
+<tr class="odd">
+<td>R13 Deut 25:5–10</td>
+<td>overview high; sweep moderate</td>
+<td>moderate; rivals named</td>
+<td>overview: intertextual map; sweep: unit 9</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R18 Isa 17 gleaning</td>
+<td>uncertain</td>
+<td>moderate, relocated to Deut 24:19–21</td>
+<td>overview: intertextual map; sweep: units 3–5</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R19 Judges 17–19</td>
+<td>moderate–high / block moderate</td>
+<td>block <strong>discarded</strong>; Judg 17 one contact moderate–high; Judg 19 register observation with null</td>
+<td>overview: intertextual map; sweep: unit 1</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R20 Genesis</td>
+<td>live confirmed; programme untested</td>
+<td>live moderate, on contacts not density; programme <strong>discarded</strong></td>
+<td>overview: intertextual map, Christological trajectory; sweep: cross-passage synthesis; dig: Tool 11</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R21 עָזַב chain</td>
+<td>design, untested</td>
+<td><strong>Discard</strong></td>
+<td>overview: echo table</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R24 יָדַע leading root</td>
+<td>moderate, capped</td>
+<td>concentration <strong>discarded</strong>; nominal double duty moderate</td>
+<td>dig: Tools 7 and 10</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R25 descent and ascent</td>
+<td>moderate, untested</td>
+<td><strong>Discard</strong> as design</td>
+<td>dig: Tools 3 and 5</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R26 1 Sam 2:5 at 4:15</td>
+<td>moderate–low</td>
+<td>low–moderate, thematic</td>
+<td>sweep: unit 10</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>R27 betrothal type-scene</td>
+<td><code>[S]</code>, moderate at best</td>
+<td>type-scene <strong>discarded</strong>; Gen 24 contact moderate</td>
+<td>dig: Tool 12, original-audience extension</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R28 narratorial cluster</td>
+<td>moderate–high, untested</td>
+<td>cluster <strong>discarded</strong>; 3:10 reattributed to Boaz</td>
+<td>dig: Tool 6 <strong>and Headline</strong></td>
+<td><strong>Yes — rewrite in place</strong></td>
+</tr>
+<tr class="odd">
+<td>R29 Hannah register</td>
+<td>new</td>
+<td>1 Sam 1 only, moderate; 1 Sam 2 dropped; new contact at 2:13</td>
+<td>sweep: unit 4; overview: intertextual map</td>
+<td><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>R30 Ezek 16 register</td>
+<td>new</td>
+<td>register <strong>discarded</strong>; three contacts stand</td>
+<td>overview: intertextual map</td>
+<td><strong>No</strong> — dig Headline 2 rests on the single contact</td>
+</tr>
+</tbody>
+</table>
+<h3 id="recommended-book-overview-revisions">Recommended book-overview revisions</h3>
+<ol type="1">
+<li><strong>Canonical Position</strong> — name BHS’s sequence of the Ketuvim as the one the section assumes, and record that <em>Baba Batra</em> 14b places Ruth first among the Writings. No adjacency argument until Logos L1 is answered.</li>
+<li><strong>Intertextual map</strong> — restate the Proverbs relation as Prov 31:10–31 ↔︎ Ruth 3 and add the יָדַע/שַׁעַר contact; demote Judges 17–19 from a block to one contact at Ruth 1:1; keep Genesis as a live source but ground it on the six contacts and delete the programme; relocate the gleaning vocabulary to Deut 24:19–21 with Isaiah as a second user; add Ruth 2:13 ~ 1 Sam 1:18; record 1 Samuel as the densest partner book per chapter, which no draft said.</li>
+<li><strong>Early↔︎late echo table</strong> — remove the עָזַב chain and the “ten” row.</li>
+<li><strong>Preaching traps</strong> — add one: <em>a pattern that has not been baselined</em>. On this book, eight of eight failed.</li>
+<li><strong>Colophon</strong> — record both auditor rounds, the main-session gate, and the nine rows still to be entered.</li>
+</ol>
+<h3 id="new-claims-raised-by-the-audit">New claims raised by the audit</h3>
+<p>Queued, not propagated, and capped per the standing rule.</p>
+<ul>
+<li><strong>N1 — יָדַע (“know”) with שַׁעַר (“gate”), four verses: Josh 2:5, Amos 5:12, Prov 31:23, Ruth 3:11.</strong> A single contact. Suggested rating: moderate–high. Prov 31:23’s husband “known in the gates” against Ruth 3:11’s “all the gate of my people know” is the sharpest Proverbs–Ruth link found anywhere in this work, and neither auditor’s brief sent it looking.</li>
+<li><strong>N2 — עָשָׂה חַיִל (“do valiantly”), six verses, including Prov 31:29 and Ruth 4:11.</strong> Single contact. Suggested rating: moderate.</li>
+<li><strong>N3 — Ruth 2:13 ~ 1 Sam 1:18</strong>, חֵן/מָצָא with שִׁפְחָה, three verses, with a shared speech situation. Single contact. Suggested rating: moderate.</li>
+<li><strong>N4 — Ruth 2:9 ~ Gen 24:19/24:44 and 2 Sam 23:16</strong>, שָׁתָה with שָׁאַב, five verses. Single contact. Suggested rating: moderate. The Bethlehem-well neighbour is worth a line in its own right.</li>
+<li><strong>N5 — “Ruth 3 and Prov 31:10–31 are each other’s top partner” is a design claim</strong> and is capped at moderate until a baseline beyond the eight-block comparison above is run. It is not written into the propagation table.</li>
+<li><strong>N6 — “1 Samuel is Ruth’s densest partner book per chapter” is a design claim</strong>, capped at moderate, baseline not yet run against a second narrative control set. Not propagated.</li>
+</ul>
+<h3 id="colophon">Colophon</h3>
+<p><strong>Version:</strong> v1.0, 13 November 2026. <strong>Mode:</strong> Claim Audit, two blind auditors run sequentially plus three main-session baselines. <strong>Warrants:</strong> every count above is <code>[T]</code> against the WLC lemma index or an ordered-phrase search on the reading text; every ketiv/qere is <code>[T]</code> against the BHS apparatus export; every rank is <code>[I]</code>, being a measurement whose interpretation is argued; the <em>Baba Batra</em> sequence and the type-scene category are <code>[S]</code>. <strong>Instrument:</strong> the density scan was reproduced in the main session by importing the project tool’s own internals, and validated row-for-row against its printed table before any derived test was run. The <code>--check</code> flag is an <code>ntscan</code> option only and does nothing in Hebrew mode — a trap worth recording, since the book-overview skill directs users to run it on named partners. <strong>Outstanding:</strong> the nine auditor-1 rows above; Logos round 1, twelve questions, none asked, L1 decisive for R2.</p>
+<hr />
+<h2 id="part-4-logos-round-1-added-v1.1-13-november-2026">Part 4 — Logos round 1 (added v1.1, 13 November 2026)</h2>
+<p>Eleven of the twelve queued questions were put to the Study Assistant against the user’s own library. History of interpretation was unfilled for every candidate in Part 1–3; it is now filled for the ones that matter. Three results changed a verdict, and one of them corrected the audit itself.</p>
+<h3 id="l1-which-ancient-sequences-place-ruth-where-decisive-and-against-the-claim">L1 — which ancient sequences place Ruth where · <strong>decisive, and against the claim</strong></h3>
+<p><em>Baba Batra</em> 14b places <strong>Ruth first among the Writings, before Psalms</strong> — on the rabbis’ chronological reasoning that Samuel wrote it and David, who gave the Psalms, came of Ruth’s line (Queen-Sutherland, <em>Ruth &amp; Esther</em>, Smyth &amp; Helwys, 2; Block, <em>Ruth</em>, ZECOT, 47). Codex Leningradensis, and therefore BHS, place Ruth between Proverbs and Qoheleth (Block, 47). Campbell states the consensus: “almost all students of the subject agree” that Ruth’s position at the head of the Writings <strong>antedates</strong> its being moved in among the Megillot (<em>Ruth</em>, Anchor Bible, 7:34); Webb dates that move to somewhere between the sixth and ninth centuries AD (<em>Five Festal Garments</em>, NSBT, 10:52).</p>
+<p><strong>Effect on R2.</strong> The lexical relation (Prov 31:10–31 ↔︎ Ruth 3, first of 832 chapters) is untouched and stands at moderate–high. <strong>The canonical-adjacency leg is withdrawn outright</strong>, not merely left uncertain: the sequence postdates the text by centuries and cannot carry a claim about composition or canonical design. And the direction of inference reverses — Campbell suggests the Leningrad placement <strong>may itself have been prompted by</strong> the אֵשֶׁת חַיִל link, Proverbs closing on the acrostic and Ruth being called one at 3:11 (AB 7:34). On that reading the lexical link is the <em>cause</em> of the adjacency, which corroborates that the link is real and early-noticed while destroying the design built on it.</p>
+<h3 id="l10-ezekiel-168-at-ruth-39-closes-the-r9-gate">L10 — Ezekiel 16:8 at Ruth 3:9 · <strong>closes the R9 gate</strong></h3>
+<p>Campbell identifies Ezek 16:8 as the key parallel and takes the terminological correspondence as strong evidence that Ruth’s request is a marriage proposal (AB 7:123); Taylor reads it as the covenant gesture of the spread garment-corner (<em>Ruth, Esther</em>, Story of God, 60); Webb cites it in the same connection (NSBT 10:46). On direction, <strong>one commentator only</strong>: LaCocque argues Ruth borrows from Ezek 16:8–12 and uses the dependence to support a late date (<em>Ruth</em>, Continental Commentary, 91). The rest note the parallel without claiming borrowing.</p>
+<p><strong>Effect on R9.</strong> The dig’s moderate–high rating stands on the wording; the direction remains open, as the dig said; LaCocque is named as the minority. <strong>No second auditor round is required for R9</strong>, which was the one outstanding row that carried a headline.</p>
+<h3 id="l5-the-תי-ketiv-at-ruth-334-corrects-this-audit">L5 — the ‑תִּי ketiv at Ruth 3:3–4 · <strong>corrects this audit</strong></h3>
+<p>The ‑תִּי is an <strong>archaic second-feminine-singular perfect</strong>, not a first person. Brotzman has the direction of change running from the archaic ketiv to the normalised qere (<em>Old Testament Textual Criticism</em>, 150); Driver’s parallels are Micah 4:13 and frequent forms in Jeremiah and Ezekiel (via Wilch, Concordia Commentary, 19). <strong>No commentator surveyed prefers the first-person reading.</strong> Campbell adds an observation neither this audit nor the dig had: <strong>all nine archaic verb forms in Ruth fall in the speeches of Boaz and Naomi</strong>, which suggests the storyteller used them to mark the seniority of those two characters, the forms at 3:3–4 placed to round off two series of verbs (AB 7:25).</p>
+<p><strong>Effect on R25.</strong> Auditor 2 argued that the consonantal text “does not deliver a descending Ruth at all” because the ketiv is first person. <strong>That inference is wrong</strong>, and the dig’s v1.1 patch repeating it has been corrected at v1.2. The discard of descent/ascent <em>as design</em> is unaffected: it rests on the distributional grounds — the modal two-plus-one shape, and the seventeen-verse עָלָה/שַׁעַר idiom — which stand.</p>
+<h3 id="l7-and-l8-the-two-legs-of-sweep-headline-3-novelty-claim-withdrawn">L7 and L8 — the two legs of sweep Headline 3 · <strong>novelty claim withdrawn</strong></h3>
+<p>On <strong>1:6</strong>, commentators do group Ruth with the visitation vocabulary of Gen 21:1, Gen 50:24–25 and Exod 4:31 (Wilch, Concordia, 152; Driesbach, Cornerstone, 513; NET notes) — <strong>but none argues that Ruth deliberately evokes the exodus.</strong> They treat פָּקַד as shared covenantal idiom. The three-verse ordered-phrase count stands as measured; the allusion reading is a possibility the wording permits, not one the literature supports.</p>
+<p>On <strong>4:18</strong>, the toledot formula is widely observed — Queen-Sutherland calls its appearance “curious” and suggestive of correlation with the Genesis ancestral stories (Smyth &amp; Helwys, 160); Fischer ties the Perez heading to Genesis’ final toledot at 37:2a; Mathews and Block treat it as a functional “hinge” convention (NAC 1a:33). Campbell notes the near-universal critical view that 4:18–22 is a genealogical appendix not original to the story, its style matching P — <strong>while also observing that in Genesis no P genealogy ever functions as a colophon to a story</strong>, so Ruth’s use is unique and its significance hard to assess (AB 7:172). That last point is the strongest available form of the finding, and the sweep did not have it.</p>
+<p><strong>Effect on R5 and R6.</strong> Both contacts stand at their audited ratings. The sweep’s claim that both were “new to this sweep” is withdrawn.</p>
+<h3 id="l9-חמות-and-micah-76-count-confirmed-reading-given-a-pedigree">L9 — חָמוֹת and Micah 7:6 · <strong>count confirmed, reading given a pedigree</strong></h3>
+<p>TWOT gives the same eleven occurrences and notes that Micah 7:6 “decries the deep moral corruption evidenced in the breakdown of societal bonds, especially the bond between mother-in-law and daughter-in-law” (Coppes, TWOT, 295–296) — an independent confirmation of a count this project made from the WLC. Smith-Christopher adds that the translation of חָמוֹת at Micah 7:6 “is based entirely on the use of the same Hebrew term in Ruth” (Micah, Old Testament Library, 213). And the counter-image reading is not this project’s invention: Lange already set Ruth’s household against Micah’s, arguing that the unhappy mother-in-law relation “elsewhere usual, must in general have been unknown in Israel”, since otherwise the prophet could not use its reversal as the mark of extreme social ruin (<em>Commentary on the Holy Scriptures: Ruth</em>, 18).</p>
+<p><strong>Effect on R7.</strong> Unchanged at high, with attestation added.</p>
+<h3 id="l3-l4-l6-l11-the-four-open-questions">L3, L4, L6, L11 — the four open questions</h3>
+<ul>
+<li><strong>L3, אָמָה against שִׁפְחָה (dig Open Question 1): a live dispute, not a settled upgrade.</strong> For: Hamlin takes them as “female slave” and “household servant”, so that אָמָה implies eligibility to be a wife (ITC, 45); Younger calls the higher term “doubtless her attempt to suggest that she is within the class of women who might be married” (NIVAC, 580–581). Against: Campbell holds there is no distinction in Ruth, the storyteller using synonyms for rhetorical effect (AB 7:123); and Fowl names the decisive counter-example — <strong>Abigail uses both terms of herself in 1 Sam 25:23–35</strong> (Brazos, 237). The majority reading is the upgrade, but it is not secure.</li>
+<li><strong>L4, לָפַת at 3:8 (dig Open Question 2): answered.</strong> The qal at Judg 16:29 is “grasp”; the niphal, the form here, is “twist, bend, turn” — of a body, or of a caravan changing direction (NIDOTTE 2:810), and Gesenius gives “to bend oneself”, “to turn oneself back to see” (441). <strong>The niphal is reflexive</strong>: Boaz turned himself, and the verb says nothing about contact. The suggestive sense “he was clung to” is a <strong>rabbinic midrashic reinterpretation as a passive, which the grammar does not support</strong> (NIDOTTE 2:810).</li>
+<li><strong>L6, עָנָה בִי at 1:21 (sweep Open Question 1): answered on grammatical grounds — “testified against”.</strong> The qal עָנָה with בְּ is a legal idiom attested at Exod 20:16, Num 35:30, 1 Sam 12:3; the “afflicted” reading needs the piel עִנָּה, and <strong>that piel never takes its object with בְּ</strong> (Chisholm, Kregel Exegetical Library, 611). LaCocque grants the context suits “afflict” but concedes ענה ב reads “testify against” consistently elsewhere — 2 Sam 1:16; Isa 3:9; Jer 14:7; Mic 6:3; Hos 5:5; 7:10 (Continental, 58). The Septuagint and Peshitta read the piel (Driesbach, Cornerstone, 519). Both English versions are right.</li>
+<li><strong>L11, the threshing floor (dig Historical Background): the background claim is withdrawn as overstated.</strong> Its attested functions are agricultural, administrative and judicial (IVP Bible Background Commentary). The sexual-licence association rests on one contested reading of <strong>Hosea 9:1</strong>, and Keefe argues the cultic reading is an interpretive tradition rather than unambiguous textual support, observing that confident assertions about licentious Canaanite fertility cults are “repeated over and over in copy-cat fashion in one commentary to the next” (<em>Woman’s Body and the Social Body in Hosea</em>, JSOTSup 338:43–44, 136–137).</li>
+</ul>
+<p><strong>Combined effect on the dig’s argument against the sexual reading of 3:7–9.</strong> Two of its three usual props fail: the verb at 3:8 is reflexive and the ambiguity in it is midrashic rather than grammatical, and the disreputable-location background is not established. That is a stronger position than the “four narratorial interventions” the audit withdrew at R28.</p>
+<h3 id="still-unasked">Still unasked</h3>
+<p><strong>L12</strong> — whether any reading tradition or apparatus note lies behind the Greek φυλή at 3:11 (bears on R22, which remains untested). <strong>L2</strong> was answered within L1.</p>
+
+</main>
+</div>
+</body>
+</html>
