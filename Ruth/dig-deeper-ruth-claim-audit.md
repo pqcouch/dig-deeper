@@ -1,6 +1,6 @@
 # Claim Audit: Ruth
 
-**Passages audited:** the whole book — `book-overview-ruth.md` (v1.1→v1.2), `dig-deeper-ruth-sweep.md` (ten units), `dig-deeper-ruth-3-1to9.md` (solo dig). All three produced 13 November 2026.
+**Passages audited:** the whole book. **Audit 1** (Parts 1–4): `book-overview-ruth.md` (v1.1→v1.2), `dig-deeper-ruth-sweep.md` (ten units), `dig-deeper-ruth-3-1to9.md`. **Audit 2** (Part 5): the five further solo digs — `dig-deeper-ruth-1-6to18.md`, `dig-deeper-ruth-1-19to22.md`, `dig-deeper-ruth-2-1to16.md`, `dig-deeper-ruth-4-1to12.md`, `dig-deeper-ruth-4-13to17.md` — plus the ten design claims and nine untranscribed rows carried forward from audit 1.
 **Date:** 13 November 2026.
 **Purpose:** to test the thirty claims queued in `claim-audit-queue-ruth.md` before the overview is finalised and before any of this work reaches a pulpit. All three triggers of the standing rule had fired: volume (28 queued against a threshold of about ten), load-bearing (four candidates carry headlines), and Finalise (the sweep lists eight extensions for the overview's next pass).
 
@@ -319,7 +319,7 @@ Queued, not propagated, and capped per the standing rule.
 
 ### Colophon
 
-**Version:** v1.0, 13 November 2026. **Mode:** Claim Audit, two blind auditors run sequentially plus three main-session baselines.
+**Version:** **v2.1, 14 November 2026** — Part 6 adds Logos round 2 (eight questions, three credit points, two corrections to this file's own work and one to a published commentary). Previously **v2.0** — Part 5 adds claim audit 2, run after all six ⭐ HIGH units were dug: 54 claims tested across two blind auditors, 5 Headline Findings rewritten in four reports, and a defect found in the project's scan tool. Previously v1.1 (13 November 2026, Logos round 1) and v1.0. **Mode:** Claim Audit, two blind auditors run sequentially plus main-session baselines and a gate on every decisive verdict.
 **Warrants:** every count above is `[T]` against the WLC lemma index or an ordered-phrase search on the reading text; every ketiv/qere is `[T]` against the BHS apparatus export; every rank is `[I]`, being a measurement whose interpretation is argued; the *Baba Batra* sequence and the type-scene category are `[S]`.
 **Instrument:** the density scan was reproduced in the main session by importing the project tool's own internals, and validated row-for-row against its printed table before any derived test was run. The `--check` flag is an `ntscan` option only and does nothing in Hebrew mode — a trap worth recording, since the book-overview skill directs users to run it on named partners.
 **Outstanding:** the nine auditor-1 rows above; Logos round 1, twelve questions, none asked, L1 decisive for R2.
@@ -374,3 +374,334 @@ TWOT gives the same eleven occurrences and notes that Micah 7:6 "decries the dee
 ### Still unasked
 
 **L12** — whether any reading tradition or apparatus note lies behind the Greek φυλή at 3:11 (bears on R22, which remains untested). **L2** was answered within L1.
+
+---
+
+## Part 5 — Claim audit 2 (added v2.0, 14 November 2026)
+
+**Purpose.** The first audit ran before the solo digs. This one runs after all six ⭐ HIGH units are dug, and tests what they produced: **40 single contacts and 14 design claims**, across two blind auditors in sequence, with a main-session gate on every decisive verdict.
+
+**Method.** Each auditor received the claims as bare propositions with none of the reasoning behind them, plus a brief carrying the rules the earlier rounds taught — the homograph-suffixed lemma key, the mandatory corpus verse-total check (23,213), a positive control on every absence, and an ordered-phrase search for every claim about shape. Auditor 1 ran first on single contacts; auditor 2 then ran on design claims, including four raised by auditor 1. **Every verdict below that changes a rating or corrects a delivered report was reproduced in the main session before it was applied.**
+
+### The headline result
+
+**The run of pattern failures is broken, and the tooling is not what it was thought to be.**
+
+| | Audit 1 | Audit 2 |
+|---|---|---|
+| Pattern/design claims tested | 8 | **14** |
+| Survived | **0** | **1 outright (D5), 2 as lexical contact only (D2, D7)** |
+| Single contacts tested | — | **40** |
+| Single contacts that failed | 0 measured ones | **4 falsified, 3 reframed** |
+
+**So the standing generalisation needs amending.** It was: *every measured single contact holds; every pattern claim fails.* After this round it is: **pattern claims fail about nine times in ten, and single contacts fail too when nobody has checked the morphology.** Four of this round's falsifications were single contacts, and three of those four came from my own delivered reports.
+
+---
+
+### 5.1 — The most consequential finding: a bug in the project's scan tool
+
+**`contacts.py` conflates homographs, and has done in every scan this project has run.** `[T]`
+
+Its lemma key is built with `re.match(r'(\d+)', …)` — **it captures the digits and drops the homograph letter.** So `6016 a` (עֹמֶר, *sheaf*) and `6016 b` (עֹמֶר, *a dry measure*) are counted as one lemma, as are `1350 a`/`1350 b` (the two גָּאַל senses), `6030 a`/`6030 b`/`6030 c` (answer / afflict / sing), `5869 a`/`5869 b` (eye / spring), and every other suffixed pair in the index.
+
+**Verified in the main session** by reading the tool's own keys: at Ruth 2:7 and at Exodus 16:16 the key `6016` is present in both, though the words are different.
+
+**What it changed here.** Exodus 16's density rank against Ruth 2 moves from **1st of 859 to 3rd** once the conflation is corrected. Deuteronomy 19's rank against Ruth 4 moves from **2nd to 3rd**.
+
+**What it means for the project.** Every `scan` and `ntscan` rank recorded for any book — Ruth, Colossians, Mark, Obadiah, Job, Lamentations, Daniel — carries this bias. The fix is one line. **And a second lesson sits beside it:** these ranks sit on a plateau rather than a peak (Ruth 2's top three densities are 0.357 / 0.348 / 0.278; Ruth 4's are 0.318 / 0.309 / 0.286), so a single pair reorders the top of the list. **A rank should be reported with a pseudo-chapter p-value, not on its own.**
+
+---
+
+### 5.2 — The one design claim that survived
+
+### D5 — the mirrored divine names at Ruth 1:20–21 · **baselined and surviving**
+
+**Claim:** Ruth 1:20–21 is designed, with four divine names in a mirrored order.
+
+**The baseline, reproduced independently in the main session.** `[T]` Every two-verse window in the Hebrew Bible enumerated: **22,284 windows, 602 of them containing exactly four divine names.** Census of the 602: ABAB 199 · AAAA 100 · ABAA 56 · AABA 54 · AAAB 50 · ABBB 29 · **ABBA 24** · ABCD 21 · and a tail. **ABBA is 3.99% of four-name windows** — the rarest of the three arrangements that use two names twice each, where simple alternation takes 82%.
+
+**And a superlative is now licensed, because it was measured.** `[T]` **Of the 24 ABBA windows, 23 are built from YHWH and Elohim** — the stock construct phrase reversed, syntax rather than rhetoric. **Ruth 1:20–21 is the only ABBA four-name window in the Hebrew Bible built from any other pair of names.** The main session's enumeration returned exactly one non-YHWH/Elohim instance, and it is this verse pair.
+
+**Verdict: Confirmed with nuance.** The measured statement may carry **strong**. "Is designed" stays **moderate**: a one-in-ten rate given the materials does not compel design, and the uniqueness owes something to שַׁדַּי's rarity.
+
+**Action:** applied to `dig-deeper-ruth-1-19to22.md` at v1.2. **This is the first design claim in the Ruth file to clear a null.**
+
+---
+
+### 5.3 — Design claims that failed
+
+### D7 — Exodus 16 against Ruth 2 · **patterning claim discarded; lexical contact survives**
+
+Three separate faults, each verified. **(i)** "Ranks first of 859" is an artefact of the tool bug — the true rank is **3rd**, behind Isaiah 17 and Esther 2. **(ii)** "Three lemmas in exactly two chapters of the canon" survives a frequency-matched null (20,000 draws; two chapters arises 1.9% of the time) **but not a selection correction**: enumerating all 45,760 triples of Ruth 2's rare lemmas, **215 different chapters complete a triple standing in exactly two chapters**, and Exodus 16 is 18th of 253 on triple count. **(iii)** The omer is **two different lemmas**. What survives: a pseudo-chapter null (3,000 draws) puts the contact beyond every draw, p < 0.00033 — **but nine of its ten pairs involve לָקַט alone, a verb with 19 of its 34 canon verses in these two chapters.**
+
+**Verdict: Needs reframing.** Lexical contact **moderate**; patterning claim **none**. *The canon's two chapters about gathering food off the ground share the vocabulary for it.*
+
+### D9 — Leviticus as the book's most-used legal source · **discarded, and Deuteronomy leads**
+
+Normalised for book length, Ruth's contact per verse: **Deuteronomy 0.0730 · Leviticus 0.0442 · Exodus 0.0412 · Numbers 0.0303.** Deuteronomy's is **1.65×** Leviticus's, and Leviticus is only 20th of 38 books overall. The raw impression came from Leviticus being long and agricultural. **And one sub-measurement was wrong: גְּאֻלָּה stands in 8 verses of Leviticus 25, not 9** — verified in the main session; the 4:1–12 report listed eight references while saying nine.
+
+**Verdict: Discard as stated.** The three verified Leviticus contacts stand at **strong** individually; the superlative was never measured and does not hold.
+
+### D6 — Job as an authorial programme · **discarded, and one of my ranks was wrong**
+
+Ruth's whole vocabulary against every book, normalised: **Job ranks 25th of 38**, below the middle. All seven Job pairs involve שַׁדַּי and **all come from the single window 1:20–21**; strip it and Job falls further. **And the 1:19–22 report's "Job 2 ranks thirtieth of 859" was the wrong chapter**: Job 2 ranks about 200th on my re-run and 700th on the audit's, while **Job 27 — the chapter holding the two-verse מָרַר + שַׁדַּי collocation — ranks 15th–18th.** The corrected figure is better evidence for the single contact and fatal to the programme.
+
+**Verdict: Needs reframing.** Three single contacts **strong**; programme **none**.
+
+### D10 — the five-fold closing correspondence · **discarded as a pattern**
+
+Null: 3,362 sliding 85-verse narrative windows, opening 22 verses against the closing scene. **Ruth's overlap fraction 0.310 against a null mean of 0.275 — the 59th percentile, p = 0.41.** Bookend-exclusive lemmas: Ruth has **1**, against a null median of 1 and a maximum of 14. **Ruth 4:13–17 re-uses chapter 1's vocabulary at an average-to-below-average rate for a Hebrew narrative of this length.** Four of the five individual measurements hold (one with a false-friend caveat: Exodus 1:10's תִקְרֶאנָה is lemma `7122`, "befall", not `7121`).
+
+**Verdict: Needs reframing.** Items 2 and 3 **strong** as single measurements; the five-fold pattern **none**.
+
+### D3 — the 1 Kings 19:19–21 parallel · **discarded outright**
+
+**The anchor does not touch Ruth.** `[T]` נָשַׁק + אָב + אֵם stands in exactly one verse of the canon, 1 Kings 19:20 — verified. **But אָב ("father") does not occur anywhere in Ruth 1**; the lemma stands in Ruth at 2:11 and 4:17 only, which the main session confirmed. So the "measured anchor" is a fact about 1 Kings 19:20 alone. And the wider contact is nil: **1 Kings 19 ranks 403rd against Ruth 1 with zero rare pairs, p = 1.0000, below the average of random verse collections.**
+
+**Verdict: Discard.** *A claim was queued whose anchor did not contain the passage it was meant to anchor. That is my error, not the auditor's, and the cap is what kept it out of a sermon.*
+
+### D4 — the kiss/weep chiasm · **reframed to an inclusio**
+
+1:9 and 1:14 share four content lemmas (weep, lift, voice, kiss) — a real frame, at about the 96th percentile of narrative verse-pairs five apart (P(≥4 shared) = 3.69%, 351 of 9,507 pairs). **But the chiasm fails on its own terms: 1:10↔1:13 share zero lemmas**, so there is no inner correspondence to mirror.
+
+**Verdict: Needs reframing.** **Inclusio** at *moderate*; chiasm **none**.
+
+### D12 — "Ruth never reuses a root for leave/be left" · **discarded by its own data**
+
+Three of the four lemmas **are** reused (`7604` ×2, `5800 a` ×4, `3498` ×2). Reframed as "four distinct lemmas", the apparent 0.92% rarity collapses under a token-count control: of the 34 narrative windows with exactly nine field tokens, **26.5% use all four lemmas.** Ordinary Hebrew.
+
+**Verdict: Discard.**
+
+### D1, D2, D11, D13 — measurements that hold, patterns that do not follow
+
+- **D1 (sit/return at 4:1–3):** density ranks 3rd of 21,355 three-verse windows — genuinely exceptional — but the homophone contact occurs at **19 loci** canon-wide, so Ruth is one of nineteen. **Confirmed with nuance, moderate.**
+- **D2 (Deuteronomy 19):** density clears its null (p = 0.0025, 2,000 pseudo-chapters) — **but four of its six pairs rest on גֹּאֵל, and both Deuteronomy occurrences read גֹּאֵל הַדָּם, the avenger of blood: a different institution.** Same lemma, different referent. **Confirmed with nuance, moderate.**
+- **D11 (field qualified only in Moab):** Ruth qualifies שָׂדֶה with a following proper noun in **8 of 16 tokens (50%) against a canon rate of 11.6%** — highest of any book with ≥8 tokens. **But "always bare in Bethlehem" is the canon default (88.4%), and no "field of X-town" construction exists anywhere in the canon.** Half the claim is an outlier; half is Hebrew. **Confirmed with nuance: strong on the rate, weak on the contrast.**
+- **D13 ("call" confined to the naming scenes):** distribution verified; clustering is 1-in-30 on the defensible null (hypergeometric, p = 0.033), but a 41-verse gap for a lemma in 688 canon verses is unremarkable on its own (p = 0.29). **Confirmed with nuance, moderate.**
+
+### D8, D14 — not baselineable, and said so
+
+- **D8 (the 2:1–16 frame):** the one testable component — a non-wayyiqtol scene opening — is **ordinary at 38.4% of narrative chapters.** The three-part arrangement needs hand-annotation of who-can-hear across a corpus that does not exist machine-readable. **The auditor declined to build one, on the ground that doing so would make it the author of the pattern it was auditing.** *That is the right instinct and is recorded as a precedent.*
+- **D14 (inner-state reports clustering):** **at n = 2 there is no distribution**, and the scene boundary is defined by the two instances. Adjacency probability is 2.35%, same-chapter 24.3%. **Uncertain — unbaselineable as a pattern.**
+
+---
+
+### 5.4 — Single contacts: what auditor 1 falsified
+
+**Four claims were false and three needed reframing. Three of the four came from reports delivered earlier the same day.**
+
+| Claim | Verdict | The honest form |
+|---|---|---|
+| **A26** — אֹמֶנֶת is the only feminine participle of אָמַן in the canon | **Discard** | **Two:** 2 Samuel 4:4 (אֹמַנְתּוֹ, construct) and Ruth 4:16 (absolute). *Verified in the main session from the morphology column.* **And the correction improves the finding: both describe a woman taking up a child not her own in a house that has lost its heir.** |
+| **A22** — the form תִּקְרֶאנָה occurs four times in Ruth and they are the same form | **Needs reframing** | **Same verb, same consonants, different person:** 1:20 and 1:21 are 2fp (you call), both 4:17 occurrences are 3fp (they called). *And a stronger claim is available:* **that consonantal form under the root "call" occurs in the canon only in those four places in Ruth** — Exodus 1:10's is a different root. |
+| **A21** — שׁוּב stands in eleven verses of Ruth 1 | **Needs reframing** | **Ten.** The error stood in two delivered reports. |
+| **A5** — Ruth contains none of the law's poverty vocabulary | **Needs reframing** | True of the gleaning law's terms, and **the book does contain one poverty word: דַּל at 3:10**, in Boaz's commendation, of the young men — not of Ruth. |
+| **B5a** — Ruth 1:16–17 is the longest speech by a woman in the book | **Discard** | **Naomi's instruction at 3:1–4 is (55 words), with her dissuasion at 1:11–13 next (53); Ruth 1:16–17 is 34.** It is the longest speech by *Ruth*. |
+| **B8** — the narrator never states what a character feels | **Discard** | **He does, twice, both of Boaz at the threshing floor:** 3:7 וַיִּיטַב לִבּוֹ and 3:8 וַיֶּחֱרַד הָאִישׁ, plus a narrated perception of Ruth's resolve at 1:18. |
+| **A8** — Psalm 91:4 is near but not identical to Ruth 2:12 | **Confirmed with nuance, against me** | **The spelling is identical**; the Psalm merely prefixes a conjunction, which is why the strict pass missed it. **And 1 Kings 8:6 / 2 Chronicles 5:7 do not share the phrase at all** — they read כַּנְפֵי הַכְּרוּבִים, and appeared only because skeletal normalisation collapses *his wings* and *wings of*. |
+
+### 5.5 — R17, closed at last
+
+**B7 — the 2 Samuel 21:9 barley-harvest contact. Confirmed, and my rating of it was too low.** `[T]` תְּחִלָּה + קָצִיר + שְׂעֹרָה stand together in **exactly two verses of the canon**, and **the consonantal wording matches**: a prefix-tolerant ordered pass returns Ruth 1:22 and 2 Samuel 21:9 and nothing else. The strict pass returned Samuel alone because **Ruth is the verse carrying the extra prefix** — and the 1:19–22 report read that miss as evidence of different wording. Samuel's תחלת is a ketiv, so the match is consonantal; **as an apparatus feature this needs Logos.**
+
+**R17 has been outstanding since audit 1 and is now closed at *moderate*** — the count is high, but a shared harvest date carries little on its own.
+
+### 5.6 — The remaining untranscribed rows, now settled
+
+**R8** (Ezekiel 16:8 at 3:9) — confirmed as a **two-lemma contact with no shared phrase**: פָּרַשׂ + כָּנָף stands in twelve verses, but **only Ezekiel 16:8 and Ruth 3:9 use it of spreading a garment-wing over a person.** *Moderate.*
+**R11** (the two כָּנָף uses) — **confirmed**; 2:12 falls inside Boaz's own speech and 3:9 is Ruth addressing him.
+**R12** (Genesis 12:1 at 2:11) — **reframed**: the shared rare lemma is מוֹלֶדֶת, and the set מוֹלֶדֶת + אֶרֶץ + אָב stands in seven verses. **But no phrase is shared, and on a phrase measure Ruth 2:11 is nearer Genesis 31:13 and Jeremiah 22:10 than Genesis 12:1.** *Low–moderate.*
+**R14** (חַיִל) — **reframed**: the claim missed 4:11. **אֵשֶׁת חַיִל stands in exactly three verses — Proverbs 12:4, 31:10, Ruth 3:11** — so Proverbs 31:10 is not the only Proverbs instance; and גִּבּוֹר חַיִל is a 12-verse military formula. *Moderate.*
+**R15** — first half discarded (above); **second half confirmed: the oath formula stands in exactly 12 verses, 11 of them in Samuel–Kings.**
+**R16** (1:13's "hand of the LORD") — **resolved in favour of Judges**: six shared base lemmas with Judges 2:15 against two with Job 19:21, and no shared phrase with either. *Low–moderate.*
+**R23** (the field of Moab) — **confirmed with nuance**, and see D11.
+**R22** — **discarded** (B8, above).
+
+**All nine untranscribed rows are now written up. The audit file has no outstanding gap.**
+
+---
+
+### 5.7 — New claims raised
+
+**New single contacts, rated.**
+
+1. **Ruth 1:17 is the only verse in the canon with the sequence יַעֲשֶׂה יְהוָה לִי.** Of the 12 oath-formula verses, the self-directed ones all name אֱלֹהִים; the one other naming YHWH directs it at a third party. *Strong.*
+2. **2 Samuel 4:4 and Ruth 4:16 are the canon's only feminine participles of אָמַן** — both of a woman taking up a child not her own. *Moderate.*
+3. **עֹמֶר (sheaf) stands in 8 canon verses, and Ruth 2 with Leviticus 23 holds 6 of the 8.** *Strong.*
+4. **גֹּאֵל in Deuteronomy stands at 19:6 and 19:12 only, and both read גֹּאֵל הַדָּם** — the avenger of blood. *Strong.*
+5. **Ruth qualifies שָׂדֶה with a proper noun in 8 of 16 tokens (50%) against a canon rate of 11.6%** — highest of any book with ≥8 tokens; Exodus, Leviticus, Deuteronomy, Isaiah and Jeremiah are all at 0%. *Strong.*
+6. **לָקַט has 19 of its 34 canon verses in two chapters** — Exodus 16 (9) and Ruth 2 (10). *Strong.* **This single concentrated verb, not a triple, is the real fact behind D7.**
+7. **Exodus 1:10's תִקְרֶאנָה is lemma `7122` ("befall"), not `7121` ("call")** — a false friend to record before anyone counts it with Ruth's. *Strong.*
+
+**New design claims, unrated and queued with the null each needs.**
+
+| Claim | Null required |
+|---|---|
+| Ruth 2's strongest partners are **Isaiah 17 (0.357) and Esther 2 (0.348)**, ahead of Exodus 16 | Pseudo-chapter null for each; and a check whether either rests on a single lemma — Isaiah 17 scores on 5 pairs over 14 verses, so it may be a small-denominator effect |
+| Ruth 1's strongest partners are **Judges 17 (0.615) and Judges 19 (0.400)** — both Bethlehem-sojourn narratives | Pseudo-chapter null, **plus a control stripping shared proper nouns** (Bethlehem, Judah, Ephraim), which may drive the whole result |
+| Ruth's closest books normalised are **Micah, Obadiah, 1 Samuel, Esther, Judges** — no legal book in the top ten | Per-book pseudo-book null at matched length, plus a genre control; Micah's and Obadiah's leads rest on 21 and 3 pairs and may be artefacts |
+| **Ruth 1:9/1:14 is an inclusio** bracketing the speeches | A null over *framing* pairs specifically — pairs bracketing a continuous speech unit — rather than all pairs five apart |
+
+*Per the standing rule, none of these is written into a dig or the propagation table until its own baseline has run.*
+
+---
+
+### 5.8 — Confidence change propagation
+
+| Claim | Previous | New | Sections to update | **Headline touched?** |
+|---|---|---|---|---|
+| אֹמֶנֶת uniqueness (A26) | high, "only feminine form" | **two forms; Ruth alone in the absolute** | 4:13–17 Tool 7, Pitfall 5 | **No** |
+| תִּקְרֶאנָה "same verb form" (A22) | high | **same consonants, person differs; form unique to Ruth in the canon** | 4:13–17 **Headline 1**, Convergent Findings | **YES — rewritten in place** |
+| שׁוּב in chapter 1 (A21) | eleven verses | **ten** | 4:13–17 **Headline 5**; 1:19–22 Tool 10, Original Languages | **YES — rewritten in place** |
+| Psalm 91:4 phrase (A8) | "near but not identical" | **identical; Kings/Chronicles struck as artefacts** | 2:1–16 **Headline 5**, Tool 7, Book-Overview Tensions | **YES — rewritten in place** |
+| Poverty vocabulary (A5) | "none of the law's status words" | **confirmed, plus דַּל at 3:10** | 2:1–16 **Headline 2** | **YES — qualified in place** |
+| 2 Samuel 21:9 / R17 (B7) | low; "wording not the same" | **moderate; consonantal wording matches** | 1:19–22 Tool 7, Tool 11, Tensions, Open Questions | No |
+| Leviticus 25 גְּאֻלָּה count (D9) | nine verses | **eight** | 4:1–12 Tool 7 | No |
+| Leviticus as most-used legal source (D9) | queued claim | **discarded — Deuteronomy leads** | queue item 20; 4:1–12 colophon | No |
+| Job 2 rank (D6) | "thirtieth of 859" | **Job 2 ~200th–700th; Job 27 ranks 15th–18th** | 1:19–22 Tool 7, Open Questions | No |
+| Job as programme (D6) | capped proposal | **discarded** | 1:19–22 Tensions, Open Questions, colophon | No |
+| Exodus 16 (D7) | "first of 859", capped proposal | **3rd; patterning discarded, contact moderate** | 2:1–16 Tool 11, Convergent Findings, Pitfall 6, Declaration | No |
+| Mirrored divine names (D5) | capped moderate, unbaselined | **baselined; measured superlative licensed** | 1:19–22 Tool 3, Tensions, Open Questions, colophon | No |
+| Five-fold closing design (D10) | capped moderate | **discarded as a pattern** | 4:13–17 Move 4, Open Questions | No |
+| 1 Kings 19 parallel (D3) | queued, "one measured anchor" | **discarded — the anchor omits Ruth** | queue design-claims table | No |
+| Kiss/weep chiasm (D4) | queued | **reframed to inclusio, moderate** | queue design-claims table | No |
+
+**Five Headline Findings were touched and all five were rewritten in place and marked**, per the rule that a Headline may not be governed by an appended table.
+
+### 5.9 — Colophon, Part 5
+
+| | |
+|---|---|
+| **Date** | 14 November 2026 |
+| **Claims tested** | 54 — 40 single contacts (auditor 1), 14 design claims (auditor 2) |
+| **Auditors** | two, blind and sequential; claims supplied as bare propositions |
+| **Verdicts** | Confirmed 28 · Confirmed with nuance 13 · Needs reframing 6 · Discard 5 · Uncertain 2 |
+| **Design claims surviving a null** | **1 of 14** (D5), with 2 more surviving as lexical contact only |
+| **Reports patched** | 4 — 1:19–22 (v1.2), 2:1–16 (v1.2), 4:13–17 (v1.1), 4:1–12 (v1.2) |
+| **Headlines rewritten** | 5 |
+| **Tool defect found** | 1, affecting every scan rank in the project's history |
+| **Nulls computed** | 20,000-draw frequency-matched triples; 3,000 / 2,000 / 1,500-draw pseudo-chapter nulls; full enumeration for D1, D4, D5, D10, D11, D12 |
+| **Main-session gate** | every decisive verdict reproduced before application; D5's enumeration and the tool defect reproduced independently |
+
+---
+
+## Part 6 — Logos round 2 (added v2.1, 14 November 2026)
+
+**Purpose.** To settle the eight questions the digs and claim audit 2 left open, using the user's own Logos Pro library. **Five were text-critical or morphological and went to the Exegetical Guide, which consumes no AI credits; three were interpretive and went to the Study Assistant.** Credit cost for the whole round: **three percentage points** (30% → 33%).
+
+**Every Logos answer below was checked against the corpus before it was applied.** Two were corrected in the checking.
+
+---
+
+### L13 — Ruth 4:14, MT שְׁמוֹ against the Greek's שְׁמֵךְ · **settled: a Greek reading, not an attested Hebrew variant**
+
+`[T]` The BHS apparatus, read directly, records at 4:14 only **𝔊 τὸ ὄνομά σου = שְׁמֵךְ.** **No Hebrew manuscript is cited and no emendation is proposed.**
+
+**The evidence is in the contrast within the same column.** BHS cites Hebrew manuscripts where they exist: **4:15** *sic L, mlt Mss Edd* אהבתך; **4:21** *pc Mss* ושלמה. At 4:14 there are none.
+
+**Verdict: MT's "his name" is the reading of record.** The Greek's "your name" is the Septuagint's own, whether as interpretation or from a *Vorlage* that cannot now be attested. **The 4:13–17 report's "both readings are coherent" stands as a statement about sense; as a statement about text it was too even-handed, and is corrected at v1.2.**
+
+### L14 — Ruth 2:7's crux · **same verdict, same evidence**
+
+`[T]` BHS records at 2:7 only the two Greek readings — **𝔊 ἑσπέρας = עֶרֶב** and **𝔊 οὐ κατέπαυσεν ἐν τῷ ἀγρῷ = לֹא שָׁבְתָה בַשָּׂדֶה** — **with no Hebrew manuscript for either.** Hebrew manuscripts are cited nearby: *pc Mss* at 2:18, *Ms* at 2:20, *pc Mss* at 2:23.
+
+**So the retroversion is the editors' reconstruction of what the translator read, not an attested Hebrew reading.** The divergence is real and its origin is still open; **what is now settled is that no Hebrew witness supports the Greek.**
+
+### L15 — Ruth 2:13's missing negative in the Greek · **confirmed absent from the apparatus**
+
+`[T]` The Ruth 2 entries in BHS run **7, 16, 18, 19, 20, 21, 23 — nothing at 13.** So the 2:1–16 report's own observation was right: this is a Greek reading the editors did not judge worth recording as a candidate Hebrew variant.
+
+**A pattern across L13–L15, stated carefully.** In all three places Ruth's Greek diverges from MT and **BHS cites no Hebrew manuscript support in any of them.** `[I]` That is consistent with the Greek of Ruth being interpretively free rather than witnessing a different Hebrew text — **but three instances in one short book is an observation, not a demonstration**, and no claim about the translator's method is made here.
+
+### L16 — the ketiv at 2 Samuel 21:9 · **confirmed, and R17 is now fully sourced**
+
+`[T]` BHS carries **four notes at 2 Samuel 21:9, three of them reading *ut Q*** — "as the qere" — with manuscript support cited for the qere each time (*nonn Mss*, *nonn Mss*, *mlt Mss cf Vrs*); the fourth proposes a different reading (*pc Mss* שנה; 𝔊ᴸ ζειῶν).
+
+**Three ut-Q notes against the verse's three unpointed words** — שבעתים, והם, תחלת. **So the ketiv status of תחלת, on which R17's shape claim rests, is confirmed from the apparatus of record rather than from the corpus.** *The mapping of each note to each word is the natural one and is not stated in the apparatus, so it is an inference.* `[I]`
+
+### L17 — the participle at 2 Samuel 4:4 · **confirmed, and the falsification of the אֹמֶנֶת claim holds**
+
+`[T]` Logos parses **אֹֽמַנְתּוֹ֙** at 2 Samuel 4:4 as **verb, Qal, participle, feminine, singular, construct**, with a third masculine singular suffix, lemma **אמן**, glossed by HALOT as **"attendant; nurse"**.
+
+**So claim audit 2's falsification (A26) is confirmed from Logos, independently of the Westminster text.** There are two feminine qal participles of this verb in the canon; **Ruth 4:16 alone has it in the absolute.** And the context is as the audit described: *"and his nurse took him up and fled"* — a woman taking up a child not her own as the house falls.
+
+---
+
+### L18 — the identity of the גֹּאֵל at Ruth 4:14 · **the division is not where this file put it**
+
+`[S: Logos]` Of the sources returned, **both take the redeemer to be the child.** **Driesbach** (*Cornerstone Biblical Commentary: Joshua, Judges, Ruth*, 545) argues for the newborn who continues the family line, on the strength of what verse 15 goes on to say. **Farmer** (*New Interpreter's Bible*, 2:940–941) also reads the child as Naomi's redeemer.
+
+**What they divide over is the *sense*** — the legal-genealogical function (the heir who maintains the dead man's name with his property) against the personal-relational one (the one who reverses the emptiness that embittered her).
+
+**Verdict: the 4:13–17 report's "commentators divide between Boaz and the child" is not what the library shows**, and is corrected at v1.2. *Two commentaries is a thin base and the exegetical question stays open; but the shape of the disagreement was mis-stated.*
+
+### L19 — the firstfruits timing at Ruth 2:14 · **the tension is real and appears to be unremarked**
+
+`[S: Logos]` **No Ruth commentary in the library engages it.** What the search did return strengthens the underlying fact: **Coppes** (*TWOT*, 799) — roasted grain was the primary element of the firstfruits meal offering of Leviticus 2:14, and Israel was forbidden the produce until the offering had been made. **Baker** (*Cornerstone: Leviticus*, 171–172) — **none of the harvested grain at any stage**, whether ground, unprocessed or roasted, could be eaten before the token portion was offered.
+
+**And there is a genuine escape route, also from Baker:** the date of the firstfruits festival is debated, turning on which Sabbath Leviticus 23:11 and 23:15–16 refer to. **So the offering may already have been made by Ruth 2:14, and no firm inference is available either way.**
+
+**Verdict: Uncertain, and left open deliberately.** **The decision in the 2:1–16 report not to infer was right.** *This is the round's one genuinely novel item — a legal constraint on Boaz's meal that the Ruth literature sampled here does not appear to have connected — and it is recorded as a question, not as a finding.*
+
+### L20 — the Hannah parallel at Ruth 2:13 · **an established reading, and much wider than measured here**
+
+`[S: Logos]` Three sources name it. **Campbell** identifies it at Ruth 2:13 (*Ruth*, Anchor Bible, 1975, 100). **Tooman** devotes an excursus, "Ruth and Hannah", to it (*(Re)Reading Ruth*, 2022, 63–64). **Lau and Goswell** note it in *Unceasing Kindness* (NSBT, 2016, 24), observing that Boaz and Ruth's marriage thematically prepares for Elkanah and Hannah's.
+
+**Tooman's case runs far past the four-word set this file measured:** two wives; a childless central figure whose plot turns on bearing a child; **a meal at which a man gives the woman a special portion** (Ruth 2:14 against 1 Samuel 1:5); an older man able to resolve her need; her deference to him; conception by divine provision; and parallel blessings on Boaz and Elkanah.
+
+**Verdict: raised from *moderate* to *strong* as a reading with a pedigree**, while remaining a parallel and not a claim of dependence.
+
+**And the gate corrected a published commentary.** `[T]` Tooman is reported as calling Ruth 2:13's phrase **identical** to 1 Samuel 1:18's. **It is not.** Ruth 2:13 reads אֶמְצָא־חֵן בְּעֵינֶיךָ אֲדֹנִי … שִׁפְחָתֶךָ — first person, with "your maidservant" in a different clause. 1 Samuel 1:18 reads תִּמְצָא שִׁפְחָתְךָ חֵן בְּעֵינֶיךָ — third person, the maidservant being the *subject* of the finding. **Different person, different order, and in Ruth the maidservant is not the one finding favour.** **A shape word in a commentary is subject to the same rule as a shape word here.**
+
+---
+
+### L21 — a fault in this file's own work, surfaced by L20
+
+**The Hannah round turned up something the audit's own method could not have found, and it corrects a Headline collocation.** `[T]`
+
+Claim audit 2 confirmed (A23c) that **טוֹב + שֶׁבַע + בֵּן stand together in exactly one verse of the canon, Ruth 4:15.** The count is right. **The significance was wrong.**
+
+| | |
+|---|---|
+| **1 Samuel 1:8** | הֲלוֹא אָנֹכִי **טוֹב לָךְ מֵעֲשָׂרָה בָּנִים** — "am I not **better to you than ten sons**?" |
+| **Ruth 4:15** | אֲשֶׁר־הִיא **טוֹבָה לָךְ מִשִּׁבְעָה בָּנִים** — "who is **better to you than seven sons**" |
+
+**Same adjective, same לָךְ, same comparative, same בָּנִים. Only the number differs.** Both are addressed to a grieving woman about childlessness — and Tooman names the pair.
+
+**Two faults, and the second is a new class.** `[I]`
+
+1. **The search guaranteed its own answer.** Keying the set on **seven** could only return the verse that has seven. A one-verse result obtained that way measures the search, not the text.
+2. **A lemma search could not have found the parallel anyway**, because in both verses the מִן is prefixed to the numeral rather than standing as its own token. **The construction has to be seen; on these keys it cannot be searched for.**
+
+**The honest form:** *"better to you than N sons"* stands in **two verses of the Hebrew Bible — 1 Samuel 1:8 and Ruth 4:15** — and Ruth's is the only one with seven. **That is a better finding than the one it replaces.**
+
+**The new rule, for the method log:** **a collocation search that includes an incidental element manufactures its own uniqueness.** Before a one-verse result is reported, ask which element is doing the work — and drop each in turn to see whether the verse is still alone.
+
+---
+
+### 6.1 — Propagation
+
+| Item | Previous | New | Sections | **Headline touched?** |
+|---|---|---|---|---|
+| 4:14 variant (L13) | "both readings coherent" | **MT is the reading of record; no Hebrew Mss for the Greek** | 4:13–17 Textual Variants | No |
+| 2:7 crux (L14) | "the apparatus treats it as a variant" | **no Hebrew Mss; the retroversion is editorial** | 2:1–16 Textual Variants | No |
+| 2:13 negative (L15) | "my own observation" | **confirmed: no apparatus entry** | 2:1–16 Textual Variants | No |
+| 2 Sam 21:9 ketiv (L16) | corpus only | **confirmed from BHS; R17 fully sourced** | 1:19–22 Tool 7 | No |
+| 2 Sam 4:4 parse (L17) | WLC only | **confirmed from Logos** | 4:13–17 Tool 7 | No |
+| גֹּאֵל at 4:14 (L18) | "commentators divide Boaz/child" | **the library takes the child; the division is over the sense** | 4:13–17 Difficult Verses | No |
+| firstfruits (L19) | open | **open, and apparently unremarked in the literature** | 2:1–16 Open Questions | No |
+| Hannah parallel (L20) | moderate, no pedigree | **strong, with three named sources; Tooman's "identical" corrected** | 2:1–16 Tool 7 | No |
+| **"better than seven sons" (L21)** | **one verse in the canon** | **the construction stands in two; the uniqueness was an artefact of the search** | 4:13–17 **Headline 4 table**, Tool 7 | **YES — table row and treatment restated in place** |
+
+### 6.2 — Colophon, Part 6
+
+| | |
+|---|---|
+| **Date** | 14 November 2026 |
+| **Tool** | Logos Pro via Claude in Chrome — Exegetical Guide (no credits) for L13–L17, Study Assistant for L18–L20 |
+| **Credit cost** | 3 percentage points (30% → 33%) |
+| **Questions answered** | 8 of 8 queued |
+| **Corrections to this file's own work** | 2 — the γō'ēl division (L18) and the "seven sons" collocation (L21) |
+| **Corrections to a published commentary** | 1 — Tooman's "identical" at 2:13 (L20) |
+| **New method rule** | a collocation search that includes an incidental element manufactures its own uniqueness |
+| **Reports patched** | 3 — 1:19–22 (v1.3), 2:1–16 (v1.3), 4:13–17 (v1.2) |

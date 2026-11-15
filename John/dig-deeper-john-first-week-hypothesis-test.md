@@ -12,9 +12,20 @@
 
 **Mode.** Hypothesis test, in progress. The text work was done first and secondary literature opened only afterwards.
 
-**Date.** 14 November 2026. Draft v0.1 — a record of one morning's work, not a finished report.
+**Date.** 14 November 2026. Draft v0.2 — a record of one day's work, not a finished report. v0.1 was written before the claim audit; the patched paragraphs are marked.
 
 > **Status.** Two of the eight claims have been tested to a conclusion, three are strengthened, one has failed a control, and two are untouched. Nothing here has been through a claim audit. The one apparently original finding (the σκοτία frame, below) must not enter the book overview above *moderate*, or any sermon, until a blind auditor has tested it.
+
+> **Post-audit note (14 November 2026) — v0.2.** The six candidates this report raised have now been tested by two independent blind auditors: `John/dig-deeper-john-claim-audit-2.md`. **Where this report and the audit disagree, the audit supersedes it.** One claim survived with nuance and five need reframing. In brief:
+>
+> - **The σκοτία frame is withdrawn**, and with it the claim that John 20:1 carries three Genesis day-one words. Chance alone predicts about seven mid-frequency lemmas bracketing the prologue and chapter 20; πρῶτος and ὀπίσω do the same unremarked. τῇ δὲ μιᾷ τῶν σαββάτων is word-for-word Luke 24:1; πρωΐ stands thirteen times in the Gospels and six times in Genesis 1, once per day's refrain; and Genesis 1's darkness word is σκότος, never σκοτία. **What survives is σκοτία as a Johannine *Leitwort*, not a frame.**
+> - **The ἀρχή bracket is reframed.** The link is real — ἀρχή is the only non-trivial lemma shared between 1:1–2 and 2:11, about thirty times chance — but it is a verbal resumption, not an inclusio making 1:1–2:11 a unit. ἐν Κανὰ τῆς Γαλιλαίας brackets 2:1–11 verbatim, and 2:11 more likely **opens** the signs frame that closes at 20:30.
+> - **Hosea 6:2 loses "verbatim" as evidence.** The phrase stands in twenty-five verses of Swete. The claim survives as a thematic resonance licensed by John 2:19–22. The NA28 word-order variant shows scribes assimilating 2:1 *towards* the resurrection formula, so that shape is secondary.
+> - **Exodus 19** is reframed to 1:14–17, where Moses, law and δόξα are already in play; nothing in Cana's vocabulary points to Sinai.
+> - **Genesis 2:7 at 20:22 is confirmed with nuance** — the one survivor — but John's ἐνεφύσησεν stands absolute, and **Ezekiel 37:9 is a co-candidate**, supplying the πνεῦμα and the resurrection Genesis lacks.
+> - **The Hosea 2 / Isaiah 25:6 disjunction is withdrawn.** Neither contains γάμος; Hosea's "new wine" is a Hebrew-only feature; and **Isaiah 62:4–5 beats both** on John's own νυμφίος.
+>
+> **The summary sentence below — "the frame is in considerably better shape than the count" — no longer follows from the evidence as audited, and is withdrawn pending re-argument.** Two of the three limbs that supported it have been reframed or withdrawn.
 
 ---
 
@@ -224,15 +235,15 @@ Owned and verifiable: **Wilkin**, **Fee–Stuart**. Not owned at the time of the
 | | Claim | Verdict |
 |---|---|---|
 | H1 | 1:1 echoes Genesis 1:1 | **Holds** (consensus; ἐν ἀρχῇ verbatim with Swete Genesis 1:1) |
-| H2 | A deliberate numbered sequence | **Strengthened** — ἀρχή bracket; τῇ ἐπαύριον concentrated 3 of 5 in fifteen verses |
+| H2 | A deliberate numbered sequence | **Weakened** *(v0.2 — claim audit 2)*. The ἀρχή bracket is withdrawn as structural evidence; it is a verbal resumption only. τῇ ἐπαύριον concentrated 3 of 5 in fifteen verses still stands |
 | H3 | The count begins in the prologue | **Unsupported, not refuted.** Unattested in the literature; grammar puts the narrative boundary at 1:6; the light vocabulary spans the seam; the content argument failed its control |
 | H4 | A silent seventh day | **Follows from H3.** Falls out of the arithmetic if H3 holds |
 | H5 | Cana is the eighth day | **Follows from H3.** No other route reaches eight |
-| H6 | Third day = eighth day, pointing to resurrection | **Strengthened.** Textually secure; Hosea 6:2 verbatim and recognised as the NT's third-day source; the same inclusive reckoning Carson uses. Not isolated from the Exodus 19 phrase |
-| H7 | Isaiah 25:6 | **Weak.** One common noun; rivals unexplored; Hosea 2 a better candidate |
-| H8 | Inclusio with John 19–20 | **Strengthened, and the strongest limb.** σκοτία frame; 20:1's three day-one words; ἐνεφύσησεν exact |
+| H6 | Third day = eighth day, pointing to resurrection | **Moderate** *(v0.2 — claim audit 2)*. Textually secure, and the inclusive reckoning is Carson's too. But the phrase stands in twenty-five verses of Swete, so it carries no allusion; the resurrection sense rests on John 2:19–22, not on the wording |
+| H7 | Isaiah 25:6 | **Weak** *(v0.2 — claim audit 2)*. One common noun. The proposed redirection to Hosea 2 is withdrawn: neither text contains γάμος, and **Isaiah 62:4–5 beats both** on John's own νυμφίος |
+| H8 | Inclusio with John 19–20 | **Reduced** *(v0.2 — claim audit 2)*. The σκοτία frame and 20:1's Genesis vocabulary are **withdrawn**. What remains is ἐνεφύσησεν at 20:22 against Genesis 2:7, with Ezekiel 37:9 as a co-candidate — one contact, not a frame |
 
-**The honest summary: the frame is in considerably better shape than the count.** The case that John wrote his Gospel with Genesis 1–2 open at both ends is strong and partly original. The case that the opening days number eight rests entirely on H3, which has survived every test without passing any.
+**The honest summary** *(v0.2 — claim audit 2; the v0.1 summary is withdrawn)*. The count still rests entirely on H3, which has survived every test without passing any. The frame is **weaker than v0.1 claimed**: of its three limbs, the σκοτία frame is withdrawn, the ἀρχή bracket is reduced to a verbal resumption, and only ἐνεφύσησεν at 20:22 survives as a contact — and that with Ezekiel 37:9 beside Genesis 2:7. A better-attested Genesis-to-close frame may exist in the σημεῖον envelope from 2:11 to 20:30, but it is unaudited. **Neither limb of the hypothesis is currently in good enough shape to lead an essay without re-argument.**
 
 ---
 

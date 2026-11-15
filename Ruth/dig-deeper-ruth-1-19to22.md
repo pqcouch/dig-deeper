@@ -126,7 +126,13 @@ The unit is shaped as a public hearing: arrival, question, answer, record.
 - B′ — Why call me Naomi
 - A′ — **when the LORD has testified against me and Shaddai has done me harm**
 
-The divine names stand at both ends of the centre and at the close: שַׁדַּי · יְהוָה · יְהוָה · שַׁדַּי. `[T]` **Four divine names in two verses, in a mirrored order** — and both of the book's only two occurrences of שַׁדַּי are the outer pair. **Confidence: moderate** on the chiasm as *design*; **high** on the name-order itself, which is simply on the page. Per the overview's new trap 7, the design claim is a proposal until a chance baseline is run; the name sequence is not a design claim but an observation.
+The divine names stand at both ends of the centre and at the close: שַׁדַּי · יְהוָה · יְהוָה · שַׁדַּי. `[T]` **Four divine names in two verses, in a mirrored order** — and both of the book's only two occurrences of שַׁדַּי are the outer pair.
+
+**At v1.2 this is the one design claim in the Ruth file that has been baselined and survived.** *(Claim audit 2, D5 — reproduced independently in the main session.)* `[T]` Every two-verse window in the Hebrew Bible was enumerated: **22,284 windows, of which 602 contain exactly four divine names.** The pattern census of those 602 runs ABAB 199, AAAA 100, ABAA 56, AABA 54, AAAB 50, ABBB 29, **ABBA 24**, and a tail. So **mirroring is the arrangement in 3.99% of four-name windows** — the rarest of the three ways of using two names twice, where simple alternation takes 82%.
+
+**And one measured superlative is now licensed.** `[T]` **Of the 24 ABBA windows in the canon, 23 are built from YHWH and Elohim** — the stock construct phrase reversed, a by-product of syntax rather than a rhetorical figure. **Ruth 1:20–21 is the only ABBA four-name window in the Hebrew Bible built from any other pair of names.** That was enumerated, not asserted, so the superlative is permitted under the design-claim rule.
+
+*Confidence: **moderate rising to strong** on the measured statement; the inference that the arrangement is *designed* is still an inference, since a one-in-ten rate given the materials does not compel it. And the uniqueness follows partly from שַׁדַּי's rarity, so it should not be pressed harder than that.*
 
 ---
 
@@ -230,9 +236,17 @@ This is the unit's heaviest tool, and the lexical work is where its findings com
 
 **הַמּוֹאֲבִיָּה ("the Moabitess") at 1:22.** `[T]` The lemma stands in **7 verses** of Ruth (1:4, 1:22, 2:2, 2:6, 2:21, 4:5, 4:10), and in **5 of them it is attached to Ruth's name** — 1:22, 2:2, 2:21, 4:5, 4:10 — with 1:4 of the two wives collectively and 2:6 of "the Moabite young woman" unnamed. **The narrator does not let the reader forget it, at the moment of arrival and at the moment of acquisition.** *Confidence: high* on both counts, each reference verified.
 
-**תְּחִלָּה · קָצִיר · שְׂעֹרָה ("beginning" · "harvest" · "barley") at 1:22.** `[T]` The three lemmas stand together in **2 verses**: 2 Samuel 21:9 and Ruth 1:22. **But the wording is not the same**, and the gate requires this to be said: the ordered phrase בִּתְחִלַּת קְצִיר שְׂעֹרִים returns Ruth 1:22 only, plain and skeletal; Samuel lacks the preposition בְּ, and **its word for "beginning" is unpointed in the WLC — a ketiv** — so a shape claim is unavailable. 2 Samuel 21:9 is the execution of Saul's sons, dated to the same season. *Confidence: moderate* on the lemma contact as an observation; **low** on any allusion, and none is claimed. **Audit status:** this contact is auditor-1 row **R17**, which is among the nine rows not yet transcribed into the audit file; it is therefore carried here as untested beyond my own count. `[S: audit — status pending]`
+**תְּחִלָּה · קָצִיר · שְׂעֹרָה ("beginning" · "harvest" · "barley") at 1:22 — upgraded.** *(Restated at v1.1 — claim audit 2, B7, which tested the long-outstanding row R17 and found the contact stronger than this report first allowed.)*
 
-**A density check, reported with its modesty.** `[T]` A rare-pair scan of Ruth 1 against all 859 chapters of the Hebrew Bible (WLC, rare-pair threshold 10 verses) ranks **Job 2 thirtieth**. **Thirtieth of 859 is a presence, not a pattern**, and the Job case in this report rests on the two- and three-verse lemma-set measurements above, not on this rank. Reported so that a later reader does not mistake the rank for the evidence.
+`[T]` The three lemmas stand together in **exactly two verses of the canon: 2 Samuel 21:9 and Ruth 1:22.** **And the wording matches**, which the first version denied: a prefix-tolerant ordered-phrase pass on תחלת קציר שערים returns **those two verses and no others**, as printed — Ruth 1:22 בִּתְחִלַּת קְצִיר שְׂעֹרִים and 2 Samuel 21:9 תחלת קְצִיר שְׂעֹרִים. The strict pass returned Samuel alone, not Ruth, because **Ruth is the verse carrying the extra prefix**; the first version read that miss as a difference in wording, and it is not one.
+
+**The ketiv remains and is now stated correctly.** `[T]` In 2 Samuel 21:9 the word תחלת is **unpointed in the WLC**, alongside שבעתים and והם — so the match holds **on the consonants**, which is the level at which it is claimed. **As an apparatus feature this needed Logos rather than the corpus**, per the project's own rule, and at v1.3 it has been read there. `[T]` **BHS carries four notes at 2 Samuel 21:9, and three of them read *ut Q* — "as the qere"** — with manuscript support cited for the qere in each case (*nonn Mss*, *nonn Mss*, *mlt Mss cf Vrs*); the fourth proposes a different reading altogether (*pc Mss* שנה; 𝔊ᴸ ζειῶν). **Three ut-Q notes against the verse's three unpointed words — שבעתים, והם and תחלת — so the ketiv status is confirmed from the apparatus of record.** *The mapping of each note to each word is the natural one but is not stated in the apparatus, so it is an inference* `[I]`*.*
+
+2 Samuel 21:9 is the execution of Saul's sons, dated to the same season. *Confidence: **high** on the two-verse count and on the consonantal phrase match; **moderate** on significance — the shared material is a harvest date, and a date can be shared without dependence. No allusion is claimed.* **R17 is now closed.** `[S: audit]`
+
+**A density check — and at v1.2 a corrected one.** *(Claim audit 2, D6.)* `[T]` The first version of this report said a rare-pair scan ranks **Job 2 thirtieth** of 859 chapters against Ruth 1. **That was the wrong chapter and the wrong number.** Job 2 ranks nowhere near the top — around 200th on my own re-run, and 700th on the audit's homograph-aware run, with no rare pairs at all. **The Job chapter that does rank high against Ruth 1 is Job 27 — eighteenth on my re-run, fifteenth on the audit's — and Job 27 is precisely the chapter holding the two-verse מָרַר + שַׁדַּי collocation of Headline 1.**
+
+**Which makes the corrected figure better evidence than the one it replaces**, and worse for the wider claim. The single Job chapter with measurable contact is the chapter the single contact is in: the signal is the Shaddai cluster and nothing else. The audit put that beyond doubt by testing Ruth's whole vocabulary against every book of the canon, normalised for length — **Job ranks 25th of 38 books, below the middle; and stripping the two verses 1:20–21 drops it further.** `[S: audit]` **So the Job case in this report rests on its two- and three-verse measurements, as it said — and the rank, properly computed, shows there is nothing else there.**
 
 ---
 
@@ -282,7 +296,7 @@ The tone shifts three times in four verses, and the shifts are the point.
 
 **The divine names.** Four in two verses, mirrored (Tool 3). `[T]` **There is no other two-verse stretch in Ruth with four divine names.** This is a measured statement, not an impression: every divine name in the book was counted by lemma against the WLC index — יְהוָה in 15 verses (18 occurrences), אֱלֹהִים in 3 verses (4 occurrences), שַׁדַּי in 2 — and every pair of consecutive verses was then totalled. 1:20–21 reaches four (one Shaddai, then two YHWH and one Shaddai); **the highest any other pair reaches is three.**
 
-**שׁוּב ("return").** וַתָּשָׁב… הַשָּׁבָה in 1:22 — the finite verb and the participle in one verse `[T]` — which closes the chapter's own heaviest repetition. The root stands in **13 verses of Ruth, 15 occurrences** — 1:6, 7, 8, 10, 11, 12, 15 (twice), 16, 21, 22 (twice), then 2:6, 4:3, 4:15 — so **eleven of the thirteen verses are in chapter 1**. **The chapter is built on it, and the last two uses land on the two women together.**
+**שׁוּב ("return").** וַתָּשָׁב… הַשָּׁבָה in 1:22 — the finite verb and the participle in one verse `[T]` — which closes the chapter's own heaviest repetition. The root stands in **13 verses of Ruth, 15 occurrences** — 1:6, 7, 8, 10, 11, 12, 15 (twice), 16, 21, 22 (twice), then 2:6, 4:3, 4:15 — so **ten of the thirteen verses are in chapter 1** *(corrected at v1.1 — claim audit 2, A21; the first version said eleven)*. **The chapter is built on it, and the last two uses land on the two women together.**
 
 ---
 
@@ -312,7 +326,7 @@ Per the Triad's rule, a moderate-confidence allusion gets Move 1 only. **Move 1:
 
 ### The barley-harvest notice (1:22) — low, no Triad
 
-Two-verse lemma contact with 2 Samuel 21:9, wording not identical, Samuel's key word a ketiv, audit row untranscribed. `[T]` **Recorded, not claimed.**
+Two-verse lemma contact with 2 Samuel 21:9, **and the consonantal wording does match** — a prefix-tolerant ordered pass returns those two verses alone; Samuel's key word is a ketiv. `[T]` *Upgraded at v1.1 — claim audit 2, B7; R17 closed.* **The contact is confirmed; the allusion is still not claimed, because a shared harvest date can be shared without dependence.**
 
 ---
 
@@ -378,7 +392,7 @@ Three things the passage does, which a sermon might carry.
 
 Covered under Tool 7 for lexis. Three grammatical points remain.
 
-**הֱשִׁיבַנִי (1:21) — hiphil with a suffix.** `[T]` "He caused me to return." The same root שׁוּב that the chapter has used eleven times of the women's own going back is here **causative, with Naomi as the object.** She has spent the chapter telling others to return and declaring her own return; in this clause she is returned by someone else. **The stem carries the theology of the complaint.**
+**הֱשִׁיבַנִי (1:21) — hiphil with a suffix.** `[T]` "He caused me to return." The root stands twelve times in chapter 1, and in every one of the other eleven it is the women's own going back; here it is **causative, with Naomi as the object.** *(Count restated at v1.1 — claim audit 2, A21.)* She has spent the chapter telling others to return and declaring her own return; in this clause she is returned by someone else. **The stem carries the theology of the complaint.**
 
 **אֲנִי (1:21) — the independent pronoun.** `[T]` Hebrew does not need it; the verb הָלַכְתִּי already marks first person. Its presence is emphatic and it stands first: *I* went out full. **The pronoun sets up the contrast with the named יְהוָה in the next line.**
 
@@ -473,8 +487,8 @@ Consulted only after the text-first work above.
 **Against the claim audit (v1.1) and Logos round 1.**
 
 - The forensic reading of עָנָה בִי was raised in the Logos round and is here **independently supported from the corpus** by the WLC's own lemma assignment and by the Shaddai+עָנָה company. **The audit's reliance on a secondary grammatical argument is now unnecessary**, and the claim moves from `[S: Logos]` to `[T]` + `[S: Logos]`.
-- **R17** (the 2 Samuel 21:9 harvest contact) remains untranscribed; this report adds its lemma count (two verses) and its ketiv caveat, and does not resolve its status.
-- The audit's standing result — **eight pattern claims tested, eight failed; every measured single contact held** — is reproduced in this unit's shape: **the single contacts here (two verses, three verses, one verse) are the firm findings; the one pattern claim (the chiasm; the Job register as a programme) is capped and queued.**
+- **R17** (the 2 Samuel 21:9 harvest contact) **is now closed by claim audit 2, B7** — confirmed as a two-verse contact whose consonantal wording matches, with the Samuel form a ketiv. *This report's original rating of it was too low and is corrected at v1.1.*
+- The audit's standing result at the time — **eight pattern claims tested, eight failed; every measured single contact held** — was reproduced in this unit's shape. **Claim audit 2 then broke the run of failures:** of this unit's two queued pattern claims, **the Job programme failed** (Job ranks 25th of 38 books; all contact is in 1:20–21) **and the mirrored divine names survived** — the first design claim in this book to clear a null. `[S: audit]`
 
 **Against the neighbouring reports.**
 
@@ -510,9 +524,9 @@ Queued for the single Finalise pass. **Not applied here.**
 3. **Add an echo-table row:** הֲזֹאת נָעֳמִי, 1:19 → 4:17 (the town's question answered by the town's naming). Moderate–high.
 4. **Sharpen the microscript's wording** to reflect that "empty" is Naomi's word, not the narrator's.
 5. **Note in the Shaddai material** that the name occurs in Ruth twice only, both in this unit, and never again in the book — a distribution fact the overview does not carry.
-6. **Queued design claim (needs a baseline before it may be rated):** the chiastic shape of 1:20–21 with its mirrored divine names.
+6. **Baselined and surviving — the only one in the Ruth file that did.** *(Claim audit 2, D5.)* The mirrored divine names of 1:20–21: **ABBA is 24 of 602 four-name two-verse windows in the canon (3.99%), and Ruth 1:20–21 is the only one of the 24 not built from YHWH/Elohim.** Enter the measured statement at *strong*; keep *moderate* on "designed".
 7. **Queued design claim (needs a baseline):** the Job register as an authorial programme rather than a shared idiom.
-8. **Audit follow-up:** R17 (2 Samuel 21:9) is still untranscribed; this report supplies its count and its ketiv caveat and asks for the row.
+8. **Audit follow-up — settled.** R17 (2 Samuel 21:9) was tested by claim audit 2 (B7) and **confirmed**: two verses in the canon, consonantal wording matching on a prefix-tolerant pass, Samuel's word a ketiv. **Enter the row at *moderate*** — the count is high but a shared harvest date carries little on its own. **The ketiv needs Logos confirmation**, being an apparatus feature.
 
 ---
 
@@ -536,9 +550,9 @@ Queued for the single Finalise pass. **Not applied here.**
 
 ## Open Questions
 
-- **The chiasm of 1:20–21.** Real design or an artefact of two-verse speech with four divine names? **Needs a chance baseline** (e.g. how often a two-verse stretch of Hebrew narrative speech produces a mirrored name sequence). Capped at moderate until then.
-- **The Job register as programme.** Is there anything else in Ruth that points to Job? The density scan's thirtieth-of-859 rank for Job 2 is weak. **Worth one targeted search of Ruth's full vocabulary against Job before the macro-synthesis**, so the Finalise pass knows whether this is one passage's idiom or a book-level move.
-- **R17 — the 2 Samuel 21:9 contact.** Untranscribed from auditor 1. **Does the shared barley-harvest dating carry any weight, given that one of the three words is a ketiv in Samuel?** My own reading is that it does not, but the row should be tested rather than dropped.
+- **The chiasm of 1:20–21 — closed, and in the claim's favour.** The baseline this report asked for was run and reproduced: **ABBA is 3.99% of the canon's 602 four-name two-verse windows, and Ruth's is the only one of the 24 not built from YHWH/Elohim.** *The measured statement may now carry a superlative; "designed" remains an inference.*
+- **The Job register as programme — answered, and against the claim.** *(Claim audit 2, D6.)* The targeted search this report asked for was run: Ruth's whole vocabulary against every book, normalised for length. **Job ranks 25th of 38 books. Every one of the Job contacts involves שַׁדַּי, and all of them come from the single two-verse window 1:20–21.** **So it is one passage's idiom, not a book-level move** — which settles the question this report raised and removes the claim from the macro-synthesis's agenda.
+- **R17 — closed.** Claim audit 2 (B7) confirmed the contact and corrected this report: the consonantal wording does match, on a prefix-tolerant pass, in exactly two verses. **My own reading that it carries no weight was right about the significance and wrong about the measurement** — the shared date remains a weak basis for dependence, but the phrase contact is real.
 - **הֲזֹאת נָעֳמִי and 4:17 — are the speakers the same group?** The text says "they said" at 1:19 and הַנָּשִׁים ("the women") at 4:14, 4:17. **The identification is an inference and should be flagged as one in the echo table.**
 - **Whether the barley-harvest date carries firstfruits resonance.** The calendrical fact is certain; the intent is not. Left open.
 - **Why Ruth's Greek translator chose ὁ ἱκανός for שַׁדַּי where Job's chose παντοκράτωρ.** A question about the translators, not about Ruth, and so outside this report — but it bears on how any Greek-reading interpreter could have handled 1:20–21, and a Logos question would settle what is known about it.
@@ -551,11 +565,11 @@ The Hebrew of Ruth 1:19–22 and of all of Ruth 1 was read from the corpus befor
 
 Every absence claim in this report passed a positive control run **on the search that was actually executed**, per the correction recorded in the 4:1–12 report at v1.1: the claim that שַׁדַּי occurs nowhere else in Ruth was controlled by returning 1:20 and 1:21; the claim that no other two-verse stretch in Ruth holds four divine names was made by counting the book's divine names, not by inference.
 
-The two words *only* and *alone* are used in this report at three places — **מָרָא** as a hapax, **מְלֵאָה + רֵיקָם** as a one-verse collocation, and the ordered phrase **בִּתְחִלַּת קְצִיר שְׂעֹרִים** — and each is licensed by the search that was run: the first two by lemma-set searches across the whole corpus, the third by an **ordered phrase search run both plain and skeletal**. Where lemmas match but the wording does not (2 Samuel 21:9), the report says so and claims nothing about shape.
+The two words *only* and *alone* are used in this report at three places — **מָרָא** as a hapax, **מְלֵאָה + רֵיקָם** as a one-verse collocation, and the ordered phrase **בִּתְחִלַּת קְצִיר שְׂעֹרִים** — and each is licensed by the search that was run: the first two by lemma-set searches across the whole corpus, the third by an **ordered phrase search run both plain and skeletal**. Where lemmas match but the wording does not, the report says so and claims nothing about shape. **At v1.1 one such statement was withdrawn:** claim audit 2 (B7) showed that the wording at 2 Samuel 21:9 **does** match Ruth 1:22 on the consonants, the strict pass having missed Ruth because Ruth carries the extra prefix. **A strict-pass miss is not evidence of different wording, and this report treated it as though it were.**
 
 The crux at 1:21 rests on the WLC's own lemma assignment and on a canon-wide collocation count, both `[T]`; the grammatical argument from the qal-with-בְּ idiom is `[S: Logos]` and is additional, not load-bearing. The **BHS** apparatus for Ruth 1 (Logos export) was consulted for ketiv/qere and variants and is the edition cited for the textual note. The Greek of Ruth is **Rahlfs** (Logos export), read in the export itself rather than from memory. **Swete** was opened once, as an observation layer and named as such, to check whether the Job contact survives translation; it does not, and the Greek readings of Job 27:2, 31:35 and 40:2 reported here were read from that text. Secondary sources — the book overview, the claim audit, the Logos round, and the neighbouring reports — were consulted only at Phase 5.5, after the tools were worked.
 
-Two claims in this report are **capped by the design-claim rule** and are named in the queue as audit targets: the chiasm of 1:20–21, and the Job register as an authorial programme. Neither has a chance baseline. **One finding is carried with a known gap:** the 2 Samuel 21:9 contact is auditor-1 row R17, which has not been transcribed into the audit file, and is reported here as untested.
+Two claims in this report were **capped by the design-claim rule** and named in the queue as audit targets: the chiasm of 1:20–21, and the Job register as an authorial programme. **Both were tested by claim audit 2 and they went opposite ways** — the mirrored names cleared a full enumeration of the canon's 602 four-name windows and may now carry a measured superlative; the Job programme failed, Job ranking 25th of 38 books with every contact inside 1:20–21. **Neither was preached before it was tested, which is what the cap is for.** **At v1.1, three things in this report were corrected by claim audit 2:** the שׁוּב chapter count (eleven verses to ten, A21); the 2 Samuel 21:9 contact, whose wording was said not to match and does (B7, closing R17); and the consequent rating of that contact, raised from low. **The gap this report declared — R17 untested — is now filled.**
 
 ---
 
@@ -572,6 +586,6 @@ Two claims in this report are **capped by the design-claim rule** and are named 
 | **Book overview** | `book-overview-ruth.md` v1.4 (threads only, Phase 0.5) |
 | **Checking-stage sources** | `dig-deeper-ruth-claim-audit.md` v1.1 + Logos round 1; `dig-deeper-ruth-sweep.md` v1.4 unit 3; `dig-deeper-ruth-1-6to18.md`; `dig-deeper-ruth-4-1to12.md` v1.1; `dig-deeper-ruth-3-1to9.md` v1.2 |
 | **Warrant counts** | `[T]` 83 · `[I]` 37 · `[S]` 5 · `[S: Logos]` 6 · `[S: audit]` 2 |
-| **Capped design claims** | 2 (chiasm; Job-as-programme) |
+| **Design claims, after claim audit 2** | 2 tested: **mirrored divine names — baselined and surviving** (ABBA 24/602; the canon's only non-YHWH/Elohim instance); **Job-as-programme — failed** (Job 25th of 38 books; all contact in 1:20–21) |
 | **Queued overview revisions** | 8 |
-| **Version** | 1.0 |
+| **Version** | 1.3 — Logos round 2: the ketiv at 2 Samuel 21:9 confirmed from the BHS apparatus (four notes, three reading *ut Q*), completing R17. Previously 1.2 — claim audit 2: the Job 2 rank corrected (it is Job 27 that ranks high, and Job ranks 25th of 38 books, so the Job-as-programme claim fails); the mirrored divine names of 1:20–21 baselined and **surviving**, with a measured superlative now licensed. Previously 1.1 — restated by claim audit 2 (14 November 2026): the שׁוּב chapter count corrected, eleven verses to ten (A21); the 2 Samuel 21:9 contact upgraded, its consonantal wording confirmed to match and row R17 closed (B7) |
