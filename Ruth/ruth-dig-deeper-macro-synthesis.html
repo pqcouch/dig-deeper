@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ruth — Dig-Deeper Macro-Synthesis</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#ruth-dig-deeper-macro-synthesis">Ruth — Dig-Deeper Macro-Synthesis</a></li>
+    <li><a href="#how-to-read-this-document">How to read this document</a></li>
+    <li><a href="#the-law-is-the-books-vocabulary-and-never-its-authority-and-wherever-a-character-acts-on-it-he-exceeds-it">1. The law is the book’s vocabulary and never its authority — and wherever a character acts on it, he exceeds it</a></li>
+    <li><a href="#the-book-argues-by-two-member-chains-and-chapter-1-is-where-almost-all-of-them-are-planted">2. The book argues by two-member chains, and chapter 1 is where almost all of them are planted</a></li>
+    <li><a href="#god-is-named-almost-entirely-in-human-speech-and-the-narrator-says-almost-nothing">3. God is named almost entirely in human speech, and the narrator says almost nothing</a></li>
+    <li><a href="#no-english-version-is-reliably-the-better-one-for-this-book-and-the-divergences-land-on-load-bearing-words">4. No English version is reliably the better one for this book, and the divergences land on load-bearing words</a></li>
+    <li><a href="#the-redeemer-is-built-as-a-legal-category-before-it-is-a-type-and-the-new-testament-picks-up-the-books-own-last-five-verses">5. The redeemer is built as a legal category before it is a type — and the New Testament picks up the book’s own last five verses</a></li>
+    <li><a href="#the-manuscript-marks-one-seam-in-eighty-five-verses-and-it-is-not-where-the-chapter-divisions-fall">6. The manuscript marks one seam in eighty-five verses, and it is not where the chapter divisions fall</a></li>
+    <li><a href="#methodological-this-sweep-is-a-sustained-demonstration-that-the-books-single-contacts-hold-and-its-patterns-do-not">7. Methodological: this sweep is a sustained demonstration that the book’s single contacts hold and its patterns do not</a></li>
+    <li><a href="#cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</a></li>
+    <li><a href="#candidate-threads-that-did-not-clear-the-gate">Candidate threads that did not clear the gate</a></li>
+    <li><a href="#what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="ruth-dig-deeper-macro-synthesis">Ruth — Dig-Deeper Macro-Synthesis</h1>
+<p><em>What the ten full solo <code>/dig-deeper</code> runs, taken together, demonstrate about the book — the cross-pericope arguments invisible at the level of a single passage but unmistakable once the whole sweep is laid side by side. Companion to <code>book-overview-ruth.md</code> (v2.0) and <code>dig-deeper-ruth-claim-audit.md</code> (v3.0). Text-first; confidence-flagged.</em></p>
+<p><strong>Date:</strong> 15 November 2026 · <strong>Runs consumed:</strong> all ten preaching units, §1–§10 below · <strong>Also consumed:</strong> three claim audits (104 claims) and three Logos rounds.</p>
+<table>
+<thead>
+<tr class="header">
+<th>§</th>
+<th>Pericope</th>
+<th>Report</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>§1</td>
+<td>1:1–5</td>
+<td><code>dig-deeper-ruth-1-1to5.md</code></td>
+</tr>
+<tr class="even">
+<td>§2</td>
+<td>1:6–18</td>
+<td><code>dig-deeper-ruth-1-6to18.md</code></td>
+</tr>
+<tr class="odd">
+<td>§3</td>
+<td>1:19–22</td>
+<td><code>dig-deeper-ruth-1-19to22.md</code></td>
+</tr>
+<tr class="even">
+<td>§4</td>
+<td>2:1–16</td>
+<td><code>dig-deeper-ruth-2-1to16.md</code></td>
+</tr>
+<tr class="odd">
+<td>§5</td>
+<td>2:17–23</td>
+<td><code>dig-deeper-ruth-2-17to23.md</code></td>
+</tr>
+<tr class="even">
+<td>§6</td>
+<td>3:1–9</td>
+<td><code>dig-deeper-ruth-3-1to9.md</code></td>
+</tr>
+<tr class="odd">
+<td>§7</td>
+<td>3:10–18</td>
+<td><code>dig-deeper-ruth-3-10to18.md</code></td>
+</tr>
+<tr class="even">
+<td>§8</td>
+<td>4:1–12</td>
+<td><code>dig-deeper-ruth-4-1to12.md</code></td>
+</tr>
+<tr class="odd">
+<td>§9</td>
+<td>4:13–17</td>
+<td><code>dig-deeper-ruth-4-13to17.md</code></td>
+</tr>
+<tr class="even">
+<td>§10</td>
+<td>4:18–22</td>
+<td><code>dig-deeper-ruth-4-18to22.md</code></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="how-to-read-this-document">How to read this document</h2>
+<p>Each argument below recurs across <strong>at least three</strong> of the ten pericopes; that threshold is a hard gate, and three candidate threads that failed it are listed at the end rather than quietly promoted. These arguments are <strong>emergent</strong> — none was proposed in the book overview and then looked for; each is what the runs independently kept finding. <strong>Confidence key:</strong> <em>high</em> = a New Testament text picks the chain up; <em>strong</em> = converging text-first findings reached independently in several runs; <em>moderate</em> = a real but looser trajectory. The runs’ own warrant tags are carried forward: a finding that was <code>[S]</code> in a run is <code>[S]</code> here and has not been laundered into something firmer.</p>
+<p><strong>One caution peculiar to this book.</strong> Three claim audits tested sixteen design claims across these same runs and <strong>not one survived as stated</strong>. A synthesis is precisely the document most likely to repeat that mistake at a larger scale. Every argument below is therefore stated as <em>what recurred</em>, with its pericopes named, and none rests on a density rank or a counted “pattern”.</p>
+<hr />
+<h2 id="the-law-is-the-books-vocabulary-and-never-its-authority-and-wherever-a-character-acts-on-it-he-exceeds-it">1. The law is the book’s vocabulary and never its authority — and wherever a character acts on it, he exceeds it</h2>
+<p><strong>Claim.</strong> Ruth is saturated with legal language and cites no law. In four separate scenes the text reaches for a statute’s own wording, withholds the statute’s own labels, and then has the actor do more than the statute requires.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The gleaning law’s two verbs, in Boaz’s private order.</strong> עָזַב (“leave”) with לָקַט (“glean”) in one verse stands in <strong>exactly three verses of the Hebrew Bible — Lev 19:10, Lev 23:22, Ruth 2:16</strong> (§4) <code>[T]</code>. <strong>And the order exceeds the law:</strong> Leviticus commands leaving the standing edge and the fallen gleanings; Boaz has Ruth glean <em>among the sheaves</em> and the young men pull grain <em>out of the bundles</em> for her (§4, §5) <code>[S: audit]</code>.</li>
+<li><strong>None of the law’s status words is in the book.</strong> The gleaning statutes provide for named classes; Ruth contains not one of אַלְמָנָה, גֵּר, יָתוֹם, עָנִי, אֶבְיוֹן — every absence positively controlled (§4) <code>[T]</code>. The one poverty word is דַּל at 3:10, used of the young men, not of Ruth (§7) <code>[S: audit]</code>.</li>
+<li><strong>The Deuteronomic blessing formula is in the chapter, on the labourers’ lips.</strong> יְבָרֶכְךָ יְהוָה stands in thirteen verses, eight of them in Deuteronomy, and Ruth’s only instance is <strong>2:4</strong> — the same parsing as Deut 24:19 — spoken by the reapers, with no statute named (§5, as corrected) <code>[S: audit]</code>.</li>
+<li><strong>The levirate vocabulary enters once, inside an argument that levirate remedy is impossible.</strong> יְבָמָה (“sister-in-law”) stands in three verses of the canon, and Ruth’s is 1:15, in Naomi’s dissuasion (§2) <code>[T]</code>.</li>
+<li><strong>And the gate scene is not the levirate law.</strong> “Ruth 4 is not levirate marriage, and the measurement is decisive” (§8) <code>[T]</code>: the redeemer is not a brother, the widow removes no sandal, and the act is tied to the field.</li>
+</ul>
+<p><strong>Confidence: strong</strong> (five pericopes, each resting on a counted contact rather than a theme).</p>
+<p><strong>Payoff.</strong> The series should stop looking for the statute Ruth is obeying. <strong>The book’s relation to the Torah is lexical, not citational: it speaks the law’s language to people who are doing more than the law asks.</strong> That is a sermon in itself at 2:15–16, and it is the correct answer to the recurring congregational question of which law chapter 4 applies — none of them cleanly, and the text never claims one.</p>
+<hr />
+<h2 id="the-book-argues-by-two-member-chains-and-chapter-1-is-where-almost-all-of-them-are-planted">2. The book argues by two-member chains, and chapter 1 is where almost all of them are planted</h2>
+<p><strong>Claim.</strong> Ruth’s structure is not carried by large-scale patterning but by pairs: a word used in chapter 1 and then once more, late, with nothing in between. The runs found these everywhere, and the audits confirmed them while destroying every larger pattern proposed alongside them.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>יֶלֶד (“child”) stands in exactly two verses of Ruth — 1:5, the children Naomi lost, and 4:16, the child she holds</strong> (§1, §9) <code>[T]</code>.</li>
+<li><strong>רֵיקָם (“empty”) stands in exactly two — 1:21, Naomi “brought back empty”, and 3:17, “do not go empty-handed”</strong> (§3, §7) <code>[T]</code>.</li>
+<li><strong>כָּנָף (“wing”) stands in exactly two — 2:12, Boaz prays that Ruth has come under YHWH’s wings, and 3:9, Ruth asks Boaz to spread his over her</strong> (§4, §6) <code>[T]</code>. <strong>3:9 hands Boaz his own blessing back as a claim</strong> (§6).</li>
+<li><strong>לַיְלָה (“night”) stands in four — 1:12, where Naomi calls the night’s possibility absurd, and then 3:2, 3:8, 3:13, which are that night</strong> (§6) <code>[T]</code>.</li>
+<li><strong>מִי־אַתְּ (“who are you?”) stands in exactly two — 3:9 in the dark and 3:16 at dawn</strong> (§7) <code>[T]</code>.</li>
+<li><strong>שֵׁם (“name”) is concentrated in 1:1–5 and raised in chapter 4</strong> (§1, §8): Boaz’s purpose clause, קוּם with שֵׁם and נַחֲלָה in one verse, is found nowhere else in the Hebrew Bible and he says it twice (§8) <code>[T]</code>.</li>
+<li><strong>שְׁבִי (“sit”) at 3:18 is answered by six sittings at the gate in 4:1–4</strong> (§7) <code>[T]</code>.</li>
+<li><strong>שׁוּב (“return”) carries chapter 1 — ten of its thirteen verses — and closes the book in the same stem at 4:15</strong> (§2, §9) <code>[S: audit]</code>.</li>
+</ul>
+<p><strong>Confidence: strong</strong> (seven pericopes; every chain verified by lemma and several re-verified at audit).</p>
+<p><strong>Payoff.</strong> <strong>Preach chapter 1 knowing what it plants, and preach chapter 4 knowing what it collects.</strong> A series that treats 1:1–22 as mere setup will throw away half the book’s machinery. The practical rule for the preacher: when a word in chapter 1 feels unusually weighted, it almost certainly returns once — and the second occurrence is the point.</p>
+<hr />
+<h2 id="god-is-named-almost-entirely-in-human-speech-and-the-narrator-says-almost-nothing">3. God is named almost entirely in human speech, and the narrator says almost nothing</h2>
+<p><strong>Claim.</strong> The book’s theology is carried by its characters’ mouths. The narrator reports one divine act in eighty-five verses; everything else about God is something a person says.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The narrator states a divine act once, in his own voice:</strong> וַיִּתֵּן יְהוָה לָהּ הֵרָיוֹן at 4:13 (§9) <code>[T]</code>. At 1:6 YHWH’s visitation is what Naomi <em>heard</em> (§2) <code>[T]</code>.</li>
+<li><strong>The book’s opening five verses name no divine name and address no prayer</strong> — the only such stretch at the front of the book (§1) <code>[T]</code>; <strong>and the closing genealogy names none either</strong> (§10) <code>[T]</code>.</li>
+<li><strong>Naomi supplies the theology, twice, and it is an accusation.</strong> שַׁדַּי stands in two verses of Ruth, both here, against 48 in the canon of which 31 are Job (§3) <code>[T]</code>; and three independent lines converge on עָנָה בִי at 1:21 meaning <strong>“testified against me”</strong> (§3).</li>
+<li><strong>The characters do the blessing.</strong> The construction בָּרוּךְ + nominal + לַיהוָה stands in <strong>seven verses of the Hebrew Bible, two of them in Ruth</strong> — 2:20 and 3:10, both in a character’s mouth (§5, §7) <code>[S: audit]</code>.</li>
+<li><strong>And the book’s most theologically loaded sentence is ambiguous by construction.</strong> At 2:20 the subject of “who has not forsaken his kindness” is left open; 3:10 is the control case showing the blessing formula itself is settled, so <strong>the ambiguity lies entirely in the following אֲשֶׁר clause</strong> (§5, §7) <code>[S: audit]</code>.</li>
+</ul>
+<p><strong>Confidence: strong</strong> (five pericopes).</p>
+<p><strong>Payoff.</strong> <strong>The series should resist supplying the narrator’s verdict.</strong> Naomi’s bitterness is not corrected by the book; it is outlived by it. And 2:20 should be preached as open — the Hebrew will not say whether the kindness is Boaz’s or YHWH’s, and the pulpit text closes what the text leaves open.</p>
+<hr />
+<h2 id="no-english-version-is-reliably-the-better-one-for-this-book-and-the-divergences-land-on-load-bearing-words">4. No English version is reliably the better one for this book, and the divergences land on load-bearing words</h2>
+<p><strong>Claim.</strong> The sweep began with the assumption that the pulpit text was the more transparent of the two. Across the ten runs that proved false in both directions, and the divergences consistently fall exactly where a sermon would want to stand.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The usual direction reversed at 1:5</strong>: the study text preserves a two-word chain the pulpit text breaks (§1) <code>[T]</code>.</li>
+<li><strong>NASB95 hides the redeemer.</strong> גָּאַל/גֹּאֵל occurs 21 times in ten verses, none before 2:20, and the NASB95 is the version that obscures its entry (§5) <code>[T]</code>.</li>
+<li><strong>Every English version breaks יָטַב</strong>, which binds Naomi’s purpose (3:1) to Boaz’s heart (3:7) to Boaz’s verdict (3:10) (§6) <code>[T]</code>.</li>
+<li><strong>Every English version destroys the מִי־אַתְּ frame</strong>, rendering 3:9 “Who are you?” and paraphrasing 3:16 (§7) <code>[T]</code>.</li>
+<li><strong>No version in any language carries שַׁעַר at 3:11</strong>, which names the venue of chapter 4 before the reader knows there will be a scene there (§7) <code>[T]</code>.</li>
+<li><strong>At 3:15 NASB95 and ESV both follow a secondary reading against MT; NIV84 follows MT</strong> (§7) <code>[S: dig]</code>.</li>
+<li><strong>At 4:18–22 NASB95 renders nine active hiphils as passives</strong>, using the same English construction as 4:17’s genuine passive and so erasing the book’s final grammatical movement (§10) <code>[T]</code>.</li>
+</ul>
+<p><strong>Confidence: strong</strong> (six pericopes, and the finding reverses the sweep’s own starting assumption).</p>
+<p><strong>Payoff.</strong> <strong>This is the most immediately usable output of the whole sweep.</strong> Whichever version the pulpit uses, the preacher needs a short list of the places it fails him. For the ESV: 1:5 and 2:20’s ambiguity. For the NASB95: גֹּאֵל at 2:20, חַיִל at 2:1/3:11, the gate at 4:1, and the active voice at 4:18–22. For all three: יָטַב, שַׁעַר at 3:11, and the מִי־אַתְּ frame.</p>
+<hr />
+<h2 id="the-redeemer-is-built-as-a-legal-category-before-it-is-a-type-and-the-new-testament-picks-up-the-books-own-last-five-verses">5. The redeemer is built as a legal category before it is a type — and the New Testament picks up the book’s own last five verses</h2>
+<p><strong>Claim.</strong> Ruth constructs גֹּאֵל as a defined obligation with a procedure, and only then is it available as a Christological category. The book’s Christology is therefore earned from its legal vocabulary, not imposed on its romance.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>The word enters late and then saturates:</strong> 21 occurrences in ten verses, none before 2:20, rising through chapters 3 and 4 (§5) <code>[T]</code>.</li>
+<li><strong>The request at 3:9 is a formal claim, not a proposal.</strong> Its ground-clause is כִּי גֹאֵל אָתָּה; and the passage keeps the forbidden idiom and the covenant idiom lexically apart (§6) <code>[T]</code> for the distribution, <code>[I]</code> for the design.</li>
+<li><strong>The gesture is covenantal in its one canonical parallel:</strong> פָּרַשׂ with כָּנָף stands in twelve verses, but <strong>only Ezek 16:8 and Ruth 3:9 use it of spreading a garment-wing over a person</strong> (§6) <code>[S: audit]</code>.</li>
+<li><strong>The procedure is transacted publicly and is not the levirate law</strong> (§8) <code>[T]</code>.</li>
+<li><strong>And the New Testament takes up the genealogy.</strong> Matthew 1:3–6 contains all ten of Ruth’s names and <strong>hangs four maternal references on them — Tamar, Rahab, Ruth, and at 1:6 an unnamed fourth, “of the wife of Uriah” — against none in Ruth’s own list</strong> (§10) <code>[T]</code>. <strong>Each of the four enters the line by an irregularity, and the one Matthew declines to name is the one who had least choice.</strong></li>
+</ul>
+<p><strong>Confidence: high</strong> on the Matthew leg (a New Testament text carries the chain); <strong>strong</strong> on the category.</p>
+<p><strong>Payoff.</strong> <strong>The route from Ruth to Christ runs through the legal vocabulary, not through Boaz’s character.</strong> The moralism trap this book sets — “be a Ruth”, “be a Boaz” — is defeated by taking גֹּאֵל seriously as an obligation someone discharged at cost. And the best bridge to the pulpit is a question congregations actually ask: <em>why is Ruth not in the genealogy?</em> — answered, then turned to Matthew 1:5.</p>
+<hr />
+<h2 id="the-manuscript-marks-one-seam-in-eighty-five-verses-and-it-is-not-where-the-chapter-divisions-fall">6. The manuscript marks one seam in eighty-five verses, and it is not where the chapter divisions fall</h2>
+<p><strong>Claim.</strong> The sweep established, by accumulation rather than by design, that Leningrad divides this book exactly once — and that the division sits where modern chapter numbering does not.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>§1, §5 and §7 each reported, as a limitation on their own structural findings, that Leningrad marks no break at their boundaries</strong> — none at 1:5/1:6, none anywhere in chapter 2, none anywhere in chapter 3 <code>[T]</code>.</li>
+<li><strong>§8 found the passage sits inside the book’s single unbroken block</strong> <code>[T]</code>.</li>
+<li><strong>§10 found the marker itself: exactly one petuchah, after 4:17</strong> <code>[T]</code>.</li>
+</ul>
+<p><strong>Confidence: strong on the datum</strong>, and <strong>capped</strong> on everything built from it: this is Codex Leningradensis as the WLC prints it, paragraphing is a reading tradition rather than authorial <code>[S]</code>, and <strong>how widely the marker is attested has not been established</strong> — the finding carries <code>[unchecked — apparatus spread]</code> across every run that touched it.</p>
+<p><strong>Payoff.</strong> The 4:17 / 4:18 division is <strong>the only unit boundary in this book with any external warrant</strong>. Every other boundary a series uses is editorial — defensible, but chosen. That is worth knowing when deciding, as this series has, to redivide chapter 3 at 3:13 and to preach 4:13–22 as one unit across the single seam the manuscript does mark.</p>
+<hr />
+<h2 id="methodological-this-sweep-is-a-sustained-demonstration-that-the-books-single-contacts-hold-and-its-patterns-do-not">7. Methodological: this sweep is a sustained demonstration that the book’s single contacts hold and its patterns do not</h2>
+<p><strong>Claim.</strong> The most transferable result of the ten runs is not about Ruth. Across three claim audits, <strong>sixteen design claims were tested and none survived as stated, while every measured single contact held</strong> — and the third audit found the reason.</p>
+<p><strong>Converging evidence.</strong></p>
+<ul>
+<li><strong>Audit 1 (13 Nov):</strong> eight pattern claims tested, eight failed — the “ten” design, the verb-per-movement scheme, the Exodus–Genesis frame, the Judges block, the Genesis programme, the עָזַב chain, descent-and-ascent, the betrothal type-scene <code>[S: audit]</code>.</li>
+<li><strong>Audit 2 (14 Nov):</strong> fourteen design claims tested, <strong>one survived</strong> — the mirrored divine names at 1:20–21, enumerated over 22,284 two-verse windows, where ABBA is 3.99 % of four-name windows and <strong>Ruth 1:20–21 is the only ABBA window in the Hebrew Bible built from any pair of names other than YHWH/Elohim</strong> <code>[S: audit]</code>.</li>
+<li><strong>Audit 3 (15 Nov):</strong> eight design claims tested, <strong>none survived as stated</strong> — and <strong>four of the five falsified ones had a genuine single contact underneath them</strong> that the ranking metric had obscured <code>[S: audit]</code>.</li>
+<li><strong>The explanation, found at audit 3:</strong> the density metric that generates these claims is a <strong>short-unit detector</strong>. It divides shared rare pairs by the compared unit’s length, cannot distinguish a chapter relationship from a single verse, and can be carried by one lemma. <strong>Calibration: a real textual relationship scores an order of magnitude higher — 2 Sam 6 → 1 Chr 13 = 8.786 — while Ruth’s best chapter score is 0.357, the median of what an arbitrary real chapter achieves</strong> <code>[S: audit]</code>.</li>
+</ul>
+<p><strong>Confidence: strong</strong> (all ten runs, three audits, with baselines).</p>
+<p><strong>Payoff.</strong> <strong>For this series: a pattern is a sermon illustration until it has been measured, and this book’s patterns are unusually pretty and unusually false.</strong> For the toolkit beyond Ruth: trust a counted contact, distrust a rank; treat any density below about 1.0 as noise unless four checks say otherwise.</p>
+<hr />
+<h2 id="cross-reference-where-each-argument-is-anchored">Cross-reference: where each argument is anchored</h2>
+<table>
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 32%" />
+<col style="width: 36%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Macro-argument</th>
+<th>Anchor pericopes</th>
+<th>Confidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>The law is the book’s vocabulary and never its authority; every actor exceeds it</td>
+<td>§2, §4, §5, §8</td>
+<td>strong</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>The book argues by two-member chains, planted in chapter 1</td>
+<td>§1, §2, §3, §4, §6, §7, §8, §9</td>
+<td>strong</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>God is named almost entirely in human speech</td>
+<td>§1, §2, §3, §5, §7, §9, §10</td>
+<td>strong</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>No English version is reliably better; divergences land on load-bearing words</td>
+<td>§1, §5, §6, §7, §10</td>
+<td>strong</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>The redeemer is a legal category before it is a type; the NT takes up the genealogy</td>
+<td>§5, §6, §8, §10</td>
+<td><strong>high</strong> (Matthew leg)</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>One manuscript seam in eighty-five verses, not at a chapter division</td>
+<td>§1, §5, §7, §8, §10</td>
+<td>strong on the datum; capped</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Single contacts hold; patterns fail — and the metric explains why</td>
+<td>all ten; three audits</td>
+<td>strong</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="candidate-threads-that-did-not-clear-the-gate">Candidate threads that did <strong>not</strong> clear the gate</h2>
+<p>Recorded so they are not re-found and promoted later.</p>
+<ul>
+<li><strong>“The Masoretic reading is always the harder one.”</strong> Looked like a macro-argument across §5, §7 and §10. <strong>Discarded by audit 3</strong>: BHS itself proposes reading <em>with</em> the versions against L at 1:14, 4:5, 4:10, 4:11 and 4:19, and as stated the claim was close to unfalsifiable <code>[S: audit]</code>. <strong>The tendency is real; the universal is false, and it is not preachable.</strong></li>
+<li><strong>“The book opens and closes with names and no God — a deliberate frame.”</strong> Raised in §10 on facts confirmed in §1. <strong>Discarded by audit 3 as at chance</strong>: seven of 39 books have a clean opening five and seven a clean closing five; <strong>both: Ruth and 1 Chronicles, against a chance expectation of 1.3</strong> — and 1 Chronicles also opens with genealogy, where connectors are structurally impossible <code>[S: audit]</code>. <strong>What survives is 1:6 as a hinge</strong>, where the divine name and the book’s first reasoning arrive together.</li>
+<li><strong>“Matthew’s genealogy tracks the Alexandrinus text of Chronicles.”</strong> Raised in §10 on four verses of 1 Chr 2, where A reads Ἐσρώμ, Ἀράμ, Ἀμιναδάβ and Ἰωβήδ with Matthew, and ends Ruth 4:22 “David <strong>the king</strong>” as Matthew does at 1:6. <strong>Tested 15 November against the Swete apparatus to Chronicles and not sustained as systematic assimilation.</strong> Over the kings of 1 Chr 3:10–14: <strong>at 3:14 A reads Ἀμώς with Matthew, against B’s Ἀμνών and against the Hebrew אָמוֹן</strong> — but <strong>at 3:10 A reads Ἀσά, not Matthew’s distinctive Ἀσάφ</strong>, which is the clearest place assimilation would show; and at 3:12 A’s Ἰωνάθαν moves <em>away</em> from Matthew’s Ἰωαθάμ <code>[T]</code>. <strong>So the 1 Chr 2 agreements are better explained by a shared Greek transliteration tradition than by assimilation in either direction</strong> <code>[I]</code> — <strong>which strengthens rather than weakens the conclusion at Ruth 4:19</strong>, since that is exactly what the undisputed Ῥάμ/Ἀράμ doublet at 1 Chr 2:9 already indicated. <em>Not macro; a text-critical result, recorded here because the synthesis is where it was tested.</em></li>
+</ul>
+<hr />
+<h2 id="what-this-means-for-the-series-as-a-whole">What this means for the series as a whole</h2>
+<p>Ruth preaches as a book about a God who is almost never on stage and almost always on someone’s lips, whose kindness arrives through people acting beyond what any statute requires, in a story that plants its vocabulary in the first chapter and collects it in the last. <strong>The cumulative case the sweep makes is that the book’s meaning is carried by its words rather than by its architecture</strong> — which is why ten runs found dozens of durable two-member chains and three audits destroyed every large pattern proposed over them. A series built on the chains will be solid and will keep surprising the congregation; a series built on the patterns will be elegant and will not survive examination.</p>
+<p><strong>Three practical consequences.</strong> Preach chapter 1 as the planting, not the setup. Know, passage by passage, where your pulpit text fails you — the list in argument 4 is short and specific. And take the route to Christ through גֹּאֵל as an obligation discharged at cost, arriving at Matthew 1, where the list that Ruth’s own genealogy omits her from names her, along with three other women who entered the line by irregularity and one whom even Matthew will not name.</p>
+<hr />
+<p><em>Provenance: emergent from the ten dig-deeper runs (§1–§10), reconciled with <code>book-overview-ruth.md</code> v2.0 and <code>dig-deeper-ruth-claim-audit.md</code> v3.0. NT-authorised links marked high, converging text-first findings strong, looser trajectories moderate. The ≥3-pericope gate was applied strictly: three candidate threads are listed above as failing it, two of them discarded by audit rather than by this pass. Offered as connective tissue for the series, not as a replacement for the passage-level runs.</em></p>
+
+</main>
+</div>
+</body>
+</html>

@@ -1,6 +1,6 @@
 # Dig Deeper: Ruth 4:18–22
 
-**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt` and `13-1-Chronicles.txt`); SBLGNT (`_texts/greek-nt-sblgnt/01-Matthew.txt`); Rahlfs–Hanhart LXX of Ruth and of Chronicles, and the BHS text and apparatus, from the Logos exports in `_texts/logos-exports/`
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt` and `13-1-Chronicles.txt`); SBLGNT (`_texts/greek-nt-sblgnt/01-Matthew.txt`); **Rahlfs 1979** LXX of Ruth and of Chronicles, and the BHS text and apparatus, from the Logos exports in `_texts/logos-exports/` — *(v1.1 — claim audit 3, A40: earlier versions of this line said "Rahlfs–Hanhart". The exports are stamped "Septuaginta: With morphology. electronic ed. (1979). Stuttgart: Deutsche Bibelgesellschaft", which is **Rahlfs 1979**, not the 2006 Rahlfs–Hanhart revision. No Rahlfs–Hanhart text and no Rahlfs apparatus of any date is in the corpus.)*
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV — carried forward from the three preceding engagements. Say if this unit is for an engagement elsewhere.
 **Date:** 15 November 2026
@@ -45,9 +45,9 @@ The Hebrew verb is active nine times over. The ESV keeps it active; the NASB95 m
 
 2. **The book's last ten verses run one root through three voices, and the study text flattens the last into the one before it.** יָלַד occurs in 4:13 and 4:15 as **qal with Ruth as subject** (וַתֵּלֶד, "and she bore"; יְלָדַתּוּ, "she bore him"), at 4:17 as a **passive with no agent at all** (יֻלַּד, "a son has been born"), and nine times in 4:18–22 as **hiphil with nine men as subject** (הוֹלִיד, "fathered") `[T]`, every form checked in the index. **Agency moves from Ruth, to nobody, to a line of men.** And the NASB95 renders all nine hiphils as passives — "to Perez was born Hezron" — using the same English construction it uses for 4:17's genuine passive, so the third stage disappears `[T]`. The ESV's "fathered" keeps it. Surfaced by: Vocabulary, Structure, Repetition, Translations, Original Language Observations. *High confidence.* **New to this run.**
 
-3. **Ruth 4:19–22a is verbatim 1 Chronicles 2:10–12, and the two clauses that are Ruth's own are precisely the ones that make this a line from Perez to David.** Four clauses match as ordered phrases, plain: וְרָם הוֹלִיד אֶת־עַמִּינָדָב and וְעַמִּינָדָב הוֹלִיד אֶת־נַחְשׁוֹן (Ruth 4:19, 4:20 = 1 Chr 2:10), וּבֹעַז הוֹלִיד אֶת־עוֹבֵד (Ruth 4:21 = 1 Chr 2:12), and וְעוֹבֵד הוֹלִיד אֶת־יִשָׁי (1 Chr 2:12, matching Ruth 4:22 on the skeletal pass, the difference being Obed's spelling) `[T]`. **Ruth's first clause is unique to Ruth** — פֶּרֶץ הוֹלִיד אֶת־חֶצְרוֹן, where **Chronicles gives Perez two sons, Hezron and Hamul** (1 Chr 2:5) `[T]`. **And Ruth's last clause is unique to Ruth** — וְיִשַׁי הוֹלִיד אֶת־דָּוִד, where **Chronicles abandons the formula at 2:13 and ranks Jesse's seven sons instead** `[T]`. Surfaced by: Structure, Quotation/Allusion, Textual Variants, Bible Timeline. *High confidence* on every reading; **the direction of dependence stays open** `[S: overview]`. **New to this run.**
+3. **Ruth 4:19–22a and 1 Chronicles 2:10–12 run the same six-generation chain in the same idiom, and the clauses Ruth does not share with it are the ones at the two ends.** *(v1.1 — claim audit 3, A32: this headline previously said "verbatim" and "two clauses". Both were wrong and are corrected here.)* Of the **seven** begetting-clauses in Ruth 4:19–22a, **three are word-for-word identical** with Chronicles — וְרָם הוֹלִיד אֶת־עַמִּינָדָב (4:19b = 2:10a), וְעַמִּינָדָב הוֹלִיד אֶת־נַחְשׁוֹן (4:20a = 2:10b) and וּבֹעַז הוֹלִיד אֶת־עוֹבֵד (4:21b = 2:12a) `[T]`. **Three differ by a name's spelling** — Ruth's שַׂלְמָה (4:20) and שַׂלְמוֹן (4:21) against Chronicles' שַׂלְמָא twice, and Ruth's defective עֹבֵד (4:22) against Chronicles' plene עוֹבֵד `[T]`. **One has no counterpart in 2:10–12 at all** — 4:19a, חֶצְרוֹן הוֹלִיד אֶת־רָם, because **Chronicles gives Hezron's sons as a בְּנֵי list at 2:9** `[T]`. **And Chronicles adds three words Ruth does not have**, נְשִׂיא בְּנֵי יְהוּדָה at 2:10 `[T]`. **So three clauses are Ruth's own, not two** — 4:18b, 4:19a and 4:22b — **but the two that carry the argument are still the outer pair**: Perez→Hezron, where Chronicles gives Perez two sons (2:5), and Jesse→David, where Chronicles abandons the formula at 2:13 to rank Jesse's seven `[T]`. **The honest shape is a shared chain with divergences at both ends and three spelling differences in the middle, not a verbatim block.** Surfaced by: Structure, Quotation/Allusion, Textual Variants, Bible Timeline. *High confidence* on the readings; **the direction of dependence stays open** `[S: overview]`.
 
-4. **Matthew names, in exactly this stretch, the three women Ruth's own genealogy omits — including Ruth.** Matthew 1:3–6 covers Perez to David and inserts **Tamar** (ἐκ τῆς Θαμάρ, 1:3), **Rahab** and **Ruth** (ἐκ τῆς Ῥαχάβ… ἐκ τῆς Ῥούθ, 1:5) `[T]`, verified in the SBLGNT. **Ruth 4:18–22 names no woman** `[T]`, and Ruth 4:12 had named Tamar seven verses earlier `[T]`. Surfaced by: Quotation/Allusion, Vocabulary (the proper-noun inventory), Christological Reading, Who Am I?. *High confidence* on the data; *moderate–high* on the reading. **This is the sharpest available form of the sweep's pattern-break absence, and it is new.**
+4. **Matthew carries this same chain and hangs four mothers on it; Ruth's own genealogy names no woman at all.** *(v1.1 — claim audit 3, A41: this headline previously said "three women" and "exactly this stretch". Both were loose and are corrected here.)* Matthew 1:3–6 contains **all ten** of Ruth's names `[T]`, verified in the SBLGNT — and **four more men besides**: Judah and Zerah at 1:3, Solomon and Uriah at 1:6 `[T]`, so the stretch is wider than Ruth's at both ends. Within it Matthew attaches **four** maternal references to the line: **Tamar** (ἐκ τῆς Θαμάρ, 1:3), **Rahab** and **Ruth** (ἐκ τῆς Ῥαχάβ… ἐκ τῆς Ῥούθ, 1:5), and at **1:6 a fourth who is not named — ἐκ τῆς τοῦ Οὐρίου, "of the wife of Uriah"** `[T]`. **Three is the count only for 1:3–5.** **Ruth 4:18–22 names no woman** `[T]`, and Ruth 4:12 had named Tamar seven verses earlier `[T]`. Surfaced by: Quotation/Allusion, Vocabulary (the proper-noun inventory), Christological Reading, Who Am I?. *High confidence* on the data; *moderate–high* on the reading. **That the fourth is the one Matthew declines to name sharpens the finding rather than blunting it: the list that restores women to the line still withholds one, and she is the one taken by force.**
 
 5. **BHS's conjecture at 4:19 is answered by the Greek itself.** BHS proposes reading אֲרָם for MT's רָם, citing the Greek and Matthew 1:3–4 `[T]`. But **both printed Greek editions of 1 Chronicles 2:9 carry a doublet** — ὁ Ῥάμ *and* Ἀράμ listed as two of Hezron's sons, where the Hebrew has one `[T]`. So **Ἀράμ is a Greek-side alternative transliteration of רָם, not a witness to a Hebrew אֲרָם** `[I]`. And both printed Greek editions of **Ruth** 4:19 read Ἀρράν, not Ἀράμ `[T]`. Surfaced by: Translations, Textual Variants, Quotation/Allusion. *Moderate–high confidence* — the doublet is certain, the inference from it is short, and the honest limit is that no critical apparatus to Chronicles is in the corpus. **New to this run, and it bears on an item BHS puts in the margin of the book's last page.**
 
@@ -79,7 +79,7 @@ So the narrative has already asserted the genealogical point. **The question Pha
 
 **Necessity answer — why here, and not elsewhere.** Three reasons the text supplies.
 
-First, **a claim about a line is proved by a list, not by a story** `[I]`. 4:17's "he is the father of Jesse, the father of David" is a two-step assertion by the narrator; 4:18–22 is a nine-step formal chain anchored in a name the Torah knows and the Chronicler's list repeats verbatim (Tool 11). The second is a different kind of statement, and the manuscript's paragraph marker says the tradition read it as one `[T]`.
+First, **a claim about a line is proved by a list, not by a story** `[I]`. 4:17's "he is the father of Jesse, the father of David" is a two-step assertion by the narrator; 4:18–22 is a nine-step formal chain anchored in a name the Torah knows and largely shared, clause for clause, with the Chronicler's list (Tool 11). The second is a different kind of statement, and the manuscript's paragraph marker says the tradition read it as one `[T]`.
 
 Second, **the heading reaches back past the whole book.** וְאֵלֶּה תּוֹלְדוֹת פָּרֶץ begins not from Elimelech, not from Boaz, but from **Perez** — the name Ruth 4:12 had just put in the elders' mouths, "like the house of Perez, whom Tamar bore to Judah" `[T]`. The genealogy therefore starts where the blessing of seven verses earlier ended, and it starts outside the book's own story altogether, in Genesis 38 `[I]`. **The unit exists here because the book's claim is not about a household but about a line that was already in jeopardy two hundred years before Elimelech left Bethlehem.**
 
@@ -191,7 +191,15 @@ Triage: **Perez** gets the full name-hyperlink check, being the heading's name a
 
 **תּוֹלְדוֹת occurs 39 times in 39 verses of the Hebrew Bible: Genesis 13, Numbers 13, 1 Chronicles 9, Exodus 3, and Ruth 1** `[T]`. *High confidence* — reproduced here by lemma, matching the sweep exactly.
 
-**The ordered phrase וְאֵלֶּה תּוֹלְדוֹת matches at Ruth 4:18 alone in the plain pass; the skeletal pass adds eleven verses — Gen 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2 and Num 3:1** `[T]`. **The difference between the passes is spelling, not wording: Genesis spells the noun defectively (תּוֹלְדֹת) and Ruth spells it plene (תּוֹלְדוֹת)** `[T]`. *High confidence.*
+**The ordered phrase וְאֵלֶּה תּוֹלְדוֹת matches at Ruth 4:18 alone in the plain pass; the skeletal pass adds eleven verses — Gen 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2 and Num 3:1** `[T]`. **The difference between the passes is spelling, not wording** `[T]`. *High confidence.*
+
+**Three nuances the claim audit added, each of which makes the finding less tidy and more accurate** *(v1.1 — claim audit 3, A30)*:
+
+- **Genesis is defective in two different ways** — at the end four times (תּוֹלְדֹת / תֹּלְדֹת) and **at the front twice**, Gen 36:1 and 36:9 (תֹּלְדוֹת) `[T]`. "Genesis spells it defectively" is true but is not one spelling.
+- **The formula with the same conjunction stands outside Genesis as well as in it** — **Num 3:1, וְאֵלֶּה תּוֹלְדֹת** `[T]` — so seven other verses carry it, six in Genesis and one in Numbers.
+- **The fully plene noun is not unique to Ruth.** **Gen 2:4 has אֵלֶּה תוֹלְדוֹת** — the only plene spelling in Genesis `[T]`. **Ruth 4:18 is the Gen 2:4 noun with a waw on the demonstrative.**
+
+That last is worth the space. The heading that closes the book is spelled as the heading that opens the canon's first genealogy — *these are the generations of the heavens and the earth* — and no other toledot heading in the Hebrew Bible is `[T]`. **Whether that is design or orthographic accident the text does not say, and this report does not claim it** `[I]`. *Low–moderate, recorded rather than pressed.*
 
 **This is also the one place in four digs where the skeletal pass has done exactly the job it exists for.** The three preceding runs each caught it producing false positives — אַחֲרֵי collapsing into אַחֵר, כְּאַפִּי into כְּאֵיפָה, מִי אַתָּה into מִי אַתְּ, and רֹקֵם into רֵיקָם `[S: the three digs]`. **Here the pass recovers a genuine plene/defective variation of the same word and the result is a real finding.** Worth recording so that the queued amendment is not read as a case against the pass.
 
@@ -217,7 +225,7 @@ The name-hyperlink check, with the source narrative read.
 
 **Nahshon occurs in nine verses of the Hebrew Bible: Exod 6:23; Num 1:7; 2:3; 7:12; 7:17; 10:14; Ruth 4:20; 1 Chr 2:10; 2:11** `[T]`. *High confidence.*
 
-**Six of the nine are wilderness-generation texts in which he is the chief of Judah.** Num 1:7, "for Judah, Nahshon the son of Amminadab" `[T]`; Num 2:3 and 10:14, Judah's standard-bearer on the march; Num 7:12 and 7:17, the first of the twelve tribal leaders to bring his offering at the tabernacle's dedication `[T]`. Exod 6:23 makes him Aaron's brother-in-law `[T]`.
+**Five of the nine are in Numbers, and four of those five place him at the head of Judah.** *(v1.1 — claim audit 3, A33: this paragraph previously said "six … in which he is the chief of Judah", which was wrong on both counts.)* Num 1:7, "for Judah, Nahshon the son of Amminadab" `[T]`; Num 2:3 and 10:14, Judah's standard-bearer on the march `[T]`; Num 7:12, the first of the twelve tribal leaders to bring his offering at the tabernacle's dedication `[T]`. **The fifth, Num 7:17, names only his offering and does not mention Judah** `[T]`. The remaining four verses are **Exod 6:23 — set in Egypt, where he is simply Elisheba's brother and which is not a wilderness text** `[T]` — Ruth 4:20, and 1 Chr 2:10–11. **He is called נָשִׂיא twice: Num 2:3 and 1 Chr 2:10** `[T]`.
 
 **So the list carries one datable anchor, and the dating produces a finding.** Nahshon belongs to the exodus generation; Boaz is his grandson in this list (Nahshon → Salmah → Boaz) `[T]`; and Boaz lives in the judges' period, which 1:1 names `[T]`. **Two generations therefore span the conquest and the whole judges era** `[I]`.
 
@@ -226,6 +234,10 @@ The name-hyperlink check, with the source narrative read.
 #### (e) The two double-spelled names
 
 Reported under Tool 3 and verified there: **שַׂלְמָה / שַׂלְמוֹן** at 4:20 / 4:21, with **שַׂלְמָא** as a third form at 1 Chr 2:11 `[T]`; and **עוֹבֵד / עֹבֵד** at 4:21 / 4:22, plene and defective `[T]`.
+
+**And the Salmah/Salmon pair is stronger than first reported** *(v1.1 — claim audit 3, A34, which confirmed the claim and improved it)*. **The Masoretic morphology files the two as two different lemmas — 8009 and 8012 — and each occurs exactly once in the whole Hebrew Bible** `[T]`. So the book's twentieth and twenty-first verses carry **two canonical hapax legomena in consecutive lines, for what the list treats as one man.** Obed, by contrast, is one lemma in two spellings, plene at 4:17 and 4:21 and defective at 4:22 `[T]`.
+
+**One honest qualification the auditor supplied and the report should carry: the text nowhere says Salmah and Salmon are the same person.** The identification rests on position — Nahshon fathers X at 4:20b, X fathers Boaz at 4:21a — and the morphology declines to make it `[I]`. A safe inference, but an inference.
 
 **All three English versions level both.** "Salmon" twice and "Obed" twice in NASB95, ESV and NIV84 `[T]`, so no congregation in any of the three will hear either `[T]`. Nothing exegetical turns on it; it is reported because it is the unit's only formal irregularity and because the Obed pair is new.
 
@@ -265,7 +277,7 @@ This is the fourth point in this book at which the two versions diverge in a way
 
 #### Ancient versions check
 
-The trigger is met: the modern versions substantively agree on the nine formulas, and the rendering carries weight. **The BHS apparatus carries four notes in this unit — at vv.18, 19, 20 and 21** `[T]`. Checked against **Swete** and the **Rahlfs–Hanhart** export, for both Ruth and 1 Chronicles, and against the **SBLGNT** for Matthew. Each item is classified under the three-way triage.
+The trigger is met: the modern versions substantively agree on the nine formulas, and the rendering carries weight. **The BHS apparatus carries four notes in this unit — at vv.18, 19, 20 and 21** `[T]`. Checked against **Swete** and the **Rahlfs 1979** export, for both Ruth and 1 Chronicles, and against the **SBLGNT** for Matthew. Each item is classified under the three-way triage.
 
 | Verse | Divergence | Category | Position |
 |---|---|---|---|
@@ -279,9 +291,11 @@ The trigger is met: the modern versions substantively agree on the nine formulas
 **The 4:19 item deserves setting out, because BHS puts a conjecture in the margin of the book's last page.**
 
 - **The issue.** MT reads רָם ("Ram"). Both printed Greek editions of **Ruth** read Ἀρράν `[T]`. BHS reports that the majority Greek witness to Ruth reads Ἀράμ, and **proposes emending the Hebrew to אֲרָם, citing Matthew 1:3–4** `[T]`. Matthew does read Ἀράμ `[T]`, verified in the SBLGNT.
-- **The evidence that answers it.** **Both printed Greek editions of 1 Chronicles 2:9 carry a doublet**: Swete has "ὁ Ἰραμεὴλ καὶ ὁ **Ῥὰμ** καὶ ὁ Χαβὲλ καὶ **Ἀράμ**" and Rahlfs "ὁ Ιραμεηλ καὶ ὁ **Ραμ** καὶ ὁ Χαλεβ καὶ **Αραμ**" — **four sons where the Hebrew has three (Jerahmeel, Ram, Chelubai), with Ῥάμ and Ἀράμ both standing** `[T]`. And both Greek editions of 1 Chr 2:10 then continue with Ἀράμ as the father of Amminadab `[T]`, where the Hebrew has רָם `[T]`.
+- **The evidence that answers it.** **Both printed Greek editions of 1 Chronicles 2:9 carry a doublet**: Swete has "ὁ Ἰραμεὴλ καὶ ὁ **Ῥὰμ** καὶ ὁ Χαβὲλ καὶ **Ἀράμ**" and Rahlfs 1979 "ὁ Ιραμεηλ καὶ ὁ **Ραμ** καὶ ὁ Χαλεβ καὶ **Αραμ**" — **four sons where the Hebrew has three (Jerahmeel, Ram, Chelubai), with Ῥάμ and Ἀράμ both standing** `[T]`.
+- **And the two editions then resolve the doublet in opposite directions at 2:10** — *(added v1.1, claim audit 3, A40; this is new evidence and it strengthens the argument)* — **Swete continues καὶ Ἀρρὰν ἐγέννησεν τὸν Ἀμειναδάβ, Ruth's own form; Rahlfs 1979 continues καὶ Αραμ ἐγέννησεν τὸν Αμιναδαβ** `[T]`. **A name that one Greek tradition resolves toward Ἀρράν and another toward Ἀράμ, from a verse where both stand side by side, is a transliteration in flux — which is precisely what a variant Hebrew name would not look like.**
 - **Position: MT.** *Moderate–high confidence.* **The Greek tradition preserves two transliterations of the same Hebrew name and has set them side by side in a single verse of Chronicles as alternatives.** Ἀράμ is therefore most simply explained as a Greek-side form of רָם — with a prosthetic vowel — and not as a witness to a Hebrew אֲרָם `[I]`. Supporting this: the **Hebrew** tradition reads רָם at Ruth 4:19, 1 Chr 2:9 and 1 Chr 2:10 `[T]`, so there is no Hebrew witness to the longer name at all in either list.
-- **The honest limit.** No critical apparatus to Chronicles is in the corpus, so this run cannot say how the doublet arose or how widely it is attested. The conclusion is that **BHS's conjecture rests on a Greek form whose own tradition shows it to be a variant transliteration** — which is an argument against the emendation, not a demonstration that it is impossible. **Recommend a library pass before the finding is relied on**, and it is queued.
+- **SETTLED BY LOGOS ROUND 3, 15 November 2026 — and more firmly than this report first dared.** *(v1.2. The corpus holds no Chronicles apparatus, but **Swete's full apparatus to the Old Testament is in the Logos library**, which claim audit 3 discovered while checking an unrelated question. Three readings, taken from it directly.)* **(i) At Ruth 4:19 the apparatus records no Ἀράμ variant at all** — its only notes are particles (*om δε* A, *om και* A, *Ἀρράν 2° ] + δε* A) `[T]`, so **both of Swete's great uncials read Ἀρράν in Ruth**, and BHS's "𝔊ʳᵉˡ Αραμ" is not borne out by the uncial witness recorded there. **(ii) At 1 Chr 2:9 the apparatus records variants at Εσερων and Χαβελ and *nothing whatever at Ῥάμ or Ἀράμ*** `[T]` — **so the doublet is not a manuscript variant: both names stand in the text with no witness omitting either.** That is the strongest form the argument could take; the two are not rival readings but one name written twice. **(iii) At 1 Chr 2:10 the division is between the uncials** — *Ἀρράν ] Ἀράμ* A `[T]` — so Rahlfs's Αραμ follows Alexandrinus, and the Swete/Rahlfs divergence has a witness basis.
+- **Position: MT, raised from *moderate–high* to *high*.** No Hebrew witness has the longer name in either list; the Greek's two forms are one name written two ways, as the silence of the apparatus at 2:9 shows; and Ruth's own Greek reads Ἀρράν in both uncials. **BHS's conjecture gains nothing from the evidence it cites.**
 - **Preaching implication: none directly**, and the preacher should not raise it. **The useful point is the one that stands regardless**: Matthew's list says Ἀράμ, and that is what the New Testament's genealogy of Christ carries (category 3).
 
 **No KJV comparison is offered**; no KJV export is in the corpus.
@@ -354,18 +368,22 @@ What carries it:
 
 *Move 1 — Source context, read.* 1 Chronicles 2 opens the genealogical survey of Israel with Judah, and runs: the sons of Judah by Tamar (2:4), **the sons of Perez — Hezron and Hamul** (2:5), **the sons of Hezron — Jerahmeel, Ram and Chelubai** (2:9), then Ram → Amminadab → Nahshon → **Salma** → Boaz → Obed → Jesse (2:10–12), and then **Jesse's sons by rank, with David seventh** (2:13–15) `[T]`. Its function is a comprehensive tribal register, branching where Ruth does not.
 
-*The agreement, measured clause by clause by ordered-phrase search.* `[T]`
+*The agreement, measured clause by clause.* `[T]` *(v1.1 — claim audit 3, A32: the table below replaces one that reported four matching clauses and described the result as verbatim. The auditor set each clause against its Chronicles counterpart as printed, which an ordered-phrase search cannot do, and the shape changed.)*
 
-| Clause | Where it stands |
-|---|---|
-| פֶּרֶץ הוֹלִיד אֶת־חֶצְרוֹן | **Ruth 4:18 only** |
-| וְרָם הוֹלִיד אֶת־עַמִּינָדָב | Ruth 4:19 **and** 1 Chr 2:10 |
-| וְעַמִּינָדָב הוֹלִיד אֶת־נַחְשׁוֹן | Ruth 4:20 **and** 1 Chr 2:10 |
-| וּבֹעַז הוֹלִיד אֶת־עוֹבֵד | Ruth 4:21 **and** 1 Chr 2:12 |
-| וְעוֹבֵד הוֹלִיד אֶת־יִשָׁי | 1 Chr 2:12, and **Ruth 4:22 on the skeletal pass** (Ruth spells Obed defectively) |
-| וְיִשַׁי הוֹלִיד אֶת־דָּוִד | **Ruth 4:22 only** |
+| Ruth | 1 Chronicles | Relation |
+|---|---|---|
+| 4:18a וְאֵלֶּה תּוֹלְדוֹת פָּרֶץ | — | **no counterpart** |
+| 4:18b פֶּרֶץ הוֹלִיד אֶת־חֶצְרוֹן | 2:5 בְּנֵי־פֶרֶץ חֶצְרוֹן וְחָמוּל | **different construction** — Chronicles lists two sons |
+| 4:19a וְחֶצְרוֹן הוֹלִיד אֶת־רָם | 2:9 וּבְנֵי חֶצְרוֹן … יְרַחְמְאֵל וְרָם וּכְלוּבָי | **no counterpart in 2:10–12** — a בְּנֵי list, three sons |
+| 4:19b וְרָם הוֹלִיד אֶת־עַמִּינָדָב | 2:10a (same) | **identical** |
+| 4:20a וְעַמִּינָדָב הוֹלִיד אֶת־נַחְשׁוֹן | 2:10b (same) **+ נְשִׂיא בְּנֵי יְהוּדָה** | identical, **plus three words in Chronicles** |
+| 4:20b … אֶת־**שַׂלְמָה** | 2:11a … אֶת־**שַׂלְמָא** | **differs** |
+| 4:21a וְ**שַׂלְמוֹן** הוֹלִיד אֶת־בֹּעַז | 2:11b וְ**שַׂלְמָא** הוֹלִיד אֶת־בֹּעַז | **differs** |
+| 4:21b וּבֹעַז הוֹלִיד אֶת־עוֹבֵד | 2:12a (same) | **identical** |
+| 4:22a וְ**עֹבֵד** הוֹלִיד אֶת־יִשָׁי | 2:12b וְ**עוֹבֵד** הוֹלִיד אֶת־יִשָׁי | **differs** — defective against plene |
+| 4:22b וְיִשַׁי הוֹלִיד אֶת־דָּוִד | 2:13 וְאִישַׁי הוֹלִיד אֶת־בְּכֹרוֹ אֶת־אֱלִיאָב … | **different continuation** |
 
-**So the two lists are verbatim identical through their middle and divergent at both ends — and Ruth's two unique clauses are exactly the two that make this a line from Perez to David.** `[T]` *High confidence.*
+**So of the seven begetting-clauses in 4:19–22a, three are word-for-word identical, three differ by a name's spelling, and one has no counterpart in 2:10–12 at all.** `[T]` *High confidence.* **The two lists run the same chain in the same idiom; they are not a verbatim block.** Three clauses are Ruth's own — 4:18b, 4:19a and 4:22b — **but only the outer two carry the argument**, since 4:19a's content is in Chronicles at 2:9 in another form while 4:18b and 4:22b mark the points where Chronicles branches away: two sons at the head, seven at the foot `[I]`. *Moderate–high* on that reading.
 
 **Why each end diverges is visible in Chronicles.** At the head, Chronicles cannot say "Perez fathered Hezron" because it is listing Perez's **two** sons (2:5) `[T]`. At the foot, Chronicles cannot say "Jesse fathered David" because it is ranking Jesse's **seven** sons, with David last (2:13–15) `[T]`. **Ruth's list is the same material cut to a single line.** `[I]`, *moderate–high*.
 
@@ -373,7 +391,7 @@ What carries it:
 
 *Move 3 — OT-to-OT.* Gen 46:12, Num 26:21 and 1 Chr 2:5 are already a chain of Judahite registers before Ruth reaches them `[T]`. Ruth joins an existing list-tradition rather than creating a connection.
 
-*What it adds, and the direction left open.* **The BHS apparatus itself cross-refers 1 Chr 2:5, 9–15 at Ruth 4:18** `[T]`, which is as close as an edition comes to saying the two belong together. **Which draws on which is not settled and is not settled here** `[S: overview]` — the overview reports the question as open and this run leaves it open. What this run adds is that the overlap is **verbatim and bounded**, which sharpens the question without answering it: a relationship of this kind is either copying in one direction or both drawing on a common register, and the shared formula makes loose independent agreement the least likely of the three `[I]`. *Moderate*, and no position taken.
+*What it adds, and the direction left open.* **The BHS apparatus itself cross-refers 1 Chr 2:5, 9–15 at Ruth 4:18** `[T]`, which is as close as an edition comes to saying the two belong together. **Which draws on which is not settled and is not settled here** `[S: overview]` — the overview reports the question as open and this run leaves it open. What this run adds is that the overlap is **close and bounded** — three clauses word-identical, three differing only in how a name is spelled, and the divergences falling at the two ends — which sharpens the question without answering it: a relationship of this kind is either copying in one direction or both drawing on a common register, and the shared idiom makes loose independent agreement the least likely of the three `[I]`. *Moderate*, and no position taken. **The three spelling differences are themselves evidence worth weighing in a future pass: a copyist reproducing a list letter by letter is less likely to produce שַׂלְמָה, שַׂלְמוֹן and שַׂלְמָא across three verses than two lists drawing on a common stock of names are** `[I]`. *Low–moderate; offered, not pressed.*
 
 ---
 
@@ -381,17 +399,20 @@ What carries it:
 
 *Move 1 — Source context, read.* Matthew opens his Gospel with a genealogy in three sets of fourteen, and his first set runs Abraham to David `[T]`. Within it, **Perez to David is covered in exactly the names Ruth 4:18–22 covers**: Φαρές, Ἑσρώμ, Ἀράμ, Ἀμιναδάβ, Ναασσών, Σαλμών, Βόες, Ἰωβήδ, Ἰεσσαί, Δαυίδ `[T]`, verified in the SBLGNT.
 
-**And Matthew inserts three women into that stretch** `[T]`:
+**And Matthew hangs four maternal references on that stretch** `[T]` *(v1.1 — claim audit 3, A41: three of these were reported before; the fourth was missed)*:
 
 - **Matt 1:3** — Φαρὲς καὶ τὸν Ζάρα **ἐκ τῆς Θαμάρ** ("by Tamar")
 - **Matt 1:5** — Βόες **ἐκ τῆς Ῥαχάβ** ("by Rahab")
 - **Matt 1:5** — Ἰωβὴδ **ἐκ τῆς Ῥούθ** ("by Ruth")
+- **Matt 1:6** — Σολομῶνα **ἐκ τῆς τοῦ Οὐρίου** ("by the wife of Uriah") — **named only by her husband** `[T]`
 
-**Ruth 4:18–22 names no woman at all** `[T]`.
+**So the count is three for 1:3–5 and four for 1:3–6**, and the stretch also carries four men Ruth's list does not: **Judah and Zerah at 1:3, Solomon and Uriah at 1:6** `[T]`. **Ruth 4:18–22 names no woman at all** `[T]`.
+
+**The fourth reference is worth the correction it cost.** Matthew's pattern is not simply that he restores women to a patrilineal list; it is that **each of the four enters the line by an irregularity** — Tamar at the roadside, Rahab out of Jericho, Ruth a Moabitess at a threshing floor, and Bathsheba taken by the king `[T]` for the facts, `[I]` for the pattern. *Moderate–high.* **And the one he declines to name is the one who had least choice.**
 
 *Move 2 — Book usage.* Not applicable in the usual direction: Ruth does not use Matthew. **What is in play is the reverse** — the New Testament's reuse of the list this unit gives.
 
-*Move 3 — OT-to-OT.* Matthew's forms match neither Greek list exactly. Against Swete's Ruth (Ἑσρών, Ἀρράν, Σαλμάν, Βόος, Ὠβήδ) and Swete's Chronicles (Ἐσερών, Ἀρράν, Σαλμών, Βόος, Ὠβήδ), Matthew has Ἑσρώμ, Ἀράμ, Σαλμών, Βόες, Ἰωβήδ `[T]`. **He shares Σαλμών with Chronicles' Greek and Ἀράμ with the Greek form BHS reports for Ruth, and three of his forms are his own or from another tradition.** So **no claim is made that Matthew is quoting either Greek list**; the honest statement is that he carries the same chain in Greek, in forms close to but not identical with either. *Moderate confidence.*
+*Move 3 — OT-to-OT.* **This report first said Matthew's forms match neither Greek list. That was true of the printed editions and false once the apparatus is read** *(v1.2 — Logos round 3)*. **Matthew's forms agree closely with the Alexandrinus text of 1 Chronicles 2.** Swete's apparatus gives A as reading **Ἐσρώμ** (2:9), **Ἀράμ** (2:10), **Ἀμιναδάβ** (2:10 bis), **Σαλμάν** (2:11 bis), **Βοόζ** (2:11, also 12) and **Ἰωβήδ** (2:12 bis) `[T]`. Matthew 1:3–5 has Ἑσρώμ, Ἀράμ, Ἀμιναδάβ, Σαλμών, Βόες, Ἰωβήδ `[T]`. **Four agree exactly** — Ἑσρώμ, Ἀράμ, Ἀμιναδάβ, Ἰωβήδ — and the other two are near variants. **And the agreement reaches past the names: at Ruth 4:22 Alexandrinus reads Δαυὶδ τὸν βασιλέα, "David the king"** (*Δαυειδ ] Δᾱδ τον βασιλεα* A) `[T]` — **the title Matthew attaches at 1:6 and the Hebrew withholds.** **The direction is the question, and the likelier answer runs against a naive reading:** Alexandrinus is a fifth-century Christian codex, and **assimilation of an Old Testament genealogy toward Matthew's is far more economical than Matthew depending on a text-form A happens to preserve** `[I]`. *Moderate–high.* **Either way the consequence for Tool 8 stands: Ἀράμ is a Greek-side form with a Christian transmission history behind it, not a witness to a Hebrew אֲרָם.** *(The headline reading of Matthew's four maternal references is untouched by this — it rests on the SBLGNT text of Matthew, not on A's Chronicles.)*
 
 *What it adds — and this is the unit's most preachable canonical finding.* **The genealogy at the end of the book of Ruth does not name Ruth. The genealogy at the beginning of the Gospel of Matthew, covering the same ten names, does** `[T]` — and names Tamar, whom Ruth 4:12 had named seven verses before its own list began, and Rahab, whom Ruth never mentions `[T]`.
 
@@ -426,7 +447,7 @@ Required for every passage. **The book's opening units were held open throughout
 
 ### 12. Genre
 
-**A genealogy embedded as a colophon — and the genre question here is not routine, because this is the one place in the book where the genre changes.**
+**A genealogy introduced by the Pentateuch's own section-heading — and the genre question here is not routine, because this is the one place in the book where the genre changes.** *(v1.2 — Logos round 3: this section first called the unit "a genealogy embedded as a colophon". **It is not a colophon**; Kidner, Mathews and Ross all take the toledot formula to point forward, and the petuchah after 4:17 agrees. See Open Questions 1.)*
 
 The reading rules for a genealogy: it is **theological architecture, not merely data** — note who is in, who is out, where it begins, where it ends, and what is emphasised `[S]`. Applied here, every one of those produces something: it begins outside the book (Perez), it ends on David, it includes one of the book's own characters and excludes the other six, and it emphasises nothing at all, having no expansion anywhere `[T]`.
 
@@ -549,7 +570,7 @@ Ruth stands in the **Ketuvim**, fourth in the sequence BHS prints `[T]`; English
 #### Recommended verification
 
 - **The Ἀράμ / רָם question** (Tool 8). The corpus has gone as far as it can: the Greek doublet at 1 Chr 2:9 in both printed editions, and no Hebrew witness to the longer name in either list. **A critical apparatus to Chronicles would say how the doublet arose and how widely it is attested**, and no such apparatus is in the corpus. **Queued; the finding is rated *moderate–high* and should not be relied on beyond that until checked.**
-- **Whether anyone besides Campbell has pressed the colophon point** (Tool 12). The significance of a toledot heading used as a colophon is this unit's one genuinely open question, and the library is where it would be settled.
+- **Whether anyone besides Campbell has pressed the colophon point** (Tool 12). **Done, 15 November — and the question was wrongly put.** Kidner, Mathews and Ross all hold the toledot formula to point *forward*, and Kidner cites Ruth 4:18 against Wiseman's colophon theory. **Ruth 4:18 is a heading over 4:18–22, not a colophon to 1:1–4:17** — which is what the petuchah after 4:17 says too. See Open Questions 1.
 
 ---
 
@@ -725,7 +746,7 @@ What this unit contributes is different in kind, and stronger in one respect: **
 - **The gospel grounding:** the line arrived, and nobody inside the book could see that it would `[I]`. The only divine act the narrator states in his own voice is eight verses earlier (4:13) `[T]`, and this unit mentions God not at all.
 - **Christ as hero, not just example:** here the hero is a name at the end of a list, and beyond it a name at the end of a longer one. **The right sermon lets the list arrive rather than extracting a lesson from the links.**
 
-**Confidence:** *high* that the New Testament reuses this text and that the trajectory is direct; *moderate–high* on the reading of the three women; and the redeemer typology is inherited from the earlier units rather than re-grounded here.
+**Confidence:** *high* that the New Testament reuses this text and that the trajectory is direct; *moderate–high* on the reading of the four mothers; and the redeemer typology is inherited from the earlier units rather than re-grounded here.
 
 ---
 
@@ -764,11 +785,11 @@ Three live issues, and one named and dismissed.
 
 ## Convergent Findings
 
-- **The book opens and closes with names and no God, and explains nothing in either place.** Neither 1:1–5 nor 4:18–22 contains the divine name, and neither contains a single logical connector `[T]`. Surfaced by Linking Words, Narrator's Comment, Tone, Move 4, Biblical Theology, So What?. *High* on the four data; *moderate* on the reading. **The verse-count symmetry is an artefact of a later division and carries no weight.**
+- **1:6 is the hinge: the verse where the divine name and the book's reasoning arrive together.** *(v1.1 — claim audit 3, D22. This bullet previously read "the book opens and closes with names and no God" and proposed a frame. **The frame is withdrawn.**)* The four facts hold `[T]`: neither 1:1–5 nor 4:18–22 contains a divine name or a single connector particle, and **1:6 carries two כִּי clauses and the divine name at once** — כִּי שָׁמְעָה … כִּי פָקַד יְהוָה אֶת־עַמּוֹ. **But the configuration is not rare and is not a frame.** Across all 39 books, seven have their first five verses clean of both and seven their last five; **exactly two have both — Ruth and 1 Chronicles — against a chance expectation of 1.3** `[T]`. There is no excess to explain. **And 1 Chronicles is the control that explains it: it too opens with a genealogy, a form in which connectors and divine names are structurally impossible rather than merely absent** `[I]`. The two Ruth units are different genres sharing two negative features — 4:18–22 *cannot* carry a connector; 1:1–5 simply does not. Surfaced by Linking Words, Tone, Move 4, So What?. *High* on the data; **the frame reading is discarded and 1:6's hinge is what remains preachable.**
 - **The manuscript's one division in eighty-five verses falls at the head of this unit.** Surfaced by Structure, Context, Genre, Author's Purpose. *High* on the datum, `[unchecked — apparatus spread]`.
 - **One root, three voices, across the book's last ten verses — and the study text flattens the third into the second.** Surfaced by Author's Purpose, Vocabulary, Repetition, Translations, Original Language Observations. *High.*
-- **Ruth 4:19–22a is verbatim 1 Chr 2:10–12, and Ruth's two unique clauses are the two that make it a line to David.** Surfaced by Structure, Quotation/Allusion, Textual Variants, Bible Timeline. *High* on the readings; direction open.
-- **Matthew names in this stretch the three women Ruth's list omits, including Ruth.** Surfaced by Quotation/Allusion, Vocabulary, Christological Reading, Who Am I?, Difficult Verses. *High* on the data.
+- **Ruth 4:19–22a and 1 Chr 2:10–12 run the same chain in the same idiom — three clauses word-identical, three differing by a name's spelling, one absent from Chronicles' stretch — and the divergences fall at the two ends.** *(v1.1 — claim audit 3, A32.)* Surfaced by Structure, Quotation/Allusion, Textual Variants, Bible Timeline. *High* on the readings; direction open.
+- **Matthew hangs four maternal references on this stretch, each entering the line by an irregularity, and Ruth's list carries none.** *(v1.1 — claim audit 3, A41: previously "three women".)* Surfaced by Quotation/Allusion, Vocabulary, Christological Reading, Who Am I?, Difficult Verses. *High* on the data.
 - **BHS's conjecture at 4:19 is answered by the Greek's own doublet.** Surfaced by Translations, Textual Variants, Quotation/Allusion. *Moderate–high.*
 - **The list is demonstrably schematic, and Nahshon is why.** Surfaced by Vocabulary, Genre, Bible Timeline, Difficult Verses. *Moderate–high* — and it is the firmest argument against the withdrawn "ten" design.
 - **The formality is total and uniform, which is the ground on which the design readings fell.** Surfaced by Structure, Tone, Repetition, Difficult Verses. *High.*
@@ -819,8 +840,11 @@ Three live issues, and one named and dismissed.
 
 ## Open Questions / Uncertainties
 
-1. **What does a toledot heading used as a colophon signify?** This is the unit's one genuinely open question. The formula is the Pentateuch's, Ruth's spelling is plene where Genesis is defective, Gen 11:27 and Gen 25:19 are the specific models — **and Campbell notes that in Genesis no genealogy of this type ever closes a story, so Ruth's use is unique and its significance hard to assess** `[S: audit, L8]`. **The corpus cannot take this further. It is a library question and the best one this unit raises.**
-2. **How did the Ἀράμ / Ῥάμ doublet in the Greek of 1 Chr 2:9 arise, and how widely is it attested?** The corpus establishes that both printed editions carry it and that no Hebrew witness has the longer name in either list, which is enough to argue against BHS's conjecture at *moderate–high*. **A critical apparatus to Chronicles would settle it; none is in the corpus.** Queued.
+1. **ANSWERED AND DISSOLVED, 15 November 2026 — Logos round 3.** *(Kept rather than deleted, because the question was wrongly framed and that is the lesson.)* This report asked what a toledot heading used as a **colophon** signifies, and called it the unit's best open question. **The library's answer is that Ruth 4:18 is not a colophon at all.** **Kidner** cites Ruth 4:18 as the decisive counterexample to Wiseman's colophon (tablet) theory of Genesis, holding that the phrase "exactly as in Genesis, can only point forward" `[S: Kidner, *Genesis*, TOTC, 1:25–26]`. **Mathews** dismisses the colophon reading outright — Perez "cannot possibly be the subject or author of the preceding story" `[S: Mathews, *Genesis 1–11:26*, NAC, 1a:33]` — and instead reads 4:18 as a **hinge verse**, reaching back to Perez (named at 4:12) and forward to the genealogy, tying narrative and list together `[S: Mathews, CSC, 25]`. **Ross** holds that the formula throughout the Old Testament "can and often must refer to what follows" `[S: Ross, in *BKC*, 1:23]`.
+    **So the anomaly dissolves, and this report's own text-first evidence pointed that way all along.** The **petuchah stands after 4:17, not after 4:22** `[T]` — the manuscript sets 4:18–22 apart as a unit *introduced* by its heading, which is exactly a forward-pointing toledot and not a colophon. **Campbell's observation stands and is simply not about Ruth**: Genesis genealogies do not close stories, and neither does this one.
+    **Mathews's hinge reading independently confirms the Positional Necessity Check at Tool 2**, which argued from the text that the heading "starts where the blessing of seven verses earlier ended."
+    **One limit, and it is real: all four sources are Genesis commentaries**, engaging Ruth 4:18 only as it bears on the Genesis toledot debate. They are strong on the formula's direction and say nothing about Ruth's own shape. **A Ruth commentary has still not been consulted on this.**
+2. **ANSWERED, 15 November 2026 — Logos round 3.** *(Kept rather than deleted, because how it was answered is the useful part.)* This report recorded the doublet as unresolvable because no Chronicles apparatus was in the corpus. **That was true of the corpus and false of the library**, which holds Swete's full apparatus to the Old Testament — found while claim audit 3 was checking an unrelated question about which Septuagint edition the Logos exports are. **The apparatus records no variant at either name in 1 Chr 2:9, and none at Ἀρράν in Ruth 4:19**, which lifts the finding from *moderate–high* to *high*. See Tool 8. **The general lesson is worth more than the result: "not in the corpus" is not "not available" — observe from the corpus, cite from Logos, as the corpus's own README says.**
 3. **The direction of dependence between Ruth 4:18–22 and 1 Chr 2:5–15.** Unchanged and open `[S: overview]`. **What this run adds is that the overlap is verbatim and bounded**, which narrows the possibilities to copying in one direction or a common source and makes loose independent agreement unlikely `[I]` — but does not choose.
 4. **Whether 4:18–22 is original to the book.** Genuinely open on the evidence available here, with data pointing both ways (Difficult Verses). Not resolvable from the corpus.
 5. **Closed by this run, and recorded rather than deleted.** The sweep's unit 10 left the "ten" design as the claim audit's first target and the toledot novelty claim as its strongest new evidence `[S: sweep]`. **Both have since been adjudicated** — R1 withdrew the design, R6 corrected the novelty claim, and L8 supplied the strongest form of what remains. **This run reproduced the toledot counts independently (39 verses; the plene/defective split) and found the schematic-list argument that makes the withdrawal of R1 secure on textual as well as statistical grounds.** The record shows the gate working.
@@ -835,7 +859,7 @@ Surfaced, not resolved.
 
 2. **The map should carry a row for 1 Chronicles 2 with its extent stated.** Row 6 records that the lists agree and that the direction is open `[S: overview]`. **It does not record that the agreement is verbatim across four clauses and bounded at both ends**, which is the form of the relationship and the thing that narrows the dependence question.
 
-3. **The map should carry a row for Matthew 1:3–6.** The overview mentions Matthew once, in the Christological trajectory, as naming Ruth among four women `[S: overview]`. **It does not record that Matthew's genealogy covers exactly this unit's ten names, nor that the three women it inserts are the ones this unit omits.** That is a category-3 item and the first in the book's four solo digs.
+3. **The map should carry a row for Matthew 1:3–6.** The overview mentions Matthew once, in the Christological trajectory, as naming Ruth among four women `[S: overview]`. **It does not record that Matthew's genealogy contains all ten of this unit's names, nor that the four maternal references it hangs on them stand against none here.** That is a category-3 item and the first in the book's four solo digs. **The row should say *contains*, not *covers*: Matthew's stretch also names Judah, Zerah, Solomon and Uriah, so the two lists are not coextensive** `[S: audit 3, A41]`.
 
 4. **The text-critical list should gain the 4:19 item with its resolution.** The list already carries the 4:19 Greek name-forms and BHS's proposed reading `[S: overview, item 8]`. **It should now record that the Greek's own doublet at 1 Chr 2:9 argues against the emendation**, at *moderate–high*, pending a library pass.
 
@@ -873,7 +897,7 @@ Surfaced, not resolved.
 
 **Apparatus findings:** **2.** (i) The four BHS notes in this unit, at vv.18, 19, 20 and 21, cited from the Logos export of BHS and reported as the apparatus's own record, with every Greek reading independently confirmed in both Swete and Rahlfs for both Ruth and Chronicles. **The 4:19 item is argued at Tool 8 and Textual Variants and is the one substantive item in the unit.** (ii) **The petuchah after 4:17 — the only paragraph marker in the whole of Ruth** `[T]`. Witness named ("as the WLC prints Leningrad"), stated to be a reading tradition and not authorial, tagged `[unchecked — apparatus spread]`, capped at *moderate*, barred from the overview until a library pass on the spread runs. **Here the caveat limits a positive finding rather than excusing an absence**, which is the first time in four digs that has been the case.
 
-**Warrant counts:** `[T]` **225** · `[I]` **48** · `[S]` **81** — of which **22 are bare `[S]`** and **59 name their source** (`[S: audit]`, `[S: overview]`, `[S: the three digs]` and the like). Counted mechanically from the finished file, after the last edit.
+**Warrant counts:** `[T]` **249** · `[I]` **57** · `[S]` **93** — of which **30 are bare `[S]`** and **63 name their source**. Counted mechanically from the finished file, **after the last edit**, which now includes the claim-audit-3 patches and the Logos round 3 additions. *(The figures first printed here — 225 / 48 / 81 — were correct for the file as delivered on 15 November before the audit; they are left on the record in the table below rather than silently overwritten.)*
 
 **Across the four solo digs, recounted on one consistent measure** — because the figures printed in the three earlier reports were each counted before their final patches and are 3–7 tags low:
 
@@ -882,7 +906,8 @@ Surfaced, not resolved.
 | 1:1–5 | 208 | 36 | 32 | 29 | 61 |
 | 2:17–23 | 237 | 49 | 34 | 43 | 77 |
 | 3:10–18 | 297 | 43 | 30 | 45 | 75 |
-| **4:18–22** | **225** | **48** | **22** | **59** | **81** |
+| **4:18–22** *(as delivered)* | 225 | 48 | 22 | 59 | 81 |
+| **4:18–22** *(after audit 3 + Logos 3)* | **249** | **57** | **30** | **63** | **93** |
 
 **What the figures say, stated against what I expected them to say.** `[S]` total is the highest of the four — but only modestly above the previous two, not the outlier a final dig reconciling against four prior documents might have produced. **The composition is the better news: 59 of 81 name a source, the highest proportion of the four, and bare `[S]` at 22 is the lowest of the four.** A sourced `[S]` is checkable; a bare one is not. `[T]` at 225 is the lowest since 1:1–5, which is the honest consequence of five verses of genealogy having less on the page to observe than nine verses of dialogue.
 

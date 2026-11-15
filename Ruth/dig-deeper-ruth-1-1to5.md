@@ -191,7 +191,9 @@ The distribution, verified by lemma in the WLC:
 |---|---|---|
 | **נָשָׂא with אִשָּׁה, marriage sense** | **6** | Judg 21:23; **Ruth 1:4**; Ezra 10:44; 2 Chr 11:21; 2 Chr 13:21; 2 Chr 24:3 |
 | The same sense with בַּת ("daughter") | 3 | Ezra 9:2; Ezra 9:12; Neh 13:25 |
-| **לָקַח with אִשָּׁה** | **116** | the ordinary idiom, throughout |
+| **לָקַח with אִשָּׁה** | **116 raw; ~76 in the marriage sense** | the ordinary idiom, throughout |
+
+*(v1.1 — claim audit 3, D19. **Two corrections to this table.** The raw co-occurrence of נָשָׂא with אִשָּׁה is **23 verses**, not six; the six is a *sense-filtered* figure, and the 116 it was set against is **unfiltered**. Reading all 116, about 38 are certainly not the marriage idiom — Gen 2:22's rib, Gen 3:6's fruit, Josh 2:4's two men, Judg 4:21's tent-peg — so **the honest comparison is roughly 6 : 76, not 6 : 116**. The asymmetry survives comfortably; the published ratio overstated it by about a third. **A count resting on a sense judgement must say so and name who made it:** the filtering here was done by eye from the WLC.)*
 
 `[T]` for every figure. *High confidence* on the distribution; *moderate* on what it means.
 
@@ -205,6 +207,8 @@ Three things follow, in descending confidence.
 
 - **Judg 21:23** — the Benjaminites "took up wives according to their number from the dancers whom they had seized (גָּזָלוּ)". The same chapter, two verses earlier, has the elders say כִּי לֹא לָקַחְנוּ אִישׁ אִשְׁתּוֹ בַּמִּלְחָמָה ("for we did not take each man his wife in battle") — so **Judges 21 itself sets לָקַח against נָשָׂא within three verses**, using the ordinary verb for what it denies and the rare verb for what it narrates `[T]`. And the episode falls in the judges' period, the era Ruth 1:1 names.
 - **Ezra 10:44**, the last verse of Ezra — כָּל־אֵלֶּה נשאי נָשִׁים נָכְרִיּוֹת ("all these had taken up foreign wives"). Ruth 1:4 and Ezra 10:44 are **the only two of the six in which the wives are qualified by origin** — מֹאֲבִיּוֹת ("Moabite") and נָכְרִיּוֹת ("foreign") `[T]`. And נָכְרִיָּה is the word Ruth will use of herself at 2:10, its only occurrence in the book `[T]`.
+
+    *(v1.1 — claim audit 3, D19. **Two corrections.** **(a) A third verse qualifies by provenance:** Judg 21:23 reads נָשִׁים לְמִסְפָּרָם **מִן־הַמְּחֹלְלוֹת אֲשֶׁר גָּזָלוּ** — "from the dancing-women whom they had carried off". Not ethnic origin, but not bare either. **Ruth 1:4 remains the only one of the six with a *named* ethnicity**, and Ezra 10:44's נָכְרִיּוֹת is a general "foreign", not a people. **(b) Ezra 10:44 is textually damaged.** The WLC carries נשאי as a ketiv (qere נָשְׂאוּ), and **the BHS apparatus marks the second half of the verse `crrp` — corrupt** — proposing a reconstruction. **Any weight this pairing was asked to carry, and especially any inference about Ruth's date, must come off it.**)*
 
 **What this does not license.** It does not license a date for Ruth, a direction of dependence, or a reading of 1:4 as the narrator's verdict. The verb's distribution is weighted toward the later books, which bears on the dating debate the overview leaves open `[S]`, but a six-verse distribution cannot settle it, and the Judges instance stands on the other side of the ledger. Nor is this a pattern claim: it is a single marked lexical choice with a counted distribution and its rivals named — which the claim audit found to be the one kind of claim this book's evidence reliably supports `[S: audit]`. **Rated *moderate* and capped there; it has not been audited and may not enter the overview above that.**
 
@@ -404,6 +408,8 @@ The ordered phrase מִבֵּית לֶחֶם יְהוּדָה ("from Bethlehem o
 **The marriage idiom — a distribution, not an allusion** *(moderate confidence, capped)*
 
 Reported in full at Tool 7a and cross-reported here because it is a Tool 11-level finding: נָשָׂא with אִשָּׁה in the marriage sense, six verses, with Ruth 1:4 and Ezra 10:44 the only two qualifying the wives by origin `[T]`. **No allusion is claimed in either direction**, because Ruth's date is contested `[S]` and a six-verse distribution cannot establish priority. What is claimed is that the idiom is marked, that the book uses the ordinary verb for the marriage at 4:13, and that the idiom's narrative company is irregular marriage in both instances. *Moderate*, capped, unaudited, and not for the overview until it has been.
+
+*(v1.1 — claim audit 3, D19: **the date inference is discarded outright**, on two textual grounds. **The distribution does not support it** — four of the six are in Chronicles–Ezra, but **one is Judges 21:23**, so the idiom is not confined to the post-exilic corpus and a book's use of it licenses no date. **And the comparison verse is corrupt**: BHS marks the second half of Ezra 10:44 `crrp`. A two-verse idiom match cannot date a book under any method, least of all when one of the two is flagged by the apparatus. The idiom finding itself stands at *moderate* with the corrected ratio; the date implication does not stand at all.)*
 
 ---
 
