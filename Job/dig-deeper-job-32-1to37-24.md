@@ -547,6 +547,8 @@ Therefore men fear Him; / He does not regard any who are wise of heart.
 
 ## Headline Findings
 
+> **v1.1 — claim audit 5, applied 16 November 2026 `[S: audit 5]`, with one substantial correction from claim audit 7 `[S: audit 7]`.** **Headlines 2 and 5 are revised in place.** **Audit 5's own recommended wording for Headline 2 — “the friends’ words, Eliphaz’s and Bildad’s above chance” — has been overtaken and is NOT adopted here.** Audit 7 tested the per-verse form of that claim with a null of 400 random same-sized samples drawn from Job’s own speeches and found **every friend’s per-verse score lies at or below the null mean — per-verse normalised reuse is not above chance at all — and that the ranking inverts under a change of normalisation: Zophar leads per verse, Eliphaz on raw Dice.** What survives is the raw-overlap claim, with Eliphaz leading at all four rarity ceilings. **Audit 7 also *raised* one item audit 5 had lowered: the Ezek 14 phrase at 32:1.** Body sections below are at v1.0 and are governed by this note where they differ.
+
 The exegetically strongest claims that emerged across several tools:
 
 1. **Elihu enters as the one who will answer, at the point where everyone has stopped answering — and no one answers him.** `[T]`
@@ -565,7 +567,7 @@ The exegetically strongest claims that emerged across several tools:
      - "the ear tests words" (34:3, from 12:11) `[S: overview]`;
      - "If I have sinned (חָטָאתִי), what have I done (אֶפְעַל) to You?" (7:20) becomes "If you have sinned, what do you accomplish (תִּפְעָל) against Him?" (35:6). Sin with that verb occurs only in these two verses;
      - **both nouns of Job's complaint against the friends,** "How then will you comfort me with vanity (הֶבֶל), for your answers (וּתְשׁוּבֹתֵיכֶם) remain full of falsehood?" (21:34), **are turned on Job.** He "answers (תְּשֻׁבֹת) like wicked men" (34:36), and "Job opens his mouth emptily (הֶבֶל)" (35:16). That noun for "answers" occurs in Job only at 21:34 and 34:36.
-   - **The friends' words, Eliphaz's above all:**
+   - **The friends' words, Eliphaz's leading on raw lexical overlap** *(v1.1: “above all” withdrawn. Audit 5 reduced “Eliphaz most” to **low–moderate** while keeping “reuse above chance” at moderate–high `[S: audit 5]`. **Audit 7 then broke the per-verse form of the claim outright: no friend's per-verse reuse is above chance, and the ranking inverts under normalisation — Zophar leads per verse, Eliphaz on raw Dice at all four ceilings** `[S: audit 7]`. **So: Elihu does reuse the friends' vocabulary, Eliphaz's most on raw overlap, and nothing here is a measured superlative.** Note too that 5:9, listed below as Eliphaz's, is also Job's own 9:10.)*:
      - **Eliphaz:**
        - "when deep sleep falls on men (בִּנְפֹל תַּרְדֵּמָה עַל־אֲנָשִׁים)" (4:13 → 33:15), the whole phrase only in these two verses `[S: prior dig]`;
        - "drinks … like water" (15:16 → 34:7, only these two in Job) `[S: prior dig]`;
@@ -613,7 +615,7 @@ The exegetically strongest claims that emerged across several tools:
      - He wishes Job "tested (יִבָּחֵן) to the end, because he answers like wicked men" (34:36). Job had trusted that test: "when He has tried me (בְּחָנַנִי), I shall come forth as gold" (23:10).
      - He claims for himself, "one who is perfect in knowledge (תְּמִים דֵּעוֹת) is with you" (36:4) — the title he then gives God, "Him who is perfect in knowledge (תְּמִים דֵּעִים)" (37:16). דֵּעַ ("knowledge, opinion"), the noun of 37:16, **occurs five times in the Hebrew Bible, all in Elihu's mouth** (32:6, 10, 17; 36:3; 37:16).
    - **And then silence:** God's verdict names "Eliphaz … and your two friends" (42:7). Elihu is neither rebuked nor commended, and is never mentioned again.
-   - **The Greek tradition shows two things.** Its translator abbreviated Elihu more than any other part of the book: counting the words that stand between Origen's signs in the Rahlfs export, about 27 % of Elihu's Greek is supplied material, against about 11 % in the dialogue (3–31) and 10 % in God's speeches (38–42). And Swete's 38:1 opens, "After Elihu had ceased speaking, the Lord said to Job out of the whirlwind" `[S: prior dig]`.
+   - **The Greek tradition shows two things.** Its translator **abbreviated Elihu heavily — about a quarter — as heavily as chapters 26 and 28** *(v1.1: “more than any other part of the book” withdrawn; the Elihu figure stands at moderate–high, the superlative at low–moderate `[S: audit 5]`)*: counting the words that stand between Origen's signs in the Rahlfs export, about 27 % of Elihu's Greek is supplied material, against about 11 % in the dialogue (3–31) and 10 % in God's speeches (38–42). And Swete's 38:1 opens, "After Elihu had ceased speaking, the Lord said to Job out of the whirlwind" `[S: prior dig]`.
 
    Surfaced by: Move 4, Vocabulary, Narrator's Comment, Versions, Difficult Verses. *High for the data; the weighing is open.*
 
@@ -864,7 +866,7 @@ At 34:1 and 35:1 the ESV is the better guide. The NIV84, if used elsewhere, agre
 
 #### The high-confidence contacts — full triad
 
-**Ezek 14:14, 16, 18 → Job 32:1** *(high for the words; moderate for design)*
+**Ezek 14:14, 16, 18 → Job 32:1** *(v1.1: audit 5 moved this to **moderate–high** for the phrase and **low–moderate** for the design `[S: audit 5]`; **audit 7 then raised the phrase back to *high*, with the use at moderate–high** — the ordered phrase שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה stands in **exactly four verses of the Hebrew Bible — Ezek 14:14, 14:16, 14:18 and Job 32:1 — and Ezek 14:14 names אִיּוֹב in the very same verse**, the lemma triple adding only 2 Sam 23:17 and 1 Chr 11:19, which are David's Three `[S: audit 7]`)*
 
 *Source context:* in Ezekiel's oracle against a land that sins, God says that even if "these three men (שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה), Noah, Daniel and Job were in its midst, by their own righteousness (בְצִדְקָתָם) they could only deliver themselves" (Ezek 14:14). The refrain returns at 14:16, 18 and 20: "they could not deliver either their son or their daughter". It is a verdict on Jerusalem, set against the most righteous men the prophet can name. Its register is uncompromising judgement, with a remnant at the end (14:22–23).
 
@@ -904,7 +906,7 @@ At 34:1 and 35:1 the ESV is the better guide. The NIV84, if used elsewhere, agre
 
 ---
 
-**Ps 29:3 → Job 37:4–5 → Job 40:9** *(high for the words)*
+**Ps 29:3 → Job 37:4–5 → Job 40:9** *(v1.1: **moderate** — Ps 18:14 is a rival `[S: audit 5]`)*
 
 *Source context:* "The voice of the LORD (קוֹל יְהוָה) is upon the waters; the God of glory thunders (אֵל־הַכָּבוֹד הִרְעִים)" (29:3). It is the first of the psalm's seven "voice of the LORD" lines, which end, "The LORD sat as King at the flood … The LORD will give strength to His people; the LORD will bless His people with peace" (29:10–11). Its register is the doxology of the storm.
 
@@ -931,10 +933,10 @@ At 34:1 and 35:1 the ESV is the better guide. The NIV84, if used elsewhere, agre
 #### Moderate-confidence allusions — Move 1 only
 
 - **Num 14:34 → Job 33:10** *(moderate)*. תְּנוּאָה ("opposition, pretext") occurs only at Num 14:34 and Job 33:10. In Numbers God tells the wilderness generation, "you will know My opposition" — forty years for forty days. Elihu puts the word in Job's mouth: "He invents pretexts (תְּנוּאוֹת) against me" (33:10). **As Elihu phrases him, Job complains that God treats him as he treated rebellious Israel.** The rest of 33:10 is Job's own (13:24) `[S: prior dig]`.
-- **Ps 49:8 [Eng 49:7] → Job 33:24** *(moderate)* `[S: prior dig]`. "No man can by any means redeem (פָדֹה יִפְדֶּה) his brother or give to God a ransom (כָּפְרוֹ)" (49:8); "But God will redeem my soul from the power of Sheol" (49:16 [Eng 49:15]). "Redeem" with "ransom" occurs in one verse only at Ps 49:8. Elihu has "ransom" (33:24) with "redeem" (פדה, 33:28) and a form BHS marks as uncertain (פְּדָעֵהוּ, 33:24). **Elihu's angel finds the ransom the psalm says no man can pay.**
+- **Ps 49:8 [Eng 49:7] → Job 33:24** *(v1.1: **moderate**, with a correction — **33:24's verb is not פדה but a separate root, which BHS marks uncertain; פדה (“redeem”) stands at 33:28** `[S: audit 5]`)* `[S: prior dig]`. "No man can by any means redeem (פָדֹה יִפְדֶּה) his brother or give to God a ransom (כָּפְרוֹ)" (49:8); "But God will redeem my soul from the power of Sheol" (49:16 [Eng 49:15]). "Redeem" with "ransom" occurs in one verse only at Ps 49:8. Elihu has "ransom" (33:24) with "redeem" (פדה, 33:28) and a form BHS marks as uncertain (פְּדָעֵהוּ, 33:24). **Elihu's angel finds the ransom the psalm says no man can pay.**
 - **Exod 22:22–23, 26 [Eng 22:23–24, 27] → Job 34:28** *(moderate)*. "If he does cry out (צָעֹק יִצְעַק) to Me, I will surely hear (שָׁמֹעַ אֶשְׁמַע) his cry (צַעֲקָתוֹ)" (Exod 22:22 [Eng 22:23]). Elihu: "they caused the cry (צַעֲקַת) of the poor to come to Him, and that He might hear (יִשְׁמָע) the cry of the afflicted" (34:28). Elihu affirms the law's promise. In 35:9–13 he must explain why the cry is not answered: "because of the pride of evil men … God will not listen to an empty cry". **This is the closest Elihu comes to Job's question in 24:12 and 30:20, and his explanation lays the fault on the one who cries.**
 - **Prov 3:11–12; 6:23; 15:31–32 → Job 33:16–19; 36:10, 15** *(moderate, as a field)*. Discipline (מוּסָר), reproof (יכח), the opened ear. Eliphaz used Prov 3:11–12 at 5:17 `[S: audit]`; Elihu develops it into a theory of suffering as instruction. The field is Proverbs', Job's canonical neighbour.
-- **Isa 29:14 → Job 37:14, 24** *(moderate)*. "I will once again deal marvellously (לְהַפְלִיא) … and the wisdom of their wise men (חֲכָמָיו) will perish" (Isa 29:14). The wonder-root with "wise" occurs in Isaiah only there. Elihu: "consider the wonders (נִפְלְאוֹת) of God" (37:14); "He does not regard any who are wise (חַכְמֵי) of heart" (37:24). **Paul quotes Isa 29:14 at 1 Cor 1:19**, and Eliphaz's 5:13 at 1 Cor 3:19 `[S: overview]`.
+- **Isa 29:14 → Job 37:14, 24** *(v1.1: **DISCARDED** `[S: audit 5]`)*. "I will once again deal marvellously (לְהַפְלִיא) … and the wisdom of their wise men (חֲכָמָיו) will perish" (Isa 29:14). The wonder-root with "wise" occurs in Isaiah only there. Elihu: "consider the wonders (נִפְלְאוֹת) of God" (37:14); "He does not regard any who are wise (חַכְמֵי) of heart" (37:24). **Paul quotes Isa 29:14 at 1 Cor 1:19**, and Eliphaz's 5:13 at 1 Cor 3:19 `[S: overview]`.
 - **Ps 23:5 → Job 36:16** *(low–moderate)*. "You prepare a table (שֻׁלְחָן) … You have anointed (דִּשַּׁנְתָּ) my head" (23:5); "that which was set on your table (שֻׁלְחָנְךָ) was full of fatness (דֶשֶׁן)" (36:16). Table with the verb "anoint" occurs only at Ps 23:5; Job has the cognate noun. Also "a broad place (רַחַב)" (36:16), as in Ps 18:20; 31:9.
 - **Ps 107:10–22 → Job 33:19–30; 36:8–15** *(low–moderate; comparison, not source)*. The psalm's prisoners "bound in affliction (עֳנִי) and iron" (107:10), who "abhorred all food and drew near to the gates of death" (107:18). God "delivered them from their pits (שְׁחִיתוֹתָם)" (107:20), and they sing (107:22). The sequence is Elihu's — sickness, loathing food, drawing near to death, deliverance, praise, and prisoners in bonds of affliction. **But the words are not shared:** Elihu has different verbs (זהם, not תעב, "loathe"; קרב, not נגע, "draw near"), and a different noun for "pit". Ps 107 is live in Job (12:21, 24; 5:16) `[S: audit]`, so the parallel is worth naming as a comparison.
 - **Hab 1:2, 13 → Job 35:5, 9** *(low)*. Cry, violence, looking (הבט). The scan placed Hab 1 second against ch. 35; the shared words are common.
@@ -1399,6 +1401,22 @@ Places where several tools agreed (the full list; the Headline Findings are the 
 None of these contradicts the overview except item 2, which moderates an `[I]` judgement.
 
 ---
+
+## What changed in v1.1
+
+*Claim audit 5 applied 16 November 2026, with one substantial correction from claim audit 7. Headlines 2 and 5 are revised in place above; the changes below reach body sections only, and this list governs them where the v1.0 text differs.*
+
+**The correction that matters most, and it supersedes audit 5's own recommendation.** Audit 5's propagation table asked that Headline 2 read "the friends' words, **Eliphaz's and Bildad's above chance**". **That wording is not adopted.** Audit 7 built the per-verse measure audit 5 had asked for — Elihu's lemma overlap with each friend, normalised by the friend's verse count, against a null of 400 random same-sized samples drawn from Job's own speeches — and found that **every friend's per-verse score lies at or below the null mean. Per-verse normalised reuse is not above chance at all.** Worse for the claim, **the ranking inverts under a change of normalisation: Zophar leads per verse, Eliphaz on raw Dice at all four ceilings** — itself a two-settings failure. `[S: audit 7]` **What stands is the raw-overlap claim with Eliphaz leading, and no measured superlative anywhere.**
+
+**Lowered.** "Elihu recycles Eliphaz most" — **low–moderate**, with "reuse above chance" at moderate–high on raw overlap. `[S: audit 5]` The Old Greek's abbreviation of Elihu — **the ~27 % figure moderate–high; "more than any other part of the book" low–moderate**, since chapters 26 and 28 are abbreviated as heavily. Ps 62:12–13 — **33:14 and 40:5 moderate–high; 34:11 low–moderate**. Ps 29:3 at 37:4–5 — **moderate** (Ps 18:14 a rival). Num 14:34 at 33:10 — **low–moderate**. Exod 22:22 at 34:28 — **low–moderate**, with Ps 9:13 closer. Ps 107 as a comparison for 33:19–28 — **low**, form rather than vocabulary. **The Proverbs discipline field behind 33:16–19 and 36:10 — *low*, discarded as framed.** **The "Psalter cluster in Elihu" is withdrawn as a design (*low*)**; the individual contacts stand at their own ratings.
+
+**Discarded.** **Isa 29:14 at 37:14, 24.** `[S: audit 5]`
+
+**Corrected.** **33:24's verb is a separate root, which BHS marks uncertain — it is not פדה, which stands at 33:28.** `[S: audit 5]` **Convergent Finding 6 is withdrawn as a design.** The forward chains of Headline 4 stand as chains; the claim that the anticipations occur **above chance** is **low–moderate**, so Headline 4 itself needs no change, because it states the chains rather than a rate.
+
+**Raised, after audit 5 had lowered it.** **Ezek 14:14, 16, 18 at Job 32:1 is back to *high* for the phrase, with the use at moderate–high.** `[S: audit 7]` The ordered phrase שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה stands in **exactly four verses of the Hebrew Bible — Ezek 14:14, 14:16, 14:18 and Job 32:1 — and Ezek 14:14 names אִיּוֹב in the very same verse.** The lemma triple adds only 2 Sam 23:17 and 1 Chr 11:19, which are David's Three. *The Ezek 14:22 contact with 42:11 is a separate matter and was reframed: the lemma triple returns four verses and the נחם stems diverge, niphal in Ezekiel against piel in Job — what holds is that on בּוֹא, Job 42:11 agrees with Ezekiel and not with Job 2:11, both having the hiphil with a named agent.*
+
+**Unchanged.** Ps 104:29 at 34:14–15 — **Confirmed, moderate–high**. Ps 56:14 at 33:30 — **Confirmed, moderate–high**. Ps 49:8–9 at 33:24 — **moderate**, subject to the verb correction above. Headline 5's weighing of Elihu's status is untouched, and **the status itself remains unresolved** — which the overview's v1.0 now records.
 
 ## Text-First Declaration
 

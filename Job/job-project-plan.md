@@ -106,6 +106,128 @@ Stay one or two units ahead of the pulpit.
 - **Done (16 Nov) — the Logos round.** Ten questions through the Study Assistant in eight turns; credits 34 % → 37 %. Results folded into `Job/dig-deeper-job-claim-audit-6` as a tenth section and into the queue, with the two affected digs patched to **v1.2**. **Seven answered, three confirmed unanswerable, and the three are all of one kind — apparatus-level questions.** **#188 (the בְעַבְדִּי variant at 42:7–8), #181 (41:15) and #170 (38:34) each returned "not addressed in these sources."** With **no BHQ and no Göttingen *Iob*** owned, they cannot be settled here and need a specialist text-critical commentary; **so the Sermon 9 backbone must present the 42:7 variant as unresolved rather than settled.** **What improved:** **#176 (42:6) rises to *moderate–high*** — the audit's decisive object-type argument **turns out to be Boda's**, who concludes the phrase "can mean only that Job is changing his mind concerning his mortality or is comforted concerning it", and **Pohl adds that the Masoretic accentuation itself marks עַל as the object for both verbs**; *but Muenchow notes the Old Greek may render a different Hebrew Vorlage, so the appeal to Swete weakens.* **#179 (the royal hunt) goes from uncertain to high** — Egyptian pharaohs ritually harpooned hippopotamuses and crocodiles **as part of enthronement**, and **Dick's JBL article makes the audit's exact point**: "Job cannot hook, harpoon, combat, or carve up Leviathan — powers that were delegated to the Assyrian or Egyptian king… whereas Horus shares control with human kings, YHWH does not delegate this dominion to any human." **#192 (daughters inheriting) is confirmed genuinely exceptional**, with ANE evidence that daughters could inherit *among* sons but normal Israelite practice that they did not. **#191's lexical half is settled** (Keziah = cassia, Keren-happuch = horn of antimony, Jemimah = dove or "beautiful as the day") **and the wry reading drops to low — the literature finds paternal delight, not wryness.** **#169 is sourced**: the suspended ayin is one of the traditional four, the Talmud reading רשים ("rulers"/"poor") and an alternative reading רעשים, "storms", which fits the whirlwind. **What the round corrected in the audit itself:** **#175 — the audit over-corrected.** **Middendorf gives Rom 11:35 as "Paul's adaptation of the Hebrew of Job 41:3", and no source proposes Job 21:31 or 9:4, so the original reading is restored at *moderate–high*;** the Swete Job 21:31 datum stays on record as an unnoticed complication, and only the category-3 triage claim stays withdrawn. **And #189 — the audit's preferred resolution of the 42:7 / 38:2 tension is not in the literature at all**: no commentator searched rests on the preposition אֵלַי. **It remains the project's own argument from the text and must be presented as such.** A fifth resolution surfaced — that 42:7 refers to Job's words in chapters 1–2 rather than the debate, with the problem pronounced insoluble. **99 queued (five closed).**
 - **Now:** **the macro-synthesis** — everything it waits on is discharged. It should carry the audit's own framing: *the book's answering structure is thematic and demonstrable, and its lexical detectability was overstated.* Two cross-dig results are already flagged for it: **the epilogue supplies the decisive internal parallel for the 42:6 crux five verses above it**, and **chapter 28 is answered four times across the two divine speeches and chapter 8 twice in the epilogue.** Then **Finalise the overview to v1.0**, applying the audit's seven revisions — of which three are "leave the row alone", and one is **resolving the Echo Table's internal contradiction about 42:6** (the 2:8 row glosses it "in dust and ashes" at *high*, the 2:11 row "comforted concerning" at *moderate*). Then the **Sermon 8 and Sermon 9 backbones**, with **two works to read first: Naselli, *From Typology to Doxology*, for Sermon 8, and Ortlund's *Themelios* article "How Did Job Speak Rightly about God?" for Sermon 9.** The v1.1 patches from audit 5 to the 22–28, 29–31 and 32–37 digs remain outstanding.
 
+## Macro-synthesis — done, 16 Nov 2026
+
+`job-dig-deeper-macro-synthesis.md` / `.odt` / `.html` — run across all eighteen digs (14 solo + 4 unit consolidations; coverage complete, no weighted gap).
+
+**Nine macro-arguments, each clearing the >=3-pericope hard gate:**
+
+1. The book is made out of its own words — **strong**, 8 of 18 runs report it independently
+2. The end answers the beginning thematically; **the lexical design failed four chance baselines** — chains high, design moderate
+3. Both sides quarry the same Scriptures (Ps 8, Deut 32:39, Ps 107) — **strong**
+4. The book tracks the direction of speech, and the verdict falls on it — **strong**; the 42:7 resolution moderate and the project's own
+5. "Answer" demanded, denied, granted — **strong**
+6. The mediator thread, umpire to intercessor — **strong**
+7. Comfort, and the only comforting that works is wordless — **strong**
+8. The NT quarries the whole cast, not only Job — **high** (NT-authorised, 5 texts)
+9. Chapter 28 as the book's hinge — chains strong, **design moderate and untested**
+
+**Five candidate threads listed and held below the gate**, each with its reason: ch. 28 design (no baseline), the hope bracket (one pericope), the friends' portraits (audit 3 discarded the design; Logos found the insinuation reading), the royal-hunt background (one pericope, now high), dust-and-ashes (42:6 construal unresolved).
+
+**The synthesis is partly corrective.** Its most natural thesis — that the end is lexically welded to the beginning — is what audit 6 demolished. Argument 2 therefore reports thematic answering as demonstrable and lexical design as unproven, and the sermons should preach the correspondence without the proof.
+
+### Second deliverable staged, not patched
+
+`job-overview-macro-arguments-section.md` — the condensed overview section, written and held rather than patched into v0.1. Two reasons: **audit 7 must rule on argument 9's design claim first** (patching an untested design claim in is the error audit 6 caught four times), and the overview is about to be rewritten wholesale to v1.0 anyway. **Insert at Finalise, between the Echo Table and Preaching Units.**
+
+- **Now:** **claim audit 7** — the short Finalise audit: items entering v1.0 above moderate (~20), plus the macro-synthesis's own argument-9 design claim, plus the ~60 never-audited main-queue items swept per limb 3. Lamentations audit 7 is the economical precedent.
+- **Then:** Finalise the overview to v1.0 — apply audit 6's seven revisions, resolve the 42:6 Echo Table contradiction (the table glosses 42:6 two incompatible ways in adjacent rows), insert the macro-arguments section.
+- **Then:** Sermon 8 and Sermon 9 backbones. Read Naselli, *From Typology to Doxology* (Sermon 8) and Ortlund, "How Did Job Speak Rightly about God?", *Themelios* 43.3 (Sermon 9) first.
+
+## Claim audit 7 — done, 16 Nov 2026. The Finalise audit.
+
+`Job/dig-deeper-job-claim-audit-7.{md,odt,html}` — **33 rulings**: 3 Confirmed, 5 Confirmed with nuance, 20 Needs reframing, **8 Discard**. Two blind auditors run in turn; 18 main-session spot checks; full baselines on every design claim.
+
+**Scope, on the Lamentations audit-7 model:** the never-audited main-queue items rated *above* moderate (so they would enter v1.0 above moderate), plus every capped design claim, plus the macro-synthesis's own new claim. **The ~40 items rated at or below moderate were deliberately left untested and enter v1.0 at no more than moderate, marked untested.** That is the limb-3 settlement.
+
+**The headline: the data held and the designs did not.** In Part B the underlying counts were right in **16 cases of 16** and the designs fell in **15**. In Part A, by contrast, **7 of 17 proposals were factually wrong as stated** — the difference being that Part B's claims came from digs and audits that had learned to count, and Part A's from one-line queue summaries filed in early October and never checked.
+
+**Five of the eight discards were this project's own claims.** The inverted-Aqedah and Zechariah designs (Unit 1 dig), the hymn-answer and hireling bracket (Unit 3 dig), Bildad-most-reused (audit 5), no-slaves (Logos round), and **the chapter-28 hinge, raised by the macro-synthesis five hours earlier.**
+
+**Raised or newly confirmed (5):** Prov 8:27 at Job 26:10 (**high** — the part-of-speech inversion is the finding); **שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה in exactly 4 canon verses, Ezek 14:14/16/18 and Job 32:1, with Job named in 14:14** (high); Isa 19:5 at Job 14:11 (high, the whole bicolon); **the comfort inclusio restated as נוד + נָחַם + רָעָה + בּוֹא עָלָיו, unique canon-wide to Job 2:11 and 42:11** (moderate–high, the only confirmed design); and the two רֵאשִׁית pairs.
+
+**The blind auditors corrected me four times** — on #27 (now discarded), #103 (now the audit's best new row), #156 (I had wanted to upgrade it) and #18 (my rescue was an artefact of bicolon parallelism). A main session auditing its own proposals would have published all four errors.
+
+### The macro-synthesis was patched the same day
+
+`job-dig-deeper-macro-synthesis` → **v1.1**: the chapter-28 hinge struck from the candidate threads; argument 3's design down to low with its Deut 32:39 instance withdrawn; argument 2's epilogue-partner explanation corrected (**six of the nine shared rare lemmas are the friends' names, not the livestock**); argument 7 strengthened. **Arguments 1, 4, 5, 6, 8 untouched.**
+
+`job-overview-macro-arguments-section` → **v1.1 and ready to insert.** Item 9 struck. **The decision to stage rather than patch was vindicated in five hours: had it gone into the overview that morning, v1.0 would have carried a dead design claim at moderate.**
+
+### Nine new candidates, all capped
+
+#210 מחץ+רפא at Deut 32:39/Job 5:18 (2 canon verses — the proof Eliphaz uses the Song of Moses); #211 נדף+קַשׁ at Isa 41:2/Job 13:25; #212 עַפְעַפַּיִם+שַׁחַר at Job 3:9/41:10 only; #213 שֹׁרֶשׁ+מַיִם+קָצִיר at Job 14:8–9/29:19 only; #214 Job 9:20 as 40:8's construction stem for stem in Job's own mouth; #215 **לִוְיָתָן at Job 3:8/40:25 — the chain #201's design omitted and the best of its shape**; #216 the whole beauty field absent from Job; #217 the Greek's Edomite Eliphaz (Swete 2:11, the 42:17 colophon); #218 chapter 38 as chapter 28's top partner at all four ceilings while chapter 39 ranks 34th–40th.
+
+### Corpus traps recorded in `_texts/README.md`
+
+The Swete/WLC prefix differences (`Psa`/`Ps`, `Eze`/`Ezek`); **the WLC index transposing the two verbs of Isa 19:5**; skeletal-pass hits that are different words; and the 998/8394 lemma-number trap.
+
+- **Now:** **Finalise the overview to v1.0.** Limb 3 is satisfied and Finalise is unblocked. Apply audit 6's seven revisions, audit 7's 5 raised and 20 lowered rows, resolve the 42:6 Echo Table contradiction, and insert the macro-arguments section between the Echo Table and Preaching Units.
+- **Then:** Sermon 8 and Sermon 9 backbones. **Read Naselli, *From Typology to Doxology* (Sermon 8) and Ortlund, "How Did Job Speak Rightly about God?", *Themelios* 43.3 (Sermon 9) first.** **Sermon 9 must present the 42:7 variant as unresolved** — #188 cannot be settled from this library.
+- **Still outstanding:** the v1.1 patches from audit 5 to the 22–28, 29–31 and 32–37 digs.
+
+## Overview finalised to v1.0 — 16 Nov 2026. The book is done.
+
+`Job/book-overview-job.{md,odt,html}` — **v1.0**, 99,099 bytes md, 14 H2 sections, 15 nav anchors verified. The v0.1.1 Draft is preserved as `book-overview-job.md.bak-v0.1.1`.
+
+**Applied:** audit 6's reframing of four design claims and its 13 closures; **audit 7's 5 raised rows and 20 lowered, with 8 discards**; the three Logos rounds' 4 closures and 4 re-ratings; and the macro-synthesis's **eight** cross-pericope arguments as a new section below the echo table.
+
+**The required revision is done: the 42:6 contradiction is resolved.** The Draft glossed 42:6 two incompatible ways in adjacent echo-table rows — "in dust and ashes" at high, and "comforted concerning dust and ashes" at moderate. **Both now carry "comforted concerning dust and ashes" at moderate–high**, on Boda, Pohl and Muenchow.
+
+**The Draft came out of the sweep well, and that is worth recording.** Its firm claims held almost without exception, and **in two places it was more precise than the digs that later re-derived it** — the hedge row's by-form caveat, which the strongest chain in audit 6 depends on, and the Prov 8:22 / 40:19 row, already at *high* when two digs proposed it as new. **Table B, the self-quotation table, is the document's most-used table and no row of it fell.** What did not survive were its patterns, which is the sweep's one general finding about this book.
+
+**Three contested structural judgements, all now tested.** The third cycle resolves in favour of breakdown-as-design, with the person shifting at 27:13 and audit 4 correcting a paragraphing argument against it. Chapter 28 sits within Job's discourse at moderate. **Elihu remains unresolved — and two measured claims about him have fallen**, "Elihu recycles Eliphaz most" to low–moderate and per-verse reuse to not-above-chance at all.
+
+### Four honesty conditions carried into v1.0
+
+1. **~40 queued items at or below moderate were deliberately left untested** and enter marked untested. **If one is later promoted above moderate, it needs an audit first.**
+2. **No audit-6 or audit-7 verdict incorporates any history of interpretation** — both auditors scored it not assessable on every claim.
+3. **Four items cannot be settled from the owned library**: the spread at 38:13, 15; 38:34; 41:15; and **42:7–8, the one variant in Job with a doctrinal consequence.**
+4. **Audit 7's auditors corrected the main session four times**, and all four corrections are in v1.0 rather than my original wording.
+
+### Queue rewritten the same day
+
+`claude/claim-audit-queue-job.md` rewritten in full. The header had been stale since audit 6 — its composition line listed only #148–#181 and omitted #182–#209, and its total was carried forward rather than counted. **Counted item by item the figure is 71, not the 80 the audit note stated.** Verified high chains with no design attached (#193, #200, #208) moved out of the queue into a settled list, where the standing rule says they belong.
+
+- **Now:** **Sermon 8 backbone** — `/point-purpose` on 38:1–40:5 with 40:6–42:6. **Read Naselli, *From Typology to Doxology* first.** Disclose the MT reading at 41:15 that the ESV departs from.
+- **Then:** **Sermon 9 backbone** — `/point-purpose` on 42:7–17. **Read Ortlund, *Themelios* 43.3 first.** **Present the 42:7 variant as unresolved**, and the אֵלַי reading as this project's own rather than the commentators'.
+- **Still outstanding:** the v1.1 patches from audit 5 to the 22–28, 29–31 and 32–37 digs.
+
+## Audit 5's v1.1 patches applied — 16 Nov 2026. Nothing outstanding on Job.
+
+The last item on the Job list. **`dig-deeper-job-22-1to28-28`, `dig-deeper-job-29-1to31-40` and `dig-deeper-job-32-1to37-24` are now v1.1**, all three in .md / .odt / .html, index rebuilt. Each carries a governing v1.1 note at the head of its Headline Findings, the named Headlines revised in place, and a **What changed in v1.1** section for the body-level changes.
+
+**Audit 5 was four days stale, and three of its instructions had to be overridden by audit 7.** Applying it verbatim would have installed two claims that have since been broken and suppressed one that has since been raised.
+
+1. **22–28, Headline 5.** Audit 5 asked for **Ps 78:49 at 20:23 at *moderate–high*.** Audit 7 broke it: the "exact only these two" claim is false — **Ps 78:49 reads יְשַׁלַּח־בָּם where Job 20:23 reads יְשַׁלַּח־בּוֹ** — with חֲרוֹן אַף in 34 verses, Jer 49:37 an unmentioned third member, and no second point of contact with Psalm 78. **Patched at *low–moderate* / *low*.** So **Psalm 78 is not a live source in Job: one verbatim half-line, at 27:15.**
+2. **32–37, Headline 2.** Audit 5 asked for **"the friends' words, Eliphaz's *and Bildad's* above chance".** **That wording is not adopted.** Audit 7 built the per-verse measure audit 5 had asked for and found **every friend's per-verse score at or below the null mean — per-verse reuse is not above chance at all — and the ranking inverts under normalisation: Zophar leads per verse, Eliphaz on raw Dice.** Patched to the raw-overlap claim with no superlative.
+3. **32–37, Ezek 14.** Audit 5 **lowered** the 32:1 phrase to moderate–high. **Audit 7 raised it back to *high*** — the ordered phrase stands in exactly four canon verses and **Ezek 14:14 names אִיּוֹב in the same verse.** Patched at the higher figure.
+
+**Two further things came in from audit 7 that audit 5 could not have known.** **Prov 8:27 at 26:10 is now *high*** in the 22–28 dig — the part-of-speech inversion is the finding, and no other verse in the Hebrew Bible pairs a חוג-word with עַל־פְּנֵי. And **the Greek reception claim at 29:12 drops to *low–moderate***, because ἐκ χειρὸς δυνάστου also stands at Swete Job 5:15 rendering מִיַּד חָזָק literally, and the two Hebrew verses are near-twins. **One new chain was added to the 29–31 dig: שֹׁרֶשׁ + מַיִם + קָצִיר within two verses, in exactly two canon places and both in Job — 14:8–9 and 29:19.**
+
+**The Job work is now complete.** Eighteen digs, seven claim audits, three Logos rounds, a macro-synthesis at v1.1, an overview at v1.0, a rewritten queue, and all three outstanding dig patches applied.
+
+- **Now:** **Sermon 8 backbone** — `/point-purpose` on 38:1–40:5 with 40:6–42:6. **Read Naselli, *From Typology to Doxology* first.** Disclose the MT reading at 41:15 that the ESV departs from.
+- **Then:** **Sermon 9 backbone** — `/point-purpose` on 42:7–17. **Read Ortlund, *Themelios* 43.3 first.** **Present the 42:7 variant as unresolved**, and the אֵלַי reading as this project's own rather than the commentators'.
+- **The backbones may now take audits 5, 6 and 7's verdicts as `[S: audit N]`** — limb 2 is discharged for Sermons 5, 6, 7, 8 and 9, with that one standing exception at 42:7.
+
+## Parked for Wednesday: the Job Aide-Mémoire
+
+**Requested 16 Nov 2026; deferred on usage credit (meter at 99 % for the week).** Patrick wants an Aide-Mémoire for Job on the model of the Exodus one — **`dig-deeper/Torah/Exodus/exodus-aide-memoire.{md,odt,html}`** (path supplied by Patrick, 16 Nov; note it is under `Torah/Exodus/`, not a top-level `Exodus/` folder). **Read that file first and follow its shape** — the single sheet for **holding the whole in mind while working the detail**.
+
+**Nothing needs gathering first. Every input is finished and on disk:**
+- `book-overview-job.md` **v1.0** — the microscript, the five-movement arc, the divine-name distribution, the canonical position, the echo table, the preaching traps
+- `job-dig-deeper-macro-synthesis.md` **v1.1** — the eight cross-pericope arguments, already compressed
+- `job-overview-macro-arguments-section.md` v1.1 — the condensed form of those eight, which is close to aide-mémoire register already
+- Eighteen dig reports; claim audits 1–7; three Logos rounds
+- `job-project-plan.md` — this file
+
+**So Wednesday's run is a compression job, not a research job.** It should cost a fraction of a dig.
+
+**What the Job sheet has to carry that Exodus's did not.** Job's distinctive difficulty is that **most of the book is spoken by people God later says were wrong**, so any aide-mémoire has to keep the speaker attached to every line it quotes. The two candidates for the top of the sheet: **the Accuser's question at 1:9 (חִנָּם, "for nothing?")** and **God's verdict at 42:7–8**, which between them frame the whole. And it should carry **the four things that cannot be settled** (38:13, 15; 38:34; 41:15; 42:7–8) so the preacher is not surprised by them in the pulpit.
+
+**Confirm the output folder and the three formats as usual before starting.**
+
 ## Decisions waiting on Patrick
 
 - Whether to preach any of the prologue's cross-reference patterns. If so, audit that pattern first. **Deferred by Patrick (3 Oct):** leave the prologue audit until the preparation has advanced further, since later parts of the book may show what the opening deliberately points to.
