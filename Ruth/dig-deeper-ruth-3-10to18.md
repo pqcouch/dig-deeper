@@ -1,6 +1,9 @@
 # Dig Deeper: Ruth 3:10–18
 
-**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs–Hanhart LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs 1979 LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+
+
+> ***Edition correction, 18 November 2026.*** This report originally named the Logos Septuagint export **Rahlfs-Hanhart**. It is **Rahlfs 1979** — the files are stamped *"Septuaginta: With morphology. electronic ed. (1979)"*, and the library holds **no Rahlfs-Hanhart text and no Rahlfs apparatus of any date**. Every occurrence below is corrected; no finding in this report turns on the difference. Flagged by claim audit 3 (15 November) as outstanding for this file and three others, and applied here with the `4:18–22` report, which was corrected at the time.
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV — carried forward from the 1:1–5 and 2:17–23 engagements. Say if this unit is for an engagement elsewhere; the NIV84 is reported throughout because it diverges from both at three points in this unit.
 **Date:** 15 November 2026
@@ -338,7 +341,7 @@ Note what the ancient witnesses did with the same difficulty: **Rahlfs renders i
 
 #### Ancient versions check
 
-The trigger is met several times over: the modern versions agree on renderings of weight, and the ancient witnesses speak to three of them. **The BHS apparatus carries notes at vv.11, 12, 14 (four sub-items), 15 (two) and 17 (two) — eleven items in nine verses, the densest cluster in the book** `[T]`. Checked against **Swete**, the **Rahlfs–Hanhart** export and the **BHS apparatus**; Syriac, Vulgate and Targum are reported only as BHS records them, no copy being in the corpus.
+The trigger is met several times over: the modern versions agree on renderings of weight, and the ancient witnesses speak to three of them. **The BHS apparatus carries notes at vv.11, 12, 14 (four sub-items), 15 (two) and 17 (two) — eleven items in nine verses, the densest cluster in the book** `[T]`. Checked against **Swete**, the **Rahlfs 1979** export and the **BHS apparatus**; Syriac, Vulgate and Targum are reported only as BHS records them, no copy being in the corpus.
 
 Each divergence is classified under the three-way triage. **The headline result: there is no category-3 item here (nothing in this unit is a Greek reading the New Testament argues from), one substantial category-1 item (the gate), and the rest are category 2 and minor.**
 

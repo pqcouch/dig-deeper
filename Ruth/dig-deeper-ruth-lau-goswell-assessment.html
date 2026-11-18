@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lau and Goswell on Ruth — A Claim Audit</title>
+<style>
+@font-face{font-family:"HebrewBump";src:local("Liberation Serif"),local("Times New Roman");
+   unicode-range:U+0590-05FF,U+FB1D-FB4F;size-adjust:125%;}
+  :root{--ink:#24211c;--muted:#6b6459;--rule:#e3ddd1;--accent:#7a5c2e;--bg:#fbf9f4;--card:#fff;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+   font-family:"HebrewBump","Liberation Serif","Georgia",serif;font-size:18px;line-height:1.5;}
+  .wrap{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;}
+  nav{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;
+   padding:1.4rem 1rem 3rem 1.4rem;border-right:1px solid var(--rule);font-size:14.5px;line-height:1.35;}
+  nav h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.2rem 0 .4rem;}
+  nav a{display:block;color:var(--ink);text-decoration:none;padding:.18rem 0;border-bottom:1px dotted transparent;}
+  nav a:hover{color:var(--accent);border-bottom-color:var(--rule);}
+  nav ul{list-style:none;margin:0;padding:0;}
+  nav ul ul a{padding-left:.9rem;color:var(--muted);font-size:13.5px;}
+  main{padding:2.2rem clamp(1rem,4vw,3rem) 6rem;max-width:820px;}
+  h1{font-size:1.9rem;line-height:1.15;margin:.2rem 0 1.4rem;}
+  h2{font-size:1.4rem;margin:2.4rem 0 .5rem;padding-top:1rem;border-top:2px solid var(--rule);color:var(--accent);}
+  h3{font-size:1.12rem;margin:1.5rem 0 .3rem;}
+  h4{font-size:1rem;margin:1.1rem 0 .2rem;color:var(--muted);}
+  p{margin:.5rem 0;}
+  blockquote{margin:.8rem 0;padding:.4rem 0 .4rem 1rem;border-left:3px solid var(--accent);color:#40392e;background:#f4efe4;}
+  code{background:#f0ebdf;padding:.05em .35em;border-radius:3px;font-size:.85em;
+   font-family:"Liberation Mono",ui-monospace,monospace;color:#5a4a2a;}
+  table{border-collapse:collapse;width:100%;margin:.9rem 0;font-size:16.5px;}
+  th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;vertical-align:top;}
+  th{background:#efe9dc;}
+  tr:nth-child(even) td{background:#faf7f0;}
+  hr{border:none;border-top:1px solid var(--rule);margin:2.2rem 0;}
+  strong{color:#332e26;}
+  main>ul,main>ol{padding-left:1.3rem;}
+  li{margin:.25rem 0;}
+  .tag{white-space:nowrap;}
+  @media(max-width:820px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto;border-right:none;border-bottom:1px solid var(--rule)}main{padding-top:1.2rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+  <h2>Contents</h2>
+  <ul>
+    <li><a href="#lau-and-goswell-on-ruth-a-claim-audit">Lau and Goswell on Ruth — A Claim Audit</a></li>
+    <li><a href="#how-this-was-done-and-one-thing-to-know-about-the-source-file">How this was done, and one thing to know about the source file</a></li>
+    <li><a href="#the-verdict">1. The verdict</a></li>
+    <li><a href="#the-confrontation-that-does-not-happen">2. The confrontation that does not happen</a></li>
+    <li><a href="#where-they-corroborate-the-project-independently">3. Where they corroborate the project independently</a></li>
+    <li><a href="#where-the-measurements-improve-them">4. Where the measurements improve them</a></li>
+    <li><a href="#errors-on-the-text">5. Errors on the text</a></li>
+    <li><a href="#where-they-conflict-with-the-project-and-who-wins">6. Where they conflict with the project, and who wins</a></li>
+    <li><a href="#where-their-designs-need-reframing">7. Where their designs need reframing</a></li>
+    <li><a href="#what-should-now-reach-the-projects-files">8. What should now reach the project’s files</a></li>
+    <li><a href="#critical-assessment-of-this-assessment">9. Critical assessment of this assessment</a></li>
+    <li><a href="#what-this-gives-the-series">10. What this gives the series</a></li>
+  </ul>
+</nav>
+<main>
+<h1 id="lau-and-goswell-on-ruth-a-claim-audit">Lau and Goswell on Ruth — A Claim Audit</h1>
+<p><em>Chapters 4, 5, 7 and 8 of Peter H. W. Lau and Gregory Goswell,</em> Unceasing Kindness: A Biblical Theology of Ruth <em>(NSBT 41; Apollos / IVP, 2016), audited against this project’s completed Ruth work and against the primary texts. Two blind auditors. Text-first; warrant-tagged; confidence-flagged.</em></p>
+<p><strong>Version:</strong> 2.0, propagated · <strong>Date:</strong> 18 November 2026, amended the same day after Logos round 5 (§6.1 rewritten, §6.3 strengthened, §8 discharged) · <strong>Source:</strong> the four chapters supplied by the user, 39,000 words, converted with references intact and filed at <code>Ruth/_sources/lau-goswell-unceasing-kindness-chs-4-5-7-8.md</code> · <strong>Measured against:</strong> <code>book-overview-ruth.md</code> v2.2, <code>dig-deeper-ruth-claim-audit.md</code> v4.0, <code>ruth-dig-deeper-macro-synthesis.md</code> v1.1, the ten passage reports, and <code>dig-deeper-ruth-verrett-assessment.md</code> v2.0.</p>
+<hr />
+<h2 id="how-this-was-done-and-one-thing-to-know-about-the-source-file">How this was done, and one thing to know about the source file</h2>
+<p>Twenty claims were inventoried from the four chapters and split by kind: <strong>thirteen single contacts</strong> (counts, phrase distributions, verse references) to blind auditor 1, and <strong>six design claims plus the canonical-order pair</strong> to blind auditor 2. Neither auditor saw the other’s brief, this document, or the project’s own verdicts; auditor 2 was given the project’s canonical-position record as a <em>datum to adjudicate</em>, not a position to defend.</p>
+<p><strong>Editions.</strong> All Hebrew counts are <strong>WLC</strong> (Open Scriptures <code>morphhb</code>), verse total printed and checked at 23,213. Greek OT is <strong>Swete</strong>, with load-bearing readings confirmed against the <strong>Rahlfs 1979</strong> Logos export; Greek NT is <strong>SBLGNT</strong>; apparatus readings are <strong>BHS</strong> via the Logos export. Every figure below names its edition where it matters.</p>
+<p><strong>A warning about the source conversion, which cost real work.</strong> The Logos RTF encodes all <strong>1,385 scripture references as hyperlink fields</strong>, and an ordinary conversion drops every one of them silently — “from her emptiness () to her fullness ()”. A converter was written to recover them before any claim was inventoried. <strong>Anyone converting a Logos RTF for this project should check that references survived before reading a word of it.</strong></p>
+<hr />
+<h2 id="the-verdict">1. The verdict</h2>
+<p><strong>Lau and Goswell are a careful source with one specific and locatable weakness: universals and reference lists.</strong> Where they measure, they are usually right and sometimes righter than they claim. Where they generalise, they overreach; where they list references, the lists do not survive checking.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Class</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Confirmed exactly</strong></td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td><strong>Confirmed with nuance</strong></td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td><strong>Needs reframing</strong></td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td><strong>Discarded</strong></td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td><strong>Not measurable; declared as such</strong></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>But the number that matters is this one.</strong> Of the <strong>six design claims</strong>, <strong>two were confirmed with nuance, three need reframing, one is unmeasurable, and none was discarded outright.</strong> Against this project’s standing record — <strong>one design claim surviving in twenty-two across four audits</strong>, and <strong>0 of 6 in the Verrett assessment three hours ago</strong> — that is a different order of result.</p>
+<p><strong>And the reason is not that they are scholars and Verrett is a preacher.</strong> It is that <strong>they state their designs at a scale the evidence can carry, and they concede the compositional question before they start.</strong> Verrett’s new-exodus reading failed because two of its three anchors cited words that are not in the verses cited. Nothing in these four chapters fails that way. What fails here fails by <strong>one notch of overstatement</strong> — “every”, “always”, “the lone exception”, “thirteen” — and in every case the finding underneath survives the correction.</p>
+<p><strong>The single most consequential result is in §2</strong>, and it is not what I expected to find.</p>
+<hr />
+<h2 id="the-confrontation-that-does-not-happen">2. The confrontation that does not happen</h2>
+<p><strong>The reason these chapters were chosen was a predicted collision.</strong> Goswell is a book-order and paratext specialist; this project <strong>withdrew its canonical-adjacency argument outright</strong> at Logos L1 and ruled it unpreachable. Chapters 4 and 5 are about Ruth’s position in the Writings. The expectation was that the project’s best available opponent would argue the case it had rejected.</p>
+<p><strong>He does not. He concedes it, in terms.</strong></p>
+<blockquote>
+<p>“The canonical juxtapositioning of Proverbs and Ruth in the Hebrew canonical tradition is a <strong><em>post-authorial</em></strong> phenomenon… <strong>There is nothing to suggest that the author of Proverbs 31 had Ruth in mind, nor is there evidence that the book of Ruth was influenced by the portrait of Prov 31.</strong>” (ch. 4)</p>
+</blockquote>
+<blockquote>
+<p>“The similarities and differences between the passages are such that <strong>the link must be viewed as postcompositional</strong>.” (ch. 4, conclusion)</p>
+</blockquote>
+<p><strong>That is precisely what L1 established, reached independently and stated more flatly.</strong> <code>[S: source]</code></p>
+<p><strong>So the two positions are not in conflict; they answer different questions.</strong> The project asked <em>is the adjacency evidence of design?</em> — and answered no. Lau and Goswell ask <em>what does reading in this sequence yield?</em> — and answer: a wisdom frame. <strong>(a) occupies the space the withdrawal left; it does not reopen it</strong> <code>[S: audit]</code>.</p>
+<p><strong>And the corpus independently supports their negative half, harder than they state it.</strong> Auditor 2 ran Proverbs 31 against the whole canon with the four mandated checks:</p>
+<ul>
+<li><strong>Proverbs 31’s single densest partner chapter in the entire Hebrew Bible is Ruth 3, at 0.278</strong> — and <strong>no chapter anywhere reaches 0.3 against Proverbs 31</strong> <code>[S: audit]</code>.</li>
+<li><strong>Ruth 1, Ruth 2 and Ruth 4 return zero rare shared pairs with Proverbs 31</strong>, ranking 722nd, 723rd and 724th of 832.</li>
+<li><strong>From Ruth’s side, Proverbs 31 ranks 88th of 859 chapters at 0.161 — behind Proverbs 22 at 0.172.</strong> <em>Proverbs 31 is not even the chapter of Proverbs most in lexical contact with Ruth.</em></li>
+<li>Against the calibration — 2 Sam 6 → 1 Chr 13 = 8.786 — <strong>0.278 is 3.2% of a known textual relationship.</strong></li>
+</ul>
+<p><strong>If Ruth and Proverbs 31 had influenced one another, this is not what it would look like.</strong> The measurement is what their “postcompositional” predicts.</p>
+<p><strong>The one real contact, and its limit.</strong> אֵשֶׁת חַיִל stands in exactly three verses of the canon — <strong>Prov 12:4, Prov 31:10, Ruth 3:11</strong> <code>[T]</code>, confirmed by both auditors independently on plain and skeletal passes. <strong>But it also stands at Prov 12:4, so it does not single out the acrostic</strong>, and in Ruth it is in Boaz’s mouth rather than the narrator’s frame. Beyond it, the rarest lemmas shared between Prov 31:10–31 and the whole of Ruth are all common — אמץ (41 canon verses), נַעֲרָה (63), חֵן (69). <strong>Nothing below 41. One phrase, no chain.</strong></p>
+<h3 id="where-they-overstate-it-and-it-is-the-only-place">2.1 — Where they overstate it, and it is the only place</h3>
+<p><strong>If the dating the project recorded is right — the move into the Megillot falling between the sixth and ninth centuries AD</strong> (Webb, NSBT 10:52) — <strong>then the readers who supplied the Proverbs–Ruth sequence are medieval, not ancient.</strong> Lau and Goswell repeatedly call it a frame supplied by <em>ancient</em> readers. <strong>That smuggles in an antiquity their own “postcompositional” concedes they lack</strong> <code>[S: audit]</code>. The frame can still be hermeneutically productive. It cannot be old.</p>
+<h3 id="their-rejection-of-beckwith-does-not-contradict-l1">2.2 — Their rejection of Beckwith does <em>not</em> contradict L1</h3>
+<p>They write, against Beckwith, Steinberg, Koorevaar and Dempster, that “<strong>no one order of books can be proved to be earlier and (therefore) better than the others</strong>” — which looked, on first reading, like a direct challenge to the near-consensus L1 recorded from Campbell.</p>
+<p><strong>It is not, and the distinction is worth having.</strong> <code>[S: audit]</code></p>
+<ul>
+<li><strong>Their claim</strong> is that <strong>no complete book-order</strong> can be shown earliest.</li>
+<li><strong>Campbell’s claim</strong> is about <strong>the relative sequence of two positions for one book</strong> — Ruth at the head of the Writings <em>antedating</em> its placement among the Megillot.</li>
+</ul>
+<p><strong>Both can be held without contradiction:</strong> no full list is demonstrably earliest, <em>and</em> for this one book the direction of movement is known. Refuting the stronger claim leaves the narrower one untouched. <strong>So the project’s withdrawal is over-determined and stands from both directions</strong> — it rests on the narrower datum, which they do not deny, and they independently concede there is no compositional link.</p>
+<p><strong>Two cautions, one each way.</strong> Against the project: the Campbell/Webb datum is a Logos-reported secondary claim, untestable here, and a near-consensus is not a demonstration — their scepticism has some purchase on how heavily it should be leaned on. In the project’s favour: <strong>their sentence bundles an epistemic claim with a normative one</strong> — “no order can be proved earlier <em>and (therefore) better</em>” — and that inference is invalid in both directions. Priority would not establish superiority, and the parenthesis quietly concedes that priority is being treated as the criterion.</p>
+<p><strong>A primary-source datum that supports their scepticism while limiting it:</strong> in <strong>Codex Leningradensis itself, Chronicles stands first among the Writings</strong> — so L’s order is neither Baba Bathra’s nor the one BHS prints <code>[S: README]</code>. Any argument from “the Hebrew order” should say which.</p>
+<h3 id="what-this-means-for-the-overview">2.3 — What this means for the overview</h3>
+<p><strong>The overview’s “the Proverbs-adjacency argument is withdrawn and may not be preached” is right about composition and too strong about reception.</strong> The measurements say there is no compositional link and the best advocate for the canonical reading agrees. What the overview should now say is narrower and more useful: <em>the adjacency is evidence of nothing about either author; as a reading frame supplied by later — probably medieval — readers it is legitimate, and what it yields is a wisdom reading of Ruth that the book will bear.</em> Queued at §8.</p>
+<hr />
+<h2 id="where-they-corroborate-the-project-independently">3. Where they corroborate the project independently</h2>
+<p>These are the places where a book this project had never opened reached its own conclusions from outside. They are worth more than agreement usually is, because the routes differ.</p>
+<p><strong>3.1 — The narrator’s silence.</strong> Chapter 7 states that in Ruth “<strong>only once does the narrator mention God’s direct involvement in events (Ruth 4:13)</strong>”, and — crucially — makes the project’s own hearsay distinction at 1:6 unprompted: “<strong>Strictly speaking, this is hearsay</strong>, because the narrator reports that Naomi <em>heard</em>… The narrator does not say explicitly that God broke the famine.” That is <strong>macro-argument 3</strong>, reached independently <code>[S: source]</code>.</p>
+<p><strong>And auditor 2 found the measurement neither party had.</strong> <strong>YHWH stands in 15 of Ruth’s 85 verses. Thirteen are inside direct speech. Exactly two stand outside it — 1:6 and 4:13</strong> <code>[T]</code>. That is not a pair selected from many candidates; <strong>it is the complete set</strong>, which is the opposite of a cherry-pick. <em>The strongest support macro-argument 3 has ever had, and it arrived in an audit of someone else’s book.</em></p>
+<p><strong>3.2 — Boaz exceeds his obligation.</strong> “He is not strictly required by law or custom to go to the lengths that he does” (ch. 5), and Boaz “<strong>exceeds any formal obligation to help them</strong>” (ch. 4). That is <strong>macro-argument 1</strong>, independently <code>[S: source]</code>.</p>
+<p><strong>3.3 — The chance at 2:3.</strong> They cite מִקְרֶה with קָרָה at Ruth 2:3 against Eccl 2:14, which the overview already carries. <strong>Auditor 1 adds the verse they miss: the combination stands in exactly three verses — Ruth 2:3, Eccl 2:14 and Eccl 2:15</strong> <code>[T]</code>. Ruth 2:3 is its only narrative use. <strong>Better form:</strong> <em>Ruth puts in a narrator’s aside the figure Qohelet uses to level the wise with the fool.</em></p>
+<p><strong>3.4 — Naomi and Job under Shaddai.</strong> They note both sufferers “under the hand of Shaddai”, citing Job 27:2 for הֵמַר — which is the project’s own two-verse מָרַר + שַׁדַּי contact, and the same chapter of Job the audit identified <code>[S: source]</code>.</p>
+<p><strong>3.5 — The hapax at 3:2.</strong> They notice that Naomi avoids גֹּאֵל and uses מֹדַעְתָּנוּ when outlining the threshing-floor scheme — the word the project established as a <strong>hapax legomenon in the Hebrew Bible</strong> <code>[T]</code>.</p>
+<p><strong>3.6 — 2 Samuel 2:5 at Ruth 2:20, for the third time.</strong> They cite 2 Sam 2:5 as “a structural parallel” settling the antecedent toward Boaz. <strong>Chisholm cited the same verse at Logos round 4 this morning. And audit 3 restored that very verse to the בָּרוּךְ construction after the 3:10–18 dig had wrongly excluded it.</strong> Three independent routes to one verse <code>[S: audit; Logos; source]</code>. Their own verdict is <strong>deliberate ambiguity</strong> — “it refers to both Yahweh and Boaz” — which is where Logos round 4 left it.</p>
+<hr />
+<h2 id="where-the-measurements-improve-them">4. Where the measurements improve them</h2>
+<p>Nine findings the audit produced that are better than the claims that prompted them. <strong>None of these is theirs, and none was in the project’s files this morning.</strong></p>
+<p><strong>4.1 — Ruth trades on both senses of כָּנָף by number, and the pun is morphological.</strong> Chapter 5 argues at length that כָּנָף means “wings” and not “skirt”, resting on the “pinions” parallel at Ps 91:4. <strong>The book itself does not choose: Ruth 2:12 is כְּנָפָיו, plural (God’s wings); Ruth 3:9 is כְנָפֶךָ, singular (Boaz’s garment-corner)</strong> <code>[T]</code>. Two occurrences, one each. <em>The argument against “skirt” walks past the verse that makes the book’s best contact.</em></p>
+<p><strong>4.2 — And it walks past Ezekiel 16:8.</strong> פָּרַשׂ with כָּנָף stands in twelve canon verses, and <strong>Ezek 16:8 and Ruth 3:9 are the two where the spreading is over a woman</strong> <code>[T]</code> — God spreading his כָּנָף over a woman, and the act is <strong>betrothal</strong>, the garment-corner. <strong>That is already this project’s best-attested source relation</strong>, strengthened by audit 4 to two gestures in consecutive Ezekiel verses. An argument running from Ps 91:4 to the lexeme cannot reach it.</p>
+<p><strong>4.3 — Ps 36:8 is the only verse in the entire Hebrew canon containing both כָּנָף and חֶסֶד</strong> <code>[T]</code>. <strong>Stronger support for their own wings-and-kindness argument than anything they adduce</strong>, and they do not mention it.</p>
+<p><strong>4.4 — Ruth 2:12’s nearest relative in the Psalter is Ps 91:4, and not approximately.</strong> חָסָה with כָּנָף stands in five canon verses; <strong>Ruth 2:12 and Ps 91:4 are the only two with תַּחַת and the 3ms suffix</strong> <code>[T]</code>. Same verb, same preposition, same suffix. Confirms the overview’s row 12 and sharpens it.</p>
+<p><strong>4.5 — Ruth’s articular הַגֹּאֵל denotes exactly one person in the whole book: the man who declines.</strong> 4:1, 4:3, 4:6, 4:8 <code>[T]</code>. <strong>Boaz is never “the redeemer”</strong> — he is <em>a</em> redeemer (3:9, 3:12) or “one of our redeemers” (2:20). <strong>Both auditors reached this independently</strong> and neither was looking for it. <em>It reshapes §5.4 below and bears on the typology.</em></p>
+<p><strong>4.6 — The נתן patterning, which is a better design than the one chapter 7 claims.</strong> YHWH and נתן co-occur in <strong>five verses of Ruth — 1:6, 1:9, 4:11, 4:12, 4:13</strong>. Independence predicts 1.41; observed 5, a ratio of <strong>3.54×</strong> <code>[S: audit]</code>. And the distribution is shaped: <strong>the three instances in speech petition YHWH to give; the two in the narrator’s voice say he gave.</strong> The petitions sit inside the frame the two assertions make.</p>
+<p><strong>4.7 — The divine-title list is missing its most famous member.</strong> They give גֹּאֵל of God in 15 verses. <strong>The true figure is 20</strong> <code>[T]</code>, and the omissions are <strong>Gen 48:16</strong> (the earliest in the canon), <strong>Jer 50:34</strong>, <strong>Prov 23:11</strong>, <strong>Ps 103:4</strong> — and <strong>Job 19:25, “I know that my Redeemer lives.”</strong> <em>A list that names Ps 19:14 and skips Job 19:25 will not survive contact with a congregation.</em></p>
+<p><strong>4.8 — Prov 13:22 is the hinge their own argument needs.</strong> חַיִל stands in five verses of Proverbs: 12:4, <strong>13:22</strong>, 31:3, 31:10, 31:29 <code>[T]</code>. 13:22 is חֵיל חוֹטֵא, “the sinner’s wealth” — <strong>the same noun doing financial rather than moral work</strong>, which is exactly the ambiguity the 31:10/31:29 pair plays on.</p>
+<p><strong>4.9 — Ruth applies חַיִל to the man before the woman.</strong> 2:1 of Boaz, 3:11 of Ruth, 4:11 of Boaz’s house — <strong>the book’s complete set</strong> <code>[T]</code>. <strong>The Proverbs catchword is embedded in an internal three-term pattern of Ruth’s own</strong>, which weakens the quotation reading and strengthens the book.</p>
+<hr />
+<h2 id="errors-on-the-text">5. Errors on the text</h2>
+<p>Seven. Three would reach a sermon; one is a single sentence carrying three independent faults.</p>
+<p><strong>5.1 — The historical superscriptions: three errors in one sentence.</strong> Chapter 5 states that “<strong>the thirteen psalms</strong> that have historical superscriptions that depict David in times of peril are Psalms 6; 7; 18; 34; 51; 52; 54; 56; 57; 60; 63; and 142.”</p>
+<ul>
+<li><strong>The list contains twelve items under a heading of thirteen.</strong></li>
+<li><strong>Psalm 6’s superscription is purely musical</strong> — לַמְנַצֵּחַ בִּנְגִינוֹת עַל־הַשְּׁמִינִית מִזְמוֹר לְדָוִד. No event, no circumstance, no peril. It does not belong in the set on any reading.</li>
+<li><strong>Psalm 59 is omitted</strong>, and its superscription is among the most explicit in the Psalter: בִּשְׁלֹחַ שָׁאוּל וַיִּשְׁמְרוּ אֶת־הַבַּיִת לַהֲמִיתוֹ.</li>
+</ul>
+<p><strong>The true set is Pss 3, 7, 18, 34, 51, 52, 54, 56, 57, 59, 60, 63, 142 — and that is exactly thirteen</strong> <code>[T]</code>. <strong>So the number is right and the list is corrupt</strong>: Ps 3 appears to have become Ps 6, and a line has dropped. <em>It looks like a bare list of references, which is the kind of thing a reader copies on trust.</em></p>
+<p><strong>5.2 — “The lone exception being Psalm 109” is false.</strong> חֶסֶד stands in <strong>127 verses of the Psalter</strong> — their “some 127 times” is exact to the digit, not approximate <code>[T]</code>. But their claim that divine ḥesed is universal there bar Psalm 109 does not survive reading the 127. <strong>Ps 141:5 — יֶהֶלְמֵנִי־צַדִּיק חֶסֶד — predicates it of a righteous man’s act</strong>, and more clearly than 109:12 and 109:16 do, which describe ḥesed <em>withheld</em> inside an imprecation. <strong>Ps 101:1 is contested and a claim this absolute should have said so.</strong> <em>Better form: 124 or 125 of 127, with the human exceptions at Ps 109:12, 16 and Ps 141:5.</em></p>
+<p><strong>5.3 — The יֶלֶד inclusio cites the wrong verse.</strong> They write that the sons lost at 1:5 are replaced by “this son (יֶלֶד; <strong>Ruth 4:17</strong>)”. <strong>יֶלֶד stands in two verses of Ruth — 1:5 and 4:16. What stands at 4:17 is בֵּן</strong> <code>[T]</code>. Right inclusio, wrong verse — and the error points a reader at the naming scene rather than at <strong>Naomi taking the child into her lap at 4:16</strong>, which is where the word is and where the book’s answer to 1:5 actually falls.</p>
+<p><strong>5.4 — The anarthrous גֹּאֵל argument collapses.</strong> Chapter 8 reads Ruth’s anarthrous גֹּאֵל at 3:9 as “reflecting her awareness of another, nearer kinsman-redeemer”. <strong>The anarthrous set is incomplete and the reasoning is falsified by verses they do not cite:</strong> 3:12 has it <strong>twice — in the very verse where Boaz announces the nearer kinsman</strong> — and 4:14 has it <strong>after the matter is settled</strong> <code>[T]</code>. A cause cannot explain forms appearing both before and after the awareness it posits.</p>
+<p><strong>Better form, and it is a real finding:</strong> every anarthrous instance is syntactically indefinite — predicate nominative at 3:9 and 3:12, existential at 3:12b, indefinite object at 4:14 — and every articular instance refers to the one identified man at the gate. <strong>The book moves from <em>a</em> redeemer as a category to <em>the</em> redeemer as a named party to a transaction.</strong></p>
+<p><strong>5.5 — “A redeemer is always an adult” is unfalsifiable, and its failure helps them.</strong> <strong>No Old Testament text states a human redeemer’s age anywhere</strong> <code>[T]</code>. Lev 25:25 and 25:48–49 define the office by kinship — brother, uncle, uncle’s son, flesh-relative of the clan — with no age qualifier; the blood-redeemer is defined entirely by function. Adulthood is a sound <strong>inference from the duties</strong> and is asserted nowhere.</p>
+<p><em>But note what follows:</em> as auditor 1 puts it, <strong>the text’s silence is what makes Ruth 4:14’s application to an infant possible rather than impossible.</strong> Their universal is unsupported and their Obed argument survives its loss.</p>
+<p><strong>5.6 — “Esther is the only OT book in which God does not feature” holds only on a disputed reading.</strong> A sweep of all 39 books for nine divine-name lemmas found <strong>Esther alone at zero, and Song of Songs with exactly one token</strong> <code>[T]</code> — <strong>שַׁלְהֶבֶתְיָה at Song 8:6</strong>, which the WLC prints as two words and indexes יָה as a proper noun. <strong>So the uniqueness rests on a Masoretic word-division that many read instead as a superlative suffix.</strong> And “does not feature” is broader than “the divine name does not occur”: stated as a divine-name count it holds; stated as it stands, <em>it is a literary judgement wearing a count’s clothes.</em></p>
+<p><strong>5.7 — Two small reference slips.</strong> The “nearest rival” to Esther’s 52 gentilic occurrences is given as “the ten occurrences in Ezra-Nehemiah” — <strong>Ezra has none; it is Nehemiah alone, and Jeremiah ties it at 10</strong> <code>[T]</code>. And the fertility-wish antecedent at 4:13 is given as 4:11, where יִתֵּן takes <em>the woman</em> as its object in a comparison; <strong>the fertility wish using נתן is 4:12</strong> — מִן־הַזֶּרַע אֲשֶׁר יִתֵּן יְהוָה לְךָ — <strong>one verse nearer and exactly on the point.</strong></p>
+<hr />
+<h2 id="where-they-conflict-with-the-project-and-who-wins">6. Where they conflict with the project, and who wins</h2>
+<h3 id="obed-as-a-kinsman-redeemer-the-project-was-wrong-to-treat-this-as-their-novelty">6.1 — Obed as a kinsman-redeemer: the project was wrong to treat this as their novelty</h3>
+<p><strong>Their claim:</strong> “<strong>The second kinsman-redeemer apart from Boaz is Obed</strong>”, on the ground that 4:14’s redeemer is identified by 4:15’s continuation as the newborn. <strong>The project’s position:</strong> <em>Obed is not a type — he is named, then listed</em>, and audit 4 added that <strong>he is never the subject of a verb of action anywhere in the canon.</strong></p>
+<p><strong>Logos round 5 settled this, and it went against the project.</strong> <code>[S: Logos L5]</code></p>
+<p><strong>The child-reading is the mainstream commentary position and has been since 1975.</strong> Two owned commentaries hold it outright:</p>
+<ul>
+<li><strong>Edward Campbell, <em>Ruth</em> (Anchor Bible 7, 1975), 168.</strong> Explicit: the storyteller conveys the new circumstances with the single word “redeemer,” applied to the child; the child is the one now responsible for the well-being of the two widows; in every appropriate sense of the word, “redeemer” now properly describes him.</li>
+<li><strong>Robert Chisholm, <em>A Commentary on Judges and Ruth</em> (Kregel Exegetical Library, 2013), 640.</strong> Following Bush: the child is Naomi’s גֹּאֵל in the sense that he would care for her when she was old and vulnerable (v. 15).</li>
+</ul>
+<p>Two further holders are <strong>not</strong> in this library and so are reported, not relied on: <strong>Fredric Bush (WBC 9, 1996), 137</strong>, and <strong>Peter Lau’s own NICOT commentary (2023), 58</strong> — the latter being the same author as the book under audit, and therefore not an independent witness to it. <strong>Daniel Block (NAC 6, 1999), 607</strong> — owned — notes the gift of a gōʾēl and declines to say which figure. <strong>No owned commentary was found arguing for Boaz.</strong></p>
+<p><strong>So the project’s “named, then listed” was not holding a line against two authors; it was standing against the settled reading of the commentary tradition, including Campbell, on whom the project already relies at L1.</strong> That is a fault in this project, not in them, and it is recorded as such.</p>
+<p><strong>The grammar supports them.</strong> וְהָיָה at 4:15 has no expressed subject and must continue a masculine singular already in view; the כִּי clause reads יְלָדַתּוּ, “your daughter-in-law bore <strong>him</strong>”, and the 3ms object and 3ms subject most economically share a referent — the newborn.</p>
+<p><strong>But four data limit what the title can mean, and they are not answered by establishing the referent:</strong></p>
+<ul>
+<li><strong>4:14 has no article.</strong> The text reads לֹא הִשְׁבִּית לָךְ <strong>גֹּאֵל</strong> הַיּוֹם — Qal participle masculine singular <strong>absolute</strong>. “A redeemer”, not “the redeemer” <code>[T]</code>. <strong>BHS records no variant whatever on the word</strong> <code>[S: BHS]</code>, so the anarthrous reading is uncontested.</li>
+<li><strong>Ruth’s article usage is systematic</strong> (§4.5): articular הַגֹּאֵל denotes one man only, the kinsman who declines. The women at 4:14 use the book’s <strong>class</strong> term.</li>
+<li><strong>The Greek reads the name-clause the other way, unanimously.</strong> BHS cites the <strong>undifferentiated 𝔊</strong> — not a sub-group — for τὸ ὄνομά σου = <strong>שְׁמֵךְ</strong>, and Swete’s apparatus records <strong>no variation on σου in A</strong>, which varies elsewhere in the same verse <code>[S: BHS; Swete]</code>. The Greek makes the name <strong>Naomi’s</strong>, removing the clause the child-reading leans on. <strong>Four live candidates for שְׁמוֹ remain</strong>: the child, Boaz, <strong>the dead man</strong> (4:10’s לְהָקִים שֵׁם־הַמֵּת, which 4:14’s שֵׁם picks up), and Naomi in the Greek.</li>
+<li><strong>The title is never granted elsewhere.</strong> <strong>The root גאל is never predicated of Obed anywhere in the canon</strong>, and גאל does not occur in Ruth after 4:14 <code>[T]</code>. What 4:15 <em>does</em> give him — מֵשִׁיב נֶפֶשׁ, sustainer of old age — are the roles of <strong>a son and heir</strong>.</li>
+</ul>
+<p><strong>And Chisholm supplies the resolution, in the reason he gives.</strong> He grants the title <strong>by function</strong> — caring for Naomi when she is old and vulnerable, which is 4:15’s content — <strong>not by the legal transaction the book conducts at the gate.</strong> That is precisely compatible with audit 4’s finding. Both sides have been arguing past each other: one about who the word points to, the other about what the word confers.</p>
+<p><strong>Verdict: both positions are reframed into one.</strong> <strong><em>Obed is the referent of the anarthrous גֹּאֵל at 4:14, and he is called that in the functional sense of sustainer — not in the legal sense Ruth reserves for הַגֹּאֵל, the one man at the gate.</em></strong> <strong>The project’s “named, then listed” must go; its lexical observation survives intact as the limit on the sense. Their “second kinsman-redeemer” is right about the referent and wrong about the count</strong> — the second redeemer in Ruth is the nearer kinsman, the only person the book calls <em>the</em> redeemer, and 2:20’s partitive plural already presupposes a class. <strong>Obed is third at best, and the title he bears is not the one transacted in 4:1–8.</strong></p>
+<h3 id="boaz-as-a-type-of-christ-not-measurable-and-the-data-cut-their-way-less-than-they-think">6.2 — Boaz as a type of Christ: not measurable, and the data cut their way less than they think</h3>
+<p><strong>Auditor 2 declined to score this, correctly.</strong> Correspondence, historicity, intensification and theocentricity are <strong>hermeneutical criteria, not properties a corpus can register</strong>, and any figure produced here would be a judgement in a measurement’s clothing. What measurement <em>can</em> establish:</p>
+<ul>
+<li><strong>The New Testament does nothing with Boaz but genealogy.</strong> Βόες/Βόος stands in exactly two SBLGNT verses — <strong>Matt 1:5 and Luke 3:32</strong> — with <strong>two predications in the whole New Testament: he was begotten, and he begot</strong> <code>[T]</code>. No redeemer language, no comment, no quotation of Ruth.</li>
+<li><strong>The lexical bridge is absent.</strong> The <strong>ἀγχιστ- family — 24 occurrences in Swete’s Ruth — does not occur anywhere in the SBLGNT</strong> <code>[T]</code>. <em>Whatever connects Boaz’s role to Christ’s, it is not a word the Greek Bible shares.</em></li>
+<li><strong>Ruth keeps two vocabularies apart.</strong> <strong>גאל is predicated only of human beings in Ruth and never of YHWH</strong> (all 21 occurrences), while <strong>נתן and פקד with YHWH as subject carry the life-giving</strong> <code>[T]</code>. Boaz’s own account of his act is commercial: קָנִיתִי three times at 4:9–10. <strong>Within Ruth, that is the distribution an <em>agency</em> reading describes.</strong> The typologist’s bridge — YHWH as גֹּאֵל — exists in Isaiah and elsewhere, but <strong>Ruth does not build it.</strong></li>
+<li><strong>Two data the typology must handle.</strong> Boaz’s redemption is <strong>explicitly secondary</strong> (3:12; he acts only after the prior claimant refuses at 4:6). And <strong>2:20 is ambiguous by construction</strong> — the closest the corpus comes to the type-versus-mirror question, and the text declines to decide it.</li>
+</ul>
+<p><strong>None of that refutes a typological reading</strong>, which does not require the New Testament to name it. <strong>It does mean the project’s own route — through גֹּאֵל as an obligation discharged at cost, arriving at Matthew 1 — is the better-evidenced one</strong>, because the chain it follows is one a New Testament writer actually picks up.</p>
+<h3 id="the-chapter-3-boundary-a-lead-not-a-confirmation">6.3 — The chapter 3 boundary: a lead, not a confirmation</h3>
+<p><strong>This one corrected me mid-run and the correction matters, because it touches a decision already taken.</strong></p>
+<p>Chapter 5 reports that “<strong>an alternative reading tradition places the <em>seder</em> division at Ruth 3:13</strong>” — which is <strong>precisely where the project’s Finalise pass moved the chapter 3 seam</strong>, on three lexical counts, flagging it as its own editorial choice. On first reading that looked like external corroboration of a boundary the project had chosen alone.</p>
+<p><strong>It is not, and the corpus cannot make it one.</strong> <code>[S: audit]</code></p>
+<ul>
+<li><strong>The WLC marks exactly one division in the whole book — a petuchah at 4:17</strong> — confirmed independently in the OSIS source (one <code>x-pe</code> milestone and nothing else of the kind). <strong>The WLC marks nothing anywhere in chapter 3.</strong></li>
+<li><strong>At 2:12 nothing is marked either — which the claim itself says</strong>, correctly: “not indicated in the text of the Leningrad Codex but… in the Masoretic list of the codex.”</li>
+<li><strong>The Masoretic lists are not in this corpus in any form.</strong> The word <em>seder</em> occurs in no OSIS file, and the Logos BHS export for Ruth is <strong>critical apparatus only</strong> — 55 lines of text-critical notes with <strong>no seder note, no ḥaṣi note, and no Masorah parva or magna anywhere in it.</strong></li>
+</ul>
+<p><strong>So: the corpus can confirm what the text does not mark and nothing about what a list records. An absence here is not evidence.</strong></p>
+<p><strong>Logos round 5 then went further, and closed the question negatively.</strong> <code>[S: Logos L5]</code></p>
+<ul>
+<li><strong>The library holds exactly one witness to the Ruth sedarim, and it is the book under audit.</strong> Every citation returned was to <em>Unceasing Kindness</em> 41:59. A whole-library search produced one further item — <strong>Goswell, <em>Text and Paratext</em> (2023), 143</strong>, giving the division “at 2:12 or alternatively following 3:12” — <strong>the same author, and not owned</strong> (verified in the Library panel).</li>
+<li><strong>No owned Masoretic reference work prints the sedarim for Ruth.</strong> Yeivin and Ginsburg surfaced only as bibliography inside a Brill encyclopaedia article; Weil’s <em>Massorah Gedolah</em> only as a mention in Wegner.</li>
+<li><strong>The footnote behind the 3:13 claim cites nothing.</strong> Recovered from the converted source, which carries the notes Logos’ index does not: n. 34 reads only that the division coming after Ruth 3:12 <strong>“has a cliffhanger effect”</strong>. The body calls it “an alternative reading tradition”; the note supplies an aesthetic rationale and no authority. <strong>n. 32, for the 2:12 division, likewise cites nothing.</strong></li>
+<li><strong>And their own n. 33 concedes the weaker ground:</strong> <em>BHS</em> prints the symbol <strong>in brackets</strong> — an editorial supplement from the Masoretic list, not from L’s text — and <strong>it is not included in <em>BHQ</em></strong>. The most recent critical edition declines to print even the better-attested division. They record this and do not weigh it.</li>
+<li><strong>Not checkable in this library from either side:</strong> the seder sigla of the printed BHS are <em>marginal</em>, and <strong>Logos’ digital BHS does not reproduce them</strong>. Read directly at Ruth 2:11–12, it runs שִׁלְשׁוֹם׃ straight into יְשַׁלֵּם יְהוָה with nothing between.</li>
+</ul>
+<p><strong>Verdict.</strong> The project’s 3:1–13 / 3:14–18 division <strong>rests on its own narrative and lexical grounds and must be stated as resting on those.</strong> This is now a settled negative, not an open lead: the only attestation is one scholar’s unsourced sentence, and the division he does source is one BHQ drops.</p>
+<p><strong>What the audit <em>did</em> confirm is their other division claim, exactly.</strong> <strong>Ruth has 85 verses; the 43rd has 42 before it and 42 after; and the 43rd verse is Ruth 2:21</strong> <code>[T]</code>. The Masoretic halfway note is arithmetically right. <em>(By word count the midpoint falls in 2:19 — word 561 of 1,123 — but ḥaṣi notes count verses.)</em></p>
+<hr />
+<h2 id="where-their-designs-need-reframing">7. Where their designs need reframing</h2>
+<p><strong>7.1 — The Proverbs 31 coda fails on measurement.</strong> They argue 31:10 and 31:29 bracket the description, leaving <strong>31:30–31 as a coda outside the main body</strong>.</p>
+<p><strong>The inclusio half is real and unique:</strong> חַיִל stands at exactly 31:10 and 31:29 in the acrostic and nowhere else in it, and no other lemma occupies that pair <code>[T]</code>.</p>
+<p><strong>The coda half does not survive.</strong> Auditor 2 computed each verse’s lemma-connectivity to the rest of the poem (mean degree 3.18, median 3):</p>
+<ul>
+<li><strong>31:31 has degree 8 — the highest of any verse in the acrostic</strong> <code>[S: audit]</code>, recapitulating מִפְּרִי יָדֶיהָ from 31:16, בַּשְּׁעָרִים from 31:23 and the praise of 31:28.</li>
+<li><strong>The genuinely detached verses — degree 0 — are 31:12 and 31:26, both inside the alleged body.</strong></li>
+<li><strong>The WLC marks a petuchah at the end of Prov 31:9 and no division anywhere inside 31:10–31.</strong> The text’s own markup treats the acrostic as one block.</li>
+</ul>
+<p><em>A “coda outside the main body” that is the most densely integrated verse in the poem is not a coda.</em></p>
+<p><strong>And the frame is a choice, not a measurement.</strong> <strong>אִשָּׁה — the head noun of אֵשֶׁת־חַיִל at 31:10 — recurs at exactly 31:30</strong>, a span of 20 verses against 19: <strong>the widest two-verse repetition in the acrostic</strong> <code>[S: audit]</code>. <strong>Both halves of the opening phrase recur once, one at v29 and one at v30.</strong> Taking 10/29 as the frame and 10/30 as outside it is a decision about which half of a construct phrase counts. <em>(Monte Carlo over 231 verse-pairs, N=200,000: P(some two-verse lemma lands on exactly 10/29) = 0.055.)</em></p>
+<p><strong>Better form:</strong> <em>the acrostic opens with אֵשֶׁת־חַיִל and both halves of that phrase recur late — חַיִל at v29, אִשָּׁה at v30 — tying the poem’s close to its opening across its whole span.</em></p>
+<p><strong>7.2 — “Every prayer is answered” fails three ways, and the thesis under it is right.</strong> This was the lowest-rated claim in the round.</p>
+<ul>
+<li><strong>The enumeration is not the book’s set.</strong> There are <strong>six genuine petitions, not four</strong> — the list omits <strong>2:4</strong>, where the reapers’ יְבָרֶכְךָ is a true jussive, and <strong>2:19</strong>, Naomi’s יְהִי over the unknown benefactor <code>[T]</code>.</li>
+<li><strong>Three of the cited items are not petitions at all.</strong> 2:20, 3:10 and <strong>4:14</strong> are <strong>declarative blessings</strong> — they declare a state, and there is nothing in them to answer. <strong>Counting 4:14 as “a prayer answered” is circular</strong>: it is praise <em>for</em> the answer, offered after the birth of 4:13.</li>
+<li><strong>And a formal invocation is left unanswered on the first page.</strong> <strong>Ruth’s self-imprecation at 1:17 — כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף — asks YHWH to act against her</strong>, and must go unanswered. A universal over invocations of YHWH breaks there.</li>
+<li><strong>Half the object of the book’s first petition walks out of the story.</strong> <strong>1:8–9 is plural throughout — עִמָּכֶם, לָכֶם, וּמְצֶאןָ — asked for Ruth <em>and</em> Orpah</strong> <code>[T]</code>. <strong>Orpah is named at 1:4 and 1:14 and never again in the canon.</strong> As narrated, that prayer is answered for one of its two beneficiaries.</li>
+</ul>
+<p><strong>What holds, and it is worth having.</strong> 1:9’s <strong>מְנוּחָה</strong> is picked up by Naomi’s <strong>מָנוֹחַ</strong> at 3:1 — the same root, <strong>its only two occurrences in Ruth</strong> — and realised at 4:13 <code>[T]</code>. <strong>And note the route: the answer comes through Naomi’s own scheming, not through a narrated divine act</strong>, just as 2:12’s “full reward from YHWH” is delivered by Boaz’s hand.</p>
+<p><strong>Better form, and auditor 2’s own:</strong> <em>in a book where God acts in the narrator’s voice only twice, the petitions carry the theology, and the plot delivers every one whose object lies within the story.</em></p>
+<p><strong>7.3 — The 1:6 / 4:13 bookends hold, but not as “fertility”.</strong> The <strong>structure</strong> is better evidenced than they state it (§3.1, §4.6). <strong>What is wrong is the description.</strong> Ruth 1:6 reads כִּי־<strong>פָקַד</strong> יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם <strong>לָחֶם</strong> — <strong>the verb is פָּקַד, its only occurrence in Ruth; the gift is bread; the recipient is a collective</strong> <code>[T]</code>. At 4:13 the gift is <strong>הֵרָיוֹן</strong>, conception, to one woman. <strong>Calling both “giving fertility” is what lets the claim treat them as symmetrical.</strong> They also differ in voice: 4:13 is a plain wayyiqtol on the main narrative line, while <strong>1:6 is embedded under שָׁמְעָה</strong> — one grammatical degree further from the narrator’s mouth. <em>And “providential care over all activities” is a theological reading laid over a real structure; two statements cannot demonstrate providence over everything between them.</em></p>
+<hr />
+<h2 id="what-should-now-reach-the-projects-files">8. What should now reach the project’s files</h2>
+<p><strong>Only after the usual gate: nothing here touches the overview until these are through a propagation pass.</strong></p>
+<p><strong>Corrections to existing project positions:</strong></p>
+<ul>
+<li><strong>Overview, Canonical Position</strong> — restate the Proverbs withdrawal as <strong>compositional, not hermeneutical</strong> (§2.3), and record Lau–Goswell’s concession as independent support. <strong>Add that the readers supplying the sequence are probably medieval</strong>, on the project’s own Webb datum.</li>
+<li><strong>Overview, Preaching Units</strong> — <strong>the chapter 3 division must continue to be stated as resting on narrative and lexical grounds</strong>, and the note should now say why: no Masoretic warrant exists in this library, the only witness is one scholar’s unsourced sentence, and BHQ drops even the 2:12 division (§6.3). <strong>A settled negative, not an open lead.</strong> <em>This corrects an interim claim made during this run.</em></li>
+<li><strong>Christological trajectory</strong> — <strong>“Obed is not a type — named, then listed” must go.</strong> Replace with: <em>Obed is the referent of the anarthrous גֹּאֵל at 4:14, called that in the functional sense of sustainer, not in the legal sense Ruth reserves for הַגֹּאֵל.</em> The lexical observation — גאל never predicated of him, never the subject of a verb of action — survives as the limit on the sense (§6.1).</li>
+<li><strong>Macro-argument 3</strong> — add the complete-set measurement: <strong>YHWH in 15 verses, 13 in speech, exactly 2 outside it</strong> (§3.1).</li>
+</ul>
+<p><strong>New rows and strengthenings:</strong></p>
+<ul>
+<li><strong>The כָּנָף morphology pun</strong> (§4.1) — plural at 2:12, singular at 3:9; the book’s complete set.</li>
+<li><strong>Ps 36:8</strong> as the canon’s only כָּנָף + חֶסֶד verse (§4.3).</li>
+<li><strong>Ruth 2:12 ~ Ps 91:4</strong> as the only two תַּחַת + כְּנָפָיו verses (§4.4) — sharpens row 12.</li>
+<li><strong>Ruth 2:3 ~ Eccl 2:14–15</strong>, three verses not two (§3.3) — corrects row 6.</li>
+<li><strong>The articular/anarthrous גֹּאֵל distribution</strong> (§4.5) — a new structural observation, and the clearest thing the round produced about Ruth 4.</li>
+<li><strong>The נתן petition/assertion frame</strong> (§4.6).</li>
+<li><strong>חַיִל: the Ruth trio and the Prov 13:22 hinge</strong> (§4.8, §4.9).</li>
+</ul>
+<p><strong>Logos round 5 — both items run and discharged:</strong></p>
+<ul>
+<li><strong>The seder lists</strong> — closed negatively (§6.3). Nothing further to ask here without a facsimile or edition of L’s Masorah, which is outside this library.</li>
+<li><strong>The 4:14 referent</strong> — answered, against the project (§6.1). Campbell and Chisholm, both owned, read the redeemer as the child; no owned commentary reads it as Boaz.</li>
+</ul>
+<p><strong>Corpus traps found, for <code>_texts/README.md</code>:</strong></p>
+<ul>
+<li><strong><code>find.py</code>’s book argument must not contain spaces.</strong> <code>lemma 3050 "Song of Songs"</code> returns a <strong>silent zero</strong>; <code>Song</code> works. This reported no divine name in Esther <em>and</em> the Song, and only one of those is true.</li>
+<li><strong>The Swete Greek OT layer also carries inline U+2E00-block apparatus sigla</strong> — the README currently records that trap for the NT exports only.</li>
+<li><strong>Logos RTF conversion drops hyperlinked scripture references silently.</strong> See the header.</li>
+<li><strong>Logos’ digital BHS omits the marginal seder and parashah sigla</strong> the printed edition carries in brackets. Absence there proves nothing about the printed text.</li>
+<li><strong>Logos’ search index carries no footnotes</strong>, even for an owned book. For a footnote question, read the converted source in <code>_sources/</code>, not Logos.</li>
+</ul>
+<hr />
+<h2 id="critical-assessment-of-this-assessment">9. Critical assessment of this assessment</h2>
+<p><em>Per the standing rule, and sharpened by the fact that v1.0 of the Verrett assessment this morning contained five errors the auditors caught.</em></p>
+<p><strong>9.1 — The claim inventory is mine and unreviewed.</strong> I decided what counted as a separable claim and which auditor should get it. Twenty claims from 39,000 words is a thin extraction rate, and <strong>a different partition would produce different totals and possibly different verdicts.</strong> In particular I sent the typology to auditor 2 knowing it was unmeasurable; the honest alternative was not to send it at all.</p>
+<p><strong>9.2 — I did not read the chapters this audit does not cover.</strong> Chapters 1, 2, 3, 6, 9 and 10 were not supplied and are not assessed. <strong>Chapter 3, “Ruth and the House of David”, is the one most likely to bear on the project’s Christological trajectory</strong>, and chapter 6, “Famine in Ruth”, on the three-verse famine clause. <strong>Any conclusion here about what Lau and Goswell think is a conclusion about four chapters of ten.</strong></p>
+<p><strong>9.3 — The convergence in §3 may be less impressive than it looks.</strong> Four independent arrivals at the same conclusions is either genuine corroboration or evidence that these are the obvious things to notice about Ruth. <strong>I cannot tell which from inside</strong>, and the fact that I was pleased to find them is a reason to discount rather than to trust.</p>
+<p><strong>9.4 — §2’s headline rests on reading, not measurement.</strong> That Lau and Goswell concede the compositional question is a reading of their prose. I have quoted it at length so it can be checked, but <strong>the conclusion that the two positions “answer different questions” is my inference</strong>, supported by auditor 2 and not independently verified.</p>
+<p><strong>9.5 — The 4:14 verdict has been through the Logos round this section asked for, and I got it wrong first time.</strong> The original §6.1 framed the child-reading as Lau and Goswell asking one anarthrous participle to carry a title the text never grants. <strong>It is the mainstream commentary reading, held by Campbell in 1975 and by Chisholm in 2013, both owned.</strong> The error was mine and is of a specific kind worth naming: <strong>the measurements were sound and I treated their silence as an argument.</strong> That גאל is never predicated of Obed elsewhere limits the sense of the title; it never bore on the referent, and I let it. <strong>§6.1 is rewritten; the lexical findings in it are unchanged.</strong></p>
+<p><strong>9.6 — Three figures should be re-confirmed from BHS before they enter the overview</strong>, as all are WLC: the כָּנָף morphology split at 2:12/3:9, the Ps 36:8 uniqueness, and the articular/anarthrous גֹּאֵל distribution.</p>
+<p><strong>9.7 — What a fair reader might say back.</strong> That this audit holds a work of <em>biblical theology</em> to the standards of a lexical concordance — that “every prayer is answered” and “the thirteen psalms” are rhetorical gestures in a book arguing a theological case, not claims offered for counting. <strong>That reply has real force on §7.2 and almost none on §5.1</strong>, where the list is offered as a list and is simply wrong. <em>The distinction between a thesis stated loosely and a reference stated falsely is the one this document has tried to hold, and where it has failed it will have been too hard on the former.</em></p>
+<hr />
+<h2 id="what-this-gives-the-series">10. What this gives the series</h2>
+<p><strong>Read them. Do not preach their lists.</strong></p>
+<p><strong>The single most useful thing in the four chapters is not a finding but a posture.</strong> They want Ruth read in its canonical position <em>and</em> they concede that the position proves nothing about the author. <strong>That is the move the overview needs</strong> — it has been treating “withdrawn as evidence” and “unavailable as a reading” as the same verdict, and they are not.</p>
+<p><strong>For the pulpit, three things are now better founded than they were this morning:</strong> the wings material at 2:12 and 3:9, which turns out to be a morphological pun the book controls itself; the redeemer vocabulary at chapter 4, where <strong>the only man the book calls <em>the</em> redeemer is the one who walks away</strong>; and the prayers, which carry the theology of a book whose God speaks not once.</p>
+<p><strong>And one thing is worse founded.</strong> The chapter 3 boundary is still yours, not the Masoretes’.</p>
+<hr />
+<p><em>Provenance: twenty claims inventoried from the four supplied chapters and tested by two blind auditors, neither of whom saw this document or the other’s brief. All Hebrew counts WLC (Open Scriptures <code>morphhb</code>), verse total checked at 23,213; Greek OT Swete with load-bearing readings confirmed against Rahlfs 1979; Greek NT SBLGNT; apparatus BHS via the Logos export. Scanner calibrations reproduced before use (2 Sam 6 → 1 Chr 13 = 8.786; 2 Kgs 22 → 2 Chr 34 = 7.182). Warrant tags in the project’s convention — <code>[T]</code> text-verified, <code>[S]</code> supported by a named source or audit, <code>[I]</code> inference. The source conversion is filed at <code>Ruth/_sources/</code>. Nothing here has been propagated; §8 is the queue.</em></p>
+
+</main>
+</div>
+</body>
+</html>

@@ -1,6 +1,9 @@
 # Dig Deeper: Ruth 2:17–23
 
-**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs–Hanhart LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs 1979 LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+
+
+> ***Edition correction, 18 November 2026.*** This report originally named the Logos Septuagint export **Rahlfs-Hanhart**. It is **Rahlfs 1979** — the files are stamped *"Septuaginta: With morphology. electronic ed. (1979)"*, and the library holds **no Rahlfs-Hanhart text and no Rahlfs apparatus of any date**. Every occurrence below is corrected; no finding in this report turns on the difference. Flagged by claim audit 3 (15 November) as outstanding for this file and three others, and applied here with the `4:18–22` report, which was corrected at the time.
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV — carried forward from the 1:1–5 engagement of 14 November. Say if this unit is for an engagement elsewhere; the NIV84 divergence at 2:20 is reported below in case it is.
 **Date:** 15 November 2026
@@ -285,7 +288,7 @@ The pulpit text is the **ESV**; the study text is the **NASB95**. This unit is t
 
 #### Ancient versions check
 
-The trigger is met: the modern versions substantively agree on several renderings of weight, and on 2:20 they disagree in a way that an ancient witness speaks to. **Five of BHS's nine notes on Ruth 2 fall in these seven verses** — at vv.18, 19, 20, 21 and 23 `[T]` — and each is classified under the three-way triage before it is reported. Checked against **Swete**, the **Rahlfs–Hanhart** export, and the **BHS apparatus**; the Syriac and Vulgate are reported only as BHS records them, no copy being in the corpus.
+The trigger is met: the modern versions substantively agree on several renderings of weight, and on 2:20 they disagree in a way that an ancient witness speaks to. **Five of BHS's nine notes on Ruth 2 fall in these seven verses** — at vv.18, 19, 20, 21 and 23 `[T]` — and each is classified under the three-way triage before it is reported. Checked against **Swete**, the **Rahlfs 1979** export, and the **BHS apparatus**; the Syriac and Vulgate are reported only as BHS records them, no copy being in the corpus.
 
 **The version alignment differs at every one of the five**, which is itself worth stating: no single version stands consistently against MT here, so no coherent alternative recension lies behind the cluster `[I]`. *Moderate–high confidence.*
 

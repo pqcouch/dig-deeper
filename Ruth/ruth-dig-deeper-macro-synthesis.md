@@ -1,8 +1,8 @@
 # Ruth — Dig-Deeper Macro-Synthesis
 
-*What the ten full solo `/dig-deeper` runs, taken together, demonstrate about the book — the cross-pericope arguments invisible at the level of a single passage but unmistakable once the whole sweep is laid side by side. Companion to `book-overview-ruth.md` (v2.0) and `dig-deeper-ruth-claim-audit.md` (v3.0). Text-first; confidence-flagged.*
+*What the ten full solo `/dig-deeper` runs, taken together, demonstrate about the book — the cross-pericope arguments invisible at the level of a single passage but unmistakable once the whole sweep is laid side by side. Companion to `book-overview-ruth.md` (**v2.2**) and `dig-deeper-ruth-claim-audit.md` (**v4.0**). **v1.1, 18 November 2026 — patched for claim audit 4 and Logos round 4;** changes marked ***(v1.1)***. Text-first; confidence-flagged.*
 
-**Date:** 15 November 2026 · **Runs consumed:** all ten preaching units, §1–§10 below · **Also consumed:** three claim audits (104 claims) and three Logos rounds.
+**Date:** 15 November 2026 · **Runs consumed:** all ten preaching units, §1–§10 below · **Also consumed:** **five** claim audits and **five** Logos rounds, plus `dig-deeper-ruth-verrett-assessment.md` v2.0 and `dig-deeper-ruth-lau-goswell-assessment.md` v2.0. **Patched 18 November 2026 (v1.1); v1.2 propagates the Lau–Goswell audit and Logos round 5.**
 
 | § | Pericope | Report |
 |---|---|---|
@@ -23,7 +23,7 @@
 
 Each argument below recurs across **at least three** of the ten pericopes; that threshold is a hard gate, and three candidate threads that failed it are listed at the end rather than quietly promoted. These arguments are **emergent** — none was proposed in the book overview and then looked for; each is what the runs independently kept finding. **Confidence key:** *high* = a New Testament text picks the chain up; *strong* = converging text-first findings reached independently in several runs; *moderate* = a real but looser trajectory. The runs' own warrant tags are carried forward: a finding that was `[S]` in a run is `[S]` here and has not been laundered into something firmer.
 
-**One caution peculiar to this book.** Three claim audits tested sixteen design claims across these same runs and **not one survived as stated**. A synthesis is precisely the document most likely to repeat that mistake at a larger scale. Every argument below is therefore stated as *what recurred*, with its pericopes named, and none rests on a density rank or a counted "pattern".
+**One caution peculiar to this book.** ***(v1.2.)*** **Five** claim audits have now tested **twenty-eight** design claims across these same runs and **four survived** — and audit 4 added the ceiling that makes the caution structural: **nothing in the canon reaches a density of 1.0 against Ruth at any target.** The book's best partner anywhere, Judges 19 at 0.700, is **one twelfth** of a known relationship (2 Sam 6 → 1 Chr 13 = 8.786). **Ruth has no measurable source-level relationship with anything.** A synthesis is precisely the document most likely to repeat that mistake at a larger scale. Every argument below is therefore stated as *what recurred*, with its pericopes named, and none rests on a density rank or a counted "pattern".
 
 ---
 
@@ -70,14 +70,17 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 
 **Converging evidence.**
 - **The narrator states a divine act once, in his own voice:** וַיִּתֵּן יְהוָה לָהּ הֵרָיוֹן at 4:13 (§9) `[T]`. At 1:6 YHWH's visitation is what Naomi *heard* (§2) `[T]`.
+- ***(v1.2 — the argument is now a complete set, not a sample, and this is the strongest support it has had.)*** **YHWH stands in exactly 15 of Ruth's 85 verses. Thirteen are inside direct speech. Exactly two stand outside it — 1:6 and 4:13** `[S: audit 5]`. Nothing was selected: that is the whole distribution. **And the two are not symmetrical — 4:13 is a plain wayyiqtol on the main narrative line, while 1:6 is embedded under שָׁמְעָה, one grammatical degree further from the narrator's mouth.**
+- ***(v1.2.)*** **Lau and Goswell reach the same conclusion independently, and make the hearsay distinction at 1:6 unprompted** — strictly speaking the narrator reports that Naomi *heard*, and does not say explicitly that God broke the famine `[S: audit 5]`. **An external arrival at this project's own reading, by a different route.**
+- ***(v1.2 — the giving is patterned, and the pattern frames the book.)*** **YHWH with נתן stands in five verses — 1:6, 1:9, 4:11, 4:12, 4:13 — against 1.41 expected, a ratio of 3.54×. The three inside speech petition him to give; the two in the narrator's voice say he gave** `[S: audit 5]`. The petitions sit inside the frame the assertions make. **But 1:6's verb is פָּקַד, its only occurrence in Ruth, and its gift is לֶחֶם to a collective** — so the two narratorial statements are a frame, not a matched pair, and should not be called "the gift of fertility" at both ends.
 - **The book's opening five verses name no divine name and address no prayer** — the only such stretch at the front of the book (§1) `[T]`; **and the closing genealogy names none either** (§10) `[T]`.
 - **Naomi supplies the theology, twice, and it is an accusation.** שַׁדַּי stands in two verses of Ruth, both here, against 48 in the canon of which 31 are Job (§3) `[T]`; and three independent lines converge on עָנָה בִי at 1:21 meaning **"testified against me"** (§3).
 - **The characters do the blessing.** The construction בָּרוּךְ + nominal + לַיהוָה stands in **seven verses of the Hebrew Bible, two of them in Ruth** — 2:20 and 3:10, both in a character's mouth (§5, §7) `[S: audit]`.
-- **And the book's most theologically loaded sentence is ambiguous by construction.** At 2:20 the subject of "who has not forsaken his kindness" is left open; 3:10 is the control case showing the blessing formula itself is settled, so **the ambiguity lies entirely in the following אֲשֶׁר clause** (§5, §7) `[S: audit]`.
+- **And the book's most theologically loaded sentence is ambiguous by construction.** At 2:20 the subject of "who has not forsaken his kindness" is left open; 3:10 is the control case showing the blessing formula itself is settled, so **the ambiguity lies entirely in the following אֲשֶׁר clause** (§5, §7) `[S: audit]`. ***(v1.1 — Logos round 4 narrows that clause.)*** **Chisholm argues the antecedent is Boaz**, since a בָּרוּךְ formula followed by אֲשֶׁר consistently gives the reason the recipient deserves blessing, and **2 Samuel 2:5 is the closest syntactical parallel** — **the very verse audit 3 restored to this construction after the 3:10–18 dig had omitted it** `[S: Logos]`. **Lau and Goswell, and Way, hold the ambiguity deliberate**, the kindness being God's shown through Boaz `[S: Logos]`.
 
 **Confidence: strong** (five pericopes).
 
-**Payoff.** **The series should resist supplying the narrator's verdict.** Naomi's bitterness is not corrected by the book; it is outlived by it. And 2:20 should be preached as open — the Hebrew will not say whether the kindness is Boaz's or YHWH's, and the pulpit text closes what the text leaves open.
+**Payoff.** **The series should resist supplying the narrator's verdict.** Naomi's bitterness is not corrected by the book; it is outlived by it. ***(v1.1 — restated.)*** **2:20 should still be preached as open, but the openness is theological rather than grammatical**: the grammar leans to Boaz on the 2 Sam 2:5 parallel, and the deliberate-ambiguity reading — God's kindness shown *through* Boaz — is a reading of the whole narrative rather than of the clause. **The pulpit text still closes what the text leaves open.**
 
 ---
 
@@ -107,7 +110,7 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 **Converging evidence.**
 - **The word enters late and then saturates:** 21 occurrences in ten verses, none before 2:20, rising through chapters 3 and 4 (§5) `[T]`.
 - **The request at 3:9 is a formal claim, not a proposal.** Its ground-clause is כִּי גֹאֵל אָתָּה; and the passage keeps the forbidden idiom and the covenant idiom lexically apart (§6) `[T]` for the distribution, `[I]` for the design.
-- **The gesture is covenantal in its one canonical parallel:** פָּרַשׂ with כָּנָף stands in twelve verses, but **only Ezek 16:8 and Ruth 3:9 use it of spreading a garment-wing over a person** (§6) `[S: audit]`.
+- **The gesture is covenantal in its one canonical parallel:** פָּרַשׂ with כָּנָף stands in twelve verses, but **only Ezek 16:8 and Ruth 3:9 use it of spreading a garment-wing over a person** (§6) `[S: audit]`. ***(v1.1 — audit 4 doubles this, and it is now the book's best-attested source relation.)*** **Ezekiel carries both of Ruth 3's signature gestures in consecutive verses:** רָחַץ with סוּךְ stands in exactly three verses — **2 Sam 12:20, Ezek 16:9, Ruth 3:3** — beside the wing-spreading at Ezek 16:8 ~ Ruth 3:9 `[S: audit 4]`. **Ruth 3:3 shares not one lexeme with Gen 38:14.** **One textual limit:** BHS at Ruth 3:9 has **Kᴼᶜᶜ and many MSS reading the plural כְּנָפֶיךָ** against Q 𝔊 𝔖 singular, and Ezekiel's is singular — **the match rests on the qere** `[S: BHS]`.
 - **The procedure is transacted publicly and is not the levirate law** (§8) `[T]`.
 - **And the New Testament takes up the genealogy.** Matthew 1:3–6 contains all ten of Ruth's names and **hangs four maternal references on them — Tamar, Rahab, Ruth, and at 1:6 an unnamed fourth, "of the wife of Uriah" — against none in Ruth's own list** (§10) `[T]`. **Each of the four enters the line by an irregularity, and the one Matthew declines to name is the one who had least choice.**
 
@@ -126,7 +129,7 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 - **§8 found the passage sits inside the book's single unbroken block** `[T]`.
 - **§10 found the marker itself: exactly one petuchah, after 4:17** `[T]`.
 
-**Confidence: strong on the datum**, and **capped** on everything built from it: this is Codex Leningradensis as the WLC prints it, paragraphing is a reading tradition rather than authorial `[S]`, and **how widely the marker is attested has not been established** — the finding carries `[unchecked — apparatus spread]` across every run that touched it.
+**Confidence: strong on the datum**, and **capped** on everything built from it: this is Codex Leningradensis as the WLC prints it, paragraphing is a reading tradition rather than authorial `[S]`, and **how widely the marker is attested has not been established** — the finding carries `[unchecked — apparatus spread]` across every run that touched it. ***(v1.1 — Logos round 4 widened the attestation without closing the question.)*** **Goswell reports the 4:17 break as the only paragraph division in Ruth in the Tiberian Masoretic tradition**, and **Lau and Goswell note the Leningrad genealogy is set as nine lines each beginning "he begat"** (NSBT 41:28) `[S: Logos]` — **an independent corroboration of the nine-hiphil finding at 4:18–22, reached from the page rather than the lemma index.** **The medieval spread is still unreported**, so the flag stands.
 
 **Payoff.** The 4:17 / 4:18 division is **the only unit boundary in this book with any external warrant**. Every other boundary a series uses is editorial — defensible, but chosen. That is worth knowing when deciding, as this series has, to redivide chapter 3 at 3:13 and to preach 4:13–22 as one unit across the single seam the manuscript does mark.
 
@@ -134,7 +137,7 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 
 ## 7. Methodological: this sweep is a sustained demonstration that the book's single contacts hold and its patterns do not
 
-**Claim.** The most transferable result of the ten runs is not about Ruth. Across three claim audits, **sixteen design claims were tested and none survived as stated, while every measured single contact held** — and the third audit found the reason.
+**Claim.** The most transferable result of the ten runs is not about Ruth. ***(v1.2.)*** Across **five** claim audits, **twenty-eight design claims were tested and four survived, while measured single contacts held** — the third audit found the reason, the fourth the ceiling, and **the fifth broke the run.**
 
 **Converging evidence.**
 - **Audit 1 (13 Nov):** eight pattern claims tested, eight failed — the "ten" design, the verb-per-movement scheme, the Exodus–Genesis frame, the Judges block, the Genesis programme, the עָזַב chain, descent-and-ascent, the betrothal type-scene `[S: audit]`.
@@ -142,7 +145,10 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 - **Audit 3 (15 Nov):** eight design claims tested, **none survived as stated** — and **four of the five falsified ones had a genuine single contact underneath them** that the ranking metric had obscured `[S: audit]`.
 - **The explanation, found at audit 3:** the density metric that generates these claims is a **short-unit detector**. It divides shared rare pairs by the compared unit's length, cannot distinguish a chapter relationship from a single verse, and can be carried by one lemma. **Calibration: a real textual relationship scores an order of magnitude higher — 2 Sam 6 → 1 Chr 13 = 8.786 — while Ruth's best chapter score is 0.357, the median of what an arbitrary real chapter achieves** `[S: audit]`.
 
-**Confidence: strong** (all ten runs, three audits, with baselines).
+- ***(v1.2)*** **Audit 5 (18 Nov), on Lau and Goswell:** six design claims tested, **none discarded outright** — two confirmed with nuance, three reframed, one declared unmeasurable `[S: audit 5]`. **The first audit in this project in which no design failed.** The explanation is not that the source is scholarly rather than homiletic: **it is that they state designs at a scale the evidence carries, and concede the compositional question before they argue from it.** What fails in them fails by one notch of overstatement — *every*, *always*, *the lone exception*, *thirteen* — and in every case the finding underneath survives the correction.
+- ***(v1.2 — the refined rule.)*** The sweep's result is therefore **not** that patterns fail and contacts hold. It is that **a design claim survives in proportion as it is stated at a size its evidence can bear**, and that most design claims are not. **The question to put to any pattern before it is preached is not "is it real?" but "is it stated at a size the count can bear?"**
+
+**Confidence: strong** (all ten runs, **five** audits, with baselines).
 
 **Payoff.** **For this series: a pattern is a sermon illustration until it has been measured, and this book's patterns are unusually pretty and unusually false.** For the toolkit beyond Ruth: trust a counted contact, distrust a rank; treat any density below about 1.0 as noise unless four checks say otherwise.
 
@@ -158,7 +164,7 @@ Each argument below recurs across **at least three** of the ten pericopes; that 
 | 4 | No English version is reliably better; divergences land on load-bearing words | §1, §5, §6, §7, §10 | strong |
 | 5 | The redeemer is a legal category before it is a type; the NT takes up the genealogy | §5, §6, §8, §10 | **high** (Matthew leg) |
 | 6 | One manuscript seam in eighty-five verses, not at a chapter division | §1, §5, §7, §8, §10 | strong on the datum; capped |
-| 7 | Single contacts hold; patterns fail — and the metric explains why | all ten; three audits | strong |
+| 7 | Single contacts hold; patterns fail — the metric explains why, and **nothing in the canon reaches 1.0 against Ruth** | all ten; **four** audits | strong |
 
 ---
 
@@ -174,7 +180,7 @@ Recorded so they are not re-found and promoted later.
 
 ## What this means for the series as a whole
 
-Ruth preaches as a book about a God who is almost never on stage and almost always on someone's lips, whose kindness arrives through people acting beyond what any statute requires, in a story that plants its vocabulary in the first chapter and collects it in the last. **The cumulative case the sweep makes is that the book's meaning is carried by its words rather than by its architecture** — which is why ten runs found dozens of durable two-member chains and three audits destroyed every large pattern proposed over them. A series built on the chains will be solid and will keep surprising the congregation; a series built on the patterns will be elegant and will not survive examination.
+Ruth preaches as a book about a God who is almost never on stage and almost always on someone's lips, whose kindness arrives through people acting beyond what any statute requires, in a story that plants its vocabulary in the first chapter and collects it in the last. **The cumulative case the sweep makes is that the book's meaning is carried by its words rather than by its architecture** — which is why ten runs found dozens of durable two-member chains and **four audits destroyed twenty-one of the twenty-two large patterns proposed over them.** A series built on the chains will be solid and will keep surprising the congregation; a series built on the patterns will be elegant and will not survive examination.
 
 **Three practical consequences.** Preach chapter 1 as the planting, not the setup. Know, passage by passage, where your pulpit text fails you — the list in argument 4 is short and specific. And take the route to Christ through גֹּאֵל as an obligation discharged at cost, arriving at Matthew 1, where the list that Ruth's own genealogy omits her from names her, along with three other women who entered the line by irregularity and one whom even Matthew will not name.
 

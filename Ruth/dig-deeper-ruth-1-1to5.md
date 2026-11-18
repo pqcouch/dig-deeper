@@ -1,6 +1,9 @@
 # Dig Deeper: Ruth 1:1–5
 
-**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs–Hanhart LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+**Primary texts:** WLC Hebrew (`_texts/hebrew-wlc/03-Ketuvim/04-Ruth.txt`, with the lemma index used for every count and chain); Swete LXX (`_texts/greek-lxx-swete/08-Ruth.txt`); Rahlfs 1979 LXX and the BHS text and apparatus from the Logos exports in `_texts/logos-exports/`
+
+
+> ***Edition correction, 18 November 2026.*** This report originally named the Logos Septuagint export **Rahlfs-Hanhart**. It is **Rahlfs 1979** — the files are stamped *"Septuaginta: With morphology. electronic ed. (1979)"*, and the library holds **no Rahlfs-Hanhart text and no Rahlfs apparatus of any date**. Every occurrence below is corrected; no finding in this report turns on the difference. Flagged by claim audit 3 (15 November) as outstanding for this file and three others, and applied here with the `4:18–22` report, which was corrected at the time.
 **Study text:** NASB95 (Logos export)
 **Pulpit text:** ESV — declared for this engagement
 **Date:** 14 November 2026
@@ -295,7 +298,7 @@ The pulpit text for this engagement is the **ESV**; the study text is the **NASB
 
 #### Ancient versions check
 
-The trigger is met: the modern versions substantively agree on three renderings that carry weight (the opening temporal clause; "his two sons"; the order of losses at 1:5). Checked against **Swete's LXX** (Vaticanus-based, the corpus's observation layer), the **Rahlfs–Hanhart** export (citation of record), and the **BHS apparatus**. Each divergence is classified under the three-way triage before it is reported.
+The trigger is met: the modern versions substantively agree on three renderings that carry weight (the opening temporal clause; "his two sons"; the order of losses at 1:5). Checked against **Swete's LXX** (Vaticanus-based, the corpus's observation layer), the **Rahlfs 1979** export (citation of record), and the **BHS apparatus**. Each divergence is classified under the three-way triage before it is reported.
 
 **(i) 1:1 — the opening clause. Category 2, minor.** BHS records at 1:1: 𝔊* reads ἐν τῷ κρίνειν **= בִּשְׁפֹט**, and 𝔖 omits שׁפט `[T]`. Both Greek editions have καὶ ἐγένετο ἐν τῷ κρίνειν τοὺς κριτάς ("and it came to pass when the judges judged") `[T]` — no equivalent of בִּימֵי ("in the days of"). So the Greek's *Vorlage*, or its translator, lacked or dropped the dating formula that this run finds shared with Gen 26:1. **Position:** the shorter Greek is most simply explained as a translator's economy on a Hebrew idiom that does not go into Greek, since ἐν τῷ κρίνειν already carries the temporal force; the Hebrew's doubled formula is the harder and fuller reading and is likelier original. *Moderate confidence.* **Preaching implication:** none directly, but it is worth knowing that the clause carrying Headline 1 is one the Greek tradition does not reproduce.
 
@@ -591,7 +594,7 @@ Transliteration is given only where the sound is the point.
 #### 1:2 — the clause naming Naomi
 
 - **The issue:** **Swete omits** καὶ ὄνομα τῇ γυναικὶ αὐτοῦ Νωεμείν, so that Vaticanus names the man and the two sons but not the wife `[T]`. Rahlfs has the clause `[T]`. **BHS records nothing at 1:2** `[T]`.
-- **Manuscript evidence:** Swete's text (Vaticanus-based) against Rahlfs–Hanhart. The corpus holds Swete as its observation layer; the Rahlfs export is the citation of record. No wider collation is available here.
+- **Manuscript evidence:** Swete's text (Vaticanus-based) against Rahlfs 1979. The corpus holds Swete as its observation layer; the Rahlfs export is the citation of record. No wider collation is available here.
 - **Most likely original:** the longer reading. Three successive clauses opening καὶ ὄνομα make haplography by homoioteleuton the obvious explanation of the omission, and nothing suggests a shorter Hebrew. *Moderate–high confidence* on the diagnosis; *high* that the omission stands in Swete.
 - **Preaching implication:** none, and it should not be mentioned.
 - **Method implication:** a second instance of the class the claim audit flagged at 3:11 (R22) — a Greek reading BHS does not carry. It was visible only because this run opened Swete, which the overview's colophon records as not opened. Logged for the overview's Finalise pass.
