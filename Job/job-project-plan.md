@@ -211,7 +211,17 @@ The last item on the Job list. **`dig-deeper-job-22-1to28-28`, `dig-deeper-job-2
 - **Then:** **Sermon 9 backbone** — `/point-purpose` on 42:7–17. **Read Ortlund, *Themelios* 43.3 first.** **Present the 42:7 variant as unresolved**, and the אֵלַי reading as this project's own rather than the commentators'.
 - **The backbones may now take audits 5, 6 and 7's verdicts as `[S: audit N]`** — limb 2 is discharged for Sermons 5, 6, 7, 8 and 9, with that one standing exception at 42:7.
 
-## Parked for Wednesday: the Job Aide-Mémoire
+## The Job Aide-Mémoire — DONE, 18 Nov 2026
+
+`Job/job-aide-memoire.{md,odt,html}` — 17,370 bytes md, 112 lines, six H2 sections, 7 nav anchors verified. Built on the Exodus sheet's shape exactly: one sentence + pulse · proportions · its own thesis sentences · the movements · the units · the threads · where Christ is · the standing traps · handle with care · what remains open.
+
+**It ran as predicted — a compression job, not a research one.** No new corpus work; everything came from v1.0, the macro-synthesis v1.1 and the seven audits.
+
+**Length: 17 KB against Exodus's 9.** Flagged to Patrick. The excess is concentrated where Job genuinely carries more than Exodus — **five movements not three, seventeen units not fifteen, eight threads not six, and a far heavier crux load** (four library-unanswerable readings, two places where the pew Bible says the opposite, and the 42:6 construal). A cut-down version is available on request.
+
+**The two things the plan said it had to carry, and it does.** The top is anchored on **1:9 (חִנָּם) and 42:7–8**, and **"keep the speaker attached to every line you quote"** is the first directive on the sheet, in the Proportions paragraph. The four unsettleable readings close the document.
+
+### Superseded planning note (16 Nov)
 
 **Requested 16 Nov 2026; deferred on usage credit (meter at 99 % for the week).** Patrick wants an Aide-Mémoire for Job on the model of the Exodus one — **`dig-deeper/Torah/Exodus/exodus-aide-memoire.{md,odt,html}`** (path supplied by Patrick, 16 Nov; note it is under `Torah/Exodus/`, not a top-level `Exodus/` folder). **Read that file first and follow its shape** — the single sheet for **holding the whole in mind while working the detail**.
 
