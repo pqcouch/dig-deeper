@@ -3,7 +3,7 @@
 **Primary texts:** NA28 text and apparatus (Logos export), read first; SBLGNT as the observation layer for every count, chain and ordered-phrase search; Swete's Greek Old Testament for the Old Testament contacts tested.
 **Study text:** NASB95
 **Pulpit text:** ESV (Anglicised), declared for this engagement. The export compared is the US-spelling ESV, so the comparison is of wording, not spelling.
-**Date:** 23 November 2026
+**Date:** 23 November 2026 · **Version:** 1.1 (25 November 2026 — revised from Acts claim audits 2–3 and Logos round 3; see *What Changed in v1.1*)
 **Book-overview context:** Referenced from prior work (Acts book overview, v2.5)
 **Series context:** None stated.
 **Scope note:** The extent asked for runs through the whole voyage and arrival (27:1–28:16, which the overview treats as one ⭐ unit) and then stops two verses into Paul's first address to the Roman Jewish leaders. That address is a single sentence running to 28:20. I worked the extent as asked. Three consequences follow. (a) 28:17–18 are read as the opening of a speech, not as a complete unit. Their forward plants are listed in Open Questions for the 28:17–31 run. (b) The overview's seam at 28:16/17 is crossed. The text supports that seam: the first person plural stops after *εἰσήλθομεν* (28:16), and 28:17 opens with a new time-marker and a new audience. The crossing is therefore a choice of extent, not a finding against the map. (c) Nothing is claimed about the closing of Acts beyond what 28:17–18 themselves set up.
@@ -51,42 +51,86 @@ NA28 Greek first, with the NASB95 beneath each block. The square brackets in the
 
 ## Headline Findings
 
-1. **Paul tells the Roman Jews about his own trial in the words of Jesus' trial before Pilate.** At 28:18 Paul says the Romans *ἐβούλοντο ἀπολῦσαι διὰ τὸ μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν ἐμοί* ("wished to release me because there was no ground for death in me"). Two ordered-phrase searches of the SBLGNT test this.
-   - **The release wish.** A verb of wishing followed by *ἀπολῦσαι* ("to release") stands in two New Testament verses: Luke 23:20 (Pilate, *θέλων ἀπολῦσαι τὸν Ἰησοῦν*) and Acts 28:18.
-   - **The death clause.** "Ground of death" (*αἰτία* or *αἴτιον θανάτου*) stands in three: Luke 23:22 (Pilate, *οὐδὲν αἴτιον θανάτου εὗρον **ἐν αὐτῷ***), Acts 13:28 (Paul at Pisidian Antioch, of Jesus) and Acts 28:18 (Paul, of himself, *ἐν ἐμοί*).
-   - **A third witness.** Acts 3:13 adds Peter's *κρίναντος ἐκείνου ἀπολύειν* ("when he had decided to release him").
+**Revised in place at v1.1** (25 November 2026) from Acts claim audits 2 and 3 and Logos round 3. *What Changed in v1.1* below governs the tool sections.
 
-   `[T]` on all the data; *high confidence*. As design, `[I]`, *moderate-to-high*: Luke places the governor's verdict on Jesus in Paul's mouth as the verdict on Paul. Surfaced by: Tool 10, Tool 11 Move 4, Tool 2, Tool 8. **Pulpit note:** the ESV renders the formula three different ways ("no guilt deserving death", "no guilt worthy of death", "no reason for the death penalty"), so an ESV congregation cannot hear the echo. The NASB95 at least keeps Acts 13:28 and 28:18 identical ("no ground for putting … to death").
+1. **Paul tells the Roman Jews about his own trial in the words of Jesus' trial before Pilate, and the parallel runs on into the next verse.** `[T]`
+   - **28:18.** Paul says the Romans *ἐβούλοντο ἀπολῦσαι διὰ τὸ μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν ἐμοί*.
+   - **The verbatim partner is Acts 13:28.** There Paul says of Jesus that *μηδεμίαν αἰτίαν θανάτου* was found.
+   - **Luke 23:22** has *οὐδὲν αἴτιον θανάτου … ἐν αὐτῷ* followed by *ἀπολύσω*. *θάνατος* with *ἀπολύω* in one verse stands only at Luke 23:22 and Acts 28:18 (SBLGNT).
+   - **28:19.** "The Jews objected" answers the crowd's response when Pilate offered to release Jesus (Luke 23:18).
+   - **Correction from v1.0.** The claim that a verb of wishing + *ἀπολῦσαι* stands in two New Testament verses holds only when the two words are adjacent. *βούλομαι* with *ἀπολύω* also stands at Mark 15:15 and John 18:39, and the release wish belongs to the whole passion tradition.
+   - **The source is Luke 23:13–22 as a scene**, not 23:20–22 alone.
+   - **Rating.** As an echo of Jesus' trial: **high**, on owned commentaries. Barrett (ICC 2:1239) sets Pilate's findings (Luke 23:4, 15, 22) beside the Roman findings on Paul. Stott (BST 337) calls it a parallel Luke is "at pains to demonstrate". Witherington (797) says there "may be a deliberate echoing". `[S: Barrett; Stott; Witherington; audit 2, A13]` Keener and Peterson take the same view as reported, but they are not owned and are recorded as unverified. **Marshall** (TNTC 443) adds that Paul's statement is "something of a simplification of the earlier account", since the governors made no attempt to release him. That supports Book-Overview Tension 2.
 
-2. **The angel's word in the storm (27:23–24) is the last of four night-words to Paul. It repeats the Lord's word at Corinth almost clause by clause, and Luke now puts it in the mouth of an angel.**
-   - **The four night-words.** In 16:9, 18:9, 23:11 and 27:23 Paul receives divine direction "by night" (*νύξ* stands in each verse, SBLGNT).
-   - **What 27:24 shares with Corinth.** *μὴ φοβοῦ* ("do not be afraid") stands in two Acts verses, 18:9 and 27:24. *μετὰ σοῦ* ("with you") stands in two, 18:10 and 27:24. The Corinth promise *οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε* ("no one will attack you to harm you", 18:10) has its outcome stated at Malta: *ἔπαθεν οὐδὲν κακόν* ("he suffered no harm", 28:5). *οὐδείς/οὐδέν* joined to the *κακ-* root stands in three Acts verses: 18:10, 23:9 (the Pharisees' verdict, "nothing evil in this man") and 28:5 (SBLGNT). In two of them a promise is made and kept, and the third is a verdict on Paul.
-   - **Who speaks.** At 18:9 and 23:11 the speaker is *ὁ κύριος* ("the Lord"); at 27:23 it is *τοῦ θεοῦ … ἄγγελος* ("an angel of God"). This is the last angel in Acts (twenty-one occurrences, SBLGNT), and it comes after the Sadducees' denial that there is any angel (23:8) and the Pharisees' *εἰ δὲ πνεῦμα ἐλάλησεν αὐτῷ ἢ ἄγγελος* ("what if a spirit or an angel has spoken to him?", 23:9). Paul now says one has (*λελάληταί μοι*, 27:25).
+   Surfaced by: Tool 10, Tool 11 Move 4, Tool 2, Tool 8. **Pulpit note:** the ESV renders the formula three different ways, so an ESV congregation cannot hear the echo. Read Luke 23:22 and Acts 13:28 aloud beside 28:18.
 
-   `[T]` on every distribution; *moderate-to-high* that Luke builds 27:23–26 on 18:9–10. Surfaced by: Tool 5, Tool 6, Tool 10, Tool 11 Move 4.
+2. **The angel's word in the storm (27:23–24) is the last of Paul's oracles of assurance, and it gathers up the earlier ones, Jerusalem's above all.** `[T]`
+   - **The pattern.** Paul receives divine words by night at 16:9, 18:9, 23:11 and 27:23. Three of them (18:9–10; 23:11; 27:23–24) have the Old Testament and early Jewish form of the assurance oracle: an admonition, then a reason `[S: Marshall, TNTC 387, 431 ("a confirmation of the earlier revelation in 23:11"; visions "at decisive points", 16:9; 18:9f.; 27:23f.); Parsons, Paideia 356–357; Barrett, ICC 1068, 1201 — all owned; Aune, *Prophecy in Early Christianity* 266–267, ownership to confirm]`.
+   - **What 27:24 takes from 23:11:** the night, the standing figure, and *σε δεῖ*, which in the New Testament stands only at 9:6, 23:11 and 27:24. Rome becomes Caesar.
+   - **What it takes from 18:9:** *μὴ φοβοῦ*.
+   - **The speaker changes.** At 18:9 and 23:11 it is *ὁ κύριος*; at 27:23 it is *τοῦ θεοῦ … ἄγγελος*, the last angel in Acts. That answers the Pharisees' *εἰ δὲ πνεῦμα ἐλάλησεν αὐτῷ ἢ ἄγγελος* (23:9).
+   - **Withdrawn from v1.0.** The claim that 27:23–26 is "built on 18:9–10". *μετὰ σοῦ* at 27:24 ("those sailing with you") is a false friend of 18:10's divine presence. *μὴ φοβοῦ* + *μετὰ σοῦ* is a stock Septuagint formula (nine Swete verses). 23:11 outranks 18:9–10 as a partner `[S: audit 2, A14]`.
+   - **The Luke 1 contact holds on its own data, at moderate–high.** *μὴ φοβοῦ* + a vocative name stands only at Luke 1:13, 1:30 and Acts 27:24. A perfect passive of *λαλέω* for "what has been spoken" stands only at Luke 1:45 and Acts 27:25 `[S: audit 2, A16; Parsons, Paideia 356–357 — Paul's words "echo expressions of faith" in Luke 1:45]`. Barrett (ICC 1201) calls *μὴ φοβοῦ* "characteristic of such visitations" (18:9; Luke 1:13, 30; 2:10; 5:10), so the formula alone is stock and the contact rests on 27:25. It is a specific contact, not evidence of a general Lukan angelophany idiom `[S: audit 3, A30]`.
+   - **Rating.** The recapitulation reading: **moderate–high**.
 
-3. **What God says *must* happen fixes the destination, the people and the form of the wreck. It leaves the means in human hands.**
-   - **The three necessities.** They stand within six verses: Paul's counterfactual *ἔδει* ("you ought to have", 27:21), and the angel's *δεῖ* twice (*Καίσαρί σε δεῖ παραστῆναι*, 27:24; *εἰς νῆσον δέ τινα δεῖ ἡμᾶς ἐκπεσεῖν*, 27:26). Three of Acts' twenty-one impersonal forms (SBLGNT) fall here.
-   - **The feared outcome becomes the necessary one.** *ἐκπίπτω* ("to run aground") is what the crew fear (27:17, 29). God says it must happen (27:26), and the soldiers then let the boat do it (27:32). All four Acts uses outside 12:7 are in this chapter.
-   - **The promise beside the condition.** The unconditional promise *ἀποβολὴ ψυχῆς οὐδεμία ἔσται* ("there will be no loss of life", 27:22) stands beside the conditional *ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ, ὑμεῖς σωθῆναι οὐ δύνασθε* ("unless these remain in the ship, you cannot be saved", 27:31). That conditional is cast in a formula found in only one other New Testament verse: Acts 15:1, *ἐὰν μὴ περιτμηθῆτε … οὐ δύνασθε σωθῆναι* ("unless you are circumcised … you cannot be saved") (SBLGNT, ordered phrase).
+   Surfaced by: Tool 5, Tool 6, Tool 10, Tool 11 Move 4.
 
-   `[T]` on the data; *high confidence* on the promise-and-means shape. The 15:1 contact is `[T]` as data and `[I]`, *low-to-moderate*, as an intended contrast. Surfaced by: Phase 0.6, Tool 4, Tool 7, Tool 10, Tool 11.
+3. **What God says *must* happen fixes the destination, the people and the form of the wreck. It leaves the means in human hands.** `[T]`
+   - **The three necessities** stand within six verses: Paul's counterfactual *ἔδει* (27:21), and the angel's *δεῖ* twice (27:24, 26). Three of Acts' twenty-one impersonal forms (SBLGNT) fall here.
+   - **The feared outcome becomes the necessary one.** *ἐκπίπτω* ("to run aground") is what the crew fear (27:17, 29). God says it must happen (27:26), and the soldiers then let the boat do it (27:32).
+   - **The promise beside the condition.** The unconditional promise (27:22) stands beside the conditional *ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ, ὑμεῖς σωθῆναι οὐ δύνασθε* (27:31). **High** on the promise-and-means shape.
+   - **Corrected from v1.0.** "Unless … you cannot be saved" is New Testament-exclusive to Acts 15:1 and 27:31, but **in different word orders**: 15:1 *οὐ δύνασθε σωθῆναι*; 27:31 *ὑμεῖς σωθῆναι οὐ δύνασθε*. Two-verse exclusive pairs are common in Acts. **Low–moderate**; possible, not shown `[S: audit 2, A15]`.
 
-4. **The salvation words of Acts do physical work here, and the pulpit text levels them.**
-   - **σῴζω ("to save")** stands in thirteen Acts verses; the last two are 27:20 and 27:31.
-   - **διασῴζω ("to bring safely through")** stands in five: 23:24 and then 27:43, 27:44, 28:1 and 28:4.
-   - **σωτηρία** at 27:34 is the last of six in Acts, and the only one plainly about staying alive.
-   - **What comes next.** The book's next salvation word is *τὸ σωτήριον τοῦ θεοῦ* ("this salvation of God", 28:28), its only Acts use, outside the extent. (All counts SBLGNT.)
-   - **Pulpit note.** The ESV turns *σωτηρία* into "strength" (27:34). It renders *διασῴζω* "save", "brought safely" and "escaped" in turn (27:43; 27:44 and 28:1; 28:4), so the chain the narrator builds cannot be heard.
+   Surfaced by: Phase 0.6, Tool 4, Tool 7, Tool 10, Tool 11.
 
-   `[T]` on the distributions, *high*. That Luke means the overlap to be heard is `[I]`, *moderate*: he never states it, and he never separates the senses either. Surfaced by: Tool 7, Tool 8, Tool 10, Tool 11 Move 4.
+4. **The salvation words of Acts do physical work here, and the pulpit text levels them.** `[T]`
+   - **The counts:**
+     - *σῴζω*: thirteen Acts verses, the last two being 27:20 and 27:31.
+     - *διασῴζω*: 23:24; 27:43, 44; 28:1, 4.
+     - *σωτηρία*: 27:34 is the last of six, the only one about staying alive.
+     - The book's next salvation word is *τὸ σωτήριον τοῦ θεοῦ* (28:28).
+   - **The ESV** turns *σωτηρία* into "strength" (27:34), and renders *διασῴζω* in turn as "save", "brought safely" and "escaped".
+   - **Ratings.** The distributions are **high**. That Luke means the overlap to be heard is **moderate**. *(Unchanged at v1.1; lemma chains.)*
 
-5. **The prisoner becomes the ship's pastor, and the meal at the turn of the story has the verbal shape of the Supper.** Paul's warning is overruled at 27:11 (*ἐπείθετο* "was persuaded" by pilot and owner). His second warning is obeyed at once (27:32), and his invitation is followed by all (27:36).
-   - **The verbal shape.** The meal at 27:35 combines *λαβὼν ἄρτον* ("taking bread") + *εὐχαριστ-* ("giving thanks") + *κλάω* ("break"). In Luke–Acts that combination stands only at Luke 22:19 and Acts 27:35. Elsewhere in the New Testament it appears at the feeding of the four thousand and in 1 Cor 11:24; Luke's own feedings and Emmaus use *εὐλογέω* (SBLGNT, ordered phrase).
-   - **What 27:35 does not say.** Paul *gives thanks to God before all* and eats; he does not give the bread to anyone, and there is no "this is my body". The Western-type witnesses tidy that gap: minuscules 614 and 2147, with the Harklean Syriac's marked readings and the Sahidic, add *ἐπιδιδοὺς καὶ ἡμῖν* ("giving to us also").
-   - **Thanksgiving in Acts.** *εὐχαριστέω* ("give thanks") stands in two Acts verses, 27:35 and 28:15: at the bread in the storm and at the sight of the brothers (SBLGNT).
+   Surfaced by: Tool 7, Tool 8, Tool 10, Tool 11 Move 4.
 
-   `[T]` on all the data. The sacramental reading is `[I]` and contested; the tradition's addition shows that early readers felt the pull. Surfaced by: Tool 3, Tool 5, Tool 10, Tool 11, Textual Variants.
+5. **The prisoner becomes the ship's pastor, and the meal at the turn of the story has the verbal shape of the Supper.** `[T]`
+   - **Overruled, then obeyed.** Paul's warning is overruled at 27:11. His second warning is obeyed at once (27:32), and his invitation is followed by all (27:36).
+   - **The Supper's verbs.** *λαβὼν ἄρτον* + *εὐχαριστ-* + *κλάω* stand together in Luke–Acts only at Luke 22:19 and Acts 27:35. Elsewhere in the New Testament they appear at the feeding of the four thousand and at 1 Cor 11:24.
+   - **What Paul does with the bread.** He gives thanks to God before all and eats; he does not give the bread to anyone. The Western-type witnesses (614, 2147, the Harklean marked reading, the Sahidic) add *ἐπιδιδοὺς καὶ ἡμῖν*.
+   - **Thanksgiving.** *εὐχαριστέω* stands in Acts only at 27:35 and 28:15.
+   - The sacramental reading is `[I]` and contested. *(Unchanged at v1.1.)*
+
+   Surfaced by: Tool 3, Tool 5, Tool 10, Tool 11, Textual Variants.
+
+---
+
+## What Changed in v1.1
+
+**Date:** 25 November 2026.
+**Sources:**
+- Acts claim audit 2 (A13–A19);
+- Acts claim audit 3 (A30, A32);
+- Acts Logos round 3 (sections 1, 2, 6, 9, 10).
+
+**This section governs the unrevised tool sections below.**
+
+| Claim (v1.0 location) | v1.0 | v1.1 | Basis |
+|---|---|---|---|
+| Pilate's verdict at 28:18 (Headline 1; Tools 8, 11; Book-Overview Tensions 2; A13) | data high; design moderate–high; source Luke 23:20–22 | **High** as an echo of Jesus' trial, carried into 28:19, on owned commentaries (Barrett ICC; Stott BST; Witherington). Keener and Peterson are not owned (unverified). Marshall (TNTC) calls 28:18 "something of a simplification" of the narrative. Source **Luke 23:13–22 as a scene** (moderate–high). Verbatim partner Acts 13:28. "Two verses" holds only for adjacent words | audit 2; Keener, Witherington, Peterson |
+| Corinth night-word (Headline 2; Tool 5 table; Tool 11 Move 4 item 2; Book-Overview Tensions 3; A14) | moderate–high, "built on 18:9–10" | **Withdrawn as stated (low–moderate).** Reframed: the last oracle of assurance, recapitulating 18:9 with 23:11 — **moderate–high** (owned: Marshall, Parsons, Barrett; Aune to confirm). *μετὰ σοῦ* is a false friend; the Tool 5 table's "with you" row does not hold. **Do not add the Corinth row to the overview.** Add "the night assurances 16:9; 18:9; 23:11; 27:23" | audit 2; Aune |
+| Luke 1 annunciation shape (Tool 11 Move 4 item 4; A16) | moderate | **Moderate–high** as a specific contact. A general Lukan angelophany idiom is low–moderate (Old Testament angelophanies score as high; Acts 10 is closer to Tobit 12 than to Luke 1) | audits 2, 3 |
+| 15:1 formula at 27:31 (Headline 3; Tool 11 Move 4 item 6; A15) | low-to-moderate | **Low–moderate.** The word order differs | audit 2 |
+| *βουλή* set against God's plan (Tool 7; Convergent 5; Biblical Theology; So What; A17) | moderate–high | **Low–moderate.** The distribution is at chance; Luke 23:51 already has a human *βουλή*; ch. 27 uses five planning words. The theme is narrative, not lexical | audit 2 |
+| Jonah 1 (Tool 11; A18) | moderate-to-low | **Low–moderate.** *κουφίζω*: eleven Swete verses, not ten. LSJ shows both words as classical nautical Greek: *ἐκβολή* "jettisoning of cargo" in Aeschylus (*Seven against Thebes* 769) and Aristotle (*Nicomachean Ethics* 1110a9); *κουφίζω* of ships in Thucydides 6.34 and Polybius 20.5.11. The comparison is drawn by some commentators (Thompson, NBBC 409); it is not an allusion | audit 2; Logos round 3 (LSJ) |
+| 1 Sam 14:45 at 27:34 (Tool 11; A19) | low-to-moderate | **Low–moderate.** Operative source Luke 21:18 (moderate–high). Byzantine *πεσεῖται* matches all three Old Testament hair oaths. Dan Th 3:94 **low**; do not use (A32) | audits 2, 3 |
+| Proposed Echo Table rows (Book-Overview Tensions 2–3) | Luke 23 row; Corinth row | **Luke 23 row at high** (28:18 ← Acts 13:28 / Luke 23:13–22, into 28:19). **No Corinth row** | as above |
+
+**Two points stand as written in v1.0:**
+- the salvation chain and its ESV levelling;
+- the meal data and the 27:35 Western addition.
+
+**The library.** BDAG and Moulton–Milligan do not appear in the Exegetical Guide's lexicon lists. **Ownership checked on 25 November against Patrick's Acts collection:** Barrett (ICC), Marshall (TNTC), Parsons (Paideia), Stott (BST), Witherington and Pelikan are owned; Keener, Peterson and Bock (BECNT) are not. Aune and Thompson (NBBC) are not in the Acts collection, and their ownership is still to be confirmed. BDAG is not in Logos (Patrick has it as a PDF).
 
 ---
 

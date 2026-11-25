@@ -3,7 +3,7 @@
 **Primary texts:** SBLGNT with MorphGNT parsing (observation layer: reading, counting, lemma and collocation work); **NA28 from the Logos export — the text of record for every reading and variant cited**; NA28 apparatus (Logos RTF export, whole book); Swete's Greek Old Testament (observation layer for Greek OT searching); **Rahlfs 1979 from the Logos exports — the Greek Old Testament text of record**; Westminster Leningrad Codex for the Hebrew behind the citations
 **Study text:** NASB95
 **Pulpit text:** ESV (Anglicised) — his own church
-**Date:** 19 November 2026
+**Date:** 19 November 2026 · **Version:** 1.1 (25 November 2026 — revised from Acts claim audits 2–3 and Logos round 3; see *What Changed in v1.1*)
 **Book-overview context:** Referenced from prior work — `Acts/book-overview-acts.md` **v2.5**, in which this unit is **⭐ HIGH** and the first of the nine starred units without a solo run
 **Series context:** Sixth solo dig under the finalised Acts overview, and the earliest unit in the book yet worked at solo depth. Neighbouring material already worked: 2:1–41, 1:1–11 (both M1), and the Stephen complex is reached from the other side by the 21:37–23:11 run, whose eleven Move-4 rows into chapters 6–8 are consumed here rather than re-derived.
 
@@ -289,17 +289,88 @@ NA28 above, NASB95 beneath. Where the ESV diverges in a way that bears on a find
 
 ## Headline Findings
 
-The exegetically strongest claims that emerged across multiple tools.
+The exegetically strongest claims that emerged across multiple tools. **Revised in place at v1.1** (25 November 2026) from Acts claim audits 2 and 3 and Logos round 3. The v1.0 wording is preserved in the backup; what changed and why is set out in *What Changed in v1.1* below.
 
-1. **The charge says "this place", and Stephen's first quotation puts "this place" into God's mouth by changing Scripture's "this mountain".** `[T]` At 7:7 he splices Exodus 3:12 onto the end of Genesis 15:14 and alters one word: Exodus says *καὶ λατρεύσετε τῷ θεῷ **ἐν τῷ ὄρει τούτῳ*** ("and you shall serve God on this mountain" — identical in Swete and in Rahlfs 1979), and Stephen says *καὶ λατρεύσουσίν μοι **ἐν τῷ τόπῳ τούτῳ*** ("and they shall serve me in this place"). The council has twice said *ὁ τόπος οὗτος* of the temple (6:13, 6:14); the one place Stephen quotes Scripture calling holy is a hillside in Midian (7:33, taking Exodus 3:5 almost verbatim). Surfaced by: Phase 0.6, Tool 7, Tool 10, Tool 11 (Moves 1 and 4). **This is the hinge of the whole speech**, and it is the answer to why the speech begins where it does.
+1. **Stephen's opening paraphrase of Genesis 15 brings in wording from three other texts, and the third turns Scripture's "this mountain" into "this place".** `[T]`
+   - **7:5.** *οὐδὲ βῆμα ποδός* with a negated *δίδωμι*, a string found once in the Greek Old Testament (Deut 2:5, of Edom's land) and once in the New. `[S: audit 2, A1 — moderate–high; wording high]`
+   - **7:6.** Stephen replaces Gen 15:13's *ἐν γῇ οὐκ ἰδίᾳ* with *πάροικον ἐν γῇ ἀλλοτρίᾳ*. *πάροικος* with *γῇ ἀλλοτρίᾳ* stands in Swete and in Rahlfs 1979 only at Exod 2:22 and 18:3, where Moses names Gershom, and Stephen returns to that moment at 7:29. `[S: audit 3, A20 — moderate–high; no history of interpretation found]`
+   - **7:7.** Exod 3:12 is spliced onto Gen 15:14, and *ἐν τῷ ὄρει τούτῳ* becomes *ἐν τῷ τόπῳ τούτῳ*. Splice and substitution **high**.
 
-2. **One verb of compulsory resettlement brackets the speech, and it occurs twice in the New Testament — both times here.** `[T]` *μετοικίζω* ("to remove, resettle") stands at 7:4, where God moves Abraham into the land, and at 7:43, where God says *μετοικιῶ ὑμᾶς ἐπέκεινα Βαβυλῶνος* ("I will remove you beyond Babylon") — and the second is lifted out of the Amos citation, whose own wording Stephen then alters from Damascus to Babylon. Surfaced by: Tools 3, 10, 11. The speech's frame is God moving a landless man in and a settled people out, in one word.
+   The substitution has two hooks in texts Stephen is using. The Greek of Gen 15:14 adds *ὧδε* ("here"), and Exod 3:5, quoted at 7:33, already calls the mountain *ὁ τόπος*. So "this place" answers the charge's *ὁ τόπος οὗτος* (6:13–14). The reading is **moderate** `[S: audit 2, A3]`.
 
-3. **Luke's ordinary word for the temple never appears in the unit about the temple.** `[T]` *ἱερόν* stands in twenty-four verses of Acts — twelve of them in chapters 2–5, immediately before this unit, and ten from 21:26 onwards — and in none of the sixty-eight verses of 6:8–7:60. *ναός* is used twice in Acts and never of the Jerusalem temple. Stephen speaks of it instead with four other words: *τόπος*, *σκηνή*, *σκήνωμα* (its only occurrence in Acts, and the psalm's word) and *οἶκος*. Surfaced by: Tool 7, Tool 10, Tool 11 (pattern-break absence, with the pattern cited).
+   v1.0 called this "the hinge of the whole speech". That overstated it. *τόπος* stands only three times in the speech itself (7:7, 33, 49), two of them inside quotations, and it clusters no more than chance would give `[S: audit 3, A26]`. The finding is the run of three splices in three verses, not a *τόπος* thread.
 
-4. **Stephen is introduced in the vocabulary Peter used of Jesus, and he then gives it to Moses.** `[T]` *δύναμις* ("power"), *τέρας* ("wonder") and *σημεῖον* ("sign") stand together in exactly two verses of Acts — 2:22, of Jesus, and **6:8, of Stephen** — and at 7:36 Moses does *τέρατα καὶ σημεῖα*, in the wonders-first order Acts uses only four times. Alongside this, *σοφία* ("wisdom") occurs **four times in the whole of Acts and all four are in this unit's complex**: the Seven's qualification (6:3), the wisdom Stephen's opponents cannot withstand (6:10), Joseph's before Pharaoh (7:10), Moses' in Egypt (7:22). Surfaced by: Tools 1, 7, 10, Tool 11 (Move 4).
+   Surfaced by: Phase 0.6, Tool 7, Tool 11 (Moves 1 and 4); audits 2–3.
 
-5. **Stephen stands inside Israel for the whole speech, and steps outside it exactly twice — and the first time is about the land.** `[T]` In his own voice (that is, excluding the pronouns inside his quotations) he says "our/us" eleven times and "you" three: at **7:4**, *εἰς τὴν γῆν ταύτην εἰς ἣν **ὑμεῖς** νῦν κατοικεῖτε* ("into this land in which **you** now dwell"), and then at **7:51 and 7:52**, in the indictment. The one thing the man accused of speaking against the place will not say "we" about, before the indictment, is the place. Surfaced by: Tools 4, 7, 9, 16.
+2. **One verb of compulsory resettlement brackets the speech, and it occurs twice in the New Testament — both times here.** `[T]` *μετοικίζω* ("to remove, resettle") stands at 7:4, where God moves Abraham into the land, and at 7:43, where God says *μετοικιῶ ὑμᾶς ἐπέκεινα Βαβυλῶνος* ("I will remove you beyond Babylon"). The second is lifted out of the Amos citation, whose own wording Stephen then alters from Damascus to Babylon. Surfaced by: Tools 3, 10, 11. The speech's frame is God moving a landless man in and a settled people out, in one word. *(Unchanged at v1.1; not audited — a lemma chain.)*
+
+3. **Isaiah's question (7:49–50) is set against the Davidic–Solomonic temple tradition, not against Psalm 132 alone.** `[T]`
+   - **7:46 and Ps 131:5.** 7:46 echoes Ps 131:5 (Greek), *εὑρεῖν σκήνωμα*. The echo is verbatim only on the SBLGNT's *θεῷ Ἰακώβ*. **NA28 prints *οἴκῳ Ἰακώβ***, with 𝔓⁷⁴, the first hand of Sinaiticus, B and D, the harder reading. `[S: Comfort, NTTTC 360; Westcott–Hort, Appendix 92]`
+   - **7:48–49 and Ps 131:14.** These verses set *κατοικέω* beside the noun *κατάπαυσις*. In Swete the two stand together only at Ps 131:14 ("here I will dwell"). `[S: audit 3, A33]`
+   - **Isa 57:15** (*ὁ ὕψιστος … κατοικῶν*) shares two of 7:48's three content words.
+   - **The dedication tradition.** The fullest Old Testament form of the sequence David → Solomon → "will God indeed dwell?" is 1 Kgs 8 // 2 Chr 6, and 2 Chr 6:41–42 itself quotes Ps 132. `[S: Walton, citing Sylva; audit 3, A23 — moderate]`
+   - ***χειροποίητος* with *κατοικέω*** stands in the New Testament only at 7:48 and 17:24. In the Greek Old Testament *χειροποίητος* is used of idols, and once of Moab's sanctuary (Isa 16:12). `[S: audit 3, A31 — moderate–high]`
+
+   Two readings of the speech's stance are on record: transcendence, which does not reject Solomon's temple (Walton, Sylva), and critique (Beale, NSBT 17; Squires, ECB). **Moderate.**
+
+   *v1.0's Headline 3, the absence of ἱερόν, is withdrawn.* Its counts were wrong. *ἱερόν* stands in 24 Acts verses: twelve in chs 2–5, one at 19:27 (Artemis) and eleven from 21:26. The word is absent from 5:42 to 19:27, so its absence here is one part of an ordinary gap `[S: audit 2, A8; audit 3, A26]`.
+
+   Surfaced by: Tool 11 (Moves 1–3), Textual Variants; audits 2–3; Logos round 3.
+
+4. **Stephen is introduced with the rare order "wonders and signs", which Luke set when he added "signs" to Joel at 2:19.** `[T]`
+   - **How rare it is.** In the Greek Bible "wonders and signs" stands in six verses: five in Acts 2–7 (2:19, split across clauses; 2:22; 2:43; 6:8; 7:36) and Wis 10:16, of Moses. Elsewhere the New Testament has "signs and wonders" seven times out of seven, and Swete has it in 29 verses.
+   - **Acts alternates.** The order is not confined to one stretch. 4:30, 5:12, 14:3 and 15:12 have "signs and wonders", a chain that begins with the church's prayer.
+   - **The order does not track the agent.** The apostles are given both orders (2:43 against 5:12).
+   - **Its meaning is moderate**, and three readings are on record: Luke's sources (Longenecker, EBC 9:317), typology (Rengstorf, TDNT) and no significance (Remus, AYBD 4:857). `[S: audit 3, A25]`
+   - **The triad.** *δύναμις* + *τέρας* + *σημεῖον* at 2:22 and 6:8 is a stock formula, and at 6:8 *δύναμις* is Stephen's endowment, not a deed. **Low–moderate.** `[S: audit 2, A6]`
+   - ***σοφία*** occurs four times in Acts, all in this complex (6:3, 10; 7:10, 22). This stands as a verified lemma chain.
+
+   Surfaced by: Tools 1, 7, 10, Tool 11 (Move 4); audits 2–3.
+
+5. **Stephen stands inside Israel for the whole speech, and steps outside it exactly twice — and the first time is about the land.** `[T]` In his own voice (that is, excluding the pronouns inside his quotations) he says "our/us" eleven times and "you" three.
+   - The first "you" is at **7:4**: *εἰς τὴν γῆν ταύτην εἰς ἣν **ὑμεῖς** νῦν κατοικεῖτε* ("into this land in which **you** now dwell").
+   - The other two are at **7:51 and 7:52**, in the indictment.
+
+   Before the indictment, the one thing the man accused of speaking against the place will not say "we" about is the place. Surfaced by: Tools 4, 7, 9, 16. *(Unchanged at v1.1; not audited.)*
+
+---
+
+## What Changed in v1.1
+
+**Date:** 25 November 2026.
+**Sources:**
+- Acts claim audit 2 (A0–A19);
+- Acts claim audit 3 (A20–A32, with its Amos 9:11 addendum);
+- Acts Logos round 3 (sections 3, 4, 5, 7, 8).
+
+**This section governs the unrevised tool sections below.** Where a tool section says something that this table corrects, the table stands.
+
+| Claim (v1.0 location) | v1.0 | v1.1 | Basis |
+|---|---|---|---|
+| Deut 2:5 at 7:5 (Tool 11; A1) | moderate–high | **moderate–high; wording high.** The negated *δίδωμι* is shared too; the "Edom" overtone is interpretation; 7:5 also splices Gen 17:8 / 48:4 | audit 2 |
+| Exod 2:22 / 18:3 at 7:6 (new; A20) | — | **moderate–high**, added to Headline 1. Heb 11:9 has *παροικέω* + *ἀλλοτρίαν*; 7:29 blends Exod 2:15, 2:22 and 18:3. No commentator found (Childs, OTL Exodus 35, is adjacent only) | audit 3; Logos round 3 |
+| Exod 3:12 splice at 7:7 (Headline 1; A3) | "the hinge of the whole speech" | **Splice high; reading moderate.** Add Exod 3:5 and the Greek *ὧδε* of Gen 15:14 | audit 2 |
+| *τόπος* as the speech's temple word (Tool 7, Tool 10; A26) | implied thread | **Low–moderate.** Three uses in the speech, two in quotations; clustering at chance | audit 3 |
+| Absence of *ἱερόν* (Headline 3; Tool 7; Convergent 6; A8) | moderate (absence) | **Withdrawn.** 24 verses = 12 (chs 2–5) + 19:27 + 11 from 21:26; the word is absent 5:42–19:27. *The SBLGNT index files ἱερόν under ἱερός* — a lemma search for *ἱερόν* returns a silent zero | audits 2, 3 |
+| Ps 132 set against Isa 66 (Tool 11 Move 3; A2, A21) | moderate–high | **Moderate**, as Isaiah against the Davidic–Solomonic tradition. The Hebrew three-noun contact is real, but Ps 132 is Isa 66's weakest such partner. The Greek datum (*τόπος* + *κατάπαυσις* + *πούς*, only Ps 131 and Isa 66) is the better one | audits 2, 3 |
+| 1 Chr 28:2 as target (A22) | — | **Low–moderate; not used.** The contact vanishes in Greek | audit 3 |
+| 1 Kgs 8:27 at 7:48 (A23, A33, A34, A37) | — | **Moderate**, as the dedication tradition (1 Kgs 8 // 2 Chr 6). The verbal partners are Ps 131:14 (*κατάπαυσις* + *κατοικέω*) and Isa 57:15 | audit 3; Walton citing Sylva |
+| *χειροποίητος* + *κατοικέω* (Book-Overview Tensions 3; A31) | proposed row | **Moderate–high.** Add Isa 16:12 (a sanctuary) and Isa 42:5 behind 17:24–25 | audit 3 |
+| The variant at 7:46 (Textual Variants) | — | **NA28 *οἴκῳ*; SBLGNT *θεῷ*.** Every "verbatim" statement about Ps 131:5 must name its edition. The argument of 7:46–50 stands under either reading | audit 2; Logos round 3 |
+| 2:22 triad at 6:8 (Headline 4; A6) | high / moderate–high | **Triad low–moderate; the order "wonders and signs" moderate** (rare, but alternating; the apostles have both orders; Wis 10:16 of Moses) | audits 2, 3; Logos round 3 |
+| Luke 11:47–51 at 7:52 (Book-Overview Tensions 2; A4, A5) | high / moderate | **Oracle-level moderate–high**, with Luke 13:33–34. Add 8:1 (*συνευδοκῶν*) and Luke 11:50's blood "poured out" → 22:20 | audit 2 |
+| Deut 33:2–3 at 7:38, 53 (Tool 11; A7, A24) | moderate | **Moderate.** Deut 33:2 is the only Swete verse with angels at Sinai. Add 33:3 *ἐδέξατο … λόγων*, and Deut 18:16 ("the day of the assembly") behind *ἐν τῇ ἐκκλησίᾳ* at 7:38 | audits 2, 3 |
+| Joseph as the speech's own type (Christological Reading; A9) | moderate | **Low–moderate.** Joseph is the first member of a rejected-deliverer series. Moses (7:25, 35, 37) is its full instance. Nothing in 7:9–16 calls Joseph a saviour | audit 2 |
+| Joshua and rest with Heb 4:8 (Tool 11; A10) | moderate | **Low–moderate** | audit 2 |
+| *καθίστημι* thread (Tool 10; A11) | moderate (design) | **Design low–moderate.** Three of the four uses come from the sources. Luke 12:14 echoes Exod 2:14, moderate (A28); the Byzantine text reads *δικαστήν* there | audits 2, 3 |
+| *διαπρίομαι* contrast (Tool 10; A12, A29) | moderate–high | **Moderate–high**, with 2:37 as a three-member response series, moderate. 7:54 has *Ἀκούοντες* (present); 5:33 has no *καρδία* | audits 2, 3 |
+| Amos *σκηνή* row (Book-Overview Tensions 8; A0, A27) | moderate `[S: sweep]` | **Low–moderate** as a design: two citations of the Twelve under one formula. At 15:16 Luke writes *ἀνορθώσω*, which is absent from Amos 9:11 in Swete, in Rahlfs 1979 and in every witness Swete collates. In the Greek Old Testament it is Nathan's oracle's verb (2 Sam 7:13, 16; 1 Chr 17:12, 14, 24; 22:10), so the "tent of David" there is the dynasty (moderate–high, A42) | audits 2, 3 + addendum |
+| Book-Overview Tensions 9 and the Claim-audit queue (below) | twelve unaudited candidates | **All audited.** The current ratings are in the Acts queue file; new candidates A33–A44 are queued there | — |
+
+**Warrant counts.** The Text-First Declaration's counts describe v1.0. The revised headlines add `[S: audit]` and `[S: Logos]` tags on purpose: those claims now rest on tested verdicts, not on this run alone.
+
+**Not changed.** Headlines 2 and 5 and everything not named above.
+
 
 ---
 
@@ -1379,6 +1450,8 @@ Surfaced, not resolved. **Nine items; three are new rows, four are amendments, a
 ---
 
 ## Claim-audit queue
+
+**v1.1 note:** every candidate below has now been audited (Acts claim audits 2 and 3, 25 November 2026). The verdicts are summarised in *What Changed in v1.1*; the table below is kept as the v1.0 record.
 
 **Acts has no queue file.** One should be created (`claude/claim-audit-queue-acts.md`), on the pattern of the Ruth, Job and Lamentations files. **Candidates from this run, none yet audited:**
 
